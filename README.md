@@ -5,5 +5,8 @@ I use this to generate JSON lists for my custom Kodi plugin to use so I can watc
 
 I've also created an HTML5 based "HbbTV" compatible UI for use on my smart TV as a web app, as the actuall MSDN CH9 website is not "HbbTV" or TV remote control friendly, again the UI gets it's data from these JSON Lists rather than trying to grab it in real time.
 
-#NOTE
+# NOTE
 This does NOT YET do updates, so you can't point it at an existing set of JSON files and bring them up to the latest version, this is something I'm going to add eventually, but like most pet projects it's very much going to be when I get around to it.
+
+
+The project was built using Visual Studio 2019 Community Edition Preview with Dotnet Core V3 preview release 6.
