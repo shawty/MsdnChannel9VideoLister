@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "8467f045-d089-4624-bb37-a1740148bd52",
+    "DataApi": "/Entries(guid'8467f045-d089-4624-bb37-a1740148bd52')/",
+    "VideoPageLink": "/Series/Three-Essential-Tips-for-Async/Tip-1-Async-void-is-for-top-level-event-handlers-only",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ae1/50de24d7-5456-4c71-b690-ce6290601ae1/TipsForAsyncVoidForEventHandlers_512.jpg",
+    "ShowName": "Six Essential Tips for Async",
+    "VideoLength": "00:20:37",
+    "VideoTitle": "Tip 1: Async void is for top-level event-handlers only ",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2013-03-12T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ae1/50de24d7-5456-4c71-b690-ce6290601ae1/TipsForAsyncVoidForEventHandlers_mid.mp4",
+    "Description": "Async Tip #1: Async void is for top-level event-handlers only, and event-like things. Don't use it elsewhere in your code. Slides are available on Lucian's blog. Async void is a &quot;fire-and-forget&"
+  },
+  {
+    "VideoId": "b39828db-4484-4695-9ed4-a1740148e1e1",
+    "DataApi": "/Entries(guid'b39828db-4484-4695-9ed4-a1740148e1e1')/",
+    "VideoPageLink": "/Series/Three-Essential-Tips-for-Async/Tip-2-Distinguish-CPU-Bound-work-from-IO-bound-work",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a326/026bc1ed-d53b-433c-afa7-05ee48aba326/TipsForAsyncThreadsAndDatabinding_512.jpg",
+    "ShowName": "Six Essential Tips for Async",
+    "VideoLength": "00:16:06",
+    "VideoTitle": "Tip 2: Distinguish CPU-Bound work from IO-bound work",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2013-03-12T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a326/026bc1ed-d53b-433c-afa7-05ee48aba326/TipsForAsyncThreadsAndDatabinding_mid.mp4",
+    "Description": "Async Tip #2: It's crucial to distinguish CPU-bound work (should be done on threadpool) from IO-bound work (which needn't). You can download slides for this talk from Lucian's blog. I remember reading"
+  },
+  {
+    "VideoId": "4ed85659-3972-4965-9f26-a1740149068c",
+    "DataApi": "/Entries(guid'4ed85659-3972-4965-9f26-a1740149068c')/",
+    "VideoPageLink": "/Series/Three-Essential-Tips-for-Async/Lucian03-TipsForAsyncThreadsAndDatabinding",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c4d6/9fb64e01-b7bb-4a0d-a144-b8e4fd3cc4d6/TipsforAsyncOverEvents_512.jpg",
+    "ShowName": "Six Essential Tips for Async",
+    "VideoLength": "00:15:32",
+    "VideoTitle": "Tip 3: Wrap events up in Task-returning APIs and await them",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2013-03-12T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c4d6/9fb64e01-b7bb-4a0d-a144-b8e4fd3cc4d6/TipsforAsyncOverEvents_mid.mp4",
+    "Description": "Async Tip #3: You can wrap events up in Task-returning APIs and await them. This can dramatically simplify code. Slides and source code are available on Lucian's blog. This video introduces a new patt"
+  },
+  {
+    "VideoId": "5f72dc9e-70e0-40b8-bac6-a2b50165a23a",
+    "DataApi": "/Entries(guid'5f72dc9e-70e0-40b8-bac6-a2b50165a23a')/",
+    "VideoPageLink": "/Series/Three-Essential-Tips-for-Async/Async-Library-Methods-Shouldn-t-Lie",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5aea/03993720-4154-4e36-9817-775e12725aea/TipsforAsyncLibraryMethodsShouldntLie_960.jpg",
+    "ShowName": "Six Essential Tips for Async",
+    "VideoLength": "00:16:25",
+    "VideoTitle": "Tip 4: Async Library Methods Shouldn't Lie",
+    "Author": "Lucian Wischik",
+    "UtcDateTimePublished": "2014-02-07T02:15:38.7252975Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5aea/03993720-4154-4e36-9817-775e12725aea/TipsforAsyncLibraryMethodsShouldntLie_mid.mp4",
+    "Description": "Libraries shouldn't lie. That's not why they're called &quot;lie-braries&quot;... The threadpool is an app-global resource, so you should leave the callers of your library to decide how and when they "
+  },
+  {
+    "VideoId": "9156f92b-1189-4d4b-92cc-a2b501664613",
+    "DataApi": "/Entries(guid'9156f92b-1189-4d4b-92cc-a2b501664613')/",
+    "VideoPageLink": "/Series/Three-Essential-Tips-for-Async/Async-libraries-APIs-should-be-chunky",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c149/df6e735a-ccfe-44e1-805f-096e59aac149/TipsforAsyncUseChunkyAPIs_960.jpg",
+    "ShowName": "Six Essential Tips for Async",
+    "VideoLength": "00:14:39",
+    "VideoTitle": "Tip 5: Async libraries APIs should be chunky",
+    "Author": "Lucian Wischik",
+    "UtcDateTimePublished": "2014-02-07T02:16:24.4743742Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c149/df6e735a-ccfe-44e1-805f-096e59aac149/TipsforAsyncUseChunkyAPIs_mid.mp4",
+    "Description": "5. Libraries should have chunky async APIs. But if you can't achieve that, there's a micro-optimization you can use for async methods based around the fast-path which can reduce or eliminate the heap "
+  },
+  {
+    "VideoId": "a9266e15-e310-41a1-baf3-a2b50167113a",
+    "DataApi": "/Entries(guid'a9266e15-e310-41a1-baf3-a2b50167113a')/",
+    "VideoPageLink": "/Series/Three-Essential-Tips-for-Async/Async-library-methods-should-consider-using-Task-ConfigureAwait-false-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6730/0ea08978-bffe-44cc-abe3-2ee4e4146730/TipsForAsyncUseConfigureAwaitfalse_960.jpg",
+    "ShowName": "Six Essential Tips for Async",
+    "VideoLength": "00:05:28",
+    "VideoTitle": "Tip 6: Async library methods should consider using Task.ConfigureAwait(false)",
+    "Author": "Lucian Wischik",
+    "UtcDateTimePublished": "2014-02-07T17:13:09.7627727Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6730/0ea08978-bffe-44cc-abe3-2ee4e4146730/TipsForAsyncUseConfigureAwaitfalse_mid.mp4",
+    "Description": "6. Libraries should consider Task.ConfigureAwait(false). This is another micro-optimization you can use to reduce your methods' impact on the UI thread. Consider this if your library routine might be "
+  }
+]

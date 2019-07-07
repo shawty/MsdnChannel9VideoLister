@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "22447502-98b3-46e5-8fae-a49f010b88c4",
+    "DataApi": "/Entries(guid'22447502-98b3-46e5-8fae-a49f010b88c4')/",
+    "VideoPageLink": "/Blogs/Plankytronixx/Azure-WebsitesWebApps-SSL-step-by-step-click-by-click-instructions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a0ec/45eebcf5-f946-44d9-850f-98c423b2a0ec/AzureWebSitesWebAppsSSLstepbystepclickbyclick_960.jpg",
+    "ShowName": "Plankytronixx",
+    "VideoLength": "00:19:22",
+    "VideoTitle": "Azure Websites/WebApps SSL: step-by-step, click-by-click instructions.",
+    "Author": "Planky",
+    "UtcDateTimePublished": "2015-05-22T07:48:58.5309301Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a0ec/45eebcf5-f946-44d9-850f-98c423b2a0ec/AzureWebSitesWebAppsSSLstepbystepclickbyclick_mid.mp4",
+    "Description": "This has come up a lot recently and I've wanted to send people to one place so they can get everything they need from one place if they want to set up SSL on an Azure website. Almost all the demos use"
+  }
+]

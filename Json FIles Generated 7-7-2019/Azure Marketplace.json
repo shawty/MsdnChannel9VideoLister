@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "bf5faba5-e88c-4a6a-ad82-a5c6015e726e",
+    "DataApi": "/Entries(guid'bf5faba5-e88c-4a6a-ad82-a5c6015e726e')/",
+    "VideoPageLink": "/Series/AzureMarketplace/Deploy-GitLab-from-Azure-Marketplace",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/49dc/794cc968-ad7d-42ad-8693-5f7d4d8149dc/AzureMP_960.jpg",
+    "ShowName": "Azure Marketplace",
+    "VideoLength": "00:04:54",
+    "VideoTitle": "Deploy GitLab from Azure Marketplace",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-11T21:56:52.8888936Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/49dc/794cc968-ad7d-42ad-8693-5f7d4d8149dc/AzureMP_mid.mp4",
+    "Description": "What is GitLab? It's a self-hosted Git management platform and open-source Continuous Integration (CI) server. You can also perform code reviews and collaborate with merge requests, it also includes a"
+  },
+  {
+    "VideoId": "21cf85f1-dea1-41e3-8044-a5d1011f1594",
+    "DataApi": "/Entries(guid'21cf85f1-dea1-41e3-8044-a5d1011f1594')/",
+    "VideoPageLink": "/Series/AzureMarketplace/How-to-deploy-and-use-MySQL",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/85ce/85d1dc4a-608f-4df6-9f74-65ab444085ce/DeployingMySQLfromAzureMarketplace_960.jpg",
+    "ShowName": "Azure Marketplace",
+    "VideoLength": "00:04:25",
+    "VideoTitle": "How to deploy and use MySQL",
+    "Author": "Marc Gagne",
+    "UtcDateTimePublished": "2016-03-22T17:52:06.1778358Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/85ce/85d1dc4a-608f-4df6-9f74-65ab444085ce/DeployingMySQLfromAzureMarketplace_mid.mp4",
+    "Description": "In this video you will learn how to deploy MySQL in minutes from the Azure Marketplace. MySQL is a popular open source relational database especially for those building on the LAMP stack. For detailed"
+  }
+]

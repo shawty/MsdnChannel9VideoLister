@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "80374db9-3853-46d9-abfa-a4d0011e80c9",
+    "DataApi": "/Entries(guid'80374db9-3853-46d9-abfa-a4d0011e80c9')/",
+    "VideoPageLink": "/Blogs/Partner-Videos/JoyBits",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e54e/bdcb3bd2-105b-4b02-98df-17de0dd9e54e/JoyBits_960.jpg",
+    "ShowName": "Partner Videos",
+    "VideoLength": "00:01:21",
+    "VideoTitle": "JoyBits",
+    "Author": "davemen",
+    "UtcDateTimePublished": "2015-07-09T18:20:40.2511544Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e54e/bdcb3bd2-105b-4b02-98df-17de0dd9e54e/JoyBits_mid.mp4",
+    "Description": "This is a video about JoyBits use of Windows 10 and how they are adopting it across Windows and Xbox One. "
+  }
+]

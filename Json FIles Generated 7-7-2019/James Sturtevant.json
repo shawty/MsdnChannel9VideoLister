@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "24c002b9-14a3-4444-8f06-a5bd0104fd08",
+    "DataApi": "/Entries(guid'24c002b9-14a3-4444-8f06-a5bd0104fd08')/",
+    "VideoPageLink": "/Blogs/jsturtevant/Azure-SQL-Temporal-Tables-with-RockStep-Solutions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ce58/51ce7342-dd6e-4a7d-9af0-74abc767ce58/azuresqltemporaltables_960.jpg",
+    "ShowName": "James Sturtevant",
+    "VideoLength": "00:16:14",
+    "VideoTitle": "Azure SQL Temporal Tables with RockStep Solutions",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2016-03-02T18:54:02.4836781Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ce58/51ce7342-dd6e-4a7d-9af0-74abc767ce58/azuresqltemporaltables_mid.mp4",
+    "Description": "Join [RockStep Solutions](http://rockstepsolutions.com/) as they talk about how they used [Azure SQL Temporal Tables](https://azure.microsoft.com/en-us/updates/preview-temporal-tables-in-azure-sql-dat"
+  },
+  {
+    "VideoId": "0f8e72a4-d826-4b39-9dd9-a5a700f65aad",
+    "DataApi": "/Entries(guid'0f8e72a4-d826-4b39-9dd9-a5a700f65aad')/",
+    "VideoPageLink": "/Blogs/jsturtevant/Configuring-GitHub-Continuous-Deployment-on-Azure-with-Project-Oxford-Application",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ea0e/b257b77d-d9a8-49f6-afd8-0b0d64eeea0e/projectoxfordazuredeploy_960.jpg",
+    "ShowName": "James Sturtevant",
+    "VideoLength": "00:08:05",
+    "VideoTitle": "Configuring GitHub Continuous Deployment on Azure with Project Oxford Application ",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2016-02-09T15:45:01.4981041Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ea0e/b257b77d-d9a8-49f6-afd8-0b0d64eeea0e/projectoxfordazuredeploy_mid.mp4",
+    "Description": "This is a part of three video series.  The other videos are Introduction to Project Oxford Machine Learning API's and How to set up  your local local Python environment for testing. Get Started creati"
+  },
+  {
+    "VideoId": "24d64a9d-b78d-424a-8562-a5a200dd36a6",
+    "DataApi": "/Entries(guid'24d64a9d-b78d-424a-8562-a5a200dd36a6')/",
+    "VideoPageLink": "/Blogs/jsturtevant/Setting-up-Project-Oxford-for-Python-on-Windows",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a40b/9fff2c74-b8bc-4416-bedb-ed04cbe5a40b/projectoxfordwindowspart2_960.jpg",
+    "ShowName": "James Sturtevant",
+    "VideoLength": "00:10:16",
+    "VideoTitle": "Setting up Project Oxford for Python on Windows",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2016-02-09T15:25:28.955736Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a40b/9fff2c74-b8bc-4416-bedb-ed04cbe5a40b/projectoxfordwindowspart2_mid.mp4",
+    "Description": "This is a part of three video series.  The other videos are Introduction to Project Oxford Machine Learning API's and Configuring GitHub Continuous Deployment on Azure with Project Oxford Application."
+  },
+  {
+    "VideoId": "0f5422e4-71c7-4505-beda-a5a1012ecdbd",
+    "DataApi": "/Entries(guid'0f5422e4-71c7-4505-beda-a5a1012ecdbd')/",
+    "VideoPageLink": "/Blogs/jsturtevant/Introduction-to-Project-Oxford-Machine-Learning-APIs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/88b7/30693fe5-87ba-4d06-aa23-42c97ef388b7/projectoxfordintropart1_960.jpg",
+    "ShowName": "James Sturtevant",
+    "VideoLength": "00:07:44",
+    "VideoTitle": "Introduction to Project Oxford Machine Learning API's",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2016-02-09T15:25:11.6262823Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/88b7/30693fe5-87ba-4d06-aa23-42c97ef388b7/projectoxfordintropart1_mid.mp4",
+    "Description": "This is a part of three video series.  The other videos are How to set up  your local local Python environment for testing and Configuring GitHub Continuous Deployment on Azure with Project Oxford App"
+  }
+]

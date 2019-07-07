@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "13fd9ba9-9b92-4e4f-acba-9e85016efb3a",
+    "DataApi": "/Entries(guid'13fd9ba9-9b92-4e4f-acba-9e85016efb3a')/",
+    "VideoPageLink": "/Series/C9-Lectures-Yuri-Gurevich-Introduction-to-Algorithms-and-Computational-Complexity/C9-Lectures-Yuri-Gurevich-Introduction-to-Algorithms-and-Computational-Complexity-2-of-n",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/FB3A/13FD9BA9-9B92-4E4F-ACBA-9E85016EFB3A/C9LecturesYuriGurevichAlgorithmsP2_512_ch9.jpg",
+    "ShowName": "C9 Lectures: Yuri Gurevich - Introduction to Algorithms and Computational Complexity",
+    "VideoLength": "00:59:56",
+    "VideoTitle": "C9 Lectures: Yuri Gurevich - Introduction to Algorithms and Computational Complexity, 2 of n",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-02-16T17:29:56Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/FB3A/13FD9BA9-9B92-4E4F-ACBA-9E85016EFB3A/C9LecturesYuriGurevichAlgorithmsP2_low_ch9.mp4",
+    "Description": "Yuri Gurevich is back on C9!!  Yuri is a logician, computer scientist and inventor of abstract state machines. He currently works at Microsoft Research (he's a member of Wolfram Schulte's RiSE team). "
+  },
+  {
+    "VideoId": "45bf25f1-90c2-4bdf-b589-9ebe014ba792",
+    "DataApi": "/Entries(guid'45bf25f1-90c2-4bdf-b589-9ebe014ba792')/",
+    "VideoPageLink": "/Series/C9-Lectures-Yuri-Gurevich-Introduction-to-Algorithms-and-Computational-Complexity/C9-Lectures-Yuri-Gurevich-Introduction-to-Algorithms-and-Computational-Complexity-3-of-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a792/45bf25f1-90c2-4bdf-b589-9ebe014ba792/C9LecturesYuriGurevichAlgorithmsP3_512_ch9.jpg",
+    "ShowName": "C9 Lectures: Yuri Gurevich - Introduction to Algorithms and Computational Complexity",
+    "VideoLength": "01:02:17",
+    "VideoTitle": "C9 Lectures: Yuri Gurevich - Introduction to Algorithms and Computational Complexity, 3 of 3",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-04-21T18:48:35Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a792/45bf25f1-90c2-4bdf-b589-9ebe014ba792/C9LecturesYuriGurevichAlgorithmsP3_low_ch9.mp4",
+    "Description": "The great Yuri Gurevich is back!!  Yuri is a logician, computer scientist, and inventor of abstract state machines. He currently works in Microsoft Research (he's a member of Wolfram Schulte's RiSE te"
+  }
+]

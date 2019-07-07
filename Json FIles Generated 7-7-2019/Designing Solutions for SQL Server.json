@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c0441a3b-4c0f-4113-9f60-a430013b2da5",
+    "DataApi": "/Entries(guid'c0441a3b-4c0f-4113-9f60-a430013b2da5')/",
+    "VideoPageLink": "/Series/Designing-Solutions-for-SQL-Server/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/773c/fc613877-6410-4635-a084-1024aece773c/464DesigningDatabaseSolutionsForSQLServerM02_960.jpg",
+    "ShowName": "Designing Solutions for SQL Server",
+    "VideoLength": "00:58:33",
+    "VideoTitle": "Designing Solutions for SQL Server: (02) Designing Database Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-01T18:16:40.3935283Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/773c/fc613877-6410-4635-a084-1024aece773c/464DesigningDatabaseSolutionsForSQLServerM02_mid.mp4",
+    "Description": "Learn about the security architecture of SQL Server, along with how to set permissions on objects. Find out how ownership chains work and how to manage cross-database ownership chains, and get details"
+  },
+  {
+    "VideoId": "40097625-1cdc-4709-af17-a430013b577c",
+    "DataApi": "/Entries(guid'40097625-1cdc-4709-af17-a430013b577c')/",
+    "VideoPageLink": "/Series/Designing-Solutions-for-SQL-Server/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b18/23a076c4-4ea3-4ba9-ae3f-2d707ec99b18/464DesigningDatabaseSolutionsForSQLServerM03_960.jpg",
+    "ShowName": "Designing Solutions for SQL Server",
+    "VideoLength": "00:50:18",
+    "VideoTitle": "Designing Solutions for SQL Server: (03) Designing a Backup and Recovery Solution",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-01T18:16:50.0764183Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b18/23a076c4-4ea3-4ba9-ae3f-2d707ec99b18/464DesigningDatabaseSolutionsForSQLServerM03_mid.mp4",
+    "Description": "Hear strategies for backup and recovery, including full, log, and differential backups, partial backups, and backing up to Azure blob storage, and get best practices for backing up system databases. L"
+  },
+  {
+    "VideoId": "2313b069-2733-4440-bdb3-a430013b7e9e",
+    "DataApi": "/Entries(guid'2313b069-2733-4440-bdb3-a430013b7e9e')/",
+    "VideoPageLink": "/Series/Designing-Solutions-for-SQL-Server/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/72d6/217d6d1f-7efd-4046-83c0-fda4904972d6/464DesigningDatabaseSolutionsForSQLServerM04_960.jpg",
+    "ShowName": "Designing Solutions for SQL Server",
+    "VideoLength": "01:12:52",
+    "VideoTitle": "Designing Solutions for SQL Server: (04) Designing a High-Availability Solution",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-01T18:17:02.4869528Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/72d6/217d6d1f-7efd-4046-83c0-fda4904972d6/464DesigningDatabaseSolutionsForSQLServerM04_mid.mp4",
+    "Description": "Find out about the high-availability solutions supported by SQL Server (Log Shipping, AlwaysOn Availability Groups, AlwaysOn Failover Clustering, and P2P Replication). Look at key considerations for A"
+  },
+  {
+    "VideoId": "f78b4133-7671-4560-9e17-a430013ba391",
+    "DataApi": "/Entries(guid'f78b4133-7671-4560-9e17-a430013ba391')/",
+    "VideoPageLink": "/Series/Designing-Solutions-for-SQL-Server/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6876/2c31c2e8-a462-4a42-a327-1d0c28e06876/464DesigningDatabaseSolutionsForSQLServerM05_960.jpg",
+    "ShowName": "Designing Solutions for SQL Server",
+    "VideoLength": "00:53:19",
+    "VideoTitle": "Designing Solutions for SQL Server: (05) Troubleshooting and Maintaining a Database",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-01T18:17:10.1878844Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6876/2c31c2e8-a462-4a42-a327-1d0c28e06876/464DesigningDatabaseSolutionsForSQLServerM05_mid.mp4",
+    "Description": "Learn about key maintenance tasks to keep performance optimal and how to automate them. Plus, look into techniques and tools you can use to monitor a database, along with the kinds of information each"
+  }
+]

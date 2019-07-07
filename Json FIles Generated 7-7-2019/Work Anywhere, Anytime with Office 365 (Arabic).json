@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "dcead2d8-25e2-447a-a332-a54c00837bc3",
+    "DataApi": "/Entries(guid'dcead2d8-25e2-447a-a332-a54c00837bc3')/",
+    "VideoPageLink": "/Series/Work-Anywhere-Anytime-with-Office-365-Arabic/Unified-Communications-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4bfd/8fd5e6f0-1a42-4f75-b1d0-3cdc19904bfd/UnifiedCommunications_960.jpg",
+    "ShowName": "Work Anywhere, Anytime with Office 365 (Arabic)",
+    "VideoLength": "00:46:00",
+    "VideoTitle": "Unified Communications (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T07:34:15.3009246Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4bfd/8fd5e6f0-1a42-4f75-b1d0-3cdc19904bfd/UnifiedCommunications_mid.mp4",
+    "Description": "E-mailing and conferencing. "
+  },
+  {
+    "VideoId": "ed25c547-e49f-4b30-8849-a54c0083348c",
+    "DataApi": "/Entries(guid'ed25c547-e49f-4b30-8849-a54c0083348c')/",
+    "VideoPageLink": "/Series/Work-Anywhere-Anytime-with-Office-365-Arabic/Enterprise-Social-Network-and-Yammer-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ffe8/5cb99f96-b69c-490e-be2f-927a9132ffe8/Enterprisesocialnetworkandyammer_960.jpg",
+    "ShowName": "Work Anywhere, Anytime with Office 365 (Arabic)",
+    "VideoLength": "00:28:21",
+    "VideoTitle": "Enterprise Social Network and Yammer (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T07:34:21.4769491Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ffe8/5cb99f96-b69c-490e-be2f-927a9132ffe8/Enterprisesocialnetworkandyammer_mid.mp4",
+    "Description": "How to use the enterprise social network and Yammer. "
+  },
+  {
+    "VideoId": "4776f0fe-4f6e-4f20-a3fd-a54c0082dba5",
+    "DataApi": "/Entries(guid'4776f0fe-4f6e-4f20-a3fd-a54c0082dba5')/",
+    "VideoPageLink": "/Series/Work-Anywhere-Anytime-with-Office-365-Arabic/Document-Management--Sharing-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/359a/c10b97d0-5a30-4748-9745-432b5071359a/Docmanagementandshare_960.jpg",
+    "ShowName": "Work Anywhere, Anytime with Office 365 (Arabic)",
+    "VideoLength": "00:31:30",
+    "VideoTitle": "Document Management & Sharing (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T07:35:11.7417547Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/359a/c10b97d0-5a30-4748-9745-432b5071359a/Docmanagementandshare_mid.mp4",
+    "Description": "How to share documents using One drive and SharePoint sites. "
+  },
+  {
+    "VideoId": "6a57a5ca-4998-4f6e-a1cb-a54c008240bf",
+    "DataApi": "/Entries(guid'6a57a5ca-4998-4f6e-a1cb-a54c008240bf')/",
+    "VideoPageLink": "/Series/Work-Anywhere-Anytime-with-Office-365-Arabic/Introduction-To-Intranets--Sites-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9932/bb7a7d9a-3f00-42d5-9196-0af5d1699932/Introintranetsandsites_960.jpg",
+    "ShowName": "Work Anywhere, Anytime with Office 365 (Arabic)",
+    "VideoLength": "00:13:44",
+    "VideoTitle": "Introduction To Intranets & Sites (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T07:35:20.8677202Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9932/bb7a7d9a-3f00-42d5-9196-0af5d1699932/Introintranetsandsites_mid.mp4",
+    "Description": "Introduction to the company's portal, different sub-sites and how it can be used. "
+  },
+  {
+    "VideoId": "aebc3560-e0e3-42fd-8ba4-a54c007fdea6",
+    "DataApi": "/Entries(guid'aebc3560-e0e3-42fd-8ba4-a54c007fdea6')/",
+    "VideoPageLink": "/Series/Work-Anywhere-Anytime-with-Office-365-Arabic/Introduction-about-Office-365-Portal-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ad4/984c73ed-d315-4371-aa4b-3f82135f8ad4/InrtoO365_960.jpg",
+    "ShowName": "Work Anywhere, Anytime with Office 365 (Arabic)",
+    "VideoLength": "00:10:52",
+    "VideoTitle": "Introduction about Office 365 Portal (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T07:35:31.4137657Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ad4/984c73ed-d315-4371-aa4b-3f82135f8ad4/InrtoO365_mid.mp4",
+    "Description": "Introduction to the homepage and the portal, user profile and different links. "
+  },
+  {
+    "VideoId": "6bf0b5a0-52ec-41c9-9192-a55a004ed7ec",
+    "DataApi": "/Entries(guid'6bf0b5a0-52ec-41c9-9192-a55a004ed7ec')/",
+    "VideoPageLink": "/Series/Work-Anywhere-Anytime-with-Office-365-Arabic/Introduction-to-Office-365-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7455/af95286f-9c03-4b59-a1ad-bcbc17dd7455/InrtoOffice365_960.jpg",
+    "ShowName": "Work Anywhere, Anytime with Office 365 (Arabic)",
+    "VideoLength": "00:13:29",
+    "VideoTitle": "Introduction to Office 365 (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-24T05:47:22.2524272Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7455/af95286f-9c03-4b59-a1ad-bcbc17dd7455/InrtoOffice365_mid.mp4",
+    "Description": "General introduction about what is O365, and why Microsoft created it. "
+  }
+]

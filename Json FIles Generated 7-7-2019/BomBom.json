@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "6637b375-0101-4546-b807-9dea011ba682",
+    "DataApi": "/Entries(guid'6637b375-0101-4546-b807-9dea011ba682')/",
+    "VideoPageLink": "/Blogs/BomBom/Building-your-own-MemberShipProvider-in-ASPNET-20-and-use-it-in-SharePoint",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/56fb/aa00420f-f7ce-4f5b-a853-55d0d2cb56fb/Building-your-own-MemberShipProvider-in-ASPNET-20_960.jpg",
+    "ShowName": "BomBom",
+    "VideoLength": "01:03:32",
+    "VideoTitle": "Building your own MemberShipProvider in ASP.NET 2.0 and use it in SharePoint",
+    "Author": "BomBom",
+    "UtcDateTimePublished": "2008-07-24T10:14:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/56fb/aa00420f-f7ce-4f5b-a853-55d0d2cb56fb/Building-your-own-MemberShipProvider-in-ASPNET-20_mid.mp4",
+    "Description": "The last screencast (I think) from me about Authentication in SharePoint.\nIn this screencast I build a MemberShipProvider that is checking the users against an XML file instead of a SQL database (&qu"
+  },
+  {
+    "VideoId": "c06463de-dffb-4d45-b7c4-9dea011bae52",
+    "DataApi": "/Entries(guid'c06463de-dffb-4d45-b7c4-9dea011bae52')/",
+    "VideoPageLink": "/Blogs/BomBom/Forms-Authentication-with-SharePoint-in-English",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "b491ea64-f167-4197-9971-9dea011bb7ae",
+    "DataApi": "/Entries(guid'b491ea64-f167-4197-9971-9dea011bb7ae')/",
+    "VideoPageLink": "/Blogs/BomBom/Forms-Authentication-with-SharePoint",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "3271b03a-1650-4642-9ae5-9dea011bbd2d",
+    "DataApi": "/Entries(guid'3271b03a-1650-4642-9ae5-9dea011bbd2d')/",
+    "VideoPageLink": "/Blogs/BomBom/Building-a-SharePoint-workflow-in-Visual-Studio-part-2",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "fbfc9db5-a71f-451b-89b9-9dea011bc170",
+    "DataApi": "/Entries(guid'fbfc9db5-a71f-451b-89b9-9dea011bc170')/",
+    "VideoPageLink": "/Blogs/BomBom/Authentication-Provider-Net-20-Out-Of-The-Box",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "2e1d0859-d811-439e-975d-9dea011bc78d",
+    "DataApi": "/Entries(guid'2e1d0859-d811-439e-975d-9dea011bc78d')/",
+    "VideoPageLink": "/Blogs/BomBom/How-to-develop-a-SharePoint-WebPart-old-style-p229-svenska",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

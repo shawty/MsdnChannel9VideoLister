@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "1a048ccf-f89e-49a0-899d-a60a0177a5e7",
+    "DataApi": "/Entries(guid'1a048ccf-f89e-49a0-899d-a60a0177a5e7')/",
+    "VideoPageLink": "/Blogs/Azure-CDN/Creating-a-CDN-Endpoint-with-Azure-CDN-from-Akamai",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74be/e65b1f14-87ee-4def-80f0-d9a4239a74be/azurecdnakamai_960.jpg",
+    "ShowName": "Azure CDN",
+    "VideoLength": "00:04:42",
+    "VideoTitle": "Creating a CDN Endpoint with Azure CDN from Akamai",
+    "Author": "Cam Soper",
+    "UtcDateTimePublished": "2016-05-19T17:49:45.9969361Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74be/e65b1f14-87ee-4def-80f0-d9a4239a74be/azurecdnakamai_high.mp4",
+    "Description": "How to deploy a CDN within minutes with Azure CDN from Akamai.  We will show you how to create a CDN profile, then we show you the creation of an endpoint.  For more information about Azure CDN, see t"
+  }
+]

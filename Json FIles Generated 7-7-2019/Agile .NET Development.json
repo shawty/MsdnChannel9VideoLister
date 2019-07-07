@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "62363ec6-e123-4477-950c-a5250169b0eb",
+    "DataApi": "/Entries(guid'62363ec6-e123-4477-950c-a5250169b0eb')/",
+    "VideoPageLink": "/Blogs/Agile-NET-Development/Agile-NET-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9673/54791b56-9754-44e3-8e6d-45941fd49673/AgiledotNETDevelopment_960.jpg",
+    "ShowName": "Agile .NET Development",
+    "VideoLength": "01:13:03",
+    "VideoTitle": "Agile .NET Development",
+    "Author": "Vidya Vrat Agarwal",
+    "UtcDateTimePublished": "2015-10-08T22:39:32.7481028Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9673/54791b56-9754-44e3-8e6d-45941fd49673/AgiledotNETDevelopment_mid.mp4",
+    "Description": "This video will walk you through the agile-scrum process from a .NET Developer perspective. This video will also show you the tools and techniques you can utilize to become a better agile .NET Develop"
+  }
+]

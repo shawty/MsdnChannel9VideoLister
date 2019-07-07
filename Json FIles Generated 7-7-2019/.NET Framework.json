@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "f95ecdc6-aa35-43dc-85cf-a2d9017a1d0b",
+    "DataApi": "/Entries(guid'f95ecdc6-aa35-43dc-85cf-a2d9017a1d0b')/",
+    "VideoPageLink": "/Series/NET-Framework/How-to-browse-the-NET-Reference-Source",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4c8f/8faf5ad6-3482-49a2-b6ee-6a61f0544c8f/HowToUseTheNetSourceBrowser_960.jpg",
+    "ShowName": ".NET Framework",
+    "VideoLength": "00:02:24",
+    "VideoTitle": "How to browse the .NET Reference Source",
+    "Author": "Immo Landwerth",
+    "UtcDateTimePublished": "2014-02-24T15:52:28.2755131Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/687a/58325d9f-0050-4313-966a-90b1526b687a/HowToUseTheNetSourceBrowser_mid.mp4",
+    "Description": "In this short video, we'll show off the key features of the new browsing experience for the .NET Reference Source, which you can preview on http://referencesource-beta.microsoft.com: Go to definition "
+  },
+  {
+    "VideoId": "1ea8b77a-546b-462e-b6e8-a3f60117a272",
+    "DataApi": "/Entries(guid'1ea8b77a-546b-462e-b6e8-a3f60117a272')/",
+    "VideoPageLink": "/Series/NET-Framework/Immo-Landwerth-and-David-Kean-Open-sourcing-the-NET-Framework",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/1851079c-38b0-445b-bd74-f2c0a014bfd8.png",
+    "ShowName": ".NET Framework",
+    "VideoLength": "00:46:48",
+    "VideoTitle": "Immo Landwerth and David Kean - Open sourcing the .NET Framework",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2014-12-05T16:08:16.4202741Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c4ea/35dc049e-6e41-4708-9f4f-42921297c4ea/NETCoreImmoLandwerthDavidKean_mid.mp4",
+    "Description": "With the recent announcement that the .NET Core is open source, Dan sits down with Immo Landwerth and David Kean to discuss what open sourcing means, how .NET Core will support both Windows and Linux,"
+  },
+  {
+    "VideoId": "15962519-ec26-441c-abcb-a421012fc6b5",
+    "DataApi": "/Entries(guid'15962519-ec26-441c-abcb-a421012fc6b5')/",
+    "VideoPageLink": "/Series/NET-Framework/NET-Core-API-Review-2015-01-14",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b97e/58b82243-083b-49aa-8654-d3ee1e93b97e/APIReview20150114_960.jpg",
+    "ShowName": ".NET Framework",
+    "VideoLength": "01:54:03",
+    "VideoTitle": ".NET Core API Review 2015-01-14",
+    "Author": "Immo Landwerth",
+    "UtcDateTimePublished": "2015-01-15T23:19:22.4145782Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b97e/58b82243-083b-49aa-8654-d3ee1e93b97e/APIReview20150114_mid.mp4",
+    "Description": "Video recording of the January, 14th 2015 GitHub API Review of .NET Core Pull Requests. [Video] GitHub Issue: #316: Implement IList&lt;T&gt;, IReadOnlyList&lt;T&gt;, and IList on Regex Collections[Vid"
+  },
+  {
+    "VideoId": "ab43b0c7-0b17-4961-acbf-a429010d7f61",
+    "DataApi": "/Entries(guid'ab43b0c7-0b17-4961-acbf-a429010d7f61')/",
+    "VideoPageLink": "/Series/NET-Framework/Git-Training-for-the-NET-Team",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aed1/a8efa0b8-0fbe-4239-83b9-4f5fc0b0aed1/DotNetTeamGitTraining_960.jpg",
+    "ShowName": ".NET Framework",
+    "VideoLength": "01:11:55",
+    "VideoTitle": "Git Training for the .NET Team",
+    "Author": "Immo Landwerth",
+    "UtcDateTimePublished": "2015-01-26T21:41:34.3533355Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aed1/a8efa0b8-0fbe-4239-83b9-4f5fc0b0aed1/DotNetTeamGitTraining_mid.mp4",
+    "Description": "This is a recording of the git training Andrew Arnott did for the .NET team. We bet you'll find this helpful, too! Here are some additional resources: Pro Git. Excellent (and free!) online book on Git"
+  },
+  {
+    "VideoId": "ebf62e1d-ab3e-4133-b6ca-a42d014585a8",
+    "DataApi": "/Entries(guid'ebf62e1d-ab3e-4133-b6ca-a42d014585a8')/",
+    "VideoPageLink": "/Series/NET-Framework/Introduction-to-API-Reviews",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_960.jpg",
+    "ShowName": ".NET Framework",
+    "VideoLength": "00:58:28",
+    "VideoTitle": "Introduction to API Reviews",
+    "Author": "Immo Landwerth",
+    "UtcDateTimePublished": "2015-01-28T19:54:04.4496262Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6229/41402ad9-8aa0-45e8-939e-cc9a44d86229/20150126APIReview_mid.mp4",
+    "Description": "In this video, Dan Fernandez talks to Eric St. John, Immo Landwerth, David Kean, and Krzysztof Cwalina from the .NET team about API reviews. How do we conduct API reviews?How does this work in an open"
+  }
+]

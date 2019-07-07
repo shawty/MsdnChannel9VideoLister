@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "6c21cfa2-08b0-41ce-a98e-a2df017d50f1",
+    "DataApi": "/Entries(guid'6c21cfa2-08b0-41ce-a98e-a2df017d50f1')/",
+    "VideoPageLink": "/Series/CBA/How-Do-I-Incorporate-Document-Libraries-in-a-Cloud-Business-App-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0036/46bf01ce-29c2-4d4e-9f0d-0d5474ce0036/CBADocuments_960.jpg",
+    "ShowName": "Building Cloud Business Apps for Office 365 with Visual Studio 2013",
+    "VideoLength": "00:07:48",
+    "VideoTitle": "How Do I: Incorporate Document Libraries in a Cloud Business App?",
+    "Author": "Beth Massi",
+    "UtcDateTimePublished": "2014-03-03T16:07:01.0372564Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0036/46bf01ce-29c2-4d4e-9f0d-0d5474ce0036/CBADocuments_mid.mp4",
+    "Description": "In this video, learn how you can incorporate documents from an Office 365 document library into your Cloud Business Apps using Visual Studio 2013.Make sure you have the Office Developer Tools (March u"
+  },
+  {
+    "VideoId": "b6d955f4-c376-4562-bd70-a2df01833db7",
+    "DataApi": "/Entries(guid'b6d955f4-c376-4562-bd70-a2df01833db7')/",
+    "VideoPageLink": "/Series/CBA/How-Do-I-Use-Newsfeeds-to-Socialize-Data-in-a-Cloud-Business-App-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2c99/05c47909-58f3-40d9-8f47-b4ff34dc2c99/CBASocialNewsfeeds_960.jpg",
+    "ShowName": "Building Cloud Business Apps for Office 365 with Visual Studio 2013",
+    "VideoLength": "00:05:51",
+    "VideoTitle": "How Do I: Use Newsfeeds to Socialize Data in a Cloud Business App?",
+    "Author": "Beth Massi",
+    "UtcDateTimePublished": "2014-03-03T16:07:14.304691Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2c99/05c47909-58f3-40d9-8f47-b4ff34dc2c99/CBASocialNewsfeeds_mid.mp4",
+    "Description": "In this video, learn how you can use newsfeeds to broadcast changes to data in your Cloud Business App using Visual Studio 2013. This allows users of your site to get notified of updates as well as ha"
+  }
+]

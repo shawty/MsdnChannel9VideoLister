@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "3cb47968-84d6-48cf-b3bb-a4f000d38fba",
+    "DataApi": "/Entries(guid'3cb47968-84d6-48cf-b3bb-a4f000d38fba')/",
+    "VideoPageLink": "/Series/Office-Efficiency-Global-Best-Practices/Word-Best-Practices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8b97/54c5cacb-6706-4610-8b5a-5eeff5118b97/drnitinv2_960.jpg",
+    "ShowName": "Office Efficiency Global Best Practices",
+    "VideoLength": "00:34:35",
+    "VideoTitle": "Word Best Practices",
+    "Author": "bpaulmsft",
+    "UtcDateTimePublished": "2015-08-11T08:52:06.7655865Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8b97/54c5cacb-6706-4610-8b5a-5eeff5118b97/drnitinv2_mid.mp4",
+    "Description": "If you use Microsoft Word, these are the things you must know. Whether you are a student, a CEO, a business user, a developer or an administrator,  this video will help you save lots of time and produ"
+  }
+]

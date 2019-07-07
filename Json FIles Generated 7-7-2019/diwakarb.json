@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "d2e47b2e-af0c-44f2-b09d-9deb01775799",
+    "DataApi": "/Entries(guid'd2e47b2e-af0c-44f2-b09d-9deb01775799')/",
+    "VideoPageLink": "/Blogs/diwakarb/Dynamics-AX-Enterprise-Portal-Development-Webinar",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/5/3/9/9/6/4/DynamicsAXEnterprisePortalDevelopmentWebinar_large_ch9.png",
+    "ShowName": "diwakarb",
+    "VideoLength": "01:13:48",
+    "VideoTitle": "Dynamics AX Enterprise Portal Development Webinar",
+    "Author": "Diwakar Bedekar",
+    "UtcDateTimePublished": "2009-05-20T20:56:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/5/3/9/9/6/4/DynamicsAXEnterprisePortalDevelopmentWebinar_ch9.mp4",
+    "Description": "\nA developer oriented deep-dive technical session on Enterprise portal for Microsoft Dynamics AX 2009. Developers will learn how to build and customize EP pages and user controls for lists/tasks/wiza"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "8c917b6f-5ee2-456d-80d6-a3ab00132924",
+    "DataApi": "/Entries(guid'8c917b6f-5ee2-456d-80d6-a3ab00132924')/",
+    "VideoPageLink": "/Blogs/DirectX-Developer-Blog/DirectX-Techdemo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a74e/127de55e-4e42-4b76-ae4e-1edb1ff7a74e/DirectXTechdemo_960.jpg",
+    "ShowName": "DirectX on Channel 9",
+    "VideoLength": "00:01:30",
+    "VideoTitle": "DirectX: DX12 Techdemo for Maxwell launch",
+    "Author": "Andrew Yeung - MSFT",
+    "UtcDateTimePublished": "2014-09-19T02:16:41.7081586Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a74e/127de55e-4e42-4b76-ae4e-1edb1ff7a74e/DirectXTechdemo_mid.mp4",
+    "Description": "At E3 this year, Microsoft showed off &quot;Fable Legends&quot; for Xbox One, a new take on the RPG franchise's well-loved world of magic, humor and high adventure.  Fable Legends' stunning visuals we"
+  },
+  {
+    "VideoId": "5bd6b385-60ef-4eae-9f6f-a30e012ae1a1",
+    "DataApi": "/Entries(guid'5bd6b385-60ef-4eae-9f6f-a30e012ae1a1')/",
+    "VideoPageLink": "/Blogs/DirectX-Developer-Blog/DirectX-Evolving-Microsoft-s-Graphics-Platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7867/e7d9ce79-6b8b-4bd5-b180-8249278b7867/DirectX12PreviewGDC_960.jpg",
+    "ShowName": "DirectX on Channel 9",
+    "VideoLength": "00:46:42",
+    "VideoTitle": "DirectX: Evolving Microsoft's Graphics Platform",
+    "Author": "Andrew Yeung - MSFT",
+    "UtcDateTimePublished": "2014-04-15T20:55:19.1514533Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7867/e7d9ce79-6b8b-4bd5-b180-8249278b7867/DirectX12PreviewGDC_mid.mp4",
+    "Description": "For nearly 20 years, DirectX has been the platform used by game developers to create the fastest, most visually impressive games on the planet. However, you asked us to do more. You asked us to bring "
+  }
+]

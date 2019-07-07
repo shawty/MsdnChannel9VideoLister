@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "05bbc803-c024-4872-9c17-a39d01327c10",
+    "DataApi": "/Entries(guid'05bbc803-c024-4872-9c17-a39d01327c10')/",
+    "VideoPageLink": "/Blogs/JohnShew/Edupoint-CIO-Rob-Wilson-Discusses-Hackfest-with-John-Shewchuk",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/7401ea48-4157-48ca-ab90-abb96e9308b2.PNG",
+    "ShowName": "John Shewchuk",
+    "VideoLength": "00:06:18",
+    "VideoTitle": "Edupoint CIO Rob Wilson Discusses Hackfest with John Shewchuk",
+    "Author": "Runar Hanson ",
+    "UtcDateTimePublished": "2014-09-11T15:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e833/3a126ef2-3217-463f-aa28-5b79b06ce833/EnduPoint_mid.mp4",
+    "Description": "Microsoft Technical Fellow John Shewchuk talks with Microsoft Azure Architect Greg Oliver, Edupoint CIO Rob Wilson and Noam Luft, Vice President of Product Development for Edupoint about a recent hack"
+  },
+  {
+    "VideoId": "eeedf969-9f1a-4dd6-8e2b-a3070148bbcc",
+    "DataApi": "/Entries(guid'eeedf969-9f1a-4dd6-8e2b-a3070148bbcc')/",
+    "VideoPageLink": "/Blogs/JohnShew/DEMO-Microsoft-Media-Platform-Player-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d0f/e55a5d6d-e477-4a67-bf1f-ec30f5fd2d0f/DEMOMicrosoftMediaPlatformPlayerFramework_960.jpg",
+    "ShowName": "John Shewchuk",
+    "VideoLength": "00:02:48",
+    "VideoTitle": "DEMO: Microsoft Media Platform Player Framework",
+    "Author": "Runar Hanson ",
+    "UtcDateTimePublished": "2014-04-24T18:08:20.44111Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d0f/e55a5d6d-e477-4a67-bf1f-ec30f5fd2d0f/DEMOMicrosoftMediaPlatformPlayerFramework_mid.mp4",
+    "Description": "Jit Ghosh shows how easy it is to build a content viewing experience, on any platform, using the Player Framework. "
+  },
+  {
+    "VideoId": "74b14ae0-87f3-43f6-9060-a3070147dfd0",
+    "DataApi": "/Entries(guid'74b14ae0-87f3-43f6-9060-a3070147dfd0')/",
+    "VideoPageLink": "/Blogs/JohnShew/Microsoft-Azure-Media-Services-Toolkit",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3b29/cb6fc813-8fb8-4c58-95b2-0f6450d73b29/MicrosoftAzureMediaServicesToolkit_960.jpg",
+    "ShowName": "John Shewchuk",
+    "VideoLength": "00:06:43",
+    "VideoTitle": "Microsoft Azure Media Services Toolkit ",
+    "Author": "Runar Hanson ",
+    "UtcDateTimePublished": "2014-04-24T18:05:56.104728Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3b29/cb6fc813-8fb8-4c58-95b2-0f6450d73b29/MicrosoftAzureMediaServicesToolkit_mid.mp4",
+    "Description": "John Shewcuk, Jit Ghosh and Mike Downey discuss how the Media Services Toolkit makes it possible to stream high quality content to millions of people. "
+  },
+  {
+    "VideoId": "e904b26e-1ca9-4791-b60d-a2ec01243f18",
+    "DataApi": "/Entries(guid'e904b26e-1ca9-4791-b60d-a2ec01243f18')/",
+    "VideoPageLink": "/Blogs/JohnShew/Creating-the-Perfect-Front-Door-for-Web-App-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cbe0/2945f279-38e5-4a38-a39e-c49847bdcbe0/CreatingthePerfectFrontDoorforWebAppDevelopment_960.jpg",
+    "ShowName": "John Shewchuk",
+    "VideoLength": "00:12:30",
+    "VideoTitle": "Creating the Perfect Front Door for Web App Development",
+    "Author": "Golnaz",
+    "UtcDateTimePublished": "2014-03-13T10:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cbe0/2945f279-38e5-4a38-a39e-c49847bdcbe0/CreatingthePerfectFrontDoorforWebAppDevelopment_mid.mp4",
+    "Description": "Creating the Perfect Front Door for Web App Development "
+  },
+  {
+    "VideoId": "2b51e7b2-6364-4432-a394-a2c20003b61a",
+    "DataApi": "/Entries(guid'2b51e7b2-6364-4432-a394-a2c20003b61a')/",
+    "VideoPageLink": "/Blogs/JohnShew/Website-to-App",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f09b/a10245a1-329e-4f9f-a517-6edb8f8cf09b/WebsiteToApp_960.jpg",
+    "ShowName": "John Shewchuk",
+    "VideoLength": "00:02:47",
+    "VideoTitle": "Website to App â€” The Web App Template Simplifies Windows App Development ",
+    "Author": "Duncan Mackenzie",
+    "UtcDateTimePublished": "2014-01-29T00:34:52.6806423Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f09b/a10245a1-329e-4f9f-a517-6edb8f8cf09b/WebsiteToApp_mid.mp4",
+    "Description": "View the related blog post for more info. "
+  }
+]

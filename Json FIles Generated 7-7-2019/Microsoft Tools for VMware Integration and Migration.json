@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "72364856-80cd-422e-a259-a183017431f8",
+    "DataApi": "/Entries(guid'72364856-80cd-422e-a259-a183017431f8')/",
+    "VideoPageLink": "/Series/Microsoft-Tools-for-VMware-Integration-and-Migration/Microsoft-Tools-for-VMware-Migration-and-Integration-02-Monitor-VMware-with-SC2012-SP1-Operations-Ma",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/950d/d3b489fc-bcbe-43a1-9033-38efde49950d/MSToolsVMware02_512.jpg",
+    "ShowName": "Microsoft Tools for VMware Integration and Migration",
+    "VideoLength": "00:49:43",
+    "VideoTitle": "Microsoft Tools for VMware Migration and Integration: (02) Monitor VMware with SC2012 SP1 Operations Manager and Veeam",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T18:10:29.878205Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/950d/d3b489fc-bcbe-43a1-9033-38efde49950d/MSToolsVMware02_mid.mp4",
+    "Description": "In this segment Symon and Michael introduces you to Veeam Management Pack for VMware, the underlying technologies and prerequisites. Additionally they will provide some rich demos and how to protect y"
+  },
+  {
+    "VideoId": "ccd0e0d1-4958-415f-8f66-a18301746e3f",
+    "DataApi": "/Entries(guid'ccd0e0d1-4958-415f-8f66-a18301746e3f')/",
+    "VideoPageLink": "/Series/Microsoft-Tools-for-VMware-Integration-and-Migration/Microsoft-Tools-for-VMware-Migration-and-Integration-03-Manage-VMware-with-SC2012-SP1-Orchestrator",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1962/0b2d04a3-4944-4481-8546-079a8d601962/MSToolsVMware03_512.jpg",
+    "ShowName": "Microsoft Tools for VMware Integration and Migration",
+    "VideoLength": "00:47:50",
+    "VideoTitle": "Microsoft Tools for VMware Migration and Integration: (03) Manage VMware with SC2012 SP1 Orchestrator",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T18:10:42.3625804Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1962/0b2d04a3-4944-4481-8546-079a8d601962/MSToolsVMware03_mid.mp4",
+    "Description": "This session introduces you to Orchestrator, and demonstrates VMWare management capabilities using System Center 2012 SP1 - Orchestrator. Learn more on how to automate processes in your data center, r"
+  },
+  {
+    "VideoId": "3a478ccc-22c7-4a56-babd-a1830174d14f",
+    "DataApi": "/Entries(guid'3a478ccc-22c7-4a56-babd-a1830174d14f')/",
+    "VideoPageLink": "/Series/Microsoft-Tools-for-VMware-Integration-and-Migration/Microsoft-Tools-for-VMware-Migration-and-Integration-04-Migrate-VMware-VMs-using-Microsoft-Virtual-M",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1280/cb9434e8-e359-4733-b9ae-5fbf7de81280/MSToolsVMware04_512.jpg",
+    "ShowName": "Microsoft Tools for VMware Integration and Migration",
+    "VideoLength": "01:02:32",
+    "VideoTitle": "Microsoft Tools for VMware Migration and Integration: (04) Migrate VMware VMs using Microsoft Virtual Machine Converter",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T18:10:53.5294309Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1280/cb9434e8-e359-4733-b9ae-5fbf7de81280/MSToolsVMware04_mid.mp4",
+    "Description": "This final module dives deep into configuration and provides visibility into Microsoft supported free utilities for conversion to Hyper-V. Additionally you will see demos of virtual machine conversion"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "8ebda286-b96e-4703-8d54-a5de014d0e02",
+    "DataApi": "/Entries(guid'8ebda286-b96e-4703-8d54-a5de014d0e02')/",
+    "VideoPageLink": "/Blogs/Open-Translators-to-Things/Open-Translators-to-Things-Introduction-for-Users",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0a92/352c1ac2-e405-49d1-aea6-19ed41a00a92/OpenT2TIntroForUsers_960.jpg",
+    "ShowName": "Open Translators to Things",
+    "VideoLength": "00:01:42",
+    "VideoTitle": "Open Translators to Things Introduction for Users",
+    "Author": "tjaffri",
+    "UtcDateTimePublished": "2016-07-11T02:30:09.7079075Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0a92/352c1ac2-e405-49d1-aea6-19ed41a00a92/OpenT2TIntroForUsers_mid.mp4",
+    "Description": "This is a quick video we put together to showcase how Open Translators to Things can help users and developers. Do check out other resources available on opentranslatorstothings.org and on github.com/"
+  }
+]

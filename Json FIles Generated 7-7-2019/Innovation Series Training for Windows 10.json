@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "be588e17-ebec-433c-95d4-a5420174bc5c",
+    "DataApi": "/Entries(guid'be588e17-ebec-433c-95d4-a5420174bc5c')/",
+    "VideoPageLink": "/Blogs/Innovation-Series-Training-for-Windows-10/Configuration-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2542/99aa4d11-6d35-4cbb-8d9e-7494b0882542/Keynote_960.jpg",
+    "ShowName": "Innovation Series Training for Windows 10",
+    "VideoLength": "00:17:53",
+    "VideoTitle": "Configuration Management",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-11-01T23:54:51.210157Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2542/99aa4d11-6d35-4cbb-8d9e-7494b0882542/Keynote_mid.mp4",
+    "Description": "This content is example's of how to deliver the Innovation Series content for Windows 10. Each module is available here. "
+  },
+  {
+    "VideoId": "185f4f2a-e62d-478a-b22a-a542016c89fb",
+    "DataApi": "/Entries(guid'185f4f2a-e62d-478a-b22a-a542016c89fb')/",
+    "VideoPageLink": "/Blogs/Innovation-Series-Training-for-Windows-10/Identity-and-Security",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/98b5/3522a0e1-abb1-4b9c-a383-f11b685c98b5/IDS_960.jpg",
+    "ShowName": "Innovation Series Training for Windows 10",
+    "VideoLength": "00:23:48",
+    "VideoTitle": "Identity and Security",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-11-01T23:54:28.2123501Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/98b5/3522a0e1-abb1-4b9c-a383-f11b685c98b5/IDS_mid.mp4",
+    "Description": "This content is example's of how to deliver the Innovation Series content for Windows 10. Each module is available here. "
+  },
+  {
+    "VideoId": "b2ffbdaa-bde0-477c-85fa-a542016c577b",
+    "DataApi": "/Entries(guid'b2ffbdaa-bde0-477c-85fa-a542016c577b')/",
+    "VideoPageLink": "/Blogs/Innovation-Series-Training-for-Windows-10/Apps-and-Browser",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5fac/0855695d-f9f4-4867-97d3-44eb52ea5fac/AppsBrowsers_960.jpg",
+    "ShowName": "Innovation Series Training for Windows 10",
+    "VideoLength": "00:20:55",
+    "VideoTitle": "Apps and Browser",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-11-01T23:53:45.9840943Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5fac/0855695d-f9f4-4867-97d3-44eb52ea5fac/AppsBrowsers_mid.mp4",
+    "Description": "This content is example's of how to deliver the Innovation Series content for Windows 10. Each module is available here. "
+  },
+  {
+    "VideoId": "13916e2b-ded9-47f3-80ff-a542016c1f28",
+    "DataApi": "/Entries(guid'13916e2b-ded9-47f3-80ff-a542016c1f28')/",
+    "VideoPageLink": "/Blogs/Innovation-Series-Training-for-Windows-10/Keynote",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5980/43124c67-2702-426f-849a-60ba9ee65980/Keynote_960.jpg",
+    "ShowName": "Innovation Series Training for Windows 10",
+    "VideoLength": "00:15:08",
+    "VideoTitle": "Keynote",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-11-01T23:52:35.6118342Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5980/43124c67-2702-426f-849a-60ba9ee65980/Keynote_mid.mp4",
+    "Description": "This is the event keynote. "
+  }
+]

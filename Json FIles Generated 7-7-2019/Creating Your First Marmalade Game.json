@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "6e4f4b91-7a17-4633-82d2-a3f70152a5ec",
+    "DataApi": "/Entries(guid'6e4f4b91-7a17-4633-82d2-a3f70152a5ec')/",
+    "VideoPageLink": "/Series/Creating-Your-First-Marmalade-Game/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a7c/cb596dbe-2e28-4ae8-8c57-978468d45a7c/354CreatingYourFirstMarmaladeGameM03_960.jpg",
+    "ShowName": "Creating Your First Marmalade Game",
+    "VideoLength": "00:29:28",
+    "VideoTitle": "Creating Your First Marmalade Game: (03) Scene Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:43:40.203637Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a7c/cb596dbe-2e28-4ae8-8c57-978468d45a7c/354CreatingYourFirstMarmaladeGameM03_mid.mp4",
+    "Description": "Explore game scene management, with a focus on key aspects of game play and user interaction. "
+  },
+  {
+    "VideoId": "ce134d22-8e5e-4f38-bb0b-a3f7015276d6",
+    "DataApi": "/Entries(guid'ce134d22-8e5e-4f38-bb0b-a3f7015276d6')/",
+    "VideoPageLink": "/Series/Creating-Your-First-Marmalade-Game/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/954a/355f2cd4-d728-4687-b4ed-1d7f5d23954a/354CreatingYourFirstMarmaladeGameM02_960.jpg",
+    "ShowName": "Creating Your First Marmalade Game",
+    "VideoLength": "00:38:38",
+    "VideoTitle": "Creating Your First Marmalade Game: (02) Game Play",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:43:50.9664012Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/954a/355f2cd4-d728-4687-b4ed-1d7f5d23954a/354CreatingYourFirstMarmaladeGameM02_mid.mp4",
+    "Description": "Explore, in detail, aspects of game play design and development, particularly the key components required within your game. "
+  },
+  {
+    "VideoId": "83c0a732-20c0-4fe0-beac-a3f70152918d",
+    "DataApi": "/Entries(guid'83c0a732-20c0-4fe0-beac-a3f70152918d')/",
+    "VideoPageLink": "/Series/Creating-Your-First-Marmalade-Game/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a1ce/01a5f4ba-86b8-4a91-9937-0b9d2f09a1ce/354CreatingYourFirstMarmaladeGameM04_960.jpg",
+    "ShowName": "Creating Your First Marmalade Game",
+    "VideoLength": "00:40:42",
+    "VideoTitle": "Creating Your First Marmalade Game: (04) Packaging & Finishing Touches",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:44:08.1420985Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a1ce/01a5f4ba-86b8-4a91-9937-0b9d2f09a1ce/354CreatingYourFirstMarmaladeGameM04_mid.mp4",
+    "Description": "Check out key aspects of your game to enhance monetization. Package your game so it's ready for publication on the Windows 8 and Windows Phone stores. "
+  }
+]

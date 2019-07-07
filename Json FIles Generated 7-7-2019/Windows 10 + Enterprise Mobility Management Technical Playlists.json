@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "0c17e030-8139-418a-b122-a5610173adeb",
+    "DataApi": "/Entries(guid'0c17e030-8139-418a-b122-a5610173adeb')/",
+    "VideoPageLink": "/Series/Windows-10--Enterprise-Mobility-60-Second-Update-for-sysadmins/Windows-10-Application-Compatibility",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a95/9de8ef63-ec97-4da3-9129-eb8d63c53a95/windows10appcompat_960.jpg",
+    "ShowName": "Windows 10 + Enterprise Mobility Management Technical Playlists",
+    "VideoLength": "00:00:41",
+    "VideoTitle": "Windows 10 Application Compatibility ",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2015-12-07T19:18:39.672587Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a95/9de8ef63-ec97-4da3-9129-eb8d63c53a95/windows10appcompat_mid.mp4",
+    "Description": "In the second installment of the playlist, Simon looks at some of the top training resources and videos for app compat in Windows 10 as well as on third-party platforms like iOS and Android. Ensure yo"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "5fec3d57-2d31-4f37-b08c-a43a015c9a63",
+    "DataApi": "/Entries(guid'5fec3d57-2d31-4f37-b08c-a43a015c9a63')/",
+    "VideoPageLink": "/Series/php-on-azure/Manage-your-WordPress-site-with-the-WordPress-CLI-Site-Extension",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a9bb/70dc6ed9-a94c-4f9c-824a-ffb5cabda9bb/ManageWordPressOnWebsitesWithWPCLI_960.jpg",
+    "ShowName": "PHP on Microsoft Azure",
+    "VideoLength": "00:05:56",
+    "VideoTitle": "Manage your WordPress site with the WordPress CLI Site Extension",
+    "Author": "Cory Fowler",
+    "UtcDateTimePublished": "2015-02-10T20:38:53.9381384Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a9bb/70dc6ed9-a94c-4f9c-824a-ffb5cabda9bb/ManageWordPressOnWebsitesWithWPCLI_mid.mp4",
+    "Description": "In this clip Cory Fowler demonstrates how to install and use the WordPress CLI Site Extension in Azure Websites. Links WordPress CLIWordPress CLI Site ExtensionKuduExec Install InstructionsHow to enab"
+  }
+]

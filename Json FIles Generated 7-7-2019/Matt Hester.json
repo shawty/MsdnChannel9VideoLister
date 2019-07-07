@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "5afc6c0d-378b-4051-9d5d-a39201618a85",
+    "DataApi": "/Entries(guid'5afc6c0d-378b-4051-9d5d-a39201618a85')/",
+    "VideoPageLink": "/Blogs/Matt-Hester/Windows-Server-2012-R2-Storage-Pools",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a505/7b61eec9-a3db-453b-bae1-25ed6963a505/Storager2_960.jpg",
+    "ShowName": "Matt Hester",
+    "VideoLength": "00:08:55",
+    "VideoTitle": "Windows Server 2012 R2 Storage Pools",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-08-26T01:44:12.923359Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a505/7b61eec9-a3db-453b-bae1-25ed6963a505/Storager2_mid.mp4",
+    "Description": "In this quick feature, I take a look at how easy it is to work with Storage Pools "
+  },
+  {
+    "VideoId": "3fd2c810-7a37-4cc3-aec1-a32600e0d4b7",
+    "DataApi": "/Entries(guid'3fd2c810-7a37-4cc3-aec1-a32600e0d4b7')/",
+    "VideoPageLink": "/Blogs/Matt-Hester/Getting-Started-with-BizSpark",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/716f/cf9f617b-1c47-4f65-b8a5-72c25fea716f/BizSignup_960.jpg",
+    "ShowName": "Matt Hester",
+    "VideoLength": "00:06:17",
+    "VideoTitle": "Getting Started with BizSpark",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-05-09T14:03:56.9459532Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/716f/cf9f617b-1c47-4f65-b8a5-72c25fea716f/BizSignup_mid.mp4",
+    "Description": "In this video, Keith Mayer will take you through the process on how to sign up to BizSpark.  Please comment if you have any questions or issues.   To learn more and get started with BizSpark, take a l"
+  },
+  {
+    "VideoId": "dfa5b948-e210-4dca-a966-a2eb0154ce91",
+    "DataApi": "/Entries(guid'dfa5b948-e210-4dca-a966-a2eb0154ce91')/",
+    "VideoPageLink": "/Blogs/Matt-Hester/Installing-WDS-on-Windows-Server-2012R2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e9f2/dc510a94-71ff-4e34-8006-520df933e9f2/WDS2012R2_960.jpg",
+    "ShowName": "Matt Hester",
+    "VideoLength": "00:08:01",
+    "VideoTitle": "Installing WDS on Windows Server 2012R2",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-03-11T21:17:08.9514379Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e9f2/dc510a94-71ff-4e34-8006-520df933e9f2/WDS2012R2_mid.mp4",
+    "Description": "This is quick screencast to get you started with WDS "
+  }
+]

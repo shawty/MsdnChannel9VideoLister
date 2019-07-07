@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "6691d3a7-1b3e-49b7-8330-a4a501088899",
+    "DataApi": "/Entries(guid'6691d3a7-1b3e-49b7-8330-a4a501088899')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV/User-Personalization",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/533f/2a0b4543-c212-4b1e-a3b1-8309709d533f/UserPersonalization_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV",
+    "VideoLength": "00:25:23",
+    "VideoTitle": "User Personalization",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-27T19:35:18.8520543Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/533f/2a0b4543-c212-4b1e-a3b1-8309709d533f/UserPersonalization_mid.mp4",
+    "Description": "Find out how to personalize Microsoft Dynamics NAV for an individual user. "
+  },
+  {
+    "VideoId": "fdcb5b64-b57d-4788-80a2-a4a5010a32ad",
+    "DataApi": "/Entries(guid'fdcb5b64-b57d-4788-80a2-a4a5010a32ad')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV/Basic-Functionalities",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/edc1/6ea6cf3d-0e27-43c5-ad18-330e74a2edc1/BasicFunctionalities_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV",
+    "VideoLength": "00:35:14",
+    "VideoTitle": "Basic Functionalities",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-27T19:35:29.7431796Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/edc1/6ea6cf3d-0e27-43c5-ad18-330e74a2edc1/BasicFunctionalities_mid.mp4",
+    "Description": "Explore some of the basic functionalities and tasks that can be performed in Microsoft Dynamics NAV. "
+  },
+  {
+    "VideoId": "be1e64ac-1abe-452a-89a5-a4a50108485c",
+    "DataApi": "/Entries(guid'be1e64ac-1abe-452a-89a5-a4a50108485c')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV/User-Interface",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/12d0/71b272ab-4f7d-43c6-a933-f696a20a12d0/UserInterface_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV",
+    "VideoLength": "00:13:41",
+    "VideoTitle": "User Interface",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-27T19:35:42.3397905Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/12d0/71b272ab-4f7d-43c6-a933-f696a20a12d0/UserInterface_mid.mp4",
+    "Description": "See a demo of the user interface within Microsoft Dynamics NAV. "
+  },
+  {
+    "VideoId": "d848a972-f9d2-4329-ba20-a4a5010ac56d",
+    "DataApi": "/Entries(guid'd848a972-f9d2-4329-ba20-a4a5010ac56d')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV/Master-Data-for-the-Sales-and-Purchase-Process",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0487/5cefcdce-8dc4-4ee7-b299-37e36be60487/MasterDataSalesPurchases_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV",
+    "VideoLength": "00:14:59",
+    "VideoTitle": "Master Data for the Sales and Purchase Process",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-27T19:36:17.4258192Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0487/5cefcdce-8dc4-4ee7-b299-37e36be60487/MasterDataSalesPurchases_mid.mp4",
+    "Description": "Learn about master data for the sales and purchase process, including customers, vendors, and items. "
+  },
+  {
+    "VideoId": "942266d4-abae-4888-9bee-a4a5010b0f54",
+    "DataApi": "/Entries(guid'942266d4-abae-4888-9bee-a4a5010b0f54')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV/Process-Sales-and-Purchases",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6759/619ee494-82fc-46e6-877f-a8d84b296759/ProcessSalesPurchases_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV",
+    "VideoLength": "00:19:44",
+    "VideoTitle": "â€‹Process Sales and Purchases",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-27T19:36:27.6835844Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6759/619ee494-82fc-46e6-877f-a8d84b296759/ProcessSalesPurchases_mid.mp4",
+    "Description": "Get a look at the sales and purchase process in Microsoft Dynamics NAV. "
+  },
+  {
+    "VideoId": "a72ca879-7ceb-42c7-a5fa-a4a5010b462e",
+    "DataApi": "/Entries(guid'a72ca879-7ceb-42c7-a5fa-a4a5010b462e')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV/Technology-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4941/d32264fb-cd54-410c-806a-d7a54ec24941/TechnologyOverview_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV",
+    "VideoLength": "00:05:20",
+    "VideoTitle": "Technology Overview",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-27T19:36:40.2596563Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4941/d32264fb-cd54-410c-806a-d7a54ec24941/TechnologyOverview_mid.mp4",
+    "Description": "See an overview of some of the basic technologies that are used in Microsoft Dynamics NAV. "
+  }
+]

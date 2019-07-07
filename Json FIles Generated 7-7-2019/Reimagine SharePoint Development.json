@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "83bda129-4d17-41bd-a7da-a1c200430c15",
+    "DataApi": "/Entries(guid'83bda129-4d17-41bd-a7da-a1c200430c15')/",
+    "VideoPageLink": "/Series/Reimagine-SharePoint-Development/Understanding-the-differences-between-Server-Side-Object-Model-and-the-Client-Side-Object-Model",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95e5/243e061e-d2a0-4ba8-9c78-4d51c46f95e5/UnderstandDiffServerSideAndClientSide2013_960.jpg",
+    "ShowName": "Reimagine SharePoint Development",
+    "VideoLength": "00:16:40",
+    "VideoTitle": "Understanding the differences between Server-Side Object Model and the Client-Side Object Model",
+    "Author": "Issam Rashid",
+    "UtcDateTimePublished": "2013-05-20T19:31:54.946882Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95e5/243e061e-d2a0-4ba8-9c78-4d51c46f95e5/UnderstandDiffServerSideAndClientSide2013_mid.mp4",
+    "Description": "The SharePoint Server Object Model (SSOM) has been the popular API set to writing SharePoint solutions for some time now.  With SharePoint 2013, the Client Object Model (CSOM) which was introduced in "
+  },
+  {
+    "VideoId": "d9f9856c-72fd-4c32-98e1-a1c20043eb5f",
+    "DataApi": "/Entries(guid'd9f9856c-72fd-4c32-98e1-a1c20043eb5f')/",
+    "VideoPageLink": "/Series/Reimagine-SharePoint-Development/Migrating-a-SharePoint-Event-Receiver-to-a-Remote-Event-Receiver",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f97/08dddad8-9312-4ef3-9d8f-e77c34d49f97/MigratingEventReceiver2013_960.jpg",
+    "ShowName": "Reimagine SharePoint Development",
+    "VideoLength": "00:12:24",
+    "VideoTitle": "Migrating a SharePoint Event Receiver to a Remote Event Receiver",
+    "Author": "Issam Rashid",
+    "UtcDateTimePublished": "2013-05-20T19:56:29.8951515Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f97/08dddad8-9312-4ef3-9d8f-e77c34d49f97/MigratingEventReceiver2013_mid.mp4",
+    "Description": "Being able to create custom functionality when events occur in SharePoint is a powerful feature.  In this video, you will learn how to migrate an event receiver to the new remote event receiver archit"
+  },
+  {
+    "VideoId": "a1f2ee72-f2d8-4879-92ad-a1c401204ccb",
+    "DataApi": "/Entries(guid'a1f2ee72-f2d8-4879-92ad-a1c401204ccb')/",
+    "VideoPageLink": "/Series/Reimagine-SharePoint-Development/Reimagine-SharePoint-Development-A-better-way-to-customize-SharePoint",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cde3/d08f7c0b-f973-4a8d-a113-302d6ca9cde3/ReimagineSharepointDevelopmentLive_960.jpg",
+    "ShowName": "Reimagine SharePoint Development",
+    "VideoLength": "00:47:57",
+    "VideoTitle": "Reimagine SharePoint Development: A better way to customize SharePoint ",
+    "Author": "Keenan Newton",
+    "UtcDateTimePublished": "2013-05-20T20:25:20.4273651Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cde3/d08f7c0b-f973-4a8d-a113-302d6ca9cde3/ReimagineSharepointDevelopmentLive_mid.mp4",
+    "Description": "Join Senior Product Marketing Manager, Keenan Newton, and special guest Partner Director of Apps Program Management, Robert Lefferts, as we kick off our new site centered around migrating SharePoint s"
+  },
+  {
+    "VideoId": "02e67e74-123b-4e1f-9fe8-a1eb0105fd15",
+    "DataApi": "/Entries(guid'02e67e74-123b-4e1f-9fe8-a1eb0105fd15')/",
+    "VideoPageLink": "/Series/Reimagine-SharePoint-Development/Developing-Apps-for-Office-and-Sharepoint",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/784d/cd986d6a-d57b-43c2-82d6-e89cf4ba784d/DevelopingAppsforOfficeandSharepointatBUILD2013_960.jpg",
+    "ShowName": "Reimagine SharePoint Development",
+    "VideoLength": "00:21:19",
+    "VideoTitle": "Developing Apps for Office and Sharepoint ",
+    "Author": "Scott Hanselman",
+    "UtcDateTimePublished": "2013-07-10T07:51:18.1802133Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/784d/cd986d6a-d57b-43c2-82d6-e89cf4ba784d/DevelopingAppsforOfficeandSharepointatBUILD2013_mid.mp4",
+    "Description": "The cloud app model for Office and SharePoint offer a host of new ways of developing customizations for SharePoint. In this video, Scott Hanselman talks with Keenan Newton at Build 2013 about some of "
+  },
+  {
+    "VideoId": "06af5d29-c5a6-4937-88f9-a1f90137412b",
+    "DataApi": "/Entries(guid'06af5d29-c5a6-4937-88f9-a1f90137412b')/",
+    "VideoPageLink": "/Series/Reimagine-SharePoint-Development/Translating-Custom-Code-Workflows-to-SharePoint-2013",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ad5/a8a63ab4-2008-4665-89de-1f5ff5da5ad5/CustomCodeWorkFlowForSP2013_960.jpg",
+    "ShowName": "Reimagine SharePoint Development",
+    "VideoLength": "00:08:24",
+    "VideoTitle": "Translating Custom Code Workflows to SharePoint 2013",
+    "Author": "Issam Rashid",
+    "UtcDateTimePublished": "2013-07-12T22:06:05.2225414Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ad5/a8a63ab4-2008-4665-89de-1f5ff5da5ad5/CustomCodeWorkFlowForSP2013_mid.mp4",
+    "Description": "In this video, we discuss the capabilities of 2013 workflow, and some of its key differences from 2010. We then show how to take your existing 2010 custom code workflows and translate them to 2013, by"
+  }
+]

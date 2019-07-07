@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "651a6129-a3e2-4492-a4da-a453015fcd6a",
+    "DataApi": "/Entries(guid'651a6129-a3e2-4492-a4da-a453015fcd6a')/",
+    "VideoPageLink": "/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/261e/559dba14-6144-4025-b3ed-efd7ac62261e/648AdvPwrShellDSCM02_960.jpg",
+    "ShowName": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources",
+    "VideoLength": "00:31:01",
+    "VideoTitle": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (02) Implementing and Testing Custom Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:43:58.3093148Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/261e/559dba14-6144-4025-b3ed-efd7ac62261e/648AdvPwrShellDSCM02_mid.mp4",
+    "Description": "Get the details on creating Test-TargetResource, Set-TargetResource, and Get-TargetResource. [00:57] - Designing custom resources[04:32] - Test-TargetResource[13:57] - Set-TargetResource[17:37] - Get-"
+  },
+  {
+    "VideoId": "06bd40a9-4b49-4b79-a393-a453015fff47",
+    "DataApi": "/Entries(guid'06bd40a9-4b49-4b79-a393-a453015fff47')/",
+    "VideoPageLink": "/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4789/9d3241ef-466b-4fd0-92fa-ed5e32314789/648AdvPwrShellDSCM03_960.jpg",
+    "ShowName": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources",
+    "VideoLength": "00:51:57",
+    "VideoTitle": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (03) Packaging and Deploying Custom Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:44:11.1202044Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4789/9d3241ef-466b-4fd0-92fa-ed5e32314789/648AdvPwrShellDSCM03_mid.mp4",
+    "Description": "Learn to deploy resources with a &quot;push and pull&quot; deployment. [01:30] - Packaging a custom resource"
+  },
+  {
+    "VideoId": "e97e492e-ed07-4785-b83c-a453016044d5",
+    "DataApi": "/Entries(guid'e97e492e-ed07-4785-b83c-a453016044d5')/",
+    "VideoPageLink": "/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44b4/b9451927-2264-4a6a-b120-42927dda44b4/648AdvPwrShellDSCM04_960.jpg",
+    "ShowName": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources",
+    "VideoLength": "00:46:55",
+    "VideoTitle": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (04) Using Classes to Build a Custom Resource",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:44:22.2545332Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44b4/b9451927-2264-4a6a-b120-42927dda44b4/648AdvPwrShellDSCM04_mid.mp4",
+    "Description": "Discover and create resources using class-defined custom resources. [06:51] - What are classes[10:37] - Benefits to writing custom resources using classes[11:45] - Creating a class defined custom reso"
+  },
+  {
+    "VideoId": "eb4bc461-104b-4494-9d1f-a4530160715a",
+    "DataApi": "/Entries(guid'eb4bc461-104b-4494-9d1f-a4530160715a')/",
+    "VideoPageLink": "/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9317/f86c06a7-c93d-45ee-bf84-0f453a259317/648AdvPwrShellDSCM05_960.jpg",
+    "ShowName": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources",
+    "VideoLength": "00:50:44",
+    "VideoTitle": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (05) Enhancing Your Custom Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:44:32.9597471Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9317/f86c06a7-c93d-45ee-bf84-0f453a259317/648AdvPwrShellDSCM05_mid.mp4",
+    "Description": "Add help content, debug information, and more to your custom resources. [01:14] - Adding verbose and debug information[26:05] - Handling computer restarts"
+  },
+  {
+    "VideoId": "a7e55606-5cd1-47bd-bfd4-a45301609bbb",
+    "DataApi": "/Entries(guid'a7e55606-5cd1-47bd-bfd4-a45301609bbb')/",
+    "VideoPageLink": "/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75a2/ff6afdbd-0a9e-400a-b975-8f999fc375a2/648AdvPwrShellDSCM06_960.jpg",
+    "ShowName": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources",
+    "VideoLength": "00:18:22",
+    "VideoTitle": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (06) â€‹Building Composite Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:44:41.7895414Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75a2/ff6afdbd-0a9e-400a-b975-8f999fc375a2/648AdvPwrShellDSCM06_mid.mp4",
+    "Description": "Enhance your configurations by packaging and deploying composite resources. [01:35] - The purpose to composite resources[04:03] - Composite resource structure[16:45] - Creating DSC configurations usin"
+  },
+  {
+    "VideoId": "ddec6cfe-ba40-4a3d-89bb-a4530160c5ae",
+    "DataApi": "/Entries(guid'ddec6cfe-ba40-4a3d-89bb-a4530160c5ae')/",
+    "VideoPageLink": "/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6d37/56242593-fe92-4145-88e0-e756ab716d37/648AdvPwrShellDSCM07_960.jpg",
+    "ShowName": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources",
+    "VideoLength": "00:43:50",
+    "VideoTitle": "Advanced PowerShell Desired State Configuration (DSC) and Custom Resources: (07) Advanced Configurations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:44:52.1245628Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6d37/56242593-fe92-4145-88e0-e756ab716d37/648AdvPwrShellDSCM07_mid.mp4",
+    "Description": "Dive deeper into reusable, nested, and partial configurations. [02:06] - The purpose of Partial Configurations[07:20] - Demo - Partial Configurations"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "dd45f291-8a91-4cfa-9c03-a5c900affe67",
+    "DataApi": "/Entries(guid'dd45f291-8a91-4cfa-9c03-a5c900affe67')/",
+    "VideoPageLink": "/Blogs/Houston-NET-User-Group/Azure-Service-Fabric-Next-Gen-PaaS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c4d/0867b824-1b14-4464-87b9-71960c2e8c4d/AzureServiceFabricNextGenPaaS_960.jpg",
+    "ShowName": "Houston .NET User Group",
+    "VideoLength": "01:24:17",
+    "VideoTitle": "Azure Service Fabric - Next Gen PaaS",
+    "Author": "Paul DeCarlo",
+    "UtcDateTimePublished": "2016-03-14T10:53:09.3886859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c4d/0867b824-1b14-4464-87b9-71960c2e8c4d/AzureServiceFabricNextGenPaaS_mid.mp4",
+    "Description": "March HDNUG presentation from Jamy Ryals of P97 This session covers the Azure Service Fabric Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group content, check out Bryan"
+  },
+  {
+    "VideoId": "b17a8141-1d32-42ea-ab6e-a5bb014027a9",
+    "DataApi": "/Entries(guid'b17a8141-1d32-42ea-ab6e-a5bb014027a9')/",
+    "VideoPageLink": "/Blogs/Houston-NET-User-Group/C-60-New-Language-Features",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a422/41a44fa7-4dd8-458f-b642-e9d276c1a422/C60NewLanguageFeatures_960.jpg",
+    "ShowName": "Houston .NET User Group",
+    "VideoLength": "01:24:41",
+    "VideoTitle": "C# 6.0 New Language Features",
+    "Author": "Paul DeCarlo",
+    "UtcDateTimePublished": "2016-02-29T19:33:01.0121199Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a422/41a44fa7-4dd8-458f-b642-e9d276c1a422/C60NewLanguageFeatures_mid.mp4",
+    "Description": "February HDNUG presentation from Joseph Reynolds of Infocraft This session covers the latest C# 6.0 Language Features Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group"
+  },
+  {
+    "VideoId": "c3faaa8b-6f3b-48e6-956d-a5bb013e8d09",
+    "DataApi": "/Entries(guid'c3faaa8b-6f3b-48e6-956d-a5bb013e8d09')/",
+    "VideoPageLink": "/Blogs/Houston-NET-User-Group/The-New-ASPNET-5-Runtime",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/733d/c2f8208e-47a6-4bda-9f3e-6747c896733d/TheNewASPNET5Runtime_960.jpg",
+    "ShowName": "Houston .NET User Group",
+    "VideoLength": "01:30:42",
+    "VideoTitle": "The New ASP.NET 5 Runtime",
+    "Author": "Paul DeCarlo",
+    "UtcDateTimePublished": "2016-02-29T19:31:45.6441324Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/733d/c2f8208e-47a6-4bda-9f3e-6747c896733d/TheNewASPNET5Runtime_mid.mp4",
+    "Description": "January HDNUG presentation from Stephen Fulcher of Crocodile Digital This session covers the latest ASP.NET 5 Runtime Video recorded and edited by Bryan Ray, for more Houston Area Developer User Group"
+  }
+]

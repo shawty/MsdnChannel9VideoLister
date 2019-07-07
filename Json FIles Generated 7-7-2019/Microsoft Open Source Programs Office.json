@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "513709ed-bfb6-4db1-96c3-a7540116d8d7",
+    "DataApi": "/Entries(guid'513709ed-bfb6-4db1-96c3-a7540116d8d7')/",
+    "VideoPageLink": "/Blogs/OSPO/Open-Source--Facebook",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/848f/92efeadf-6ee4-48b1-ba98-860ce8fe848f/ossfacebook_960.jpg",
+    "ShowName": "Microsoft Open Source Programs Office",
+    "VideoLength": "00:10:48",
+    "VideoTitle": "Open Source @ Facebook",
+    "Author": "Doug Mahugh",
+    "UtcDateTimePublished": "2017-04-13T17:58:26.9544306Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/848f/92efeadf-6ee4-48b1-ba98-860ce8fe848f/ossfacebook_mid.mp4",
+    "Description": "Paul O'Shannessy and Shawn Wilsher of Facebook, were featured speakers at the Open Source Night event at Microsoft on 2/27/2017, where they gave a talk on how Facebook approaches working with open sou"
+  },
+  {
+    "VideoId": "7ca213af-3410-4651-98a8-a7530171d0ba",
+    "DataApi": "/Entries(guid'7ca213af-3410-4651-98a8-a7530171d0ba')/",
+    "VideoPageLink": "/Blogs/OSPO/Open-Source--GitHub",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e8dc/c1ddb0b4-6e82-4b36-849b-c39e3fc4e8dc/ossgithub_960.jpg",
+    "ShowName": "Microsoft Open Source Programs Office",
+    "VideoLength": "00:11:00",
+    "VideoTitle": "Open Source @ GitHub",
+    "Author": "Doug Mahugh",
+    "UtcDateTimePublished": "2017-04-13T17:58:06.2221327Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e8dc/c1ddb0b4-6e82-4b36-849b-c39e3fc4e8dc/ossgithub_mid.mp4",
+    "Description": "Phil Haack (@haacked) of GitHub was a featured speaker at the Open Source Night event at Microsoft on 2/27/2017, and he talked about his work at GitHub and how GitHub approaches working with open sour"
+  }
+]

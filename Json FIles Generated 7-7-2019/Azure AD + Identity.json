@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d38ec0bb-f544-46df-b47b-a51401734378",
+    "DataApi": "/Entries(guid'd38ec0bb-f544-46df-b47b-a51401734378')/",
+    "VideoPageLink": "/Series/Azure-AD-Identity/Win10AADJoin",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eba3/4885d742-3e2b-45ea-821b-25efe455eba3/Win10AADJoin_960.jpg",
+    "ShowName": "Azure AD + Identity",
+    "VideoLength": "00:11:13",
+    "VideoTitle": "Azure AD and Identity Show: Azure AD Join in Windows 10",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-09-16T16:28:16.3190187Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eba3/4885d742-3e2b-45ea-821b-25efe455eba3/Win10AADJoin_mid.mp4",
+    "Description": "Azure AD Join in Windows 10 In this episode of the Azure AD and Identity Show, your host, Simon May, talks to Venkatesh Gopalakrishnan of the Identity Division about how Azure AD Join can enable your "
+  },
+  {
+    "VideoId": "bb8b54ac-0351-4c57-bfbb-a5140173262a",
+    "DataApi": "/Entries(guid'bb8b54ac-0351-4c57-bfbb-a5140173262a')/",
+    "VideoPageLink": "/Series/Azure-AD-Identity/AzureADB2C",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c3d4/64402302-834a-4fac-872d-963ac6a1c3d4/AzureADB2C_960.jpg",
+    "ShowName": "Azure AD + Identity",
+    "VideoLength": "00:27:41",
+    "VideoTitle": "Azure AD and Identity Show: Azure AD B2C (Business to Consumer)",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-10-13T20:29:43.4790497Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c3d4/64402302-834a-4fac-872d-963ac6a1c3d4/AzureADB2C_mid.mp4",
+    "Description": "Azure AD B2C (Business to Consumer) In this episode of the Azure AD and Identity Show, your host, Simon May, talks to Stuart Kwan of the Identity Division about how Azure AD B2C can help you manage co"
+  },
+  {
+    "VideoId": "8c751ff6-bd3d-4232-836d-a5140172d817",
+    "DataApi": "/Entries(guid'8c751ff6-bd3d-4232-836d-a5140172d817')/",
+    "VideoPageLink": "/Series/Azure-AD-Identity/AzureADB2B",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f72/109fb30b-6f07-42ba-b657-2a5b2f847f72/AzureADB2BColloboration_960.jpg",
+    "ShowName": "Azure AD + Identity",
+    "VideoLength": "00:11:46",
+    "VideoTitle": "Azure AD and Identity Show: Azure AD B2B Collaboration (Business to Business)",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-10-13T20:32:12.5608678Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f72/109fb30b-6f07-42ba-b657-2a5b2f847f72/AzureADB2BColloboration_mid.mp4",
+    "Description": "Azure AD B2B Collaboration (Business to Business) In this episode of the Azure AD and Identity Show, your host, Simon May, talks to Arvind Suthar of the Identity Division about Azure AD B2B and how it"
+  },
+  {
+    "VideoId": "9d16397d-7684-463b-be33-a52f0169338e",
+    "DataApi": "/Entries(guid'9d16397d-7684-463b-be33-a52f0169338e')/",
+    "VideoPageLink": "/Series/Azure-AD-Identity/Azure-AD-and-Identity-Show-Azure-AD-Domain-Services-Preview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c3af/e569d9dc-394b-4747-8cda-c54c47d8c3af/AzureADDomainServicesPreview_960.jpg",
+    "ShowName": "Azure AD + Identity",
+    "VideoLength": "00:10:22",
+    "VideoTitle": "Azure AD and Identity Show: Azure AD Domain Services Preview",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2015-10-14T16:02:41.9442955Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c3af/e569d9dc-394b-4747-8cda-c54c47d8c3af/AzureADDomainServicesPreview_mid.mp4",
+    "Description": "Azure AD Domain Services Preview In this episode of the Azure AD and Identity Show, your host, Simon May, talks to Mahesh Unnikrishnan of the Identity Division about Azure AD Domain Services and how y"
+  },
+  {
+    "VideoId": "4d5f611a-94b0-4b69-80d5-a5b60139a286",
+    "DataApi": "/Entries(guid'4d5f611a-94b0-4b69-80d5-a5b60139a286')/",
+    "VideoPageLink": "/Series/Azure-AD-Identity/Azure-AD-and-Identity-Show-Identity-Protection-Preview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/417d/73a75cea-d50c-44c0-8be6-1d93477b417d/AzureADandIDShowIDProtection_960.jpg",
+    "ShowName": "Azure AD + Identity",
+    "VideoLength": "00:25:02",
+    "VideoTitle": "Azure AD and Identity Show: Identity Protection Preview",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2016-02-25T17:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/417d/73a75cea-d50c-44c0-8be6-1d93477b417d/AzureADandIDShowIDProtection_mid.mp4",
+    "Description": "The identities of your users are under the constant risk of attack but it can be hard to keep track of potential threats with such a rapidly evolving world. In this episode of the Azure AD and Identit"
+  }
+]

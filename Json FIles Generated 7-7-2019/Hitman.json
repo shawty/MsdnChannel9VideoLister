@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "0fd8ac26-0077-43bf-ad87-a71c00c63e0e",
+    "DataApi": "/Entries(guid'0fd8ac26-0077-43bf-ad87-a71c00c63e0e')/",
+    "VideoPageLink": "/Series/Hitman/Hitman-and-Azure-v2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/839f/be7e4b65-ec72-4168-98c3-96f1c2ac839f/hitmanazurev2_960.jpg",
+    "ShowName": "Hitman",
+    "VideoLength": "00:01:50",
+    "VideoTitle": "Hitman and Azure v2",
+    "Author": "Olivia Klose",
+    "UtcDateTimePublished": "2017-02-16T16:43:56.7935836Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/839f/be7e4b65-ec72-4168-98c3-96f1c2ac839f/hitmanazurev2_mid.mp4",
+    "Description": "Hitman, by Io-Interactive (in short IOI), published by Square Enix, is a game about Agent 47, the world's greatest assassin. The Hitman franchise is 20 years old and in April 2016 IOI released the lat"
+  },
+  {
+    "VideoId": "0578c318-3cca-4e09-b68f-a71c00c666c3",
+    "DataApi": "/Entries(guid'0578c318-3cca-4e09-b68f-a71c00c666c3')/",
+    "VideoPageLink": "/Series/Hitman/Hitman-and-Azure-v3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1578/ecd45b81-77c5-4f47-a367-1f3e78e51578/hitmanazurev3_960.jpg",
+    "ShowName": "Hitman",
+    "VideoLength": "00:01:28",
+    "VideoTitle": "Hitman and Azure v3",
+    "Author": "Olivia Klose",
+    "UtcDateTimePublished": "2017-02-16T16:46:59.8699763Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1578/ecd45b81-77c5-4f47-a367-1f3e78e51578/hitmanazurev3_mid.mp4",
+    "Description": "Hitman, by Io-Interactive (in short IOI), published by Square Enix, is a game about Agent 47, the world's greatest assassin. The Hitman franchise is 20 years old and in April 2016 IOI released the lat"
+  }
+]

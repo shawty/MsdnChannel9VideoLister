@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "73e7587c-443d-4a0f-a277-a7a60014e47a",
+    "DataApi": "/Entries(guid'73e7587c-443d-4a0f-a277-a7a60014e47a')/",
+    "VideoPageLink": "/Shows/Azure-CSP/csp-overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f53e/9fc22494-ff1d-4e0c-a0b6-830b3f0af53e/cspoverview_960.jpg",
+    "ShowName": "Azure for CSP Partners",
+    "VideoLength": "00:01:57",
+    "VideoTitle": "CSP Overview",
+    "Author": "Azure CSP",
+    "UtcDateTimePublished": "2017-07-04T19:18:46.1639704Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f53e/9fc22494-ff1d-4e0c-a0b6-830b3f0af53e/cspoverview_mid.mp4",
+    "Description": "CSP Business Model overview for Microsoft partners. Comparison of CSP Direct and CSP Indirect. "
+  }
+]

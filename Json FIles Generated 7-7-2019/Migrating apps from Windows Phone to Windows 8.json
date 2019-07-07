@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c1302669-5b1b-455e-b308-a09f0189234e",
+    "DataApi": "/Entries(guid'c1302669-5b1b-455e-b308-a09f0189234e')/",
+    "VideoPageLink": "/Series/Migrating-apps-from-Windows-Phone-to-Windows-8/Handling-Asynchronous-Data-in-Windows-Store-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5c1e/f4c8edf4-6a7d-4b94-aad3-17157dac5c1e/Phone7toWin8QS02_512.jpg",
+    "ShowName": "Migrating apps from Windows Phone to Windows 8",
+    "VideoLength": "00:15:38",
+    "VideoTitle": "Handling Asynchronous Data in Windows Store Apps",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2012-09-26T19:52:40.5209809Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5c1e/f4c8edf4-6a7d-4b94-aad3-17157dac5c1e/Phone7toWin8QS02_mid.mp4",
+    "Description": "  This video covers the basics of working with data in the Windows 8 Khan Academy app. We go over the new asynchronous pattern in WinRT for handling requests to and from the server, as well as putting"
+  },
+  {
+    "VideoId": "a6437656-0fcd-472d-a348-a0a001408801",
+    "DataApi": "/Entries(guid'a6437656-0fcd-472d-a348-a0a001408801')/",
+    "VideoPageLink": "/Series/Migrating-apps-from-Windows-Phone-to-Windows-8/Binding-the-Interface-in-Windows-Store-apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/53b9/33a600f1-09b3-4c43-acfb-47e7e10753b9/Phone7toWin8QS03_512.jpg",
+    "ShowName": "Migrating apps from Windows Phone to Windows 8",
+    "VideoLength": "00:18:51",
+    "VideoTitle": "Binding the Interface in Windows Store apps",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2012-09-26T19:52:54.4073387Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/53b9/33a600f1-09b3-4c43-acfb-47e7e10753b9/Phone7toWin8QS03_mid.mp4",
+    "Description": "  In the previous Quickstarts, we have introduced the app and looked at handling data requests and formatting. In this next video, we will look at binding that data to the interface. Binding and Windo"
+  },
+  {
+    "VideoId": "c31eb425-be36-4085-8510-a0a00156c1a8",
+    "DataApi": "/Entries(guid'c31eb425-be36-4085-8510-a0a00156c1a8')/",
+    "VideoPageLink": "/Series/Migrating-apps-from-Windows-Phone-to-Windows-8/Custom-Styling-in-Windows-Store-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7dd3/3ae90ef2-a9cd-4116-a757-cbeb55067dd3/Phone7toWin8QS04_512.jpg",
+    "ShowName": "Migrating apps from Windows Phone to Windows 8",
+    "VideoLength": "00:19:31",
+    "VideoTitle": "Custom Styling in Windows Store Apps",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2012-09-26T19:53:26.8973547Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7dd3/3ae90ef2-a9cd-4116-a757-cbeb55067dd3/Phone7toWin8QS04_mid.mp4",
+    "Description": "  Now that we have the data properly formatted and bound to the controls, this video will focus on custom styling and interface elements in our app.   Setting up Custom StylesAs we've discussed in the"
+  },
+  {
+    "VideoId": "ea258cf4-5851-4bb2-b1b5-a0a00157701d",
+    "DataApi": "/Entries(guid'ea258cf4-5851-4bb2-b1b5-a0a00157701d')/",
+    "VideoPageLink": "/Series/Migrating-apps-from-Windows-Phone-to-Windows-8/Features-and-Contracts-in-Windows-Store-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae72/4454b2eb-7567-4803-8c31-ff4797c1ae72/Phone7toWin8QS05_512.jpg",
+    "ShowName": "Migrating apps from Windows Phone to Windows 8",
+    "VideoLength": "00:14:41",
+    "VideoTitle": "Features and Contracts in Windows Store Apps",
+    "Author": "Brian Peek",
+    "UtcDateTimePublished": "2012-09-26T19:53:32.6768287Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae72/4454b2eb-7567-4803-8c31-ff4797c1ae72/Phone7toWin8QS05_mid.mp4",
+    "Description": "  While the goal of these quickstarts is to discuss the issues and solutions involved in porting our Windows Phone 7 app to a Windows Store app, there are some features and requirements in Windows 8 w"
+  }
+]

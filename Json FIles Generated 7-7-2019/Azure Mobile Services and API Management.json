@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "35a78860-bb71-4f3a-9101-a3f70156148d",
+    "DataApi": "/Entries(guid'35a78860-bb71-4f3a-9101-a3f70156148d')/",
+    "VideoPageLink": "/Series/Azure-Mobile-Services-and-API-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/82e4/887678b9-90bc-4cde-beaf-54786c3082e4/615AzureMobileServicesAPIMgmtM02_960.jpg",
+    "ShowName": "Azure Mobile Services and API Management",
+    "VideoLength": "00:39:09",
+    "VideoTitle": "Azure Mobile Services and API Management: (02) Mobile Services Intro and Working with Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:44:52.0475533Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/82e4/887678b9-90bc-4cde-beaf-54786c3082e4/615AzureMobileServicesAPIMgmtM02_mid.mp4",
+    "Description": "Find out how to work with rich data from your mobile app using Xamarin Forms and Mobile Services, and choose the data storage that works best for you among SQL, Table Storage, and Mongo. Connect your "
+  },
+  {
+    "VideoId": "27052584-d233-4d59-8e6a-a3f70155febd",
+    "DataApi": "/Entries(guid'27052584-d233-4d59-8e6a-a3f70155febd')/",
+    "VideoPageLink": "/Series/Azure-Mobile-Services-and-API-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb31/78eff95e-98f8-4e1c-bc96-7b0db28fcb31/615AzureMobileServicesAPIMgmtM03_960.jpg",
+    "ShowName": "Azure Mobile Services and API Management",
+    "VideoLength": "00:33:15",
+    "VideoTitle": "Azure Mobile Services and API Management: (03) Corporate Login and Offline/Sync",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:45:11.6515649Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb31/78eff95e-98f8-4e1c-bc96-7b0db28fcb31/615AzureMobileServicesAPIMgmtM03_mid.mp4",
+    "Description": "Learn how to use Azure Active Directory with Mobile Services to offer single sign-on, plus access to SharePoint and other systems. [01:08] - Corporate login[15:10] - Login On Behalf of the User[17:06]"
+  },
+  {
+    "VideoId": "495afac8-905f-436e-b114-a3f701562f45",
+    "DataApi": "/Entries(guid'495afac8-905f-436e-b114-a3f701562f45')/",
+    "VideoPageLink": "/Series/Azure-Mobile-Services-and-API-Management/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9db8/defd4797-3ea7-46ca-9c4c-3dbf728c9db8/615AzureMobileServicesAPIMgmtM04_960.jpg",
+    "ShowName": "Azure Mobile Services and API Management",
+    "VideoLength": "00:28:06",
+    "VideoTitle": "Azure Mobile Services and API Management: (04) Push Notifications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:45:46.9309333Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9db8/defd4797-3ea7-46ca-9c4c-3dbf728c9db8/615AzureMobileServicesAPIMgmtM04_mid.mp4",
+    "Description": "Get the details on push notifications, a great way to provide engaging app experiences, beyond just banners and popups. Learn how to use Azure Mobile Services and Notification Hubs to push sensitive d"
+  }
+]

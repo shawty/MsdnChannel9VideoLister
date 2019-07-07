@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "7b000864-0f5c-431a-8b6c-a28a014b714b",
+    "DataApi": "/Entries(guid'7b000864-0f5c-431a-8b6c-a28a014b714b')/",
+    "VideoPageLink": "/Series/software-development-fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9a53/99a97290-6960-4b14-95ad-8720a79d9a53/SoftwareDevelopmentFundamentalsM02_960.jpg",
+    "ShowName": "Software Development Fundamentals",
+    "VideoLength": "01:26:15",
+    "VideoTitle": "Software Development Fundamentals: (02) Core Programming",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-05T05:12:08.9705199Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9a53/99a97290-6960-4b14-95ad-8720a79d9a53/SoftwareDevelopmentFundamentalsM02_mid.mp4",
+    "Description": "Becoming successful in programming doesn't require a deep understanding of computer hardware but a general understanding of how a computer stores and processes information helps the programmer become "
+  },
+  {
+    "VideoId": "50e1c5d9-da3f-4529-ad4a-a28a014bcc93",
+    "DataApi": "/Entries(guid'50e1c5d9-da3f-4529-ad4a-a28a014bcc93')/",
+    "VideoPageLink": "/Series/software-development-fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb7d/5c690eb6-9587-42b7-afe0-c8536e90cb7d/SoftwareDevelopmentFundamentalsM03_960.jpg",
+    "ShowName": "Software Development Fundamentals",
+    "VideoLength": "00:31:40",
+    "VideoTitle": "Software Development Fundamentals: (03) Object-Oriented Programming",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-05T05:12:53.367961Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb7d/5c690eb6-9587-42b7-afe0-c8536e90cb7d/SoftwareDevelopmentFundamentalsM03_mid.mp4",
+    "Description": "Most programming tasks today revolve around object-oriented programming (OOP). This section covers how objects created in code can mimic real-world objects helping the programmer to better solve probl"
+  },
+  {
+    "VideoId": "0ffe9271-3f13-4a46-900c-a28a014c3556",
+    "DataApi": "/Entries(guid'0ffe9271-3f13-4a46-900c-a28a014c3556')/",
+    "VideoPageLink": "/Series/software-development-fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e1a/0e4a04ce-8af8-4ea0-9c30-e2ae93983e1a/SoftwareDevelopmentFundamentalsM04_960.jpg",
+    "ShowName": "Software Development Fundamentals",
+    "VideoLength": "00:34:46",
+    "VideoTitle": "Software Development Fundamentals: (04) Web Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-05T05:14:43.0336835Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e1a/0e4a04ce-8af8-4ea0-9c30-e2ae93983e1a/SoftwareDevelopmentFundamentalsM04_mid.mp4",
+    "Description": "This section will present the viewer with a general understanding of what Web-based applications are and how they are used in providing functionality and services to users and other programs. [01:58] "
+  },
+  {
+    "VideoId": "cc671d01-aa01-4334-bd99-a28a014caf69",
+    "DataApi": "/Entries(guid'cc671d01-aa01-4334-bd99-a28a014caf69')/",
+    "VideoPageLink": "/Series/software-development-fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e39/e1417b0f-1705-4125-ba48-2daad45c6e39/SoftwareDevelopmentFundamentalsM05_960.jpg",
+    "ShowName": "Software Development Fundamentals",
+    "VideoLength": "00:27:14",
+    "VideoTitle": "Software Development Fundamentals: (05) Desktop Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-05T05:15:39.0695011Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e39/e1417b0f-1705-4125-ba48-2daad45c6e39/SoftwareDevelopmentFundamentalsM05_mid.mp4",
+    "Description": "While the Internet has created a move to more and more Web-based applications and services, a fair bit of development is still accomplished for the desktop or laptop computer. This section presents on"
+  },
+  {
+    "VideoId": "573f27e5-1904-472e-b7b2-a28a014d01a1",
+    "DataApi": "/Entries(guid'573f27e5-1904-472e-b7b2-a28a014d01a1')/",
+    "VideoPageLink": "/Series/software-development-fundamentals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5f5a/944458f9-008a-4e0e-b1b3-d5f68d265f5a/SoftwareDevelopmentFundamentalsM06_960.jpg",
+    "ShowName": "Software Development Fundamentals",
+    "VideoLength": "00:39:52",
+    "VideoTitle": "Software Development Fundamentals: (06) Understanding Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-05T05:16:45.1492925Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5f5a/944458f9-008a-4e0e-b1b3-d5f68d265f5a/SoftwareDevelopmentFundamentalsM06_mid.mp4",
+    "Description": "Almost all applications developed today rely on data of some kind. Programmers are expected to know what a database is and how to extract information from a database. This section provides a high-leve"
+  },
+  {
+    "VideoId": "dfbe3b40-e693-467a-a2ad-a28a014d39c7",
+    "DataApi": "/Entries(guid'dfbe3b40-e693-467a-a2ad-a28a014d39c7')/",
+    "VideoPageLink": "/Series/software-development-fundamentals/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/58be/bbf567f1-4724-4064-a52d-6e1b5e4658be/SoftwareDevelopmentFundamentalsM07_960.jpg",
+    "ShowName": "Software Development Fundamentals",
+    "VideoLength": "00:22:36",
+    "VideoTitle": "Software Development Fundamentals: (07) Is This for Me?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-05T05:16:48.2895399Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/58be/bbf567f1-4724-4064-a52d-6e1b5e4658be/SoftwareDevelopmentFundamentalsM07_mid.mp4",
+    "Description": "This section closes out the course with a discussion on why someone might want to pursue software development as a hobby or a career. [04:20] - Day in the life of a developer[12:24] - How do I get the"
+  }
+]

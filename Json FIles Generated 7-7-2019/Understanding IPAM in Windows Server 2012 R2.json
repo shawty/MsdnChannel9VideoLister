@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "49503f37-3b8b-4c51-a914-a342014b984f",
+    "DataApi": "/Entries(guid'49503f37-3b8b-4c51-a914-a342014b984f')/",
+    "VideoPageLink": "/Series/Understanding-Windows-Server-2012-R2-IPAM/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1b5d/cbad39da-78d6-45c2-b26d-f9a986731b5d/MVAIPAMPrt2_960.jpg",
+    "ShowName": "Understanding IPAM in Windows Server 2012 R2",
+    "VideoLength": "00:14:53",
+    "VideoTitle": "(Module 2) Role Based Access Control and Auditing",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-09T18:00:51Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1b5d/cbad39da-78d6-45c2-b26d-f9a986731b5d/MVAIPAMPrt2_mid.mp4",
+    "Description": "This module will explain how an admin can assign roles, create access policies and do delegation using WS-IPAM 2012 R2. It will also detail what auditing functionalities are exposed and how an admin c"
+  },
+  {
+    "VideoId": "c6da071c-99bf-43ce-816c-a342014be238",
+    "DataApi": "/Entries(guid'c6da071c-99bf-43ce-816c-a342014be238')/",
+    "VideoPageLink": "/Series/Understanding-Windows-Server-2012-R2-IPAM/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e033/86e64347-9371-475f-a725-36e26effe033/MVAIPAMPrt3_960.jpg",
+    "ShowName": "Understanding IPAM in Windows Server 2012 R2",
+    "VideoLength": "00:23:34",
+    "VideoTitle": "(Module 3) Address Space Management",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-09T18:00:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e033/86e64347-9371-475f-a725-36e26effe033/MVAIPAMPrt3_mid.mp4",
+    "Description": "This module will explain how address management with virtual address space integration can be achieved using IPAM 2012 R2. We will also briefly go over various features of IPAM 2012 R2, including scri"
+  },
+  {
+    "VideoId": "e10fe67e-1a78-4d5f-8d49-a342014c4872",
+    "DataApi": "/Entries(guid'e10fe67e-1a78-4d5f-8d49-a342014c4872')/",
+    "VideoPageLink": "/Series/Understanding-Windows-Server-2012-R2-IPAM/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e16/1817e0ac-6b5c-48cd-a38c-dfc502a35e16/MVAIPAMPrt4_960.jpg",
+    "ShowName": "Understanding IPAM in Windows Server 2012 R2",
+    "VideoLength": "00:08:38",
+    "VideoTitle": "(Module 4) Multi-Server Management",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-09T18:00:53Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e16/1817e0ac-6b5c-48cd-a38c-dfc502a35e16/MVAIPAMPrt4_mid.mp4",
+    "Description": "This module will explain how WS-IPAM 2012 R2 can be used for multi-server management with a focus on multi-DHCP server management. This video is part of the Microsoft Virtual Academy (MVA). The MVA is"
+  },
+  {
+    "VideoId": "96a54e31-2553-4d11-9339-a3800144a24a",
+    "DataApi": "/Entries(guid'96a54e31-2553-4d11-9339-a3800144a24a')/",
+    "VideoPageLink": "/Series/Understanding-Windows-Server-2012-R2-IPAM/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ed52/d64c9763-22b3-4c00-abe0-df3c2473ed52/Mod5ProvisionIPAM_960.jpg",
+    "ShowName": "Understanding IPAM in Windows Server 2012 R2",
+    "VideoLength": "00:23:14",
+    "VideoTitle": "(Module 5) Provisioning IPAM in Windows Server 2012 R2",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-07T21:00:19Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ed52/d64c9763-22b3-4c00-abe0-df3c2473ed52/Mod5ProvisionIPAM_mid.mp4",
+    "Description": "This module talks about the workflow involved in provisioning IPAM in Windows Server 2012 R2. This will walk through the steps involved in deployment planning, installation and provisioning of IPAM. T"
+  }
+]

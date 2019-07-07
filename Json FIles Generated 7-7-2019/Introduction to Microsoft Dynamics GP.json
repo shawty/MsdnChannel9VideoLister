@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "8caa406b-0f6a-4caf-be9d-a49801398f96",
+    "DataApi": "/Entries(guid'8caa406b-0f6a-4caf-be9d-a49801398f96')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-GP/Microsoft-Dynamics-GP-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/855d/b1643377-3735-4618-957b-04ef7a71855d/MicrosoftDynamicsGPOverview_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics GP",
+    "VideoLength": "00:47:46",
+    "VideoTitle": "Microsoft Dynamics GP Overview",
+    "Author": "kschimke2015",
+    "UtcDateTimePublished": "2015-05-15T14:48:11.6930452Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/855d/b1643377-3735-4618-957b-04ef7a71855d/MicrosoftDynamicsGPOverview_mid.mp4",
+    "Description": "Get an overview of the Microsoft Dynamics GP application, including the basic modules that are available and the integration that takes place between them to help reduce the workload of the end user. "
+  }
+]

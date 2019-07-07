@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "1d7eae91-4191-4eba-963b-a61f00b83b83",
+    "DataApi": "/Entries(guid'1d7eae91-4191-4eba-963b-a61f00b83b83')/",
+    "VideoPageLink": "/Series/Digital-Transformations/Digital-Transformations",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9970/0b06bfa5-d21c-4bc4-bd1f-c6186a219970/DigitalTransformations_960.jpg",
+    "ShowName": "Digital Transformations",
+    "VideoLength": "00:07:16",
+    "VideoTitle": "Digital Transformations",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-06-08T13:09:27.6204389Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9970/0b06bfa5-d21c-4bc4-bd1f-c6186a219970/DigitalTransformations_mid.mp4",
+    "Description": "Lets talk about the Windows Eco-System. "
+  }
+]

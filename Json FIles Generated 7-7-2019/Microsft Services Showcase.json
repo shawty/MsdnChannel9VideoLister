@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "1cf99db5-0cb3-418d-b159-a4d00109f028",
+    "DataApi": "/Entries(guid'1cf99db5-0cb3-418d-b159-a4d00109f028')/",
+    "VideoPageLink": "/blogs/Microsft-Services-Showcase/Cybersecurity-and-the-Cloud",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5d78/6e58c184-110f-4c03-a401-ed6a70145d78/CloudSecuritySegment1_960.jpg",
+    "ShowName": "Microsft Services Showcase",
+    "VideoLength": "00:14:36",
+    "VideoTitle": "Cybersecurity and the Cloud",
+    "Author": "MicrosoftServices",
+    "UtcDateTimePublished": "2015-07-09T17:12:53.0391615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5d78/6e58c184-110f-4c03-a401-ed6a70145d78/CloudSecuritySegment1_mid.mp4",
+    "Description": "Join Gartner VP of Research Lawrence Orans to learn more about the current cyber threat landscape and the latest trends in security and the cloud. "
+  },
+  {
+    "VideoId": "38f07553-a976-4ade-9f65-a4d001064b6d",
+    "DataApi": "/Entries(guid'38f07553-a976-4ade-9f65-a4d001064b6d')/",
+    "VideoPageLink": "/blogs/Microsft-Services-Showcase/Industrial-Manufacturer-Reduces-Threat-Profile-by-80-with-Microsoft-Services-CyberSecurity-Solutions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5db5/b4ab3b81-a3c6-4e06-a145-59c2f2b15db5/PeerlessVideoFullVersion_960.jpg",
+    "ShowName": "Microsft Services Showcase",
+    "VideoLength": "00:07:14",
+    "VideoTitle": "Industrial Manufacturer Reduces Threat Profile by 80% with Microsoft Services' CyberSecurity Solutions",
+    "Author": "MicrosoftServices",
+    "UtcDateTimePublished": "2015-07-09T16:55:51.7525873Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5db5/b4ab3b81-a3c6-4e06-a145-59c2f2b15db5/PeerlessVideoFullVersion_mid.mp4",
+    "Description": "Peerless Manufacturing engaged Microsoft Services to deliver cybersecurity consulting solutions focused on eliminating ongoing persistent threats and  implementing ongoing, proactive monitoring. With "
+  },
+  {
+    "VideoId": "a845b40c-abcd-4945-a46d-a4ac0145b25d",
+    "DataApi": "/Entries(guid'a845b40c-abcd-4945-a46d-a4ac0145b25d')/",
+    "VideoPageLink": "/blogs/Microsft-Services-Showcase/Designing-IOT-Solutions-using-Microsoft-Azure-An-Overview",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/7460af94-0f6c-410f-a892-0fc7a3c7654f.jpg",
+    "ShowName": "Microsft Services Showcase",
+    "VideoLength": "00:57:24",
+    "VideoTitle": "Designing IOT Solutions using Microsoft Azure: An Overview",
+    "Author": "MicrosoftServices",
+    "UtcDateTimePublished": "2015-06-04T23:39:54.1009432Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5c98/c9bbf6f1-40ba-4d6f-834d-6fd6b01c5c98/desiotsolutionsoverview_mid.mp4",
+    "Description": "What does the Internet of Things (IOT) mean for your enterprise? Watch this Microsoft Enterprise Services strategic briefing session to learn the fundamentals of Microsoft's IOT story and how you can "
+  }
+]

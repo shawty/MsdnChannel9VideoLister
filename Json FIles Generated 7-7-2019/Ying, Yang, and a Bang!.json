@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "95c6fc0b-e5a4-40a5-949b-a46f015689d9",
+    "DataApi": "/Entries(guid'95c6fc0b-e5a4-40a5-949b-a46f015689d9')/",
+    "VideoPageLink": "/Shows/Ying-Yang-and-a-Bang/Episode-154",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a1ea/1d68d52d-bbd9-4119-9760-9bc467c1a1ea/2015Episode4_960.jpg",
+    "ShowName": "Ying, Yang, and a Bang!",
+    "VideoLength": "00:27:01",
+    "VideoTitle": "Episode 15.4",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2015-04-03T22:09:07.5709442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a1ea/1d68d52d-bbd9-4119-9760-9bc467c1a1ea/2015Episode4_mid.mp4",
+    "Description": "In this episode, we tease Scott Hunter for not showing up and then we get into the real meat of the show as we listen to Brady discuss the new Azure App Services, a service that integrates everything "
+  }
+]

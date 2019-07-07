@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "baf496e5-7148-4c72-95e4-a451013caf8d",
+    "DataApi": "/Entries(guid'baf496e5-7148-4c72-95e4-a451013caf8d')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Azure-Active-Directory/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5486/8052722f-2fd7-41db-a587-5db9b5ba5486/Mod2_960.jpg",
+    "ShowName": "Getting Started with Microsoft Azure Active Directory",
+    "VideoLength": "00:10:19",
+    "VideoTitle": "(Module 2) Multi-Factor Authentication (MFA)",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-03-05T14:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5486/8052722f-2fd7-41db-a587-5db9b5ba5486/Mod2_mid.mp4",
+    "Description": "This module will cover Multi-Factor Authentication (MFA) role in the Azure family. Powered by a cloud service, it is often deployed to secure on-premises applications in conjunction with an on-premise"
+  },
+  {
+    "VideoId": "fa254efd-d594-4461-90cf-a451013cf8ec",
+    "DataApi": "/Entries(guid'fa254efd-d594-4461-90cf-a451013cf8ec')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Azure-Active-Directory/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3374/c86d44a0-2296-4ecd-b7c5-8b8f414b3374/Mod3_960.jpg",
+    "ShowName": "Getting Started with Microsoft Azure Active Directory",
+    "VideoLength": "00:09:48",
+    "VideoTitle": "(Module 3) SaaS Application Access",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-03-05T14:03:14Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3374/c86d44a0-2296-4ecd-b7c5-8b8f414b3374/Mod3_mid.mp4",
+    "Description": "This module will highlight the ease of deploying SaaS Application Access to enable seamless authentication to cloud-based, SaaS or Line of Business applications.  This video is part of the Microsoft V"
+  }
+]

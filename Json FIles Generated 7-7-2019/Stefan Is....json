@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "9f6782e3-99b4-4dec-8da5-9deb01734f4e",
+    "DataApi": "/Entries(guid'9f6782e3-99b4-4dec-8da5-9deb01734f4e')/",
+    "VideoPageLink": "/Shows/StefanIs/StefanIs004",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/9/7/6/2/6/4/StefanIs004_large_ch9.png",
+    "ShowName": "Stefan Is...",
+    "VideoLength": "00:15:17",
+    "VideoTitle": "Stefan Isâ€¦ researching the art (or is it Science?) of Search",
+    "Author": "Max",
+    "UtcDateTimePublished": "2009-03-31T18:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/9/7/6/2/6/4/StefanIs004_ch9.mp4",
+    "Description": "\nBelieve it or not, Search is a relatively new technology.  You probably perform a few searches a dayâ€¦ how satisfied are you with the results? \nStefan and I sat down with Martin, a Senior Product Ma"
+  },
+  {
+    "VideoId": "bb6efd4d-be5c-47cc-bc74-9deb01735580",
+    "DataApi": "/Entries(guid'bb6efd4d-be5c-47cc-bc74-9deb01735580')/",
+    "VideoPageLink": "/Shows/StefanIs/StefanIs003",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/7/0/3/1/6/4/StefanIs003_large_ch9.png",
+    "ShowName": "Stefan Is...",
+    "VideoLength": "00:12:36",
+    "VideoTitle": "Stefan Is... diving into Live Search API 2.0 (Episode 003)",
+    "Author": "Max",
+    "UtcDateTimePublished": "2009-03-20T21:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/7/0/3/1/6/4/StefanIs003_ch9.mp4",
+    "Description": "\nYou asked to go deeper, we listened.  \nStefan and I met with Roopali from the Live Search team. \nWe had a high-level discussion about the 2nd Pillar in project â€œSilk Roadâ€: the\nLive Search API 2."
+  },
+  {
+    "VideoId": "17d29809-4e57-41b9-94bd-9deb01735b1f",
+    "DataApi": "/Entries(guid'17d29809-4e57-41b9-94bd-9deb01735b1f')/",
+    "VideoPageLink": "/Shows/StefanIs/StefanIs001",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/8/9/3/7/5/4/stefanis001a_large_ch9.jpg",
+    "ShowName": "Stefan Is...",
+    "VideoLength": "00:08:17",
+    "VideoTitle": "Stefan Isâ€¦ an infinite scroll maaaaniac! (Episode 001)",
+    "Author": "Max",
+    "UtcDateTimePublished": "2009-02-14T00:10:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/8/9/3/7/5/4/stefanis001a_ch9.mp4",
+    "Description": "\nAs this is \nStefanâ€™s first appearance on Channel 9, he explains a bit about what weâ€™re going to do in this weekly series.  If you want to skip ahead and get to the demo-goodness, check out 2:40 for"
+  }
+]

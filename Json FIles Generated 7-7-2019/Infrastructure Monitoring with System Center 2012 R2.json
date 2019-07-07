@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "bc5cd3e6-49bd-4112-b745-a227013cf3a4",
+    "DataApi": "/Entries(guid'bc5cd3e6-49bd-4112-b745-a227013cf3a4')/",
+    "VideoPageLink": "/Series/InfraMonitorSysCtr2012R2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cacf/c3ce3ca5-1cef-42a9-b1d0-80f2bab0cacf/InfraMonSysCtrR2M02_960.jpg",
+    "ShowName": "Infrastructure Monitoring with System Center 2012 R2",
+    "VideoLength": "00:20:08",
+    "VideoTitle": "Infrastructure Monitoring with System Center 2012 R2: (02) Public and Hybrid Cloud Monitoring",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-28T23:02:33.1004245Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cacf/c3ce3ca5-1cef-42a9-b1d0-80f2bab0cacf/InfraMonSysCtrR2M02_mid.mp4",
+    "Description": "This module covers Azure monitoring and monitoring distributed applications in public and private clouds. [00:21] - Public Cloud Monitoring [11:35] - Hybrid Cloud Monitoring Full course outline: Mod 0"
+  },
+  {
+    "VideoId": "83c98e24-7594-4849-8c92-a227013db65a",
+    "DataApi": "/Entries(guid'83c98e24-7594-4849-8c92-a227013db65a')/",
+    "VideoPageLink": "/Series/InfraMonitorSysCtr2012R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/81f9/cc54a933-8c68-4369-9b00-64054f8b81f9/InfraMonSysCtrR2M03_960.jpg",
+    "ShowName": "Infrastructure Monitoring with System Center 2012 R2",
+    "VideoLength": "00:55:42",
+    "VideoTitle": "Infrastructure Monitoring with System Center 2012 R2: (03) OS and Workload Monitoring",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-28T23:02:52.0976514Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/81f9/cc54a933-8c68-4369-9b00-64054f8b81f9/InfraMonSysCtrR2M03_mid.mp4",
+    "Description": "This module discusses monitoring Windows and Linux OSes, monitoring applications such as SQL and Exchange as well as System Center Advisor proactive monitoring. [00:25] - OS and Workload Monitoring [4"
+  }
+]

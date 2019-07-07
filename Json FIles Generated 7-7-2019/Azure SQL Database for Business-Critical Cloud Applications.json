@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c28888e2-688c-4a8a-a1dd-a3bd0144d06d",
+    "DataApi": "/Entries(guid'c28888e2-688c-4a8a-a1dd-a3bd0144d06d')/",
+    "VideoPageLink": "/Series/Azure-SQL-Database-for-Business-Critical-Cloud-Applications/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3cb7/832107d4-eb22-41f6-91de-f878f6163cb7/AzureSQLBusCriticalApplicationsM02_960.jpg",
+    "ShowName": "Azure SQL Database for Business-Critical Cloud Applications",
+    "VideoLength": "01:01:23",
+    "VideoTitle": "Azure SQL Database for Business-Critical Cloud Applications: (02) Business Continuity and Disaster Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T23:52:12.7389687Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3cb7/832107d4-eb22-41f6-91de-f878f6163cb7/AzureSQLBusCriticalApplicationsM02_mid.mp4",
+    "Description": "Take a deep dive into the business continuity solutions. And walk through all of the available options and how you can use them to protect your data during planned and unplanned disruptive events. [04"
+  },
+  {
+    "VideoId": "58edce75-b353-466f-9c29-a3bd014503a6",
+    "DataApi": "/Entries(guid'58edce75-b353-466f-9c29-a3bd014503a6')/",
+    "VideoPageLink": "/Series/Azure-SQL-Database-for-Business-Critical-Cloud-Applications/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/13ce/559dd6f1-e381-4177-ae9d-ee37669a13ce/AzureSQLBusCriticalApplicationsM03_960.jpg",
+    "ShowName": "Azure SQL Database for Business-Critical Cloud Applications",
+    "VideoLength": "00:53:03",
+    "VideoTitle": "Azure SQL Database for Business-Critical Cloud Applications: (03) Predictable Performance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T23:52:32.4104128Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/13ce/559dd6f1-e381-4177-ae9d-ee37669a13ce/AzureSQLBusCriticalApplicationsM03_mid.mp4",
+    "Description": "Get an understanding into how the Azure SQL Database service tiers provide predictable performance. Explore concepts, monitoring performance, and usage. [01:45] - Case for Change[09:53] - Concepts[23:"
+  },
+  {
+    "VideoId": "3d204b67-5a85-412e-bf9c-a3bd01455c73",
+    "DataApi": "/Entries(guid'3d204b67-5a85-412e-bf9c-a3bd01455c73')/",
+    "VideoPageLink": "/Series/Azure-SQL-Database-for-Business-Critical-Cloud-Applications/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9053/00cf5d91-ffd9-4d14-a89b-9a07247c9053/AzureSQLBusCriticalApplicationsM04_960.jpg",
+    "ShowName": "Azure SQL Database for Business-Critical Cloud Applications",
+    "VideoLength": "00:53:59",
+    "VideoTitle": "Azure SQL Database for Business-Critical Cloud Applications: (04) Azure SQL Database Benchmark",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T23:52:55.9599489Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9053/00cf5d91-ffd9-4d14-a89b-9a07247c9053/AzureSQLBusCriticalApplicationsM04_mid.mp4",
+    "Description": "See the benchmark and predictable performance in action, followed by a deep dive into the benchmark itself. [03:53] - Demo: First look at the benchmark in action[16:32] - Demo: Predictable Performance"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "8e99d78c-728a-4259-8bc6-a3cd0146df00",
+    "DataApi": "/Entries(guid'8e99d78c-728a-4259-8bc6-a3cd0146df00')/",
+    "VideoPageLink": "/Series/Office-365-Identity-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2694/92ad1168-d976-446e-a4ff-b5b38ce62694/O365IdentityMgmtM02_960.jpg",
+    "ShowName": "Office 365 Identity Management",
+    "VideoLength": "00:44:16",
+    "VideoTitle": "Office 365 Identity Management: (02) Directory Synchronization Is Easy with Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:30:22.1140944Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2694/92ad1168-d976-446e-a4ff-b5b38ce62694/O365IdentityMgmtM02_mid.mp4",
+    "Description": "Hear about user synchronization and why it is important. Plus, learn the recommended prerequisites for user synchronization, the options for implementing it, and other factors which can help to make y"
+  },
+  {
+    "VideoId": "c9c40afb-a00c-4040-8bc4-a3cd01481389",
+    "DataApi": "/Entries(guid'c9c40afb-a00c-4040-8bc4-a3cd01481389')/",
+    "VideoPageLink": "/Series/Office-365-Identity-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/053f/68c27f47-1cb8-48f2-800e-4e19a0b5053f/O365IdentityMgmtM03_960.jpg",
+    "ShowName": "Office 365 Identity Management",
+    "VideoLength": "00:38:25",
+    "VideoTitle": "Office 365 Identity Management: (03) Guidance for Choosing the Right Identity Management Option for Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:31:48.6129175Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/053f/68c27f47-1cb8-48f2-800e-4e19a0b5053f/O365IdentityMgmtM03_mid.mp4",
+    "Description": "Get clear guidance about scenarios for each identity management option. Plus, hear how customers can transition from one model to the next. [14:40] - Choose the Simplest Model for your Needs[22:40] - "
+  },
+  {
+    "VideoId": "1adc1b3b-3d06-404f-8cbe-a3cd01486733",
+    "DataApi": "/Entries(guid'1adc1b3b-3d06-404f-8cbe-a3cd01486733')/",
+    "VideoPageLink": "/Series/Office-365-Identity-Management/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/509e/9b43b883-5fe1-4611-abff-3d859a3d509e/O365IdentityMgmtM04_960.jpg",
+    "ShowName": "Office 365 Identity Management",
+    "VideoLength": "00:34:59",
+    "VideoTitle": "Office 365 Identity Management: (04) Third-Party Identity Providers with Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:32:23.6756072Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/509e/9b43b883-5fe1-4611-abff-3d859a3d509e/O365IdentityMgmtM04_mid.mp4",
+    "Description": "Check out options for using non-Microsoft identity providers, find out how to synchronize users from a non-Microsoft identity provider, and learn how to establish federated sign-in with them. Hear abo"
+  },
+  {
+    "VideoId": "e9e362e1-4a28-44e2-bf9f-a3cd0148b8b9",
+    "DataApi": "/Entries(guid'e9e362e1-4a28-44e2-bf9f-a3cd0148b8b9')/",
+    "VideoPageLink": "/Series/Office-365-Identity-Management/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/321c/a8401f6e-9ea5-4396-a594-dcd16f2d321c/O365IdentityMgmtM05_960.jpg",
+    "ShowName": "Office 365 Identity Management",
+    "VideoLength": "00:38:42",
+    "VideoTitle": "Office 365 Identity Management: (05) Multi-Factor Authentication Use with Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:33:05.5262242Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/321c/a8401f6e-9ea5-4396-a594-dcd16f2d321c/O365IdentityMgmtM05_mid.mp4",
+    "Description": "Explore how Office 365 customers can take advantage of Multi-Factor Authentication, including configuration, enrollment, and enabled users. Get a look at best practices and sign-in details for Office "
+  },
+  {
+    "VideoId": "d2e556cb-f7bd-4404-adbb-a3cd01490e46",
+    "DataApi": "/Entries(guid'd2e556cb-f7bd-4404-adbb-a3cd01490e46')/",
+    "VideoPageLink": "/Series/Office-365-Identity-Management/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d397/678ac7f4-c050-427d-8d4f-beb8f854d397/O365IdentityMgmtM06_960.jpg",
+    "ShowName": "Office 365 Identity Management",
+    "VideoLength": "00:51:01",
+    "VideoTitle": "Office 365 Identity Management: (06) Advanced Identity Management Topics for Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:33:36.6649502Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d397/678ac7f4-c050-427d-8d4f-beb8f854d397/O365IdentityMgmtM06_mid.mp4",
+    "Description": "Get answers to many common questions about directory integration with Office 365, which uses Azure Active Directory. Learn about synchronizing accounts from your On-Premises Active Directory using the"
+  },
+  {
+    "VideoId": "0c48e84b-f8b7-4ec5-bc72-a3cd01494dfb",
+    "DataApi": "/Entries(guid'0c48e84b-f8b7-4ec5-bc72-a3cd01494dfb')/",
+    "VideoPageLink": "/Series/Office-365-Identity-Management/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5442/a93371ac-19b4-4f32-87a6-c4ae06315442/O365IdentityMgmtM07_960.jpg",
+    "ShowName": "Office 365 Identity Management",
+    "VideoLength": "00:35:06",
+    "VideoTitle": "Office 365 Identity Management: (07) New Features for Office 365 Identity Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:33:59.8914064Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5442/a93371ac-19b4-4f32-87a6-c4ae06315442/O365IdentityMgmtM07_mid.mp4",
+    "Description": "Step through new features added for Office 365 identity management during 2013 and 2014. [12:59] - Office 365 SSO with SAML 2.0 Identity Providers[27:37] - Azure Actice Directory Sync ServicesFull cou"
+  }
+]

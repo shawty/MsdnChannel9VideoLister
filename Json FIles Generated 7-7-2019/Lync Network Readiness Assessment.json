@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "97645a79-f356-4dd4-9013-a306015ebf44",
+    "DataApi": "/Entries(guid'97645a79-f356-4dd4-9013-a306015ebf44')/",
+    "VideoPageLink": "/Series/Lync-Network-Readiness-Assessment/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/77c9/201efde9-fe71-4969-b0c9-99321f2f77c9/LyncNetworkReadinessAssessmentM02_960.jpg",
+    "ShowName": "Lync Network Readiness Assessment",
+    "VideoLength": "00:44:18",
+    "VideoTitle": "Lync Network Readiness Assessment: (02) The Discovery Phase",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-08T05:07:49.1569862Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/77c9/201efde9-fe71-4969-b0c9-99321f2f77c9/LyncNetworkReadinessAssessmentM02_mid.mp4",
+    "Description": "The goal of the Discovery phase is to gain a full understanding of all aspects of the network infrastructure, the existing telephony infrastructure, the conferencing infrastructure, and details of the"
+  },
+  {
+    "VideoId": "05b528bb-6fa8-4f1f-befd-a306015f308e",
+    "DataApi": "/Entries(guid'05b528bb-6fa8-4f1f-befd-a306015f308e')/",
+    "VideoPageLink": "/Series/Lync-Network-Readiness-Assessment/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f483/ab1abf58-61c7-4618-b15a-ddff9d66f483/LyncNetworkReadinessAssessmentM03_960.jpg",
+    "ShowName": "Lync Network Readiness Assessment",
+    "VideoLength": "01:13:54",
+    "VideoTitle": "Lync Network Readiness Assessment: (03) The Modeling Phase",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-08T05:08:46.1605442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f483/ab1abf58-61c7-4618-b15a-ddff9d66f483/LyncNetworkReadinessAssessmentM03_mid.mp4",
+    "Description": "Usage and traffic modeling is a key part of a network readiness assessment because you need to know the usage patterns and the actual traffic on the network to properly estimate the bandwidth that Lyn"
+  },
+  {
+    "VideoId": "6fd675ef-db11-4f6a-9c9c-a306015f7ea7",
+    "DataApi": "/Entries(guid'6fd675ef-db11-4f6a-9c9c-a306015f7ea7')/",
+    "VideoPageLink": "/Series/Lync-Network-Readiness-Assessment/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d04a/51a46491-ba8e-4ff4-855b-795742f3d04a/LyncNetworkReadinessAssessmentM04_960.jpg",
+    "ShowName": "Lync Network Readiness Assessment",
+    "VideoLength": "00:56:48",
+    "VideoTitle": "Lync Network Readiness Assessment: (04) The Simulation Phase",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-08T05:10:04.8066213Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d04a/51a46491-ba8e-4ff4-855b-795742f3d04a/LyncNetworkReadinessAssessmentM04_mid.mp4",
+    "Description": "Traffic simulation is an important step in a network readiness assessment because it provides a way of predicting how a network will perform. This module covers how to perform traffic simulations to u"
+  },
+  {
+    "VideoId": "d2e00454-9abe-45d3-90c8-a306015fe95c",
+    "DataApi": "/Entries(guid'd2e00454-9abe-45d3-90c8-a306015fe95c')/",
+    "VideoPageLink": "/Series/Lync-Network-Readiness-Assessment/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9a7b/ec365894-77e7-4922-9399-05580c149a7b/LyncNetworkReadinessAssessmentM05_960.jpg",
+    "ShowName": "Lync Network Readiness Assessment",
+    "VideoLength": "00:29:02",
+    "VideoTitle": "Lync Network Readiness Assessment: (05) Network Controls and Solutions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-08T05:10:50.5129451Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9a7b/ec365894-77e7-4922-9399-05580c149a7b/LyncNetworkReadinessAssessmentM05_mid.mp4",
+    "Description": "Customers are often not equipped to manage the complexity of Lync. In addition to completing a network assessment, you can take many proactive steps to prevent the most common scenarios that generate "
+  },
+  {
+    "VideoId": "3d6f071b-9121-45bb-9f79-a30601602632",
+    "DataApi": "/Entries(guid'3d6f071b-9121-45bb-9f79-a30601602632')/",
+    "VideoPageLink": "/Series/Lync-Network-Readiness-Assessment/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aff4/217d2e4d-0660-4ef2-bde5-f331ff71aff4/LyncNetworkReadinessAssessmentM06_960.jpg",
+    "ShowName": "Lync Network Readiness Assessment",
+    "VideoLength": "00:45:34",
+    "VideoTitle": "Lync Network Readiness Assessment: (06) The Recommendations Phase",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-08T05:11:14.4137806Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aff4/217d2e4d-0660-4ef2-bde5-f331ff71aff4/LyncNetworkReadinessAssessmentM06_mid.mp4",
+    "Description": "Now it's time to recommend areas for investigation. This module examines how to analyze the data that you compile, how to make recommendations based on that data, and how to create reports based on th"
+  }
+]

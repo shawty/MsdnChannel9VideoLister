@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6c050aa0-3b3d-48f9-982e-9deb0035cc26",
+    "DataApi": "/Entries(guid'6c050aa0-3b3d-48f9-982e-9deb0035cc26')/",
+    "VideoPageLink": "/Blogs/JackGr/Fabrikam-Jets-Integrating-Codename-Dallas-with-AppFabric-Access-Control",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/6/6/0/1/5/FabrikamJetsIntegratingCodenameDallaswithAppFabricAccessControl_512_ch9.png",
+    "ShowName": "JackGr",
+    "VideoLength": "00:06:04",
+    "VideoTitle": "Fabrikam Jets - Integrating Codename \"Dallas\" with AppFabric Access Control",
+    "Author": "Jack Greenfield",
+    "UtcDateTimePublished": "2009-12-03T21:13:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/6/6/0/1/5/FabrikamJetsIntegratingCodenameDallaswithAppFabricAccessControl_ch9.mp4",
+    "Description": "This screencast shows how AppFabric Access Control (AC) can be used to provide identity\n federation, trust delegation, service authorization and integration with Active\n Directory Federation Service"
+  }
+]

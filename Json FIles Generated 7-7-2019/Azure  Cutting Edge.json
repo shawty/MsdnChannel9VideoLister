@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "2725ac94-193f-4eed-bd78-a7640096840e",
+    "DataApi": "/Entries(guid'2725ac94-193f-4eed-bd78-a7640096840e')/",
+    "VideoPageLink": "/Blogs/Azure--Cutting-Edge/Azure--Whats-Brewing--Feb-2017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74f6/c18c25be-4e68-403c-9753-572d760974f6/WBFeb2017_960.jpg",
+    "ShowName": "Azure : Cutting Edge",
+    "VideoLength": "00:30:44",
+    "VideoTitle": "Azure : Whats Brewing : Feb 2017",
+    "Author": "Aditee Rele",
+    "UtcDateTimePublished": "2017-04-29T09:13:32.0019418Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74f6/c18c25be-4e68-403c-9753-572d760974f6/WBFeb2017_mid.mp4",
+    "Description": "Feb 2017 updates on Azure "
+  },
+  {
+    "VideoId": "a7522804-b1fe-4fc1-8e97-a7640094d9d9",
+    "DataApi": "/Entries(guid'a7522804-b1fe-4fc1-8e97-a7640094d9d9')/",
+    "VideoPageLink": "/Blogs/Azure--Cutting-Edge/Azure--Whats-Brewing--Jan-2017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bb7/e4a104ec-1bd3-4f74-ae66-3b7a802f2bb7/WBJan2017_960.jpg",
+    "ShowName": "Azure : Cutting Edge",
+    "VideoLength": "00:31:56",
+    "VideoTitle": "Azure : Whats Brewing : Jan 2017",
+    "Author": "Aditee Rele",
+    "UtcDateTimePublished": "2017-04-29T09:06:26.6348355Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bb7/e4a104ec-1bd3-4f74-ae66-3b7a802f2bb7/WBJan2017_mid.mp4",
+    "Description": "Azure : Whats Brewing : Jan 2016 "
+  },
+  {
+    "VideoId": "b77278fe-f8a8-483e-80cf-a764007f50eb",
+    "DataApi": "/Entries(guid'b77278fe-f8a8-483e-80cf-a764007f50eb')/",
+    "VideoPageLink": "/Blogs/Azure--Cutting-Edge/Azure--Whats-Brewing--Sep-2016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bdef/f9865e71-cd96-40e2-93e9-7836fde8bdef/WBSep2016_960.jpg",
+    "ShowName": "Azure : Cutting Edge",
+    "VideoLength": "00:59:32",
+    "VideoTitle": "Azure : Whats Brewing : Sep 2016",
+    "Author": "Aditee Rele",
+    "UtcDateTimePublished": "2017-04-29T08:40:43.6092294Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bdef/f9865e71-cd96-40e2-93e9-7836fde8bdef/WBSep2016_mid.mp4",
+    "Description": "Azure Updates Sep 2016 "
+  },
+  {
+    "VideoId": "31258163-8f3d-486c-ab28-a7640075d2a9",
+    "DataApi": "/Entries(guid'31258163-8f3d-486c-ab28-a7640075d2a9')/",
+    "VideoPageLink": "/Blogs/Azure--Cutting-Edge/Azure--Whats-Brewing--August-2016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d1c/27b6a804-1831-4d37-86f7-0472434f4d1c/WBAug2016_960.jpg",
+    "ShowName": "Azure : Cutting Edge",
+    "VideoLength": "00:46:59",
+    "VideoTitle": "Azure : Whats Brewing : August 2016",
+    "Author": "Aditee Rele",
+    "UtcDateTimePublished": "2017-04-29T07:28:16.6011592Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d1c/27b6a804-1831-4d37-86f7-0472434f4d1c/WBAug2016_mid.mp4",
+    "Description": "Azure updates from August 2016  "
+  },
+  {
+    "VideoId": "e3e4834a-0176-430b-acc2-a764006e2e01",
+    "DataApi": "/Entries(guid'e3e4834a-0176-430b-acc2-a764006e2e01')/",
+    "VideoPageLink": "/Blogs/Azure--Cutting-Edge/Azure--Whats-Brewing--July-2016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f215/38e47981-a3f3-4235-be29-18bb7114f215/WBJul2016_960.jpg",
+    "ShowName": "Azure : Cutting Edge",
+    "VideoLength": "00:23:56",
+    "VideoTitle": "Azure : Whats Brewing : July 2016",
+    "Author": "Aditee Rele",
+    "UtcDateTimePublished": "2017-04-29T07:10:10.5740745Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f215/38e47981-a3f3-4235-be29-18bb7114f215/WBJul2016_mid.mp4",
+    "Description": "Azure updates as of July 2016 "
+  }
+]

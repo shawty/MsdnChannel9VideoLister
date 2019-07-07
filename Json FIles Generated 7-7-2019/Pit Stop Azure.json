@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "17648047-384d-4b96-870e-a5720143bcb9",
+    "DataApi": "/Entries(guid'17648047-384d-4b96-870e-a5720143bcb9')/",
+    "VideoPageLink": "/Series/Pit-Stop-Azure/How-to-setup-a-Linux-VM-in-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db3b/0fd7bcf7-6f30-4a0f-847c-4d971015db3b/howtocreatelinuxvm_960.jpg",
+    "ShowName": "Pit Stop: Azure",
+    "VideoLength": "00:03:23",
+    "VideoTitle": "How to setup a Linux VM in Azure",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-27T23:26:58.3701339Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db3b/0fd7bcf7-6f30-4a0f-847c-4d971015db3b/howtocreatelinuxvm_mid.mp4",
+    "Description": "This video shows you how to use the Azure Preview portal to create a Linux Virtual Machine. Next Steps Learn: Azure Iaas to explore and build your foundational cloud skillssWatch: Azure videos on Micr"
+  },
+  {
+    "VideoId": "5fc38158-741b-4c6e-aef4-a57201438d40",
+    "DataApi": "/Entries(guid'5fc38158-741b-4c6e-aef4-a57201438d40')/",
+    "VideoPageLink": "/Series/Pit-Stop-Azure/How-to-connect-to-a-Virtual-Machine",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5d8d/0b82094c-a45d-4d54-82ae-49d90e045d8d/howtoconnectoVM_960.jpg",
+    "ShowName": "Pit Stop: Azure",
+    "VideoLength": "00:00:59",
+    "VideoTitle": "How to connect to a Virtual Machine",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-27T23:27:05.7501266Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5d8d/0b82094c-a45d-4d54-82ae-49d90e045d8d/howtoconnectoVM_mid.mp4",
+    "Description": "Walk through connecting and logging onto a Virtual Machine using the Azure Preview Portal. Next Steps Learn: Azure Iaas to explore and build your foundational cloud skillssWatch: Azure videos on Micro"
+  },
+  {
+    "VideoId": "48e5c405-382f-4a1f-b056-a572014358c2",
+    "DataApi": "/Entries(guid'48e5c405-382f-4a1f-b056-a572014358c2')/",
+    "VideoPageLink": "/Series/Pit-Stop-Azure/How-to-use-Azure-Storage",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ffae/fcc37d29-bfc3-466a-ba35-f56dde82ffae/howtouseAzurestorage_960.jpg",
+    "ShowName": "Pit Stop: Azure",
+    "VideoLength": "00:07:51",
+    "VideoTitle": "How to use Azure Storage",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-27T23:27:12.5937918Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ffae/fcc37d29-bfc3-466a-ba35-f56dde82ffae/howtouseAzurestorage_mid.mp4",
+    "Description": "This video provides an introduction to Microsoft Azure Storage for developers, IT Pros, and business decision makers. It includes:  What Azure Storage is and how you can take advantage of it in your c"
+  }
+]

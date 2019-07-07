@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5a66b354-d1f2-49bb-afb2-a266015f7510",
+    "DataApi": "/Entries(guid'5a66b354-d1f2-49bb-afb2-a266015f7510')/",
+    "VideoPageLink": "/Series/Admin-SQL-Server-2012/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/13c8/54014fc7-a4e0-42b0-b3bd-8c67881b13c8/SQL2012AdminM02_960.jpg",
+    "ShowName": "Administering Microsoft SQL Server 2012",
+    "VideoLength": "00:55:47",
+    "VideoTitle": "Administering Microsoft SQL Server 2012: (02) Maintain Instances and Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-29T23:35:21.8508841Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/13c8/54014fc7-a4e0-42b0-b3bd-8c67881b13c8/SQL2012AdminM02_mid.mp4",
+    "Description": "In this module you will learn about some of the frequently used instance-level and database-level options. Implementing the primary automation features of jobs and alerts is discussed and demonstrated"
+  },
+  {
+    "VideoId": "1b778cd2-9455-4d2a-b348-a266015fc798",
+    "DataApi": "/Entries(guid'1b778cd2-9455-4d2a-b348-a266015fc798')/",
+    "VideoPageLink": "/Series/Admin-SQL-Server-2012/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e37f/47a92f9c-5bbb-4f24-bf6a-41a7a3e1e37f/SQL2012AdminM03_960.jpg",
+    "ShowName": "Administering Microsoft SQL Server 2012",
+    "VideoLength": "00:53:44",
+    "VideoTitle": "Administering Microsoft SQL Server 2012: (03) Performance Optimization and Troubleshooting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-29T23:35:52.9330016Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e37f/47a92f9c-5bbb-4f24-bf6a-41a7a3e1e37f/SQL2012AdminM03_mid.mp4",
+    "Description": "SQL Servers operate in a dynamic environment; conditions change moment by moment. This module discusses and demonstrates primary diagnostic and performance enhancement tools such as the Profiler, the "
+  },
+  {
+    "VideoId": "2ae754ab-0893-4311-b497-a26601601657",
+    "DataApi": "/Entries(guid'2ae754ab-0893-4311-b497-a26601601657')/",
+    "VideoPageLink": "/Series/Admin-SQL-Server-2012/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7bc8/420df01f-9343-43ab-9fc1-0fac04da7bc8/SQL2012AdminM04_960.jpg",
+    "ShowName": "Administering Microsoft SQL Server 2012",
+    "VideoLength": "01:02:19",
+    "VideoTitle": "Administering Microsoft SQL Server 2012: (04) Manage Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-29T23:36:24.3394332Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7bc8/420df01f-9343-43ab-9fc1-0fac04da7bc8/SQL2012AdminM04_mid.mp4",
+    "Description": "Protection and stewardship of data is one of the database administrator's first orders of business. In this module you'll gain an understanding of tasks and strategies that are related to backup and r"
+  },
+  {
+    "VideoId": "98de4ed8-3862-4269-a4fe-a2660160663a",
+    "DataApi": "/Entries(guid'98de4ed8-3862-4269-a4fe-a2660160663a')/",
+    "VideoPageLink": "/Series/Admin-SQL-Server-2012/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aaf5/ca9b86b8-fb7c-47d4-a737-88e53f1aaaf5/SQL2012AdminM05_960.jpg",
+    "ShowName": "Administering Microsoft SQL Server 2012",
+    "VideoLength": "00:47:39",
+    "VideoTitle": "Administering Microsoft SQL Server 2012: (05) Implement Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-29T23:37:27.5084311Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aaf5/ca9b86b8-fb7c-47d4-a737-88e53f1aaaf5/SQL2012AdminM05_mid.mp4",
+    "Description": "&quot;When in doubt, it's my fault&quot; is what the DBA must live by, and this is definitely true regarding the stewardship of security. Instance, database, and object security strategies are examine"
+  },
+  {
+    "VideoId": "5c24e3d2-c00e-4f2c-8c82-a2660160b7fb",
+    "DataApi": "/Entries(guid'5c24e3d2-c00e-4f2c-8c82-a2660160b7fb')/",
+    "VideoPageLink": "/Series/Admin-SQL-Server-2012/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/67f6/151400d4-c9d1-4411-8cdf-385dcdac67f6/SQL2012AdminM06_960.jpg",
+    "ShowName": "Administering Microsoft SQL Server 2012",
+    "VideoLength": "01:05:09",
+    "VideoTitle": "Administering Microsoft SQL Server 2012: (06) High Availability Options",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T16:12:35.6111409Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/67f6/151400d4-c9d1-4411-8cdf-385dcdac67f6/SQL2012AdminM06_mid.mp4",
+    "Description": "Some of the planet's heaviest database workloads sit on SQL Server, and the loss of availability could be catastrophic. SQL Server offers a number of high availability technologies that can be used al"
+  }
+]

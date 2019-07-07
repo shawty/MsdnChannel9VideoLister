@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "6701732f-206e-4f12-90c1-a6c5011d6efc",
+    "DataApi": "/Entries(guid'6701732f-206e-4f12-90c1-a6c5011d6efc')/",
+    "VideoPageLink": "/Series/Azure-Networking-Deep-Dive-EMEA-TZ/Azure-Networking-Deep-Dive-21112016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be5d/69bf7122-33f3-4e45-b713-4f7c254ebe5d/azurenetworkigdeepdive21112016_960.jpg",
+    "ShowName": "Azure Networking Deep Dive (EMEA TZ)",
+    "VideoLength": "01:00:34",
+    "VideoTitle": "November - Securing your virtual networks",
+    "Author": "Sallym",
+    "UtcDateTimePublished": "2016-11-22T18:46:30.3709419Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be5d/69bf7122-33f3-4e45-b713-4f7c254ebe5d/azurenetworkigdeepdive21112016_mid.mp4",
+    "Description": "Topics on this episode: [00:00] Introduction of the series &amp; the team[07:08] A real life networking storySecuring your virtual networks[15:00] Security Layers[25:22] Isolation[26:29] Network Secur"
+  },
+  {
+    "VideoId": "bdca74c6-fe06-4497-95dc-a6db01216480",
+    "DataApi": "/Entries(guid'bdca74c6-fe06-4497-95dc-a6db01216480')/",
+    "VideoPageLink": "/Series/Azure-Networking-Deep-Dive-EMEA-TZ/Azure-Networking-Deep-Dive-13122016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ea27/890bd772-1df7-4b98-9eca-4220b57dea27/azurenetworkingdeepdive13122016_960.jpg",
+    "ShowName": "Azure Networking Deep Dive (EMEA TZ)",
+    "VideoLength": "00:46:43",
+    "VideoTitle": "December - Inter-Vnet Connectivity",
+    "Author": "Sallym",
+    "UtcDateTimePublished": "2016-12-15T16:02:42.2325594Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ea27/890bd772-1df7-4b98-9eca-4220b57dea27/azurenetworkingdeepdive13122016_mid.mp4",
+    "Description": "Topics on this episode: [00:00] Introduction of the series &amp; the team[04:45] Networking System IntegratorsInter-Vnet connectivity[09:00] VNet-2-Vnet Connection[20:24] Vnet Peering"
+  },
+  {
+    "VideoId": "421e02aa-4c42-4992-84be-a70c010931cb",
+    "DataApi": "/Entries(guid'421e02aa-4c42-4992-84be-a70c010931cb')/",
+    "VideoPageLink": "/Series/Azure-Networking-Deep-Dive-EMEA-TZ/January-Hybrid-Cloud-Connectivity-Options",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3860/78a01fc1-293b-4f12-ad40-0fdcf01f3860/azurenetworkingdeepdive310117_960.jpg",
+    "ShowName": "Azure Networking Deep Dive (EMEA TZ)",
+    "VideoLength": "00:45:16",
+    "VideoTitle": "January - Hybrid-Cloud Connectivity Options",
+    "Author": "Sallym",
+    "UtcDateTimePublished": "2017-02-01T11:42:44.5679795Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3860/78a01fc1-293b-4f12-ad40-0fdcf01f3860/azurenetworkingdeepdive310117_mid.mp4",
+    "Description": "Topics on this episode: [00:00] Introduction of the series &amp; the teamHybrid-Cloud Connectivity Options[03:02] Overview[10:07] Site-to-Site[12:33] ExpressRoute"
+  },
+  {
+    "VideoId": "bea81f4f-5b29-4d90-90a3-a7280123f333",
+    "DataApi": "/Entries(guid'bea81f4f-5b29-4d90-90a3-a7280123f333')/",
+    "VideoPageLink": "/Series/Azure-Networking-Deep-Dive-EMEA-TZ/February-Virtual-Datacenter-approach",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/da0c/2dbcd571-63c2-4b27-8797-d446494bda0c/azurenetworkingdeepdive28022017_960.jpg",
+    "ShowName": "Azure Networking Deep Dive (EMEA TZ)",
+    "VideoLength": "00:56:34",
+    "VideoTitle": "February - Virtual Datacenter approach",
+    "Author": "Sallym",
+    "UtcDateTimePublished": "2017-03-01T14:27:48.6247461Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/da0c/2dbcd571-63c2-4b27-8797-d446494bda0c/azurenetworkingdeepdive28022017_mid.mp4",
+    "Description": "Topics on this episode: [00:00] Introduction of the series &amp; the teamVirtual Datacenter Approach[07:35] Customer Requirements[13:34] Silos Approach[17:15] Virtual Datacenter Architecture[24:24] Bu"
+  },
+  {
+    "VideoId": "95992932-19a1-4306-a420-a74c01189ba4",
+    "DataApi": "/Entries(guid'95992932-19a1-4306-a420-a74c01189ba4')/",
+    "VideoPageLink": "/Series/Azure-Networking-Deep-Dive-EMEA-TZ/March-Implementing-ExpressRoute",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9ed8/ddd62eb6-9a30-44ce-aefe-45dd00cd9ed8/azurenetworkingdeepdive30032017_960.jpg",
+    "ShowName": "Azure Networking Deep Dive (EMEA TZ)",
+    "VideoLength": "00:52:18",
+    "VideoTitle": "March - Implementing ExpressRoute",
+    "Author": "Sallym",
+    "UtcDateTimePublished": "2017-04-21T09:16:23.3161416Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9ed8/ddd62eb6-9a30-44ce-aefe-45dd00cd9ed8/azurenetworkingdeepdive30032017_mid.mp4",
+    "Description": "Topics on this episode: [00:00] Introduction of the series &amp; the team[03:34] Fear of Implementing ExpressRoute[08:05] Deployment Options[13:00] Peerings &amp; Requirements[19:43] Before Implementi"
+  },
+  {
+    "VideoId": "004195f7-4af1-4025-a5fd-a76200e5f0f6",
+    "DataApi": "/Entries(guid'004195f7-4af1-4025-a5fd-a76200e5f0f6')/",
+    "VideoPageLink": "/Series/Azure-Networking-Deep-Dive-EMEA-TZ/April-Architecting-an-Azure-Networking-Solution",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f7b1/11561841-de1d-47e7-aee0-81dfd043f7b1/aprilnetworkingdeepdive_960.jpg",
+    "ShowName": "Azure Networking Deep Dive (EMEA TZ)",
+    "VideoLength": "00:42:24",
+    "VideoTitle": "April - Architecting an Azure Networking Solution",
+    "Author": "Sallym",
+    "UtcDateTimePublished": "2017-04-27T14:32:36.6552176Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f7b1/11561841-de1d-47e7-aee0-81dfd043f7b1/aprilnetworkingdeepdive_mid.mp4",
+    "Description": "Topics on this episode: [00:00] Introduction of the series &amp; the team[04:24] Architecting an Azure Networking Solution"
+  }
+]

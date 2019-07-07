@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "eb7e0129-895d-45c9-aab4-a3c3014c73ff",
+    "DataApi": "/Entries(guid'eb7e0129-895d-45c9-aab4-a3c3014c73ff')/",
+    "VideoPageLink": "/Series/Data-Loss-Prevention-in-Office-365/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/083b/dc971e40-80df-4d6b-ab8b-7b453c54083b/DataLossPreventionInO365M02_960.jpg",
+    "ShowName": "Data Loss Prevention in Office 365",
+    "VideoLength": "00:11:34",
+    "VideoTitle": "Data Loss Prevention in Office 365: (02) End User Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:42:04.6663338Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/083b/dc971e40-80df-4d6b-ab8b-7b453c54083b/DataLossPreventionInO365M02_mid.mp4",
+    "Description": "Look at how DLP in Office 365 is used to educate and empower users to handle sensitive information. As an administrator, it is important to understand DLP from the end users' perspective before tuning"
+  },
+  {
+    "VideoId": "eb17f22b-914e-465a-9da1-a3c3014ca872",
+    "DataApi": "/Entries(guid'eb17f22b-914e-465a-9da1-a3c3014ca872')/",
+    "VideoPageLink": "/Series/Data-Loss-Prevention-in-Office-365/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09b9/44c379fb-6816-44a2-94e2-ec0d74d609b9/DataLossPreventionInO365M03_960.jpg",
+    "ShowName": "Data Loss Prevention in Office 365",
+    "VideoLength": "00:16:12",
+    "VideoTitle": "Data Loss Prevention in Office 365: (03) DLP Policy Management Fundamentals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:42:25.9819705Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09b9/44c379fb-6816-44a2-94e2-ec0d74d609b9/DataLossPreventionInO365M03_mid.mp4",
+    "Description": "Look at how DLP in Office 365 is used to educate and empower users to handle sensitive information. As an administrator, it is important to understand DLP from the end users' perspective before tuning"
+  },
+  {
+    "VideoId": "8969fce5-7a54-43f6-89c8-a3c3014d09dd",
+    "DataApi": "/Entries(guid'8969fce5-7a54-43f6-89c8-a3c3014d09dd')/",
+    "VideoPageLink": "/Series/Data-Loss-Prevention-in-Office-365/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0142/44228a21-3aef-4339-aedb-036b51b50142/DataLossPreventionInO365M04_960.jpg",
+    "ShowName": "Data Loss Prevention in Office 365",
+    "VideoLength": "00:14:37",
+    "VideoTitle": "Data Loss Prevention in Office 365: (04) Under the Hood: Sensitive Content Detection",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:42:42.9838213Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0142/44228a21-3aef-4339-aedb-036b51b50142/DataLossPreventionInO365M04_mid.mp4",
+    "Description": "Explore how Office 365 detects sensitive content, including out-of-the-box sensitive content types and customizing content detection using document fingerprints. "
+  },
+  {
+    "VideoId": "b878eee8-ad65-41ac-bafa-a3c3014d329f",
+    "DataApi": "/Entries(guid'b878eee8-ad65-41ac-bafa-a3c3014d329f')/",
+    "VideoPageLink": "/Series/Data-Loss-Prevention-in-Office-365/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dcbd/0461dc13-6ea4-41a4-aec1-19bcb33adcbd/DataLossPreventionInO365M05_960.jpg",
+    "ShowName": "Data Loss Prevention in Office 365",
+    "VideoLength": "00:11:14",
+    "VideoTitle": "Data Loss Prevention in Office 365: (05) DLP Reporting and Customization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:43:23.0516272Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dcbd/0461dc13-6ea4-41a4-aec1-19bcb33adcbd/DataLossPreventionInO365M05_mid.mp4",
+    "Description": "Look into a variety of topics, including the incident reports available on DLP and on DLP extensibility, such as end user policy tip messages. "
+  }
+]

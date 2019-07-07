@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "78aefb36-c327-467a-a948-a58a00808c75",
+    "DataApi": "/Entries(guid'78aefb36-c327-467a-a948-a58a00808c75')/",
+    "VideoPageLink": "/Series/Starting-Growing-and-Accelerating-a-Business-in-Agriculture/How-do-I-grow-a-business-in-agriculture",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1611/483ef7cd-35f6-4ced-9110-6fec95bd1611/GrowBusinessinAgriculture_960.jpg",
+    "ShowName": "Starting, Growing and Accelerating a Business in Agriculture",
+    "VideoLength": "00:14:11",
+    "VideoTitle": "How do I grow a business in agriculture?",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-01-18T05:43:57.3114353Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1611/483ef7cd-35f6-4ced-9110-6fec95bd1611/GrowBusinessinAgriculture_mid.mp4",
+    "Description": "The prominent theme of this module is encouraging entrepreneurs to plan their growth. Factoring expansion into financial plans is recommended and the introduction of technology in this stage is recomm"
+  },
+  {
+    "VideoId": "d4739494-07f9-4951-9c94-a58a00803524",
+    "DataApi": "/Entries(guid'd4739494-07f9-4951-9c94-a58a00803524')/",
+    "VideoPageLink": "/Series/Starting-Growing-and-Accelerating-a-Business-in-Agriculture/How-do-I-start-a-business-in-agriculture",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e412/d2e20150-3df9-412f-a5e8-117f1e18e412/StartBusinessinAgriculture_960.jpg",
+    "ShowName": "Starting, Growing and Accelerating a Business in Agriculture",
+    "VideoLength": "00:23:22",
+    "VideoTitle": "How do I start a business in agriculture?",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-01-18T05:44:01.2668287Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e412/d2e20150-3df9-412f-a5e8-117f1e18e412/StartBusinessinAgriculture_mid.mp4",
+    "Description": "Edwin reminds entrepreneurs that how one starts a business is critical. He encourages the use of a business plan to enable growth. "
+  },
+  {
+    "VideoId": "67445ac0-cc38-4623-9ff0-a58a007fd9d8",
+    "DataApi": "/Entries(guid'67445ac0-cc38-4623-9ff0-a58a007fd9d8')/",
+    "VideoPageLink": "/Series/Starting-Growing-and-Accelerating-a-Business-in-Agriculture/Understanding-the-agricultural-space-for-SMEs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d76/29e2a8dd-7cf4-46d8-aca8-ad96c90f3d76/AgriculturalSpaceforSMEs_960.jpg",
+    "ShowName": "Starting, Growing and Accelerating a Business in Agriculture",
+    "VideoLength": "00:25:37",
+    "VideoTitle": "Understanding the agricultural space for SMEs",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-01-18T05:44:05.2361016Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d76/29e2a8dd-7cf4-46d8-aca8-ad96c90f3d76/AgriculturalSpaceforSMEs_mid.mp4",
+    "Description": "Edwin provides entrepreneurs with important things to consider before starting an agrarian business. He advises entrepreneurs to do research to understand what their country can best offer, in terms o"
+  }
+]

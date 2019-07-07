@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "0dc7d3e3-a6de-4993-9cc2-a43f011fcaba",
+    "DataApi": "/Entries(guid'0dc7d3e3-a6de-4993-9cc2-a43f011fcaba')/",
+    "VideoPageLink": "/Series/Universal-Windows-App-Development-with-Cortana-and-the-Speech-SDK/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6657/73fb9a2c-5709-4077-a628-636ba8fd6657/629UniversalAppDevCortanaSpeechSDKM02_960.jpg",
+    "ShowName": "Universal Windows App Development with Cortana and the Speech SDK",
+    "VideoLength": "00:59:22",
+    "VideoTitle": "Universal Windows App Development with Cortana and the Speech SDK: (02) Using Speech Synthesis in Mobile Apps",
+    "Author": "Nick Landry",
+    "UtcDateTimePublished": "2015-02-16T02:39:08.7033224Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6657/73fb9a2c-5709-4077-a628-636ba8fd6657/629UniversalAppDevCortanaSpeechSDKM02_mid.mp4",
+    "Description": "Get started with Speech Synthesis, work with text-to-speech voices and languages, and look at pausing and resuming TTS playback. Learn about custom speech synthesis and tuning pronunciation using SSML"
+  },
+  {
+    "VideoId": "d6942422-9634-448f-b9bc-a43f011ff4ca",
+    "DataApi": "/Entries(guid'd6942422-9634-448f-b9bc-a43f011ff4ca')/",
+    "VideoPageLink": "/Series/Universal-Windows-App-Development-with-Cortana-and-the-Speech-SDK/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d051/d747b003-2734-44ca-b5dd-08c578b3d051/629UniversalAppDevCortanaSpeechSDKM03_960.jpg",
+    "ShowName": "Universal Windows App Development with Cortana and the Speech SDK",
+    "VideoLength": "00:35:40",
+    "VideoTitle": "Universal Windows App Development with Cortana and the Speech SDK: (03) Cortana Integration & Voice Commands",
+    "Author": "Nick Landry",
+    "UtcDateTimePublished": "2015-02-16T02:39:23.2915625Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d051/d747b003-2734-44ca-b5dd-08c578b3d051/629UniversalAppDevCortanaSpeechSDKM03_mid.mp4",
+    "Description": "Explore Cortana integration, voice commands, and working with multiple command sets in VCD. Learn about deep linking to secondary pages in your apps in response to voice commands, phrase topics, parsi"
+  },
+  {
+    "VideoId": "49c102ee-096c-4345-9099-a43f01202824",
+    "DataApi": "/Entries(guid'49c102ee-096c-4345-9099-a43f01202824')/",
+    "VideoPageLink": "/Series/Universal-Windows-App-Development-with-Cortana-and-the-Speech-SDK/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b301/bd2955b0-c3aa-46c0-9407-ae20cae2b301/629UniversalAppDevCortanaSpeechSDKM04_960.jpg",
+    "ShowName": "Universal Windows App Development with Cortana and the Speech SDK",
+    "VideoLength": "00:54:55",
+    "VideoTitle": "Universal Windows App Development with Cortana and the Speech SDK: (04) Speech Recognition in Apps",
+    "Author": "Nick Landry",
+    "UtcDateTimePublished": "2015-02-16T02:39:36.7209364Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b301/bd2955b0-c3aa-46c0-9407-ae20cae2b301/629UniversalAppDevCortanaSpeechSDKM04_mid.mp4",
+    "Description": "Take a look at in-app speech recognition (open dictation), phrase lists, and conversation app creation. Work with multiple grammars in a single speech-enabled app, and explore running a speech app und"
+  },
+  {
+    "VideoId": "f24e2710-6c6c-46f3-97a4-a43f01205473",
+    "DataApi": "/Entries(guid'f24e2710-6c6c-46f3-97a4-a43f01205473')/",
+    "VideoPageLink": "/Series/Universal-Windows-App-Development-with-Cortana-and-the-Speech-SDK/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/efd3/69ceb07c-b1e9-4c51-861b-b5152967efd3/629UniversalAppDevCortanaSpeechSDKM05_960.jpg",
+    "ShowName": "Universal Windows App Development with Cortana and the Speech SDK",
+    "VideoLength": "00:46:22",
+    "VideoTitle": "Universal Windows App Development with Cortana and the Speech SDK: (05) Designing Apps with Speech",
+    "Author": "Nick Landry",
+    "UtcDateTimePublished": "2015-02-16T02:40:34.8007841Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/efd3/69ceb07c-b1e9-4c51-861b-b5152967efd3/629UniversalAppDevCortanaSpeechSDKM05_mid.mp4",
+    "Description": "Walk through speech integration &quot;do's and don'ts,&quot; and look at continuing a conversation. See sample speech app scenarios and sample speech apps from the store. [02:36] - Speech Design Consi"
+  },
+  {
+    "VideoId": "6131564f-31a4-4c01-9f8f-a43f01207f5a",
+    "DataApi": "/Entries(guid'6131564f-31a4-4c01-9f8f-a43f01207f5a')/",
+    "VideoPageLink": "/Series/Universal-Windows-App-Development-with-Cortana-and-the-Speech-SDK/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f4c9/c4f54598-a3e6-4a0c-81cc-f046bf40f4c9/629UniversalAppDevCortanaSpeechSDKM06_960.jpg",
+    "ShowName": "Universal Windows App Development with Cortana and the Speech SDK",
+    "VideoLength": "00:57:03",
+    "VideoTitle": "Universal Windows App Development with Cortana and the Speech SDK: (06) Advanced Speech Topics",
+    "Author": "Nick Landry",
+    "UtcDateTimePublished": "2015-02-16T02:40:48.3204158Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f4c9/c4f54598-a3e6-4a0c-81cc-f046bf40f4c9/629UniversalAppDevCortanaSpeechSDKM06_mid.mp4",
+    "Description": "Apply audio effects to TTS audio streams, and send voice commands from the Microsoft Band. Learn about controlling custom hardware with your voice (Bluetooth). [03:59] - Enabling Text-to-Speech in App"
+  }
+]

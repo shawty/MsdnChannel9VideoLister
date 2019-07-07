@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b2eb2d05-7cac-4faf-91fe-a25401572ee6",
+    "DataApi": "/Entries(guid'b2eb2d05-7cac-4faf-91fe-a25401572ee6')/",
+    "VideoPageLink": "/Blogs/webdev/Intro",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dc53/b0b958f1-9bee-48a3-98aa-10bf8733dc53/Episode1_960.jpg",
+    "ShowName": "Web Development and Tooling TV",
+    "VideoLength": "00:10:14",
+    "VideoTitle": "Introducing Web Development and Tooling TV",
+    "Author": "Mads Kristensen",
+    "UtcDateTimePublished": "2013-10-14T10:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dc53/b0b958f1-9bee-48a3-98aa-10bf8733dc53/Episode1_mid.mp4",
+    "Description": "Welcome to the ASP.NET and Visual Studio Web Tools team's new video section here on Channel9. In this episode we talk to Scott Hunter - the Principal Group Program Manager of the web team. Please tell"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "24f973c2-4998-4ce8-b7c4-a6de014dca71",
+    "DataApi": "/Entries(guid'24f973c2-4998-4ce8-b7c4-a6de014dca71')/",
+    "VideoPageLink": "/blogs/Azure-App-Service-Self-Help/Purchase-a-Custom-Domain",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9ab7/7c7598b0-17bc-45f1-8ef4-721cb4209ab7/PurchaseDomain_960.jpg",
+    "ShowName": "Azure App Service Self Help",
+    "VideoLength": "00:03:30",
+    "VideoTitle": "Purchase a Custom Domain",
+    "Author": "Jim Cheshire",
+    "UtcDateTimePublished": "2016-12-16T21:39:04.7709216Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9ab7/7c7598b0-17bc-45f1-8ef4-721cb4209ab7/PurchaseDomain_high.mp4",
+    "Description": "Learn how to purchase a custom domain name from inside of the Azure portal in this screencast. "
+  },
+  {
+    "VideoId": "7bd23cef-e816-4f3f-9d51-a6de013e90f2",
+    "DataApi": "/Entries(guid'7bd23cef-e816-4f3f-9d51-a6de013e90f2')/",
+    "VideoPageLink": "/blogs/Azure-App-Service-Self-Help/Remove-SSL-Bindings-and-Certificates",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c3a4/6904f893-034c-41d7-8d5e-3224c777c3a4/RemoveSSL_960.jpg",
+    "ShowName": "Azure App Service Self Help",
+    "VideoLength": "00:01:47",
+    "VideoTitle": "Remove SSL Bindings and Certificates",
+    "Author": "Jim Cheshire",
+    "UtcDateTimePublished": "2016-12-16T19:37:41.6270951Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c3a4/6904f893-034c-41d7-8d5e-3224c777c3a4/RemoveSSL_high.mp4",
+    "Description": "This screencast demonstrates how you can remove SSL bindings and an SSL certificate from an App Service application. This is something you might want to do if you want to use the certificate in a diff"
+  },
+  {
+    "VideoId": "a89fb2ee-3cb5-4dc0-83ae-a6de0137a7ab",
+    "DataApi": "/Entries(guid'a89fb2ee-3cb5-4dc0-83ae-a6de0137a7ab')/",
+    "VideoPageLink": "/blogs/Azure-App-Service-Self-Help/Create-an-SSL-Binding",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c835/62f26f93-dc69-4199-9ee4-0f8a39b4c835/CreateSSLBinding_960.jpg",
+    "ShowName": "Azure App Service Self Help",
+    "VideoLength": "00:03:01",
+    "VideoTitle": "Create an SSL Binding",
+    "Author": "Jim Cheshire",
+    "UtcDateTimePublished": "2016-12-16T19:18:33.4537927Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c835/62f26f93-dc69-4199-9ee4-0f8a39b4c835/CreateSSLBinding_high.mp4",
+    "Description": "In this screencast, we show you how you can add an SSL binding to your App Service app so that you can browse to the app using SSL. "
+  },
+  {
+    "VideoId": "053a0895-e740-49a8-b124-a6de012215f2",
+    "DataApi": "/Entries(guid'053a0895-e740-49a8-b124-a6de012215f2')/",
+    "VideoPageLink": "/blogs/Azure-App-Service-Self-Help/Upload-an-SSL-Certificate",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d558/122bed09-da65-4308-bebf-ca94efbad558/UploadCertificate_960.jpg",
+    "ShowName": "Azure App Service Self Help",
+    "VideoLength": "00:01:37",
+    "VideoTitle": "Upload an SSL Certificate",
+    "Author": "Jim Cheshire",
+    "UtcDateTimePublished": "2016-12-16T17:41:44.636171Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d558/122bed09-da65-4308-bebf-ca94efbad558/UploadCertificate_high.mp4",
+    "Description": "This screencast shows you how to upload a certificate that you've purchased from a certificate authority so that you can use it to browse your Azure App Service application using SSL. We use a wildcar"
+  },
+  {
+    "VideoId": "d9c681b4-07cf-47ae-8895-a6dc0123ca50",
+    "DataApi": "/Entries(guid'd9c681b4-07cf-47ae-8895-a6dc0123ca50')/",
+    "VideoPageLink": "/blogs/Azure-App-Service-Self-Help/Purchase-an-App-Service-Certificate",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7600/d85deea4-495b-4a01-892d-22be07d67600/purchaseasc_960.jpg",
+    "ShowName": "Azure App Service Self Help",
+    "VideoLength": "00:01:56",
+    "VideoTitle": "Purchase an App Service Certificate",
+    "Author": "Jim Cheshire",
+    "UtcDateTimePublished": "2016-12-14T19:52:13.8245275Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7600/d85deea4-495b-4a01-892d-22be07d67600/purchaseasc_high.mp4",
+    "Description": "In this screencast, we show you how you can purchase an App Service Certificate that you can use to add SSL capabilities to your Azure App Service apps. "
+  },
+  {
+    "VideoId": "9a382d6a-98d0-4bf0-9224-a6b100d18481",
+    "DataApi": "/Entries(guid'9a382d6a-98d0-4bf0-9224-a6b100d18481')/",
+    "VideoPageLink": "/blogs/Azure-App-Service-Self-Help/Add-a-Custom-Domain-Name",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2cb1/78d1e8bf-2956-4314-83a0-6ff42ffa2cb1/AddCustomDomain_960.jpg",
+    "ShowName": "Azure App Service Self Help",
+    "VideoLength": "00:06:44",
+    "VideoTitle": "Add a Custom Domain Name",
+    "Author": "Jim Cheshire",
+    "UtcDateTimePublished": "2016-11-01T19:46:26.06338Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2cb1/78d1e8bf-2956-4314-83a0-6ff42ffa2cb1/AddCustomDomain_high.mp4",
+    "Description": "In this screencast, we show you how to add a custom domain name so that you can use your own URL instead of the AzureWebSites.net URL with your Web App, Mobile App, API App, or Function App. "
+  }
+]

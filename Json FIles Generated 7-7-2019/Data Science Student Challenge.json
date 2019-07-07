@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "fc816987-4ec4-4ad9-8278-a5cc01581ca9",
+    "DataApi": "/Entries(guid'fc816987-4ec4-4ad9-8278-a5cc01581ca9')/",
+    "VideoPageLink": "/Series/Data-Science-Student-Challenge/ENSAE-ParisTech-DSSC",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/deeb/ef35e33c-3379-407f-b861-076a0cbedeeb/HackathonENSAEParis_960.jpg",
+    "ShowName": "Data Science Student Challenge",
+    "VideoLength": "00:02:15",
+    "VideoTitle": "ENSAE ParisTech - DSSC",
+    "Author": "ChiragDhull",
+    "UtcDateTimePublished": "2016-03-17T20:57:09.7941727Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/deeb/ef35e33c-3379-407f-b861-076a0cbedeeb/HackathonENSAEParis_mid.mp4",
+    "Description": "Watch the students at ENSAE ParisTech help the Red Cross have greater impact with their relief missions. Real data &#43; real problems = real opportunities for learning and community. "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "5094686b-d29c-4e98-9d64-a29201397d24",
+    "DataApi": "/Entries(guid'5094686b-d29c-4e98-9d64-a29201397d24')/",
+    "VideoPageLink": "/Series/What-s-New-in-VDI-for-Windows-Server-2012-R2-and-Windows-8-1/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ad79/db0f34cf-e5df-4014-85a1-3759efa0ad79/WhatsNewVDIWinSvr2012R2Win81M02_960.jpg",
+    "ShowName": "Whatâ€™s New in VDI for Windows Server 2012 R2 and Windows 8.1",
+    "VideoLength": "00:17:28",
+    "VideoTitle": "Whatâ€™s New in VDI for Windows Server 2012 R2 and Windows 8.1: (02) VDI User Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-12T23:22:04.7189282Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ad79/db0f34cf-e5df-4014-85a1-3759efa0ad79/WhatsNewVDIWinSvr2012R2Win81M02_mid.mp4",
+    "Description": "In this module, you'll get an overview of the updated user experience for virtual desktop users. We'll explore features such as the ability to dynamically add and remove monitors, adjust screen resolu"
+  }
+]

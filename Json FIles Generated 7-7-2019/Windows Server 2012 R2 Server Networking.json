@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ce80c2c3-3ef8-41e3-9acf-a267011b7010",
+    "DataApi": "/Entries(guid'ce80c2c3-3ef8-41e3-9acf-a267011b7010')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Server-Networking/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c4e6/ad4256f3-0aa7-41b0-891d-37f1c3d2c4e6/WinServerNetworkingM02_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Server Networking",
+    "VideoLength": "00:43:02",
+    "VideoTitle": "Windows Server 2012 R2 Server Networking: (02) Re-Think What Networking Can Do for You",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T18:47:17.1210311Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c4e6/ad4256f3-0aa7-41b0-891d-37f1c3d2c4e6/WinServerNetworkingM02_mid.mp4",
+    "Description": "This module will cover details outside of the Software Defined Network space, highlighting improvements in performance, resiliency, reliability, management and cloud connection capabilities. [13:02] -"
+  }
+]

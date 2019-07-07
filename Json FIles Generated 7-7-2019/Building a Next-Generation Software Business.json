@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "78a4db32-3307-4703-ae2b-a2ac013e82ef",
+    "DataApi": "/Entries(guid'78a4db32-3307-4703-ae2b-a2ac013e82ef')/",
+    "VideoPageLink": "/Series/Building-a-Next-Generation-Software-Business/Jan-23-Target-Markets-for-your-Cloud-Solution",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e35b/eee61058-fc48-44ec-9229-a8c8af59e35b/Jan23TargetMarketsforyourCloudSolution_960.jpg",
+    "ShowName": "Building a Next-Generation Software Business",
+    "VideoLength": "00:29:14",
+    "VideoTitle": "Jan 23: Target Markets for your Cloud Solution ",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-01-08T17:21:43.6313642Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e35b/eee61058-fc48-44ec-9229-a8c8af59e35b/Jan23TargetMarketsforyourCloudSolution_mid.mp4",
+    "Description": "This module shows how to select the right markets for your solution based on the size of customer, industries, type of application and regions of the world. We'll also drill down on how to position yo"
+  },
+  {
+    "VideoId": "82e98920-71de-4d40-ad5c-a2ac01407b94",
+    "DataApi": "/Entries(guid'82e98920-71de-4d40-ad5c-a2ac01407b94')/",
+    "VideoPageLink": "/Series/Building-a-Next-Generation-Software-Business/Jan-30-Developing-a-Sales-and-Marketing-Strategy",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/966a/9b65780c-4d37-448b-8e61-bb83d0b1966a/DevelopingaSalesandMarketingStrategy_960.jpg",
+    "ShowName": "Building a Next-Generation Software Business",
+    "VideoLength": "00:26:56",
+    "VideoTitle": "Jan 30: Developing a Sales and Marketing Strategy ",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-01-08T17:22:04.4319524Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/966a/9b65780c-4d37-448b-8e61-bb83d0b1966a/DevelopingaSalesandMarketingStrategy_mid.mp4",
+    "Description": "Moving to the cloud will have a big impact on how you market and sell your solution, including the need for automation, the use of free trials, and how you structure and compensate your sales team.  T"
+  },
+  {
+    "VideoId": "d17992b2-fb49-4e82-81db-a2ac014149de",
+    "DataApi": "/Entries(guid'd17992b2-fb49-4e82-81db-a2ac014149de')/",
+    "VideoPageLink": "/Series/Building-a-Next-Generation-Software-Business/Feb-6-Pricing-Considerations-for-Cloud-Solutions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5068/6b843933-c2ab-41e9-84ed-0b1124a25068/PricingConsiderationsForCloudSolutions_960.jpg",
+    "ShowName": "Building a Next-Generation Software Business",
+    "VideoLength": "00:25:27",
+    "VideoTitle": "Feb 6: Pricing Considerations for Cloud Solutions  ",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-01-08T17:22:23.5639328Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5068/6b843933-c2ab-41e9-84ed-0b1124a25068/PricingConsiderationsForCloudSolutions_mid.mp4",
+    "Description": "This module answers some of the most frequent questions about pricing, including the most common pricing models, a quick and easy formula for converting on-premises pricing to a subscription model, an"
+  },
+  {
+    "VideoId": "3763fdcb-907a-42fc-8346-a2ac0142f8c9",
+    "DataApi": "/Entries(guid'3763fdcb-907a-42fc-8346-a2ac0142f8c9')/",
+    "VideoPageLink": "/Series/Building-a-Next-Generation-Software-Business/Feb-13-Financial-Metrics-for-SaaS-Companies",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f199/61d1ae49-494f-4671-b173-0cf9b578f199/FinancialMetricsForSaaSCompanies_960.jpg",
+    "ShowName": "Building a Next-Generation Software Business",
+    "VideoLength": "00:24:00",
+    "VideoTitle": "Feb 13: Financial Metrics for SaaS Companies ",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-01-08T17:22:42.7832968Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f199/61d1ae49-494f-4671-b173-0cf9b578f199/FinancialMetricsForSaaSCompanies_mid.mp4",
+    "Description": "Moving to the cloud has a big impact on your cash flow, which makes it critical to identify and measure key financial metrics.  This webinar explains many of the most common metrics, such as CAC (Cust"
+  },
+  {
+    "VideoId": "3acf2af9-782f-437d-bf4a-a2ac01475db6",
+    "DataApi": "/Entries(guid'3acf2af9-782f-437d-bf4a-a2ac01475db6')/",
+    "VideoPageLink": "/Series/Building-a-Next-Generation-Software-Business/Feb-20-Legal-Issues-with-Software-as-a-Service",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/374f/33ed6c13-d66d-439b-9768-9b212863374f/LegalIssuesWithSoftwareAsAService_960.jpg",
+    "ShowName": "Building a Next-Generation Software Business",
+    "VideoLength": "00:25:54",
+    "VideoTitle": "Feb 20: Legal Issues with Software-as-a-Service ",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-02-20T19:19:20.951296Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/374f/33ed6c13-d66d-439b-9768-9b212863374f/LegalIssuesWithSoftwareAsAService_mid.mp4",
+    "Description": "This module covers considerations for some of the legal issues that apply to cloud solutions, including: Service Level Agreements (SLAs)The impact of the Patriot Act and other privacy laws in various "
+  }
+]

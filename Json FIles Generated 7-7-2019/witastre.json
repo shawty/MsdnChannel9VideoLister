@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6b84b4be-d235-41a9-97e6-9deb002a6ac8",
+    "DataApi": "/Entries(guid'6b84b4be-d235-41a9-97e6-9deb002a6ac8')/",
+    "VideoPageLink": "/Blogs/witastre/How-to-see-command-line-tools-output-in-English-on-East-Asian-Russian-and-Greek-language-of-Windows-",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/7/4/6/9/8/4/CHCP437_512_ch9.png",
+    "ShowName": "witastre",
+    "VideoLength": "00:01:26",
+    "VideoTitle": "How to see command line tools output in English on East Asian, Russian and Greek language of Windows 7",
+    "Author": "witastre",
+    "UtcDateTimePublished": "2009-09-09T15:48:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/7/4/6/9/8/4/CHCP437_ch9.mp4",
+    "Description": "\nMost of the command line tools are translated to local languages, but from time to time user may want the output of command line tools to be in English.  For Windows 7 system on languages such as Ea"
+  }
+]

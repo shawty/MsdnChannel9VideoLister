@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "e4e2d23c-75ea-4126-98bc-a1b5011d4f59",
+    "DataApi": "/Entries(guid'e4e2d23c-75ea-4126-98bc-a1b5011d4f59')/",
+    "VideoPageLink": "/Series/Applying-ALM-with-Visual-Studio-2012/Applying-ALM-with-Visual-Studio-2012-02-Define-an-Effective-End-to-End-Software-Development-Lifecycl",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a52d/ae2fd10c-35cc-4063-81e4-e706ecaea52d/ALMJSM02_960.jpg",
+    "ShowName": "Applying ALM with Visual Studio 2012",
+    "VideoLength": "00:44:19",
+    "VideoTitle": "Applying ALM with Visual Studio 2012: (02) Define an Effective End-to-End Software Development Lifecycle",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:11:40.4134319Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a52d/ae2fd10c-35cc-4063-81e4-e706ecaea52d/ALMJSM02_mid.mp4",
+    "Description": "In this session Steven and Anthony address the value of an end-to-end view of Application Lifecycle Management (ALM) tools and practices. They explain the benefits of fast feedback and go over strateg"
+  },
+  {
+    "VideoId": "e3bfa7db-bc99-42f9-955f-a1b5011e043e",
+    "DataApi": "/Entries(guid'e3bfa7db-bc99-42f9-955f-a1b5011e043e')/",
+    "VideoPageLink": "/Series/Applying-ALM-with-Visual-Studio-2012/Applying-ALM-with-Visual-Studio-2012-03-Define-the-ALM-Process",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/618e/bc7fc42e-9fa5-4c14-8a59-fe7d29f5618e/ALMJSM03_960.jpg",
+    "ShowName": "Applying ALM with Visual Studio 2012",
+    "VideoLength": "01:02:38",
+    "VideoTitle": "Applying ALM with Visual Studio 2012: (03) Define the ALM Process",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:12:08.3584147Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/618e/bc7fc42e-9fa5-4c14-8a59-fe7d29f5618e/ALMJSM03_mid.mp4",
+    "Description": "There are different roles in the ALM processes. Tune into how to implement a Scrum/Agile process, how to define a Scrum/Agile process for a team using the Microsoft Solution Framework (MSF) for CMMI P"
+  },
+  {
+    "VideoId": "aa8c4b9d-6eb5-4708-b850-a1b5011e6ff5",
+    "DataApi": "/Entries(guid'aa8c4b9d-6eb5-4708-b850-a1b5011e6ff5')/",
+    "VideoPageLink": "/Series/Applying-ALM-with-Visual-Studio-2012/Applying-ALM-with-Visual-Studio-2012-04-Define-a-Software-Iteration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a4ea/26999d3a-95ee-4e15-8ef9-4cff17c3a4ea/ALMJSM04_960.jpg",
+    "ShowName": "Applying ALM with Visual Studio 2012",
+    "VideoLength": "00:39:38",
+    "VideoTitle": "Applying ALM with Visual Studio 2012: (04) Define a Software Iteration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:12:40.1849032Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a4ea/26999d3a-95ee-4e15-8ef9-4cff17c3a4ea/ALMJSM04_mid.mp4",
+    "Description": "The key to a successful release cycle is to plan a release by defining project-tracking and scoping it correctly. Watch this module to see tips and tricks on the best practices from two experts in the"
+  },
+  {
+    "VideoId": "c8688803-1b21-42cb-984c-a1b5011f5090",
+    "DataApi": "/Entries(guid'c8688803-1b21-42cb-984c-a1b5011f5090')/",
+    "VideoPageLink": "/Series/Applying-ALM-with-Visual-Studio-2012/Applying-ALM-with-Visual-Studio-2012-05-Define-End-Value-for-the-Software-Iteration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/106a/93099792-67e2-4bac-97e1-4a25120a106a/ALMJSM05_960.jpg",
+    "ShowName": "Applying ALM with Visual Studio 2012",
+    "VideoLength": "01:08:36",
+    "VideoTitle": "Applying ALM with Visual Studio 2012: (05) Define End Value for the Software Iteration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:13:03.7850391Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/106a/93099792-67e2-4bac-97e1-4a25120a106a/ALMJSM05_mid.mp4",
+    "Description": "In this module Anthony and Steven provide an in depth overview on the best ways to elicit requirements, how to best estimate, document, and prioritized requirements. [01:23] - Elicit requirements [16:"
+  },
+  {
+    "VideoId": "2f5bc7c2-fb19-4832-8e74-a1b501217d92",
+    "DataApi": "/Entries(guid'2f5bc7c2-fb19-4832-8e74-a1b501217d92')/",
+    "VideoPageLink": "/Series/Applying-ALM-with-Visual-Studio-2012/Applying-ALM-with-Visual-Studio-2012-07-Integrate-Development-and-Operations",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1727/897701c4-beac-4ff4-b385-965082781727/ALMJSM07_960.jpg",
+    "ShowName": "Applying ALM with Visual Studio 2012",
+    "VideoLength": "01:17:23",
+    "VideoTitle": "Applying ALM with Visual Studio 2012: (07) Integrate Development and Operations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:13:15.2815671Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1727/897701c4-beac-4ff4-b385-965082781727/ALMJSM07_mid.mp4",
+    "Description": "This module provides an overview on implementing an automated deployment process, implementing a pre-production environments and how to manage feedback between development and operations while success"
+  },
+  {
+    "VideoId": "f5753dcf-5749-48b2-b831-a1b501203336",
+    "DataApi": "/Entries(guid'f5753dcf-5749-48b2-b831-a1b501203336')/",
+    "VideoPageLink": "/Series/Applying-ALM-with-Visual-Studio-2012/Applying-ALM-with-Visual-Studio-2012-06-Develop-Customer-Value-with-High-Quality",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fcb3/2b491250-01f8-40f1-8a60-2946a697fcb3/ALMJSM06_960.jpg",
+    "ShowName": "Applying ALM with Visual Studio 2012",
+    "VideoLength": "00:57:35",
+    "VideoTitle": "Applying ALM with Visual Studio 2012: (06) Develop Customer Value with High Quality",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:13:16.7283427Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fcb3/2b491250-01f8-40f1-8a60-2946a697fcb3/ALMJSM06_mid.mp4",
+    "Description": "The success of a project requires clear understanding of success measurements. Watch this session to learn more on defining code quality indicators, how to incorporate unit testing, how to develop cod"
+  }
+]

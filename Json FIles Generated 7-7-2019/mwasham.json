@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "606d0093-b965-4ab7-ad91-a11f010b5b2f",
+    "DataApi": "/Entries(guid'606d0093-b965-4ab7-ad91-a11f010b5b2f')/",
+    "VideoPageLink": "/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-Three-Getting-Started-with-Windows-Azure-PowerShell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/644b/ebc16d36-f1a3-48a9-9388-de4690f2644b/IntroWAPowerShell_512.jpg",
+    "ShowName": "mwasham",
+    "VideoLength": "00:09:37",
+    "VideoTitle": "Windows Azure IaaS Series - Part Three: Getting Started with Windows Azure PowerShell",
+    "Author": "Michael Washam",
+    "UtcDateTimePublished": "2012-12-07T23:32:45.133125Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/644b/ebc16d36-f1a3-48a9-9388-de4690f2644b/IntroWAPowerShell_mid.mp4",
+    "Description": "In part three of the Windows Azure IaaS Series I show how to get started with the Windows Azure PowerShell Cmdlets to manage your subscriptions. Other webcasts from the series:  Part One Part Two  "
+  },
+  {
+    "VideoId": "fec7363d-da44-432f-a41b-a11f00de7b6a",
+    "DataApi": "/Entries(guid'fec7363d-da44-432f-a41b-a11f00de7b6a')/",
+    "VideoPageLink": "/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-Two-Virtual-Machine-Networking-Basics",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/022e/402ce6e0-f337-4473-81ea-1a5480f4022e/IntroVMNetworking_512.jpg",
+    "ShowName": "mwasham",
+    "VideoLength": "00:12:47",
+    "VideoTitle": "Windows Azure IaaS Series - Part Two: Virtual Machine Networking Basics",
+    "Author": "Michael Washam",
+    "UtcDateTimePublished": "2012-12-06T18:50:10.4416875Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/022e/402ce6e0-f337-4473-81ea-1a5480f4022e/IntroVMNetworking_mid.mp4",
+    "Description": "In part two of the Windows Azure IaaS Series I show how to connect multiple virtual machines in the same network and also walk through the basics of configuring the load balancer. Part One of the IaaS"
+  },
+  {
+    "VideoId": "092905fc-05ed-443a-9ec8-a11f00cf1bde",
+    "DataApi": "/Entries(guid'092905fc-05ed-443a-9ec8-a11f00cf1bde')/",
+    "VideoPageLink": "/Blogs/mwasham/Windows-Azure-IaaS-Series-Part-One-Getting-Started-with-Virtual-Machines",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3915/ffa1c131-39e6-4733-aa2c-844e46da3915/IntroWindowsAzureIaaS_512.jpg",
+    "ShowName": "mwasham",
+    "VideoLength": "00:12:12",
+    "VideoTitle": "Windows Azure IaaS Series - Part One: Getting Started with Virtual Machines",
+    "Author": "Michael Washam",
+    "UtcDateTimePublished": "2012-12-06T13:26:52.9153206Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3915/ffa1c131-39e6-4733-aa2c-844e46da3915/IntroWindowsAzureIaaS_mid.mp4",
+    "Description": "Welcome to part one of my webcast series on Windows Azure Infrastructure as a Service. In this web cast I show you how to get started from the very beginning with provisioning virtual machines and sto"
+  },
+  {
+    "VideoId": "8592ddc5-41f9-4ee7-a3e9-a10a0178fe31",
+    "DataApi": "/Entries(guid'8592ddc5-41f9-4ee7-a3e9-a10a0178fe31')/",
+    "VideoPageLink": "/Blogs/mwasham/Windows-Azure-Best-of-Build-2012",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/81bd/14d5c676-e7d5-4219-b1f6-4ae1aabf81bd/WindowsAzureBestOfBuild_512.jpg",
+    "ShowName": "mwasham",
+    "VideoLength": "00:09:32",
+    "VideoTitle": "Windows Azure Best of Build 2012",
+    "Author": "Michael Washam",
+    "UtcDateTimePublished": "2012-11-16T00:08:24.2671299Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/81bd/14d5c676-e7d5-4219-b1f6-4ae1aabf81bd/WindowsAzureBestOfBuild_mid.mp4",
+    "Description": "     Windows Azure in the Day Two Keynote If you have not had a chance to watch anything from Build yet I would highly recommend starting with theday two keynote with Satya Nadella. These are some of "
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "73503b03-0990-485d-a664-9dea011cbe43",
+    "DataApi": "/Entries(guid'73503b03-0990-485d-a664-9dea011cbe43')/",
+    "VideoPageLink": "/Blogs/SteveLasker/Visual-Studio-Orcas-Sync-Designer-for-Caching-Data-in-SQL-Server-Compact-Edition",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "bf4ee391-61e4-4a82-9fbb-9dea011cc487",
+    "DataApi": "/Entries(guid'bf4ee391-61e4-4a82-9fbb-9dea011cc487')/",
+    "VideoPageLink": "/Blogs/SteveLasker/ADOnet-Programming-options-for-SQL-Server-Everywhere",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "fb72a28b-3cac-4389-9ea4-9dea011cc9b3",
+    "DataApi": "/Entries(guid'fb72a28b-3cac-4389-9ea4-9dea011cc9b3')/",
+    "VideoPageLink": "/Blogs/SteveLasker/Deployment-Options-for-SQL-Server-Everywhere",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "e737afac-f533-4193-850a-9dea011ccf3a",
+    "DataApi": "/Entries(guid'e737afac-f533-4193-850a-9dea011ccf3a')/",
+    "VideoPageLink": "/Blogs/SteveLasker/Video-of-installing-the-SQL-Server-Compact-Edition",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

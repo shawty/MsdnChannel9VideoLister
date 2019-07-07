@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "b1a73a99-c825-47c7-9e47-a3d80175155b",
+    "DataApi": "/Entries(guid'b1a73a99-c825-47c7-9e47-a3d80175155b')/",
+    "VideoPageLink": "/Series/Hour-of-Code-with-TouchDevelop/Hour-of-Code-Customize-Jetpack-Jumper",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ef24/6aac0842-d37d-4c80-ad5f-cd27b75cef24/HOCM03_960.jpg",
+    "ShowName": "Hour of Code with TouchDevelop",
+    "VideoLength": "00:11:58",
+    "VideoTitle": "Hour of Code: Customize Jetpack Jumper ",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:57:45.391179Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ef24/6aac0842-d37d-4c80-ad5f-cd27b75cef24/HOCM03_mid.mp4",
+    "Description": "Learn ways that you can add your own style to your game.  "
+  },
+  {
+    "VideoId": "0f32be22-179b-4980-a4b7-a3dc01763931",
+    "DataApi": "/Entries(guid'0f32be22-179b-4980-a4b7-a3dc01763931')/",
+    "VideoPageLink": "/Series/Hour-of-Code-with-TouchDevelop/Hour-of-Code-Real-Reelz-Ashley",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/919c/2d9f07f3-57ef-47e0-9098-0f36c930919c/HOCM04Ashley_960.jpg",
+    "ShowName": "Hour of Code with TouchDevelop",
+    "VideoLength": "00:03:02",
+    "VideoTitle": "Hour of Code: Real Reelz, Ashley",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T23:59:18.4206263Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/919c/2d9f07f3-57ef-47e0-9098-0f36c930919c/HOCM04Ashley_mid.mp4",
+    "Description": "Get a behind-the-scenes look at the real life stories of three Xbox programmers. Learn about their coding journeys and how they landed their dream jobs. You might be surprised to find out that these t"
+  },
+  {
+    "VideoId": "843a5540-0ca5-4589-90d3-a3dc0176a0f0",
+    "DataApi": "/Entries(guid'843a5540-0ca5-4589-90d3-a3dc0176a0f0')/",
+    "VideoPageLink": "/Series/Hour-of-Code-with-TouchDevelop/Hour-of-Code-Real-Reelz-Guillermo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5027/9f836fcc-b853-4526-97b5-63b364e65027/HOCM04Guillermo_960.jpg",
+    "ShowName": "Hour of Code with TouchDevelop",
+    "VideoLength": "00:03:12",
+    "VideoTitle": "Hour of Code: Real Reelz, Guillermo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T23:59:35.383318Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5027/9f836fcc-b853-4526-97b5-63b364e65027/HOCM04Guillermo_mid.mp4",
+    "Description": "Get a behind-the-scenes look at the real life stories of three Xbox programmers. Learn about their coding journeys and how they landed their dream jobs. You might be surprised to find out that these t"
+  },
+  {
+    "VideoId": "0f9a44bd-f35d-43b1-9561-a3dc0176ef7a",
+    "DataApi": "/Entries(guid'0f9a44bd-f35d-43b1-9561-a3dc0176ef7a')/",
+    "VideoPageLink": "/Series/Hour-of-Code-with-TouchDevelop/Hour-of-Code-Real-Reelz-Hoop",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4fef/8fef703c-adc0-4036-87dc-a83e5b5e4fef/HOCM04Hoop_960.jpg",
+    "ShowName": "Hour of Code with TouchDevelop",
+    "VideoLength": "00:03:26",
+    "VideoTitle": "Hour of Code: Real Reelz, Hoop",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T23:59:51.0005833Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4fef/8fef703c-adc0-4036-87dc-a83e5b5e4fef/HOCM04Hoop_mid.mp4",
+    "Description": "Get a behind-the-scenes look at the real life stories of three Xbox programmers. Learn about their coding journeys and how they landed their dream jobs. You might be surprised to find out that these t"
+  },
+  {
+    "VideoId": "21d234a8-7fb4-4d3d-9987-a3e601139ecb",
+    "DataApi": "/Entries(guid'21d234a8-7fb4-4d3d-9987-a3e601139ecb')/",
+    "VideoPageLink": "/Series/Hour-of-Code-with-TouchDevelop/Hour-of-Code-Instructions-for-Module-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/19a9/4c514330-47da-41c7-925b-63af7ae019a9/HOCM02_960.jpg",
+    "ShowName": "Hour of Code with TouchDevelop",
+    "VideoLength": "00:00:15",
+    "VideoTitle": "Hour of Code: Instructions for Module 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-17T17:17:23.6274205Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/19a9/4c514330-47da-41c7-925b-63af7ae019a9/HOCM02_mid.mp4",
+    "Description": "Very brief video with instructions for Module 2 in the MVA course. "
+  },
+  {
+    "VideoId": "3668dd92-cd66-49f6-94aa-a3fd00027c75",
+    "DataApi": "/Entries(guid'3668dd92-cd66-49f6-94aa-a3fd00027c75')/",
+    "VideoPageLink": "/Series/Hour-of-Code-with-TouchDevelop/CodExist-The-Birth-of-Bot",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b50d/63fda34c-f940-4d37-983c-956e4283b50d/ExistentialBotFinal_960.jpg",
+    "ShowName": "Hour of Code with TouchDevelop",
+    "VideoLength": "00:00:19",
+    "VideoTitle": "CodExist: The Birth of Bot",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T17:18:35.3812351Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b50d/63fda34c-f940-4d37-983c-956e4283b50d/ExistentialBotFinal_mid.mp4",
+    "Description": "Want to learn how to build a mobile game from scratch? Go from zero to coding no time. If you participated in Hour of Codeâ„¢ with TouchDevelop, you are familiar with this game. Build from scratch (not "
+  }
+]

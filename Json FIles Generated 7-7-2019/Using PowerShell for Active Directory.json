@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "1d68617c-1f47-4696-bc47-a3d9016a5f21",
+    "DataApi": "/Entries(guid'1d68617c-1f47-4696-bc47-a3d9016a5f21')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c08/17ad3a2b-effb-4e99-bd37-211daa5f3c08/UsingPowerShellForActiveDirM02_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "01:01:33",
+    "VideoTitle": "Using PowerShell for Active Directory: (02) Working with Users and Groups",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:43:32.2436281Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c08/17ad3a2b-effb-4e99-bd37-211daa5f3c08/UsingPowerShellForActiveDirM02_mid.mp4",
+    "Description": "Learn how to automate routine user and group management tasks, including create, modify, enable, disable, unlock, and more. [01:18] - Creating[33:37] - Updating[55:05] - DeletingFull course outline: M"
+  },
+  {
+    "VideoId": "6de1e7ec-4d93-4a24-9d84-a3d9016aa24b",
+    "DataApi": "/Entries(guid'6de1e7ec-4d93-4a24-9d84-a3d9016aa24b')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/174a/8689e7c8-26df-4103-86b5-be9d4a1f174a/UsingPowerShellForActiveDirM03_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "00:40:58",
+    "VideoTitle": "Using PowerShell for Active Directory: (03) Querying AD Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:43:55.7818753Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/174a/8689e7c8-26df-4103-86b5-be9d4a1f174a/UsingPowerShellForActiveDirM03_mid.mp4",
+    "Description": "Explore techniques for querying efficiently for report data, using sample PowerShell commands. Review LDAP basics to set the stage as you learn how to construct compact query parameters and apply filt"
+  },
+  {
+    "VideoId": "d4573c39-950a-4e9f-a654-a3d9016ae45f",
+    "DataApi": "/Entries(guid'd4573c39-950a-4e9f-a654-a3d9016ae45f')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf28/8373f9bf-80d6-40ab-919e-b3f5f838bf28/UsingPowerShellForActiveDirM04_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "00:46:19",
+    "VideoTitle": "Using PowerShell for Active Directory: (04) Forensic Investigations and Lockouts",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:44:19.9048399Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf28/8373f9bf-80d6-40ab-919e-b3f5f838bf28/UsingPowerShellForActiveDirM04_mid.mp4",
+    "Description": "Answer the question &quot;Who did this?&quot; Track when your data was changed, using metadata, event logs, lockouts, and permissions. [01:02] - Metadata[16:54] - Event Logs[24:11] - Lockouts[35:24] -"
+  },
+  {
+    "VideoId": "7f9c6559-c0c3-42f5-a73a-a3d9016b2374",
+    "DataApi": "/Entries(guid'7f9c6559-c0c3-42f5-a73a-a3d9016b2374')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/40d6/9761a649-0901-45cc-aa8a-80a50fb140d6/UsingPowerShellForActiveDirM05_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "00:35:03",
+    "VideoTitle": "Using PowerShell for Active Directory: (05) Stale Object Cleanup",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:44:42.0830774Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/40d6/9761a649-0901-45cc-aa8a-80a50fb140d6/UsingPowerShellForActiveDirM05_mid.mp4",
+    "Description": "Learn how to clean up stale objects in Active Directory, using PowerShell. See how to clean up dates, users, computers, and groups. [04:53] - Dates[18:25] - Users[22:45] - Computers[27:24] - Groups[31"
+  },
+  {
+    "VideoId": "5a51af49-902f-41e8-8be5-a3d9016b648c",
+    "DataApi": "/Entries(guid'5a51af49-902f-41e8-8be5-a3d9016b648c')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0ee4/4e976599-0917-4c51-ad2a-2d71f1e20ee4/UsingPowerShellForActiveDirM06_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "00:33:23",
+    "VideoTitle": "Using PowerShell for Active Directory: (06) Managing and Troubleshooting AD Replication",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:45:14.0255537Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0ee4/4e976599-0917-4c51-ad2a-2d71f1e20ee4/UsingPowerShellForActiveDirM06_mid.mp4",
+    "Description": "Work with sites, subnets, and trusts with PowerShell to troubleshoot Active Directory replication. Start out with a discussion on topology to understand &quot;what's out there&quot; in your organizati"
+  },
+  {
+    "VideoId": "3ed6d26d-4d63-4d90-82e2-a3d9016ba710",
+    "DataApi": "/Entries(guid'3ed6d26d-4d63-4d90-82e2-a3d9016ba710')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e1a/62ea5663-9a8a-4e12-9136-55891d984e1a/UsingPowerShellForActiveDirM07_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "00:39:15",
+    "VideoTitle": "Using PowerShell for Active Directory: (07) Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:46:16.3930313Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e1a/62ea5663-9a8a-4e12-9136-55891d984e1a/UsingPowerShellForActiveDirM07_mid.mp4",
+    "Description": "Prevent accidental deletion, using the Recycle Bin, and see how you can recover deleted objects. See demos on how to protect from accidental deletion, manage the Recycle Bin, and perform attribute rec"
+  },
+  {
+    "VideoId": "d459e808-e908-4a3f-a2bb-a3d9016be8b4",
+    "DataApi": "/Entries(guid'd459e808-e908-4a3f-a2bb-a3d9016be8b4')/",
+    "VideoPageLink": "/Series/Using-PowerShell-for-Active-Directory/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b5c8/5d055263-d67e-4191-beb4-4250a95fb5c8/UsingPowerShellForActiveDirM08_960.jpg",
+    "ShowName": "Using PowerShell for Active Directory",
+    "VideoLength": "00:49:34",
+    "VideoTitle": "Using PowerShell for Active Directory: (08) Deploying Domain Controllers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T18:56:50.7310142Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b5c8/5d055263-d67e-4191-beb4-4250a95fb5c8/UsingPowerShellForActiveDirM08_mid.mp4",
+    "Description": "â€‹Learn the alternatives to using DCPROMO, and automate your DC builds. Get the details on ADDSDeployment cmdlets, Domain Controller cloning, and desired state configuration. [01:43] - DCPROMO[03:57] -"
+  }
+]

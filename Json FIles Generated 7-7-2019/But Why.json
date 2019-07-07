@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "23b379f2-17da-4d74-8206-9dea00a5aab9",
+    "DataApi": "/Entries(guid'23b379f2-17da-4d74-8206-9dea00a5aab9')/",
+    "VideoPageLink": "/Shows/ButWhy/Thats-called-a-Giblet-But-Why",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/2730/562730/Giblets3_512_ch9.png",
+    "ShowName": "But Why?",
+    "VideoLength": "00:01:23",
+    "VideoTitle": "That's called a Giblet: But Why?",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2010-07-27T20:43:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/2730/562730/Giblets3_ch9.mp4",
+    "Description": "Microsoft is full of oddities and little known answers to mysterious questions. The purpose of this series is to seek out those answers and offer them to you. Please comment with other questions you'd"
+  },
+  {
+    "VideoId": "e76dd760-5b7a-4d1c-bdac-9deb002e8e3f",
+    "DataApi": "/Entries(guid'e76dd760-5b7a-4d1c-bdac-9deb002e8e3f')/",
+    "VideoPageLink": "/Shows/ButWhy/Word-is-named-Word--But-Why",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/2/1/0/4/5/WhyWord_512_ch9.png",
+    "ShowName": "But Why?",
+    "VideoLength": "00:02:18",
+    "VideoTitle": "Windows is named Windows : But Why?",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2010-04-26T18:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/2/1/0/4/5/WhyWord_ch9.mp4",
+    "Description": "Microsoft is full of oddities and little known answers to mysterious questions. The purpose of this series is to seek out those answers and offer them to you. Please comment with other questions you'd"
+  },
+  {
+    "VideoId": "049d2f36-f36a-49f0-ac3e-9deb002eaeec",
+    "DataApi": "/Entries(guid'049d2f36-f36a-49f0-ac3e-9deb002eaeec')/",
+    "VideoPageLink": "/Shows/ButWhy/There-is-no-Office-13-But-Why",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/9/8/0/5/9/4/ButWhyOffice_512_ch9.png",
+    "ShowName": "But Why?",
+    "VideoLength": "00:01:08",
+    "VideoTitle": "There is no Office 13 - But Why?",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2010-02-26T00:04:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/9/8/0/5/9/4/ButWhyOffice_ch9.mp4",
+    "Description": "Microsoft is full of oddities and little known answers to mysterious questions. The purpose of this series is to seek out those answers and offer them to you. Please comment with other questions you'd"
+  },
+  {
+    "VideoId": "080be07f-f4ef-4406-8675-9deb002eb8b3",
+    "DataApi": "/Entries(guid'080be07f-f4ef-4406-8675-9deb002eb8b3')/",
+    "VideoPageLink": "/Shows/ButWhy/The-Outlook-calendar-starts-in-1601-But-Why",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/8/0/5/9/4/ButWhyOutlook_512_ch9.png",
+    "ShowName": "But Why?",
+    "VideoLength": "00:00:53",
+    "VideoTitle": "The Outlook calendar starts in 1601 - But Why?",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2009-12-09T19:53:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/8/0/5/9/4/ButWhyOutlook_ch9.mp4",
+    "Description": "Microsoft is full of oddities and little known answers to mysterious questions. The purpose of this series is to seek out those answers and offer them to you. Please comment with other questions you'd"
+  },
+  {
+    "VideoId": "0a064ac1-ca68-46ae-bca5-9deb002e9c28",
+    "DataApi": "/Entries(guid'0a064ac1-ca68-46ae-bca5-9deb002e9c28')/",
+    "VideoPageLink": "/Shows/ButWhy/The-Notepad-Bug-But-Why",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/9/0/5/9/4/ButWhyNotepad_512_ch9.png",
+    "ShowName": "But Why?",
+    "VideoLength": "00:00:57",
+    "VideoTitle": "The Notepad Bug - But Why?",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2009-10-07T15:55:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/9/0/5/9/4/ButWhyNotepad_ch9.mp4",
+    "Description": "In NotePad there is a little known bug that results from typing some strange sentences - want to know why? Please comment with other questions you'd like to get answered!\nWatch other episodes of But "
+  },
+  {
+    "VideoId": "efc20d08-483d-4a1e-9f05-9deb002ec340",
+    "DataApi": "/Entries(guid'efc20d08-483d-4a1e-9f05-9deb002ec340')/",
+    "VideoPageLink": "/Shows/ButWhy/You-cant-name-a-folder-con-But-Why",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/1/8/0/5/9/4/ButWhyCon_512_ch9.png",
+    "ShowName": "But Why?",
+    "VideoLength": "00:01:09",
+    "VideoTitle": "Folder naming errors- But Why?",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2009-09-30T15:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/1/8/0/5/9/4/ButWhyCon_ch9.mp4",
+    "Description": "Microsoft is full of oddities and little known answers to mysterious questions. The purpose of this series is to seek out those answers and offer them to you. Please comment with other questions you'd"
+  }
+]

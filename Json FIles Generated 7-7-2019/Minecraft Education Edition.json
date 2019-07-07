@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "13e883fe-2546-4b9d-8524-a74500818860",
+    "DataApi": "/Entries(guid'13e883fe-2546-4b9d-8524-a74500818860')/",
+    "VideoPageLink": "/Series/Minecraft-Education-Edition/Minecraft-Education-Edition",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/27b7/ad06da88-b43c-4109-ab90-bdeacd0627b7/MinecraftEducationEdition_960.jpg",
+    "ShowName": "Minecraft: Education Edition",
+    "VideoLength": "00:49:20",
+    "VideoTitle": "Minecraft: Education Edition ",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2017-03-30T09:05:01.3503219Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/27b7/ad06da88-b43c-4109-ab90-bdeacd0627b7/MinecraftEducationEdition_mid.mp4",
+    "Description": "This virtual academy describes how Microsoft Education Edition differs from Minecraft and explains how schools can access it. "
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "5e5792bb-d5bf-46be-8466-a3ac015c82ec",
+    "DataApi": "/Entries(guid'5e5792bb-d5bf-46be-8466-a3ac015c82ec')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Configure-SharePoint-Outbound-Hybrid-Search",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b94/0f1d87ba-97c8-4f65-be06-b4d818064b94/ConfigureSharePointOutboundHybridSearch_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "01:09:11",
+    "VideoTitle": "Office 365 Support Corner: Configure SharePoint Outbound Hybrid Search",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:46:11.2707355Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b94/0f1d87ba-97c8-4f65-be06-b4d818064b94/ConfigureSharePointOutboundHybridSearch_mid.mp4",
+    "Description": "In this module, learn how to configure Outbound Hybrid Search between SharePoint On-Premise and SharePoint Online. Start with a brief look at the hybrid SharePoint infrastructure and tools used for an"
+  },
+  {
+    "VideoId": "5538644b-74df-4027-8005-a3d40154b441",
+    "DataApi": "/Entries(guid'5538644b-74df-4027-8005-a3d40154b441')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Project-Online-Administration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/65ce/2591fb88-3903-43af-ad5a-daf0db0665ce/O365SupportCornerProjectOnlineAdmin_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "00:50:00",
+    "VideoTitle": "Office 365 Support Corner: Project Online Administration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T16:00:27.267945Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/65ce/2591fb88-3903-43af-ad5a-daf0db0665ce/O365SupportCornerProjectOnlineAdmin_mid.mp4",
+    "Description": "Learn how to administer your new Project Online tenant, from the Office 365 admin center, the SharePoint admin center, and the Project Web App server settings. Ensure that your PWA is configured to su"
+  },
+  {
+    "VideoId": "c555b826-66c0-4f65-b3cc-a3d401554544",
+    "DataApi": "/Entries(guid'c555b826-66c0-4f65-b3cc-a3d401554544')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Next-Steps-in-Project-Online",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0d91/c6d3c3ce-0b2f-457a-9c30-5ed14dd90d91/O365SupportCornerNextStepsProjectOnline_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "00:41:15",
+    "VideoTitle": "Office 365 Support Corner: Next Steps in Project Online",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T16:00:45.7387861Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0d91/c6d3c3ce-0b2f-457a-9c30-5ed14dd90d91/O365SupportCornerNextStepsProjectOnline_mid.mp4",
+    "Description": "â€‹Learn how to configure Project Web App (PWA) for your specific needs, including choosing a permissions mode, setting the right metadata to support your business requirements, and then adding the peop"
+  },
+  {
+    "VideoId": "9d8fc2f6-a7b5-4c3b-b7f7-a3d40155dcd1",
+    "DataApi": "/Entries(guid'9d8fc2f6-a7b5-4c3b-b7f7-a3d40155dcd1')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Getting-Started-in-Project-Online",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0448/68f3e3c2-1cc5-41d2-a4b6-d29009500448/O365SupportCornerGettingStartedInProjectOnline_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "00:37:23",
+    "VideoTitle": "Office 365 Support Corner: Getting Started in Project Online",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T16:01:06.5861598Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0448/68f3e3c2-1cc5-41d2-a4b6-d29009500448/O365SupportCornerGettingStartedInProjectOnline_mid.mp4",
+    "Description": "Learn what Project Online is and how to subscribe to the service and other associated services. Explore what you can do with your Project Online subscriptions. [01:39] - What is Project Online?[09:17]"
+  },
+  {
+    "VideoId": "5d205c14-fd45-4e4b-8210-a426003f3212",
+    "DataApi": "/Entries(guid'5d205c14-fd45-4e4b-8210-a426003f3212')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Self-Service-Password-Reset-in-Office-365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/46f8/0d712a36-d910-4ac9-8565-931ae54246f8/683SelfServicePasswordResetOffice365_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "00:37:46",
+    "VideoTitle": "Office 365 Support Corner: Self Service Password Reset in Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T16:23:48.14036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/46f8/0d712a36-d910-4ac9-8565-931ae54246f8/683SelfServicePasswordResetOffice365_mid.mp4",
+    "Description": "Get a brief overview of Self-Service Password Reset (SSPR), and see demonstrations on how to perform SSPR, change SSPR user settings, and perform password write-back. [02:07] - What is Azure Active Di"
+  },
+  {
+    "VideoId": "f6539a1b-b3e5-4da3-9aa6-a426003f57ec",
+    "DataApi": "/Entries(guid'f6539a1b-b3e5-4da3-9aa6-a426003f57ec')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Directory-Synchronization-in-Office-365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4536/39dbce9c-fd65-451d-a408-1e58c1b34536/682DirectorySynchronizationOffice365_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "00:44:31",
+    "VideoTitle": "Office 365 Support Corner: Directory Synchronization in Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T16:24:09.7042707Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4536/39dbce9c-fd65-451d-a408-1e58c1b34536/682DirectorySynchronizationOffice365_mid.mp4",
+    "Description": "Examine how to synchronize and configure your local on-premises directory to Office 365. Explore source of authority, user identity matching, filtering, and configuring an alternate user ID.â€‹ [01:59] "
+  },
+  {
+    "VideoId": "256468d6-fdd3-4740-8dee-a438018b3eb2",
+    "DataApi": "/Entries(guid'256468d6-fdd3-4740-8dee-a438018b3eb2')/",
+    "VideoPageLink": "/Series/Office-365-Support-Corner/Office-365-Support-Corner-Managing-Users-in-Office-365-Using-PowerShell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3398/6ff54884-3b4b-4a62-b528-6b03642e3398/684ManagingUsersOffice365UsingPowershell_960.jpg",
+    "ShowName": "Office 365 Support Corner",
+    "VideoLength": "01:16:09",
+    "VideoTitle": "Office 365 Support Corner: Managing Users in Office 365 Using PowerShell",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-08T18:50:04.4536826Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3398/6ff54884-3b4b-4a62-b528-6b03642e3398/684ManagingUsersOffice365UsingPowershell_mid.mp4",
+    "Description": "Learn how to manage Office 365 users using PowerShell, including creating and deleting users, updating user IDs and passwords, assigning licenses and groups, and much more. [02:14] - What is Azure Act"
+  }
+]

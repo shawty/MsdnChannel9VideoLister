@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "2cfe2a48-2763-490c-b498-a4690124dac0",
+    "DataApi": "/Entries(guid'2cfe2a48-2763-490c-b498-a4690124dac0')/",
+    "VideoPageLink": "/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/097a/60e2c441-4b20-4717-b083-4c6a261f097a/699ManageLinuxWorkloadsM02_960.jpg",
+    "ShowName": "Managing Linux Workloads in Windows Server and System Center",
+    "VideoLength": "00:21:59",
+    "VideoTitle": "Managing Linux Workloads in Windows Server and System Center: (02) Virtual Machine Manager and Azure Pack",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-28T19:16:28.8825712Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/097a/60e2c441-4b20-4717-b083-4c6a261f097a/699ManageLinuxWorkloadsM02_mid.mp4",
+    "Description": "Learn about Virtual Machine Manager and Windows Azure Pack and how to use them to provision Linux workloads in your datacenter. [00:15] - Virtual Machine Manager[06:08] - Demo: Deploying Linux VMs in "
+  },
+  {
+    "VideoId": "581ebe18-a965-4a26-a7fb-a46901250577",
+    "DataApi": "/Entries(guid'581ebe18-a965-4a26-a7fb-a46901250577')/",
+    "VideoPageLink": "/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/86a1/62ac2546-1055-4b55-97d3-b34b1dd586a1/699ManageLinuxWorkloadsM03_960.jpg",
+    "ShowName": "Managing Linux Workloads in Windows Server and System Center",
+    "VideoLength": "00:14:44",
+    "VideoTitle": "Managing Linux Workloads in Windows Server and System Center: (03) Configuration Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-28T19:16:38.7762028Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/86a1/62ac2546-1055-4b55-97d3-b34b1dd586a1/699ManageLinuxWorkloadsM03_mid.mp4",
+    "Description": "Get the details on Configuration Manager and how to use it to manage and configure your Linux endpoints. [04:08] - Demo: Configuration Manager"
+  },
+  {
+    "VideoId": "8ac0f25f-f032-45a9-a1ff-a469012531bc",
+    "DataApi": "/Entries(guid'8ac0f25f-f032-45a9-a1ff-a469012531bc')/",
+    "VideoPageLink": "/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb27/1f18ac61-64f0-4ad3-ba59-82c620a3fb27/699ManageLinuxWorkloadsM04_960.jpg",
+    "ShowName": "Managing Linux Workloads in Windows Server and System Center",
+    "VideoLength": "00:14:14",
+    "VideoTitle": "Managing Linux Workloads in Windows Server and System Center: (04) Operations Managerâ€‹",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-28T19:16:47.6701182Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb27/1f18ac61-64f0-4ad3-ba59-82c620a3fb27/699ManageLinuxWorkloadsM04_mid.mp4",
+    "Description": "Hear about Operations Manager and how to use it to monitor Linux workloads in your datacenter. [00:19] - Operations Manager[05:16] - Demo: Operations Manager"
+  },
+  {
+    "VideoId": "14fc91a2-6f67-4a7c-a3a6-a46901255b52",
+    "DataApi": "/Entries(guid'14fc91a2-6f67-4a7c-a3a6-a46901255b52')/",
+    "VideoPageLink": "/Series/Managing-Linux-Workloads-in-Windows-Server-and-System-Center/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb8a/ecf7b95f-d626-44b4-a692-f4e45acbbb8a/699ManageLinuxWorkloadsM05_960.jpg",
+    "ShowName": "Managing Linux Workloads in Windows Server and System Center",
+    "VideoLength": "00:15:03",
+    "VideoTitle": "Managing Linux Workloads in Windows Server and System Center: (05) Orchestrator and Data Protection Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-28T19:17:00.2355987Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb8a/ecf7b95f-d626-44b4-a692-f4e45acbbb8a/699ManageLinuxWorkloadsM05_mid.mp4",
+    "Description": "Learn about Orchestrator and Data Protection Manager and how to use them to implement automation in your datacenter, along with how to take backups of your Linux workloads. [00:19] - Orchestrator &amp"
+  }
+]

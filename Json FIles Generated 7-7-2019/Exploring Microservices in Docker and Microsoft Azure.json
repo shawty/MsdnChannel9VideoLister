@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "e769fc93-e750-459f-b269-a49801211e0f",
+    "DataApi": "/Entries(guid'e769fc93-e750-459f-b269-a49801211e0f')/",
+    "VideoPageLink": "/Series/Exploring-Microservices-in-Docker-and-Microsoft-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a903/b4d76151-63e6-41c9-a9f6-860b1f3ba903/782ExpMicrosvcsInDockerAzureM02_960.jpg",
+    "ShowName": "Exploring Microservices in Docker and Microsoft Azure",
+    "VideoLength": "01:03:00",
+    "VideoTitle": "Exploring Microservices in Docker and Microsoft Azure: (02) Docker: Containers and Microservices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-15T00:35:49.6210003Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a903/b4d76151-63e6-41c9-a9f6-860b1f3ba903/782ExpMicrosvcsInDockerAzureM02_mid.mp4",
+    "Description": "Review the difference between containers and microservices. See how microservice architecture can help you take advantage of container technologies and services like app services and service fabric. ["
+  },
+  {
+    "VideoId": "add4f343-0751-424d-ab5f-a49801214a80",
+    "DataApi": "/Entries(guid'add4f343-0751-424d-ab5f-a49801214a80')/",
+    "VideoPageLink": "/Series/Exploring-Microservices-in-Docker-and-Microsoft-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6561/7dad9f66-29ef-4c90-9f05-6446dc736561/782ExpMicrosvcsInDockerAzureM03_960.jpg",
+    "ShowName": "Exploring Microservices in Docker and Microsoft Azure",
+    "VideoLength": "01:11:05",
+    "VideoTitle": "Exploring Microservices in Docker and Microsoft Azure: (03) Microservice Architecture for .NET",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-15T00:36:02.4335595Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6561/7dad9f66-29ef-4c90-9f05-6446dc736561/782ExpMicrosvcsInDockerAzureM03_mid.mp4",
+    "Description": "See a demo of microservice discoverability and composition, plus the ability to dynamically find services at run time and compose them into a user experience; get an overview of Azure API management. "
+  },
+  {
+    "VideoId": "82df5303-dd4d-4831-ab15-a49801217b1f",
+    "DataApi": "/Entries(guid'82df5303-dd4d-4831-ab15-a49801217b1f')/",
+    "VideoPageLink": "/Series/Exploring-Microservices-in-Docker-and-Microsoft-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fa0d/88805c8f-e259-46e0-96d9-9016422efa0d/782ExpMicrosvcsInDockerAzureM04_960.jpg",
+    "ShowName": "Exploring Microservices in Docker and Microsoft Azure",
+    "VideoLength": "01:00:40",
+    "VideoTitle": "Exploring Microservices in Docker and Microsoft Azure: (04) Microservices and Internet of Things: Pharma Trial Demo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-15T00:36:13.9288456Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fa0d/88805c8f-e259-46e0-96d9-9016422efa0d/782ExpMicrosvcsInDockerAzureM04_mid.mp4",
+    "Description": "Get an overview of how IoT is implemented on Azure, using a microservice architecture covering event hub and stream analytics, and walk through a complete end-to-end solution. [09:45] - What does IoT "
+  }
+]

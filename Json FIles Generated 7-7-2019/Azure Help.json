@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a6f52d2c-965b-4b67-b689-a771014a4ee7",
+    "DataApi": "/Entries(guid'a6f52d2c-965b-4b67-b689-a771014a4ee7')/",
+    "VideoPageLink": "/Blogs/Azure-Help/Troubleshoot-NSG-configuration-using-IP-Flow-Verify",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/82c1/5c2cddd5-a454-4e9e-bf33-7fd5bbbd82c1/ipflowverify_960.jpg",
+    "ShowName": "Azure Help",
+    "VideoLength": "00:06:05",
+    "VideoTitle": "Troubleshoot NSG configuration using IP Flow Verify ",
+    "Author": "RicksterCDN",
+    "UtcDateTimePublished": "2017-05-12T20:49:53.811085Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/82c1/5c2cddd5-a454-4e9e-bf33-7fd5bbbd82c1/ipflowverify_mid.mp4",
+    "Description": "Learn to use IP flow verify to confirm if a rule in a Network Security Group is blocking traffic to or from a virtual machine.  Useful Documentation: Overview of Network Watcher IP Flow VerifyHow to u"
+  }
+]

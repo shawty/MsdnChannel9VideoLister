@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "3522ab18-a35a-435c-9da6-a296017f81d2",
+    "DataApi": "/Entries(guid'3522ab18-a35a-435c-9da6-a296017f81d2')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-Server-Advanced-Solutions/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e15/b7abc5b4-5c7c-4e06-a0af-9daf41086e15/DevSharePointServerAdvSolutionsM02_960.jpg",
+    "ShowName": "Developing SharePoint Server Advanced Solutions",
+    "VideoLength": "00:53:23",
+    "VideoTitle": "Developing SharePoint Server Advanced Solutions: (02) Interacting with SharePoint Search",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:58:35.2983037Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e15/b7abc5b4-5c7c-4e06-a0af-9daf41086e15/DevSharePointServerAdvSolutionsM02_mid.mp4",
+    "Description": "In this module, we'll talk about understanding SharePoint 2013 search, building queries, and executing queries from client-side code. [02:19] - Understanding the SharePoint 2013 Search Service[15:07] "
+  },
+  {
+    "VideoId": "817a6178-1ab8-4a76-b293-a296017fab46",
+    "DataApi": "/Entries(guid'817a6178-1ab8-4a76-b293-a296017fab46')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-Server-Advanced-Solutions/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b65a/2195b82b-66c4-47fc-8ef9-1ad86a7ab65a/DevSharePointServerAdvSolutionsM03_960.jpg",
+    "ShowName": "Developing SharePoint Server Advanced Solutions",
+    "VideoLength": "01:05:14",
+    "VideoTitle": "Developing SharePoint Server Advanced Solutions: (03) Customizing the Search Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:59:08.2638053Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b65a/2195b82b-66c4-47fc-8ef9-1ad86a7ab65a/DevSharePointServerAdvSolutionsM03_mid.mp4",
+    "Description": "Learn more about customizing search results and content processing, in addition to configuring entity extraction. [04:43] - Search Schemas[18:54] - Query Transforms[27:46] - Customizing Search Results"
+  },
+  {
+    "VideoId": "8c279ea7-e4da-4dc7-8f9e-a2960180289b",
+    "DataApi": "/Entries(guid'8c279ea7-e4da-4dc7-8f9e-a2960180289b')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-Server-Advanced-Solutions/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2793/c8789d39-46c2-4594-bea4-a629ccca2793/DevSharePointServerAdvSolutionsM04_960.jpg",
+    "ShowName": "Developing SharePoint Server Advanced Solutions",
+    "VideoLength": "00:51:57",
+    "VideoTitle": "Developing SharePoint Server Advanced Solutions: (04) Working with Business Connectivity Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T17:10:31.5934666Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2793/c8789d39-46c2-4594-bea4-a629ccca2793/DevSharePointServerAdvSolutionsM04_mid.mp4",
+    "Description": "Explore creation of Business Data Connectivity (BDC) models and external content types, and work with external events and notifications. [02:20] - Creating BDC Models[19:51] - Creating External Conten"
+  },
+  {
+    "VideoId": "a8658e15-db89-4865-8881-a29601806705",
+    "DataApi": "/Entries(guid'a8658e15-db89-4865-8881-a29601806705')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-Server-Advanced-Solutions/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2fdb/f998e0ca-08ae-42c0-a4a0-54ff85b32fdb/DevSharePointServerAdvSolutionsM05_960.jpg",
+    "ShowName": "Developing SharePoint Server Advanced Solutions",
+    "VideoLength": "00:36:44",
+    "VideoTitle": "Developing SharePoint Server Advanced Solutions: (05) Managing and Accessing User Profile Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T17:12:06.7341356Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2fdb/f998e0ca-08ae-42c0-a4a0-54ff85b32fdb/DevSharePointServerAdvSolutionsM05_mid.mp4",
+    "Description": "Learn about user profiles in SharePoint 2013, add people search functionality to an app, and display user profile properties. [01:28] - User Profiles in SharePoint 2013[13:21] - Adding People Search F"
+  },
+  {
+    "VideoId": "f81f881c-010f-4fa3-8a5c-a2960180bb8e",
+    "DataApi": "/Entries(guid'f81f881c-010f-4fa3-8a5c-a2960180bb8e')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-Server-Advanced-Solutions/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/81e3/03319bb2-4743-4ae0-9001-b7d779cf81e3/DevSharePointServerAdvSolutionsM06_960.jpg",
+    "ShowName": "Developing SharePoint Server Advanced Solutions",
+    "VideoLength": "00:36:17",
+    "VideoTitle": "Developing SharePoint Server Advanced Solutions: (06) Customizing the Social Workload",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T17:12:59.9553533Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/81e3/03319bb2-4743-4ae0-9001-b7d779cf81e3/DevSharePointServerAdvSolutionsM06_mid.mp4",
+    "Description": "In this module, we explore developing social solutions, working with feeds, and creating a social app part. [02:02] - Developing Social Solutions[21:31] - Working with Feeds[29:01] - Creating a Social"
+  }
+]

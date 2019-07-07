@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "1d4e7532-1730-4199-b2df-a6030135ea55",
+    "DataApi": "/Entries(guid'1d4e7532-1730-4199-b2df-a6030135ea55')/",
+    "VideoPageLink": "/Series/TECHPOSITORY/How-to-Automate-Deployment-Using-Octopus-Deploy--VSTS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0adb/a7201cec-df54-4aea-ac8f-360b1af90adb/Octopus_960.jpg",
+    "ShowName": "Techpository",
+    "VideoLength": "00:23:26",
+    "VideoTitle": "How to Automate Deployment Using Octopus Deploy & VSTS",
+    "Author": "David Tesar",
+    "UtcDateTimePublished": "2016-05-12T19:55:26.667269Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0adb/a7201cec-df54-4aea-ac8f-360b1af90adb/Octopus_mid.mp4",
+    "Description": "This is a deeper dive on how to practically and technically implement automated deployment best practices, as a follow up to the DevOps &amp; Deployment Automation Best Practices DevOps Dimension epis"
+  },
+  {
+    "VideoId": "23365b87-1d99-4c09-824b-a6090130e371",
+    "DataApi": "/Entries(guid'23365b87-1d99-4c09-824b-a6090130e371')/",
+    "VideoPageLink": "/Series/TECHPOSITORY/Modern-IT-Management-Featuring-Ed-Baker",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e87c/6850aeb0-3749-4cd5-9c81-c3a323c0e87c/EdBaker_960.jpg",
+    "ShowName": "Techpository",
+    "VideoLength": "00:20:37",
+    "VideoTitle": "Modern IT Management Featuring Ed Baker",
+    "Author": "Ed Baker",
+    "UtcDateTimePublished": "2016-05-26T19:15:44.0912456Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e87c/6850aeb0-3749-4cd5-9c81-c3a323c0e87c/EdBaker_mid.mp4",
+    "Description": "In this Techpository episode, Senior Technical Evangelist Ed Baker demonstrates the ease of managing multiple apps and devices using Microsoft Intune. Ed walks through a few Mobile Device Management ("
+  },
+  {
+    "VideoId": "e0771dab-a155-464e-9241-a72b014cbdfa",
+    "DataApi": "/Entries(guid'e0771dab-a155-464e-9241-a72b014cbdfa')/",
+    "VideoPageLink": "/Series/TECHPOSITORY/CICD-pipeline-to-deploy-multi-containers-application-on-Azure-Container-Service-with-Docker-Swarm",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/93e9/f37c6323-b003-454d-9083-f6bd6bea93e9/PipelinetodeploymulticontainersapplicationonAzure_960.jpg",
+    "ShowName": "Techpository",
+    "VideoLength": "00:15:46",
+    "VideoTitle": "Full CI/CD pipeline to deploy multi-containers application on Azure Container Service with Docker Swarm using Visual Studio Team Services",
+    "Author": "Julien Corioland",
+    "UtcDateTimePublished": "2017-03-06T07:42:51.2204432Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/93e9/f37c6323-b003-454d-9083-f6bd6bea93e9/PipelinetodeploymulticontainersapplicationonAzure_mid.mp4",
+    "Description": "In this video Technical Evangelists Julien Corioland &amp; Oguz Pastirmaci walk through a full CI/CD pipeline to deploy multi-containers application on Azure Container Service with Docker Swarm using "
+  }
+]

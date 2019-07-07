@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "529958f3-37db-41da-b660-a5e600b8a65d",
+    "DataApi": "/Entries(guid'529958f3-37db-41da-b660-a5e600b8a65d')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Microsoft-Schweiz-Webinar-Neue-Chancen-fr-Softwarehersteller-mit-Microsoft-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7836/9ec3db3c-240a-49df-9d15-1d7200cf7836/WebinarAzurefuerStartups_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "01:06:16",
+    "VideoTitle": "Microsoft Schweiz Webinar: Neue Chancen fÃ¼r Softwarehersteller mit Microsoft Azure",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-04-25T07:05:26.461516Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7836/9ec3db3c-240a-49df-9d15-1d7200cf7836/WebinarAzurefuerStartups_mid.mp4",
+    "Description": "Immer mehr Start-Ups im Developer-Umfeld setzen auf Microsoft Azure, da die Startups mit Azure als Plattform für die Applikationsentwicklung klare ökonomische und technische Vorteile erhalten. Wie? Gu"
+  },
+  {
+    "VideoId": "6ed4becd-c0b0-4306-8246-a5ef00f859cf",
+    "DataApi": "/Entries(guid'6ed4becd-c0b0-4306-8246-a5ef00f859cf')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Microsoft-Schweiz-Webinar-Untersttzungsangebote-seitens-Microsoft-fr-Sie-als-Entwicklungspartner",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d04b/16adcba4-8bb7-45b3-87b9-3c4a525bd04b/WebinarUnterstuetzungMicrosoftanEntwicklungspartn_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "00:39:26",
+    "VideoTitle": "Microsoft Schweiz Webinar: UnterstÃ¼tzungsangebote seitens Microsoft fÃ¼r Sie als Entwicklungspartner",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-04-25T06:19:49.2498801Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d04b/16adcba4-8bb7-45b3-87b9-3c4a525bd04b/WebinarUnterstuetzungMicrosoftanEntwicklungspartn_mid.mp4",
+    "Description": "Microsoft unterstützt Sie als Applikationsentwickler bei der Planung, Entwicklung und dem Go-to Market Ihrer Software! Möchten Sie von technischen und beratenden Ressourcen profitieren, welche Ihnen h"
+  },
+  {
+    "VideoId": "038b8d46-533a-4add-aa00-a5db00d9cbb7",
+    "DataApi": "/Entries(guid'038b8d46-533a-4add-aa00-a5db00d9cbb7')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Microsoft-Switzerland-Build-2016-Keynote-Viewing-Event",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1824/04f546a3-6721-4505-9324-2eb5e07a1824/MSCHBuild2016Viewing_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "00:01:56",
+    "VideoTitle": "Microsoft Switzerland Build 2016 Keynote Viewing Event",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-04-01T13:44:53.5644629Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1824/04f546a3-6721-4505-9324-2eb5e07a1824/MSCHBuild2016Viewing_mid.mp4",
+    "Description": "Microsoft Switzerland Build 2016 day 1 keynote live stream viewing event with customers and partners. "
+  },
+  {
+    "VideoId": "dbf6d564-1397-4b0e-97ed-a5db00cc2f9d",
+    "DataApi": "/Entries(guid'dbf6d564-1397-4b0e-97ed-a5db00cc2f9d')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Turn-your-Xbox-One-into-a-Dev-Kit",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f202/03b778c1-94f3-44d6-82bd-9b66e8bff202/UWP2XBOX_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "00:14:18",
+    "VideoTitle": "Turn your Xbox One into a Dev Kit",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-04-01T13:42:34.7718629Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f202/03b778c1-94f3-44d6-82bd-9b66e8bff202/UWP2XBOX_mid.mp4",
+    "Description": "Do you want to be able to publish your app and games directly to your beloved Xbox One? Then check out this video to learn how to activate the dev kit on the console and to deploy a really simple Hell"
+  },
+  {
+    "VideoId": "a7e0f0ea-4394-4a44-8342-a5da00ca0103",
+    "DataApi": "/Entries(guid'a7e0f0ea-4394-4a44-8342-a5da00ca0103')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Swiss-BizSpark-Startup-Mountain-Camp-Winter-2016-Snowup-Ftan-Long",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7a6c/41fa68b3-3d2f-46d7-a56d-ebb73dc37a6c/SwissBizSparkStartupMountainCamp_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "00:03:12",
+    "VideoTitle": "Swiss BizSpark Startup Mountain Camp - Winter 2016 Snowup Ftan (Long)",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-03-31T14:58:08.3836353Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7a6c/41fa68b3-3d2f-46d7-a56d-ebb73dc37a6c/SwissBizSparkStartupMountainCamp_mid.mp4",
+    "Description": "A Video about our first BizSpark Coworking Event in Ftan in Engadin (Swiss Alps). Together with over 70 people from more than 34 Startups the Swiss DX Team spend a week in the mountains to work, code "
+  },
+  {
+    "VideoId": "51c08d7c-ba4b-47bd-ab18-a5da00cc4df3",
+    "DataApi": "/Entries(guid'51c08d7c-ba4b-47bd-ab18-a5da00cc4df3')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Microsoft-Switzerland-TechDays-2016-Baden-Teaser",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2363/c829aa13-bef4-486d-bc5b-12a2a3592363/MicrosoftSwitzerlandTechDays2016_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "00:00:42",
+    "VideoTitle": "Microsoft Switzerland TechDays 2016 Baden Teaser",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-03-31T14:04:26.9550286Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2363/c829aa13-bef4-486d-bc5b-12a2a3592363/MicrosoftSwitzerlandTechDays2016_mid.mp4",
+    "Description": "TechDays 2016 in BadenWith more than 600 participants, 9 partners and 24 sessions our largest technology conference in Switzerland was a great success. At the TechDays the participants had the chance "
+  },
+  {
+    "VideoId": "fcc2946f-ee2e-4e18-a036-a5da00c850fb",
+    "DataApi": "/Entries(guid'fcc2946f-ee2e-4e18-a036-a5da00c850fb')/",
+    "VideoPageLink": "/Blogs/Microsoft-Switzerland-DX-Videos/Swiss-BizSpark-Startup-Mountain-Camp-Winter-2016-Snowup-Ftan-Short",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/847b/907b0e71-a9fd-4c66-9b44-30fd8226847b/BizSparkCamp2016FtanTeaser_960.jpg",
+    "ShowName": "Microsoft Switzerland DX Videos",
+    "VideoLength": "00:01:00",
+    "VideoTitle": "Swiss BizSpark Startup Mountain Camp - Winter 2016 Snowup Ftan (Short)",
+    "Author": "SwissDXTeam",
+    "UtcDateTimePublished": "2016-03-31T13:45:48.307985Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/847b/907b0e71-a9fd-4c66-9b44-30fd8226847b/BizSparkCamp2016FtanTeaser_mid.mp4",
+    "Description": "Some impressions from our first BizSpark Coworking Event in Ftan in Engadin (Swiss Alps). Together with over 70 people from more than 34 Startups the Swiss DX Team spend a week in the mountains to wor"
+  }
+]

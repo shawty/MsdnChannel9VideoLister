@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c5d043c0-e64a-442d-a891-a334011831d2",
+    "DataApi": "/Entries(guid'c5d043c0-e64a-442d-a891-a334011831d2')/",
+    "VideoPageLink": "/Series/Preparing-for-the-Windows-8-1-MCSA-Certification/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b51/77f9a28d-7afd-4462-b9a0-0af4dd9d9b51/PrepareForTheWindows81MCSAM02_960.jpg",
+    "ShowName": "Preparing for the Windows 8.1 MCSA Certification",
+    "VideoLength": "00:38:31",
+    "VideoTitle": "Preparing for the Windows 8.1 MCSA Certification: (02) Installing & Upgrading to Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T20:16:55.2839723Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b51/77f9a28d-7afd-4462-b9a0-0af4dd9d9b51/PrepareForTheWindows81MCSAM02_mid.mp4",
+    "Description": "This module outlines planning considerations for a deploying Windows 8.1 in an enterprise. You will understand the pathways to upgrading your organization from Windows XP, Windows Vista, and Windows 7"
+  },
+  {
+    "VideoId": "35131737-8c52-4521-b762-a3340118b158",
+    "DataApi": "/Entries(guid'35131737-8c52-4521-b762-a3340118b158')/",
+    "VideoPageLink": "/Series/Preparing-for-the-Windows-8-1-MCSA-Certification/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a863/06e2366f-6fa5-41c8-834a-c92535d8a863/PrepareForTheWindows81MCSAM03_960.jpg",
+    "ShowName": "Preparing for the Windows 8.1 MCSA Certification",
+    "VideoLength": "00:47:08",
+    "VideoTitle": "Preparing for the Windows 8.1 MCSA Certification: (03) Configuring & Managing Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T20:17:09.6403711Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a863/06e2366f-6fa5-41c8-834a-c92535d8a863/PrepareForTheWindows81MCSAM03_mid.mp4",
+    "Description": "This module provides an overview of local and remote management tools to administrative events, logs, and resources. Also, see how PowerShell is used to configure and manage Windows 8.1 using PowerShe"
+  },
+  {
+    "VideoId": "6a149a15-5400-492a-9ab3-a33401198e94",
+    "DataApi": "/Entries(guid'6a149a15-5400-492a-9ab3-a33401198e94')/",
+    "VideoPageLink": "/Series/Preparing-for-the-Windows-8-1-MCSA-Certification/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/83a1/e4202ed4-c82f-4185-88e0-3ae8a74683a1/PrepareForTheWindows81MCSAM04_960.jpg",
+    "ShowName": "Preparing for the Windows 8.1 MCSA Certification",
+    "VideoLength": "00:29:42",
+    "VideoTitle": "Preparing for the Windows 8.1 MCSA Certification: (04) Implementing an Application Strategy for Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T20:17:23.3522977Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/83a1/e4202ed4-c82f-4185-88e0-3ae8a74683a1/PrepareForTheWindows81MCSAM04_mid.mp4",
+    "Description": "This module provides an overview of application deployment for Windows 8.1. You'll see how to implement application restrictions for an enterprise using Software Restriction Policies (SRP). [00:25] - "
+  },
+  {
+    "VideoId": "fe945e67-f364-4c18-9718-a3340119c9ed",
+    "DataApi": "/Entries(guid'fe945e67-f364-4c18-9718-a3340119c9ed')/",
+    "VideoPageLink": "/Series/Preparing-for-the-Windows-8-1-MCSA-Certification/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/00f7/a582d812-c728-4eb2-8bb7-07d71cc500f7/PrepareForTheWindows81MCSAM05_960.jpg",
+    "ShowName": "Preparing for the Windows 8.1 MCSA Certification",
+    "VideoLength": "00:39:43",
+    "VideoTitle": "Preparing for the Windows 8.1 MCSA Certification: (05) Managing Devices & Resource Access",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T20:17:36.9763959Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/00f7/a582d812-c728-4eb2-8bb7-07d71cc500f7/PrepareForTheWindows81MCSAM05_mid.mp4",
+    "Description": "This module highlights Windows 8.1 bring your own device (BYOD) scenarios for enterprises. Understand how to manage non-domain member devices using new features such as Workplace Join and Work Folders"
+  },
+  {
+    "VideoId": "545cd8e9-8e20-4157-9011-a334011a077b",
+    "DataApi": "/Entries(guid'545cd8e9-8e20-4157-9011-a334011a077b')/",
+    "VideoPageLink": "/Series/Preparing-for-the-Windows-8-1-MCSA-Certification/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/08db/9c85df44-7fb7-4c92-9676-99c3d0df08db/PrepareForTheWindows81MCSAM06_960.jpg",
+    "ShowName": "Preparing for the Windows 8.1 MCSA Certification",
+    "VideoLength": "00:35:05",
+    "VideoTitle": "Preparing for the Windows 8.1 MCSA Certification: (06) Securing Windows 8.1 Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T20:17:58.6839022Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/08db/9c85df44-7fb7-4c92-9676-99c3d0df08db/PrepareForTheWindows81MCSAM06_mid.mp4",
+    "Description": "This final module provides an overview of Windows 8.1 authentication and authorization processes such as biometrics, virtual smartcards, and picture passwords. See how to enable and manage firewalls a"
+  }
+]

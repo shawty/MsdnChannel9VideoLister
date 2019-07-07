@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "13263224-4a92-4027-b9ba-a66b00d43b65",
+    "DataApi": "/Entries(guid'13263224-4a92-4027-b9ba-a66b00d43b65')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-and-Python-Interoperability",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a640/cf989f4b-db5b-4fcb-b3fb-504a650aa640/PSPythonInterop_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:05:51",
+    "VideoTitle": "PowerShell and Python Interoperability",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-08-25T15:10:07.6884051Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a640/cf989f4b-db5b-4fcb-b3fb-504a650aa640/PSPythonInterop_mid.mp4",
+    "Description": "PowerShell and Python Interoperability demo by Jeffrey Snover, Technical Fellow and Bruce Payette, Principal Software Engineer  "
+  },
+  {
+    "VideoId": "115247d4-8f59-44c9-939e-a66b00d61121",
+    "DataApi": "/Entries(guid'115247d4-8f59-44c9-939e-a66b00d61121')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Amazon-Web-Services-AWS-Partner-demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d287/e6736872-460d-4123-8520-359ab224d287/AWSPSDemo_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:02:17",
+    "VideoTitle": "PowerShell on Linux - Amazon Web Services (AWS) Partner demo",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-08-25T15:10:25.4876418Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d287/e6736872-460d-4123-8520-359ab224d287/AWSPSDemo_mid.mp4",
+    "Description": "PowerShell on Linux - Amazon Web Services (AWS) Partner demo "
+  },
+  {
+    "VideoId": "d3b413f1-9506-4bff-b10d-a66b00d668c7",
+    "DataApi": "/Entries(guid'd3b413f1-9506-4bff-b10d-a66b00d668c7')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-VMware-partner-demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/769d/07d62107-6d78-4df3-b48f-01b38b62769d/VMWPSDemo_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:03:11",
+    "VideoTitle": "PowerShell on Linux - VMware partner demo",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-08-25T15:10:43.3040723Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/769d/07d62107-6d78-4df3-b48f-01b38b62769d/VMWPSDemo_mid.mp4",
+    "Description": "PowerShell on Linux demo by Jeffery Snover, Inventor of PowerShell and Technical Fellow C&#43;E at Microsoft and Alan Renouf,Product Line Manager for APIs, SDKs, CLIs and Automation Frameworks at VMwa"
+  },
+  {
+    "VideoId": "0d16bd59-cbfd-4cca-9314-a66401373e4c",
+    "DataApi": "/Entries(guid'0d16bd59-cbfd-4cca-9314-a66401373e4c')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-On-Linux-Python-demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/22f9/3c4728eb-8a84-4552-88ba-cf1c167422f9/PythonDemo_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:01:51",
+    "VideoTitle": "PowerShell On Linux - Python demo",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-08-25T15:10:55.7468264Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/22f9/3c4728eb-8a84-4552-88ba-cf1c167422f9/PythonDemo_mid.mp4",
+    "Description": "PowerShell On Linux - Python demo by Jeffrey Snover, Technical Fellow and Jason Shirk, Principal Software Engineer from PowerShell team "
+  },
+  {
+    "VideoId": "d1f1f15f-847e-4abc-8f69-a67801703cf5",
+    "DataApi": "/Entries(guid'd1f1f15f-847e-4abc-8f69-a67801703cf5')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Amazon-Web-Services-AWS-S3-Website-demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0469/a3763724-152f-4e8f-a65e-ed8a2d640469/PSAWSS3_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:05:18",
+    "VideoTitle": "PowerShell on Linux - Amazon Web Services (AWS) S3 Website demo",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-09-05T22:35:50.8296279Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0469/a3763724-152f-4e8f-a65e-ed8a2d640469/PSAWSS3_mid.mp4",
+    "Description": "PowerShell on Linux - Amazon Web Services (AWS) S3 website drill down demo by Steve Roberts from AWS hosted by Microsoft Technical Fellow and PowerShell inventor Jeffrey Snover. "
+  },
+  {
+    "VideoId": "508b774a-1eec-4268-af88-a67801712427",
+    "DataApi": "/Entries(guid'508b774a-1eec-4268-af88-a67801712427')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-VMware-demo-using-PowerCLI-to-deploy-VMs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/408a/ff25a200-ab26-428f-b439-dc7a36a4408a/PSVMWPowerCLI_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:08:32",
+    "VideoTitle": "PowerShell on Linux - VMware demo using PowerCLI to deploy VMs",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-09-05T23:09:15.6246008Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/408a/ff25a200-ab26-428f-b439-dc7a36a4408a/PSVMWPowerCLI_mid.mp4",
+    "Description": "PowerShell on Linux - VMware drill down demo using PowerCLI to deploy VMs in a datacenter by Jeffery Snover, Inventor of PowerShell and Technical Fellow C&#43;E at Microsoft and Alan Renouf, Product L"
+  },
+  {
+    "VideoId": "d0a17d99-92bd-4d1d-8146-a6780170c273",
+    "DataApi": "/Entries(guid'd0a17d99-92bd-4d1d-8146-a6780170c273')/",
+    "VideoPageLink": "/series/PowerShell-Open-Source-Project/PowerShell-on-Linux-Amazon-Web-Services-AWS-EC2-Run-Command-multiple-website-admin-scenario",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f7f/6022f97d-1b1d-4467-84da-5521a2bf7f7f/PSEC2Run_960.jpg",
+    "ShowName": "PowerShell Open Source Project",
+    "VideoLength": "00:05:36",
+    "VideoTitle": "PowerShell on Linux - Amazon Web Services (AWS) EC2 Run Command multiple website admin scenario",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2016-09-05T23:23:10.6461619Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f7f/6022f97d-1b1d-4467-84da-5521a2bf7f7f/PSEC2Run_mid.mp4",
+    "Description": "PowerShell on Linux - Amazon Web Services (AWS) EC2 Run Command multiple website admin's scenario drill down demo by Steve Roberts from AWS and hosted by Microsoft Technical Fellow and PowerShell Inve"
+  }
+]

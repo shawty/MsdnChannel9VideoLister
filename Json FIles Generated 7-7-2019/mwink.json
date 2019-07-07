@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "fb46a806-4a86-493f-b19a-9dea016348d1",
+    "DataApi": "/Entries(guid'fb46a806-4a86-493f-b19a-9dea016348d1')/",
+    "VideoPageLink": "/Blogs/mwink/Dynamically-Creating-Service-Contracts-using-Workflow-Services-in-NET-35",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4ff9/ef09fef9-7498-40ef-81cc-8cded9c04ff9/Dynamically-Creating-Service-Contracts-using-Work_960.jpg",
+    "ShowName": "mwink",
+    "VideoLength": "00:06:50",
+    "VideoTitle": "â€¢\tDynamically Creating Service Contracts using Workflow Services in .NET 3.5",
+    "Author": "mwink",
+    "UtcDateTimePublished": "2007-08-02T23:07:30Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4ff9/ef09fef9-7498-40ef-81cc-8cded9c04ff9/Dynamically-Creating-Service-Contracts-using-Work_mid.mp4",
+    "Description": "In this screencast, we show how we can use a workflow first design pattern to dynamically create a service contract when we are building workflow services. \n\n\nFor more information, check out my blo"
+  },
+  {
+    "VideoId": "09ba1ead-4f0f-46a4-ac71-9dea01635095",
+    "DataApi": "/Entries(guid'09ba1ead-4f0f-46a4-ac71-9dea01635095')/",
+    "VideoPageLink": "/Blogs/mwink/Creating-a-Workflow-Service-in-Approximately-60-Seconds",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d254/1d5596df-a304-4089-896b-9f63c679d254/Creating-a-Workflow-Service-in-Approximately-60-S_960.jpg",
+    "ShowName": "mwink",
+    "VideoLength": "00:03:01",
+    "VideoTitle": "Creating a Workflow Service in Approximately 60 Seconds",
+    "Author": "mwink",
+    "UtcDateTimePublished": "2007-07-30T19:49:55Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d254/1d5596df-a304-4089-896b-9f63c679d254/Creating-a-Workflow-Service-in-Approximately-60-S_mid.mp4",
+    "Description": "Got VS 2008 Beta 2?  In this screencast, we walk through the new project templates to rapidly create a WCF service that is implemented in WF using the Send and Receive activities in .NET 3.5.  This is"
+  },
+  {
+    "VideoId": "71f2bc76-afe0-43b7-8da1-9dea016358ec",
+    "DataApi": "/Entries(guid'71f2bc76-afe0-43b7-8da1-9dea016358ec')/",
+    "VideoPageLink": "/Blogs/mwink/BizTalk-Server-2006-Extensions-for-WF",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "abccc7fd-9ad7-469e-acfe-9dea01635d47",
+    "DataApi": "/Entries(guid'abccc7fd-9ad7-469e-acfe-9dea01635d47')/",
+    "VideoPageLink": "/Blogs/mwink/Building-WCF-Windows-Communication-Foundation-Services-with-WF-Windows-Workflow-Foundation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f8cd/8e86e99d-8e15-4e3d-9452-a10ecc02f8cd/Building-WCF-Windows-Communication-Foundation-Ser_960.jpg",
+    "ShowName": "mwink",
+    "VideoLength": "01:20:32",
+    "VideoTitle": "Building WCF (Windows Communication Foundation) Services with WF (Windows Workflow Foundation)",
+    "Author": "mwink",
+    "UtcDateTimePublished": "2007-06-26T17:07:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f8cd/8e86e99d-8e15-4e3d-9452-a10ecc02f8cd/Building-WCF-Windows-Communication-Foundation-Ser_mid.mp4",
+    "Description": "\nI often liken WF and WCF to long lost siblings separated at birth.  Almost every customer I talk to wants to use these two technologies together.  In V1, one could certainly use the two together, th"
+  },
+  {
+    "VideoId": "5b88de58-0a40-424f-8c56-9dea01636203",
+    "DataApi": "/Entries(guid'5b88de58-0a40-424f-8c56-9dea01636203')/",
+    "VideoPageLink": "/Blogs/mwink/Introduction-to-the-Windows-Workflow-Foundation-Pageflow-sample",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "39210aad-5fb0-413c-97ba-9dea01636770",
+    "DataApi": "/Entries(guid'39210aad-5fb0-413c-97ba-9dea01636770')/",
+    "VideoPageLink": "/Blogs/mwink/Rules-Driven-UI-using-WF",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "80f1c8c6-6217-4dbc-a8ed-9dea0163740c",
+    "DataApi": "/Entries(guid'80f1c8c6-6217-4dbc-a8ed-9dea0163740c')/",
+    "VideoPageLink": "/Blogs/mwink/Workflow-Manager-Application",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

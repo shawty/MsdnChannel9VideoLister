@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "b1291085-6e15-4687-8494-a68d0073a8bd",
+    "DataApi": "/Entries(guid'b1291085-6e15-4687-8494-a68d0073a8bd')/",
+    "VideoPageLink": "/Series/An-Introduction-to-Office-365-for-Start-ups--Scale-Ups--Tips-and-Tricks-for-Entrepreneurs/O365-for-Start-ups-and-Scale-ups",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3abe/0c803dd3-737f-4eab-9c11-fd12e3313abe/O365forStartupsandScaleups_960.jpg",
+    "ShowName": "An Introduction to Office 365 for Start-upâ€™s & Scale Upâ€™s â€“ Tips and Tricks for Entrepreneurs.",
+    "VideoLength": "00:23:41",
+    "VideoTitle": "O365 for Start-ups and Scale ups",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-10-17T09:12:28.8782663Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3abe/0c803dd3-737f-4eab-9c11-fd12e3313abe/O365forStartupsandScaleups_mid.mp4",
+    "Description": "To outline the benefits of O365 for a start-up and scale up business.   "
+  },
+  {
+    "VideoId": "34b8e83a-413d-4da1-bccb-a68d0072ada1",
+    "DataApi": "/Entries(guid'34b8e83a-413d-4da1-bccb-a68d0072ada1')/",
+    "VideoPageLink": "/Series/An-Introduction-to-Office-365-for-Start-ups--Scale-Ups--Tips-and-Tricks-for-Entrepreneurs/Introduction-to-O365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3748/980fe070-d51c-4b2c-818f-7c586cc03748/introductiontoO365_960.jpg",
+    "ShowName": "An Introduction to Office 365 for Start-upâ€™s & Scale Upâ€™s â€“ Tips and Tricks for Entrepreneurs.",
+    "VideoLength": "00:33:41",
+    "VideoTitle": "Introduction to O365",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-10-17T09:12:31.9719384Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3748/980fe070-d51c-4b2c-818f-7c586cc03748/introductiontoO365_mid.mp4",
+    "Description": "To give an overview of O365 based on the online Applications and the offering. Taking it one product at a time, as it will be viewed when going online. Damian will include a short description of what "
+  }
+]

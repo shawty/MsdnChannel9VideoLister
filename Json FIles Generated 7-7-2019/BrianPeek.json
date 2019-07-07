@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ff7a1815-6a47-41a5-82e5-a1040001ad03",
+    "DataApi": "/Entries(guid'ff7a1815-6a47-41a5-82e5-a1040001ad03')/",
+    "VideoPageLink": "/Blogs/BrianPeek/Maelstrom",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/23e7/8a61c15c-5f47-4155-9982-038a179e23e7/Maelstrom_512.jpg",
+    "ShowName": "BrianPeek",
+    "VideoLength": "00:00:11",
+    "VideoTitle": "Maelstrom Video",
+    "Author": "Brian Peek",
+    "UtcDateTimePublished": "2012-11-09T19:18:17.3116461Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/23e7/8a61c15c-5f47-4155-9982-038a179e23e7/Maelstrom_mid.mp4",
+    "Description": "Video footage for Maelstrom, our game shown off at //build/ 2012!  Article &#43; source code coming soon...stay tuned! "
+  }
+]

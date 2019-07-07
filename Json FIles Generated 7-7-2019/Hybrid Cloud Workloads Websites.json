@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "438a321a-8b75-49f9-a268-a3870031352d",
+    "DataApi": "/Entries(guid'438a321a-8b75-49f9-a268-a3870031352d')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Websites/-Module-2-Creating-a-Website-in-Microsoft-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/73da/bb8c6c14-2e10-462e-bbd9-ba407bc773da/Mod2_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Websites",
+    "VideoLength": "00:16:42",
+    "VideoTitle": "(Module 2) Creating a Website in Microsoft Azure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T04:01:57Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/73da/bb8c6c14-2e10-462e-bbd9-ba407bc773da/Mod2_mid.mp4",
+    "Description": "In this module you will learn how to create a website in Azure with an emphasis on the three deployment methods available; Quick Create, Custom Create, Create From Gallery. This video is part of the M"
+  },
+  {
+    "VideoId": "221388a6-e0ad-4c03-887c-a38700331dfb",
+    "DataApi": "/Entries(guid'221388a6-e0ad-4c03-887c-a38700331dfb')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Websites/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/14f8/13ea6dd5-299f-4bcd-8451-ab73f9a614f8/Mod3_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Websites",
+    "VideoLength": "00:20:35",
+    "VideoTitle": "(Module 3) Creating a Website in Azure Pack for Windows Server",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T04:02:55Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/14f8/13ea6dd5-299f-4bcd-8451-ab73f9a614f8/Mod3_mid.mp4",
+    "Description": "In this module you will learn that Windows Azure Pack for Windows Server is a collection of Microsoft Azure technologies, available to Microsoft customers at no additional cost for installation into y"
+  },
+  {
+    "VideoId": "c7dc3a63-a586-4973-847c-a3870033aae4",
+    "DataApi": "/Entries(guid'c7dc3a63-a586-4973-847c-a3870033aae4')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Websites/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a252/909e42e6-5211-4944-8342-0909b307a252/Mod4_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Websites",
+    "VideoLength": "00:14:14",
+    "VideoTitle": "(Module 4) Monitoring Websites with Microsoft Azure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T04:03:58Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a252/909e42e6-5211-4944-8342-0909b307a252/Mod4_mid.mp4",
+    "Description": "In this module you will learn the Monitoring Capabilities of Azure websites with a focus on Web Site Metrics, Alert Notifications, Usage Quotas, Reduce Resource Usage, Diagnostics and Logging, Monitor"
+  },
+  {
+    "VideoId": "df3129f7-7483-44f4-8081-a38700344207",
+    "DataApi": "/Entries(guid'df3129f7-7483-44f4-8081-a38700344207')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Websites/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb42/11dbda55-7c74-4c9a-9cf6-8b39a431bb42/Mod5_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Websites",
+    "VideoLength": "00:14:41",
+    "VideoTitle": "(Module 5) Monitoring a Website with System Center 2012",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T04:04:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb42/11dbda55-7c74-4c9a-9cf6-8b39a431bb42/Mod5_mid.mp4",
+    "Description": "â€‹In this module you will learn that The Windows Server Management Packs for Windows Server 2003, 2008, and 2012 all provide detailed monitoring out of the box. The SCOM 2012 agent automatically detect"
+  },
+  {
+    "VideoId": "aacb4c54-bccb-43ff-9334-a3870034a3b6",
+    "DataApi": "/Entries(guid'aacb4c54-bccb-43ff-9334-a3870034a3b6')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Websites/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b24d/e575b3b3-a5a6-4ff5-aaf1-300d3ba9b24d/Mod6_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Websites",
+    "VideoLength": "00:14:11",
+    "VideoTitle": "(Module 6) Managing a Website in the Hybrid Cloud",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T04:05:44Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b24d/e575b3b3-a5a6-4ff5-aaf1-300d3ba9b24d/Mod6_mid.mp4",
+    "Description": "In this module you will learn how to manage a website in the Hybrid Cloud. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for"
+  }
+]

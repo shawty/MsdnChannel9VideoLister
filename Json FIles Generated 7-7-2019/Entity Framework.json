@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "cef84a35-69e1-4e53-bc3f-a2eb017bb940",
+    "DataApi": "/Entries(guid'cef84a35-69e1-4e53-bc3f-a2eb017bb940')/",
+    "VideoPageLink": "/Blogs/EF/Migrations-Existing-Databases",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e44/3e0e222d-7e8b-470f-8dba-90ca78837e44/MigrationsExistingDatabase_960.jpg",
+    "ShowName": "Entity Framework",
+    "VideoLength": "00:21:10",
+    "VideoTitle": "Migrations - Existing Databases",
+    "Author": "Rowan Miller",
+    "UtcDateTimePublished": "2014-03-12T05:41:34.1096672Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e44/3e0e222d-7e8b-470f-8dba-90ca78837e44/MigrationsExistingDatabase_mid.mp4",
+    "Description": "This is the companion screencast to our Code First Migrations with an existing database documentation. The Migrations - Under the Hood screencast is a pre-requisite to this screencast. In this Entity "
+  },
+  {
+    "VideoId": "f0875e4b-55cd-4256-b0f1-a2eb017ab998",
+    "DataApi": "/Entries(guid'f0875e4b-55cd-4256-b0f1-a2eb017ab998')/",
+    "VideoPageLink": "/Blogs/EF/Migrations-Team-Environments",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/63a6/fec19160-ce0b-4eca-bca9-bf10536d63a6/MigrationsTeamEnvironments_960.jpg",
+    "ShowName": "Entity Framework",
+    "VideoLength": "00:08:52",
+    "VideoTitle": "Migrations - Team Environments",
+    "Author": "Rowan Miller",
+    "UtcDateTimePublished": "2014-03-11T23:42:24.4687286Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/63a6/fec19160-ce0b-4eca-bca9-bf10536d63a6/MigrationsTeamEnvironments_mid.mp4",
+    "Description": "This is the companion screencast to our Code First Migrations in Team Environments documentation. The Migrations - Under the Hood screencast is a pre-requisite to this screencast. In this Entity Frame"
+  },
+  {
+    "VideoId": "e0f6e71b-d6ed-453b-814d-a2eb01726545",
+    "DataApi": "/Entries(guid'e0f6e71b-d6ed-453b-814d-a2eb01726545')/",
+    "VideoPageLink": "/Blogs/EF/Migrations-Under-the-Hood",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f7ff/c9c0135c-1ede-4552-8640-0858672af7ff/MigrationsUnderTheHood_960.jpg",
+    "ShowName": "Entity Framework",
+    "VideoLength": "00:04:43",
+    "VideoTitle": "Migrations - Under the Hood",
+    "Author": "Rowan Miller",
+    "UtcDateTimePublished": "2014-03-11T22:53:57.2722815Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f7ff/c9c0135c-1ede-4552-8640-0858672af7ff/MigrationsUnderTheHood_mid.mp4",
+    "Description": "In this Entity Framework screencast we'll take a look under the hood at how Code First Migrations works. These concepts are good to know whenever you're using migrations, but especially useful in scen"
+  }
+]

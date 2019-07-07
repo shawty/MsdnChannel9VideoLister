@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "15983555-70bc-4dd9-931d-a3920091f8c8",
+    "DataApi": "/Entries(guid'15983555-70bc-4dd9-931d-a3920091f8c8')/",
+    "VideoPageLink": "/Blogs/Roslyn/Analyzer-sample-in-Dev14-CTP3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e25/4632f61b-cf37-451d-a48d-d0c86e1c3e25/AnalyzerSampleDev14CPT3_960.jpg",
+    "ShowName": "Roslyn",
+    "VideoLength": "00:12:54",
+    "VideoTitle": "Analyzer sample in Dev14 CTP3",
+    "Author": "Lucian Wischik",
+    "UtcDateTimePublished": "2014-08-26T22:24:24.1258667Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e25/4632f61b-cf37-451d-a48d-d0c86e1c3e25/AnalyzerSampleDev14CPT3_mid.mp4",
+    "Description": "This video walks through two sample Roslyn Analyzers. One analyzer gives squiggles where you could improve your code with the new C#6 language features - nameof(), ?. and primary constructors. Another"
+  }
+]

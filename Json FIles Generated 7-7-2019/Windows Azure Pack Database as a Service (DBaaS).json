@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c2668920-ab6f-4962-8527-a485011eb171",
+    "DataApi": "/Entries(guid'c2668920-ab6f-4962-8527-a485011eb171')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Database-as-a-Service-DBaaS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7bd8/7882c1f5-a2fb-4235-a9f4-1717cde07bd8/783WindowsAzurePackDBaaSM02_960.jpg",
+    "ShowName": "Windows Azure Pack: Database as a Service (DBaaS)",
+    "VideoLength": "00:12:33",
+    "VideoTitle": "Windows Azure Pack: Database as a Service (DBaaS): (02) Tenant Experience: Consuming DBaaSâ€‹",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-25T23:24:17.2013383Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7bd8/7882c1f5-a2fb-4235-a9f4-1717cde07bd8/783WindowsAzurePackDBaaSM02_mid.mp4",
+    "Description": "In this module, you'll learn more about how the tenants consume databases as a service (DBaaS) from within the Azure Pack, both through the rich portal, and programmatically through the powerful APIs."
+  },
+  {
+    "VideoId": "502a5c15-3df3-46a3-bf96-a485011ee686",
+    "DataApi": "/Entries(guid'502a5c15-3df3-46a3-bf96-a485011ee686')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Database-as-a-Service-DBaaS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/454a/540c65c1-e76f-4c63-8077-c8334084454a/783WindowsAzurePackDBaaSM03_960.jpg",
+    "ShowName": "Windows Azure Pack: Database as a Service (DBaaS)",
+    "VideoLength": "00:33:07",
+    "VideoTitle": "Windows Azure Pack: Database as a Service (DBaaS): (03) Admin Experience: Delivering DBaaS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-25T23:24:40.2752108Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/454a/540c65c1-e76f-4c63-8077-c8334084454a/783WindowsAzurePackDBaaSM03_mid.mp4",
+    "Description": "In this module, you'll learn all about the administrative experience of configuring databases as a service (DBaaS) for consumption by tenants. You'll learn about configuration to a single SQL Server i"
+  },
+  {
+    "VideoId": "26386737-be3f-4fcb-a645-a485011f129c",
+    "DataApi": "/Entries(guid'26386737-be3f-4fcb-a645-a485011f129c')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Database-as-a-Service-DBaaS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/430e/44fdd800-f8d5-4ed2-a5a6-d7429ed9430e/783WindowsAzurePackDBaaSM04_960.jpg",
+    "ShowName": "Windows Azure Pack: Database as a Service (DBaaS)",
+    "VideoLength": "00:41:26",
+    "VideoTitle": "Windows Azure Pack: Database as a Service (DBaaS): (04) Admin Experience: Advanced Configuration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-25T23:24:58.142772Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/430e/44fdd800-f8d5-4ed2-a5a6-d7429ed9430e/783WindowsAzurePackDBaaSM04_mid.mp4",
+    "Description": "In this module, you'll learn all about the administrative experience of configuring databases as a service (DBaaS) for consumption by tenants. You'll learn about configuration to a single SQL Server i"
+  }
+]

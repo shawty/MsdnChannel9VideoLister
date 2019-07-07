@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "cbb60672-b078-4c63-bde5-a3a201521b8f",
+    "DataApi": "/Entries(guid'cbb60672-b078-4c63-bde5-a3a201521b8f')/",
+    "VideoPageLink": "/Series/Data-Platform-Immersion-v3-1/02a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/71d9/9071b1fd-d36e-4f95-98be-1a8a35f371d9/DataPlatformImmersion31Mod02a_960.jpg",
+    "ShowName": "Data Platform Immersion v3.1",
+    "VideoLength": "00:27:59",
+    "VideoTitle": "Data Platform Immersion v3.1: (02a) Mission Critical: Automatic Failover and High Availability",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:01:00.8921854Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/71d9/9071b1fd-d36e-4f95-98be-1a8a35f371d9/DataPlatformImmersion31Mod02a_mid.mp4",
+    "Description": "Create robust, mission-critical environments, supporting automatic failover (on-premises and in the cloud) and high availability, with SQL Server 2014. [04:41] - Create an Availability Group[11:06] - "
+  },
+  {
+    "VideoId": "3b4e22cd-77ef-40c8-b452-a3a201525135",
+    "DataApi": "/Entries(guid'3b4e22cd-77ef-40c8-b452-a3a201525135')/",
+    "VideoPageLink": "/Series/Data-Platform-Immersion-v3-1/02b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/307a/85578a5f-da56-4520-b95b-d0733d37307a/DataPlatformImmersion31Mod02b_960.jpg",
+    "ShowName": "Data Platform Immersion v3.1",
+    "VideoLength": "00:46:57",
+    "VideoTitle": "Data Platform Immersion v3.1: (02b) Mission Critical: Performance Gains",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:05:06.6361829Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/307a/85578a5f-da56-4520-b95b-d0733d37307a/DataPlatformImmersion31Mod02b_mid.mp4",
+    "Description": "After the model is created, Visual Studio can do the rest. This module covers the scaffolding that Visual Studio creates, the basics of Entity Framework, and the controllers and views that are created"
+  },
+  {
+    "VideoId": "df1cfdca-2775-4a91-bf2d-a3a201529e6e",
+    "DataApi": "/Entries(guid'df1cfdca-2775-4a91-bf2d-a3a201529e6e')/",
+    "VideoPageLink": "/Series/Data-Platform-Immersion-v3-1/03a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0082/e3fe29af-d2ab-4d48-a472-101c3ecb0082/DataPlatformImmersion31Mod03a_960.jpg",
+    "ShowName": "Data Platform Immersion v3.1",
+    "VideoLength": "00:50:18",
+    "VideoTitle": "Data Platform Immersion v3.1: (03a) Data Tools: Schema Development",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:05:35.3880746Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0082/e3fe29af-d2ab-4d48-a472-101c3ecb0082/DataPlatformImmersion31Mod03a_mid.mp4",
+    "Description": "Modify, test, and publish solutions within or across different versions of SQL server with Visual Studio. Improve on best practices by storing all database components in source control, allowing simpl"
+  },
+  {
+    "VideoId": "36aaec96-6318-4e36-89ff-a3a20152d4c3",
+    "DataApi": "/Entries(guid'36aaec96-6318-4e36-89ff-a3a20152d4c3')/",
+    "VideoPageLink": "/Series/Data-Platform-Immersion-v3-1/03b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c8c/0fb6685a-8dfd-44d5-acc6-d3a510ef9c8c/DataPlatformImmersion31Mod03b_960.jpg",
+    "ShowName": "Data Platform Immersion v3.1",
+    "VideoLength": "00:36:38",
+    "VideoTitle": "Data Platform Immersion v3.1: (03b) Data Tools: BI Development",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:06:24.9268729Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c8c/0fb6685a-8dfd-44d5-acc6-d3a510ef9c8c/DataPlatformImmersion31Mod03b_mid.mp4",
+    "Description": "Leverage best practices, and provide a structured, controlled, and governed rollout of BI services. Use a single-pane-of-glass interface to manage and deploy BI projects. [04:44] - Use SSDT to migrate"
+  }
+]

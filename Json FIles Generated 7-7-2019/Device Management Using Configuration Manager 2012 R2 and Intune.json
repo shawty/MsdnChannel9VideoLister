@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "aa175ea2-0393-459a-bd83-a28d0003ab7f",
+    "DataApi": "/Entries(guid'aa175ea2-0393-459a-bd83-a28d0003ab7f')/",
+    "VideoPageLink": "/Series/Device-Management-Using-Configuration-Manager-2012-R2-and-Intune/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ec92/86fc3a69-b508-46c0-b5b9-922f4e78ec92/DeviceMgmtConfigMgrIntuneM02_960.jpg",
+    "ShowName": "Device Management Using Configuration Manager 2012 R2 and Intune",
+    "VideoLength": "00:45:06",
+    "VideoTitle": "Device Management Using Configuration Manager 2012 R2 and Intune: (02) The End-User Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-07T02:55:24.2871772Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ec92/86fc3a69-b508-46c0-b5b9-922f4e78ec92/DeviceMgmtConfigMgrIntuneM02_mid.mp4",
+    "Description": "This module focuses on the end-user experience after the users' devices have been enrolled. See how the user experience of consistent access to corporate resources and line of business applications ac"
+  }
+]

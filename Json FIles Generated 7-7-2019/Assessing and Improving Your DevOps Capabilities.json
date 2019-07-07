@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5ad5d3aa-ebc0-4a8d-af15-a3d70151aa47",
+    "DataApi": "/Entries(guid'5ad5d3aa-ebc0-4a8d-af15-a3d70151aa47')/",
+    "VideoPageLink": "/Series/Assessing-and-Improving-Your-DevOps-Capabilities/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a711/7e08d8a6-b399-42d3-9ada-365938bea711/AssessingImprovingDevOpsCapabilitiesM02_960.jpg",
+    "ShowName": "Assessing and Improving Your DevOps Capabilities",
+    "VideoLength": "00:59:38",
+    "VideoTitle": "Assessing and Improving Your DevOps Capabilities: (02) Why Everyone Needs DevOps Now",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T16:21:57.6196015Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a711/7e08d8a6-b399-42d3-9ada-365938bea711/AssessingImprovingDevOpsCapabilitiesM02_mid.mp4",
+    "Description": "Why do you need DevOps? Get answers, and hear Gene Kim's thoughts and experiences on how DevOps is changing the industry. Consumers and ever-growing demand are changing the pace and way companies have"
+  },
+  {
+    "VideoId": "21deca1b-95b6-4edb-a5cd-a3d70151d94d",
+    "DataApi": "/Entries(guid'21deca1b-95b6-4edb-a5cd-a3d70151d94d')/",
+    "VideoPageLink": "/Series/Assessing-and-Improving-Your-DevOps-Capabilities/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/685c/c66335d4-dac5-4ad9-a9b3-95be01e4685c/AssessingImprovingDevOpsCapabilitiesM03_960.jpg",
+    "ShowName": "Assessing and Improving Your DevOps Capabilities",
+    "VideoLength": "00:41:41",
+    "VideoTitle": "Assessing and Improving Your DevOps Capabilities: (03) Enhancing Your DevOps Capabilities",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T16:22:26.6122653Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/685c/c66335d4-dac5-4ad9-a9b3-95be01e4685c/AssessingImprovingDevOpsCapabilitiesM03_mid.mp4",
+    "Description": "Explore seven different areas to consider when planning for continuous improvement, which is a constant at the core of DevOps. Learn how you can identify your current state, and select DevOps practice"
+  },
+  {
+    "VideoId": "baf53e67-aeaf-4d8d-8937-a3d701520c57",
+    "DataApi": "/Entries(guid'baf53e67-aeaf-4d8d-8937-a3d701520c57')/",
+    "VideoPageLink": "/Series/Assessing-and-Improving-Your-DevOps-Capabilities/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/34df/58b0fcc9-4d8b-4e4f-8670-8b844ff534df/AssessingImprovingDevOpsCapabilitiesM04_960.jpg",
+    "ShowName": "Assessing and Improving Your DevOps Capabilities",
+    "VideoLength": "00:30:41",
+    "VideoTitle": "Assessing and Improving Your DevOps Capabilities: (04) Operational Efficiency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T16:22:57.6118761Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/34df/58b0fcc9-4d8b-4e4f-8670-8b844ff534df/AssessingImprovingDevOpsCapabilitiesM04_mid.mp4",
+    "Description": "Get a look at the role of IT in DevOps, examine standards and automation, find out about configuration and release management, and get details on monitoring and telemetry.â€‹ "
+  },
+  {
+    "VideoId": "1ab7a017-5754-4807-815d-a3d7015239ab",
+    "DataApi": "/Entries(guid'1ab7a017-5754-4807-815d-a3d7015239ab')/",
+    "VideoPageLink": "/Series/Assessing-and-Improving-Your-DevOps-Capabilities/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eb52/c35ad417-77d4-4f11-9950-6ea1f8c5eb52/AssessingImprovingDevOpsCapabilitiesM05_960.jpg",
+    "ShowName": "Assessing and Improving Your DevOps Capabilities",
+    "VideoLength": "00:14:07",
+    "VideoTitle": "Assessing and Improving Your DevOps Capabilities: (05) The Value of Transparency in the Release Pipeline â€“ Total Economic Impact (TEI) Study",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T16:23:19.5154238Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eb52/c35ad417-77d4-4f11-9950-6ea1f8c5eb52/AssessingImprovingDevOpsCapabilitiesM05_mid.mp4",
+    "Description": "Richard Campbell from .NET Rocks! and Michelle Bishop from Forrester Research discuss the economic benefits of leveraging capabilities in Team Foundation Server and explore new capabilities in Release"
+  },
+  {
+    "VideoId": "75701e65-ceb4-4979-a3f8-a3d701525f00",
+    "DataApi": "/Entries(guid'75701e65-ceb4-4979-a3f8-a3d701525f00')/",
+    "VideoPageLink": "/Series/Assessing-and-Improving-Your-DevOps-Capabilities/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a94/18318cdb-22d1-4477-9b07-157302b05a94/AssessingImprovingDevOpsCapabilitiesM06_960.jpg",
+    "ShowName": "Assessing and Improving Your DevOps Capabilities",
+    "VideoLength": "00:01:53",
+    "VideoTitle": "Assessing and Improving Your DevOps Capabilities: (06) Closing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T16:23:37.3126241Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a94/18318cdb-22d1-4477-9b07-157302b05a94/AssessingImprovingDevOpsCapabilitiesM06_mid.mp4",
+    "Description": "Hear a wrap-up of the topics covered, and get final tips. "
+  }
+]

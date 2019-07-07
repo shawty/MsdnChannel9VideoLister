@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c5b971c6-c09a-4321-a795-a41a012480ac",
+    "DataApi": "/Entries(guid'c5b971c6-c09a-4321-a795-a41a012480ac')/",
+    "VideoPageLink": "/Series/Shipping-Your-Office-365-App-to-the-Office-Store/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/46f9/d46c32d1-575e-406b-9bbf-d309f1de46f9/386ShippingYourO365AppM02_960.jpg",
+    "ShowName": "Shipping Your Office 365 App to the Office Store",
+    "VideoLength": "00:49:00",
+    "VideoTitle": "Shipping Your Office 365 App to the Office Store: (02) Demo Fest of Some Leading Store Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-08T21:02:23.3358036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/46f9/d46c32d1-575e-406b-9bbf-d309f1de46f9/386ShippingYourO365AppM02_mid.mp4",
+    "Description": "See demos of some of the top apps in the Office Store for both SharePoint and Office, the shapes that apps can take, and how they relate to the underlying Office workloads. Learn how apps can extend t"
+  },
+  {
+    "VideoId": "26b8304f-1bd8-4ec5-8d81-a41a01256014",
+    "DataApi": "/Entries(guid'26b8304f-1bd8-4ec5-8d81-a41a01256014')/",
+    "VideoPageLink": "/Series/Shipping-Your-Office-365-App-to-the-Office-Store/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/23e2/799a3aba-9e27-4164-8139-02b9a46e23e2/386ShippingYourO365AppM03_960.jpg",
+    "ShowName": "Shipping Your Office 365 App to the Office Store",
+    "VideoLength": "00:56:45",
+    "VideoTitle": "Shipping Your Office 365 App to the Office Store: (03) Getting Your App Submitted & Approved: Best Practices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-08T21:02:39.2925195Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/23e2/799a3aba-9e27-4164-8139-02b9a46e23e2/386ShippingYourO365AppM03_mid.mp4",
+    "Description": "Walk though the process for creating a developer account in the Seller Dashboard (required to submit store apps) and for successfully submitting apps to the store. [04:00] - Overview[05:12] - Build yo"
+  },
+  {
+    "VideoId": "1f3a9aa0-1166-4f8f-ba63-a41a01258924",
+    "DataApi": "/Entries(guid'1f3a9aa0-1166-4f8f-ba63-a41a01258924')/",
+    "VideoPageLink": "/Series/Shipping-Your-Office-365-App-to-the-Office-Store/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/106f/748b21a3-b9b2-4b81-8cf4-d13ee743106f/386ShippingYourO365AppM04_960.jpg",
+    "ShowName": "Shipping Your Office 365 App to the Office Store",
+    "VideoLength": "00:43:50",
+    "VideoTitle": "Shipping Your Office 365 App to the Office Store: (04) How Store Apps Are Different",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-08T21:02:53.2720817Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/106f/748b21a3-b9b2-4b81-8cf4-d13ee743106f/386ShippingYourO365AppM04_mid.mp4",
+    "Description": "Learn about the unique qualities that apps built for the store have, both in terms of added support functionality and, in a few cases, limitations relative to apps that are side-loaded into a SharePoi"
+  },
+  {
+    "VideoId": "220ca3f9-c7bb-4f9c-b39a-a41a0125bb57",
+    "DataApi": "/Entries(guid'220ca3f9-c7bb-4f9c-b39a-a41a0125bb57')/",
+    "VideoPageLink": "/Series/Shipping-Your-Office-365-App-to-the-Office-Store/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c023/afd11f15-0161-4900-82be-b187f934c023/386ShippingYourO365AppM05_960.jpg",
+    "ShowName": "Shipping Your Office 365 App to the Office Store",
+    "VideoLength": "00:46:40",
+    "VideoTitle": "Shipping Your Office 365 App to the Office Store: (05) Embedding Marketing in Your Code",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-08T21:03:16.8787365Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c023/afd11f15-0161-4900-82be-b187f934c023/386ShippingYourO365AppM05_mid.mp4",
+    "Description": "Learn how to code in app functionality that drives users to share contact information (so you can market to them), how to prompt users to submit reviews (to increase store activity), how to show graye"
+  }
+]

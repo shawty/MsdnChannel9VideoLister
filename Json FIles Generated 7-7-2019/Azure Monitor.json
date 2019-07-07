@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "6b8da816-ebec-4bf4-8222-a6ad01152fd9",
+    "DataApi": "/Entries(guid'6b8da816-ebec-4bf4-8222-a6ad01152fd9')/",
+    "VideoPageLink": "/Blogs/Azure-Monitoring/Get-Started-with-Azure-Monitor",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/188a/8baed5ae-1255-4504-aae1-14525350188a/azuremonitorgetstarted_960.jpg",
+    "ShowName": "Azure Monitor",
+    "VideoLength": "00:05:12",
+    "VideoTitle": "Get Started with Azure Monitor",
+    "Author": "John Kemnetz",
+    "UtcDateTimePublished": "2016-10-28T17:11:40.1578655Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/188a/8baed5ae-1255-4504-aae1-14525350188a/azuremonitorgetstarted_mid.mp4",
+    "Description": "In this quick, 5-minute video we introduce Azure's new platform service for monitoring your resources, Azure Monitor. Learn the core concepts of Azure Monitor--Activity Log, Diagnostic Logs, Metrics, "
+  },
+  {
+    "VideoId": "962d73bf-1d43-4888-b465-a6440150c2be",
+    "DataApi": "/Entries(guid'962d73bf-1d43-4888-b465-a6440150c2be')/",
+    "VideoPageLink": "/Blogs/Azure-Monitoring/Analyze-Audit-Logs-in-PowerBI",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a11d/453202a4-6136-4b0c-bbe9-d60056d8a11d/AnalyzeAuditLogsinPowerBI_960.jpg",
+    "ShowName": "Azure Monitor",
+    "VideoLength": "00:11:57",
+    "VideoTitle": "Analyze Audit Logs in PowerBI",
+    "Author": "John Kemnetz",
+    "UtcDateTimePublished": "2016-07-18T17:47:53.6912941Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a11d/453202a4-6136-4b0c-bbe9-d60056d8a11d/AnalyzeAuditLogsinPowerBI_mid.mp4",
+    "Description": "In this video, Azure Monitoring Program Manager Ashwin Kamath shows how you can easily stream your Azure Audit Logs to PowerBI for charting and analysis. Azure Audit Logs are operational logs that des"
+  },
+  {
+    "VideoId": "2fac41b9-47f5-4bd5-a5a1-a6440152dca2",
+    "DataApi": "/Entries(guid'2fac41b9-47f5-4bd5-a5a1-a6440152dca2')/",
+    "VideoPageLink": "/Blogs/Azure-Monitoring/Introduction-to-Webhooks-for-Azure-Alerts",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c75/00acbac7-7827-424a-97bc-8e5384e53c75/IntroToWebhooksforAzureAlerts_960.jpg",
+    "ShowName": "Azure Monitor",
+    "VideoLength": "00:10:17",
+    "VideoTitle": "Introduction to Webhooks for Azure Alerts",
+    "Author": "John Kemnetz",
+    "UtcDateTimePublished": "2016-07-18T17:45:33.1745371Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c75/00acbac7-7827-424a-97bc-8e5384e53c75/IntroToWebhooksforAzureAlerts_mid.mp4",
+    "Description": "In this video, Azure Monitoring Program Manager Ashwin Kamath introduces the new Webhook option for Azure Alerts, which allows you to set a threshold on Azure metric data and receive alerts on that th"
+  }
+]

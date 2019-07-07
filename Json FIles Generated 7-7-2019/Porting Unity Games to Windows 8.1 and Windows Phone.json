@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "cd57a3a9-e8e6-4887-abd6-a29100072271",
+    "DataApi": "/Entries(guid'cd57a3a9-e8e6-4887-abd6-a29100072271')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-8-1-and-Windows-Phone/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1579/148d721c-1e37-4f65-a1b8-9995a4a11579/PortingUnityGamesWin81WinPhoneM02_960.jpg",
+    "ShowName": "Porting Unity Games to Windows 8.1 and Windows Phone",
+    "VideoLength": "00:22:02",
+    "VideoTitle": "Porting Unity Games to Windows 8.1 and Windows Phone: (02) Things to Consider When Porting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-11T23:47:55.9667561Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1579/148d721c-1e37-4f65-a1b8-9995a4a11579/PortingUnityGamesWin81WinPhoneM02_mid.mp4",
+    "Description": "In this module we will look at the potential issues that could arise when porting your game to Windows Phone and Windows 8.1. [02:07] - Porting your Game[13:52] - What's Missingâ€¦. For nowFull course o"
+  },
+  {
+    "VideoId": "c8537dda-adc1-4c01-8b8f-a29100077a91",
+    "DataApi": "/Entries(guid'c8537dda-adc1-4c01-8b8f-a29100077a91')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-8-1-and-Windows-Phone/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ab1/0306bad7-d514-4575-862b-9db2b0885ab1/PortingUnityGamesWin81WinPhoneM03_960.jpg",
+    "ShowName": "Porting Unity Games to Windows 8.1 and Windows Phone",
+    "VideoLength": "00:27:34",
+    "VideoTitle": "Porting Unity Games to Windows 8.1 and Windows Phone: (03) Dealing with a Dual Runtime Environment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-11T23:48:46.7953276Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ab1/0306bad7-d514-4575-862b-9db2b0885ab1/PortingUnityGamesWin81WinPhoneM03_mid.mp4",
+    "Description": "When using Unity to build games for the Windows 8.1 and Windows Phone platforms you are actually using a &quot;dual run-time&quot; environment. In this module we will look at the steps you need to tak"
+  },
+  {
+    "VideoId": "1e6f283a-cb0a-45ba-a1bd-a2910007e729",
+    "DataApi": "/Entries(guid'1e6f283a-cb0a-45ba-a1bd-a2910007e729')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-8-1-and-Windows-Phone/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0f5c/46e3844d-7422-4f09-a0b8-f3e58af80f5c/PortingUnityGamesWin81WinPhoneM04_960.jpg",
+    "ShowName": "Porting Unity Games to Windows 8.1 and Windows Phone",
+    "VideoLength": "00:43:52",
+    "VideoTitle": "Porting Unity Games to Windows 8.1 and Windows Phone: (04) Supporting Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-11T23:49:59.7630804Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0f5c/46e3844d-7422-4f09-a0b8-f3e58af80f5c/PortingUnityGamesWin81WinPhoneM04_mid.mp4",
+    "Description": "Windows 8.1 has some amazing features your game can leverage to stand out. In this module we will look at how to implement some of them including share contracts and handling screen size changes. [01:"
+  },
+  {
+    "VideoId": "9b5eb96e-447a-4ab7-a321-a29100083f4b",
+    "DataApi": "/Entries(guid'9b5eb96e-447a-4ab7-a321-a29100083f4b')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-8-1-and-Windows-Phone/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7667/7ad70865-b529-49d5-a029-ff07fbb77667/PortingUnityGamesWin81WinPhoneM05_960.jpg",
+    "ShowName": "Porting Unity Games to Windows 8.1 and Windows Phone",
+    "VideoLength": "00:36:14",
+    "VideoTitle": "Porting Unity Games to Windows 8.1 and Windows Phone: (05) Supporting Windows Phone",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-11T23:50:37.0879482Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7667/7ad70865-b529-49d5-a029-ff07fbb77667/PortingUnityGamesWin81WinPhoneM05_mid.mp4",
+    "Description": "Windows Phone offers developers interesting was of interfacing with the user. In this module we will look at some features like using the accelerometer for input and handling back button presses. [01:"
+  },
+  {
+    "VideoId": "b07157ee-f88e-47f0-8319-a2910008a074",
+    "DataApi": "/Entries(guid'b07157ee-f88e-47f0-8319-a2910008a074')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-8-1-and-Windows-Phone/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f357/25c1a697-8c2d-47d3-bc64-8fd041f4f357/PortingUnityGamesWin81WinPhoneM06_960.jpg",
+    "ShowName": "Porting Unity Games to Windows 8.1 and Windows Phone",
+    "VideoLength": "00:21:27",
+    "VideoTitle": "Porting Unity Games to Windows 8.1 and Windows Phone: (06) Using Splash Screens",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-11T23:51:03.7617053Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f357/25c1a697-8c2d-47d3-bc64-8fd041f4f357/PortingUnityGamesWin81WinPhoneM06_mid.mp4",
+    "Description": "Adding polish to your game is a very important. In this module we will look at adding custom splash images to your game. [02:13] - Extending the Default Splash Screen[07:52] - Giving Loading Feed back"
+  },
+  {
+    "VideoId": "dbec1ab1-90ca-459f-a9af-a2910008ed80",
+    "DataApi": "/Entries(guid'dbec1ab1-90ca-459f-a9af-a2910008ed80')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-8-1-and-Windows-Phone/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2fe9/8b57558a-b8e9-4af1-a04f-7cc90af82fe9/PortingUnityGamesWin81WinPhoneM07_960.jpg",
+    "ShowName": "Porting Unity Games to Windows 8.1 and Windows Phone",
+    "VideoLength": "00:23:31",
+    "VideoTitle": "Porting Unity Games to Windows 8.1 and Windows Phone: (07) Live Tiles",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-11T23:52:03.0450144Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2fe9/8b57558a-b8e9-4af1-a04f-7cc90af82fe9/PortingUnityGamesWin81WinPhoneM07_mid.mp4",
+    "Description": "Engaging your audience has never been more important, Windows Phone and Windows 8 make this easier with features like Live Tiles. In this module we will look at adding Live Tiles to your game. [03:36]"
+  }
+]

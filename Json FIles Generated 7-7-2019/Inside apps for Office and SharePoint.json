@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "807ffbfb-7477-4532-a466-a0c6000ea62a",
+    "DataApi": "/Entries(guid'807ffbfb-7477-4532-a466-a0c6000ea62a')/",
+    "VideoPageLink": "/Series/Inside-apps-for-Office-and-SharePoint/Introducing-Developing-Apps-for-Office-and-SharePoint-Part-2-Developer-Platform-Drill-down",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/903a/75cd4a9f-74c7-4e85-9ec5-f835f3a2903a/insideappsforospseriesep02_512.jpg",
+    "ShowName": "Inside apps for Office and SharePoint",
+    "VideoLength": "00:16:40",
+    "VideoTitle": "Introducing Developing Apps for Office and SharePoint, Part 2: Developer Platform Drill-down",
+    "Author": "Donovan Follette",
+    "UtcDateTimePublished": "2012-09-17T15:23:18.2755609Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/903a/75cd4a9f-74c7-4e85-9ec5-f835f3a2903a/insideappsforospseriesep02_mid.mp4",
+    "Description": "In this video, two Sr. Lead Program Managersâ€”Mike Ammerlaan and Rolando Jimenez, for SharePoint and Office respectivelyâ€”provide a technical drill-down into the use of standard Web technologies, securi"
+  },
+  {
+    "VideoId": "7e643162-918b-408b-b415-a0c600182f15",
+    "DataApi": "/Entries(guid'7e643162-918b-408b-b415-a0c600182f15')/",
+    "VideoPageLink": "/Series/Inside-apps-for-Office-and-SharePoint/Introducing-developing-apps-for-Office-and-SharePoint-Tools-Access-Visual-Studio-2012-and-Napa",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e91e/542edbea-4d92-480c-baa2-f826a3f4e91e/insideappsforospseriesep03_512.jpg",
+    "ShowName": "Inside apps for Office and SharePoint",
+    "VideoLength": "00:12:37",
+    "VideoTitle": "Introducing Developing Apps for Office and SharePoint, Part 3: Tools â€“ Access, Visual Studio 2012, and â€œNapaâ€",
+    "Author": "Donovan Follette",
+    "UtcDateTimePublished": "2012-09-17T15:26:45.2158392Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e91e/542edbea-4d92-480c-baa2-f826a3f4e91e/insideappsforospseriesep03_mid.mp4",
+    "Description": "In Part 3 of this introductory set of videos, Jim Nakashima, Eray Chou and Steve Greenbergâ€”all Sr. Program Manager Leadsâ€”discuss the tools you can use to develop apps for Office and SharePoint. Steve,"
+  },
+  {
+    "VideoId": "89beb288-b847-48b9-92fb-a182012d806f",
+    "DataApi": "/Entries(guid'89beb288-b847-48b9-92fb-a182012d806f')/",
+    "VideoPageLink": "/Series/Inside-apps-for-Office-and-SharePoint/Introduction-to-Office-Developer-Tools-for-Visual-Studio-2012",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/11a0/123d6de5-74e3-48da-9332-637919f911a0/SeanLabereeOfficeToolsVS2012_512.jpg",
+    "ShowName": "Inside apps for Office and SharePoint",
+    "VideoLength": "00:31:01",
+    "VideoTitle": "Introduction to Office Developer Tools for Visual Studio 2012",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2013-03-18T17:43:58.926039Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/11a0/123d6de5-74e3-48da-9332-637919f911a0/SeanLabereeOfficeToolsVS2012_mid.mp4",
+    "Description": "With Office and SharePoint 2013, you can now build a new class of apps that extend and personalize the way we create and consume information. Develop apps as web applications. You can use HTML and Jav"
+  },
+  {
+    "VideoId": "eb157df1-12d1-4ed7-aa40-a292000ca705",
+    "DataApi": "/Entries(guid'eb157df1-12d1-4ed7-aa40-a292000ca705')/",
+    "VideoPageLink": "/Series/Inside-apps-for-Office-and-SharePoint/Apps-for-Office-Semantic-Platform-app-by-MOMA-SpA",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6038/56977972-8603-4739-a970-a4a851ca6038/SemanticPlatformOfficeApps_960.jpg",
+    "ShowName": "Inside apps for Office and SharePoint",
+    "VideoLength": "00:21:47",
+    "VideoTitle": "Apps for Office - Semantic Platform app by MOMA SpA",
+    "Author": "Issam Rashid",
+    "UtcDateTimePublished": "2014-01-07T02:07:27.6273228Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6038/56977972-8603-4739-a970-a4a851ca6038/SemanticPlatformOfficeApps_mid.mp4",
+    "Description": "In Part 4 of this set of videos, Donovan Follette hosts Giuseppe Fenza and Maurizio Cibelli to discuss the powerful capabilities provided by the semantic platform, demonstrated through 2 Microsoft Off"
+  }
+]

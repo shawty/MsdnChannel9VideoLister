@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "9fd6b7ee-d13b-4d9a-9181-a2fb01123c48",
+    "DataApi": "/Entries(guid'9fd6b7ee-d13b-4d9a-9181-a2fb01123c48')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eef5/7980a2c8-c1f6-4432-accb-1133358deef5/IntroDynamicsNAV2013R2M02_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "00:23:49",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (02) User Interface",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:50:44.2022976Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eef5/7980a2c8-c1f6-4432-accb-1133358deef5/IntroDynamicsNAV2013R2M02_mid.mp4",
+    "Description": "This module explores the different components of the user interface, the navigation pane, the pages and the Role Center in Microsoft Dynamics NAV 2013 R2. [00:05] - Module Overview[01:00] - Lesson: Ba"
+  },
+  {
+    "VideoId": "9408e338-26d8-4cf5-9bf0-a2fb0112768b",
+    "DataApi": "/Entries(guid'9408e338-26d8-4cf5-9bf0-a2fb0112768b')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4bf0/d62bea60-fe98-484f-9330-ff793d9e4bf0/IntroDynamicsNAV2013R2M03_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "00:34:04",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (03) User Personalization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:51:33.033398Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4bf0/d62bea60-fe98-484f-9330-ff793d9e4bf0/IntroDynamicsNAV2013R2M03_mid.mp4",
+    "Description": "This module covers how you can personalize the Role Center to maximize your efforts when navigating in the application. You will also learn the differences between personalization and configuration. ["
+  },
+  {
+    "VideoId": "5560660d-2cdf-4601-8bd8-a2fb0112b629",
+    "DataApi": "/Entries(guid'5560660d-2cdf-4601-8bd8-a2fb0112b629')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4a2d/76a78c31-c532-4eea-b71a-0d6138b94a2d/IntroDynamicsNAV2013R2M04_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "00:52:53",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (04) Basic Functionalities",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:52:09.8172124Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4a2d/76a78c31-c532-4eea-b71a-0d6138b94a2d/IntroDynamicsNAV2013R2M04_mid.mp4",
+    "Description": "This module discusses the basic functionalities in Microsoft Dynamics NAV 2013 R2 such as deleting, adding, and changing content. You will also learn about the integration to other Microsoft Office pr"
+  },
+  {
+    "VideoId": "8c0581af-efcd-4147-997f-a2fb0112f62c",
+    "DataApi": "/Entries(guid'8c0581af-efcd-4147-997f-a2fb0112f62c')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/90a1/9bd51c39-7da5-4489-8a1b-f4d4307c90a1/IntroDynamicsNAV2013R2M05_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "00:27:13",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (05) Master Data for the Sales and Purchase Process",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:53:01.9919224Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/90a1/9bd51c39-7da5-4489-8a1b-f4d4307c90a1/IntroDynamicsNAV2013R2M05_mid.mp4",
+    "Description": "This module discusses in detail how to create, setup and work with master data in Microsoft Dynamics NAV 2013 R2. [00:06] - Module Overview[01:45] - Lesson: G/L Account Cards[07:41] - Lesson: Chart of"
+  },
+  {
+    "VideoId": "8e4eac4e-0811-48e8-bb12-a2fb011335b0",
+    "DataApi": "/Entries(guid'8e4eac4e-0811-48e8-bb12-a2fb011335b0')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fbf1/61dd2074-d80c-4f0a-8c28-060df47efbf1/IntroDynamicsNAV2013R2M06_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "00:36:51",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (06) Process Sales and Purchases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:53:42.7925859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fbf1/61dd2074-d80c-4f0a-8c28-060df47efbf1/IntroDynamicsNAV2013R2M06_mid.mp4",
+    "Description": "This module explores how Microsoft Dynamics NAV 2013 R2 supports the typical sales and purchase processes. [00:06] - Module Overview[02:26] - Lesson: Process Flows[07:35] - Lesson: From Purchase Order"
+  },
+  {
+    "VideoId": "a8326ddf-d212-4ab6-b845-a2fb011369ee",
+    "DataApi": "/Entries(guid'a8326ddf-d212-4ab6-b845-a2fb011369ee')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74d6/dbf186fc-e60e-4b1c-b85f-5567b91c74d6/IntroDynamicsNAV2013R2M07_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "00:23:25",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (07) Technology Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:54:34.1512957Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74d6/dbf186fc-e60e-4b1c-b85f-5567b91c74d6/IntroDynamicsNAV2013R2M07_mid.mp4",
+    "Description": "This module provides some insights on the most important technology concepts in Microsoft Dynamics NAV such as Office 365, Windows Azure, Web Services and the different Client types. [00:06] - Module "
+  },
+  {
+    "VideoId": "3652bdca-d92b-4d71-aa8f-a2fb0113a964",
+    "DataApi": "/Entries(guid'3652bdca-d92b-4d71-aa8f-a2fb0113a964')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-NAV-2013-R2/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e0a/8971b626-91bd-4a69-8c8d-0458fc804e0a/IntroDynamicsNAV2013R2M08_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics NAV 2013 R2",
+    "VideoLength": "01:00:47",
+    "VideoTitle": "Introduction to Microsoft Dynamics NAV 2013 R2: (08) Browse Application Areas and Course Review",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T20:57:06.0497393Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e0a/8971b626-91bd-4a69-8c8d-0458fc804e0a/IntroDynamicsNAV2013R2M08_mid.mp4",
+    "Description": "This module covers a short overview of all the different application areas in Microsoft Dynamics NAV 2013 R2. In addition, this module ends with the course review. [00:05] - Module Overview[00:49] - L"
+  }
+]

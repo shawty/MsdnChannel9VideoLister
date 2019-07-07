@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b880435c-e924-4f0f-bbbd-a63b01386e60",
+    "DataApi": "/Entries(guid'b880435c-e924-4f0f-bbbd-a63b01386e60')/",
+    "VideoPageLink": "/Series/Manifoldjs/Manifoldjs-Bring-Your-Own-Platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2f52/44b36f3c-0822-40b1-9926-6771225a2f52/mjsNapol01_960.jpg",
+    "ShowName": "Manifoldjs",
+    "VideoLength": "00:04:55",
+    "VideoTitle": "Manifoldjs Bring Your Own Platform",
+    "Author": "Jeff Burtoft",
+    "UtcDateTimePublished": "2016-07-07T15:24:03.164859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2f52/44b36f3c-0822-40b1-9926-6771225a2f52/mjsNapol01_mid.mp4",
+    "Description": "See what's in the latest release and try out the tool yourself:https://medium.com/thishereweb/manifoldjs-version-0-6-has-arrived-8f92e7a9878b#.v6515h4xa "
+  }
+]

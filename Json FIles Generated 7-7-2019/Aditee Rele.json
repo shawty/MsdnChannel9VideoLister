@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ab874050-1615-4d93-b662-a60300670da1",
+    "DataApi": "/Entries(guid'ab874050-1615-4d93-b662-a60300670da1')/",
+    "VideoPageLink": "/Blogs/Aditee-Rele/Deisgning-and-Implementing-Hybrid-Cloud-Solutions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/71a4/2d858ff5-f696-48a4-bdc4-9bad96bc71a4/MAC2015Hybrid_960.jpg",
+    "ShowName": "Aditee Rele",
+    "VideoLength": "00:58:34",
+    "VideoTitle": "Deisgning and Implementing Hybrid Cloud Solutions",
+    "Author": "Aditee Rele",
+    "UtcDateTimePublished": "2016-05-11T06:56:06.0539999Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/71a4/2d858ff5-f696-48a4-bdc4-9bad96bc71a4/MAC2015Hybrid_mid.mp4",
+    "Description": "This is from my talk at Microsoft Azure Conference 2015! Azure is an enterprise-proven hybrid cloud solution platform, and with Azure it is easier to build applications that span both on-premises and "
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "3129c097-0c22-46df-bdf5-a4020151af52",
+    "DataApi": "/Entries(guid'3129c097-0c22-46df-bdf5-a4020151af52')/",
+    "VideoPageLink": "/Series/Reimagine-Finance-Finance-BI-in-a-Sales-Organization/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ce4/5973732b-7a3e-48a7-bf41-e4440b051ce4/627FinanceBIinASalesOrganizationM02_960.jpg",
+    "ShowName": "Reimagine Finance: Finance BI in a Sales Organization",
+    "VideoLength": "00:30:58",
+    "VideoTitle": "Reimagine Finance: Finance BI in a Sales Organization: (02) See the Transformational Technology in Action",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T18:12:01.4626499Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ce4/5973732b-7a3e-48a7-bf41-e4440b051ce4/627FinanceBIinASalesOrganizationM02_mid.mp4",
+    "Description": "Explore the tools that have enabled this transformation. "
+  },
+  {
+    "VideoId": "fedb3dd6-5605-462a-95ab-a4020151e947",
+    "DataApi": "/Entries(guid'fedb3dd6-5605-462a-95ab-a4020151e947')/",
+    "VideoPageLink": "/Series/Reimagine-Finance-Finance-BI-in-a-Sales-Organization/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/944f/1b3a8e67-5202-4ee0-bdbe-b78ec15e944f/627FinanceBIinASalesOrganizationM03_960.jpg",
+    "ShowName": "Reimagine Finance: Finance BI in a Sales Organization",
+    "VideoLength": "00:05:41",
+    "VideoTitle": "Reimagine Finance: Finance BI in a Sales Organization: (03) Understand the Solutions That Support This Transformation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T18:12:02.2356899Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/944f/1b3a8e67-5202-4ee0-bdbe-b78ec15e944f/627FinanceBIinASalesOrganizationM03_mid.mp4",
+    "Description": "Find out about the solutions, both on-premises and in the cloud, that underpin the technology which is transforming the role of finance. "
+  }
+]

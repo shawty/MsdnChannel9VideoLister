@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5b2e96f6-83db-416f-b551-a15c001cdb9d",
+    "DataApi": "/Entries(guid'5b2e96f6-83db-416f-b551-a15c001cdb9d')/",
+    "VideoPageLink": "/Series/Cloud-Patterns/Windows-Azure-Service-Bus-Application-Patterns",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b2c/a6424056-53a5-4aeb-9980-e2d6d0b46b2c/CP2_512.jpg",
+    "ShowName": "Cloud Patterns",
+    "VideoLength": "00:34:46",
+    "VideoTitle": "Windows Azure Service Bus Application Patterns",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-05T15:49:59.6714284Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b2c/a6424056-53a5-4aeb-9980-e2d6d0b46b2c/CP2_mid.mp4",
+    "Description": "Service bus is a very capable service provided by Windows Azure. In this episode we'll explore some of the application scenarios of two major service bus offerings â€“ relay and messaging. We'll examine"
+  },
+  {
+    "VideoId": "c41302eb-0084-4ba5-b760-a19f009cf72d",
+    "DataApi": "/Entries(guid'c41302eb-0084-4ba5-b760-a19f009cf72d')/",
+    "VideoPageLink": "/Series/Cloud-Patterns/Using-WIndows-Azure-to-Build-Pop-Up-Labs-in-the-Cloud-Cartoon",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/05fd/081d6442-9109-496d-bde8-6e72e4ab05fd/PopupLabs_960.jpg",
+    "ShowName": "Cloud Patterns",
+    "VideoLength": "00:14:11",
+    "VideoTitle": "Using Windows Azure to Build Pop-Up Labs in the Cloud: Cartoon",
+    "Author": "Planky",
+    "UtcDateTimePublished": "2013-04-13T10:41:47.8395434Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/05fd/081d6442-9109-496d-bde8-6e72e4ab05fd/PopupLabs_mid.mp4",
+    "Description": "Although you might build say, a Sharepoint infrastructure in Windows Azure and leave it deployed as a permanent feature, totally integrated into your enterprise infrastructure, there are a growing num"
+  },
+  {
+    "VideoId": "7b2b50c0-4970-4316-8b31-a20e000cfcbb",
+    "DataApi": "/Entries(guid'7b2b50c0-4970-4316-8b31-a20e000cfcbb')/",
+    "VideoPageLink": "/Series/Cloud-Patterns/Competing-Consumers-Pattern",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca03/1eccfcb8-d89c-4a90-b75b-b88fdc7eca03/CompetingConsumers_960.jpg",
+    "ShowName": "Cloud Patterns",
+    "VideoLength": "00:09:39",
+    "VideoTitle": "Competing Consumers Pattern",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-08-02T01:15:38.9669271Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca03/1eccfcb8-d89c-4a90-b75b-b88fdc7eca03/CompetingConsumers_mid.mp4",
+    "Description": "This is a brief introduction of Competing Consumer Pattern, which can be used to achieve common loose coupling, load balancing, dynamic scaling as well as failover scenarios. "
+  },
+  {
+    "VideoId": "40003c3c-3102-4fa4-a2f8-a22701810e26",
+    "DataApi": "/Entries(guid'40003c3c-3102-4fa4-a2f8-a22701810e26')/",
+    "VideoPageLink": "/Series/Cloud-Patterns/Priority-Queues",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8dd3/3cbfa80d-cfab-4edb-afaa-9c8398f28dd3/PriorityQueues_960.jpg",
+    "ShowName": "Cloud Patterns",
+    "VideoLength": "00:07:18",
+    "VideoTitle": "Priority Queues",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-08-27T23:48:51.1122895Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8dd3/3cbfa80d-cfab-4edb-afaa-9c8398f28dd3/PriorityQueues_mid.mp4",
+    "Description": "  In this short episode weâ€™ll review how to implement a Priority Queue using Windows Azure Service Bus.   "
+  },
+  {
+    "VideoId": "2299028c-bf8a-40ff-a9d2-a26500953965",
+    "DataApi": "/Entries(guid'2299028c-bf8a-40ff-a9d2-a26500953965')/",
+    "VideoPageLink": "/Series/Cloud-Patterns/High-Available-Messaging-with-Windows-Azure-Service-Bus",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6aa5/15ebc8e2-41a9-4cc5-9ecd-adbe207c6aa5/hasb_960.jpg",
+    "ShowName": "Cloud Patterns",
+    "VideoLength": "00:28:56",
+    "VideoTitle": "High Available Messaging with Windows Azure Service Bus",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-10-28T16:52:40.8046612Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6aa5/15ebc8e2-41a9-4cc5-9ecd-adbe207c6aa5/hasb_mid.mp4",
+    "Description": "In this episode I'm joined by Abhishek Lal, a Senior Program Manager of Windows Azure Service Bus to discuss about high available messaging with Windows Azure Service Bus. We'll peek behind the scene "
+  }
+]

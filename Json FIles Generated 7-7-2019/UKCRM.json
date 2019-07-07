@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b3d7b74f-9e08-42fa-8f6f-9deb003c81f6",
+    "DataApi": "/Entries(guid'b3d7b74f-9e08-42fa-8f6f-9deb003c81f6')/",
+    "VideoPageLink": "/Blogs/UKCRM/Dashboards-Made-Easy-With-Reporting-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/6/4/4/5/4/5/DashboardsMadeEasyWithReportingServices_512_ch9.png",
+    "ShowName": "UKCRM",
+    "VideoLength": "00:21:14",
+    "VideoTitle": "Dashboards Made Easy With Reporting Services",
+    "Author": "Simon Hutson",
+    "UtcDateTimePublished": "2010-04-30T16:07:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/6/4/4/5/4/5/DashboardsMadeEasyWithReportingServices_ch9.mp4",
+    "Description": "A couple of months ago I spent some time getting to grips with SQL Server 2008 Reporting Services, and the new\n\nchart and \ngauge controls that are available. \n\nYou can read more details on my blo"
+  }
+]

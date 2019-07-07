@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "74d0272d-1a6e-471c-9e7f-a40301472220",
+    "DataApi": "/Entries(guid'74d0272d-1a6e-471c-9e7f-a40301472220')/",
+    "VideoPageLink": "/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/49fc/14b6f1f5-fcec-46fa-8ec6-5256867449fc/Mod2_960.jpg",
+    "ShowName": "Is your lack of a DR site keeping you up at night?",
+    "VideoLength": "00:17:34",
+    "VideoTitle": "(Module 2) Prepare your Site Recovery Vault and On-Premises Resources",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T13:02:53Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/49fc/14b6f1f5-fcec-46fa-8ec6-5256867449fc/Mod2_mid.mp4",
+    "Description": "In this module we will configure the necessary components to get started in Microsoft Azure, Provision a VMM cloud, and plan the network mappings for Microsoft Azure. This video is part of the Microso"
+  },
+  {
+    "VideoId": "2c6aff82-c9cf-481f-912d-a40301477c51",
+    "DataApi": "/Entries(guid'2c6aff82-c9cf-481f-912d-a40301477c51')/",
+    "VideoPageLink": "/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a7c1/dd67ce71-5d6e-4e7f-8008-899856e8a7c1/Mod3_960.jpg",
+    "ShowName": "Is your lack of a DR site keeping you up at night?",
+    "VideoLength": "00:22:55",
+    "VideoTitle": "(Module 3) Configure Protection",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T13:03:29Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a7c1/dd67ce71-5d6e-4e7f-8008-899856e8a7c1/Mod3_mid.mp4",
+    "Description": "In this module we will configure and enable protection for our on premises VMM cloud, and configure our network mappings for Microsoft Azure. This video is part of the Microsoft Virtual Academy (MVA)."
+  },
+  {
+    "VideoId": "0aa791ab-cc17-4f10-ae62-a4030147e723",
+    "DataApi": "/Entries(guid'0aa791ab-cc17-4f10-ae62-a4030147e723')/",
+    "VideoPageLink": "/Series/Is-your-lack-of-a-DR-site-keeping-you-up-at-night/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b1b4/a8d7d99b-8b5c-4db1-942a-f46787d8b1b4/Mod4_960.jpg",
+    "ShowName": "Is your lack of a DR site keeping you up at night?",
+    "VideoLength": "00:32:32",
+    "VideoTitle": "(Module 4) Create a Recovery Orchestration Plan & Testing a Failover",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T13:04:21Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b1b4/a8d7d99b-8b5c-4db1-942a-f46787d8b1b4/Mod4_mid.mp4",
+    "Description": "In this module we will create our recovery plan, add some automation to the plan. We ill then test a compliance and real world failover, and look at how we fail back. This video is part of the Microso"
+  }
+]

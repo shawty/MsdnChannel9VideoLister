@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "2dccea07-5e0a-4a7f-b414-a2ba0042dca2",
+    "DataApi": "/Entries(guid'2dccea07-5e0a-4a7f-b414-a2ba0042dca2')/",
+    "VideoPageLink": "/Blogs/MadsKristensen/Working-with-images-in-Web-Essentials-2013",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/213c/706dc600-d8cf-49c0-a36e-096a0e0d213c/WebEssentialsImageWorkflow_960.jpg",
+    "ShowName": "Mads Kristensen",
+    "VideoLength": "00:11:21",
+    "VideoTitle": "Working with images in Web Essentials 2013",
+    "Author": "Mads Kristensen",
+    "UtcDateTimePublished": "2014-01-21T04:33:00.8286759Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/213c/706dc600-d8cf-49c0-a36e-096a0e0d213c/WebEssentialsImageWorkflow_mid.mp4",
+    "Description": "This is a demo of a typical workflow for working with image files in Visual Studio. Web Essentials adds a lot of tools that makes this workflow easier than ever. Features demoed: Paste image from clip"
+  },
+  {
+    "VideoId": "12e4dc77-6075-4142-8e4e-a29a01086c5d",
+    "DataApi": "/Entries(guid'12e4dc77-6075-4142-8e4e-a29a01086c5d')/",
+    "VideoPageLink": "/Blogs/MadsKristensen/Adding-subtitles-to-HTML-5-video",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c3c2/9c5c2335-c122-431c-aac7-400808d1c3c2/webvtt_960.jpg",
+    "ShowName": "Mads Kristensen",
+    "VideoLength": "00:07:56",
+    "VideoTitle": "Adding subtitles to HTML 5 video",
+    "Author": "Mads Kristensen",
+    "UtcDateTimePublished": "2013-12-20T16:22:15.0114348Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c3c2/9c5c2335-c122-431c-aac7-400808d1c3c2/webvtt_mid.mp4",
+    "Description": "Web Essentials 2013 has a new feature for authoring subtitles in Visual Studio. "
+  }
+]

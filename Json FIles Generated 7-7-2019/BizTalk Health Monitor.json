@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "2f575d7a-a7d0-4f15-bf79-a4d000479077",
+    "DataApi": "/Entries(guid'2f575d7a-a7d0-4f15-bf79-a4d000479077')/",
+    "VideoPageLink": "/blogs/BizTalk-Health-Monitor/How-to-install-BizTalk-Health-Monitor",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc0c/0bb7143c-2f3d-40cc-8178-5c236d8cbc0c/InstallingBHM_960.jpg",
+    "ShowName": "BizTalk Health Monitor",
+    "VideoLength": "00:02:34",
+    "VideoTitle": "How to install BizTalk Health Monitor",
+    "Author": "chiragpa",
+    "UtcDateTimePublished": "2015-07-09T12:34:11.0090188Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc0c/0bb7143c-2f3d-40cc-8178-5c236d8cbc0c/InstallingBHM_mid.mp4",
+    "Description": "This short video will show how to install BizTalk Health Monitor aka BHM and how to collect an MBV report using it. "
+  }
+]

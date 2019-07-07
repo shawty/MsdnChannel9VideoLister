@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "6bf80ed8-7ec8-486d-b794-a489011e1391",
+    "DataApi": "/Entries(guid'6bf80ed8-7ec8-486d-b794-a489011e1391')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/874c/8cfac48b-e59c-461e-bd97-09f45e7a874c/686AddMSAzureSearchWebAppM02_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:20:19",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (02) Managing and Scaling Your Search Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:51:49.3339011Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/874c/8cfac48b-e59c-461e-bd97-09f45e7a874c/686AddMSAzureSearchWebAppM02_mid.mp4",
+    "Description": "Start looking at the technical aspects of the Azure Search service, including the key components and how this platform-as-a-service (PaaS) can be used to easily scale your search service based on chan"
+  },
+  {
+    "VideoId": "3eb17cd5-e9db-44c9-a707-a489011e5221",
+    "DataApi": "/Entries(guid'3eb17cd5-e9db-44c9-a707-a489011e5221')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5cb6/9c2cb9da-4931-42c4-b49b-196f787d5cb6/686AddMSAzureSearchWebAppM03_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:25:23",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (03) Extending Your Data to Enable Full-Text Search",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:51:59.8870008Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5cb6/9c2cb9da-4931-42c4-b49b-196f787d5cb6/686AddMSAzureSearchWebAppM03_mid.mp4",
+    "Description": "Now that you know how to create a search service, dive into how to create and populate a search index (the container for your search data) with data. Take a look at the Azure Search REST API that allo"
+  },
+  {
+    "VideoId": "6c8fc244-bd34-4c45-8451-a489011e7705",
+    "DataApi": "/Entries(guid'6c8fc244-bd34-4c45-8451-a489011e7705')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/29bd/118da1d5-3a1b-4d2d-8e0a-5930929129bd/686AddMSAzureSearchWebAppM04_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:38:46",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (04) Implementing Search Features, Such As Suggestions, Faceting, Hit Highlighting, and Filtering",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:52:09.6165304Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/29bd/118da1d5-3a1b-4d2d-8e0a-5930929129bd/686AddMSAzureSearchWebAppM04_mid.mp4",
+    "Description": "Querying a search index is more than just passing words and bringing back relevant results. Find out about the features that can be used to greatly expand the functionality and usability of your searc"
+  },
+  {
+    "VideoId": "4a5fda61-d5a1-472c-9439-a489011ea225",
+    "DataApi": "/Entries(guid'4a5fda61-d5a1-472c-9439-a489011ea225')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bcd4/92f73a76-1abd-4472-bfe6-98ccfce7bcd4/686AddMSAzureSearchWebAppM05_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:12:28",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (05) Tuning and Scoring Your Search Index to Improve the User Search Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:52:24.3267698Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bcd4/92f73a76-1abd-4472-bfe6-98ccfce7bcd4/686AddMSAzureSearchWebAppM05_mid.mp4",
+    "Description": "Having control over the search results can have a big impact on improving both the user experience and business results. Explore Azure Search Scoring Profiles, and see the many ways that you can easil"
+  },
+  {
+    "VideoId": "c00a1ce2-dde8-4b09-8984-a489011ecdd6",
+    "DataApi": "/Entries(guid'c00a1ce2-dde8-4b09-8984-a489011ecdd6')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d783/ecaaf06f-69e0-42a4-9b2b-0e1700d0d783/686AddMSAzureSearchWebAppM06_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:14:20",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (06) Adding Geospatial Search to Your Search Application",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:52:39.3863188Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d783/ecaaf06f-69e0-42a4-9b2b-0e1700d0d783/686AddMSAzureSearchWebAppM06_mid.mp4",
+    "Description": "See how Azure Search can be used to provide search results in close proximity to the user, or in a defined region, and how to create a mapping-based application that leverages geospatial search, a fea"
+  },
+  {
+    "VideoId": "5ee5a348-b05f-4b90-b382-a489011efe88",
+    "DataApi": "/Entries(guid'5ee5a348-b05f-4b90-b382-a489011efe88')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/62b7/7d4ee498-aab6-47ac-ae80-ee32396362b7/686AddMSAzureSearchWebAppM07_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:30:16",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (07) Leveraging Multilanguage Search Using Microsoft Natural Language",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:52:51.3101804Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/62b7/7d4ee498-aab6-47ac-ae80-ee32396362b7/686AddMSAzureSearchWebAppM07_mid.mp4",
+    "Description": "Get the details on key challenges of supporting search across multiple languages and how Azure Search uses the Microsoft Natural Language Pack, which has been hardened over 16 years and used in techno"
+  },
+  {
+    "VideoId": "3455c636-00f4-4cd0-a80c-a489011f30d6",
+    "DataApi": "/Entries(guid'3455c636-00f4-4cd0-a80c-a489011f30d6')/",
+    "VideoPageLink": "/Series/Adding-Microsoft-Azure-Search-to-Your-Websites-and-Apps/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d703/278a13b0-0aa6-43d6-9804-55d6e7b4d703/686AddMSAzureSearchWebAppM08_960.jpg",
+    "ShowName": "Adding Microsoft Azure Search to Your Websites and Apps",
+    "VideoLength": "00:35:09",
+    "VideoTitle": "Adding Microsoft Azure Search to Your Websites and Apps: (08) Leveraging Cortana Speech Recognition into Your Search Application",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-01T22:53:02.5292806Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d703/278a13b0-0aa6-43d6-9804-55d6e7b4d703/686AddMSAzureSearchWebAppM08_mid.mp4",
+    "Description": "As a special treat to end this course, take a look at a new way to leverage and interact with Azure Search from a mobile application. See how to use Cortana, along with speech recognition, to build a "
+  }
+]

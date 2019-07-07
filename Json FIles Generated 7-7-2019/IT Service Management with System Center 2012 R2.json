@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "7bdb3a96-4254-45e5-b80e-a263012a4068",
+    "DataApi": "/Entries(guid'7bdb3a96-4254-45e5-b80e-a263012a4068')/",
+    "VideoPageLink": "/Series/IT-Svc-Mgmt-SysCtr-2012-R2/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/43aa/93a8d891-bf37-40ab-9145-601ddcfd43aa/ITSvcMgmtSysCtr2012R2M01_960.jpg",
+    "ShowName": "IT Service Management with System Center 2012 R2",
+    "VideoLength": "00:09:44",
+    "VideoTitle": "IT Service Management with System Center 2012 R2: (01) IT Service Management Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T19:40:09.1623199Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/43aa/93a8d891-bf37-40ab-9145-601ddcfd43aa/ITSvcMgmtSysCtr2012R2M01_mid.mp4",
+    "Description": "This module introduces you to Service Management. What is it? What are some requests and needs of the customers? How are we answering that call? Full course outline: Mod 01: IT Service Management Over"
+  },
+  {
+    "VideoId": "67c16d0f-195e-46d8-93ae-a263012b1e46",
+    "DataApi": "/Entries(guid'67c16d0f-195e-46d8-93ae-a263012b1e46')/",
+    "VideoPageLink": "/Series/IT-Svc-Mgmt-SysCtr-2012-R2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f3c3/672b58fa-5b3e-4a29-a4e2-de6061b9f3c3/ITSvcMgmtSysCtr2012R2M04_960.jpg",
+    "ShowName": "IT Service Management with System Center 2012 R2",
+    "VideoLength": "00:24:25",
+    "VideoTitle": "IT Service Management with System Center 2012 R2: (04) Manage Multiple Processes",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T19:40:30.1463481Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f3c3/672b58fa-5b3e-4a29-a4e2-de6061b9f3c3/ITSvcMgmtSysCtr2012R2M04_mid.mp4",
+    "Description": "In this module, learn to use System Center 2012 R2 to implement and then manage processes in your IT environment. This includes Release Management, Change Management, support processes, and others. [0"
+  },
+  {
+    "VideoId": "d0fc552b-916d-4e83-9eed-a263012aeed9",
+    "DataApi": "/Entries(guid'd0fc552b-916d-4e83-9eed-a263012aeed9')/",
+    "VideoPageLink": "/Series/IT-Svc-Mgmt-SysCtr-2012-R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/70db/002e0d2c-749a-4cae-9af3-1d7ab7f670db/ITSvcMgmtSysCtr2012R2M03_960.jpg",
+    "ShowName": "IT Service Management with System Center 2012 R2",
+    "VideoLength": "00:24:17",
+    "VideoTitle": "IT Service Management with System Center 2012 R2: (03) Standardize Service Delivery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T19:40:35.5083331Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/70db/002e0d2c-749a-4cae-9af3-1d7ab7f670db/ITSvcMgmtSysCtr2012R2M03_mid.mp4",
+    "Description": "In this module, learn how to define what your service should consist of and how to consistently deliver that service to your users using System Center 2012 R2. [00:57] - Service Delivery Overview[09:1"
+  },
+  {
+    "VideoId": "1e845220-fd46-4537-a797-a263012b5fd5",
+    "DataApi": "/Entries(guid'1e845220-fd46-4537-a797-a263012b5fd5')/",
+    "VideoPageLink": "/Series/IT-Svc-Mgmt-SysCtr-2012-R2/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1471/63e44c54-f5c5-4b47-9466-104741e51471/ITSvcMgmtSysCtr2012R2M05_960.jpg",
+    "ShowName": "IT Service Management with System Center 2012 R2",
+    "VideoLength": "00:16:39",
+    "VideoTitle": "IT Service Management with System Center 2012 R2: (05) OLA Insights and Analysis",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T19:41:03.5904347Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1471/63e44c54-f5c5-4b47-9466-104741e51471/ITSvcMgmtSysCtr2012R2M05_mid.mp4",
+    "Description": "This module describes how the System Center suite works to provide IT with good information that can be used to control costs and measure the effectiveness of internal people and processes. [01:05] - "
+  }
+]

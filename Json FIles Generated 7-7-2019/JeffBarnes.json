@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "1202d989-e95d-4c3e-b4e9-9dec000ffa67",
+    "DataApi": "/Entries(guid'1202d989-e95d-4c3e-b4e9-9dec000ffa67')/",
+    "VideoPageLink": "/Blogs/JeffBarnes/Parallel-Extensions-for-the-NET-Framework-ParallelFX",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aa35/9d832b8d-dc7f-4794-a66d-70c370caaa35/Parallel-Extensions-for-the-NET-Framework-Paralle_960.jpg",
+    "ShowName": "JeffBarnes",
+    "VideoLength": "00:13:42",
+    "VideoTitle": "Parallel Extensions for the .NET Framework - ParallelFX",
+    "Author": "JeffBarnes",
+    "UtcDateTimePublished": "2008-01-22T00:22:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aa35/9d832b8d-dc7f-4794-a66d-70c370caaa35/Parallel-Extensions-for-the-NET-Framework-Paralle_mid.mp4",
+    "Description": "Jeff Barnes presents an Architect Point of View (arcPOV) presentation on\nParallelFX - the Parallel extensions to the .NET framework currently in CTP.  In this segment, Jeff provides a brief oveview o"
+  }
+]

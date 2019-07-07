@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "97473b53-6ce1-41a3-ac5f-a5b4008cb5a1",
+    "DataApi": "/Entries(guid'97473b53-6ce1-41a3-ac5f-a5b4008cb5a1')/",
+    "VideoPageLink": "/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Data-Authentication-in-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0ba1/edc2f679-d76e-4da8-84ec-758c21050ba1/AuthenticationInArabic_960.jpg",
+    "ShowName": "Azure Mobile Apps Deep Dive in Arabic",
+    "VideoLength": "00:46:56",
+    "VideoTitle": "Data Authentication in Arabic",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T11:49:02.7483944Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0ba1/edc2f679-d76e-4da8-84ec-758c21050ba1/AuthenticationInArabic_mid.mp4",
+    "Description": "This module shows you how to add cloud-based authentication to your mobile apps. "
+  },
+  {
+    "VideoId": "b641fe47-7d9b-4626-ac7f-a5b4008c787d",
+    "DataApi": "/Entries(guid'b641fe47-7d9b-4626-ac7f-a5b4008c787d')/",
+    "VideoPageLink": "/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Data--Offline-Sync-in-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/273c/30584dc7-4680-4378-a0b6-7a93b5cf273c/DataandOfflineSyncinArabic_960.jpg",
+    "ShowName": "Azure Mobile Apps Deep Dive in Arabic",
+    "VideoLength": "00:21:12",
+    "VideoTitle": "Data & Offline Sync in Arabic",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T11:49:05.7483609Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/273c/30584dc7-4680-4378-a0b6-7a93b5cf273c/DataandOfflineSyncinArabic_mid.mp4",
+    "Description": "Learn how to structure your data on the cloud and access it from your mobile apps in addition to using offline data sync feature to make your apps functional without a network connection. "
+  },
+  {
+    "VideoId": "3a2e340a-4cf8-4a3d-849e-a5b4008c3ef3",
+    "DataApi": "/Entries(guid'3a2e340a-4cf8-4a3d-849e-a5b4008c3ef3')/",
+    "VideoPageLink": "/Series/Azure-Mobile-Apps-Deep-Dive-in-Arabic/Introduction-to-Azure-Mobile-Apps-in-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c98a/bcf6f2fc-71ae-4c39-8869-e693d899c98a/IntroToAzureMobileAppsArabic_960.jpg",
+    "ShowName": "Azure Mobile Apps Deep Dive in Arabic",
+    "VideoLength": "00:13:16",
+    "VideoTitle": "Introduction to Azure Mobile Apps in Arabic",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T11:49:09.3133753Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c98a/bcf6f2fc-71ae-4c39-8869-e693d899c98a/IntroToAzureMobileAppsArabic_mid.mp4",
+    "Description": "Kick-off your cloud-backed mobile apps journey and get started with Azure Mobile Apps as part of Azure App Service offerings. "
+  }
+]

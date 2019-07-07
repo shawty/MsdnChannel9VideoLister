@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "3308022d-9c70-494e-8c60-a28b016250b0",
+    "DataApi": "/Entries(guid'3308022d-9c70-494e-8c60-a28b016250b0')/",
+    "VideoPageLink": "/Series/sqlserver-2014-mission-crit-performace/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dcc9/31e77881-0225-4ce3-af91-c60cb514dcc9/MissionCriticalPerformanceSQL2014M02_960.jpg",
+    "ShowName": "Mission Critical Performance with SQL Server 2014",
+    "VideoLength": "00:47:48",
+    "VideoTitle": "Mission Critical Performance with SQL Server 2014: (02) In-Memory OLTP for Database Developers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T16:58:08.800068Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dcc9/31e77881-0225-4ce3-af91-c60cb514dcc9/MissionCriticalPerformanceSQL2014M02_mid.mp4",
+    "Description": "SQL Server 2014 introduces in-memory technology for optimizing OLTP workloads. In this database developer-focused session, we discuss the new memory-optimized tables and indexes. You will learn how to"
+  },
+  {
+    "VideoId": "e6a174fa-ca3e-4a9d-89fb-a28b0162d8d5",
+    "DataApi": "/Entries(guid'e6a174fa-ca3e-4a9d-89fb-a28b0162d8d5')/",
+    "VideoPageLink": "/Series/sqlserver-2014-mission-crit-performace/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8cc5/934192a1-fa1b-4944-b489-8ab2162e8cc5/MissionCriticalPerformanceSQL2014M03_960.jpg",
+    "ShowName": "Mission Critical Performance with SQL Server 2014",
+    "VideoLength": "00:49:34",
+    "VideoTitle": "Mission Critical Performance with SQL Server 2014: (03) SQL Server 2014 In-Memory OLTP Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T16:58:44.2251082Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8cc5/934192a1-fa1b-4944-b489-8ab2162e8cc5/MissionCriticalPerformanceSQL2014M03_mid.mp4",
+    "Description": "SQL Server 2014 introduces in-memory technology for optimizing OLTP workloads. In this DBA-focused session, we discuss how ACID is achieved, especially around storage. We also take a deep dive into me"
+  },
+  {
+    "VideoId": "c78f4d12-d1fb-4eb9-948e-a28b0162fc18",
+    "DataApi": "/Entries(guid'c78f4d12-d1fb-4eb9-948e-a28b0162fc18')/",
+    "VideoPageLink": "/Series/sqlserver-2014-mission-crit-performace/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/60c7/1d36f46f-f666-4844-b998-aacb2c1f60c7/MissionCriticalPerformanceSQL2014M04_960.jpg",
+    "ShowName": "Mission Critical Performance with SQL Server 2014",
+    "VideoLength": "00:45:32",
+    "VideoTitle": "Mission Critical Performance with SQL Server 2014: (04) In-Memory OLTP - Common Design Patterns",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:00:38.3137209Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/60c7/1d36f46f-f666-4844-b998-aacb2c1f60c7/MissionCriticalPerformanceSQL2014M04_mid.mp4",
+    "Description": "SQL Server 2014 introduces in-memory technology for optimizing OLTP workloads. There are some specific scenarios which stand to benefit more than others from In-Memory OLTP. We will discuss these scen"
+  },
+  {
+    "VideoId": "d08b6248-7cc2-4429-ab3c-a28b01637ad8",
+    "DataApi": "/Entries(guid'd08b6248-7cc2-4429-ab3c-a28b01637ad8')/",
+    "VideoPageLink": "/Series/sqlserver-2014-mission-crit-performace/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c6c1/a477cfb5-d41d-4dd1-a976-a622d0f6c6c1/MissionCriticalPerformanceSQL2014M05_960.jpg",
+    "ShowName": "Mission Critical Performance with SQL Server 2014",
+    "VideoLength": "00:47:53",
+    "VideoTitle": "Mission Critical Performance with SQL Server 2014: (05) AlwaysOn Enhancements in SQL Server 2014",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:01:36.3550713Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c6c1/a477cfb5-d41d-4dd1-a976-a622d0f6c6c1/MissionCriticalPerformanceSQL2014M05_mid.mp4",
+    "Description": "In this session, we'll discuss the AlwaysOn (Availability Groups and Failover Cluster Instances) enhancements in SQL Server 2014, from increasing the number of secondary replicas and keeping them avai"
+  },
+  {
+    "VideoId": "67a113ad-e45a-4bbf-a783-a28b0163cb8b",
+    "DataApi": "/Entries(guid'67a113ad-e45a-4bbf-a783-a28b0163cb8b')/",
+    "VideoPageLink": "/Series/sqlserver-2014-mission-crit-performace/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/743f/b3c9b041-aa82-4715-8bab-64ad2f80743f/MissionCriticalPerformanceSQL2014M06_960.jpg",
+    "ShowName": "Mission Critical Performance with SQL Server 2014",
+    "VideoLength": "00:43:08",
+    "VideoTitle": "Mission Critical Performance with SQL Server 2014: (06) Online Database Operations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:02:21.1278003Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/743f/b3c9b041-aa82-4715-8bab-64ad2f80743f/MissionCriticalPerformanceSQL2014M06_mid.mp4",
+    "Description": "The online database operations feature in SQL Server 2014 is an interim step toward providing true online capability for database maintenance and OLTP workloads, thereby greatly increasing enterprise "
+  },
+  {
+    "VideoId": "ca0cf5a6-acce-4426-acda-a28b0163f07e",
+    "DataApi": "/Entries(guid'ca0cf5a6-acce-4426-acda-a28b0163f07e')/",
+    "VideoPageLink": "/Series/sqlserver-2014-mission-crit-performace/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f13/9d336ccd-c780-4dc8-8802-5bef1c9f9f13/MissionCriticalPerformanceSQL2014M07_960.jpg",
+    "ShowName": "Mission Critical Performance with SQL Server 2014",
+    "VideoLength": "00:33:40",
+    "VideoTitle": "Mission Critical Performance with SQL Server 2014: (07) Buffer Pool Extension and Resource Governor for IO",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:02:56.8318249Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f13/9d336ccd-c780-4dc8-8802-5bef1c9f9f13/MissionCriticalPerformanceSQL2014M07_mid.mp4",
+    "Description": "Buffer Pool Extension can potentially increase performance of OLTP application by allowing extension of SQL Server buffer pool to non-volatile disks, such as Solid State Drives (SSDs). In addition, en"
+  }
+]

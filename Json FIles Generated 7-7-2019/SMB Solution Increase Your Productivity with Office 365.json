@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "2446856d-4c74-4fc4-b6cf-a3d20015a828",
+    "DataApi": "/Entries(guid'2446856d-4c74-4fc4-b6cf-a3d20015a828')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Productivity-with-Office-365/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e1d7/a51e5efd-1e02-4dfa-bc26-557f5840e1d7/SMBSolutionIncreaseYourProductivityM01_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Productivity with Office 365",
+    "VideoLength": "00:10:06",
+    "VideoTitle": "SMB Solution: Increase Your Productivity with Office 365: (01) How to Create Shipping Labels from Sales Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:10:33.8736123Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e1d7/a51e5efd-1e02-4dfa-bc26-557f5840e1d7/SMBSolutionIncreaseYourProductivityM01_mid.mp4",
+    "Description": "Learn how to use Excel to create shipping labels from sales data. Full course outline: Mod 01: How to Create Shipping Labels from Sales DataMod 02: How to Create Cool Business ReportsMod 03: How to Fi"
+  },
+  {
+    "VideoId": "0fb9fc25-3dc3-42ef-8bf2-a3d200163538",
+    "DataApi": "/Entries(guid'0fb9fc25-3dc3-42ef-8bf2-a3d200163538')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Productivity-with-Office-365/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f7bb/1bd0cecd-f623-474c-bbf7-f8781fb2f7bb/SMBSolutionIncreaseYourProductivityM04_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Productivity with Office 365",
+    "VideoLength": "00:10:44",
+    "VideoTitle": "SMB Solution: Increase Your Productivity with Office 365: (04) How to Identify Top Customers and Create Special Offers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:11:01.9027725Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f7bb/1bd0cecd-f623-474c-bbf7-f8781fb2f7bb/SMBSolutionIncreaseYourProductivityM04_mid.mp4",
+    "Description": "Identify top customers, create the right offer, and share with your customers on a regular basis, using the entire Office 365 suite. Full course outline: Mod 01: How to Create Shipping Labels from Sal"
+  },
+  {
+    "VideoId": "3d24ced1-25b8-4522-b684-a3d200162a36",
+    "DataApi": "/Entries(guid'3d24ced1-25b8-4522-b684-a3d200162a36')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Productivity-with-Office-365/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/723e/1c7a13f6-5fd6-4ea2-bb1b-0e36d6ad723e/SMBSolutionIncreaseYourProductivityM03_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Productivity with Office 365",
+    "VideoLength": "00:06:47",
+    "VideoTitle": "SMB Solution: Increase Your Productivity with Office 365: (03) How to File Important Information for Your Business",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:11:19.5371874Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/723e/1c7a13f6-5fd6-4ea2-bb1b-0e36d6ad723e/SMBSolutionIncreaseYourProductivityM03_mid.mp4",
+    "Description": "See how to file different types of information in OneNote, and share the notes with your team members. Full course outline: Mod 01: How to Create Shipping Labels from Sales DataMod 02: How to Create C"
+  },
+  {
+    "VideoId": "e729c449-0c1d-4389-940f-a3d200167ecb",
+    "DataApi": "/Entries(guid'e729c449-0c1d-4389-940f-a3d200167ecb')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Productivity-with-Office-365/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75b1/64b99870-3902-450d-9468-eeeec9e475b1/SMBSolutionIncreaseYourProductivityM05_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Productivity with Office 365",
+    "VideoLength": "00:05:50",
+    "VideoTitle": "SMB Solution: Increase Your Productivity with Office 365: (05) How to Identify Customer Buying Patterns",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:11:55.1804821Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75b1/64b99870-3902-450d-9468-eeeec9e475b1/SMBSolutionIncreaseYourProductivityM05_mid.mp4",
+    "Description": "Learn how to identify your customers' buying patterns (using location, gender, and price point) and other details using Excel. Full course outline: Mod 01: How to Create Shipping Labels from Sales Dat"
+  }
+]

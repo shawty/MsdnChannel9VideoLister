@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "cf9c05cb-3059-460d-9748-a66a010b6ab6",
+    "DataApi": "/Entries(guid'cf9c05cb-3059-460d-9748-a66a010b6ab6')/",
+    "VideoPageLink": "/Shows/MICAtlanta/Women-in-Technology",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1fb0/370e102e-a0f8-4998-aca7-fed7a2ae1fb0/WomenInTechMICFlatironCity_960.jpg",
+    "ShowName": "Microsoft Innovation Center Atlanta",
+    "VideoLength": "00:04:10",
+    "VideoTitle": "Women in Technology at Microsoft Innovation Center Atlanta FlatironCity",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-08-22T17:40:17.7287539Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1fb0/370e102e-a0f8-4998-aca7-fed7a2ae1fb0/WomenInTechMICFlatironCity_mid.mp4",
+    "Description": "Women in Technology at Microsoft Innovation Center Atlanta FlatironCity "
+  }
+]

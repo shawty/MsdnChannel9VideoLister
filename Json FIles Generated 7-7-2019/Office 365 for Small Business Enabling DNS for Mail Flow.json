@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "2da34544-df64-419e-8ba2-a3e1016381d7",
+    "DataApi": "/Entries(guid'2da34544-df64-419e-8ba2-a3e1016381d7')/",
+    "VideoPageLink": "/Series/Office-365-for-Small-Business-Enabling-DNS-for-Mail-Flow/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7670/4b01fd45-ee79-48ba-9623-455f75c47670/608O365ForSMBEnableDNSMailFlowM01_960.jpg",
+    "ShowName": "Office 365 for Small Business: Enabling DNS for Mail Flow",
+    "VideoLength": "00:40:12",
+    "VideoTitle": "Office 365 for Small Business: Enabling DNS for Mail Flow: (01) Understanding, Configuring, and Troubleshooting DNS and Mail Flow",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-13T16:27:15.5544003Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7670/4b01fd45-ee79-48ba-9623-455f75c47670/608O365ForSMBEnableDNSMailFlowM01_mid.mp4",
+    "Description": "Examine how DNS affects mail flow, review DNS record types, explore DNS propagation, and hear about possible issues. Take a look at the tools that are used to troubleshoot DNS issues which can affect "
+  }
+]

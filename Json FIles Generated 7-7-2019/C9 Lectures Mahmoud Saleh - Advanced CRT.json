@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "cf9bfd8a-0089-452d-ae1c-9f95013caf59",
+    "DataApi": "/Entries(guid'cf9bfd8a-0089-452d-ae1c-9f95013caf59')/",
+    "VideoPageLink": "/Series/C9-Lectures-Mahmoud-Saleh-Advanced-CRT/C9-Lectures-Mahmoud-Saleh-Advanced-CRT-2-of-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/af59/cf9bfd8a-0089-452d-ae1c-9f95013caf59/C9LecturesMahmoudSalehCRT2_512_ch9.jpg",
+    "ShowName": "C9 Lectures: Mahmoud Saleh - Advanced CRT",
+    "VideoLength": "00:51:33",
+    "VideoTitle": "C9 Lectures: Mahmoud Saleh - Advanced CRT, 2 of 2",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-12-07T12:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/af59/cf9bfd8a-0089-452d-ae1c-9f95013caf59/C9LecturesMahmoudSalehCRT2_med_ch9.mp4",
+    "Description": "You first met Mahmoud Saleh in an episode of C9::GoingNative covering CRT (C Run-time Library). Mahmoud is the keeper of the CRT(C Run-time Library) at Microsoft, working on the VC&#43;&#43; team as a"
+  }
+]

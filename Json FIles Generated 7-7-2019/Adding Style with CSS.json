@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c41ae77c-6a70-40ce-8345-a40201344046",
+    "DataApi": "/Entries(guid'c41ae77c-6a70-40ce-8345-a40201344046')/",
+    "VideoPageLink": "/Series/Adding-Style-with-CSS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d7c/76a011b1-12e3-4609-8419-500a2bec7d7c/634AddingStyleWithCSSM02_960.jpg",
+    "ShowName": "Adding Style with CSS",
+    "VideoLength": "00:54:39",
+    "VideoTitle": "Adding Style with CSS: (02) CSS Selectors",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T17:16:33.9917265Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d7c/76a011b1-12e3-4609-8419-500a2bec7d7c/634AddingStyleWithCSSM02_mid.mp4",
+    "Description": "Learn to identify the elements to which you wish to apply styles. Explore how to select specific elements based on type, class, or state. [04:04] - Document structure[14:38] - Pseudo-classes[40:26] - "
+  },
+  {
+    "VideoId": "58675301-dc12-430a-a456-a40201349301",
+    "DataApi": "/Entries(guid'58675301-dc12-430a-a456-a40201349301')/",
+    "VideoPageLink": "/Series/Adding-Style-with-CSS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/42a9/29f8ac01-2beb-447f-a801-8842995042a9/634AddingStyleWithCSSM03_960.jpg",
+    "ShowName": "Adding Style with CSS",
+    "VideoLength": "00:41:50",
+    "VideoTitle": "Adding Style with CSS: (03) Page Layout",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T17:17:55.5734328Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/42a9/29f8ac01-2beb-447f-a801-8842995042a9/634AddingStyleWithCSSM03_mid.mp4",
+    "Description": "Get the details on how to manage page layout, without the need for tables (to follow best practices). [02:06] - Positioning Elements[17:58] - The CSS Box Model[28:53] - Elements Interacting"
+  },
+  {
+    "VideoId": "13bca87d-b3e6-4194-9b20-a4020134d9f5",
+    "DataApi": "/Entries(guid'13bca87d-b3e6-4194-9b20-a4020134d9f5')/",
+    "VideoPageLink": "/Series/Adding-Style-with-CSS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ea71/24cb8084-ebaa-40fb-9766-93dad75fea71/634AddingStyleWithCSSM04_960.jpg",
+    "ShowName": "Adding Style with CSS",
+    "VideoLength": "00:41:20",
+    "VideoTitle": "Adding Style with CSS: (04) Media Queries",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T17:18:37.9020181Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ea71/24cb8084-ebaa-40fb-9766-93dad75fea71/634AddingStyleWithCSSM04_mid.mp4",
+    "Description": "Learn how Web Developers need to work with an ever -ncreasing number of browsers and devices. And explore media queries, which make it easier to size your pages appropriately. [02:44] - Querying for s"
+  },
+  {
+    "VideoId": "4b5d608f-53fa-410d-88c4-a4020134d5da",
+    "DataApi": "/Entries(guid'4b5d608f-53fa-410d-88c4-a4020134d5da')/",
+    "VideoPageLink": "/Series/Adding-Style-with-CSS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fa4e/2c479fbd-68a2-4a14-9411-5d8061c3fa4e/634AddingStyleWithCSSM05_960.jpg",
+    "ShowName": "Adding Style with CSS",
+    "VideoLength": "00:45:30",
+    "VideoTitle": "Adding Style with CSS: (05) Transformations and Transitions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T17:23:19.7660385Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fa4e/2c479fbd-68a2-4a14-9411-5d8061c3fa4e/634AddingStyleWithCSSM05_mid.mp4",
+    "Description": "Hear how one of the easiest ways to improve performance on a page is to limit the amount of JavaScript used. Find out how CSS transitions and transformations can allow you to enhance your site without"
+  },
+  {
+    "VideoId": "456e70df-a993-4ea0-9d5f-a40201351987",
+    "DataApi": "/Entries(guid'456e70df-a993-4ea0-9d5f-a40201351987')/",
+    "VideoPageLink": "/Series/Adding-Style-with-CSS/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0163/a02d91e3-0e45-4bfc-abfd-d967ff840163/634AddingStyleWithCSSM06_960.jpg",
+    "ShowName": "Adding Style with CSS",
+    "VideoLength": "00:36:34",
+    "VideoTitle": "Adding Style with CSS: (06) CSS Preprocessors",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T17:25:15.5384487Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0163/a02d91e3-0e45-4bfc-abfd-d967ff840163/634AddingStyleWithCSSM06_mid.mp4",
+    "Description": "See how the use of CSS Preprocessors, like LESS, can give you more power and can help ease creation of style sheets (which tend to get complex very quickly). [02:02] - What is a preprocessor?[06:09] -"
+  }
+]

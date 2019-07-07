@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "c5516baa-e3ad-40f9-b9de-a380014f15fe",
+    "DataApi": "/Entries(guid'c5516baa-e3ad-40f9-b9de-a380014f15fe')/",
+    "VideoPageLink": "/Blogs/Wade-Wegner-s-Channel-9-Blog/Create-a-Windows-8-App-with-Salesforce-Data-Using-Project-Siena",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6d65/39a4407b-399f-4d36-9e91-b4bd07ed6d65/SienaSalesforceApp_960.jpg",
+    "ShowName": "Wade Wegner's Channel 9 Blog",
+    "VideoLength": "00:04:32",
+    "VideoTitle": "Create a Windows 8 App with Salesforce Data Using Project Siena",
+    "Author": "Wade Wegner",
+    "UtcDateTimePublished": "2014-08-07T20:42:30.5130202Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6d65/39a4407b-399f-4d36-9e91-b4bd07ed6d65/SienaSalesforceApp_high.mp4",
+    "Description": "Project Siena lets business users build rich business applications for Windows 8. See how you can build a Windows 8 application using Project Siena that connects to data in Salesforce. You can read mo"
+  }
+]

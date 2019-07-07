@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "ea399201-098a-4772-b7ae-a3b001252631",
+    "DataApi": "/Entries(guid'ea399201-098a-4772-b7ae-a3b001252631')/",
+    "VideoPageLink": "/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/33a3/6adc875f-eaec-46e2-ad48-43c0d9ed33a3/Mod3_960.jpg",
+    "ShowName": "Securing Your DM Infrastructure with Role-Based Administration",
+    "VideoLength": "00:09:31",
+    "VideoTitle": "(Module 3) Installing a Configuration Manager Central Administration Site",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-25T17:33:48Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/33a3/6adc875f-eaec-46e2-ad48-43c0d9ed33a3/Mod3_mid.mp4",
+    "Description": "Create new roles and scopes for the device management infrastructure, and then test initial access results with both server and desktop administrator accountsâ€‹. This video is part of the Microsoft Vir"
+  },
+  {
+    "VideoId": "7fd8cbe8-7a22-4f3e-86b2-a3b001257241",
+    "DataApi": "/Entries(guid'7fd8cbe8-7a22-4f3e-86b2-a3b001257241')/",
+    "VideoPageLink": "/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c923/60990ac2-06c5-4cb5-abf4-0191e4f8c923/Mod4_960.jpg",
+    "ShowName": "Securing Your DM Infrastructure with Role-Based Administration",
+    "VideoLength": "00:12:00",
+    "VideoTitle": "(Module 4) Deploying a Configuration Manager Primary Site",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-25T17:34:28Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c923/60990ac2-06c5-4cb5-abf4-0191e4f8c923/Mod4_mid.mp4",
+    "Description": "See how to use Role-Based Administration in System Center 2012 to ensure that different groups of administrators only access the objects relevant to their roles. Use desktop and server admins, in this"
+  },
+  {
+    "VideoId": "15593c2d-bb5f-44d0-960a-a3b00125baf9",
+    "DataApi": "/Entries(guid'15593c2d-bb5f-44d0-960a-a3b00125baf9')/",
+    "VideoPageLink": "/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7be5/cd8a7ff7-742d-478a-a1d8-8dda409c7be5/Mod5_960.jpg",
+    "ShowName": "Securing Your DM Infrastructure with Role-Based Administration",
+    "VideoLength": "00:12:09",
+    "VideoTitle": "(Module 5) Deploying a Configuration Manager Secondary Site",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-25T17:35:23Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7be5/cd8a7ff7-742d-478a-a1d8-8dda409c7be5/Mod5_mid.mp4",
+    "Description": "Use reporting to prove that Role-Based Administration has been successfully implemented to groups of administrators. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free progra"
+  },
+  {
+    "VideoId": "59c0cb24-9039-4b4e-aeb3-a3b001248371",
+    "DataApi": "/Entries(guid'59c0cb24-9039-4b4e-aeb3-a3b001248371')/",
+    "VideoPageLink": "/Series/Securing-Your-DM-Infrastructure-with-Role-Based-Administration/Mod1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/92d9/adb64fb3-6f4b-4250-bd28-d16cd6e892d9/Mod1_960.jpg",
+    "ShowName": "Securing Your DM Infrastructure with Role-Based Administration",
+    "VideoLength": "00:17:00",
+    "VideoTitle": "(Module 1) Introduction to Role-Based Administration",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-17T20:50:55Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/92d9/adb64fb3-6f4b-4250-bd28-d16cd6e892d9/Mod1_mid.mp4",
+    "Description": "Get an introduction to Role-Based Administration concepts and how they are applied in a Microsoft device management environment. Role-Based Administration allows you to segment access to your device m"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "3ce8c6d1-cdb2-40bc-801a-9deb017919e3",
+    "DataApi": "/Entries(guid'3ce8c6d1-cdb2-40bc-801a-9deb017919e3')/",
+    "VideoPageLink": "/Blogs/KeithPleas/Brian-Harry-on-Agile-delivery-of-VSTS",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/7/1/5/8/4/BrainHarryAgileVSTS_large_ch9.png",
+    "ShowName": "KeithPleas",
+    "VideoLength": "00:02:31",
+    "VideoTitle": "Brian Harry on Agile delivery of VSTS",
+    "Author": "Keith Pleas",
+    "UtcDateTimePublished": "2009-08-14T21:05:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/7/1/5/8/4/BrainHarryAgileVSTS_ch9.mp4",
+    "Description": "A short video of Brian Harry describing the strategy for delivering new VSTS features off-cycle.\n"
+  },
+  {
+    "VideoId": "7ec5ca33-f260-4d81-9091-9deb01791f1a",
+    "DataApi": "/Entries(guid'7ec5ca33-f260-4d81-9091-9deb01791f1a')/",
+    "VideoPageLink": "/Blogs/KeithPleas/Billy-Hollis-on-WPF-and-Silverlight",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/7/0/0/8/4/pnpSummitBillyHollis_large_ch9.png",
+    "ShowName": "KeithPleas",
+    "VideoLength": "00:02:17",
+    "VideoTitle": "Billy Hollis on WPF and Silverlight",
+    "Author": "Keith Pleas",
+    "UtcDateTimePublished": "2009-07-22T14:34:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/7/0/0/8/4/pnpSummitBillyHollis_ch9.mp4",
+    "Description": "We shot this short video of Billy Hollis riffing on Silverlight and WPF when he stopped by the p&amp;p booth at TechEd. Billy will be at the &quot;Microsoft patterns &amp; practices Summit&quot; this "
+  }
+]

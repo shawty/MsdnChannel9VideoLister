@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "1d6540b6-b28b-449a-b4b3-a3fd01299915",
+    "DataApi": "/Entries(guid'1d6540b6-b28b-449a-b4b3-a3fd01299915')/",
+    "VideoPageLink": "/Series/SAP-Gateway-for-Microsoft/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/05c8/e43df7a2-ad00-4785-9e6f-d868e77c05c8/582SAPGatewayM02_960.jpg",
+    "ShowName": "SAP Gateway for Microsoft",
+    "VideoLength": "00:41:09",
+    "VideoTitle": "SAP Gateway for Microsoft: (02) The Office 365 Productivity Platform",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:51:26.9109899Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/05c8/e43df7a2-ad00-4785-9e6f-d868e77c05c8/582SAPGatewayM02_mid.mp4",
+    "Description": "Explore Office 365 suite as a productivity platform. Learn how Apps for Office, Office REST APIs, and host of new features from the Office 365 Platform can enhance the productivity for everything from"
+  },
+  {
+    "VideoId": "0fb575a5-2615-4e57-8cea-a3fd0129a30f",
+    "DataApi": "/Entries(guid'0fb575a5-2615-4e57-8cea-a3fd0129a30f')/",
+    "VideoPageLink": "/Series/SAP-Gateway-for-Microsoft/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1f1f/039fc0cc-bb50-409f-b882-b43b102a1f1f/582SAPGatewayM03_960.jpg",
+    "ShowName": "SAP Gateway for Microsoft",
+    "VideoLength": "00:28:43",
+    "VideoTitle": "SAP Gateway for Microsoft: (03) How to Access an OData Service on SAP",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:52:13.591583Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1f1f/039fc0cc-bb50-409f-b882-b43b102a1f1f/582SAPGatewayM03_mid.mp4",
+    "Description": "Since â€‹OData is everywhere, find out what it is and how you can create a simple OData service in an SAP system. Learn where you can get more information and how you can easily connect to and consume a"
+  },
+  {
+    "VideoId": "0163471f-8c39-4327-ad5f-a3fd012a06a9",
+    "DataApi": "/Entries(guid'0163471f-8c39-4327-ad5f-a3fd012a06a9')/",
+    "VideoPageLink": "/Series/SAP-Gateway-for-Microsoft/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7c21/c7f1e0e9-b6d7-4e85-8fcf-617057687c21/582SAPGatewayM04_960.jpg",
+    "ShowName": "SAP Gateway for Microsoft",
+    "VideoLength": "00:36:57",
+    "VideoTitle": "SAP Gateway for Microsoft: (04) SAP Gateway for Microsoft Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:52:52.901224Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7c21/c7f1e0e9-b6d7-4e85-8fcf-617057687c21/582SAPGatewayM04_mid.mp4",
+    "Description": "Understand what SAP Gateway for Microsoft is and how it can help you bring SAP data and processes in a secure and reliable manner. See SAP Gateway for Microsoft in action, and learn some of the busine"
+  },
+  {
+    "VideoId": "26cbfd6f-f9e5-4b4e-a6f9-a3fd012a5288",
+    "DataApi": "/Entries(guid'26cbfd6f-f9e5-4b4e-a6f9-a3fd012a5288')/",
+    "VideoPageLink": "/Series/SAP-Gateway-for-Microsoft/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb12/b823ac46-cdd3-4f98-a29b-bfbb7603cb12/582SAPGatewayM05_960.jpg",
+    "ShowName": "SAP Gateway for Microsoft",
+    "VideoLength": "00:29:46",
+    "VideoTitle": "SAP Gateway for Microsoft: (05) Building Rich Client Apps Consuming SAP Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:53:44.7001018Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb12/b823ac46-cdd3-4f98-a29b-bfbb7603cb12/582SAPGatewayM05_mid.mp4",
+    "Description": "Hear how SAP Gateway for Microsoft comes with an add-in to Visual Studio which allows you to build wizard-driven applications in Outlook or Word. Learn how to leverage the SAP Gateway for Microsoft Wi"
+  },
+  {
+    "VideoId": "cefb136c-0b3b-43e5-bab7-a3fd012a5d01",
+    "DataApi": "/Entries(guid'cefb136c-0b3b-43e5-bab7-a3fd012a5d01')/",
+    "VideoPageLink": "/Series/SAP-Gateway-for-Microsoft/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ae6/a0d64232-138e-4f2c-a645-f95c1d0a5ae6/582SAPGatewayM06_960.jpg",
+    "ShowName": "SAP Gateway for Microsoft",
+    "VideoLength": "00:36:51",
+    "VideoTitle": "SAP Gateway for Microsoft: (06) Building Office 365 Apps Consuming SAP Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:54:20.0799592Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ae6/a0d64232-138e-4f2c-a645-f95c1d0a5ae6/582SAPGatewayM06_mid.mp4",
+    "Description": "See how to develop apps for Office and SharePoint applications that consume SAP data in a secure manner. Understand how to set up and configure SAP Gateway for Microsoft so that you can use it in Offi"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "543af54e-52d8-49e1-859c-a3f201511f1c",
+    "DataApi": "/Entries(guid'543af54e-52d8-49e1-859c-a3f201511f1c')/",
+    "VideoPageLink": "/Series/Deploying-Office-2013-with-App-V/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dfa1/79bd8da3-d643-46b6-953e-b806574fdfa1/622DeployingOffice2013AppVM02_960.jpg",
+    "ShowName": "Deploying Office 2013 with App-V",
+    "VideoLength": "00:14:05",
+    "VideoTitle": "Deploying Office 2013 with App-V: (02) Package Creation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:49:20.2299008Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dfa1/79bd8da3-d643-46b6-953e-b806574fdfa1/622DeployingOffice2013AppVM02_mid.mp4",
+    "Description": "Find out how to generate an App-V package of Office 2013 using the Office Deployment Tool. "
+  },
+  {
+    "VideoId": "96b8e3ef-8029-4da2-ac15-a3f20151293d",
+    "DataApi": "/Entries(guid'96b8e3ef-8029-4da2-ac15-a3f20151293d')/",
+    "VideoPageLink": "/Series/Deploying-Office-2013-with-App-V/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ef3/bcdbb795-9144-4f15-a71f-53310c515ef3/622DeployingOffice2013AppVM03_960.jpg",
+    "ShowName": "Deploying Office 2013 with App-V",
+    "VideoLength": "00:17:40",
+    "VideoTitle": "Deploying Office 2013 with App-V: (03) â€‹Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:49:31.1603232Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ef3/bcdbb795-9144-4f15-a71f-53310c515ef3/622DeployingOffice2013AppVM03_mid.mp4",
+    "Description": "Take a look at the testing and deployment processes available for delivering Office 2013 to devices with App-V. "
+  },
+  {
+    "VideoId": "1270c427-b32e-4913-ac65-a3f20151645e",
+    "DataApi": "/Entries(guid'1270c427-b32e-4913-ac65-a3f20151645e')/",
+    "VideoPageLink": "/Series/Deploying-Office-2013-with-App-V/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/04de/05dbb034-1263-477c-b86f-d2dd447f04de/622DeployingOffice2013AppVM04_960.jpg",
+    "ShowName": "Deploying Office 2013 with App-V",
+    "VideoLength": "00:18:00",
+    "VideoTitle": "Deploying Office 2013 with App-V: (04) Caveats and Advanced Options",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:50:09.2681339Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/04de/05dbb034-1263-477c-b86f-d2dd447f04de/622DeployingOffice2013AppVM04_mid.mp4",
+    "Description": "Go over advanced custom configuration options, in addition to potential issues that may occur and how to avoid them. "
+  }
+]

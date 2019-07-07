@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "8fd756b2-eadf-4fe4-bc3f-a52900bd12f3",
+    "DataApi": "/Entries(guid'8fd756b2-eadf-4fe4-bc3f-a52900bd12f3')/",
+    "VideoPageLink": "/Series/Understanding-The-Retail-E-Commerce-Space-For-SMEs/How-do-I-Start-a-Business-in-Retail--E-Commerce",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fde0/d59a13d0-9433-4218-b932-f5d05980fde0/Starting_960.jpg",
+    "ShowName": "Understanding E-commerce and Advice for those wanting to start an E-Commerce Business",
+    "VideoLength": "00:34:05",
+    "VideoTitle": "How do I Start a Business in Retail / E-Commerce?",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-08T10:37:23.4154823Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fde0/d59a13d0-9433-4218-b932-f5d05980fde0/Starting_mid.mp4",
+    "Description": "Cameron provides startup information for those wanting to start a business in e-commerce. "
+  },
+  {
+    "VideoId": "229cb46e-3ef0-41f1-b697-a52900bca659",
+    "DataApi": "/Entries(guid'229cb46e-3ef0-41f1-b697-a52900bca659')/",
+    "VideoPageLink": "/Series/Understanding-The-Retail-E-Commerce-Space-For-SMEs/How-do-I-Grow-a-Business-in-Retail--E-Commerce",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ae5/2cee1e5d-b2f8-4ea4-9098-7661041e3ae5/Growing_960.jpg",
+    "ShowName": "Understanding E-commerce and Advice for those wanting to start an E-Commerce Business",
+    "VideoLength": "00:26:15",
+    "VideoTitle": "How do I Grow a Business in Retail / E-Commerce?",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-08T10:37:37.1494223Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ae5/2cee1e5d-b2f8-4ea4-9098-7661041e3ae5/Growing_mid.mp4",
+    "Description": "Cameron provides advice to those with an established e-commerce business on how to grow. "
+  },
+  {
+    "VideoId": "2ecf1860-c836-4370-a219-a52900bc2f99",
+    "DataApi": "/Entries(guid'2ecf1860-c836-4370-a219-a52900bc2f99')/",
+    "VideoPageLink": "/Series/Understanding-The-Retail-E-Commerce-Space-For-SMEs/How-do-I-Accelerate-a-Business-in-Retail--E-Commerce",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95ed/8714c2c6-4ec8-4d7e-95ec-e4835ba995ed/Accelerating_960.jpg",
+    "ShowName": "Understanding E-commerce and Advice for those wanting to start an E-Commerce Business",
+    "VideoLength": "00:21:06",
+    "VideoTitle": "How do I Accelerate a Business in Retail / E-Commerce?",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-08T10:37:52.0619451Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95ed/8714c2c6-4ec8-4d7e-95ec-e4835ba995ed/Accelerating_mid.mp4",
+    "Description": "Cameron provides advice to those with an established e-commerce business on how to accelerate. "
+  }
+]

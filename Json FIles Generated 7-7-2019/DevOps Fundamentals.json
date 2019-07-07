@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "a802e66b-d2a2-44e6-b948-a58501325487",
+    "DataApi": "/Entries(guid'a802e66b-d2a2-44e6-b948-a58501325487')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Infrastructure-as-Code",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74c9/42a36c34-bfa4-4286-a346-84a1bc2f74c9/DevOpsFundamentalsStructureasCode_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:25:40",
+    "VideoTitle": "Infrastructure as Code",
+    "Author": "Thiago Almeida",
+    "UtcDateTimePublished": "2016-01-06T21:34:30.6177753Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74c9/42a36c34-bfa4-4286-a346-84a1bc2f74c9/DevOpsFundamentalsStructureasCode_mid.mp4",
+    "Description": "This session on Infrastructure as Code demonstrates and discusses the benefits of leveraging techniques, processes, and tool sets used in software development to manage the deployment and configuratio"
+  },
+  {
+    "VideoId": "e4468227-3f3f-4932-af7f-a5840182d35a",
+    "DataApi": "/Entries(guid'e4468227-3f3f-4932-af7f-a5840182d35a')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Automated-Testing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ce93/b3682438-316d-4890-8bdf-4a797fe4ce93/DevOpsFundamentalsAutomatedTestingEpisode_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:36:44",
+    "VideoTitle": "Automated Testing",
+    "Author": "Thiago Almeida",
+    "UtcDateTimePublished": "2016-01-06T21:35:23.0223617Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ce93/b3682438-316d-4890-8bdf-4a797fe4ce93/DevOpsFundamentalsAutomatedTestingEpisode_mid.mp4",
+    "Description": "This session on Automated Testing demonstrates and discusses the benefits of running load, integration, and unit tests automatically attached to Continuous Integration or some other means. [00:45] Int"
+  },
+  {
+    "VideoId": "b3f0511f-bfa0-46cd-b36f-a59401311da6",
+    "DataApi": "/Entries(guid'b3f0511f-bfa0-46cd-b36f-a59401311da6')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Continuous-Integration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/19c6/69693b45-d2bc-4682-adca-562737d219c6/ContinuousIntegration_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:19:00",
+    "VideoTitle": "Continuous Integration",
+    "Author": "David Tesar",
+    "UtcDateTimePublished": "2016-02-02T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/19c6/69693b45-d2bc-4682-adca-562737d219c6/ContinuousIntegration_mid.mp4",
+    "Description": "This session on Continuous Integration demonstrates and discusses the benefits of merging all working copies of developers' code with a shared mainline, producing a new build upon code check-in. [02:2"
+  },
+  {
+    "VideoId": "215760b6-1f3a-4908-ac8f-a58d0146d4f4",
+    "DataApi": "/Entries(guid'215760b6-1f3a-4908-ac8f-a58d0146d4f4')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Continuous-Deployment-and-Release-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bec4/d5c459b6-0e61-47c6-9c8b-0c6a6ad8bec4/DevOpsFundamentalsContinuousDeployment_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:44:33",
+    "VideoTitle": "Continuous Deployment and Release Management",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2016-02-04T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bec4/d5c459b6-0e61-47c6-9c8b-0c6a6ad8bec4/DevOpsFundamentalsContinuousDeployment_mid.mp4",
+    "Description": "This session discusses the benefits and demonstrates Continuous Deployment and Release Management. Continuous Deployment, which usually comes after Continuous Integration (CI), is the ability to use t"
+  },
+  {
+    "VideoId": "09cc0197-0e23-4be6-ace9-a59401407476",
+    "DataApi": "/Entries(guid'09cc0197-0e23-4be6-ace9-a59401407476')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Configuration-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5aab/6b5d0819-fa03-4792-bd50-84d2c3845aab/ConfigurationManagement_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:22:36",
+    "VideoTitle": "Configuration Management",
+    "Author": "Greg Oliver",
+    "UtcDateTimePublished": "2016-02-08T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5aab/6b5d0819-fa03-4792-bd50-84d2c3845aab/ConfigurationManagement_mid.mp4",
+    "Description": "This session on Configuration Management demonstrates and discusses the benefits of handling changes systematically so that your systems maintain integrity over time. [02:10] Introduction to Configura"
+  },
+  {
+    "VideoId": "cd367f43-e8e2-4574-91b8-a5940141e9fd",
+    "DataApi": "/Entries(guid'cd367f43-e8e2-4574-91b8-a5940141e9fd')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Application-Performance-Monitoring-and-Availability-Monitoring",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09fe/7c2d6081-bd60-4a17-bf15-8c128b5009fe/ApplicationPerformanceMonitoring_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:28:43",
+    "VideoTitle": "Application Performance Monitoring and Availability Monitoring",
+    "Author": "David Tesar",
+    "UtcDateTimePublished": "2016-02-10T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09fe/7c2d6081-bd60-4a17-bf15-8c128b5009fe/ApplicationPerformanceMonitoring_mid.mp4",
+    "Description": "This session on Application Performance Monitoring demonstrates and discusses the benefits of having visibility into key metrics about your applications, as well as alerts and logging about their heal"
+  },
+  {
+    "VideoId": "41d00e62-fce0-4b23-aba0-a594014256b6",
+    "DataApi": "/Entries(guid'41d00e62-fce0-4b23-aba0-a594014256b6')/",
+    "VideoPageLink": "/Series/DevOps-Fundamentals/Advanced-DevOps-Practices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b91f/2cc4c4da-2acc-42ff-b53d-6f2f3522b91f/AdvancedDevOpsPractices_960.jpg",
+    "ShowName": "DevOps Fundamentals",
+    "VideoLength": "00:25:06",
+    "VideoTitle": "Advanced DevOps Practices",
+    "Author": "David Tesar",
+    "UtcDateTimePublished": "2016-02-12T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b91f/2cc4c4da-2acc-42ff-b53d-6f2f3522b91f/AdvancedDevOpsPractices_mid.mp4",
+    "Description": "This session explains and demonstrates some advanced DevOps practices like Testing in Production, Fault Injection, User Telemetry, and A/B Testing. [00:27] Automated Recovery - roll back[02:30] Automa"
+  }
+]

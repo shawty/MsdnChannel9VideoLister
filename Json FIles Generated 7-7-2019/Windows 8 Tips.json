@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "9487c13d-cbb8-45a2-9bb0-a0af012286bf",
+    "DataApi": "/Entries(guid'9487c13d-cbb8-45a2-9bb0-a0af012286bf')/",
+    "VideoPageLink": "/Series/Windows-8-Tips/Windows-8-Tips-2-Charms",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/702f/3f886e94-b3bb-442f-8fe4-36d1355b702f/Win8Tips2Charms_512.jpg",
+    "ShowName": "Windows 8 Tips",
+    "VideoLength": "00:01:15",
+    "VideoTitle": "Windows 8 Tips 2: Getting the Most Out of Charms",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2012-08-16T19:35:52.1064001Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/702f/3f886e94-b3bb-442f-8fe4-36d1355b702f/Win8Tips2Charms_mid.mp4",
+    "Description": "Charms are new to Windows and provide a quick way to jump to the most commonly used tasks. In this video I'll give you a quick overview of charms including shortcuts for using them even faster.  "
+  },
+  {
+    "VideoId": "139d54ec-520a-42c9-8cfe-a0b4014abc0b",
+    "DataApi": "/Entries(guid'139d54ec-520a-42c9-8cfe-a0b4014abc0b')/",
+    "VideoPageLink": "/Series/Windows-8-Tips/Windows-8-Tip-3-Using-Windows-File-Explorer",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09ef/6c7f525f-acff-4028-a6b9-af301ca209ef/Win8TipsFileExplorer_960.jpg",
+    "ShowName": "Windows 8 Tips",
+    "VideoLength": "00:04:01",
+    "VideoTitle": "Windows 8 Tip 3: Using Windows File Explorer",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2013-05-15T22:54:06.8069909Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09ef/6c7f525f-acff-4028-a6b9-af301ca209ef/Win8TipsFileExplorer_mid.mp4",
+    "Description": "You may know File Explorer by it's previous name, Windows Explorer. Along with the new name are some in features. In this tip I'll walk you through some of the newer features as well as common functio"
+  }
+]

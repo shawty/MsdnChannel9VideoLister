@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "d8efea96-a0ed-4f13-8acb-a311006c8b72",
+    "DataApi": "/Entries(guid'd8efea96-a0ed-4f13-8acb-a311006c8b72')/",
+    "VideoPageLink": "/Blogs/codefoster/codeplex",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/50b6/1db7e0d8-a87b-4dfe-a15d-431b485250b6/codeplex_960.jpg",
+    "ShowName": "codefoster",
+    "VideoLength": "00:18:08",
+    "VideoTitle": "CodePlex, Git, and Visual Studio",
+    "Author": "Jeremy Foster",
+    "UtcDateTimePublished": "2014-04-18T07:52:12.2046232Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/50b6/1db7e0d8-a87b-4dfe-a15d-431b485250b6/codeplex_mid.mp4",
+    "Description": "CodePlex is a public source control and team collaboration site that allows you to use Git as the source control. The latest editions of Visual Studio have really great UI for Git projects, and the wh"
+  },
+  {
+    "VideoId": "5e99b25b-da63-4f3f-8a21-a0dd01032f86",
+    "DataApi": "/Entries(guid'5e99b25b-da63-4f3f-8a21-a0dd01032f86')/",
+    "VideoPageLink": "/Blogs/codefoster/xhrfetch",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d2c/e5cfbdd9-1f20-4d98-8c0c-e284701e7d2c/XHRFetch_512.jpg",
+    "ShowName": "codefoster",
+    "VideoLength": "00:09:48",
+    "VideoTitle": "Retrieving remote data using xhr",
+    "Author": "Jeremy Foster",
+    "UtcDateTimePublished": "2012-10-01T17:17:11.8190084Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d2c/e5cfbdd9-1f20-4d98-8c0c-e284701e7d2c/XHRFetch_mid.mp4",
+    "Description": "You know the story. A call to a website used to be little more than a single request with its single response. But times have changed. The web is all grown up and any given visit to a website is often"
+  }
+]

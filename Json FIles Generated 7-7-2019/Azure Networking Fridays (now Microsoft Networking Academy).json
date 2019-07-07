@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "cd595f1f-05c8-4cdb-88ff-a70f01355db6",
+    "DataApi": "/Entries(guid'cd595f1f-05c8-4cdb-88ff-a70f01355db6')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-232017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6635/0ec5e8bd-f304-4c83-a2c6-c4899b836635/ANF02032017_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "01:05:57",
+    "VideoTitle": "Azure Networking Fridays 2/3/2017",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2017-02-03T19:04:21.3688815Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6635/0ec5e8bd-f304-4c83-a2c6-c4899b836635/ANF02032017_mid.mp4",
+    "Description": "Topics on this episode: [02:46] Azure Networking from 0 to 60[12:10] Technical Deep Dive: The Azure Load Balancer[32:58] Partner Spotlight: Riverbed[58:23] Q&amp;A"
+  },
+  {
+    "VideoId": "4feabcff-1dec-4b43-87cb-a7060172c47a",
+    "DataApi": "/Entries(guid'4feabcff-1dec-4b43-87cb-a7060172c47a')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-1202017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c838/064cdc84-7ac6-4c14-b9db-7dbbee0cc838/ANF01202017_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "00:48:38",
+    "VideoTitle": "Azure Networking Fridays 1/20/2017",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2017-01-25T22:46:26.2488432Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c838/064cdc84-7ac6-4c14-b9db-7dbbee0cc838/ANF01202017_mid.mp4",
+    "Description": "Topics on this episode: [01:41] Azure Networking from 0 to 60[09:16] New Team Members![12:45] Technical Deep Dive: Hybrid connectivity for Azure Stack[24:11] Partner Spotlight: Cisco[44:50] Q&amp;A"
+  },
+  {
+    "VideoId": "b5a85bce-0812-420d-b4b2-a6d00134c04e",
+    "DataApi": "/Entries(guid'b5a85bce-0812-420d-b4b2-a6d00134c04e')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-1222016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e4e/167e8946-01ac-4a9d-bd68-5f7bb2dd7e4e/azurenetworkingfridays12022016_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "00:56:05",
+    "VideoTitle": "Azure Networking Fridays 12/2/2016",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2016-12-06T15:59:57.7398538Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e4e/167e8946-01ac-4a9d-bd68-5f7bb2dd7e4e/azurenetworkingfridays12022016_mid.mp4",
+    "Description": "Topics on this episode: [01:38] Holiday Hiatus Announcement[02:19] Azure Network Connectivity from 0 to 60[13:25] The MIcrosoft Backbone: Frank Rey, Director of Network Acquisitions[27:27] Partner Spo"
+  },
+  {
+    "VideoId": "9aebf144-09b1-4d1f-9961-a6be00ebdbbb",
+    "DataApi": "/Entries(guid'9aebf144-09b1-4d1f-9961-a6be00ebdbbb')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-11112016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1018/f907ffa6-82d3-4c94-a9b4-61ac66941018/AzureNetworkingFridays11112016_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "00:58:10",
+    "VideoTitle": "Azure Networking Fridays 11/11/2016",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2016-11-14T15:08:39.6512597Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1018/f907ffa6-82d3-4c94-a9b4-61ac66941018/AzureNetworkingFridays11112016_mid.mp4",
+    "Description": "Topics on this episode: [01:45] Azure Network Connectivity from 0 to 60[15:04] Azure CAT Team: Securing Networks with NSGs[41:16] Partner Spotlight: Megaport "
+  },
+  {
+    "VideoId": "1b705f29-e250-45f8-b26b-a6ad01114651",
+    "DataApi": "/Entries(guid'1b705f29-e250-45f8-b26b-a6ad01114651')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-10282016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e46/e2f246cc-7e6c-40a8-a037-18ff1d2e4e46/AzureNetworkingFridays10282016_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "01:01:14",
+    "VideoTitle": "Azure Networking Fridays 10/28/2016",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2016-10-28T16:53:11.867111Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e46/e2f246cc-7e6c-40a8-a037-18ff1d2e4e46/AzureNetworkingFridays10282016_mid.mp4",
+    "Description": "Topics on this episode: [02:25] Azure Network Connectivity from 0 to 60[12:58] Partner Spotlight: F5 BIG IP[44:35] Azure CAT Team: Best practices and scenarios for virtual appliances[60:13] Q&amp;A"
+  },
+  {
+    "VideoId": "4accb818-af2d-4fc5-b1be-a6a500f439a1",
+    "DataApi": "/Entries(guid'4accb818-af2d-4fc5-b1be-a6a500f439a1')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-10142016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ec4c/37809cbd-b1f2-4387-add5-e9ca3e8bec4c/AzureNetworkingFridays10142016_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "00:49:18",
+    "VideoTitle": "Azure Networking Fridays 10/14/2016",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2016-10-20T16:42:02.742497Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ec4c/37809cbd-b1f2-4387-add5-e9ca3e8bec4c/AzureNetworkingFridays10142016_mid.mp4",
+    "Description": "Topics on this episode: [01:13] Azure Network Connectivity from 0 to 60[12:33] VPN &#43; Hub &amp; Spoke vNet peering Demo[27:57] Partner Spotlight: Equinix[39:00] Q&amp;A"
+  },
+  {
+    "VideoId": "ea60d0e2-2dd9-415c-9d8e-a683012161e9",
+    "DataApi": "/Entries(guid'ea60d0e2-2dd9-415c-9d8e-a683012161e9')/",
+    "VideoPageLink": "/Shows/Azure-Networking-Fridays/Azure-Networking-Fridays-09162016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4937/3a6815f9-b875-469f-9d33-b4700a694937/AZNetworkingFridays09162016_960.jpg",
+    "ShowName": "Azure Networking Fridays (now Microsoft Networking Academy)",
+    "VideoLength": "00:59:45",
+    "VideoTitle": "Azure Networking Fridays 09/16/2016",
+    "Author": "Olivier Martin",
+    "UtcDateTimePublished": "2016-09-19T13:11:38.3466028Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4937/3a6815f9-b875-469f-9d33-b4700a694937/AZNetworkingFridays09162016_mid.mp4",
+    "Description": "Topics on this episode: [01:09] Azure Network Connectivity from 0 to 60[13:56] ExpressRoute peering deep dive with Jon Ormond[31:56] Partner Spotlight: Check Point Software (vSEC)[43:35] Q&amp;A"
+  }
+]

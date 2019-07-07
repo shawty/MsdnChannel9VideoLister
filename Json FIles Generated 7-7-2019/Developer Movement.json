@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "6e281d81-cf48-4c63-bfec-a4ff00fae747",
+    "DataApi": "/Entries(guid'6e281d81-cf48-4c63-bfec-a4ff00fae747')/",
+    "VideoPageLink": "/Series/DevMov/DevMov-Superheros-Jerome",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3689/c26514e1-fdb7-4bdc-9f63-c53f997e3689/DevMovJerome_960.jpg",
+    "ShowName": "Developer Movement",
+    "VideoLength": "00:03:14",
+    "VideoTitle": "DevMov Superheroes: Jerome",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-09-01T14:34:54.7646438Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3689/c26514e1-fdb7-4bdc-9f63-c53f997e3689/DevMovJerome_mid.mp4",
+    "Description": "Jerome was blown way by computer programming at a very young age. His first attempt at programming was initiated by one of those &quot;Learn c&#43;&#43; in 30 days!&quot; guides. Even though he found "
+  },
+  {
+    "VideoId": "8b5cc6d0-d54c-409b-9379-a4ff00f64e1f",
+    "DataApi": "/Entries(guid'8b5cc6d0-d54c-409b-9379-a4ff00f64e1f')/",
+    "VideoPageLink": "/Series/DevMov/DevMov-Superheros-Jeremy",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/823c/9d6eb1fe-1ddd-4457-a8fc-ffe5a941823c/JeremieDevMov_960.jpg",
+    "ShowName": "Developer Movement",
+    "VideoLength": "00:04:54",
+    "VideoTitle": "DevMov Superheroes: JÃ©rÃ©mie",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-09-09T14:13:47.056825Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/823c/9d6eb1fe-1ddd-4457-a8fc-ffe5a941823c/JeremieDevMov_mid.mp4",
+    "Description": "My name is Jérémie, I'm a programmer for the Canadian House of Commons, a technology enthusiast and a hobby Windows Phone/Windows/Universal app developer (thanks to DevMov). I'm also proud husband and"
+  },
+  {
+    "VideoId": "a25fe61b-f1cf-4cb0-9536-a4ff00fc5edd",
+    "DataApi": "/Entries(guid'a25fe61b-f1cf-4cb0-9536-a4ff00fc5edd')/",
+    "VideoPageLink": "/Series/DevMov/DevMov-Superheroes-Jason",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae3d/8e71f937-d0d5-442d-9a34-1c48235fae3d/Jason_960.jpg",
+    "ShowName": "Developer Movement",
+    "VideoLength": "00:02:32",
+    "VideoTitle": "DevMov Superheroes: Jason",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-09-10T14:48:53.891521Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae3d/8e71f937-d0d5-442d-9a34-1c48235fae3d/Jason_mid.mp4",
+    "Description": "Proud to have Jason as one of our #DevMov Superheroes!  "
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "04152857-8b36-4845-b364-9deb00348e03",
+    "DataApi": "/Entries(guid'04152857-8b36-4845-b364-9deb00348e03')/",
+    "VideoPageLink": "/Blogs/Humphrey/TechTalk-Anwendungsentwicklung-mit-Visual-Studio-2010-Teil-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/9/8/9/4/1/5/MSDNTechTalkVS2010_512_ch9.png",
+    "ShowName": "Humphrey",
+    "VideoLength": "01:22:55",
+    "VideoTitle": "TechTalk: Anwendungsentwicklung mit Visual Studio 2010 - Teil 1",
+    "Author": "Oliver Scheffert",
+    "UtcDateTimePublished": "2009-12-22T09:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/9/8/9/4/1/5/MSDNTechTalkVS2010_ch9.mp4",
+    "Description": "Eine für viele Entwickler erfreuliche Vorgabe der MSDN-TechTalks lautet: Keine Slides! Nur Code! Mithilfe von Live Codings demonstrieren Christian Binder und Dariusz Parys die interessantesten Aspekte"
+  },
+  {
+    "VideoId": "e2617cbd-3b07-45f8-9e0e-9deb003487ff",
+    "DataApi": "/Entries(guid'e2617cbd-3b07-45f8-9e0e-9deb003487ff')/",
+    "VideoPageLink": "/Blogs/Humphrey/TechTalk-Anwendungsentwicklung-mit-Visual-Studio-2010-Teil-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/9/9/4/1/5/MSDNTechTalkVS20102_512_ch9.png",
+    "ShowName": "Humphrey",
+    "VideoLength": "01:37:48",
+    "VideoTitle": "TechTalk: Anwendungsentwicklung mit Visual Studio 2010 - Teil 2",
+    "Author": "Oliver Scheffert",
+    "UtcDateTimePublished": "2009-12-22T09:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/9/9/4/1/5/MSDNTechTalkVS20102_ch9.mp4",
+    "Description": "Eine für viele Entwickler erfreuliche Vorgabe der MSDN-TechTalks lautet: Keine Slides! Nur Code! Mithilfe von Live Codings demonstrieren Christian Binder und Dariusz Parys die interessantesten Aspekte"
+  },
+  {
+    "VideoId": "dbaf68c9-c626-4455-b269-9deb00348266",
+    "DataApi": "/Entries(guid'dbaf68c9-c626-4455-b269-9deb00348266')/",
+    "VideoPageLink": "/Blogs/Humphrey/Interview-Tech-Ed-2009-Berlin-Matthias-Huber-Nero-AG-talks-about-his-decision-using-Visual-Studio-20",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/9/9/4/1/5/TechEd2009CBinderMHuber_512_ch9.png",
+    "ShowName": "Humphrey",
+    "VideoLength": "00:05:15",
+    "VideoTitle": "Interview Tech-Ed 2009 Berlin: Matthias Huber (Nero AG) talks about his decision using Visual Studio 2010 as ALM platform",
+    "Author": "Oliver Scheffert",
+    "UtcDateTimePublished": "2009-12-22T09:01:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/9/9/4/1/5/TechEd2009CBinderMHuber_ch9.mp4",
+    "Description": "\n&quot;I have been in the role of the Program Manager for the Developer Track at Tech-Ed 2009 in Berlin this year and decided to run some interviews with some of the speakers in my track. I am talkin"
+  },
+  {
+    "VideoId": "c55e6549-a689-48ea-ae4a-9deb00349d42",
+    "DataApi": "/Entries(guid'c55e6549-a689-48ea-ae4a-9deb00349d42')/",
+    "VideoPageLink": "/Blogs/Humphrey/Interview-Tech-Ed-2009-Berlin",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/9/1/3/1/5/CBinderTechEd20092_512_ch9.png",
+    "ShowName": "Humphrey",
+    "VideoLength": "00:29:05",
+    "VideoTitle": "Interview Tech-Ed 2009 Berlin: Steve Teixeira talks about Parallel Computing  with VS 2010 and why you should take care",
+    "Author": "Oliver Scheffert",
+    "UtcDateTimePublished": "2009-12-16T09:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/9/1/3/1/5/CBinderTechEd20092_ch9.mp4",
+    "Description": "\n&quot;I have been in the role of the Program Manager for the Developer Track at Tech-Ed 2009 in Berlin this year and decided to run some interviews with some of the speakers in my track. I am talkin"
+  },
+  {
+    "VideoId": "ced82374-a894-4048-afe2-9deb003497b8",
+    "DataApi": "/Entries(guid'ced82374-a894-4048-afe2-9deb003497b8')/",
+    "VideoPageLink": "/Blogs/Humphrey/Interview-Tech-Ed-2009-Berlin-Stephanie-Cuthbertson-talks-about-some-new-stuff-in-VS-2010-to-make-Pr",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/7/9/1/3/1/5/CBinderTechEd20093_512_ch9.png",
+    "ShowName": "Humphrey",
+    "VideoLength": "00:17:58",
+    "VideoTitle": "Interview Tech-Ed 2009 Berlin: Stephanie Cuthbertson talks about some new stuff in VS 2010 to make Project Management easier and more effective ",
+    "Author": "Oliver Scheffert",
+    "UtcDateTimePublished": "2009-12-16T08:57:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/7/9/1/3/1/5/CBinderTechEd20093_ch9.mp4",
+    "Description": "\n&quot;I have been in the role of the Program Manager for the Developer Track at Tech-Ed 2009 in Berlin this year and decided to run some interviews with some of the speakers in my track. I am talkin"
+  },
+  {
+    "VideoId": "ea2a836c-40d5-4eff-985f-9deb0034a283",
+    "DataApi": "/Entries(guid'ea2a836c-40d5-4eff-985f-9deb0034a283')/",
+    "VideoPageLink": "/Blogs/Humphrey/Interview-Tech-Ed-2009-Berlin-Brian-Keller-talks-about-the-new-VS-2010-Testing-Tools",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/1/0/1/3/1/5/CBinderTechEd2009_512_ch9.png",
+    "ShowName": "Humphrey",
+    "VideoLength": "00:28:39",
+    "VideoTitle": "Interview Tech-Ed 2009 Berlin: Brian Keller talks about the new VS 2010 Testing Tools",
+    "Author": "Oliver Scheffert",
+    "UtcDateTimePublished": "2009-12-16T08:13:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/1/0/1/3/1/5/CBinderTechEd2009_ch9.mp4",
+    "Description": "\n&quot;I have been in the role of the Program Manager for the Developer Track at Tech-Ed 2009 in Berlin this year and decided to run some interviews with some of the speakers in my track. I was talki"
+  }
+]

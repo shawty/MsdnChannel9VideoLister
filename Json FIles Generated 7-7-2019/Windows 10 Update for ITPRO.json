@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "e0ace79c-943e-4541-900b-a4bc0093220f",
+    "DataApi": "/Entries(guid'e0ace79c-943e-4541-900b-a4bc0093220f')/",
+    "VideoPageLink": "/Series/Windows-10-Update-for-ITPRO/Module-4-Runtime-Provisioning-in-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/063b/43c7f5e8-58f0-47be-82f9-8f5c95d9063b/RuntimeProvisioningInWindwos10_960.jpg",
+    "ShowName": "Windows 10 Update for ITPRO",
+    "VideoLength": "00:25:06",
+    "VideoTitle": "Module 4 - Runtime Provisioning in Windows 10",
+    "Author": "APAC Online Learning",
+    "UtcDateTimePublished": "2015-06-22T05:28:54.4853954Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/063b/43c7f5e8-58f0-47be-82f9-8f5c95d9063b/RuntimeProvisioningInWindwos10_mid.mp4",
+    "Description": "In this module we'll cover a new feature in Windows 10 called runtime provisioning. This new feature will help reduce the cost of deploying tablets and phones in the enterprise. We'll explore how IT P"
+  },
+  {
+    "VideoId": "b600c509-7f9c-4122-be2e-a4bc0095ce5a",
+    "DataApi": "/Entries(guid'b600c509-7f9c-4122-be2e-a4bc0095ce5a')/",
+    "VideoPageLink": "/Series/Windows-10-Update-for-ITPRO/Module-5-A-new-era-of-threat-resistance-for-the-Windows-10-platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c894/3b9e9a90-5fa6-415e-a99b-9e7e50e0c894/NewEraOfThreatResistanceForWindows10_960.jpg",
+    "ShowName": "Windows 10 Update for ITPRO",
+    "VideoLength": "00:46:27",
+    "VideoTitle": "Module 5 - A new era of threat resistance for the Windows 10 platform",
+    "Author": "APAC Online Learning",
+    "UtcDateTimePublished": "2015-06-22T05:31:10.9076975Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c894/3b9e9a90-5fa6-415e-a99b-9e7e50e0c894/NewEraOfThreatResistanceForWindows10_mid.mp4",
+    "Description": "In this final module we'll cover the most important update to Windows 10, security. Windows 8.1 made a huge leap forward in threat resistance. But that was just the beginning. In this module we'll cov"
+  },
+  {
+    "VideoId": "aeb79be5-5447-4ed4-ae4b-a4bc00906c8d",
+    "DataApi": "/Entries(guid'aeb79be5-5447-4ed4-ae4b-a4bc00906c8d')/",
+    "VideoPageLink": "/Series/Windows-10-Update-for-ITPRO/Module-3-Whats-New-in-Management-and-the-Windows-Store",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2e82/b74a4ee0-6ae7-4d31-ae8f-c5ca09f02e82/WhatsNewInManagementAndWindowsStore_960.jpg",
+    "ShowName": "Windows 10 Update for ITPRO",
+    "VideoLength": "00:46:49",
+    "VideoTitle": "Module 3 - Whats New in Management and the Windows Store",
+    "Author": "APAC Online Learning",
+    "UtcDateTimePublished": "2015-06-30T10:17:45.5043139Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2e82/b74a4ee0-6ae7-4d31-ae8f-c5ca09f02e82/WhatsNewInManagementAndWindowsStore_mid.mp4",
+    "Description": "Windows has always had a strong management platform and that continues to get better in Windows 10. In this module we'll cover what's new with management and how the new features will help you better "
+  },
+  {
+    "VideoId": "80edd5c5-6554-4132-b2cc-a4bc008eb597",
+    "DataApi": "/Entries(guid'80edd5c5-6554-4132-b2cc-a4bc008eb597')/",
+    "VideoPageLink": "/Series/Windows-10-Update-for-ITPRO/Module-2-Whats-New-in-Windows-10-Deployment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/417c/e8072313-ccfe-4224-ab44-ee49d48a417c/WhatsNewInWindows10Deployment_960.jpg",
+    "ShowName": "Windows 10 Update for ITPRO",
+    "VideoLength": "00:39:01",
+    "VideoTitle": "Module 2- Whats New in Windows 10 Deployment",
+    "Author": "APAC Online Learning",
+    "UtcDateTimePublished": "2015-06-30T10:18:04.8581399Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/417c/e8072313-ccfe-4224-ab44-ee49d48a417c/WhatsNewInWindows10Deployment_mid.mp4",
+    "Description": "In this module we'll cover what's new in Windows 10 deployment and the new and updated ways to update devices. We'll cover in-place upgrades, new provisioning tools to convert BYOD devices into Enterp"
+  }
+]

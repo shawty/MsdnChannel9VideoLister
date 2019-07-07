@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "4e7e9c9d-b8b6-47ce-9735-a62900fbff2d",
+    "DataApi": "/Entries(guid'4e7e9c9d-b8b6-47ce-9735-a62900fbff2d')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-06172016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7ff4/bc96e28c-ab1b-45fa-8a10-725c6cba7ff4/ExpressRouteFridays06172016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "00:54:27",
+    "VideoTitle": "ExpressRoute Fridays 06/17/2016",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-06-18T15:45:47.8479527Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7ff4/bc96e28c-ab1b-45fa-8a10-725c6cba7ff4/ExpressRouteFridays06172016_mid.mp4",
+    "Description": "Topics on this episode: [03:35] ExpressRoute Fridays Summer Hiatus Update[05:06] ExpressRoute - Getting Started[15:43] New ExpressRoute Team Member - Olivier Martin[17:09] BGP Communities[21:39] Migra"
+  },
+  {
+    "VideoId": "10cb5b89-82e4-4d91-b8ff-a61a0117db02",
+    "DataApi": "/Entries(guid'10cb5b89-82e4-4d91-b8ff-a61a0117db02')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-06032016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/921c/22521bd6-af25-4da2-b9d4-b9977375921c/ExpressRouteFridays06032016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "01:05:45",
+    "VideoTitle": "ExpressRoute Fridays 06/03/2016",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-06-03T17:46:20.7530816Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/921c/22521bd6-af25-4da2-b9d4-b9977375921c/ExpressRouteFridays06032016_mid.mp4",
+    "Description": "Topics on this episode: [03:15] ExpressRoute Fridays Updates[06:05] ExpressRoute from 0 to 60[17:19] Azure Private Peer[23:34] Azure Public Peer[25:09] Design considerations - public IP addresses for "
+  },
+  {
+    "VideoId": "d5828608-ca3f-4542-8d59-a60f014bff93",
+    "DataApi": "/Entries(guid'd5828608-ca3f-4542-8d59-a60f014bff93')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-05202016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/71a6/d19e8c99-c048-4f25-841a-cc27b8f471a6/ExpressRouteFridays05202016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "01:01:48",
+    "VideoTitle": "ExpressRoute Fridays 05/20/2016",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-05-23T21:26:59.8984661Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/71a6/d19e8c99-c048-4f25-841a-cc27b8f471a6/ExpressRouteFridays05202016_mid.mp4",
+    "Description": "Topics on this episode: [05:00] ExpressRoute from soup to nuts[14:30] Azure Private Peering[21:50] Securing Virtual Networks[37:03] Partner Spotlight: Barracuda[51:40] Q&amp;A"
+  },
+  {
+    "VideoId": "b18f94ea-03dc-4148-84fb-a5fe01252750",
+    "DataApi": "/Entries(guid'b18f94ea-03dc-4148-84fb-a5fe01252750')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-05062016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4df5/3a75bdd7-7756-4e92-b544-d71ea6e04df5/ExpressRouteFridays05062016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "01:05:07",
+    "VideoTitle": "ExpressRoute Fridays 05/06/2016",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-05-06T21:29:10.7273976Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4df5/3a75bdd7-7756-4e92-b544-d71ea6e04df5/ExpressRouteFridays05062016_mid.mp4",
+    "Description": "Topics on this episode: [03:06] ExpressRoute Fridays Update[06:22] ExpressRoute Fundamentals and Updates[19:32] Office 365 SaaS on ExpressRoute - Design Considerations[46:16] Partner Spotlight: AT&amp"
+  },
+  {
+    "VideoId": "2e1b80e7-46ff-4d6a-bd03-a5f10100d727",
+    "DataApi": "/Entries(guid'2e1b80e7-46ff-4d6a-bd03-a5f10100d727')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-04222016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db90/5fd1890d-497f-4d9e-a576-b418b89edb90/ExpressRouteFridays04222016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "01:04:34",
+    "VideoTitle": "ExpressRoute Fridays 04/22/2016 ",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-04-23T16:04:10.1886327Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db90/5fd1890d-497f-4d9e-a576-b418b89edb90/ExpressRouteFridays04222016_mid.mp4",
+    "Description": "Topics on this episode: [03:40] ExpressRoute Quick start[16:36] ExpressRoute checklist and updated guidance for O365/CRMOL[20:34] Building secure Azure virtual networks (NSGs, UDRs, NVAs and more![37:"
+  },
+  {
+    "VideoId": "6cb3af9b-1751-4e7b-86c9-a5e201693e28",
+    "DataApi": "/Entries(guid'6cb3af9b-1751-4e7b-86c9-a5e201693e28')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-04082016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f420/fe628ae6-730e-44c3-a701-d0664e00f420/ExpressRouteFridays04082016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "00:56:23",
+    "VideoTitle": "ExpressRoute Fridays 04/08/2016",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-04-08T22:23:34.8590064Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f420/fe628ae6-730e-44c3-a701-d0664e00f420/ExpressRouteFridays04082016_mid.mp4",
+    "Description": "Topics on this episode: [03:45] ExpressRoute Overview[11:55] ASM&#43;ARM: One circuit for both![30:38] Deep dive into NAT, routing, ASNs and more![42:54] Partner Spotlight: Comcast"
+  },
+  {
+    "VideoId": "ee244106-27d8-4209-bd75-a5db00dd4bbe",
+    "DataApi": "/Entries(guid'ee244106-27d8-4209-bd75-a5db00dd4bbe')/",
+    "VideoPageLink": "/Shows/ExpressRoute-Fridays/ExpressRoute-Fridays-03252016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/661a/8134b8e0-2590-4b0c-8485-55c2da7d661a/ExpressRouteFridays03252016_960.jpg",
+    "ShowName": "ExpressRoute Fridays",
+    "VideoLength": "01:01:16",
+    "VideoTitle": "ExpressRoute Fridays 03/25/2016",
+    "Author": "Jaime Schmidtke",
+    "UtcDateTimePublished": "2016-04-01T13:55:14.6549798Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/661a/8134b8e0-2590-4b0c-8485-55c2da7d661a/ExpressRouteFridays03252016_mid.mp4",
+    "Description": "Topics on this episode: [04:31] ExpressRoute Overview[21:18] ExpressRoute Fact Checks[27:00] Skype for Business on ExpressRoute[45:42] SI Partner Spotlight: Nimbo[56:55] Q&amp;A"
+  }
+]

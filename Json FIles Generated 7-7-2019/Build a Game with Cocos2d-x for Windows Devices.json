@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "6c990685-9f96-4c11-a2be-a3e70134d68d",
+    "DataApi": "/Entries(guid'6c990685-9f96-4c11-a2be-a3e70134d68d')/",
+    "VideoPageLink": "/Series/Build-a-Game-with-Cocos2d-x-for-Windows-Devices/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6335/ed9b0eff-92c7-40c1-a502-2e6d6c336335/640BuildGameCocos2dxWinDeviceM02_960.jpg",
+    "ShowName": "Build a Game with Cocos2d-x for Windows Devices",
+    "VideoLength": "00:50:59",
+    "VideoTitle": "Build a Game with Cocos2d-x for Windows Devices: (02) Building the Game: Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-19T00:27:09.142506Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6335/ed9b0eff-92c7-40c1-a502-2e6d6c336335/640BuildGameCocos2dxWinDeviceM02_mid.mp4",
+    "Description": "See how to start a game and how to create the skeleton project. Take a look at the structure for the main screen, the game screen, and the menu screen. Code the game, import the graphical assets, and "
+  },
+  {
+    "VideoId": "cc47ab72-5194-4a32-9064-a3e701350d22",
+    "DataApi": "/Entries(guid'cc47ab72-5194-4a32-9064-a3e701350d22')/",
+    "VideoPageLink": "/Series/Build-a-Game-with-Cocos2d-x-for-Windows-Devices/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dbe2/0831482a-3845-4c15-a191-5151814adbe2/640BuildGameCocos2dxWinDeviceM03_960.jpg",
+    "ShowName": "Build a Game with Cocos2d-x for Windows Devices",
+    "VideoLength": "00:50:37",
+    "VideoTitle": "Build a Game with Cocos2d-x for Windows Devices: (03) Building the Game: Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-19T00:27:49.6865516Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dbe2/0831482a-3845-4c15-a191-5151814adbe2/640BuildGameCocos2dxWinDeviceM03_mid.mp4",
+    "Description": "Take a look at sprite animation, and use the Cocos2d-X particle system. Find out how to build the level system, including how to extend and create new levels. [01:29] - Demo: Collision detection[05:32"
+  },
+  {
+    "VideoId": "86dcd7a3-df8e-49ae-9bb8-a3e70135570b",
+    "DataApi": "/Entries(guid'86dcd7a3-df8e-49ae-9bb8-a3e70135570b')/",
+    "VideoPageLink": "/Series/Build-a-Game-with-Cocos2d-x-for-Windows-Devices/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2b57/64d905bc-d774-4963-bf1b-e96104192b57/640BuildGameCocos2dxWinDeviceM04_960.jpg",
+    "ShowName": "Build a Game with Cocos2d-x for Windows Devices",
+    "VideoLength": "00:47:22",
+    "VideoTitle": "Build a Game with Cocos2d-x for Windows Devices: (04) Porting to Windows 8.1 Universal Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-19T00:27:58.9503917Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2b57/64d905bc-d774-4963-bf1b-e96104192b57/640BuildGameCocos2dxWinDeviceM04_mid.mp4",
+    "Description": "Create another project to aim at Windows Phone 8.0, as a basis for a discussion on versioning issues and code reuse. See how to port on and from iOS and Android. [03:05] - Cocos2d-x Windows 8.1 Univer"
+  }
+]

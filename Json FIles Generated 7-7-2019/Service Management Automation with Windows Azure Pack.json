@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "b58eb9e7-a092-4c59-8da1-a3ac017f0885",
+    "DataApi": "/Entries(guid'b58eb9e7-a092-4c59-8da1-a3ac017f0885')/",
+    "VideoPageLink": "/Series/Service-Management-Automation-with-Windows-Azure-Pack/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aa5d/42d9ee5f-6036-4fa4-9c1e-4ca05c53aa5d/ServiceManagementAutoWithWAPM02_960.jpg",
+    "ShowName": "Service Management Automation with Windows Azure Pack",
+    "VideoLength": "00:33:54",
+    "VideoTitle": "Service Management Automation with Windows Azure Pack: (02) Introduction to PowerShell Workflow",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:48:41.4444666Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aa5d/42d9ee5f-6036-4fa4-9c1e-4ca05c53aa5d/ServiceManagementAutoWithWAPM02_mid.mp4",
+    "Description": "Get an overview of PowerShell Workflow, which is the foundation of SMA. Learn the basics of PowerShell Workflow, benefits, best practices, and how it compares to traditional PowerShell, along with sev"
+  },
+  {
+    "VideoId": "ecc0b975-8fab-4c57-bd75-a3ac017f4db5",
+    "DataApi": "/Entries(guid'ecc0b975-8fab-4c57-bd75-a3ac017f4db5')/",
+    "VideoPageLink": "/Series/Service-Management-Automation-with-Windows-Azure-Pack/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3654/e068fcee-6b3f-4d4f-aa85-118228443654/ServiceManagementAutoWithWAPM03_960.jpg",
+    "ShowName": "Service Management Automation with Windows Azure Pack",
+    "VideoLength": "00:48:50",
+    "VideoTitle": "Service Management Automation with Windows Azure Pack: (03) Service Management with Service Management Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:48:59.9917687Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3654/e068fcee-6b3f-4d4f-aa85-118228443654/ServiceManagementAutoWithWAPM03_mid.mp4",
+    "Description": "Explore how SMA fits into WAP as a key tenant of self-service. See how SMA can be used to automate tenant resources, monitor WAP resource providers, and provide automation for a variety of services. ["
+  },
+  {
+    "VideoId": "00013ea9-af23-495a-a064-a3ac017f9219",
+    "DataApi": "/Entries(guid'00013ea9-af23-495a-a064-a3ac017f9219')/",
+    "VideoPageLink": "/Series/Service-Management-Automation-with-Windows-Azure-Pack/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6985/200cfe5b-bbe1-469e-b95d-de7811d26985/ServiceManagementAutoWithWAPM04_960.jpg",
+    "ShowName": "Service Management Automation with Windows Azure Pack",
+    "VideoLength": "00:33:45",
+    "VideoTitle": "Service Management Automation with Windows Azure Pack: (04) Fabric Administration with Service Management Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:49:22.2748247Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6985/200cfe5b-bbe1-469e-b95d-de7811d26985/ServiceManagementAutoWithWAPM04_mid.mp4",
+    "Description": "Hear how SMA can automate the management of fabric components and services in the Windows Azure Pack. Learn how SMA can connect to and interact with Virtual Machine Manager, Operations Manager, and ot"
+  },
+  {
+    "VideoId": "94bc2cca-ccc8-41ff-ad91-a3ac017fda4b",
+    "DataApi": "/Entries(guid'94bc2cca-ccc8-41ff-ad91-a3ac017fda4b')/",
+    "VideoPageLink": "/Series/Service-Management-Automation-with-Windows-Azure-Pack/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cfa6/291777c6-541d-4a83-9547-16143dd7cfa6/ServiceManagementAutoWithWAPM05_960.jpg",
+    "ShowName": "Service Management Automation with Windows Azure Pack",
+    "VideoLength": "00:35:49",
+    "VideoTitle": "Service Management Automation with Windows Azure Pack: (05) Tenant Automation with Service Management Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:49:43.5873055Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cfa6/291777c6-541d-4a83-9547-16143dd7cfa6/ServiceManagementAutoWithWAPM05_mid.mp4",
+    "Description": "Get the details on how SMA can perform additional automation tasks whenever the admin or a tenant performs an action from within WAP. See several examples, including infrastructure provisioning, agent"
+  },
+  {
+    "VideoId": "a3ecad3e-99ac-438c-a1b1-a3ac01801910",
+    "DataApi": "/Entries(guid'a3ecad3e-99ac-438c-a1b1-a3ac01801910')/",
+    "VideoPageLink": "/Series/Service-Management-Automation-with-Windows-Azure-Pack/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75ed/84deeeff-28af-4501-b1bb-b008031075ed/ServiceManagementAutoWithWAPM06_960.jpg",
+    "ShowName": "Service Management Automation with Windows Azure Pack",
+    "VideoLength": "00:31:24",
+    "VideoTitle": "Service Management Automation with Windows Azure Pack: (06) System Center Orchestrator Integration with Service Management Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:50:03.9359775Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75ed/84deeeff-28af-4501-b1bb-b008031075ed/ServiceManagementAutoWithWAPM06_mid.mp4",
+    "Description": "Find out how SMA and System Center Orchestrator can be integrated and interact with each other. Learn the differences between these complementary products, understand when to use each of them, and the"
+  },
+  {
+    "VideoId": "2b71c26a-e54f-4190-af49-a3ac01805999",
+    "DataApi": "/Entries(guid'2b71c26a-e54f-4190-af49-a3ac01805999')/",
+    "VideoPageLink": "/Series/Service-Management-Automation-with-Windows-Azure-Pack/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2cf0/a018c2c6-5dc8-4732-9b9e-17e149eb2cf0/ServiceManagementAutoWithWAPM07_960.jpg",
+    "ShowName": "Service Management Automation with Windows Azure Pack",
+    "VideoLength": "00:41:22",
+    "VideoTitle": "Service Management Automation with Windows Azure Pack: (07) Extensibility and Third-Party Integration with Service Management Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:50:28.5033641Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2cf0/a018c2c6-5dc8-4732-9b9e-17e149eb2cf0/ServiceManagementAutoWithWAPM07_mid.mp4",
+    "Description": "See how SMA is extensible through its OData web service and PowerShell integration modules. Get the details on how to integrate SMA with other datacenter components and third-party systems, see integr"
+  }
+]

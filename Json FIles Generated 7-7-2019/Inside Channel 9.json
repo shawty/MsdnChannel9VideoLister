@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "06184696-321b-4a08-9dcc-9dea00c60656",
+    "DataApi": "/Entries(guid'06184696-321b-4a08-9dcc-9dea00c60656')/",
+    "VideoPageLink": "/Shows/InsideChannel9/Dev-Diary-for-April-23",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1e15/070bcf22-262c-4081-b8e5-8556d3ba1e15/Dev-Diary-for-April-23_960.jpg",
+    "ShowName": "Inside Channel 9",
+    "VideoLength": "00:28:10",
+    "VideoTitle": "Dev Diary for April 23",
+    "Author": "Duncan Mackenzie",
+    "UtcDateTimePublished": "2008-04-23T22:43:01Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1e15/070bcf22-262c-4081-b8e5-8556d3ba1e15/Dev-Diary-for-April-23_mid.mp4",
+    "Description": "We're back with another update! This time we have a mix of content, including:\n\n\nSampy talking about SQL optimization using indexed views Erik covering a relatively simple, but useful, web control "
+  },
+  {
+    "VideoId": "3fb21eea-d681-4449-b2f5-9dea00c609d5",
+    "DataApi": "/Entries(guid'3fb21eea-d681-4449-b2f5-9dea00c609d5')/",
+    "VideoPageLink": "/Shows/InsideChannel9/Dev-Diary-for-April-15th",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3027/43551280-2324-456a-9372-ab8c1b473027/Dev-Diary-for-April-15th_960.jpg",
+    "ShowName": "Inside Channel 9",
+    "VideoLength": "00:17:55",
+    "VideoTitle": "Dev Diary for April 15th",
+    "Author": "Duncan Mackenzie",
+    "UtcDateTimePublished": "2008-04-15T23:36:12Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3027/43551280-2324-456a-9372-ab8c1b473027/Dev-Diary-for-April-15th_mid.mp4",
+    "Description": "\nJust a quick, and poorly filmed, update from the dev team on what we worked on during the last sprint and what we are building right now. Yes the filming is shoddy, and yes the screens are hard to r"
+  },
+  {
+    "VideoId": "049904e2-7d53-4688-a315-9dea00c60e60",
+    "DataApi": "/Entries(guid'049904e2-7d53-4688-a315-9dea00c60e60')/",
+    "VideoPageLink": "/Shows/InsideChannel9/The-Channel-9-beta-has-been-updated",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_512.jpg",
+    "ShowName": "Inside Channel 9",
+    "VideoLength": "00:00:30",
+    "VideoTitle": "The Channel 9 beta has been updated",
+    "Author": "Duncan Mackenzie",
+    "UtcDateTimePublished": "2007-09-29T09:42:48Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51a0/bcdbe4d0-48ba-444a-92d2-35849eb251a0/Believe_mid.mp4",
+    "Description": "Hey folks, it has been awhile since we first published the Channel 9 beta site and we thought you might be wondering where we are with the whole 'new Channel 9' project. Well, we have been moving forw"
+  },
+  {
+    "VideoId": "3a577aad-c7eb-45a1-9e19-9dea00c61ac3",
+    "DataApi": "/Entries(guid'3a577aad-c7eb-45a1-9e19-9dea00c61ac3')/",
+    "VideoPageLink": "/Shows/InsideChannel9/Building-a-Silverlight-player-for-Channel-9",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/38cf/b7a7d399-ad67-4323-be34-b806101e38cf/Building-a-Silverlight-player-for-Channel-9_960.jpg",
+    "ShowName": "Inside Channel 9",
+    "VideoLength": "00:14:49",
+    "VideoTitle": "Building a Silverlight player for Channel 9",
+    "Author": "Adam Kinney",
+    "UtcDateTimePublished": "2007-09-26T20:08:50Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/38cf/b7a7d399-ad67-4323-be34-b806101e38cf/Building-a-Silverlight-player-for-Channel-9_mid.mp4",
+    "Description": "\nMike Sampson, your friendly-neighborhood media-encoding and SCRUM specialist, lives in the office right next to mine.  I managed to walk the 12 steps over there and talk to him about what he's recen"
+  },
+  {
+    "VideoId": "1d7f7866-729c-44fd-9c71-9dea00c6215c",
+    "DataApi": "/Entries(guid'1d7f7866-729c-44fd-9c71-9dea00c6215c')/",
+    "VideoPageLink": "/Shows/InsideChannel9/Channel9-Version-4-3-Minutes-with-the-dev-team",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "d236aa60-436c-40b5-b327-9dea00c62830",
+    "DataApi": "/Entries(guid'd236aa60-436c-40b5-b327-9dea00c62830')/",
+    "VideoPageLink": "/Shows/InsideChannel9/Shipping-the-10-update",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

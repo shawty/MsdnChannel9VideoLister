@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "459a7994-5b0a-4b85-9309-9deb002a7736",
+    "DataApi": "/Entries(guid'459a7994-5b0a-4b85-9309-9deb002a7736')/",
+    "VideoPageLink": "/Blogs/cmayo/Exchange-2010-and-Exchange-Web-Services-Whats-New-Webcasts",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/7/9/7/6/9/4/Ex2010EwsMa20091007_512_ch9.png",
+    "ShowName": "cmayo",
+    "VideoLength": "00:24:59",
+    "VideoTitle": "Exchange 2010 and Exchange Web Services - Whatâ€™s New Webcasts",
+    "Author": "Chris Mayo",
+    "UtcDateTimePublished": "2009-10-07T23:41:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/7/9/7/6/9/4/Ex2010EwsMa20091007_ch9.mp4",
+    "Description": "\nExchange Web Services gives you programmatic access to the information and business logic in Exchange 2010.  If you think about all the stuff you do in Outlook 2007 to manage your daily life (mail t"
+  }
+]

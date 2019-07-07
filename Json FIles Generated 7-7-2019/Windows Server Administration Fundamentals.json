@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "1bd8bc50-8c47-4a7b-9eca-a4000012c0b8",
+    "DataApi": "/Entries(guid'1bd8bc50-8c47-4a7b-9eca-a4000012c0b8')/",
+    "VideoPageLink": "/Series/Windows-Server-Administration-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b02e/99c979ae-4f1e-4791-b3b2-f7c95963b02e/252WinServerAdminFundM02_960.jpg",
+    "ShowName": "Windows Server Administration Fundamentals",
+    "VideoLength": "00:34:44",
+    "VideoTitle": "Windows Server Administration Fundamentals: (02) Managing Windows Server 2008 R2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T18:48:32.8580988Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b02e/99c979ae-4f1e-4791-b3b2-f7c95963b02e/252WinServerAdminFundM02_mid.mp4",
+    "Description": "Learn some of the basic tools for administering and configuring Windows Server, including the Control Panel, Initial Configuration Tasks (Windows Server 2008 R2), and Server Manager. Familiarize yours"
+  },
+  {
+    "VideoId": "6f3910a8-af13-4ce7-a80a-a4000012f398",
+    "DataApi": "/Entries(guid'6f3910a8-af13-4ce7-a80a-a4000012f398')/",
+    "VideoPageLink": "/Series/Windows-Server-Administration-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c70f/f3d93b34-2087-4d48-a34f-bdb2a63fc70f/252WinServerAdminFundM03_960.jpg",
+    "ShowName": "Windows Server Administration Fundamentals",
+    "VideoLength": "00:34:31",
+    "VideoTitle": "Windows Server Administration Fundamentals: (03) Managing Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T18:49:39.9932959Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c70f/f3d93b34-2087-4d48-a34f-bdb2a63fc70f/252WinServerAdminFundM03_mid.mp4",
+    "Description": "â€‹Explore the basics of storage in Windows Server, expanding on the basics of Windows storage with Server technologies, such as Network Attached Storage and Storage Area Networks. Look at different dis"
+  },
+  {
+    "VideoId": "e14f14df-7e01-42c6-be60-a4000013210b",
+    "DataApi": "/Entries(guid'e14f14df-7e01-42c6-be60-a4000013210b')/",
+    "VideoPageLink": "/Series/Windows-Server-Administration-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f194/4f2798d2-4ac4-49ea-a333-e5c55ff9f194/252WinServerAdminFundM04_960.jpg",
+    "ShowName": "Windows Server Administration Fundamentals",
+    "VideoLength": "01:05:24",
+    "VideoTitle": "Windows Server Administration Fundamentals: (04) Monitoring and Troubleshooting Servers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T18:49:55.1693314Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f194/4f2798d2-4ac4-49ea-a333-e5c55ff9f194/252WinServerAdminFundM04_mid.mp4",
+    "Description": "Hear how to monitor and troubleshoot installation and configuration. See basic troubleshooting steps and potential starting points for dealing with server issues, and see demos of tools, including Ser"
+  },
+  {
+    "VideoId": "c8ff2dfc-5701-4d64-96ce-a40000135178",
+    "DataApi": "/Entries(guid'c8ff2dfc-5701-4d64-96ce-a40000135178')/",
+    "VideoPageLink": "/Series/Windows-Server-Administration-Fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/573f/6f6dacd7-0d7e-4a04-b13a-b2ee19bd573f/252WinServerAdminFundM05_960.jpg",
+    "ShowName": "Windows Server Administration Fundamentals",
+    "VideoLength": "01:08:09",
+    "VideoTitle": "Windows Server Administration Fundamentals: (05) Essential Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T18:51:03.5818495Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/573f/6f6dacd7-0d7e-4a04-b13a-b2ee19bd573f/252WinServerAdminFundM05_mid.mp4",
+    "Description": "â€‹Discover the first of many services that Windows Server is designed to provide to your network, including DHCP, DNS, and Active Directory. [01:40] - Name Resolutions[19:57] - DHCP[28:46] - Directory "
+  },
+  {
+    "VideoId": "ee89f54e-b028-4b87-9748-a400001383c8",
+    "DataApi": "/Entries(guid'ee89f54e-b028-4b87-9748-a400001383c8')/",
+    "VideoPageLink": "/Series/Windows-Server-Administration-Fundamentals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be7c/fd59f0d6-1775-48d7-a5e8-2a4e2c5dbe7c/252WinServerAdminFundM06_960.jpg",
+    "ShowName": "Windows Server Administration Fundamentals",
+    "VideoLength": "00:45:23",
+    "VideoTitle": "Windows Server Administration Fundamentals: (06) File and Print Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T18:51:34.5847441Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be7c/fd59f0d6-1775-48d7-a5e8-2a4e2c5dbe7c/252WinServerAdminFundM06_mid.mp4",
+    "Description": "Learn how to provide File and Print services to your network, in this exploration of NTFS, Sharing, Permissions, Auditing, and Network Printers. [00:54] - NTFS Permissions[08:08] - Encryption[14:13] -"
+  },
+  {
+    "VideoId": "610b2806-60c7-4ef2-b654-a4000013adac",
+    "DataApi": "/Entries(guid'610b2806-60c7-4ef2-b654-a4000013adac')/",
+    "VideoPageLink": "/Series/Windows-Server-Administration-Fundamentals/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ff74/07454c7d-7c56-4a63-a166-408e9beaff74/252WinServerAdminFundM07_960.jpg",
+    "ShowName": "Windows Server Administration Fundamentals",
+    "VideoLength": "00:48:57",
+    "VideoTitle": "Windows Server Administration Fundamentals: (07) Popular Windows Network Services and Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T18:53:24.4049036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ff74/07454c7d-7c56-4a63-a166-408e9beaff74/252WinServerAdminFundM07_mid.mp4",
+    "Description": "Get an introduction to some of the enterprise (and some public-facing) technologies provided by Windows Server, such as Web Services (IIS), Remote Access (RRAS, Remote Desktop), and Virtualization (Hy"
+  }
+]

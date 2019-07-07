@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "c76a1437-4a1b-417e-93dd-a27f0018d821",
+    "DataApi": "/Entries(guid'c76a1437-4a1b-417e-93dd-a27f0018d821')/",
+    "VideoPageLink": "/Series/adv-win-store-app-dev-csharp-refresh/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d521/ce00a972-5b9c-4724-9be0-bc763172d521/AdvWinStoreAppDevCSharpRefreshM01_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C# Refresh",
+    "VideoLength": "00:50:40",
+    "VideoTitle": "Advanced Windows Store App Development using C# Refresh: (01) Animation Fundamentals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:51:28.9651767Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d521/ce00a972-5b9c-4724-9be0-bc763172d521/AdvWinStoreAppDevCSharpRefreshM01_mid.mp4",
+    "Description": "Learn the fundamentals of animation. Find out how to build custom animations and how to use the built-in transitions. [04:31] - Transforms[14:02] - Animations[39:45] - Theme Transition LibraryFull cou"
+  },
+  {
+    "VideoId": "de5e825d-f523-4dc7-9766-a27f0019744a",
+    "DataApi": "/Entries(guid'de5e825d-f523-4dc7-9766-a27f0019744a')/",
+    "VideoPageLink": "/Series/adv-win-store-app-dev-csharp-refresh/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/23b8/5ba8ca75-20c9-4371-b961-72631cde23b8/AdvWinStoreAppDevCSharpRefreshM03_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C# Refresh",
+    "VideoLength": "00:57:25",
+    "VideoTitle": "Advanced Windows Store App Development using C# Refresh: (03) Branding and Monetization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:52:02.1269203Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/23b8/5ba8ca75-20c9-4371-b961-72631cde23b8/AdvWinStoreAppDevCSharpRefreshM03_mid.mp4",
+    "Description": "Learn about Styling, Extended Splash techniques, secondary tiles, and monetization. [01:15] - Monetize[22:34] - Custom Styles[46:16] - Extended SplashFull course outline: Mod 01: Animation Fundamental"
+  },
+  {
+    "VideoId": "61211c63-5072-4c03-82a6-a27f0019d74a",
+    "DataApi": "/Entries(guid'61211c63-5072-4c03-82a6-a27f0019d74a')/",
+    "VideoPageLink": "/Series/adv-win-store-app-dev-csharp-refresh/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d58b/85e0e3b4-2dd1-4a90-b290-5f47a0d4d58b/AdvWinStoreAppDevCSharpRefreshM04_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C# Refresh",
+    "VideoLength": "00:48:22",
+    "VideoTitle": "Advanced Windows Store App Development using C# Refresh: (04) Reusable Controls and Components",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:52:19.7625061Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d58b/85e0e3b4-2dd1-4a90-b290-5f47a0d4d58b/AdvWinStoreAppDevCSharpRefreshM04_mid.mp4",
+    "Description": "Check out the control templates, custom controls, user controls, and Windows components. [01:25] - Custom controls[05:19] - User controls[29:30] - Windows Runtime componentsFull course outline: Mod 01"
+  },
+  {
+    "VideoId": "c664df2c-dd5b-41e8-8a1d-a27f001a7659",
+    "DataApi": "/Entries(guid'c664df2c-dd5b-41e8-8a1d-a27f001a7659')/",
+    "VideoPageLink": "/Series/adv-win-store-app-dev-csharp-refresh/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2780/5c0bf101-beaf-4c0c-aa5f-4d09e5bd2780/AdvWinStoreAppDevCSharpRefreshM06_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C# Refresh",
+    "VideoLength": "00:48:44",
+    "VideoTitle": "Advanced Windows Store App Development using C# Refresh: (06) Advanced Contracts",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:52:27.7733172Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2780/5c0bf101-beaf-4c0c-aa5f-4d09e5bd2780/AdvWinStoreAppDevCSharpRefreshM06_mid.mp4",
+    "Description": "Discover the print and PlayTo contracts. [01:58] - PlayTo Contract[17:17] - Print ContractFull course outline: Mod 01: Animation FundamentalsMod 02: Responsive DesignMod 03: Branding and MonetizationM"
+  },
+  {
+    "VideoId": "0df3c618-7b16-4cd2-8314-a27f001a22c4",
+    "DataApi": "/Entries(guid'0df3c618-7b16-4cd2-8314-a27f001a22c4')/",
+    "VideoPageLink": "/Series/adv-win-store-app-dev-csharp-refresh/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a1fb/d4bb36f8-9746-4740-a773-f9d57868a1fb/AdvWinStoreAppDevCSharpRefreshM05_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C# Refresh",
+    "VideoLength": "00:34:47",
+    "VideoTitle": "Advanced Windows Store App Development using C# Refresh: (05) Camera and Media",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:52:31.2163851Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a1fb/d4bb36f8-9746-4740-a773-f9d57868a1fb/AdvWinStoreAppDevCSharpRefreshM05_mid.mp4",
+    "Description": "Find out how to leverage the device camera and how to include media in your app. [01:52] - Photo Capture[22:05] - Settings contractFull course outline: Mod 01: Animation FundamentalsMod 02: Responsive"
+  },
+  {
+    "VideoId": "378c9d34-dec2-4a4f-b54c-a27f001afefb",
+    "DataApi": "/Entries(guid'378c9d34-dec2-4a4f-b54c-a27f001afefb')/",
+    "VideoPageLink": "/Series/adv-win-store-app-dev-csharp-refresh/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a0e9/12245473-556e-4290-b719-a0049271a0e9/AdvWinStoreAppDevCSharpRefreshM07_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C# Refresh",
+    "VideoLength": "00:57:22",
+    "VideoTitle": "Advanced Windows Store App Development using C# Refresh: (07) Advanced Platform Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:53:03.2535128Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a0e9/12245473-556e-4290-b719-a0049271a0e9/AdvWinStoreAppDevCSharpRefreshM07_mid.mp4",
+    "Description": "Learn about the Windows Live SDK and using SkyDrive. Then listen in as Jerry and Daren answer some questions from the field. [02:09] - Windows Live[19:31] - SkyDriveFull course outline: Mod 01: Animat"
+  }
+]

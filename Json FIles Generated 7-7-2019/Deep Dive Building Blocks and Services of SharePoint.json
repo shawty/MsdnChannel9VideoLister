@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "57f0a284-32e3-4d67-9da7-a41f016929cd",
+    "DataApi": "/Entries(guid'57f0a284-32e3-4d67-9da7-a41f016929cd')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/deb5/dacc3d9a-a1bf-4de7-9c4f-abd79cacdeb5/389BldgBlocksOfSharePointM02_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "00:54:47",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (02) Deep Dive into SharePoint Lists for Data Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:11:06.4169352Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/deb5/dacc3d9a-a1bf-4de7-9c4f-abd79cacdeb5/389BldgBlocksOfSharePointM02_mid.mp4",
+    "Description": "Examine how to create and use lists from a SharePoint provider-hosted app, and see demos on various ways to create lists using both declarative XML elements and procedural C# code. Learn about the use"
+  },
+  {
+    "VideoId": "a7291693-398c-4fac-aaf4-a41f01695b69",
+    "DataApi": "/Entries(guid'a7291693-398c-4fac-aaf4-a41f01695b69')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a1a/e1d9d299-3544-47d4-85ed-d97512b05a1a/389BldgBlocksOfSharePointM03_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "00:58:17",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (03) Deep Dive into SharePoint Lists with REST APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:11:17.8678424Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a1a/e1d9d299-3544-47d4-85ed-d97512b05a1a/389BldgBlocksOfSharePointM03_mid.mp4",
+    "Description": "Learn how to use the SharePoint REST API to read and write to SharePoint lists. Hear why the REST API is a great tool for developers who may not have access to one of the client-side object model impl"
+  },
+  {
+    "VideoId": "84779d03-f2da-4e52-ad8e-a41f01699a29",
+    "DataApi": "/Entries(guid'84779d03-f2da-4e52-ad8e-a41f01699a29')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0716/cafdf4ec-ca22-4201-ba8d-b82c9dfd0716/389BldgBlocksOfSharePointM04_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "00:53:22",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (04) Deep Dive into SharePoint Lists with CSOM APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:11:29.0873364Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0716/cafdf4ec-ca22-4201-ba8d-b82c9dfd0716/389BldgBlocksOfSharePointM04_mid.mp4",
+    "Description": "Find out how to make the most of the Client-side Object Model (CSOM) from a provider-hosted SharePoint app and how to optimize your CSOM code. See demos of the CSOM programming required to create site"
+  },
+  {
+    "VideoId": "bcd3b64a-bc7d-42b1-a1ea-a41f0169ca70",
+    "DataApi": "/Entries(guid'bcd3b64a-bc7d-42b1-a1ea-a41f0169ca70')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d2e2/b2a866ef-8cc0-4975-bf90-e6e351b3d2e2/389BldgBlocksOfSharePointM05_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "00:43:21",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (05) SharePoint 2013 Remote Event Receivers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:11:40.3880041Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d2e2/b2a866ef-8cc0-4975-bf90-e6e351b3d2e2/389BldgBlocksOfSharePointM05_mid.mp4",
+    "Description": "Take a look at the architecture of Remote Event Receivers, and see how to use them in a provider-hosted SharePoint app. Learn how to configure debugging sessions so that you can trigger the Office 365"
+  },
+  {
+    "VideoId": "a5b0b2b9-e8cd-4c8a-a399-a41f0169fd3f",
+    "DataApi": "/Entries(guid'a5b0b2b9-e8cd-4c8a-a399-a41f0169fd3f')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1cad/77b1bfca-ebd0-441c-aa17-b422ed8d1cad/389BldgBlocksOfSharePointM06_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "00:50:04",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (06) Deep Dive into Search Scenario in Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:11:58.4892937Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1cad/77b1bfca-ebd0-441c-aa17-b422ed8d1cad/389BldgBlocksOfSharePointM06_mid.mp4",
+    "Description": "Examine advanced scenarios for developing search-based apps in SharePoint Online. [00:51] - Overview[05:08] - Search Building Blocks[16:05] - Extending Search Center[37:25] - Search Based Apps"
+  },
+  {
+    "VideoId": "39a8a3fd-decd-4141-9ecf-a41f016a2d80",
+    "DataApi": "/Entries(guid'39a8a3fd-decd-4141-9ecf-a41f016a2d80')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d717/c1535c9a-7737-4919-969f-686d84c7d717/389BldgBlocksOfSharePointM07_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "01:00:42",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (07) Deep Dive into Business Connectivity Services in Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:12:10.4472355Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d717/c1535c9a-7737-4919-969f-686d84c7d717/389BldgBlocksOfSharePointM07_mid.mp4",
+    "Description": "Explore advanced scenarios for developing apps that use external content types. [01:00] - Overview[10:10] - App-Level External Content Types[26:31] - Hybrid Business Connectivity Services[34:35] - Cus"
+  },
+  {
+    "VideoId": "56a71696-df16-4533-9313-a41f016a6129",
+    "DataApi": "/Entries(guid'56a71696-df16-4533-9313-a41f016a6129')/",
+    "VideoPageLink": "/Series/Deep-Dive-Building-Blocks-and-Services-of-SharePoint/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/68b9/6b4cfbe5-61b0-4788-8f67-a4495d6c68b9/389BldgBlocksOfSharePointM08_960.jpg",
+    "ShowName": "Deep Dive Building Blocks and Services of SharePoint",
+    "VideoLength": "00:43:23",
+    "VideoTitle": "Deep Dive Building Blocks and Services of SharePoint: (08) Developing Advanced Taxonomy Scenarios in Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-14T18:12:19.7121071Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/68b9/6b4cfbe5-61b0-4788-8f67-a4495d6c68b9/389BldgBlocksOfSharePointM08_mid.mp4",
+    "Description": "Get explanations on the why and how of leveraging the managed metadata service and creating taxonomies from a provider-hosted SharePoint app, and learn the basics of creating termsets and adding terms"
+  }
+]

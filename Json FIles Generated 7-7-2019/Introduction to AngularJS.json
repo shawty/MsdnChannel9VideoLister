@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "b4519612-20be-47f6-bda5-a42a013e7d68",
+    "DataApi": "/Entries(guid'b4519612-20be-47f6-bda5-a42a013e7d68')/",
+    "VideoPageLink": "/Series/Introduction-to-AngularJS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7214/083a0d9c-7127-4c53-9b8a-a27e06f77214/592IntroToAngularJSM02_960.jpg",
+    "ShowName": "Introduction to AngularJS",
+    "VideoLength": "00:52:52",
+    "VideoTitle": "Introduction to AngularJS: (02) Angular Controllers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T22:38:55.2000249Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7214/083a0d9c-7127-4c53-9b8a-a27e06f77214/592IntroToAngularJSM02_mid.mp4",
+    "Description": "Learn about Angular controllers, what they are, when you use them, and how to create them, along with using multiple and/or nested controllers. [03:04] - What is a Controller[05:52] - Creating a Contr"
+  },
+  {
+    "VideoId": "967f6654-5aef-4159-baba-a42a013eaaaf",
+    "DataApi": "/Entries(guid'967f6654-5aef-4159-baba-a42a013eaaaf')/",
+    "VideoPageLink": "/Series/Introduction-to-AngularJS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bed3/b98efa2f-d345-4a20-8892-6d1a1221bed3/592IntroToAngularJSM03_960.jpg",
+    "ShowName": "Introduction to AngularJS",
+    "VideoLength": "00:40:36",
+    "VideoTitle": "Introduction to AngularJS: (03) Expressions & Filters",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T22:39:08.4674767Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bed3/b98efa2f-d345-4a20-8892-6d1a1221bed3/592IntroToAngularJSM03_mid.mp4",
+    "Description": "Look at expressions and filters in Angular, and explore the capabilities and creation of a custom filter. [01:26] - What is an Expression?[07:11] - What can you do in an Expression?[10:43] - Using Exp"
+  },
+  {
+    "VideoId": "c065a1a2-e10a-46d0-8f9f-a42a013ed842",
+    "DataApi": "/Entries(guid'c065a1a2-e10a-46d0-8f9f-a42a013ed842')/",
+    "VideoPageLink": "/Series/Introduction-to-AngularJS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/da10/feb7da95-2b5d-4475-b06d-b4b29c58da10/592IntroToAngularJSM04_960.jpg",
+    "ShowName": "Introduction to AngularJS",
+    "VideoLength": "00:37:06",
+    "VideoTitle": "Introduction to AngularJS: (04) Directives",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T22:39:19.4642398Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/da10/feb7da95-2b5d-4475-b06d-b4b29c58da10/592IntroToAngularJSM04_mid.mp4",
+    "Description": "Look at Directives, one of the unique features of Angular. Find out what they are, how to use them, and how to create a custom one. [01:56] - What are Directives in AngularJS[06:46] - Built in Directi"
+  },
+  {
+    "VideoId": "00718b9d-661e-4e4f-b3a5-a42a013f0543",
+    "DataApi": "/Entries(guid'00718b9d-661e-4e4f-b3a5-a42a013f0543')/",
+    "VideoPageLink": "/Series/Introduction-to-AngularJS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ff58/c94b1c9e-fd15-4b25-828f-4906a7a8ff58/592IntroToAngularJSM05_960.jpg",
+    "ShowName": "Introduction to AngularJS",
+    "VideoLength": "00:36:21",
+    "VideoTitle": "Introduction to AngularJS: (05) â€‹Routing, View Management, and UI-Router",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T22:39:29.8609404Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ff58/c94b1c9e-fd15-4b25-828f-4906a7a8ff58/592IntroToAngularJSM05_mid.mp4",
+    "Description": "Since most frameworks have routing capabilities, get a look at the built-in capabilities Angular provides for routing, plus explore an external library UI-Router for view management.â€‹ [01:53] - Routin"
+  },
+  {
+    "VideoId": "c549f25b-2337-4f31-8121-a42a013f37d8",
+    "DataApi": "/Entries(guid'c549f25b-2337-4f31-8121-a42a013f37d8')/",
+    "VideoPageLink": "/Series/Introduction-to-AngularJS/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b715/60b2c0fe-61c5-4b00-9901-e9366ee6b715/592IntroToAngularJSM06_960.jpg",
+    "ShowName": "Introduction to AngularJS",
+    "VideoLength": "00:39:34",
+    "VideoTitle": "Introduction to AngularJS: (06) Factory, Provider, Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T22:39:43.2630396Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b715/60b2c0fe-61c5-4b00-9901-e9366ee6b715/592IntroToAngularJSM06_mid.mp4",
+    "Description": "Understand the basic differences between providers, services, and factories. See how to load an external json file and how to grab the data from a server. [02:33] - Getting External Data[14:23] - Serv"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "accd96f5-8b47-4982-bdea-a297013237ee",
+    "DataApi": "/Entries(guid'accd96f5-8b47-4982-bdea-a297013237ee')/",
+    "VideoPageLink": "/Series/Business-Intelligence-in-Microsoft-Dynamics-GP-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b5ee/939254ba-2965-4f8f-934c-e04f178cb5ee/BusinessIntelligenceDynamicsGP2013M02_960.jpg",
+    "ShowName": "Business Intelligence in Microsoft Dynamics GP 2013",
+    "VideoLength": "00:48:01",
+    "VideoTitle": "Business Intelligence in Microsoft Dynamics GP 2013: (02) Excel Reports and SmartLists",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T21:27:30.2281065Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b5ee/939254ba-2965-4f8f-934c-e04f178cb5ee/BusinessIntelligenceDynamicsGP2013M02_mid.mp4",
+    "Description": "This module discusses the use of SmartLists and using SmartList Designer. It also discusses deploying Excel Reports, and how and where they are used in the Microsoft Dynamics GP application. [00:05] -"
+  },
+  {
+    "VideoId": "01796c60-21c0-4f85-9eef-a2970132688c",
+    "DataApi": "/Entries(guid'01796c60-21c0-4f85-9eef-a2970132688c')/",
+    "VideoPageLink": "/Series/Business-Intelligence-in-Microsoft-Dynamics-GP-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e03/50caa631-a85e-4cbc-b069-ccda69da3e03/BusinessIntelligenceDynamicsGP2013M03_960.jpg",
+    "ShowName": "Business Intelligence in Microsoft Dynamics GP 2013",
+    "VideoLength": "00:40:29",
+    "VideoTitle": "Business Intelligence in Microsoft Dynamics GP 2013: (03) Word Templates",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T21:27:49.0298496Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e03/50caa631-a85e-4cbc-b069-ccda69da3e03/BusinessIntelligenceDynamicsGP2013M03_mid.mp4",
+    "Description": "This module discusses how to configure Word Templates and how to modify them for reports and assign them to users within Microsoft Dynamics GP. [00:05] - Configuration[12:27] - Template Modifications["
+  },
+  {
+    "VideoId": "b68cea00-7912-4bab-b68c-a2970132f6d6",
+    "DataApi": "/Entries(guid'b68cea00-7912-4bab-b68c-a2970132f6d6')/",
+    "VideoPageLink": "/Series/Business-Intelligence-in-Microsoft-Dynamics-GP-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b75/572b6b92-c59e-4dfc-b5c1-cb84e3199b75/BusinessIntelligenceDynamicsGP2013M04_960.jpg",
+    "ShowName": "Business Intelligence in Microsoft Dynamics GP 2013",
+    "VideoLength": "00:56:11",
+    "VideoTitle": "Business Intelligence in Microsoft Dynamics GP 2013: (04) Business Analyzer",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T21:28:04.8838297Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b75/572b6b92-c59e-4dfc-b5c1-cb84e3199b75/BusinessIntelligenceDynamicsGP2013M04_mid.mp4",
+    "Description": "This module discusses how to use the Business Analyzer to access Microsoft Dynamics GP data. It discusses the GP client application, the desktop application, and the Windows 8 Companion App, and the d"
+  }
+]

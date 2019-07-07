@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6f5cd68b-5e84-4480-b77f-a2f30119c15c",
+    "DataApi": "/Entries(guid'6f5cd68b-5e84-4480-b77f-a2f30119c15c')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-GP-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/acee/e07a74d6-00c3-40ea-af35-2b882d62acee/IntroductionToDynamicsGP2013M02_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics GP 2013",
+    "VideoLength": "01:07:21",
+    "VideoTitle": "Introduction to Microsoft Dynamics GP 2013: (02) Basic Elements",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-19T21:13:33.9657076Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/acee/e07a74d6-00c3-40ea-af35-2b882d62acee/IntroductionToDynamicsGP2013M02_mid.mp4",
+    "Description": "Learn about basic elements, such as lookup windows, link fields, date entry, and notes, which are used throughout the application. [00:29] - Key Elements[15:37] - Lookup Options and Link Fields[26:37]"
+  }
+]

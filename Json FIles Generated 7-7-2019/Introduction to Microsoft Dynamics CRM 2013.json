@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "f4a8f74b-504c-412c-9897-a2fa01656607",
+    "DataApi": "/Entries(guid'f4a8f74b-504c-412c-9897-a2fa01656607')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-CRM-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/62c8/87663cbb-5485-4264-b23d-371d2b7362c8/IntroToDynamicsCRM2013M02_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics CRM 2013",
+    "VideoLength": "00:21:16",
+    "VideoTitle": "Introduction to Microsoft Dynamics CRM 2013: (02) Working with Microsoft Dynamics CRM",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-26T23:19:03.8410955Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/62c8/87663cbb-5485-4264-b23d-371d2b7362c8/IntroToDynamicsCRM2013M02_mid.mp4",
+    "Description": "Explore Microsoft Dynamics CRM more deeply. Find out about accounts and contacts (and the relationship between them), activities, Yammer, views, importing data, and processes. [00:02] - Module Overvie"
+  },
+  {
+    "VideoId": "9fdba343-c8ad-4f93-89b7-a2fa0165a6c1",
+    "DataApi": "/Entries(guid'9fdba343-c8ad-4f93-89b7-a2fa0165a6c1')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-CRM-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fa35/fc7632f3-12c0-4582-88f2-4115cd68fa35/IntroToDynamicsCRM2013M03_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics CRM 2013",
+    "VideoLength": "00:15:04",
+    "VideoTitle": "Introduction to Microsoft Dynamics CRM 2013: (03) Processes and Scenarios",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-26T23:19:22.4518484Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fa35/fc7632f3-12c0-4582-88f2-4115cd68fa35/IntroToDynamicsCRM2013M03_mid.mp4",
+    "Description": "Hear about processes and how they work in Microsoft Dynamics CRM. Explore a scenario in three functional areas: sales, client care, and marketing. [00:02] - Module Overview[00:19] - Processes[03:33] -"
+  },
+  {
+    "VideoId": "d3467837-2122-4587-8dbe-a2fa0165d31f",
+    "DataApi": "/Entries(guid'd3467837-2122-4587-8dbe-a2fa0165d31f')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-CRM-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb19/b792b61d-40ca-4cce-875a-e305753dbb19/IntroToDynamicsCRM2013M04_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics CRM 2013",
+    "VideoLength": "00:21:52",
+    "VideoTitle": "Introduction to Microsoft Dynamics CRM 2013: (04) Working with Data and Course Review",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-26T23:19:40.2080904Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb19/b792b61d-40ca-4cce-875a-e305753dbb19/IntroToDynamicsCRM2013M04_mid.mp4",
+    "Description": "Get the details on how Microsoft Dynamics CRM allows you to work with data inside the system.  This module covers find and filtering, advanced find and saved views, exporting data, reports, charts, go"
+  }
+]

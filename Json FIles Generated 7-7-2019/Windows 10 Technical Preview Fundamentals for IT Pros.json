@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "2d9e268e-0bea-48d8-aec4-a3f4012a1923",
+    "DataApi": "/Entries(guid'2d9e268e-0bea-48d8-aec4-a3f4012a1923')/",
+    "VideoPageLink": "/Series/Windows-10-Technical-Preview-Fundamentals-for-IT-Pros/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8164/89accd2b-51e6-457b-b163-df11c1348164/560Windows10TechnicalPreviewM02_960.jpg",
+    "ShowName": "Windows 10 Technical Preview Fundamentals for IT Pros",
+    "VideoLength": "00:28:41",
+    "VideoTitle": "Windows 10 Technical Preview Fundamentals for IT Pros: (02) Windows 10 Management and Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-01T21:45:25.0453386Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8164/89accd2b-51e6-457b-b163-df11c1348164/560Windows10TechnicalPreviewM02_mid.mp4",
+    "Description": "Wonder what is changing with regard to management in Windows 10? Or why and how Windows 10 deployment is evolving? Get the answers from Michael Niehaus. "
+  },
+  {
+    "VideoId": "e5b475ce-ab39-40b2-b384-a3f4012a58bd",
+    "DataApi": "/Entries(guid'e5b475ce-ab39-40b2-b384-a3f4012a58bd')/",
+    "VideoPageLink": "/Series/Windows-10-Technical-Preview-Fundamentals-for-IT-Pros/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a889/65778685-b331-475c-921a-5dc25ca9a889/560Windows10TechnicalPreviewM03_960.jpg",
+    "ShowName": "Windows 10 Technical Preview Fundamentals for IT Pros",
+    "VideoLength": "00:34:11",
+    "VideoTitle": "Windows 10 Technical Preview Fundamentals for IT Pros: (03) Windows 10 Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-01T21:46:03.1951954Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a889/65778685-b331-475c-921a-5dc25ca9a889/560Windows10TechnicalPreviewM03_mid.mp4",
+    "Description": "Take a look at the modern threat landscape and how Windows 10 will help address some of the challenges faced by IT Pros, such as using enterprise data protection and identity. "
+  },
+  {
+    "VideoId": "95c568ed-1167-475e-a1cb-a3f4012a84be",
+    "DataApi": "/Entries(guid'95c568ed-1167-475e-a1cb-a3f4012a84be')/",
+    "VideoPageLink": "/Series/Windows-10-Technical-Preview-Fundamentals-for-IT-Pros/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db7f/c6c181c9-607b-40b3-ae5b-090fed03db7f/560Windows10TechnicalPreviewM04_960.jpg",
+    "ShowName": "Windows 10 Technical Preview Fundamentals for IT Pros",
+    "VideoLength": "00:23:45",
+    "VideoTitle": "Windows 10 Technical Preview Fundamentals for IT Pros: (04) Internet Explorer",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-01T21:46:49.0403033Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db7f/c6c181c9-607b-40b3-ae5b-090fed03db7f/560Windows10TechnicalPreviewM04_mid.mp4",
+    "Description": "Explore Compatibility View versus Enterprise Mode, along with Enterprise Mode Site List Update and other features, like Enterprise Site Discovery. "
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "e9acdcaa-574e-4434-a767-a705011b31af",
+    "DataApi": "/Entries(guid'e9acdcaa-574e-4434-a767-a705011b31af')/",
+    "VideoPageLink": "/Shows/Microsoft-Technical-Case-Studies/Urban-Refuge",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e8c2/99828a3b-38e2-428c-a72a-63356d22e8c2/UrbanRefuge_960.jpg",
+    "ShowName": "Microsoft Technical Case Studies",
+    "VideoLength": "00:02:20",
+    "VideoTitle": "Urban Refuge",
+    "Author": "Crystal Thune",
+    "UtcDateTimePublished": "2017-03-02T03:29:38.8634815Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e8c2/99828a3b-38e2-428c-a72a-63356d22e8c2/UrbanRefuge_mid.mp4",
+    "Description": "Microsoft teamed up with Urban Refuge to bring urban refugees in Amman, Jordan, access to local assistance opportunities via a Xamarin cross-platform mobile application. Urban refugees make up 78% of "
+  },
+  {
+    "VideoId": "4fa9b7b4-11e4-4a54-af3d-a7050126415f",
+    "DataApi": "/Entries(guid'4fa9b7b4-11e4-4a54-af3d-a7050126415f')/",
+    "VideoPageLink": "/Shows/Microsoft-Technical-Case-Studies/SureSpot-Parking",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9388/8227a11a-d987-4980-8ca6-45e39f489388/SureSpotParking_960.jpg",
+    "ShowName": "Microsoft Technical Case Studies",
+    "VideoLength": "00:02:20",
+    "VideoTitle": "SureSpot Parking",
+    "Author": "Paul DeCarlo",
+    "UtcDateTimePublished": "2017-01-24T18:01:04.3687476Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9388/8227a11a-d987-4980-8ca6-45e39f489388/SureSpotParking_mid.mp4",
+    "Description": "We set out to bring Power BI Embedded reports into SureSpot's online parking reservation service. SureSpot allows customers to employ automated reservation systems into existing parking lots using on-"
+  },
+  {
+    "VideoId": "dffaad74-5ef8-45b6-b1fd-a6cd0122cfa4",
+    "DataApi": "/Entries(guid'dffaad74-5ef8-45b6-b1fd-a6cd0122cfa4')/",
+    "VideoPageLink": "/Shows/Microsoft-Technical-Case-Studies/Brain-Project",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb3d/77f22603-2ff9-4fb0-b895-da0357b3cb3d/BTT_960.jpg",
+    "ShowName": "Microsoft Technical Case Studies",
+    "VideoLength": "00:03:29",
+    "VideoTitle": "Brain Project",
+    "Author": "yung chou",
+    "UtcDateTimePublished": "2016-11-29T22:35:22.87169Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb3d/77f22603-2ff9-4fb0-b895-da0357b3cb3d/BTT_mid.mp4",
+    "Description": "Microsoft worked with BTT Corp to develop an IoT solution to help with brain thermal tunnel pattern recognition. This video is an overview of how the core project team came together and the technologi"
+  }
+]

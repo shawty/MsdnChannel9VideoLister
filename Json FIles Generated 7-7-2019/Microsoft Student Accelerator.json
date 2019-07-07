@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "dba24d24-d77c-44ed-aa7c-a51d002b0b4a",
+    "DataApi": "/Entries(guid'dba24d24-d77c-44ed-aa7c-a51d002b0b4a')/",
+    "VideoPageLink": "/Blogs/Microsoft-Student-Accelerator/MSA-Building-An-App-API-Part-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5738/4d4dac23-b56a-460a-b77e-a66084445738/API_960.jpg",
+    "ShowName": "Microsoft Student Accelerator",
+    "VideoLength": "00:41:12",
+    "VideoTitle": "MSA - Building An App - API -  Part 3",
+    "Author": "Dee P. Seadev",
+    "UtcDateTimePublished": "2015-09-24T05:40:01.0839824Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5738/4d4dac23-b56a-460a-b77e-a66084445738/API_mid.mp4",
+    "Description": "MSA - Build an App tutorial - this video will focus on retrieving data from an API to use within your app. "
+  },
+  {
+    "VideoId": "bbe17f0a-0da0-4171-a11f-a51d002ad546",
+    "DataApi": "/Entries(guid'bbe17f0a-0da0-4171-a11f-a51d002ad546')/",
+    "VideoPageLink": "/Blogs/Microsoft-Student-Accelerator/MSA-Building-An-App-UI-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c358/61c562c5-c552-4874-a456-255cfa87c358/UI_960.jpg",
+    "ShowName": "Microsoft Student Accelerator",
+    "VideoLength": "00:28:57",
+    "VideoTitle": "MSA - Building An App - UI -  Part 2",
+    "Author": "Dee P. Seadev",
+    "UtcDateTimePublished": "2015-09-24T05:39:37.6650044Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c358/61c562c5-c552-4874-a456-255cfa87c358/UI_mid.mp4",
+    "Description": "This video will cover how to create the UI for your app in the Building an App tutorial. "
+  },
+  {
+    "VideoId": "59e5391c-6c6a-4280-8bad-a51d002a473c",
+    "DataApi": "/Entries(guid'59e5391c-6c6a-4280-8bad-a51d002a473c')/",
+    "VideoPageLink": "/Blogs/Microsoft-Student-Accelerator/MSA-Building-An-App-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf44/374dc26c-c8fc-498c-ac22-0e25f8b8bf44/Intro_960.jpg",
+    "ShowName": "Microsoft Student Accelerator",
+    "VideoLength": "00:03:51",
+    "VideoTitle": "MSA - Building An App Part 1",
+    "Author": "Dee P. Seadev",
+    "UtcDateTimePublished": "2015-09-24T05:39:03.8064228Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf44/374dc26c-c8fc-498c-ac22-0e25f8b8bf44/Intro_mid.mp4",
+    "Description": "Introduction video on what you will cover in the Building an App tutorial "
+  },
+  {
+    "VideoId": "901cc1cb-51d5-4847-8b52-a4de00659b82",
+    "DataApi": "/Entries(guid'901cc1cb-51d5-4847-8b52-a4de00659b82')/",
+    "VideoPageLink": "/Blogs/Microsoft-Student-Accelerator/MSA-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0b10/b583a6ec-2054-4b7a-9824-95d647150b10/MSA100_960.jpg",
+    "ShowName": "Microsoft Student Accelerator",
+    "VideoLength": "00:01:50",
+    "VideoTitle": "MSA Introduction",
+    "Author": "Dee P. Seadev",
+    "UtcDateTimePublished": "2015-07-23T23:24:36.8789451Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0b10/b583a6ec-2054-4b7a-9824-95d647150b10/MSA100_mid.mp4",
+    "Description": "Welcome to the Microsoft Student Accelerator programme! We got together and created this epic video to give you an overview of how the program works. For more details, see the handbook at http://msa.m"
+  }
+]

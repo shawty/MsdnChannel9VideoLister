@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "809b61c2-fed7-4217-9eea-9deb01889652",
+    "DataApi": "/Entries(guid'809b61c2-fed7-4217-9eea-9deb01889652')/",
+    "VideoPageLink": "/Blogs/erickingfrog/TechNet-Radio-Microsoft-Forefront-Codename-Stirling-Overview-Part-2-of-2",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "141be944-5cfd-4415-8771-9dea0162d236",
+    "DataApi": "/Entries(guid'141be944-5cfd-4415-8771-9dea0162d236')/",
+    "VideoPageLink": "/Blogs/erickingfrog/TechNet-Radio-Gearing-up-for-Tech-Ed-2007-An-interview-with-Brian-Marble-and-Kathy-Visser-May",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "9abd3f95-3599-4928-b705-9dea0162d5ce",
+    "DataApi": "/Entries(guid'9abd3f95-3599-4928-b705-9dea0162d5ce')/",
+    "VideoPageLink": "/Blogs/erickingfrog/TechNet-Radio-Community-Corner-an-interview-with-Dan-Stolts-on-Windows-Server-Longhorn-Windows",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "746caa8b-a994-4bdf-8cad-9dea0162d942",
+    "DataApi": "/Entries(guid'746caa8b-a994-4bdf-8cad-9dea0162d942')/",
+    "VideoPageLink": "/Blogs/erickingfrog/TechNet-Radio-Community-Corner-an-interview-with-MVP-Andy-Malone-on-Windows-Server-quotLonghorn",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

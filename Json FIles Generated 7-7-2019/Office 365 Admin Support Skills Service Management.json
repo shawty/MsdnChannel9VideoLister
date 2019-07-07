@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "3e011cad-9035-47c3-af64-a47d01286066",
+    "DataApi": "/Entries(guid'3e011cad-9035-47c3-af64-a47d01286066')/",
+    "VideoPageLink": "/Series/Office-365-Admin-Support-Skills-Service-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/520a/4ee06122-0e86-41aa-8c44-9bf71232520a/644O365AdminSkillsServMgmtM02_960.jpg",
+    "ShowName": "Office 365 Admin Support Skills: Service Management",
+    "VideoLength": "00:08:01",
+    "VideoTitle": "Office 365 Admin Support Skills: Service Management: (02) Administrators",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-18T18:30:40.3683672Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/520a/4ee06122-0e86-41aa-8c44-9bf71232520a/644O365AdminSkillsServMgmtM02_mid.mp4",
+    "Description": "See relevant Office 365 administrator articles, and hear the importance of the Global Administrator role. Learn about all available administrator roles, and find out why some organizations may not nee"
+  },
+  {
+    "VideoId": "fc4bb1f0-230f-44f0-9206-a47d012889c7",
+    "DataApi": "/Entries(guid'fc4bb1f0-230f-44f0-9206-a47d012889c7')/",
+    "VideoPageLink": "/Series/Office-365-Admin-Support-Skills-Service-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1895/2b9583d1-502c-4a37-989b-1e7bf01b1895/644O365AdminSkillsServMgmtM03_960.jpg",
+    "ShowName": "Office 365 Admin Support Skills: Service Management",
+    "VideoLength": "00:21:39",
+    "VideoTitle": "Office 365 Admin Support Skills: Service Management: (03) PowerShell",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-18T18:30:50.6155401Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1895/2b9583d1-502c-4a37-989b-1e7bf01b1895/644O365AdminSkillsServMgmtM03_mid.mp4",
+    "Description": "Identify PowerShell software requirements, find out how to install PowerShell, and explore concepts of PowerShell cmdlets. Learn about scripts, operators, objects, object properties, and methods, plus"
+  },
+  {
+    "VideoId": "f67bff34-aa9f-412a-97bb-a47d0128bc1d",
+    "DataApi": "/Entries(guid'f67bff34-aa9f-412a-97bb-a47d0128bc1d')/",
+    "VideoPageLink": "/Series/Office-365-Admin-Support-Skills-Service-Management/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/93d7/2228a2f4-09ec-4a85-bbfc-e5dbcb3f93d7/644O365AdminSkillsServMgmtM04_960.jpg",
+    "ShowName": "Office 365 Admin Support Skills: Service Management",
+    "VideoLength": "00:24:41",
+    "VideoTitle": "Office 365 Admin Support Skills: Service Management: (04) â€‹Domain Administration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-18T18:30:59.1534611Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/93d7/2228a2f4-09ec-4a85-bbfc-e5dbcb3f93d7/644O365AdminSkillsServMgmtM04_mid.mp4",
+    "Description": "Look at basic support and management considerations for domains. See how to add a domain to Office 365 (enterprise and midsize businesses) and how to set up and manage domains (small businesses admins"
+  },
+  {
+    "VideoId": "ec5be235-39e7-4311-bfd4-a47d01292734",
+    "DataApi": "/Entries(guid'ec5be235-39e7-4311-bfd4-a47d01292734')/",
+    "VideoPageLink": "/Series/Office-365-Admin-Support-Skills-Service-Management/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f605/cb8332cc-a216-48e3-882c-3e7a4c8bf605/644O365AdminSkillsServMgmtM05_960.jpg",
+    "ShowName": "Office 365 Admin Support Skills: Service Management",
+    "VideoLength": "00:59:08",
+    "VideoTitle": "Office 365 Admin Support Skills: Service Management: (05) Mail Flow",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-18T18:31:08.3863764Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f605/cb8332cc-a216-48e3-882c-3e7a4c8bf605/644O365AdminSkillsServMgmtM05_mid.mp4",
+    "Description": "Dive into concepts around message routing, including Exchange Online Protection, message headers, and the impact of connectors. Interpret errors, troubleshoot message delivery, and more. [00:07] - 5.1"
+  },
+  {
+    "VideoId": "dfb585ec-4787-4f1a-9fb1-a47d0129526a",
+    "DataApi": "/Entries(guid'dfb585ec-4787-4f1a-9fb1-a47d0129526a')/",
+    "VideoPageLink": "/Series/Office-365-Admin-Support-Skills-Service-Management/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/68b3/07f3c081-8165-470d-a33e-9be005a968b3/644O365AdminSkillsServMgmtM06_960.jpg",
+    "ShowName": "Office 365 Admin Support Skills: Service Management",
+    "VideoLength": "01:03:46",
+    "VideoTitle": "Office 365 Admin Support Skills: Service Management: (06) Outlook Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-18T18:31:21.8702851Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/68b3/07f3c081-8165-470d-a33e-9be005a968b3/644O365AdminSkillsServMgmtM06_mid.mp4",
+    "Description": "Find out what Autodiscover is, along with its main functions and benefits. Get the details on troubleshooting Autodiscover issues, and learn to determine which can impact an entire organization. [00:0"
+  }
+]

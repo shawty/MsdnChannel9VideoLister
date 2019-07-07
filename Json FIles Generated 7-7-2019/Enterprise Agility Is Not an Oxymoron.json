@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "c58042f9-e71b-448b-b864-a2fc0143245d",
+    "DataApi": "/Entries(guid'c58042f9-e71b-448b-b864-a2fc0143245d')/",
+    "VideoPageLink": "/Series/Enterprise-Agility-Is-Not-an-Oxymoron/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3124/473bfc9e-521d-47ef-8963-05445c723124/EnterpriseAgilityIsNotAnOxymoronM02_960.jpg",
+    "ShowName": "Enterprise Agility Is Not an Oxymoron",
+    "VideoLength": "01:10:19",
+    "VideoTitle": "Enterprise Agility Is Not an Oxymoron: (02) Enterprise Agile Business, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-29T01:13:00.7298525Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3124/473bfc9e-521d-47ef-8963-05445c723124/EnterpriseAgilityIsNotAnOxymoronM02_mid.mp4",
+    "Description": "Learn about small batch sizes (scaling up the sprint) and prioritizing on purpose (scaling up the product backlog). [01:12] - Batch sizing: scaling up decomposition[28:06] - Prioritization: scaling up"
+  },
+  {
+    "VideoId": "9ac957d3-1b72-4a30-90eb-a2fc014379aa",
+    "DataApi": "/Entries(guid'9ac957d3-1b72-4a30-90eb-a2fc014379aa')/",
+    "VideoPageLink": "/Series/Enterprise-Agility-Is-Not-an-Oxymoron/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8bc5/99b6b4c3-e943-457c-ba17-bc908ba18bc5/EnterpriseAgilityIsNotAnOxymoronM03_960.jpg",
+    "ShowName": "Enterprise Agility Is Not an Oxymoron",
+    "VideoLength": "00:46:11",
+    "VideoTitle": "Enterprise Agility Is Not an Oxymoron: (03) Enterprise Agile Business, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-29T01:13:11.6049735Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8bc5/99b6b4c3-e943-457c-ba17-bc908ba18bc5/EnterpriseAgilityIsNotAnOxymoronM03_mid.mp4",
+    "Description": "Explore setting a cadence (scaling up short iterations). And wrap up creating an agile business culture. [01:10] - Cadence &amp; synchronization: scaling up iterations[07:04] - Bringing it together: c"
+  },
+  {
+    "VideoId": "f30ec3c5-5596-44dd-9d9a-a2fc0143b128",
+    "DataApi": "/Entries(guid'f30ec3c5-5596-44dd-9d9a-a2fc0143b128')/",
+    "VideoPageLink": "/Series/Enterprise-Agility-Is-Not-an-Oxymoron/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f4e0/de69b918-6a12-410c-8fc7-6699af36f4e0/EnterpriseAgilityIsNotAnOxymoronM04_960.jpg",
+    "ShowName": "Enterprise Agility Is Not an Oxymoron",
+    "VideoLength": "00:43:50",
+    "VideoTitle": "Enterprise Agility Is Not an Oxymoron: (04) Enterprise Agile Management, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-29T01:13:26.4461042Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f4e0/de69b918-6a12-410c-8fc7-6699af36f4e0/EnterpriseAgilityIsNotAnOxymoronM04_mid.mp4",
+    "Description": "Walk through un-managing teams (scaling up self-organization), and hear a discussion on Team Number One (scaling up servant leadership). [00:54] - Un-managing teams: scaling up self-organization[18:25"
+  },
+  {
+    "VideoId": "9a1296d3-800d-4c1e-82b7-a2fc0144138a",
+    "DataApi": "/Entries(guid'9a1296d3-800d-4c1e-82b7-a2fc0144138a')/",
+    "VideoPageLink": "/Series/Enterprise-Agility-Is-Not-an-Oxymoron/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d1e8/29b73d79-e8db-4cb9-9179-b09680b5d1e8/EnterpriseAgilityIsNotAnOxymoronM05_960.jpg",
+    "ShowName": "Enterprise Agility Is Not an Oxymoron",
+    "VideoLength": "00:16:13",
+    "VideoTitle": "Enterprise Agility Is Not an Oxymoron: (05) Enterprise Agile Management, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-29T01:13:41.7627499Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d1e8/29b73d79-e8db-4cb9-9179-b09680b5d1e8/EnterpriseAgilityIsNotAnOxymoronM05_mid.mp4",
+    "Description": "Get a perspective on &quot;To a T&quot; (scaling up cross-functional teams), and wrap up creating an agile management culture. [02:06] - To a T: scaling up cross-functional teams[11:57] - Demo: Get Ka"
+  },
+  {
+    "VideoId": "138f55ac-814f-4c38-847c-a2fc01443f15",
+    "DataApi": "/Entries(guid'138f55ac-814f-4c38-847c-a2fc01443f15')/",
+    "VideoPageLink": "/Series/Enterprise-Agility-Is-Not-an-Oxymoron/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a2b9/eb53e09d-7d08-4a60-ad06-d52c5dfaa2b9/EnterpriseAgilityIsNotAnOxymoronM06_960.jpg",
+    "ShowName": "Enterprise Agility Is Not an Oxymoron",
+    "VideoLength": "00:46:02",
+    "VideoTitle": "Enterprise Agility Is Not an Oxymoron: (06) Enterprise Agile Skill Sets, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-29T01:14:01.5192323Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a2b9/eb53e09d-7d08-4a60-ad06-d52c5dfaa2b9/EnterpriseAgilityIsNotAnOxymoronM06_mid.mp4",
+    "Description": "Take a look at why unit testing isn't testing (scaling up quality built in). And explore the testing tree (scaling up potentially shippable). [01:12] - Unit testing isnâ€™t testing: scaling up quality b"
+  },
+  {
+    "VideoId": "d1ec911c-6cf8-4bb2-bce0-a2fc01447e7c",
+    "DataApi": "/Entries(guid'd1ec911c-6cf8-4bb2-bce0-a2fc01447e7c')/",
+    "VideoPageLink": "/Series/Enterprise-Agility-Is-Not-an-Oxymoron/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b09/6f78695e-7ad9-4862-9c59-0898d45e6b09/EnterpriseAgilityIsNotAnOxymoronM07_960.jpg",
+    "ShowName": "Enterprise Agility Is Not an Oxymoron",
+    "VideoLength": "00:44:46",
+    "VideoTitle": "Enterprise Agility Is Not an Oxymoron: (07) Enterprise Agile Skill Sets, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-29T01:14:27.6112875Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b09/6f78695e-7ad9-4862-9c59-0898d45e6b09/EnterpriseAgilityIsNotAnOxymoronM07_mid.mp4",
+    "Description": "This module highlights de-architecting (scaling up emergence), plus a review of DevOps (scaling up shippable). Watch the wrap up, and hear conclusions. [01:05] - De-architecting: scaling up emergence["
+  }
+]

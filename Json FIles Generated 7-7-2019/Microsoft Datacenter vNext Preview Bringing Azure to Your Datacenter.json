@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "88980507-c5a5-46b3-9088-a48901147a02",
+    "DataApi": "/Entries(guid'88980507-c5a5-46b3-9088-a48901147a02')/",
+    "VideoPageLink": "/Series/Microsoft-Datacenter-vNext-Preview-Bringing-Azure-to-Your-Datacenter/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1407/69ee38bf-f4cd-4849-a52f-36a0466f1407/570MSDataCenterVnextPreviewM02_960.jpg",
+    "ShowName": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter",
+    "VideoLength": "00:39:03",
+    "VideoTitle": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter: (02) â€‹Compute",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-04T15:41:18.9950151Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1407/69ee38bf-f4cd-4849-a52f-36a0466f1407/570MSDataCenterVnextPreviewM02_mid.mp4",
+    "Description": "Join Matt as he talks with Mathew John, a Group Manager in the Datacenter Compute Team, about the Microsoft virtualization strategy in the next release of the platform. Focus specifically on rolling u"
+  },
+  {
+    "VideoId": "430afe5f-bd1d-4afe-ad27-a4890114a1df",
+    "DataApi": "/Entries(guid'430afe5f-bd1d-4afe-ad27-a4890114a1df')/",
+    "VideoPageLink": "/Series/Microsoft-Datacenter-vNext-Preview-Bringing-Azure-to-Your-Datacenter/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/487f/fbce521b-ea07-4048-b602-2a0661fb487f/570MSDataCenterVnextPreviewM03_960.jpg",
+    "ShowName": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter",
+    "VideoLength": "00:28:03",
+    "VideoTitle": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter: (03) Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-04T15:41:30.4610534Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/487f/fbce521b-ea07-4048-b602-2a0661fb487f/570MSDataCenterVnextPreviewM03_mid.mp4",
+    "Description": "Check out Matt's talk with Siddhartha Roy, a Group Manager in the Microsoft Datacenter Storage Team, about the Microsoft storage strategy in the next release of the platform. Explore deconstruction of"
+  },
+  {
+    "VideoId": "fee0a563-b6b8-4445-bd42-a4890114cbe2",
+    "DataApi": "/Entries(guid'fee0a563-b6b8-4445-bd42-a4890114cbe2')/",
+    "VideoPageLink": "/Series/Microsoft-Datacenter-vNext-Preview-Bringing-Azure-to-Your-Datacenter/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f95/17b99677-fbc7-46c3-8e34-f2eb358e7f95/570MSDataCenterVnextPreviewM04_960.jpg",
+    "ShowName": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter",
+    "VideoLength": "00:32:15",
+    "VideoTitle": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter: (04) Networking",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-04T15:41:39.987948Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f95/17b99677-fbc7-46c3-8e34-f2eb358e7f95/570MSDataCenterVnextPreviewM04_mid.mp4",
+    "Description": "Hear Matt's discussion with Rajeev Nagar, a Group Manager in the Microsoft Datacenter Networking Team, about the Microsoft networking strategy in the next release of the platform. Explore with Rajeev "
+  },
+  {
+    "VideoId": "28882d70-2053-443a-afe7-a4890114f89e",
+    "DataApi": "/Entries(guid'28882d70-2053-443a-afe7-a4890114f89e')/",
+    "VideoPageLink": "/Series/Microsoft-Datacenter-vNext-Preview-Bringing-Azure-to-Your-Datacenter/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c126/a54ecadf-71b6-4cf8-b6d2-1917404fc126/570MSDataCenterVnextPreviewM05_960.jpg",
+    "ShowName": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter",
+    "VideoLength": "00:21:51",
+    "VideoTitle": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter: (05) Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-04T15:41:49.6073616Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c126/a54ecadf-71b6-4cf8-b6d2-1917404fc126/570MSDataCenterVnextPreviewM05_mid.mp4",
+    "Description": "Check out Matt's talk with Anders Vinberg, a Technical Fellow in the Enterprise Cloud group, about the Microsoft security and assurance strategy in the next release of the platform. Anders discusses i"
+  },
+  {
+    "VideoId": "1d5d5da5-c4b1-4f3c-9d77-a4890115217c",
+    "DataApi": "/Entries(guid'1d5d5da5-c4b1-4f3c-9d77-a4890115217c')/",
+    "VideoPageLink": "/Series/Microsoft-Datacenter-vNext-Preview-Bringing-Azure-to-Your-Datacenter/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae8a/ced90b3a-b163-4417-ba13-5fcf4d32ae8a/570MSDataCenterVnextPreviewM06_960.jpg",
+    "ShowName": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter",
+    "VideoLength": "00:24:43",
+    "VideoTitle": "Microsoft Datacenter vNext Preview: Bringing Azure to Your Datacenter: (06) Linux",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-04T15:41:59.2294004Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae8a/ced90b3a-b163-4417-ba13-5fcf4d32ae8a/570MSDataCenterVnextPreviewM06_mid.mp4",
+    "Description": "Listen in on Matt, as he talks with Michael Kelley, a Group Manager in the Open Source Technology Center, about the Microsoft/Linux relationship. Michael discusses Microsoft's heightened levels of inv"
+  }
+]

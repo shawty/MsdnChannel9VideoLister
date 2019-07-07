@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "085c5736-0563-4b6a-b05d-a36f0128be37",
+    "DataApi": "/Entries(guid'085c5736-0563-4b6a-b05d-a36f0128be37')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db7a/54f7a710-42a1-49d2-9508-36ffc0e8db7a/ProgrammingRobotsWithVSM02_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:39:34",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (02) Getting Started with Arduino",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:12:02.1175023Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db7a/54f7a710-42a1-49d2-9508-36ffc0e8db7a/ProgrammingRobotsWithVSM02_mid.mp4",
+    "Description": "Meet the Arduino family of controller boards, and explore configuring Visual Studio as your software development environment. Review online resources, and write a program that controls a servo motor b"
+  },
+  {
+    "VideoId": "e5c20385-143f-4722-a715-a36f01291410",
+    "DataApi": "/Entries(guid'e5c20385-143f-4722-a715-a36f01291410')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1172/fb4a4356-a768-4012-a019-79bb0e601172/ProgrammingRobotsWithVSM03_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:23:45",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (03) Creating Your First Arduino Robot",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:12:15.0534587Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1172/fb4a4356-a768-4012-a019-79bb0e601172/ProgrammingRobotsWithVSM03_mid.mp4",
+    "Description": "Learn to build and program an autonomous robot that uses servo motors and bump sensors to navigate around obstacles. Learn how to calibrate motor speed and direction, along with how to keep your robot"
+  },
+  {
+    "VideoId": "71bc3f1c-9977-452a-abc4-a36f01295068",
+    "DataApi": "/Entries(guid'71bc3f1c-9977-452a-abc4-a36f01295068')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0a75/a5fda4fb-9d54-423b-b1f3-c452efe90a75/ProgrammingRobotsWithVSM04_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:17:00",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (04) Controlling a Robotic Arm",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:12:27.8046099Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0a75/a5fda4fb-9d54-423b-b1f3-c452efe90a75/ProgrammingRobotsWithVSM04_mid.mp4",
+    "Description": "See how to program the positioning of servo motors for a robotic arm. Develop calibration and test routines that enable you to control the angular position of the arm joints. This robotic arm is used "
+  },
+  {
+    "VideoId": "844756d8-6096-4b62-98fa-a36f0129a076",
+    "DataApi": "/Entries(guid'844756d8-6096-4b62-98fa-a36f0129a076')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1d9c/aa7f8139-1a23-48ea-81d5-47235d161d9c/ProgrammingRobotsWithVSM05_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:36:59",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (05) Integrating Advanced Sensors and Shields",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:12:39.3875029Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1d9c/aa7f8139-1a23-48ea-81d5-47235d161d9c/ProgrammingRobotsWithVSM05_mid.mp4",
+    "Description": "Explore advanced sensor types and how to use &quot;shield&quot; circuit boards to extend the functionality of an Arduino board. Write code that measures distances using an ultrasonic rangefinder senso"
+  },
+  {
+    "VideoId": "94af02e4-1d16-4d7c-ac2c-a36f0129eca5",
+    "DataApi": "/Entries(guid'94af02e4-1d16-4d7c-ac2c-a36f0129eca5')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9745/375cfa2f-175a-4f2d-9f2b-b6ea36cd9745/ProgrammingRobotsWithVSM06_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:30:53",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (06) Mapping Areas and Detecting Objects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:12:57.2688786Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9745/375cfa2f-175a-4f2d-9f2b-b6ea36cd9745/ProgrammingRobotsWithVSM06_mid.mp4",
+    "Description": "Find out how to use the readings from distance sensors to create a boundary area map of the space around your robot. Your robot uses this area map to help it navigate and to detect moving objects. [01"
+  },
+  {
+    "VideoId": "16472800-f3b3-4c9c-9136-a36f012a2e39",
+    "DataApi": "/Entries(guid'16472800-f3b3-4c9c-9136-a36f012a2e39')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a8f8/732a1e2b-48e9-45ea-932e-9bef44d6a8f8/ProgrammingRobotsWithVSM07_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:32:13",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (07) Integrating Wireless Control and Communication",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:13:15.3140037Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a8f8/732a1e2b-48e9-45ea-932e-9bef44d6a8f8/ProgrammingRobotsWithVSM07_mid.mp4",
+    "Description": "Discover the wireless communication technologies that you can use in your robotic projects and how to configure and use RF transmitter/receiver pairs. Finish with a look at the wirelessly controlled M"
+  },
+  {
+    "VideoId": "65ad4c4d-4fc6-4534-95a0-a36f012a6e87",
+    "DataApi": "/Entries(guid'65ad4c4d-4fc6-4534-95a0-a36f012a6e87')/",
+    "VideoPageLink": "/Series/Programming-Robotic-Systems-with-Visual-Studio/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5004/8976d5ff-00d8-4572-b9cc-65de08ed5004/ProgrammingRobotsWithVSM08_960.jpg",
+    "ShowName": "Programming Robotic Systems with Visual Studio",
+    "VideoLength": "00:10:45",
+    "VideoTitle": "Programming Robotic Systems with Visual Studio: (08) Looking Ahead",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-21T22:13:27.4899615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5004/8976d5ff-00d8-4572-b9cc-65de08ed5004/ProgrammingRobotsWithVSM08_mid.mp4",
+    "Description": "Experts share plans for future MVA courses in this series, including .NET Micro Framework projects, the Internet of Things (IoT), and projects that dig a little deeper into sensors and device integrat"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a4f5d41f-12bd-40c6-a85d-a7c20119f03b",
+    "DataApi": "/Entries(guid'a4f5d41f-12bd-40c6-a85d-a7c20119f03b')/",
+    "VideoPageLink": "/Shows/Healthcare-Digital-Transformation/Microsoft-Driving-Digital-Transformation-in-Health-Event-Keynote",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9e15/1fc9e145-cbb0-4d6a-8513-5c227fa69e15/MicrosoftHealth_960.jpg",
+    "ShowName": "Healthcare Digital Transformation",
+    "VideoLength": "00:13:36",
+    "VideoTitle": "Microsoft Driving Digital Transformation in Health Event Keynote",
+    "Author": "Eric Keyser",
+    "UtcDateTimePublished": "2017-08-07T17:56:47.1786376Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9e15/1fc9e145-cbb0-4d6a-8513-5c227fa69e15/MicrosoftHealth_mid.mp4",
+    "Description": "Dr Simon Kos, Chief Medical Officer of Microsoft takes us through Microsoft's vision for driving digital transformation in health.  "
+  }
+]

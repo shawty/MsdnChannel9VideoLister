@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "895507e6-edc9-4144-82d0-a38f018215e9",
+    "DataApi": "/Entries(guid'895507e6-edc9-4144-82d0-a38f018215e9')/",
+    "VideoPageLink": "/Series/Managing-Exchange-Online-Using-PowerShell/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b922/ab8383a6-7cb8-4ce8-9f5f-a13b5a86b922/ManagingExchangeOnlineUsingPowerShellM02_960.jpg",
+    "ShowName": "Managing Exchange Online Using PowerShell",
+    "VideoLength": "00:29:23",
+    "VideoTitle": "Managing Exchange Online Using PowerShell: (02) Configuring Mail Flow",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:56:27.7391524Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b922/ab8383a6-7cb8-4ce8-9f5f-a13b5a86b922/ManagingExchangeOnlineUsingPowerShellM02_mid.mp4",
+    "Description": "Learn how to configure mail flow using PowerShell, including configuring Accepted Domains and server Routing Rules. Examine enabling and disabling troubleshooting for mail flow. [01:54] - Overview of "
+  },
+  {
+    "VideoId": "7e349ea8-35ce-4718-b91d-a38f01824ae3",
+    "DataApi": "/Entries(guid'7e349ea8-35ce-4718-b91d-a38f01824ae3')/",
+    "VideoPageLink": "/Series/Managing-Exchange-Online-Using-PowerShell/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/037b/f703a5f7-57f8-4711-8226-f053cd12037b/ManagingExchangeOnlineUsingPowerShellM03_960.jpg",
+    "ShowName": "Managing Exchange Online Using PowerShell",
+    "VideoLength": "00:26:56",
+    "VideoTitle": "Managing Exchange Online Using PowerShell: (03) Managing Recipients",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:56:47.678297Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/037b/f703a5f7-57f8-4711-8226-f053cd12037b/ManagingExchangeOnlineUsingPowerShellM03_mid.mp4",
+    "Description": "Use PowerShell to create and configure mailboxes, recipients types, address lists and policies, and public folders. [09:58] - Managing Different Recipient types[20:20] - What about Address Lists and P"
+  },
+  {
+    "VideoId": "e80bca33-3911-4da4-b664-a38f0182804a",
+    "DataApi": "/Entries(guid'e80bca33-3911-4da4-b664-a38f0182804a')/",
+    "VideoPageLink": "/Series/Managing-Exchange-Online-Using-PowerShell/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/70c5/671751fa-85bf-44d7-ae55-8846beba70c5/ManagingExchangeOnlineUsingPowerShellM04_960.jpg",
+    "ShowName": "Managing Exchange Online Using PowerShell",
+    "VideoLength": "00:15:33",
+    "VideoTitle": "Managing Exchange Online Using PowerShell: (04) Managing Client Connectivity",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:57:06.9611368Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/70c5/671751fa-85bf-44d7-ae55-8846beba70c5/ManagingExchangeOnlineUsingPowerShellM04_mid.mp4",
+    "Description": "Access Office 365 through Outlook Web App, Outlook, mobile devices, and apps. Explore how PowerShell can be used by administrators to control which client tools can be used to access Office 365. [00:5"
+  },
+  {
+    "VideoId": "b02a9c1e-e126-4c49-83dc-a38f018306ae",
+    "DataApi": "/Entries(guid'b02a9c1e-e126-4c49-83dc-a38f018306ae')/",
+    "VideoPageLink": "/Series/Managing-Exchange-Online-Using-PowerShell/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c980/3908af49-b7a9-4dab-a84e-c9ec76e8c980/ManagingExchangeOnlineUsingPowerShellM05_960.jpg",
+    "ShowName": "Managing Exchange Online Using PowerShell",
+    "VideoLength": "00:15:02",
+    "VideoTitle": "Managing Exchange Online Using PowerShell: (05) Configuring Administrative Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:57:28.1610744Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c980/3908af49-b7a9-4dab-a84e-c9ec76e8c980/ManagingExchangeOnlineUsingPowerShellM05_mid.mp4",
+    "Description": "Look at role-based access control (RBAC) and how user and administrators access can be managed using PowerShell. [01:28] - What is Role-Based Access Control[05:33] - Demo using Address ListsFull cours"
+  },
+  {
+    "VideoId": "4330cd8e-3e45-474d-bf0c-a38f01833d48",
+    "DataApi": "/Entries(guid'4330cd8e-3e45-474d-bf0c-a38f01833d48')/",
+    "VideoPageLink": "/Series/Managing-Exchange-Online-Using-PowerShell/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e35/7ca399b3-b9e2-4b08-a315-d893db0c3e35/ManagingExchangeOnlineUsingPowerShellM06_960.jpg",
+    "ShowName": "Managing Exchange Online Using PowerShell",
+    "VideoLength": "00:26:56",
+    "VideoTitle": "Managing Exchange Online Using PowerShell: (06) Compliance, Auditing, Journaling and More",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:57:48.1199438Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e35/7ca399b3-b9e2-4b08-a315-d893db0c3e35/ManagingExchangeOnlineUsingPowerShellM06_mid.mp4",
+    "Description": "Find out more about how data loss prevention, retention policies, journaling, e-discovery, and audit reporting can be configured and tuned using PowerShell. [01:00] - Configuring Data Loss Prevention["
+  },
+  {
+    "VideoId": "da8c8990-bf04-4574-b364-a38f01837af7",
+    "DataApi": "/Entries(guid'da8c8990-bf04-4574-b364-a38f01837af7')/",
+    "VideoPageLink": "/Series/Managing-Exchange-Online-Using-PowerShell/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2005/150660f3-0332-488d-bef0-5469603f2005/ManagingExchangeOnlineUsingPowerShellM07_960.jpg",
+    "ShowName": "Managing Exchange Online Using PowerShell",
+    "VideoLength": "00:12:52",
+    "VideoTitle": "Managing Exchange Online Using PowerShell: (07) Protection Settings",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:58:05.3943276Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2005/150660f3-0332-488d-bef0-5469603f2005/ManagingExchangeOnlineUsingPowerShellM07_mid.mp4",
+    "Description": "Take a closer look at setting Malware filters, Connection filters, Content filters, and Quarantine using PowerShell. [01:16] - Malware Filters[04:12] - Connection Filters[05:57] - Content Filters[07:1"
+  }
+]

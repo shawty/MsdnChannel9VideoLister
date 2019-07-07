@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d9492b7f-7bc8-4e70-a7d1-a3bf0123740f",
+    "DataApi": "/Entries(guid'd9492b7f-7bc8-4e70-a7d1-a3bf0123740f')/",
+    "VideoPageLink": "/Series/Top-Support-Issues-for-Exchange-Online/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aa62/483818dc-6158-4e46-9481-f79965c3aa62/TopSupportIssuesExchangeOnlineM02_960.jpg",
+    "ShowName": "Top Support Issues for Exchange Online",
+    "VideoLength": "00:18:05",
+    "VideoTitle": "Top Support Issues for Exchange Online: (02) Deployoment Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:50:51.8941393Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aa62/483818dc-6158-4e46-9481-f79965c3aa62/TopSupportIssuesExchangeOnlineM02_mid.mp4",
+    "Description": "Focus on support questions related to service descriptions, the Office 365 Trust Center, and the Office 365 Deployment Guide. [02:04] - Service Descriptions[10:11] - Office 365 Trust Center[14:18] - O"
+  },
+  {
+    "VideoId": "c77cdd6f-17d7-4d1b-b226-a3bf0123ab41",
+    "DataApi": "/Entries(guid'c77cdd6f-17d7-4d1b-b226-a3bf0123ab41')/",
+    "VideoPageLink": "/Series/Top-Support-Issues-for-Exchange-Online/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2e2f/94cff2f7-3e80-420c-8f88-e0a96cfb2e2f/TopSupportIssuesExchangeOnlineM03_960.jpg",
+    "ShowName": "Top Support Issues for Exchange Online",
+    "VideoLength": "00:18:11",
+    "VideoTitle": "Top Support Issues for Exchange Online: (03) Deployment Readiness",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:50:59.8541142Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2e2f/94cff2f7-3e80-420c-8f88-e0a96cfb2e2f/TopSupportIssuesExchangeOnlineM03_mid.mp4",
+    "Description": "Get the details on support issues related to the tenant name, tenant sign-up, Onramp.Office365.com, and IDFix. [17:28] - Tenant Name[10:48] - IdFix[16:53] - deploy.office.comFull course outline: Mod 0"
+  },
+  {
+    "VideoId": "fedcc50c-94de-472c-9a35-a3bf0123ef4c",
+    "DataApi": "/Entries(guid'fedcc50c-94de-472c-9a35-a3bf0123ef4c')/",
+    "VideoPageLink": "/Series/Top-Support-Issues-for-Exchange-Online/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6ea5/a518a74b-d5a3-4db8-aeab-dcf2e1346ea5/TopSupportIssuesExchangeOnlineM04_960.jpg",
+    "ShowName": "Top Support Issues for Exchange Online",
+    "VideoLength": "00:33:04",
+    "VideoTitle": "Top Support Issues for Exchange Online: (04) Migration Readiness",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:51:20.2015681Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6ea5/a518a74b-d5a3-4db8-aeab-dcf2e1346ea5/TopSupportIssuesExchangeOnlineM04_mid.mp4",
+    "Description": "Examine the top support issues related to migrating Exchange from an on-premises environment to Exchange Online, including email address policy, mailbox moves, Office 365 throttling, migration perform"
+  },
+  {
+    "VideoId": "61bd37a9-659f-4d9a-b620-a3bf0124284c",
+    "DataApi": "/Entries(guid'61bd37a9-659f-4d9a-b620-a3bf0124284c')/",
+    "VideoPageLink": "/Series/Top-Support-Issues-for-Exchange-Online/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bbd7/16ddf638-a538-4ec7-84eb-6db88318bbd7/TopSupportIssuesExchangeOnlineM05_960.jpg",
+    "ShowName": "Top Support Issues for Exchange Online",
+    "VideoLength": "01:00:07",
+    "VideoTitle": "Top Support Issues for Exchange Online: (05) Most Common Support Issues",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:51:48.4990505Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bbd7/16ddf638-a538-4ec7-84eb-6db88318bbd7/TopSupportIssuesExchangeOnlineM05_mid.mp4",
+    "Description": "Look at the top support issues related to network connectivity, IP address and URL requirements, client requirements, Outlook connectivity, OST files, shared mailboxes, ActiveSync, Free Busy, and acti"
+  },
+  {
+    "VideoId": "fcd5dc00-eb9a-4db9-9a0b-a3bf012470f2",
+    "DataApi": "/Entries(guid'fcd5dc00-eb9a-4db9-9a0b-a3bf012470f2')/",
+    "VideoPageLink": "/Series/Top-Support-Issues-for-Exchange-Online/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d736/9b7e632c-f3e9-4806-b5e0-df2360bcd736/TopSupportIssuesExchangeOnlineM06_960.jpg",
+    "ShowName": "Top Support Issues for Exchange Online",
+    "VideoLength": "00:08:27",
+    "VideoTitle": "Top Support Issues for Exchange Online: (06) Troubleshooting Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:52:06.6048604Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d736/9b7e632c-f3e9-4806-b5e0-df2360bcd736/TopSupportIssuesExchangeOnlineM06_mid.mp4",
+    "Description": "Hear about the tools used to troubleshoot issues with Exchange Online, including the Remote Connectivity Analyzer, Microsoft Online Services Diagnostics and Logging Toolkit, OffCat, and walk-throughs."
+  }
+]

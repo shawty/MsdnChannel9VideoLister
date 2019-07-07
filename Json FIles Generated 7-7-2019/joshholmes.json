@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "18f40392-dec6-4067-8f0d-9ebb017d96fe",
+    "DataApi": "/Entries(guid'18f40392-dec6-4067-8f0d-9ebb017d96fe')/",
+    "VideoPageLink": "/Blogs/joshholmes/Bart-de-Smet-in-Dublin-on-the-Rx-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/96fe/18f40392-dec6-4067-8f0d-9ebb017d96fe/BartdeSmetinDublinOnRxFramework_512_ch9.jpg",
+    "ShowName": "joshholmes",
+    "VideoLength": "02:15:22",
+    "VideoTitle": "Alt.Net Dublin: Bart de Smet on Rx ",
+    "Author": "joshholmes",
+    "UtcDateTimePublished": "2011-04-07T07:02:59Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/96fe/18f40392-dec6-4067-8f0d-9ebb017d96fe/BartdeSmetinDublinOnRxFramework_low_ch9.mp4",
+    "Description": " &lt;disclaimer&gt;I'm posting this on behalf of Dublin Alt.Net and have made no edits of my own.  Well, other than this disclaimer... &lt;/disclaimer&gt; Bart de Smet was in Dublin to talk about the "
+  },
+  {
+    "VideoId": "a586aef1-6d30-4d05-886d-9e8e00ee8ef0",
+    "DataApi": "/Entries(guid'a586aef1-6d30-4d05-886d-9e8e00ee8ef0')/",
+    "VideoPageLink": "/Blogs/joshholmes/Welcome-to-WebMatrix-Event-In-Ireland-Josh-Holmes-on-MVC3-Part-4-of-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ef0/a586aef1-6d30-4d05-886d-9e8e00ee8ef0/WelcometoWebMatrixEventinIrelandJoshHolmesPart4of4_512_ch9.jpg",
+    "ShowName": "joshholmes",
+    "VideoLength": "00:16:45",
+    "VideoTitle": "Welcome to WebMatrix Event In Ireland - Josh Holmes on MVC3 (Part 4 of 4)",
+    "Author": "joshholmes",
+    "UtcDateTimePublished": "2011-02-21T12:31:16Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ef0/a586aef1-6d30-4d05-886d-9e8e00ee8ef0/WelcometoWebMatrixEventinIrelandJoshHolmesPart4of4_low_ch9.mp4",
+    "Description": " The Welcome to WebMatrix Event in Ireland Part 4 of 4 features Josh Holmes talking about ASP.NET MVC Framework 3, NuGet and more. "
+  },
+  {
+    "VideoId": "fe91767c-6e82-4786-8a17-9e8e00e2b1b7",
+    "DataApi": "/Entries(guid'fe91767c-6e82-4786-8a17-9e8e00e2b1b7')/",
+    "VideoPageLink": "/Blogs/joshholmes/Welcome-to-WebMatrix-Event-In-Ireland-Ryan-Ozimek-on-Joomla-Part-3-of-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b1b7/fe91767c-6e82-4786-8a17-9e8e00e2b1b7/WelcometoWebMatrixEventinIrelandRyanOzimekPart3of4_512_ch9.jpg",
+    "ShowName": "joshholmes",
+    "VideoLength": "00:19:29",
+    "VideoTitle": "Welcome to WebMatrix Event In Ireland - Ryan Ozimek on Joomla! (Part 3 of 4)",
+    "Author": "joshholmes",
+    "UtcDateTimePublished": "2011-02-21T12:30:43Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b1b7/fe91767c-6e82-4786-8a17-9e8e00e2b1b7/WelcometoWebMatrixEventinIrelandRyanOzimekPart3of4_low_ch9.mp4",
+    "Description": " The Welcome to WebMatrix Event in Ireland Part 3 of 4 features Josh Holmes and Ryan Ozimek talking about WebMatrix, PHP on Windows and Joomla!. Ryan goes into a deep discussion about the relationship"
+  },
+  {
+    "VideoId": "1ddfd99d-4a30-4e28-931e-9e8e00850c08",
+    "DataApi": "/Entries(guid'1ddfd99d-4a30-4e28-931e-9e8e00850c08')/",
+    "VideoPageLink": "/Blogs/joshholmes/Welcome-to-WebMatrix-Event-In-Ireland-Cathal-Connolly-on-DNN-Part-2-of-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0c08/1ddfd99d-4a30-4e28-931e-9e8e00850c08/WelcometoWebMatrixEventinIrelandCathalConnollyPart2of4_512_ch9.jpg",
+    "ShowName": "joshholmes",
+    "VideoLength": "00:16:28",
+    "VideoTitle": "Welcome to WebMatrix Event In Ireland - Cathal Connolly on DNN (Part 2 of 4)",
+    "Author": "joshholmes",
+    "UtcDateTimePublished": "2011-02-21T12:29:05Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0c08/1ddfd99d-4a30-4e28-931e-9e8e00850c08/WelcometoWebMatrixEventinIrelandCathalConnollyPart2of4_low_ch9.mp4",
+    "Description": " The Welcome to WebMatrix Event in Ireland Part 2 of 4 features Josh Holmes and Cathal Connolly talking about WebMatrix, the new Razor syntax and DotNetNuke. Cathal demos how easy it is to work with a"
+  },
+  {
+    "VideoId": "2d37ef4e-e7f9-4bf8-8cc6-9e8d014c222c",
+    "DataApi": "/Entries(guid'2d37ef4e-e7f9-4bf8-8cc6-9e8d014c222c')/",
+    "VideoPageLink": "/Blogs/joshholmes/Welcome-to-WebMatrix-Event-In-Ireland-Josh-Holmes-Part-1-of-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/222C/2D37EF4E-E7F9-4BF8-8CC6-9E8D014C222C/WelcometoWebMatrixEventinIrelandJoshHolmesPart1of4_512_ch9.jpg",
+    "ShowName": "joshholmes",
+    "VideoLength": "00:26:11",
+    "VideoTitle": "Welcome to WebMatrix Event In Ireland - Josh Holmes (Part 1 of 4)",
+    "Author": "joshholmes",
+    "UtcDateTimePublished": "2011-02-21T12:28:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/222C/2D37EF4E-E7F9-4BF8-8CC6-9E8D014C222C/WelcometoWebMatrixEventinIrelandJoshHolmesPart1of4_low_ch9.mp4",
+    "Description": " The Welcome to WebMatrix Event in Ireland Part 1 of 4 features Josh Holmes talking about WebMatrix and the new Razor syntax. Additionally, he demos how easy it is to create a web site from scratch. "
+  },
+  {
+    "VideoId": "545d854b-6a1a-4ed8-a0f8-9deb0007a73f",
+    "DataApi": "/Entries(guid'545d854b-6a1a-4ed8-a0f8-9deb0007a73f')/",
+    "VideoPageLink": "/Blogs/joshholmes/Code-to-Live-Sara-Ford",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8/3/1/5/2/5/CodeToLiveSaraFordCodeMash_512_ch9.png",
+    "ShowName": "joshholmes",
+    "VideoLength": "00:04:14",
+    "VideoTitle": "Code to Live - Sara Ford",
+    "Author": "joshholmes",
+    "UtcDateTimePublished": "2010-02-02T03:18:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8/3/1/5/2/5/CodeToLiveSaraFordCodeMash_ch9.mp4",
+    "Description": "At CodeMash, which turned out to be her last event as a PM on the CodePlex.com team, Sara Ford was awesome enough to sit down with us and share a little bit of her passion.\n"
+  },
+  {
+    "VideoId": "0f7404a6-e97e-4abc-9f58-9deb0189b7a9",
+    "DataApi": "/Entries(guid'0f7404a6-e97e-4abc-9f58-9deb0189b7a9')/",
+    "VideoPageLink": "/Blogs/joshholmes/Code-to-Live-Dancing-in-the-Moonlight-with-Miguel-de-Icaza",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

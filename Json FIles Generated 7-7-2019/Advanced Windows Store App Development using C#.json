@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "494821ec-2f19-488f-8bba-a1cb00026666",
+    "DataApi": "/Entries(guid'494821ec-2f19-488f-8bba-a1cb00026666')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-02-Responsive-Design",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6116/63e66768-7e13-46c2-89fa-684ab7c16116/AdvCSharp02_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "00:51:41",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (02) Responsive Design",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:55:48.2940036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6116/63e66768-7e13-46c2-89fa-684ab7c16116/AdvCSharp02_mid.mp4",
+    "Description": "To have a powerful app, it needs to scale. In this session learn best practices on scaling and visual states and localization. [01:34] - Scaling[07:31] - Visual States[24:51] - LocalizationFull course"
+  },
+  {
+    "VideoId": "0607912d-b847-4a28-90c0-a1cb00031b22",
+    "DataApi": "/Entries(guid'0607912d-b847-4a28-90c0-a1cb00031b22')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-03-Branding",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a80/421f031e-652e-454e-8957-0aab67445a80/AdvCSharp03_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "01:00:10",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (03) Branding",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:56:06.4485626Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a80/421f031e-652e-454e-8957-0aab67445a80/AdvCSharp03_mid.mp4",
+    "Description": "Get ready to review custom styles and how to extend splash. This session will also provide an overview of secondary tiles and style themes. [02:18] - Custom styles[21:21] - Extended splash[33:23] - Se"
+  },
+  {
+    "VideoId": "94818641-558c-48dd-9f00-a1cb00037e19",
+    "DataApi": "/Entries(guid'94818641-558c-48dd-9f00-a1cb00037e19')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-04-Reusable-Controls",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8345/739204f0-95a0-4b1f-a021-6da6e0e78345/AdvCSharp04_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "00:37:55",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (04) Reusable Controls",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:56:24.567067Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8345/739204f0-95a0-4b1f-a021-6da6e0e78345/AdvCSharp04_mid.mp4",
+    "Description": "When you build an app, you will need to address custom and user controls. This modules covers various controls from custom layout and composition, custom implementation, reusable controls and how Wind"
+  },
+  {
+    "VideoId": "82e8bfb2-bbd0-4d1e-85b6-a1cb0003cb1e",
+    "DataApi": "/Entries(guid'82e8bfb2-bbd0-4d1e-85b6-a1cb0003cb1e')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-05-Advanced-Contracts-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e07/440263ab-c0b1-4001-858c-a6406c884e07/AdvCSharp05_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "00:56:33",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (05) Advanced Contracts Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:56:46.0869542Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e07/440263ab-c0b1-4001-858c-a6406c884e07/AdvCSharp05_mid.mp4",
+    "Description": "This session provides an overview of printing and settings contract. Printing other than trivial content is hard, learn more on how to handle pagination, print preview and how to generate the actual p"
+  },
+  {
+    "VideoId": "ca872a77-e147-4e2a-95eb-a1cb000415c1",
+    "DataApi": "/Entries(guid'ca872a77-e147-4e2a-95eb-a1cb000415c1')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-06-Advanced-Contracts-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc60/cce0d249-a180-43e0-8a99-55b39004fc60/AdvCSharp06_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "00:54:53",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (06) Advanced Contracts Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:57:45.6004041Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc60/cce0d249-a180-43e0-8a99-55b39004fc60/AdvCSharp06_mid.mp4",
+    "Description": "In this part two module Jerry and Daren cover Search and PlayTo contracts. Enjoy the numerous demos on how to execute these. [01:18] - Search contract[30:58] - PlayTo contractFull course outline: Mod "
+  },
+  {
+    "VideoId": "39c5e7d6-6ccd-40e3-90df-a1cb00045a12",
+    "DataApi": "/Entries(guid'39c5e7d6-6ccd-40e3-90df-a1cb00045a12')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-07-Media",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/24cf/17db8613-3816-4802-b474-00d6d4f024cf/AdvCSharp07_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "00:44:29",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (07) Media",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:58:34.2169609Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/24cf/17db8613-3816-4802-b474-00d6d4f024cf/AdvCSharp07_mid.mp4",
+    "Description": "Key parts of a successful app are images. Learn more on the best processes for capturing the best images to promote your app. [02:07] - Photo capture[17:20] - Protocol activationFull course outline: M"
+  },
+  {
+    "VideoId": "f2d7ccda-5bcb-4c65-b478-a1cb0004b233",
+    "DataApi": "/Entries(guid'f2d7ccda-5bcb-4c65-b478-a1cb0004b233')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-using-C-/Advanced-Windows-Store-App-Development-using-C-08-Advanced-Features",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1d04/f02be112-3a2d-4ccc-b765-d5ed299e1d04/AdvCSharp08_960.jpg",
+    "ShowName": "Advanced Windows Store App Development using C#",
+    "VideoLength": "00:54:56",
+    "VideoTitle": "Advanced Windows Store App Development using C#: (08) Advanced Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-28T22:59:00.1483833Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1d04/f02be112-3a2d-4ccc-b765-d5ed299e1d04/AdvCSharp08_mid.mp4",
+    "Description": "Finally this module provides an overview on how to best manage your apps. You will receive an overview on Windows Live SDK, Microsoft Account and using SkyDrive. [01:30] - Windows Live SDK[06:40] - Mi"
+  }
+]

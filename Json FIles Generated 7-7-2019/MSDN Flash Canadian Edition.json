@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "4343bf3b-02bf-4b16-99f6-a55a01666259",
+    "DataApi": "/Entries(guid'4343bf3b-02bf-4b16-99f6-a55a01666259')/",
+    "VideoPageLink": "/Series/MSDN-Flash-Canadian-Edition/s01e02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4cd2/a928e730-15c5-4263-a6e1-16eac74b4cd2/MSDNNovember2015_960.jpg",
+    "ShowName": "MSDN Flash: Canadian Edition",
+    "VideoLength": "00:16:14",
+    "VideoTitle": "MSDN Flash November 2015: Connect();, OSS, Microsoft Band, Hour of Code, DevOps + more",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-11-25T20:37:43.7416859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4cd2/a928e730-15c5-4263-a6e1-16eac74b4cd2/MSDNNovember2015_mid.mp4",
+    "Description": "Episode #2 is finally out! This time, our dev boys Jonathan and Lacho are paying a visit to our very own Microsoft Store (Yorkdale) to take a peek at the Microsoft Band 2 launch in Canada. Here are al"
+  },
+  {
+    "VideoId": "5b880acd-1593-4730-8cef-a56f014ed4a9",
+    "DataApi": "/Entries(guid'5b880acd-1593-4730-8cef-a56f014ed4a9')/",
+    "VideoPageLink": "/Series/MSDN-Flash-Canadian-Edition/s01e03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9e28/36d9d9b7-fe79-4cfc-adb8-f41859b09e28/MSDNFlashHoliday_960.jpg",
+    "ShowName": "MSDN Flash: Canadian Edition",
+    "VideoLength": "00:12:20",
+    "VideoTitle": "MSDN Flash December 2015 - MVP Tech Talk, OSS, Breakpoint, and Canadian Developer Connection",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-12-18T04:17:28.3196349Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9e28/36d9d9b7-fe79-4cfc-adb8-f41859b09e28/MSDNFlashHoliday_mid.mp4",
+    "Description": "The holiday season has officially begun! This month, our techy and adventurous hosts Jonathan and Lacho are taking a journey to the world of Visual Studio, OSS, Windows 10 Build 1511 and more. Here is"
+  },
+  {
+    "VideoId": "dbc96a8b-4364-48c2-af43-a58d00efff1e",
+    "DataApi": "/Entries(guid'dbc96a8b-4364-48c2-af43-a58d00efff1e')/",
+    "VideoPageLink": "/Series/MSDN-Flash-Canadian-Edition/s01e04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7437/7eb342a3-1ef9-4e3d-a0a8-7ef80cba7437/Corrected_960.jpg",
+    "ShowName": "MSDN Flash: Canadian Edition",
+    "VideoLength": "00:11:10",
+    "VideoTitle": "MSDN Flash January 2016 - 2015 In Review, BreakPoint, JavaScript Open Day, GitHub + more",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-02-08T04:24:34.2211159Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7437/7eb342a3-1ef9-4e3d-a0a8-7ef80cba7437/Corrected_mid.mp4",
+    "Description": "This month's Flash is Jonathan and Lacho's 2016 kick-off. Get ready for a ton of new and exciting updates &#43; a little hint on something really interesting that is coming up soon. Here is a summary:"
+  },
+  {
+    "VideoId": "178b59b4-d008-4236-ad1a-a5c3005e54c2",
+    "DataApi": "/Entries(guid'178b59b4-d008-4236-ad1a-a5c3005e54c2')/",
+    "VideoPageLink": "/Series/MSDN-Flash-Canadian-Edition/MSDN-Flash-March-2016-Make-Web-Not-War-iOS-to-Windows-ASP-NET-Monsters--more",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf89/25686fdd-b4ee-465a-82e9-50a8d8b1bf89/MSDNFlashMarch_960.jpg",
+    "ShowName": "MSDN Flash: Canadian Edition",
+    "VideoLength": "00:12:22",
+    "VideoTitle": "MSDN Flash March 2016 - Make Web Not War, iOS to Windows, ASP .NET Monsters + more",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-09T01:55:32.8727887Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf89/25686fdd-b4ee-465a-82e9-50a8d8b1bf89/MSDNFlashMarch_mid.mp4",
+    "Description": "Hosts JR and Lacho are on a mission to arm you with the latest developer tools, news and shows. Keep your eyes and browsers open, because a tornado of content is about to sneak up on you. This Month i"
+  },
+  {
+    "VideoId": "a1e86072-01a5-4cb4-9c2c-a5ec00334655",
+    "DataApi": "/Entries(guid'a1e86072-01a5-4cb4-9c2c-a5ec00334655')/",
+    "VideoPageLink": "/Series/MSDN-Flash-Canadian-Edition/MSDN-Flash-April-2016-Bash-on-Windows-Hack-Your-World-The-Future-of-C-UWP--more",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae1b/e630e785-202d-4116-aa56-e71a79dfae1b/MSDNFlashApril_960.jpg",
+    "ShowName": "MSDN Flash: Canadian Edition",
+    "VideoLength": "00:10:05",
+    "VideoTitle": "MSDN Flash April 2016 - Bash on Windows, Hack Your World, The Future of C#, UWP + more",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-04-18T18:34:19.2696373Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae1b/e630e785-202d-4116-aa56-e71a79dfae1b/MSDNFlashApril_mid.mp4",
+    "Description": "Hosts JR and Lacho are on a mission to arm you with the latest developer tools, news and shows. Keep your eyes and browsers open, because a tornado of content is about to sneak up on you. This Month i"
+  },
+  {
+    "VideoId": "85d8304b-61a2-43d0-8535-a605002d974f",
+    "DataApi": "/Entries(guid'85d8304b-61a2-43d0-8535-a605002d974f')/",
+    "VideoPageLink": "/Series/MSDN-Flash-Canadian-Edition/MSDN-Flash-May-Accelerating-the-Canadian-Cloud",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fabb/27dabb07-57d8-4d28-b29e-3ed4fb1dfabb/MayFlash_960.jpg",
+    "ShowName": "MSDN Flash: Canadian Edition",
+    "VideoLength": "00:09:47",
+    "VideoTitle": "MSDN Flash May: Accelerating the Canadian Cloud! ",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-05-15T20:17:48.5389388Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fabb/27dabb07-57d8-4d28-b29e-3ed4fb1dfabb/MayFlash_mid.mp4",
+    "Description": "Hosts JR and Lacho are on a mission to arm you with the latest developer tools, news and shows. Keep your eyes and browsers open, because a tornado of content is about to sneak up on you. This Month i"
+  }
+]

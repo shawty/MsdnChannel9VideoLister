@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "bc65b6c6-3af8-487f-83f2-a79300faa063",
+    "DataApi": "/Entries(guid'bc65b6c6-3af8-487f-83f2-a79300faa063')/",
+    "VideoPageLink": "/Shows/Mission-Mars-Videos/Azure-Functions-Intro",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c017/7032b992-fd23-4822-ace9-bbfd5612c017/MissionMarsAzureFunctionsIntro_960.jpg",
+    "ShowName": "Mission Mars Videos",
+    "VideoLength": "00:00:24",
+    "VideoTitle": "Azure Functions Intro",
+    "Author": "Tommy Patterson",
+    "UtcDateTimePublished": "2017-06-15T15:33:06.4409695Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c017/7032b992-fd23-4822-ace9-bbfd5612c017/MissionMarsAzureFunctionsIntro_mid.mp4",
+    "Description": "Mission Mars - Azure Functions Intro "
+  },
+  {
+    "VideoId": "5a128df0-8ab8-4e60-ab59-a79300fb00cb",
+    "DataApi": "/Entries(guid'5a128df0-8ab8-4e60-ab59-a79300fb00cb')/",
+    "VideoPageLink": "/Shows/Mission-Mars-Videos/Cognitive-Services-Intro",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c73f/98f162fc-f3cf-4dee-9f3b-5e9df9f7c73f/MissionMarsCognitiveServicesIntro_960.jpg",
+    "ShowName": "Mission Mars Videos",
+    "VideoLength": "00:00:29",
+    "VideoTitle": "Cognitive Services Intro",
+    "Author": "Tommy Patterson",
+    "UtcDateTimePublished": "2017-06-15T15:32:35.3652781Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c73f/98f162fc-f3cf-4dee-9f3b-5e9df9f7c73f/MissionMarsCognitiveServicesIntro_mid.mp4",
+    "Description": "Mission Mars - Cognitive Services Intro "
+  }
+]

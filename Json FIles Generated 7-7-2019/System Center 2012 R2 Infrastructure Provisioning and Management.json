@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "8fd439ad-3478-4025-ab9c-a258015b79a5",
+    "DataApi": "/Entries(guid'8fd439ad-3478-4025-ab9c-a258015b79a5')/",
+    "VideoPageLink": "/Series/SysCenter2012R2-Infra-Provisioning-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2ab7/7473fbf0-4f29-4e36-b4e6-51aed77f2ab7/SysCtr2012R2InfraProvManageM02_960.jpg",
+    "ShowName": "System Center 2012 R2 Infrastructure Provisioning and Management",
+    "VideoLength": "00:35:13",
+    "VideoTitle": "System Center 2012 R2 Infrastructure Provisioning and Management: (02) Constructing The Private Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-15T23:30:23.9591211Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2ab7/7473fbf0-4f29-4e36-b4e6-51aed77f2ab7/SysCtr2012R2InfraProvManageM02_mid.mp4",
+    "Description": "This module will show how you can assemble all of the different resources that you have and construct them together into a private cloud.  How you can take that cloud and divide up the resources to th"
+  },
+  {
+    "VideoId": "3dc1bead-f4dc-4324-b733-a258015bc3bf",
+    "DataApi": "/Entries(guid'3dc1bead-f4dc-4324-b733-a258015bc3bf')/",
+    "VideoPageLink": "/Series/SysCenter2012R2-Infra-Provisioning-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b323/4f3322b4-d9dd-42de-a4a3-18179b1bb323/SysCtr2012R2InfraProvManageM03_960.jpg",
+    "ShowName": "System Center 2012 R2 Infrastructure Provisioning and Management",
+    "VideoLength": "00:59:49",
+    "VideoTitle": "System Center 2012 R2 Infrastructure Provisioning and Management: (03) Day to Day Operations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-15T23:30:39.0551503Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b323/4f3322b4-d9dd-42de-a4a3-18179b1bb323/SysCtr2012R2InfraProvManageM03_mid.mp4",
+    "Description": "This module will cover day-to-day operations, and how to keep your environment running, deploy new services, and the underlying architecture. [00:33] - Day to day Operations[14:52] - Services and VM's"
+  }
+]

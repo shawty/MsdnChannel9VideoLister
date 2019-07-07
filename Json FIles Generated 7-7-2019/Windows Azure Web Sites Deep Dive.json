@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "cf2a7a08-f896-474c-8585-a296017c81a6",
+    "DataApi": "/Entries(guid'cf2a7a08-f896-474c-8585-a296017c81a6')/",
+    "VideoPageLink": "/Series/Windows-Azure-Web-Sites-Deep-Dive/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f2bb/8c8415aa-07c6-4a3d-8369-d8ed2176f2bb/WindowsAzureWebSitesDeepDiveM02_960.jpg",
+    "ShowName": "Windows Azure Web Sites Deep Dive",
+    "VideoLength": "00:40:09",
+    "VideoTitle": "Windows Azure Web Sites Deep Dive: (02) Know Thy Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:53:26.3192566Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f2bb/8c8415aa-07c6-4a3d-8369-d8ed2176f2bb/WindowsAzureWebSitesDeepDiveM02_mid.mp4",
+    "Description": "Find out about the development tools that you can use to deploy websites to WAWS. Learn the essential techniques for rapidly building and deploying websites from Visual Studio and WebMatrix. Discover "
+  },
+  {
+    "VideoId": "612af918-018f-4725-be56-a296017cddaa",
+    "DataApi": "/Entries(guid'612af918-018f-4725-be56-a296017cddaa')/",
+    "VideoPageLink": "/Series/Windows-Azure-Web-Sites-Deep-Dive/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/660f/fd741bc4-5390-42f5-a792-bfa7d4a5660f/WindowsAzureWebSitesDeepDiveM03_960.jpg",
+    "ShowName": "Windows Azure Web Sites Deep Dive",
+    "VideoLength": "00:46:55",
+    "VideoTitle": "Windows Azure Web Sites Deep Dive: (03) Continuous Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:53:51.4141019Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/660f/fd741bc4-5390-42f5-a792-bfa7d4a5660f/WindowsAzureWebSitesDeepDiveM03_mid.mp4",
+    "Description": "WAWS provides built-in support for several of the popular source control management (SCM) systems required for all development projects, such as Visual Studio Online and GitHub. In agile development e"
+  },
+  {
+    "VideoId": "72602735-23ce-4a50-aab8-a296017d3302",
+    "DataApi": "/Entries(guid'72602735-23ce-4a50-aab8-a296017d3302')/",
+    "VideoPageLink": "/Series/Windows-Azure-Web-Sites-Deep-Dive/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1740/a081feea-6a9d-4bed-8bb8-f07c7f5d1740/WindowsAzureWebSitesDeepDiveM04_960.jpg",
+    "ShowName": "Windows Azure Web Sites Deep Dive",
+    "VideoLength": "01:10:35",
+    "VideoTitle": "Windows Azure Web Sites Deep Dive: (04) Scaling and Configuration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:54:28.0220681Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1740/a081feea-6a9d-4bed-8bb8-f07c7f5d1740/WindowsAzureWebSitesDeepDiveM04_mid.mp4",
+    "Description": "As a developer working in the cloud, you don't have to worry about the hardware required to scale your website. WAWS offers both scale-up and scale-out options that you can implement in minutes. You'l"
+  },
+  {
+    "VideoId": "f2bd5d6e-6b3a-4db8-b8da-a296017d5358",
+    "DataApi": "/Entries(guid'f2bd5d6e-6b3a-4db8-b8da-a296017d5358')/",
+    "VideoPageLink": "/Series/Windows-Azure-Web-Sites-Deep-Dive/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1417/82837622-ed7d-4936-81fc-eeb08e5c1417/WindowsAzureWebSitesDeepDiveM05_960.jpg",
+    "ShowName": "Windows Azure Web Sites Deep Dive",
+    "VideoLength": "00:36:58",
+    "VideoTitle": "Windows Azure Web Sites Deep Dive: (05) Go-Live Checklist",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:55:01.6622517Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1417/82837622-ed7d-4936-81fc-eeb08e5c1417/WindowsAzureWebSitesDeepDiveM05_mid.mp4",
+    "Description": "Learn about the most valuable skills you'll need to prepare your site for production. We will cover topics such as security, performance, high availability, search engine optimization, caching, and do"
+  },
+  {
+    "VideoId": "9c121dc2-0b2a-420d-99e7-a296017dde85",
+    "DataApi": "/Entries(guid'9c121dc2-0b2a-420d-99e7-a296017dde85')/",
+    "VideoPageLink": "/Series/Windows-Azure-Web-Sites-Deep-Dive/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a8c5/50debb19-134a-4a08-a9c3-4ebe589ea8c5/WindowsAzureWebSitesDeepDiveM06_960.jpg",
+    "ShowName": "Windows Azure Web Sites Deep Dive",
+    "VideoLength": "00:37:03",
+    "VideoTitle": "Windows Azure Web Sites Deep Dive: (06) Case Studies",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:55:39.9496412Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a8c5/50debb19-134a-4a08-a9c3-4ebe589ea8c5/WindowsAzureWebSitesDeepDiveM06_mid.mp4",
+    "Description": "Gain the essential skills you'll need to migrate any website to WAWS. Learn how to use the Web Site Capability model, which will help you visualize the current and future state of your website. Throug"
+  },
+  {
+    "VideoId": "7441f9b0-95a3-48db-9e7c-a296017e252f",
+    "DataApi": "/Entries(guid'7441f9b0-95a3-48db-9e7c-a296017e252f')/",
+    "VideoPageLink": "/Series/Windows-Azure-Web-Sites-Deep-Dive/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/60f0/cfa30daa-f1da-4efa-8842-8491f1d560f0/WindowsAzureWebSitesDeepDiveM07_960.jpg",
+    "ShowName": "Windows Azure Web Sites Deep Dive",
+    "VideoLength": "00:35:15",
+    "VideoTitle": "Windows Azure Web Sites Deep Dive: (07) Lightning Round",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T16:57:01.8738019Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/60f0/cfa30daa-f1da-4efa-8842-8491f1d560f0/WindowsAzureWebSitesDeepDiveM07_mid.mp4",
+    "Description": "The lightning round addresses solutions at a rapid pace. Through this exercise, you will hear real-world scenarios about building websites. We will cover topics such as building Node.js websites that "
+  }
+]

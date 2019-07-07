@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4284904e-fc90-4f78-987e-a5b40097a659",
+    "DataApi": "/Entries(guid'4284904e-fc90-4f78-987e-a5b40097a659')/",
+    "VideoPageLink": "/Series/Get-Swaying-Microsoft-Sway-In-Education/Microsoft-Sway-In-Education",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/08ae/d097e3e0-864c-4703-9a49-58c2202208ae/GetSwayinginMSSwayinEdu_960.jpg",
+    "ShowName": "Get Swaying! Microsoft Sway In Education",
+    "VideoLength": "00:44:48",
+    "VideoTitle": "Microsoft Sway In Education",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T12:19:41.0042495Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/08ae/d097e3e0-864c-4703-9a49-58c2202208ae/GetSwayinginMSSwayinEdu_mid.mp4",
+    "Description": "You can use Sway to create and share interactive reports, presentations and personal stories. "
+  }
+]

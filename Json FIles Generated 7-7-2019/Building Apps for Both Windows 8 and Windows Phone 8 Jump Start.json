@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "38add738-794f-496b-86ea-a16f00f65407",
+    "DataApi": "/Entries(guid'38add738-794f-496b-86ea-a16f00f65407')/",
+    "VideoPageLink": "/Series/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-Jump-Start/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-01b-Comparing-Windows-8-and-Windows-Phone-8-Par",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b94/01e7d991-13a3-44b9-85ec-6c54e3e26b94/W8WP8JSMod01b_512.jpg",
+    "ShowName": "Building Apps for Both Windows 8 and Windows Phone 8 Jump Start",
+    "VideoLength": "00:49:44",
+    "VideoTitle": "Building Apps for Both Windows 8 and Windows Phone 8: (01b) Comparing Windows 8 and Windows Phone 8, Part 2",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2013-02-26T22:44:56.1429381Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b94/01e7d991-13a3-44b9-85ec-6c54e3e26b94/W8WP8JSMod01b_mid.mp4",
+    "Description": "Windows 8 and Windows are not the same platform. This module will cover how they are different by going over the UI and XAML, Platform specific features and reviewing the data model and supporting cod"
+  },
+  {
+    "VideoId": "d650796c-6f78-4345-8f23-a16f00f54f9c",
+    "DataApi": "/Entries(guid'd650796c-6f78-4345-8f23-a16f00f54f9c')/",
+    "VideoPageLink": "/Series/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-Jump-Start/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-02-Basics-of-View-Models",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9564/6f48afdd-f627-4f1d-8618-a48637bc9564/W8WP8JSMod02_512.jpg",
+    "ShowName": "Building Apps for Both Windows 8 and Windows Phone 8 Jump Start",
+    "VideoLength": "00:28:26",
+    "VideoTitle": "Building Apps for Both Windows 8 and Windows Phone 8: (02) Basics of View Models",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2013-02-26T22:45:18.3929325Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9564/6f48afdd-f627-4f1d-8618-a48637bc9564/W8WP8JSMod02_mid.mp4",
+    "Description": "This session will go over Data binding basics and look further into Dependency object and  property. It will review properties for binding specifically INotifyPropertyChanged and INotifyCollectionChan"
+  },
+  {
+    "VideoId": "60c61614-524e-406f-9c4a-a16f0122ea3c",
+    "DataApi": "/Entries(guid'60c61614-524e-406f-9c4a-a16f0122ea3c')/",
+    "VideoPageLink": "/Series/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-Jump-Start/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-03-Model-View-ViewModel",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3aba/c7b83abd-9d40-4685-aecf-96cfef6d3aba/W8WP8JSMod03_512.jpg",
+    "ShowName": "Building Apps for Both Windows 8 and Windows Phone 8 Jump Start",
+    "VideoLength": "00:35:16",
+    "VideoTitle": "Building Apps for Both Windows 8 and Windows Phone 8: (03) Model-View-ViewModel",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2013-02-26T22:45:35.5689732Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3aba/c7b83abd-9d40-4685-aecf-96cfef6d3aba/W8WP8JSMod03_mid.mp4",
+    "Description": "This module introduces the user to MVVM (Model-View-ViewModel), the architecture and the Pros and cons. It will provide and overview for how to share code using MVVM, .NET portable class library as we"
+  },
+  {
+    "VideoId": "294c3318-bcc8-43cc-8e60-a16f01233a57",
+    "DataApi": "/Entries(guid'294c3318-bcc8-43cc-8e60-a16f01233a57')/",
+    "VideoPageLink": "/Series/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-Jump-Start/Building-Apps-for-Both-Windows-8-and-Windows-Phone-8-04-Sharing-Code-Between-Windows-8-and-Windows-P",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/048d/702f5e78-f2e3-4e9f-a405-6dd228e5048d/W8WP8JSMod04_512.jpg",
+    "ShowName": "Building Apps for Both Windows 8 and Windows Phone 8 Jump Start",
+    "VideoLength": "00:28:08",
+    "VideoTitle": "Building Apps for Both Windows 8 and Windows Phone 8: (04) Sharing Code Between Windows 8 and Windows Phone 8",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2013-02-26T22:45:56.5724681Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/048d/702f5e78-f2e3-4e9f-a405-6dd228e5048d/W8WP8JSMod04_mid.mp4",
+    "Description": "Ben creates live demos to show examples of how to maximize code reuse. This final segment will include an overview of reuse techniques such as portable library, shared source code, inheritance, condit"
+  }
+]

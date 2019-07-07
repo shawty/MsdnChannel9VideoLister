@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "cc157295-98dd-4678-9972-a3b60106bb16",
+    "DataApi": "/Entries(guid'cc157295-98dd-4678-9972-a3b60106bb16')/",
+    "VideoPageLink": "/Series/Lighting-Up-Real-Time-Web-Communications-with-SignalR/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1d78/95148aac-7dca-4989-bb6d-e5b5e00e1d78/LightUpRealTimeWebSignalRM02_960.jpg",
+    "ShowName": "Lighting Up Real-Time Web Communications with SignalR",
+    "VideoLength": "00:56:12",
+    "VideoTitle": "Lighting Up Real-Time Web Communications with SignalR: (02) SignalR on the Web",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-30T21:15:29.411856Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1d78/95148aac-7dca-4989-bb6d-e5b5e00e1d78/LightUpRealTimeWebSignalRM02_mid.mp4",
+    "Description": "Find out how to use SignalR in webpages and in new or existing applications. Start with a basic HTML page, and then build up to web applications with single page applications. Look at authorization, a"
+  },
+  {
+    "VideoId": "3a8bee0e-0def-4923-8f9d-a3b60106f2ea",
+    "DataApi": "/Entries(guid'3a8bee0e-0def-4923-8f9d-a3b60106f2ea')/",
+    "VideoPageLink": "/Series/Lighting-Up-Real-Time-Web-Communications-with-SignalR/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0098/559a7f34-bd80-4673-b6f2-50d72e610098/LightUpRealTimeWebSignalRM03_960.jpg",
+    "ShowName": "Lighting Up Real-Time Web Communications with SignalR",
+    "VideoLength": "01:00:57",
+    "VideoTitle": "Lighting Up Real-Time Web Communications with SignalR: (03) SignalR on the Client",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-30T21:15:47.6137434Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0098/559a7f34-bd80-4673-b6f2-50d72e610098/LightUpRealTimeWebSignalRM03_mid.mp4",
+    "Description": "Take advantage of real-time HTTP communications, beyond the browser, using SignalR's .NET client. Examine the SignalR-powered BrowserLink feature in Visual Studio 2013, and see lots of demos, includin"
+  },
+  {
+    "VideoId": "8f4d1cfc-c155-47dd-a664-a3b601072ae8",
+    "DataApi": "/Entries(guid'8f4d1cfc-c155-47dd-a664-a3b601072ae8')/",
+    "VideoPageLink": "/Series/Lighting-Up-Real-Time-Web-Communications-with-SignalR/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a244/b30208ab-56d4-4f5f-b8cd-38368c3ba244/LightUpRealTimeWebSignalRM04_960.jpg",
+    "ShowName": "Lighting Up Real-Time Web Communications with SignalR",
+    "VideoLength": "00:31:07",
+    "VideoTitle": "Lighting Up Real-Time Web Communications with SignalR: (04) Scaling with SignalR",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-30T21:16:06.20922Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a244/b30208ab-56d4-4f5f-b8cd-38368c3ba244/LightUpRealTimeWebSignalRM04_mid.mp4",
+    "Description": "Explore how to scale SignalR out across multiple-instance web farm scenarios. Learn about the SQL, Service Bus, and Redis backplane options and how to decide which is right for your application. [04:5"
+  },
+  {
+    "VideoId": "a2deca8f-8239-414e-9a48-a3b60107626e",
+    "DataApi": "/Entries(guid'a2deca8f-8239-414e-9a48-a3b60107626e')/",
+    "VideoPageLink": "/Series/Lighting-Up-Real-Time-Web-Communications-with-SignalR/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5df4/b33a2bf6-0e26-4eed-81de-a1bbb5c45df4/LightUpRealTimeWebSignalRM05_960.jpg",
+    "ShowName": "Lighting Up Real-Time Web Communications with SignalR",
+    "VideoLength": "00:46:53",
+    "VideoTitle": "Lighting Up Real-Time Web Communications with SignalR: (05) Q&A and Advanced Demos with the SignalR Team",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-30T21:16:24.811559Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5df4/b33a2bf6-0e26-4eed-81de-a1bbb5c45df4/LightUpRealTimeWebSignalRM05_mid.mp4",
+    "Description": "Watch Damian Edwards, SignalR co-founder and PM, to field  interesting questions from the audience. Damian shows off some more involved applications, including reliable user presence detection and in-"
+  }
+]

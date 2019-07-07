@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "436950af-f48e-4727-b7ac-a3870042bb82",
+    "DataApi": "/Entries(guid'436950af-f48e-4727-b7ac-a3870042bb82')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/03e5/a9207e01-b55c-4a7b-bd6c-a32a6f8403e5/Mod2_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: High Availability and Disaster Recovery",
+    "VideoLength": "00:19:54",
+    "VideoTitle": "(Module 2) Disaster Recovery in the Cloud with Hyper-V Backup and Replica",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T09:01:53Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/03e5/a9207e01-b55c-4a7b-bd6c-a32a6f8403e5/Mod2_mid.mp4",
+    "Description": "In this module you will learn that Windows Azure Backup is a cloud-based backup solution that enables server data to be backed up to and recovered from an off-premises datacenter (the cloud) to help p"
+  },
+  {
+    "VideoId": "826ebd0a-a2f1-425d-afcf-a3870043843d",
+    "DataApi": "/Entries(guid'826ebd0a-a2f1-425d-afcf-a3870043843d')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/902a/90b0b33e-f655-408a-97bc-dfb9959c902a/Mod3_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: High Availability and Disaster Recovery",
+    "VideoLength": "00:16:42",
+    "VideoTitle": "(Module 3) Keeping the Lights on with Hyper-V Live Migration",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T09:02:37Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/902a/90b0b33e-f655-408a-97bc-dfb9959c902a/Mod3_mid.mp4",
+    "Description": "In this module you will learn that in Windows Server 2012 R2 Hyper-V, you can configure a virtual machine so that it is stored on an SMB file share. You can then perform a live migration on this runni"
+  },
+  {
+    "VideoId": "3d199c46-d2f2-4a6b-a9d8-a3870043fd2e",
+    "DataApi": "/Entries(guid'3d199c46-d2f2-4a6b-a9d8-a3870043fd2e')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e5a7/0dc68a9d-3fcc-40ea-a4f4-eb0c1d8de5a7/Mod4_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: High Availability and Disaster Recovery",
+    "VideoLength": "00:22:27",
+    "VideoTitle": "(Module 4) Hyper-V Clustering",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T09:03:36Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e5a7/0dc68a9d-3fcc-40ea-a4f4-eb0c1d8de5a7/Mod4_mid.mp4",
+    "Description": "In this module you will learn more about Hyper-V clustering and how from a virtualization perspective, the Failover Cluster provides the VM with high availability. You will also learn that Windows Ser"
+  },
+  {
+    "VideoId": "b5d7c959-0948-4c46-ae49-a38700446d67",
+    "DataApi": "/Entries(guid'b5d7c959-0948-4c46-ae49-a38700446d67')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-High-Availability-and-Disaster-Recovery/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6f47/789d9831-392b-4cea-a7e5-c7dd0e916f47/Mod5_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: High Availability and Disaster Recovery",
+    "VideoLength": "01:16:37",
+    "VideoTitle": "(Module 5) DCIM and Putting it all Together",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T09:05:29Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6f47/789d9831-392b-4cea-a7e5-c7dd0e916f47/Mod5_mid.mp4",
+    "Description": "In this module you will learn about the capabilities of Microsoft VM and business continuity challenges that address the costs of protecting applications, the need to remotely monitor services and the"
+  }
+]

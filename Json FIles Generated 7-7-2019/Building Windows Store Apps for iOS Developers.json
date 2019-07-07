@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "3c8295d5-7fd5-43ca-9dca-a2040143d221",
+    "DataApi": "/Entries(guid'3c8295d5-7fd5-43ca-9dca-a2040143d221')/",
+    "VideoPageLink": "/Series/winstoreappios/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e19b/2a5c994a-03e9-493f-abbc-449b6de0e19b/WinStoreAppsiOSM02_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "01:06:48",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (02) C# for Objective-C developers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:20:11.7016018Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e19b/2a5c994a-03e9-493f-abbc-449b6de0e19b/WinStoreAppsiOSM02_mid.mp4",
+    "Description": "In this session you receive an overview of .Net run-time, C# language features, type system, and much more. Additionally learn about inspecting the runtime and the basic programming flow. [00:55] - .N"
+  },
+  {
+    "VideoId": "e22ad55a-9eb2-40be-87a8-a20401440af5",
+    "DataApi": "/Entries(guid'e22ad55a-9eb2-40be-87a8-a20401440af5')/",
+    "VideoPageLink": "/Series/winstoreappios/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b9b4/c21e4d89-6dbc-44fe-b07b-3a4ba5c7b9b4/WinStoreAppsiOSM03_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "00:31:04",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (03) Async programming and Networking Introduction",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:20:34.1301615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b9b4/c21e4d89-6dbc-44fe-b07b-3a4ba5c7b9b4/WinStoreAppsiOSM03_mid.mp4",
+    "Description": "This modules provides an overview of Async. Learn how WinRT is asynchronous vs. how Cocoa has blocks. [00:31] - Async overview [10:40] - Async demo [23:56] - Web services Full course outline: Mod 01: "
+  },
+  {
+    "VideoId": "6b0c2968-7217-4616-b12c-a2040144e10a",
+    "DataApi": "/Entries(guid'6b0c2968-7217-4616-b12c-a2040144e10a')/",
+    "VideoPageLink": "/Series/winstoreappios/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7aad/9ad633a3-4512-4dc5-b9ea-cd984d687aad/WinStoreAppsiOSM04_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "01:10:45",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (04) Introduction to XAML and UI Patterns for XAML Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:20:56.6839853Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7aad/9ad633a3-4512-4dc5-b9ea-cd984d687aad/WinStoreAppsiOSM04_mid.mp4",
+    "Description": "This section introduces you the XAML and its controls, content model, core controls, panels &amp; layouts. See numerous demos on how it all works. [01:51] - Introducing XAML [26:22] - Panels &amp; lay"
+  },
+  {
+    "VideoId": "81cd76cb-e7a8-4be8-8fba-a2040145c9ec",
+    "DataApi": "/Entries(guid'81cd76cb-e7a8-4be8-8fba-a2040145c9ec')/",
+    "VideoPageLink": "/Series/winstoreappios/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6dbc/4568b238-3e2f-43e0-8ec2-6edda1406dbc/WinStoreAppsiOSM05_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "00:41:56",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (05) App Model and Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:21:22.2725595Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6dbc/4568b238-3e2f-43e0-8ec2-6edda1406dbc/WinStoreAppsiOSM05_mid.mp4",
+    "Description": "Learn about the building blocks of an app package and look inside the iOS App bundle vs. the Windows App package. Discover the App manifest and capabilities, process isolation and more. [00:40] - Wind"
+  },
+  {
+    "VideoId": "dbc26879-d37e-4081-a4d9-a204014664a6",
+    "DataApi": "/Entries(guid'dbc26879-d37e-4081-a4d9-a204014664a6')/",
+    "VideoPageLink": "/Series/winstoreappios/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e68/e5f05e9a-47c8-4aa5-8cf4-9968d5de5e68/WinStoreAppsiOSM06_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "00:30:30",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (06) Contracts",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:21:39.1931603Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e68/e5f05e9a-47c8-4aa5-8cf4-9968d5de5e68/WinStoreAppsiOSM06_mid.mp4",
+    "Description": "Most apps have rich content that users want to find and act upon, share, save or enhance in other apps, print, send to devices to name a few wants. This session goes over how this is possible with con"
+  },
+  {
+    "VideoId": "e72bcb6a-f45c-48f6-940f-a2040146df9e",
+    "DataApi": "/Entries(guid'e72bcb6a-f45c-48f6-940f-a2040146df9e')/",
+    "VideoPageLink": "/Series/winstoreappios/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0905/58148118-98e2-46d4-bd16-75e299960905/WinStoreAppsiOSM07_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "00:28:15",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (07) Notifications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:22:18.5826378Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0905/58148118-98e2-46d4-bd16-75e299960905/WinStoreAppsiOSM07_mid.mp4",
+    "Description": "This modules is dedicated to live tiles and notifications. You will learn about Alive and Activity, secondary tiles, and how to leverage Windows Azure mobile services. [01:40] - Introduction to tiles "
+  },
+  {
+    "VideoId": "0a0822e1-f085-43a6-af3d-a20401472813",
+    "DataApi": "/Entries(guid'0a0822e1-f085-43a6-af3d-a20401472813')/",
+    "VideoPageLink": "/Series/winstoreappios/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac00/ea5b3940-33a7-4bbc-bba6-bf1ff3a7ac00/WinStoreAppsiOSM08_960.jpg",
+    "ShowName": "Building Windows Store Apps for iOS Developers",
+    "VideoLength": "00:41:46",
+    "VideoTitle": "Building Windows Store Apps for iOS Developers: (08) Submitting to the Store",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T04:22:26.6543806Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac00/ea5b3940-33a7-4bbc-bba6-bf1ff3a7ac00/WinStoreAppsiOSM08_mid.mp4",
+    "Description": "Once you have built your app you need to know how to submit to the store. This session goes over how to develop your app for discovery and unprecedented reach while reviewing the flexible business mod"
+  }
+]

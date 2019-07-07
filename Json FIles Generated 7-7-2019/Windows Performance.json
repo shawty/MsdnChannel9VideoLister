@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "4381d2bf-4adb-4f63-ad9b-a2c5017ce202",
+    "DataApi": "/Entries(guid'4381d2bf-4adb-4f63-ad9b-a2c5017ce202')/",
+    "VideoPageLink": "/Series/Windows-Performance/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a89/23a6d283-bf73-44f7-adc7-821a8fec5a89/WindowsPerformanceM02_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:59:29",
+    "VideoTitle": "Windows Performance: (02) Windows Internals Basics",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:18:06.3113917Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a89/23a6d283-bf73-44f7-adc7-821a8fec5a89/WindowsPerformanceM02_mid.mp4",
+    "Description": "Get insight into User Mode and Kernel Mode, while using Event Tracing for Windows (ETW). See how having a deeper understanding of physical and virtual memory, and the memory types, can assist in impro"
+  },
+  {
+    "VideoId": "fc057e85-3e41-4fe8-8a73-a2c5017d28a7",
+    "DataApi": "/Entries(guid'fc057e85-3e41-4fe8-8a73-a2c5017d28a7')/",
+    "VideoPageLink": "/Series/Windows-Performance/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7ac4/d6f5b916-fd18-4aaa-b16a-61b73f0b7ac4/WindowsPerformanceM03_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:50:25",
+    "VideoTitle": "Windows Performance: (03) Windows Performance Basics",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:18:38.9942902Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7ac4/d6f5b916-fd18-4aaa-b16a-61b73f0b7ac4/WindowsPerformanceM03_mid.mp4",
+    "Description": "See how Windows Performance Recorder (WPR) and Windows Performance Analyzer (WPA) are used to capture traces and to expose the right kind of information about your system to perform in-depth analysis."
+  },
+  {
+    "VideoId": "556d5a23-5fcb-4095-8448-a2c5017d7993",
+    "DataApi": "/Entries(guid'556d5a23-5fcb-4095-8448-a2c5017d7993')/",
+    "VideoPageLink": "/Series/Windows-Performance/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca35/6a61bde4-11df-459f-8b3e-3b4169fdca35/WindowsPerformanceM04_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:24:56",
+    "VideoTitle": "Windows Performance: (04) Windows Store App Analysis",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:19:20.2596704Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca35/6a61bde4-11df-459f-8b3e-3b4169fdca35/WindowsPerformanceM04_mid.mp4",
+    "Description": "Use the Windows Performance Toolkit (WPT) to analyze Windows Store apps. Windows Performance Tools are designed for analysis of a wide range of performance problems, including application start times,"
+  },
+  {
+    "VideoId": "b7d6946d-cf93-40ae-b7e3-a2c5017dadd4",
+    "DataApi": "/Entries(guid'b7d6946d-cf93-40ae-b7e3-a2c5017dadd4')/",
+    "VideoPageLink": "/Series/Windows-Performance/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/78b3/e8578ab7-3a9a-436e-8b96-8479cf3078b3/WindowsPerformanceM05_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:32:38",
+    "VideoTitle": "Windows Performance: (05) Surface Performance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:20:01.2979478Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/78b3/e8578ab7-3a9a-436e-8b96-8479cf3078b3/WindowsPerformanceM05_mid.mp4",
+    "Description": "See how to use Windows Performance Recorder on both the Surface RT and Surface Pro devices (x86 and x64). Also, see how the Windows Performance Analyzer can be used to capture and analyze performance "
+  },
+  {
+    "VideoId": "a96a018b-1326-48f2-85ee-a2c5017df6fb",
+    "DataApi": "/Entries(guid'a96a018b-1326-48f2-85ee-a2c5017df6fb')/",
+    "VideoPageLink": "/Series/Windows-Performance/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f0fe/3695e56f-dee1-445e-9abb-b02d2a81f0fe/WindowsPerformanceM06_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:26:22",
+    "VideoTitle": "Windows Performance: (06) Legacy Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:20:35.7589215Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f0fe/3695e56f-dee1-445e-9abb-b02d2a81f0fe/WindowsPerformanceM06_mid.mp4",
+    "Description": "Apply the Windows Performance Analyzer to familiar Windows applications, such as Internet Explorer, to understand how the performance of these apps can impact overall system performance. Also, see how"
+  },
+  {
+    "VideoId": "7f0f1275-8e73-40b1-a9f2-a2c5017e31f2",
+    "DataApi": "/Entries(guid'7f0f1275-8e73-40b1-a9f2-a2c5017e31f2')/",
+    "VideoPageLink": "/Series/Windows-Performance/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/af91/7bdbeae0-cc62-4b80-9861-b3420f96af91/WindowsPerformanceM07_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:53:46",
+    "VideoTitle": "Windows Performance: (07) On/Off Transition Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:20:59.8553405Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/af91/7bdbeae0-cc62-4b80-9861-b3420f96af91/WindowsPerformanceM07_mid.mp4",
+    "Description": "Walk through eight real-life customer scenarios, and get tips and tricks for reducing the amount of time your users wait for system startup. Also, see how running the most recent device drivers and re"
+  },
+  {
+    "VideoId": "1dfa60f9-a3d8-466d-9cdb-a2c5017e8447",
+    "DataApi": "/Entries(guid'1dfa60f9-a3d8-466d-9cdb-a2c5017e8447')/",
+    "VideoPageLink": "/Series/Windows-Performance/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bcb2/e36872ac-e2c2-47b3-ab77-8b83534abcb2/WindowsPerformanceM08_960.jpg",
+    "ShowName": "Windows Performance",
+    "VideoLength": "00:54:09",
+    "VideoTitle": "Windows Performance: (08) Analysis At Scale",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:21:39.3776391Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bcb2/e36872ac-e2c2-47b3-ab77-8b83534abcb2/WindowsPerformanceM08_mid.mp4",
+    "Description": "Take a tour of the Windows Performance Analyzer to better understand how to use multi-trace, decorate data for traces, and run comparative analysis. Gain a keener sense of the causes for performance d"
+  }
+]

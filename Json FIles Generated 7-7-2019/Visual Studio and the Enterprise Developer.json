@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "d1967f8c-4015-4ef7-95eb-a5b7006648fc",
+    "DataApi": "/Entries(guid'd1967f8c-4015-4ef7-95eb-a5b7006648fc')/",
+    "VideoPageLink": "/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Create-a-Virtual-Machine",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3280/613d5707-213f-46f1-afb6-3ad2e8a23280/VirtualMachine_960.jpg",
+    "ShowName": "Visual Studio and the Enterprise Developer",
+    "VideoLength": "00:01:36",
+    "VideoTitle": "On Demand: Create a Virtual Machine",
+    "Author": "maryalb",
+    "UtcDateTimePublished": "2016-03-02T18:02:22.3111612Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3280/613d5707-213f-46f1-afb6-3ad2e8a23280/VirtualMachine_mid.mp4",
+    "Description": "After watching this quick how-to for creating a virtual machine with Azure credit, take another minute to send us feedback via a survey  https://www.microsoftevents.com/profile/form/index.cfm?PKformID"
+  },
+  {
+    "VideoId": "5008695f-c904-456e-a708-a5b700656c05",
+    "DataApi": "/Entries(guid'5008695f-c904-456e-a708-a5b700656c05')/",
+    "VideoPageLink": "/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Activate-your-MSDN-Azure-Benefits",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1b46/d7b3d2cb-4444-4c1e-a549-f63270541b46/ActivateAzure_960.jpg",
+    "ShowName": "Visual Studio and the Enterprise Developer",
+    "VideoLength": "00:01:08",
+    "VideoTitle": "On Demand: Activate your Visual Studio (formerly MSDN) Azure Benefits",
+    "Author": "maryalb",
+    "UtcDateTimePublished": "2016-03-02T18:01:47.2038639Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1b46/d7b3d2cb-4444-4c1e-a549-f63270541b46/ActivateAzure_mid.mp4",
+    "Description": "After watching this quick how-to for creating a virtual machine with Azure credit, take another minute to send us feedback via a survey  https://www.microsoftevents.com/profile/form/index.cfm?PKformID"
+  },
+  {
+    "VideoId": "38358591-3e1e-4109-b4f1-a5b70064241b",
+    "DataApi": "/Entries(guid'38358591-3e1e-4109-b4f1-a5b70064241b')/",
+    "VideoPageLink": "/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Lets-Get-Started",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d5c1/f99606a7-815e-47eb-933f-cf0e57c9d5c1/Getstarted_960.jpg",
+    "ShowName": "Visual Studio and the Enterprise Developer",
+    "VideoLength": "00:01:35",
+    "VideoTitle": "On Demand: Let's Get Started",
+    "Author": "maryalb",
+    "UtcDateTimePublished": "2016-03-02T18:01:01.0678159Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d5c1/f99606a7-815e-47eb-933f-cf0e57c9d5c1/Getstarted_mid.mp4",
+    "Description": "After watching this quick how-to getting started with your Visual Studio Subscription Benefits, take another minute to send us feedback via a survey https://www.microsoftevents.com/profile/form/index."
+  },
+  {
+    "VideoId": "93f2ed24-5f1b-4765-9739-a5b7003b252d",
+    "DataApi": "/Entries(guid'93f2ed24-5f1b-4765-9739-a5b7003b252d')/",
+    "VideoPageLink": "/blogs/MSDN-Ask-the-Expert-Series/On-Demand-Get-the-Most-out-of-your-MSDN-Subscription",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c977/8b12dc9d-caeb-49b4-bfbb-aa00cf05c977/MSDNsubscription_960.jpg",
+    "ShowName": "Visual Studio and the Enterprise Developer",
+    "VideoLength": "00:00:57",
+    "VideoTitle": "On Demand: Get the Most out of your Visual Studio Subscription (formerly MSDN Subscription)",
+    "Author": "maryalb",
+    "UtcDateTimePublished": "2016-03-02T18:00:16.0174972Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c977/8b12dc9d-caeb-49b4-bfbb-aa00cf05c977/MSDNsubscription_mid.mp4",
+    "Description": "After watching this quick how-to video, take another minute to send us feedback via a survey https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x3107274629 and we will mail you a FREE T-"
+  }
+]

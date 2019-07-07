@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "01009408-ba57-4207-9201-a3e20102c4c5",
+    "DataApi": "/Entries(guid'01009408-ba57-4207-9201-a3e20102c4c5')/",
+    "VideoPageLink": "/Series/universalappsforbeginners/2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3190/cee7b297-a4fd-48b6-b6dd-68fae6903190/uasession2_960.jpg",
+    "ShowName": "Windows Phone and Windows 8 Universal Applications for Beginners",
+    "VideoLength": "00:38:53",
+    "VideoTitle": "Part 2: XAML and the first version of our apps",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2014-11-20T17:26:26.6067991Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3190/cee7b297-a4fd-48b6-b6dd-68fae6903190/uasession2_mid.mp4",
+    "Description": "Part 2: XAML and the first version of our apps "
+  },
+  {
+    "VideoId": "25751ccb-b662-4014-9c0a-a3e20102efaf",
+    "DataApi": "/Entries(guid'25751ccb-b662-4014-9c0a-a3e20102efaf')/",
+    "VideoPageLink": "/Series/universalappsforbeginners/3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7109/d6a3580d-8f90-4f87-904b-b34917707109/uasession3_960.jpg",
+    "ShowName": "Windows Phone and Windows 8 Universal Applications for Beginners",
+    "VideoLength": "01:07:59",
+    "VideoTitle": "Part 3: Data and Data Binding",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2014-12-04T21:22:47.0543496Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7109/d6a3580d-8f90-4f87-904b-b34917707109/uasession3_mid.mp4",
+    "Description": "Part 3: Data and Data Binding "
+  }
+]

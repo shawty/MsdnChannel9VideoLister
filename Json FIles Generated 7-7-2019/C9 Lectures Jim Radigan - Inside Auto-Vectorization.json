@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6b1fc349-db1d-4297-a82b-a059003bd1c3",
+    "DataApi": "/Entries(guid'6b1fc349-db1d-4297-a82b-a059003bd1c3')/",
+    "VideoPageLink": "/Series/C9-Lectures-Jim-Radigan-Inside-Auto-Vectorization/Jim-Radigan-Inside-Auto-Vectorization-1-of-n",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/410a/614b87c7-8711-4596-8452-6588b500410a/JimradiganMSVAutoVectorizerParallelizerP1_512.jpg",
+    "ShowName": "C9 Lectures: Jim Radigan - Inside Auto-Vectorization",
+    "VideoLength": "00:35:23",
+    "VideoTitle": "Jim Radigan: Inside Auto-Vectorization, 1 of n",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2012-06-19T17:17:10.1935843Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/410a/614b87c7-8711-4596-8452-6588b500410a/JimradiganMSVAutoVectorizerParallelizerP1_mid.mp4",
+    "Description": "The VC&#43;&#43; 2012 auto-vectorizer tries to make loops in your code run faster by automatically vectorizing your code using the SSE instructions available in all current mainline Intel and AMD chip"
+  }
+]

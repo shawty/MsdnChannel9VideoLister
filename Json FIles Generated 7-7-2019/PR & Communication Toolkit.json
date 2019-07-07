@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "9679ad23-6feb-4e1d-bedb-a53600824e56",
+    "DataApi": "/Entries(guid'9679ad23-6feb-4e1d-bedb-a53600824e56')/",
+    "VideoPageLink": "/Series/PR--Communication-Toolkit/How-to-Tell-Effective-Business-Stories",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2cef/135c6362-b0df-44e3-8aae-dd7cbd142cef/HowtoTellEffectiveBusinessStories_960.jpg",
+    "ShowName": "PR & Communication Toolkit",
+    "VideoLength": "00:12:40",
+    "VideoTitle": "How to Tell Effective Business Stories",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-19T11:35:04.4654908Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2cef/135c6362-b0df-44e3-8aae-dd7cbd142cef/HowtoTellEffectiveBusinessStories_mid.mp4",
+    "Description": "How to Tell Effective Business Stories. "
+  },
+  {
+    "VideoId": "66edb41a-096a-4ed5-9198-a53600819d2a",
+    "DataApi": "/Entries(guid'66edb41a-096a-4ed5-9198-a53600819d2a')/",
+    "VideoPageLink": "/Series/PR--Communication-Toolkit/Getting-Started-with-PR--Communications",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0e3d/93dc42b1-2915-4a8c-9e81-a27569820e3d/GettingStartedWwithPRCom_960.jpg",
+    "ShowName": "PR & Communication Toolkit",
+    "VideoLength": "00:22:58",
+    "VideoTitle": "Getting Started with PR & Communications",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-19T11:35:23.5461248Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0e3d/93dc42b1-2915-4a8c-9e81-a27569820e3d/GettingStartedWwithPRCom_mid.mp4",
+    "Description": "Getting Started with PR &amp; Communications. "
+  },
+  {
+    "VideoId": "a8c97b3a-411a-4cdc-bc73-a53600820cb0",
+    "DataApi": "/Entries(guid'a8c97b3a-411a-4cdc-bc73-a53600820cb0')/",
+    "VideoPageLink": "/Series/PR--Communication-Toolkit/How-to-Get-the-Media--Consumers-Talking-About-You",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2873/fc293f0b-be7c-46d2-8b44-30d2ec5d2873/MediaandConsumersTalkingAboutYou_960.jpg",
+    "ShowName": "PR & Communication Toolkit",
+    "VideoLength": "00:13:19",
+    "VideoTitle": "How to Get the Media & Consumers Talking About You",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-19T11:35:40.4527531Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2873/fc293f0b-be7c-46d2-8b44-30d2ec5d2873/MediaandConsumersTalkingAboutYou_mid.mp4",
+    "Description": "How to Get the Media &amp; Consumers Talking about you. "
+  }
+]

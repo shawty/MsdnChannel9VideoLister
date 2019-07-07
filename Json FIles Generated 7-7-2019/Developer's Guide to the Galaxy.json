@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4a6f2d4a-988e-42f5-b634-a76d01279ada",
+    "DataApi": "/Entries(guid'4a6f2d4a-988e-42f5-b634-a76d01279ada')/",
+    "VideoPageLink": "/Shows/Developers-Guide-to-the-Galaxy/Developers-Guide-to-the-Galaxy-Build-2017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f95/186b5fa9-c963-4d93-b51e-2974284d7f95/DGTTG2017_960.jpg",
+    "ShowName": "Developer's Guide to the Galaxy",
+    "VideoLength": "00:03:00",
+    "VideoTitle": "Developer's Guide to the Galaxy: Build 2017",
+    "Author": "Petri Wilhelmsen",
+    "UtcDateTimePublished": "2017-05-08T18:32:19.9979415Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f95/186b5fa9-c963-4d93-b51e-2974284d7f95/DGTTG2017_mid.mp4",
+    "Description": "Build 2017 is going to be an amazing event, and this is a session that you will not want to miss.  Mixed Reality, WebVR, My People, UWP Community Tool Kit, Composition, 3D Paint for developers, Progre"
+  }
+]

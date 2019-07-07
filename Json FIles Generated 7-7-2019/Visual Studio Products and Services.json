@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "2a6e2e18-a6df-4752-9eb1-a5c301849367",
+    "DataApi": "/Entries(guid'2a6e2e18-a6df-4752-9eb1-a5c301849367')/",
+    "VideoPageLink": "/Series/Visual-Studio-Products-and-Services/The-Microsoft-DevTest-Solution",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8aaf/69084354-b060-4b28-9dc9-97bc52198aaf/DevTestSolution_960.jpg",
+    "ShowName": "Visual Studio Products and Services",
+    "VideoLength": "00:01:21",
+    "VideoTitle": "The Microsoft Dev/Test Solution",
+    "Author": "Lan Kaim",
+    "UtcDateTimePublished": "2016-03-09T17:35:27.6820704Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8aaf/69084354-b060-4b28-9dc9-97bc52198aaf/DevTestSolution_mid.mp4",
+    "Description": "Every development team needs development and test infrastructure to design, develop, test, and deliver applications. Physical development and test environments are expensive and it takes a lot of time"
+  },
+  {
+    "VideoId": "6171ceff-f7dd-4db8-83d9-a5c301865729",
+    "DataApi": "/Entries(guid'6171ceff-f7dd-4db8-83d9-a5c301865729')/",
+    "VideoPageLink": "/Series/Visual-Studio-Products-and-Services/The-Microsoft-DevOps-Solution",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/43fd/dc6a40e4-ae5d-4d9a-ac16-52f2907943fd/DevOpsSolution_960.jpg",
+    "ShowName": "Visual Studio Products and Services",
+    "VideoLength": "00:01:15",
+    "VideoTitle": "The Microsoft DevOps Solution",
+    "Author": "Lan Kaim",
+    "UtcDateTimePublished": "2016-03-09T17:36:15.5604117Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/43fd/dc6a40e4-ae5d-4d9a-ac16-52f2907943fd/DevOpsSolution_mid.mp4",
+    "Description": "The move to DevOps is about people, process and tools. It's a whole new philosophy that brings developers, IT, and the business itself together to build and deploy apps continuously, with much higher "
+  },
+  {
+    "VideoId": "be8eb139-4dec-4861-82f6-a5ed011bdc44",
+    "DataApi": "/Entries(guid'be8eb139-4dec-4861-82f6-a5ed011bdc44')/",
+    "VideoPageLink": "/Series/Visual-Studio-Products-and-Services/MyDriving-Xamarin--Azure-IoT-Reference-App",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b75a/c90d866f-d4ab-4c5c-954a-15ba8eecb75a/MyDrivingXamarinAzureIoTReferenceAppVideo_960.jpg",
+    "ShowName": "Visual Studio Products and Services",
+    "VideoLength": "00:02:02",
+    "VideoTitle": "MyDriving Xamarin & Azure IoT Reference App",
+    "Author": "Ed Blankenship",
+    "UtcDateTimePublished": "2016-04-19T17:57:46.0330239Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b75a/c90d866f-d4ab-4c5c-954a-15ba8eecb75a/MyDrivingXamarinAzureIoTReferenceAppVideo_mid.mp4",
+    "Description": "At Build 2016, Microsoft showcased a scalable, performant, highly available, and cross-platform IoT service and application. MyDriving uses a wide range of Azure services to process and analyze car te"
+  }
+]

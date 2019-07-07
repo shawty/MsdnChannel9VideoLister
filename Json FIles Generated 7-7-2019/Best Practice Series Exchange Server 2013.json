@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c3774ae3-4d98-446a-a33f-a3bf010d8d8a",
+    "DataApi": "/Entries(guid'c3774ae3-4d98-446a-a33f-a3bf010d8d8a')/",
+    "VideoPageLink": "/Series/Best-Practice-Series-Exchange-Server-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eaf0/b89e45df-cca8-4fb2-9d13-92313ef7eaf0/BestPracticesExchange2013M02_960.jpg",
+    "ShowName": "Best Practice Series: Exchange Server 2013",
+    "VideoLength": "00:54:01",
+    "VideoTitle": "Best Practice Series: Exchange Server 2013: (02) Implementing Exchange Server 2013",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T21:10:08.9732175Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eaf0/b89e45df-cca8-4fb2-9d13-92313ef7eaf0/BestPracticesExchange2013M02_mid.mp4",
+    "Description": "Explore the Exchange Server 2013 architecture and the physical deployment process, and examine how to virtually deploy Exchange. Get Microsoft recommendations for configuring Exchange in a virtual env"
+  },
+  {
+    "VideoId": "758e6d70-fc78-4896-b0e2-a3bf010ddc08",
+    "DataApi": "/Entries(guid'758e6d70-fc78-4896-b0e2-a3bf010ddc08')/",
+    "VideoPageLink": "/Series/Best-Practice-Series-Exchange-Server-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2842/9ea1e2a9-fc8c-4c2c-83c9-6fac7db22842/BestPracticesExchange2013M03_960.jpg",
+    "ShowName": "Best Practice Series: Exchange Server 2013",
+    "VideoLength": "00:15:28",
+    "VideoTitle": "Best Practice Series: Exchange Server 2013: (03) High Availability and Site Resilience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T21:10:21.556529Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2842/9ea1e2a9-fc8c-4c2c-83c9-6fac7db22842/BestPracticesExchange2013M03_mid.mp4",
+    "Description": "Look at the high-availability technology built into Exchange Server 2013 and some of the outside factors that affect highly available solutions. Examine the importance of knowing your single point of "
+  },
+  {
+    "VideoId": "fce04ea3-a614-4c34-a8a5-a3bf010e1561",
+    "DataApi": "/Entries(guid'fce04ea3-a614-4c34-a8a5-a3bf010e1561')/",
+    "VideoPageLink": "/Series/Best-Practice-Series-Exchange-Server-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bebf/8f069a53-a933-49f4-93d1-fda89189bebf/BestPracticesExchange2013M04_960.jpg",
+    "ShowName": "Best Practice Series: Exchange Server 2013",
+    "VideoLength": "00:17:41",
+    "VideoTitle": "Best Practice Series: Exchange Server 2013: (04) Disaster Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T21:11:02.6050282Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bebf/8f069a53-a933-49f4-93d1-fda89189bebf/BestPracticesExchange2013M04_mid.mp4",
+    "Description": "Hear about the backup and restore features of Exchange Server 2013, including Exchange Native Data Protection, and find out what you need to consider when you create a backup plan. [01:35] - Start by "
+  },
+  {
+    "VideoId": "73f3c3a8-a7b3-4443-baec-a3bf010e7ed4",
+    "DataApi": "/Entries(guid'73f3c3a8-a7b3-4443-baec-a3bf010e7ed4')/",
+    "VideoPageLink": "/Series/Best-Practice-Series-Exchange-Server-2013/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51e5/21ed4f3f-8edf-432d-b13e-fd73501951e5/BestPracticesExchange2013M05_960.jpg",
+    "ShowName": "Best Practice Series: Exchange Server 2013",
+    "VideoLength": "00:29:22",
+    "VideoTitle": "Best Practice Series: Exchange Server 2013: (05) Operations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T21:11:08.8623335Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51e5/21ed4f3f-8edf-432d-b13e-fd73501951e5/BestPracticesExchange2013M05_mid.mp4",
+    "Description": "Examine the basic operations required to keep an Exchange Server 2013 environment running smoothly, including managed availability, updates, and daily/weekly/monthly tasks. And learn about running the"
+  }
+]

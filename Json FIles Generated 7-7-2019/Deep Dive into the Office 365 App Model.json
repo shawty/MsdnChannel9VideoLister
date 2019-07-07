@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "db09d533-7547-4fdb-a811-a3c9014b8caa",
+    "DataApi": "/Entries(guid'db09d533-7547-4fdb-a811-a3c9014b8caa')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/60ec/220a4db3-cb39-49f6-8558-2a9e814360ec/DeepDiveO365AppModelM02_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:53:34",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (02) Deep Dive into Apps for Office in Word",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:30:00.1591708Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/60ec/220a4db3-cb39-49f6-8558-2a9e814360ec/DeepDiveO365AppModelM02_mid.mp4",
+    "Description": "Explore what is available inside Word Desktop, Online, and Modern Apps, with regard to the App Model. [01:07] - Introduction to Apps for Word[06:36] - Developing Apps for Word[24:51] - Reading and Wri"
+  },
+  {
+    "VideoId": "1f91a255-5e25-4f65-bf7f-a3c9014bcea8",
+    "DataApi": "/Entries(guid'1f91a255-5e25-4f65-bf7f-a3c9014bcea8')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f07c/8b5877df-1bef-4ec6-9997-4e0e13ebf07c/DeepDiveO365AppModelM03_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:34:29",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (03) Deep Dive into Apps for Office in PowerPoint",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:30:30.5100672Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f07c/8b5877df-1bef-4ec6-9997-4e0e13ebf07c/DeepDiveO365AppModelM03_mid.mp4",
+    "Description": "See what is available inside PowerPoint Desktop, Online, and Modern Apps, with regard to the App Model. [01:30] - Introduction to Apps for PowerPoint[03:45] - Developing Apps for PowerPoint[13:50] - C"
+  },
+  {
+    "VideoId": "c87fb68f-632f-4f3e-9739-a3c9014c123f",
+    "DataApi": "/Entries(guid'c87fb68f-632f-4f3e-9739-a3c9014c123f')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/762a/d28c2edb-4455-43c3-85d2-1c6edf94762a/DeepDiveO365AppModelM04_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:44:46",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (04) Deep Dive into Apps for Office in Excel",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:30:46.8030766Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/762a/d28c2edb-4455-43c3-85d2-1c6edf94762a/DeepDiveO365AppModelM04_mid.mp4",
+    "Description": "Get the details on what is available inside Excel Desktop, Online, and Modern Apps, with regard to the App Model. [01:32] - Introduction to Apps for Excel[05:25] - Developing Apps for Excel[20:44] - R"
+  },
+  {
+    "VideoId": "2546848e-6060-4333-93f6-a3c9014c4c2d",
+    "DataApi": "/Entries(guid'2546848e-6060-4333-93f6-a3c9014c4c2d')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e28/3b0ac8a5-56a2-4263-8b9f-c7b5e6d95e28/DeepDiveO365AppModelM05_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:50:29",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (05) Deep Dive into SharePoint-Hosted Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:30:47.2832191Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e28/3b0ac8a5-56a2-4263-8b9f-c7b5e6d95e28/DeepDiveO365AppModelM05_mid.mp4",
+    "Description": "Find out how SharePoint Hosted Apps can extend existing SharePoint sites, purely in client-side code in an isolated fashion. [00:58] - Introduction[20:17] - Programming in JavaScript[37:56] - App Part"
+  },
+  {
+    "VideoId": "46ac5d2f-6e90-49cc-997c-a3c9014c8822",
+    "DataApi": "/Entries(guid'46ac5d2f-6e90-49cc-997c-a3c9014c8822')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e70/506e47af-81eb-4b36-8f26-745fa39d5e70/DeepDiveO365AppModelM06_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:56:25",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (06) Deep Dive into SharePoint Provider-Hosted Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:31:30.6257871Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e70/506e47af-81eb-4b36-8f26-745fa39d5e70/DeepDiveO365AppModelM06_mid.mp4",
+    "Description": "See how SharePoint Provider Hosted Apps can extend existing SharePoint sites with many more options than SharePoint Hosted Apps, leveraging a decoupled, platform-independent, web application model. [0"
+  },
+  {
+    "VideoId": "00fd6ba4-29e2-4c42-a633-a3c9014cfca5",
+    "DataApi": "/Entries(guid'00fd6ba4-29e2-4c42-a633-a3c9014cfca5')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9203/e2ecb136-33ca-4943-b058-807d58a19203/DeepDiveO365AppModelM08_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:49:26",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (08) Application Lifecycle Management in Office 365 App Development",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:31:48.410254Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9203/e2ecb136-33ca-4943-b058-807d58a19203/DeepDiveO365AppModelM08_mid.mp4",
+    "Description": "Explore the life cycle of Apps for Office and Apps for SharePoint from development, testing, deployment, and upgrade. This demo-oriented session covers both the on-premises and Office 365 environments"
+  },
+  {
+    "VideoId": "3464ddd3-43bb-4c2b-9476-a3c9014cc8d4",
+    "DataApi": "/Entries(guid'3464ddd3-43bb-4c2b-9476-a3c9014cc8d4')/",
+    "VideoPageLink": "/Series/Deep-Dive-into-the-Office-365-App-Model/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ded9/384bfebd-e180-4cc5-b442-8eaa5302ded9/DeepDiveO365AppModelM07_960.jpg",
+    "ShowName": "Deep Dive into the Office 365 App Model",
+    "VideoLength": "00:50:04",
+    "VideoTitle": "Deep Dive into the Office 365 App Model: (07) Deep Dive into Security and OAuth in Apps for SharePoint",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:31:49.4266033Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ded9/384bfebd-e180-4cc5-b442-8eaa5302ded9/DeepDiveO365AppModelM07_mid.mp4",
+    "Description": "Dive deep into how authentication and authorization is handled in Apps for SharePoint and Apps for Office. [01:19] - Azure Active Directory[07:10] - OAuth Primer[16:12] - Development Scenarios Provide"
+  }
+]

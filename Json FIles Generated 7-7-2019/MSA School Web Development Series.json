@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "49c36a79-ebc3-4606-9fbb-a63801770d88",
+    "DataApi": "/Entries(guid'49c36a79-ebc3-4606-9fbb-a63801770d88')/",
+    "VideoPageLink": "/Series/MSA-School-Web-Development-Series/2-Publish-Your-Web-App-and-Database-to-Microsoft-Azure-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/58d1/f5f8dc2c-2566-4b3a-8a0c-74d4ab3358d1/PHPAndSQLOne_960.jpg",
+    "ShowName": "MSA School Web Development Series",
+    "VideoLength": "00:08:01",
+    "VideoTitle": "2. Publish Your Web App and Database to Microsoft Azure - Part 1",
+    "Author": "Vishesh Oberoi",
+    "UtcDateTimePublished": "2016-07-06T22:53:33.5418949Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/58d1/f5f8dc2c-2566-4b3a-8a0c-74d4ab3358d1/PHPAndSQLOne_mid.mp4",
+    "Description": "In this video we show you how create your Web App and MySQL database through Azure. We also provide a brief overview on the structure of our recipes database. Visit https://portal.azure.com to get sta"
+  },
+  {
+    "VideoId": "90b64798-74a4-4867-a9e4-a63b016da8a8",
+    "DataApi": "/Entries(guid'90b64798-74a4-4867-a9e4-a63b016da8a8')/",
+    "VideoPageLink": "/Series/MSA-School-Web-Development-Series/3-Publish-Your-Web-App-and-Database-to-Microsoft-Azure-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/277d/ececa267-dd7f-4363-8497-b09b574a277d/PHPAndSQLTwo_960.jpg",
+    "ShowName": "MSA School Web Development Series",
+    "VideoLength": "00:20:31",
+    "VideoTitle": "3. Publish Your Web App and Database to Microsoft Azure - Part 2",
+    "Author": "Vishesh Oberoi",
+    "UtcDateTimePublished": "2016-07-06T23:14:11.9821594Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/277d/ececa267-dd7f-4363-8497-b09b574a277d/PHPAndSQLTwo_mid.mp4",
+    "Description": "The video will guide you through connecting your database to azure through MySQL workbench. We'll also show you the ins and outs of displaying data onto your recipes website. You will be able to find "
+  },
+  {
+    "VideoId": "b4d68295-238d-42b0-beb1-a63801774350",
+    "DataApi": "/Entries(guid'b4d68295-238d-42b0-beb1-a63801774350')/",
+    "VideoPageLink": "/Series/MSA-School-Web-Development-Series/4-Implementing-Advanced-Features",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/64ce/abfd474a-dd05-47b8-838f-3c77003764ce/IntrotoAdvFeatures_960.jpg",
+    "ShowName": "MSA School Web Development Series",
+    "VideoLength": "00:06:33",
+    "VideoTitle": "4. Implementing Advanced Features",
+    "Author": "Vishesh Oberoi",
+    "UtcDateTimePublished": "2016-07-06T23:16:48.1394281Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/64ce/abfd474a-dd05-47b8-838f-3c77003764ce/IntrotoAdvFeatures_mid.mp4",
+    "Description": "This is an introductory video overview of additional features for web development you can incorporate. This includes:Source ControlJQuery BootstrapHelpful Links: GitHub website: https://github.com/Git"
+  }
+]

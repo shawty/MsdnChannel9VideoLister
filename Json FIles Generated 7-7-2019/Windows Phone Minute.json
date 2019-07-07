@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "0786685e-0579-458f-8fa6-9ffe0145ebb5",
+    "DataApi": "/Entries(guid'0786685e-0579-458f-8fa6-9ffe0145ebb5')/",
+    "VideoPageLink": "/Series/Minute-of-Mango/Minute-of-Mango-Local-Scout",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ebb5/0786685e-0579-458f-8fa6-9ffe0145ebb5/MOMlocalscout_512_ch9.jpg",
+    "ShowName": "Windows Phone Minute",
+    "VideoLength": "00:01:03",
+    "VideoTitle": "Minute of Mango: Local Scout",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-02-22T20:35:32.1462044Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ebb5/0786685e-0579-458f-8fa6-9ffe0145ebb5/MOMlocalscout_med_ch9.mp4",
+    "Description": "Take a minute out of your day to learn about all the killer new features on your Windows Phone. Trust me, you'll be glad you did  "
+  },
+  {
+    "VideoId": "56434bcb-26c2-491f-b919-a020016d7dff",
+    "DataApi": "/Entries(guid'56434bcb-26c2-491f-b919-a020016d7dff')/",
+    "VideoPageLink": "/Series/Minute-of-Mango/Windows-Phone-Minute-Group-your-pals",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/729e/4164adf7-f8b8-4502-bd86-1b423986729e/WPGroup_512.jpg",
+    "ShowName": "Windows Phone Minute",
+    "VideoLength": "00:00:58",
+    "VideoTitle": "Windows Phone Minute: Group your pals",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-03-29T19:16:19.9980654Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/729e/4164adf7-f8b8-4502-bd86-1b423986729e/WPGroup_mid.mp4",
+    "Description": "Take a minute out of your day to learn about all the killer new features on your Windows Phone. Trust me, you'll be glad you did  "
+  },
+  {
+    "VideoId": "e0f87316-241c-418d-b355-a020016c2e8d",
+    "DataApi": "/Entries(guid'e0f87316-241c-418d-b355-a020016c2e8d')/",
+    "VideoPageLink": "/Series/Minute-of-Mango/Windows-Phone-Minute-Back-it-on-up",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/48c5/b4edce6e-64dd-4de5-98e8-c0ae23db48c5/WPback_512.jpg",
+    "ShowName": "Windows Phone Minute",
+    "VideoLength": "00:00:52",
+    "VideoTitle": "Windows Phone Minute: Back it on up!",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-04-06T16:38:46.5862066Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/48c5/b4edce6e-64dd-4de5-98e8-c0ae23db48c5/WPback_mid.mp4",
+    "Description": "Take a minute out of your day to learn about all the killer new features on your Windows Phone. Trust me, you'll be glad you did  "
+  },
+  {
+    "VideoId": "bea7608c-b272-4cc5-be8b-a0320141472d",
+    "DataApi": "/Entries(guid'bea7608c-b272-4cc5-be8b-a0320141472d')/",
+    "VideoPageLink": "/Series/Minute-of-Mango/Windows-Phone-Minute-Custom-Focusing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dec6/3ac277eb-fe69-4d25-9980-810c6726dec6/wpmFocus_512.jpg",
+    "ShowName": "Windows Phone Minute",
+    "VideoLength": "00:00:58",
+    "VideoTitle": "Windows Phone Minute: Custom Focusing",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-04-28T06:58:32.2511473Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dec6/3ac277eb-fe69-4d25-9980-810c6726dec6/wpmFocus_mid.mp4",
+    "Description": "Take a minute out of your day to learn about all the killer new features on your Windows Phone. Trust me, you'll be glad you did  "
+  },
+  {
+    "VideoId": "d1d9189a-9b2a-4882-967c-a04d0158611f",
+    "DataApi": "/Entries(guid'd1d9189a-9b2a-4882-967c-a04d0158611f')/",
+    "VideoPageLink": "/Series/Minute-of-Mango/Windows-Phone-Minute-Rocking-the-Lock-Screen",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a262/f3510e69-748b-441c-b190-4f1bb01aa262/WPMlockscreen_512.jpg",
+    "ShowName": "Windows Phone Minute",
+    "VideoLength": "00:01:10",
+    "VideoTitle": "Windows Phone Minute- Rocking the Lock Screen",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-05-14T15:32:45.8428496Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a262/f3510e69-748b-441c-b190-4f1bb01aa262/WPMlockscreen_mid.mp4",
+    "Description": "Take a minute out of your day to learn about all the killer new features on your Windows Phone. Trust me, you'll be glad you did  "
+  },
+  {
+    "VideoId": "2d26fc61-9ec0-4a91-8c48-a169015ba3ff",
+    "DataApi": "/Entries(guid'2d26fc61-9ec0-4a91-8c48-a169015ba3ff')/",
+    "VideoPageLink": "/Series/Minute-of-Mango/Windows-Phone-Minute--Groups",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/023a/5629e3d4-d858-4a62-95ab-aa1020ae023a/WPMGroups_512.jpg",
+    "ShowName": "Windows Phone Minute",
+    "VideoLength": "00:00:58",
+    "VideoTitle": "Windows Phone Minute : Groups",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-02-25T04:50:48.1320498Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/023a/5629e3d4-d858-4a62-95ab-aa1020ae023a/WPMGroups_mid.mp4",
+    "Description": "Make the most of your Windows Phone 8 and get in touch with your friends and family with just a single touch. Learn all about the very cool &quot;Groups&quot; feature...right now...in one minute. "
+  }
+]

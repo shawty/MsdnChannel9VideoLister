@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "1a04ba74-be63-4770-8cdb-a3e001866024",
+    "DataApi": "/Entries(guid'1a04ba74-be63-4770-8cdb-a3e001866024')/",
+    "VideoPageLink": "/Series/Configure-Mobile-Devices-for-Office-365/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d7ba/98359196-b624-42cd-960b-9d574aa2d7ba/602ConfigureMobileDevicesForO365M01_960.jpg",
+    "ShowName": "Configure Mobile Devices for Office 365",
+    "VideoLength": "00:31:18",
+    "VideoTitle": "Configure Mobile Devices for Office 365: (01) How to Configure Mobile Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-12T20:17:20.3985394Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d7ba/98359196-b624-42cd-960b-9d574aa2d7ba/602ConfigureMobileDevicesForO365M01_mid.mp4",
+    "Description": "Examine the devices and Office apps supported in Office 365, and see how to get Office apps for mobile phones. Review how to maintain administrative features, plus how to use Microsoft Intune to allow"
+  }
+]

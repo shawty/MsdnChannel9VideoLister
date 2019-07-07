@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5d9459d9-6eeb-433e-8498-a3b101790047",
+    "DataApi": "/Entries(guid'5d9459d9-6eeb-433e-8498-a3b101790047')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-IP-Address-Management-IPAM-/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc60/588da70c-ac99-42da-82a6-562ed596fc60/Mod2_960.jpg",
+    "ShowName": "Windows Server 2012 R2: IP Address Management (IPAM)",
+    "VideoLength": "00:13:02",
+    "VideoTitle": "(Module 2) What's New in Windows Server 2012 R2 IPAM",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:06:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc60/588da70c-ac99-42da-82a6-562ed596fc60/Mod2_mid.mp4",
+    "Description": "Module two will cover the key new IPAM functionality in R2 such as Role Based Access Control, Virtual ASM, Enhanced DHCP management, External database support for IPAM, the upgrade &amp; migration sup"
+  },
+  {
+    "VideoId": "a9be3984-0954-418f-b444-a3b1017976c9",
+    "DataApi": "/Entries(guid'a9be3984-0954-418f-b444-a3b1017976c9')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-IP-Address-Management-IPAM-/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/82ab/fa2f34a4-bfde-447c-8f0c-3f092ff282ab/Mod3_960.jpg",
+    "ShowName": "Windows Server 2012 R2: IP Address Management (IPAM)",
+    "VideoLength": "00:11:04",
+    "VideoTitle": "(Module 3) Plan and Design IPAM",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:06:03Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/82ab/fa2f34a4-bfde-447c-8f0c-3f092ff282ab/Mod3_mid.mp4",
+    "Description": "Module three will explain what IPAM Architecture &amp; Deployment options IT Professionals will have. We will also cover the three key IPAM roles, as well as the topologies one can cater for when depl"
+  },
+  {
+    "VideoId": "c897fcf6-7817-4a12-aee1-a3b10179c98a",
+    "DataApi": "/Entries(guid'c897fcf6-7817-4a12-aee1-a3b10179c98a')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-IP-Address-Management-IPAM-/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6bf6/6a9b6b3c-ff57-4305-badb-73912e7d6bf6/Mod4_960.jpg",
+    "ShowName": "Windows Server 2012 R2: IP Address Management (IPAM)",
+    "VideoLength": "00:22:58",
+    "VideoTitle": "(Module 4) Deploy IPAM",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:06:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6bf6/6a9b6b3c-ff57-4305-badb-73912e7d6bf6/Mod4_mid.mp4",
+    "Description": "Module four will demonstrate the deployment steps, the IPAM roles involved, as well as provide a review of the various Admin roles available.This video is part of the Microsoft Virtual Academy (MVA). "
+  },
+  {
+    "VideoId": "e3e64780-6265-41df-bdac-a3b1017a1ed1",
+    "DataApi": "/Entries(guid'e3e64780-6265-41df-bdac-a3b1017a1ed1')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-IP-Address-Management-IPAM-/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e9c2/00cb09c0-2b6c-44cd-98c8-e043ca05e9c2/Mod5_960.jpg",
+    "ShowName": "Windows Server 2012 R2: IP Address Management (IPAM)",
+    "VideoLength": "00:44:07",
+    "VideoTitle": "(Module 5) Manage IPAM",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:06:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e9c2/00cb09c0-2b6c-44cd-98c8-e043ca05e9c2/Mod5_mid.mp4",
+    "Description": "Module five will take the deployed infrastructure and step through all the components of IPAM that need initial configuration and customization.This video is part of the Microsoft Virtual Academy (MVA"
+  },
+  {
+    "VideoId": "182f40ee-3949-4f0d-8d9f-a3b1017ec4a2",
+    "DataApi": "/Entries(guid'182f40ee-3949-4f0d-8d9f-a3b1017ec4a2')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-IP-Address-Management-IPAM-/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc40/54ab2ad5-1a11-4b7a-ac85-5f24660abc40/Mod6_960.jpg",
+    "ShowName": "Windows Server 2012 R2: IP Address Management (IPAM)",
+    "VideoLength": "00:03:32",
+    "VideoTitle": "(Module 6) Closing",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:06:11Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc40/54ab2ad5-1a11-4b7a-ac85-5f24660abc40/Mod6_mid.mp4",
+    "Description": "A review of IPAM, as well as the relevant information available on TechNet.com to further ones knowledge and understanding of IPAM.This video is part of the Microsoft Virtual Academy (MVA). The MVA is"
+  }
+]

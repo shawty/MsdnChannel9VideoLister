@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "2ce9acbc-f321-4731-96da-a2cb01367a9b",
+    "DataApi": "/Entries(guid'2ce9acbc-f321-4731-96da-a2cb01367a9b')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-The-Essentials-Experience/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/caea/8d776ec7-595e-4d7b-9d9f-f3cd7f04caea/WSEssentialsPrt2_960.jpg",
+    "ShowName": "Windows Server 2012 R2: The Essentials Experience",
+    "VideoLength": "00:35:38",
+    "VideoTitle": "(Module 2) Deployment Options and Licensing",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-02-08T00:01:31Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/caea/8d776ec7-595e-4d7b-9d9f-f3cd7f04caea/WSEssentialsPrt2_mid.mp4",
+    "Description": "Join us for this session on Windows Server 2012 R2 Essentials and the Essentials Experience role to learn about the installation process and migration options, as well as the post-installation setup t"
+  },
+  {
+    "VideoId": "89fcda2c-1e44-4b7c-8332-a2cb0136e0fc",
+    "DataApi": "/Entries(guid'89fcda2c-1e44-4b7c-8332-a2cb0136e0fc')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-The-Essentials-Experience/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dd3f/9226e821-b8f5-4c87-8589-ad9f98a5dd3f/WSEssentialsPrt3_960.jpg",
+    "ShowName": "Windows Server 2012 R2: The Essentials Experience",
+    "VideoLength": "00:47:38",
+    "VideoTitle": "(Module 3) Installation, Migration, and Getting Started",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-02-08T00:02:46Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dd3f/9226e821-b8f5-4c87-8589-ad9f98a5dd3f/WSEssentialsPrt3_mid.mp4",
+    "Description": "Join us for this session on Windows Server 2012 R2 Essentials and the Essentials Experience role to learn about the installation process and migration guidance, as well as the post-installation setup "
+  },
+  {
+    "VideoId": "66b883d1-212a-4347-8423-a2cb01373cea",
+    "DataApi": "/Entries(guid'66b883d1-212a-4347-8423-a2cb01373cea')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-The-Essentials-Experience/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/16ef/be5ef50e-612b-4d1e-8a53-1c067bd816ef/WSEssentialsPrt4_960.jpg",
+    "ShowName": "Windows Server 2012 R2: The Essentials Experience",
+    "VideoLength": "00:45:51",
+    "VideoTitle": "(Module 4) Server Management and Monitoring",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-02-08T00:03:41Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/16ef/be5ef50e-612b-4d1e-8a53-1c067bd816ef/WSEssentialsPrt4_mid.mp4",
+    "Description": "Join us for this session on Windows Server 2012 R2 Essentials and the Essentials Experience role to learn about monitoring the health of the server and the connected client computers, backup and resto"
+  },
+  {
+    "VideoId": "87971743-8440-48ec-bda8-a2cb01380045",
+    "DataApi": "/Entries(guid'87971743-8440-48ec-bda8-a2cb01380045')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-The-Essentials-Experience/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/25f4/a2799ee5-f081-413a-a4df-196eeac925f4/WSEssentialsPrt5_960.jpg",
+    "ShowName": "Windows Server 2012 R2: The Essentials Experience",
+    "VideoLength": "00:39:23",
+    "VideoTitle": "(Module 5) Cloud Integration and Add-ins",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-02-08T00:04:59Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/25f4/a2799ee5-f081-413a-a4df-196eeac925f4/WSEssentialsPrt5_mid.mp4",
+    "Description": "Join us for this session on Windows Server 2012 R2 Essentials and the Essentials Experience role to learn about cloud service and email integration options, as well as how the functionality of the ser"
+  },
+  {
+    "VideoId": "4e184261-2ff0-40f4-b201-a2cb013861c2",
+    "DataApi": "/Entries(guid'4e184261-2ff0-40f4-b201-a2cb013861c2')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-The-Essentials-Experience/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/876f/bc2d7db0-8f1c-4fb9-9e4a-9a2d5265876f/WSEssentialsPrt6_960.jpg",
+    "ShowName": "Windows Server 2012 R2: The Essentials Experience",
+    "VideoLength": "00:31:40",
+    "VideoTitle": "(Module 6) User and Computer Management",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-02-08T00:05:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/876f/bc2d7db0-8f1c-4fb9-9e4a-9a2d5265876f/WSEssentialsPrt6_mid.mp4",
+    "Description": "Join us for this session on Windows Server 2012 R2 Essentials and the Essentials Experience role to learn how to create and manage user accounts, how to connect and manage client computers, and how to"
+  },
+  {
+    "VideoId": "b911f426-5f67-4425-a308-a2cb0138b891",
+    "DataApi": "/Entries(guid'b911f426-5f67-4425-a308-a2cb0138b891')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-The-Essentials-Experience/Mod7",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/43b4/27e3529f-9213-4aea-a77a-97335b8a43b4/WSEssentialsPrt7_960.jpg",
+    "ShowName": "Windows Server 2012 R2: The Essentials Experience",
+    "VideoLength": "00:32:46",
+    "VideoTitle": "(Module 7) User Experience",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-02-08T00:06:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/43b4/27e3529f-9213-4aea-a77a-97335b8a43b4/WSEssentialsPrt7_mid.mp4",
+    "Description": "Join us for this session on Windows Server 2012 R2 Essentials and the Essentials Experience role to learn how end users can interact with the server using the Launchpad, shared folders, the Remote Web"
+  }
+]

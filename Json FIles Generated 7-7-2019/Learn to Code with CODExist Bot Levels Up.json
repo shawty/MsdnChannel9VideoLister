@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "dadcb48a-9825-40f8-ab39-a46b016ddf79",
+    "DataApi": "/Entries(guid'dadcb48a-9825-40f8-ab39-a46b016ddf79')/",
+    "VideoPageLink": "/Series/Learn-to-Code-with-CODExist-Bot-Levels-Up/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9d9f/26108651-960e-43cf-b4e8-cd90acf49d9f/760Learn2CodeBotLevelsUpM01_960.jpg",
+    "ShowName": "Learn to Code with CODExist: Bot Levels Up",
+    "VideoLength": "00:15:02",
+    "VideoTitle": "Learn to Code with CODExist: Bot Levels Up: (01) Adding Game Instructions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:36:44.3858437Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9d9f/26108651-960e-43cf-b4e8-cd90acf49d9f/760Learn2CodeBotLevelsUpM01_mid.mp4",
+    "Description": "See how to add player instructions to your game. [00:56] - Displaying a full screen message[06:43] - Displaying a message during game play"
+  },
+  {
+    "VideoId": "58282751-0ff2-462c-9ab6-a46b016e0190",
+    "DataApi": "/Entries(guid'58282751-0ff2-462c-9ab6-a46b016e0190')/",
+    "VideoPageLink": "/Series/Learn-to-Code-with-CODExist-Bot-Levels-Up/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2fa7/490d2e66-f50a-4308-b69b-6760bb0d2fa7/760Learn2CodeBotLevelsUpM02_960.jpg",
+    "ShowName": "Learn to Code with CODExist: Bot Levels Up",
+    "VideoLength": "00:13:41",
+    "VideoTitle": "Learn to Code with CODExist: Bot Levels Up: (02) Getting Started with Graphic Effects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:36:54.2675259Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2fa7/490d2e66-f50a-4308-b69b-6760bb0d2fa7/760Learn2CodeBotLevelsUpM02_mid.mp4",
+    "Description": "Learn how to easily add simple graphic effects to enhance the playing experience. "
+  },
+  {
+    "VideoId": "dd9072ff-d0d7-42b7-b7a0-a46b016e27e1",
+    "DataApi": "/Entries(guid'dd9072ff-d0d7-42b7-b7a0-a46b016e27e1')/",
+    "VideoPageLink": "/Series/Learn-to-Code-with-CODExist-Bot-Levels-Up/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/63c0/24d31186-3186-4900-af41-22af9b4d63c0/760Learn2CodeBotLevelsUpM03_960.jpg",
+    "ShowName": "Learn to Code with CODExist: Bot Levels Up",
+    "VideoLength": "00:21:57",
+    "VideoTitle": "Learn to Code with CODExist: Bot Levels Up: (03) Adding Power-Ups",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:37:05.6406646Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/63c0/24d31186-3186-4900-af41-22af9b4d63c0/760Learn2CodeBotLevelsUpM03_mid.mp4",
+    "Description": "Explore ways to modify gameplay to make your game more interesting or challenging. [01:46] - Score Bonus Points[08:05] - Earn an Extra Life[12:24] - Grow or Shrink[16:56] - Speed up the game[19:29] - "
+  },
+  {
+    "VideoId": "3ae7f0bf-4853-4f1f-9755-a46b016e4eb7",
+    "DataApi": "/Entries(guid'3ae7f0bf-4853-4f1f-9755-a46b016e4eb7')/",
+    "VideoPageLink": "/Series/Learn-to-Code-with-CODExist-Bot-Levels-Up/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4753/283f87ce-fad3-4b41-b1fd-a7b081554753/760Learn2CodeBotLevelsUpM04_960.jpg",
+    "ShowName": "Learn to Code with CODExist: Bot Levels Up",
+    "VideoLength": "00:30:19",
+    "VideoTitle": "Learn to Code with CODExist: Bot Levels Up: (04) Adding Animation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:37:18.6971859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4753/283f87ce-fad3-4b41-b1fd-a7b081554753/760Learn2CodeBotLevelsUpM04_mid.mp4",
+    "Description": "Learn how to use sprite sheets to create animations that enhance the experience. [00:52] - Sprite Sheets[03:14] - Creating a Sprite from a Sprite Sheet[18:48] - Animating your Sprite"
+  },
+  {
+    "VideoId": "4e66c958-b7fc-49f9-b907-a46b016e77fa",
+    "DataApi": "/Entries(guid'4e66c958-b7fc-49f9-b907-a46b016e77fa')/",
+    "VideoPageLink": "/Series/Learn-to-Code-with-CODExist-Bot-Levels-Up/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e553/904fe445-4751-4329-ba5e-b55469d2e553/760Learn2CodeBotLevelsUpM05_960.jpg",
+    "ShowName": "Learn to Code with CODExist: Bot Levels Up",
+    "VideoLength": "00:34:15",
+    "VideoTitle": "Learn to Code with CODExist: Bot Levels Up: (05) Working with Variables and Cloud Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:37:31.1774385Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e553/904fe445-4751-4329-ba5e-b55469d2e553/760Learn2CodeBotLevelsUpM05_mid.mp4",
+    "Description": "Get the details on using global variables and cloud variables to track the high score among all players of your game. [01:15] - Local, Global and Cloud Variables[15:08] - Using Cloud Data to Store a H"
+  },
+  {
+    "VideoId": "212d5540-dad1-4c1a-b521-a46b016ea2ee",
+    "DataApi": "/Entries(guid'212d5540-dad1-4c1a-b521-a46b016ea2ee')/",
+    "VideoPageLink": "/Series/Learn-to-Code-with-CODExist-Bot-Levels-Up/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f238/35b28baa-5a88-4aec-8a5f-2d567a80f238/760Learn2CodeBotLevelsUpM06_960.jpg",
+    "ShowName": "Learn to Code with CODExist: Bot Levels Up",
+    "VideoLength": "00:42:14",
+    "VideoTitle": "Learn to Code with CODExist: Bot Levels Up: (06) Publishing Your Game as an App",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:37:41.2030245Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f238/35b28baa-5a88-4aec-8a5f-2d567a80f238/760Learn2CodeBotLevelsUpM06_mid.mp4",
+    "Description": "Find out how to publish your game as an app and to make it available in an app store. [01:09] - Options for publishing TouchDevelop apps[06:32] - Publishing our game as a Windows Phone app[12:58] - De"
+  }
+]

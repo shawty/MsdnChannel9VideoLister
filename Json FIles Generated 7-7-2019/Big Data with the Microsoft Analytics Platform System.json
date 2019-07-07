@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "bf45f6f2-6ada-456d-b0b1-a406014dc669",
+    "DataApi": "/Entries(guid'bf45f6f2-6ada-456d-b0b1-a406014dc669')/",
+    "VideoPageLink": "/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f04f/87cd2a8d-cf52-4b80-bd97-b089e6b2f04f/308MicrosoftAnalyticsPlatformSystemM02_960.jpg",
+    "ShowName": "Big Data with the Microsoft Analytics Platform System",
+    "VideoLength": "01:06:48",
+    "VideoTitle": "Big Data with the Microsoft Analytics Platform System: (02) Hardware/Software Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:11:47.0289786Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f04f/87cd2a8d-cf52-4b80-bd97-b089e6b2f04f/308MicrosoftAnalyticsPlatformSystemM02_mid.mp4",
+    "Description": "Explore the differences between SMP and MPP architectures for data warehouse, including a deep dive on the hardware components of APS, the underlying architecture, and its high-availability features. "
+  },
+  {
+    "VideoId": "3b6d866f-661e-433c-8e2a-a406014dfb27",
+    "DataApi": "/Entries(guid'3b6d866f-661e-433c-8e2a-a406014dfb27')/",
+    "VideoPageLink": "/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9782/b8ba991c-53d1-45e7-9610-6c8814ed9782/308MicrosoftAnalyticsPlatformSystemM03_960.jpg",
+    "ShowName": "Big Data with the Microsoft Analytics Platform System",
+    "VideoLength": "00:35:54",
+    "VideoTitle": "Big Data with the Microsoft Analytics Platform System: (03) Distribution Theory & Design",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:12:17.6950272Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9782/b8ba991c-53d1-45e7-9610-6c8814ed9782/308MicrosoftAnalyticsPlatformSystemM03_mid.mp4",
+    "Description": "Gain a deep understating of the APS distributed database, such as how APS stores and distributes data using a sophisticated underlying physical database architecture with minimal performance tuning. A"
+  },
+  {
+    "VideoId": "fdff590e-65cf-41f6-ad33-a406014e26d5",
+    "DataApi": "/Entries(guid'fdff590e-65cf-41f6-ad33-a406014e26d5')/",
+    "VideoPageLink": "/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/794c/5df6ec51-b92d-4a2d-bf65-c7a8a263794c/308MicrosoftAnalyticsPlatformSystemM04_960.jpg",
+    "ShowName": "Big Data with the Microsoft Analytics Platform System",
+    "VideoLength": "00:49:49",
+    "VideoTitle": "Big Data with the Microsoft Analytics Platform System: (04) APS Data Loading",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:12:33.5639003Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/794c/5df6ec51-b92d-4a2d-bf65-c7a8a263794c/308MicrosoftAnalyticsPlatformSystemM04_mid.mp4",
+    "Description": "Learn how APS uses the MPP to load data into APS at extremely high speeds yet protects the integrity of data, and discover the true meaning of near real-time data loads while running a mixed workload "
+  },
+  {
+    "VideoId": "db2ade9f-d5c1-4917-a182-a406014e5337",
+    "DataApi": "/Entries(guid'db2ade9f-d5c1-4917-a182-a406014e5337')/",
+    "VideoPageLink": "/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/967c/6f6c3b30-ca2b-4f9d-b074-01f7157a967c/308MicrosoftAnalyticsPlatformSystemM05_960.jpg",
+    "ShowName": "Big Data with the Microsoft Analytics Platform System",
+    "VideoLength": "00:42:50",
+    "VideoTitle": "Big Data with the Microsoft Analytics Platform System: (05) HDI Region Software, Tools, & Polybase",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:13:16.5284544Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/967c/6f6c3b30-ca2b-4f9d-b074-01f7157a967c/308MicrosoftAnalyticsPlatformSystemM05_mid.mp4",
+    "Description": "Explore the HDI (Hadoop) region in APS, what it is designed to do, and how it differs from standard Hadoop. And take a look at the various open-source projects (such as Hive) supported on APS and how "
+  },
+  {
+    "VideoId": "c40478f8-cd8e-470e-a045-a406014e76a1",
+    "DataApi": "/Entries(guid'c40478f8-cd8e-470e-a045-a406014e76a1')/",
+    "VideoPageLink": "/Series/Big-Data-with-the-Microsoft-Analytics-Platform-System/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9438/3c99f70a-f035-4e10-b153-5cfb8b5f9438/308MicrosoftAnalyticsPlatformSystemM06_960.jpg",
+    "ShowName": "Big Data with the Microsoft Analytics Platform System",
+    "VideoLength": "00:55:17",
+    "VideoTitle": "Big Data with the Microsoft Analytics Platform System: (06) BI Integration and End-to-End Demo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:13:16.8703522Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9438/3c99f70a-f035-4e10-b153-5cfb8b5f9438/308MicrosoftAnalyticsPlatformSystemM06_mid.mp4",
+    "Description": "Learn to make the most of the power of Microsoft BI tools amplified by APS, learn best practices for accessing APS using these powerful products, and find out how to optimize SSAS Cube design when cou"
+  }
+]

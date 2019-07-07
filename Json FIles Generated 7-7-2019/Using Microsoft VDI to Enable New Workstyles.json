@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "604ceab2-0edd-4e43-aa63-a1a600dbc2ae",
+    "DataApi": "/Entries(guid'604ceab2-0edd-4e43-aa63-a1a600dbc2ae')/",
+    "VideoPageLink": "/Series/Using-Microsoft-VDI-to-Enable-New-Workstyles/Using-Microsoft-VDI-to-Enable-New-Workstyles-02-Optimizing-the-User-Experience",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4275/c04ee266-d6aa-4bcd-96b2-106fa1b74275/VDIJS02_960.jpg",
+    "ShowName": "Using Microsoft VDI to Enable New Workstyles",
+    "VideoLength": "00:53:21",
+    "VideoTitle": "Using Microsoft VDI to Enable New Workstyles: (02) Optimizing the User Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-04-22T20:51:55.2375917Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4275/c04ee266-d6aa-4bcd-96b2-106fa1b74275/VDIJS02_mid.mp4",
+    "Description": "This section covers improvements for enhanced user experience via improvements in RemoteFX, intelligent transports (support for both UDP and TCP), touch / multi touch, USB redirection and Fairshare. I"
+  },
+  {
+    "VideoId": "a9dafc04-3b5d-41af-9226-a1a600dc4c42",
+    "DataApi": "/Entries(guid'a9dafc04-3b5d-41af-9226-a1a600dc4c42')/",
+    "VideoPageLink": "/Series/Using-Microsoft-VDI-to-Enable-New-Workstyles/Using-Microsoft-VDI-to-Enable-New-Workstyles-03-Deploying-Virtual-Desktops-with-Windows-Server-2012-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0b9/1c011ff5-d16c-416f-8d52-796fed69b0b9/VDIJS03_960.jpg",
+    "ShowName": "Using Microsoft VDI to Enable New Workstyles",
+    "VideoLength": "00:57:01",
+    "VideoTitle": "Using Microsoft VDI to Enable New Workstyles: (03) Deploying Virtual Desktops with Windows Server 2012 and RDS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-04-22T20:52:16.9295816Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0b9/1c011ff5-d16c-416f-8d52-796fed69b0b9/VDIJS03_mid.mp4",
+    "Description": "This session goes into remote desktop services components and configuration and the benefits. In addition Joey and Corey will be covering how to configure custom VDI with Server Manager, how to implem"
+  },
+  {
+    "VideoId": "e2de2bcd-4e9d-47ca-9b56-a1a600dcc327",
+    "DataApi": "/Entries(guid'e2de2bcd-4e9d-47ca-9b56-a1a600dcc327')/",
+    "VideoPageLink": "/Series/Using-Microsoft-VDI-to-Enable-New-Workstyles/Using-Microsoft-VDI-to-Enable-New-Workstyles-04-Hyper-V-for-VDI",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d552/e1e07f99-cdfd-46b0-9855-a2c9c21ad552/VDIJS04_960.jpg",
+    "ShowName": "Using Microsoft VDI to Enable New Workstyles",
+    "VideoLength": "01:00:28",
+    "VideoTitle": "Using Microsoft VDI to Enable New Workstyles: (04) Hyper-V for VDI",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-04-22T20:55:40.6919461Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d552/e1e07f99-cdfd-46b0-9855-a2c9c21ad552/VDIJS04_mid.mp4",
+    "Description": "This module is an introduction to Hyper-V, its technical requirements and architecture. It will also cover Hyper-V for VDI components and the various storage types and spaces. [08:59] - Hyper-V archit"
+  },
+  {
+    "VideoId": "515155dd-433c-4582-b8e5-a1a600dd1b12",
+    "DataApi": "/Entries(guid'515155dd-433c-4582-b8e5-a1a600dd1b12')/",
+    "VideoPageLink": "/Series/Using-Microsoft-VDI-to-Enable-New-Workstyles/Using-Microsoft-VDI-to-Enable-New-Workstyles-05-Capacity-Planning-and-Architecture",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ea85/4ae053f4-d897-46a1-bd59-053a50e4ea85/VDIJS05_960.jpg",
+    "ShowName": "Using Microsoft VDI to Enable New Workstyles",
+    "VideoLength": "00:48:36",
+    "VideoTitle": "Using Microsoft VDI to Enable New Workstyles: (05) Capacity Planning and Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-04-22T20:55:51.3563585Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ea85/4ae053f4-d897-46a1-bd59-053a50e4ea85/VDIJS05_mid.mp4",
+    "Description": "Designing a large scale VDI architecture can be a challenge. In this section more details are provided on how to scale and analyze performance across different types of storage. [11:13] - Design a lar"
+  },
+  {
+    "VideoId": "95dadcb9-38d0-4dac-b177-a1a600ddb771",
+    "DataApi": "/Entries(guid'95dadcb9-38d0-4dac-b177-a1a600ddb771')/",
+    "VideoPageLink": "/Series/Using-Microsoft-VDI-to-Enable-New-Workstyles/Using-Microsoft-VDI-to-Enable-New-Workstyles-06-Leveraging-Citrix",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4bc1/c41a79c6-ab5d-4a25-af05-99a8953b4bc1/VDIJS06_960.jpg",
+    "ShowName": "Using Microsoft VDI to Enable New Workstyles",
+    "VideoLength": "00:26:23",
+    "VideoTitle": "Using Microsoft VDI to Enable New Workstyles: (06) Leveraging Citrix",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-04-22T20:56:05.4789792Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4bc1/c41a79c6-ab5d-4a25-af05-99a8953b4bc1/VDIJS06_mid.mp4",
+    "Description": "This session portrays how powerful virtualization is when Microsoft and Citrix are combined. Corey provides a detailed overview and scenarios on jointly integrated unified management, the key value ad"
+  },
+  {
+    "VideoId": "490837c2-3807-4b78-a518-a1a600ddee22",
+    "DataApi": "/Entries(guid'490837c2-3807-4b78-a518-a1a600ddee22')/",
+    "VideoPageLink": "/Series/Using-Microsoft-VDI-to-Enable-New-Workstyles/Using-Microsoft-VDI-to-Enable-New-Workstyles-07-Microsoft-VDI-Licensing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aff1/9d116067-8784-4e18-ae98-1e46588faff1/VDIJS07_960.jpg",
+    "ShowName": "Using Microsoft VDI to Enable New Workstyles",
+    "VideoLength": "00:32:37",
+    "VideoTitle": "Using Microsoft VDI to Enable New Workstyles: (07) Microsoft VDI Licensing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-04-22T20:56:21.3747561Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aff1/9d116067-8784-4e18-ae98-1e46588faff1/VDIJS07_mid.mp4",
+    "Description": "Licensing a product is always tricky. This session covers how to license components of a VDI Solution and what kind of licensing options are available. [06:58] - VDI licensing components [09:50] - Lic"
+  }
+]

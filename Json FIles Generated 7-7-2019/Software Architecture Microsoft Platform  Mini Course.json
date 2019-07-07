@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "ef609e65-a6e5-4921-b54c-a55500dd5d21",
+    "DataApi": "/Entries(guid'ef609e65-a6e5-4921-b54c-a55500dd5d21')/",
+    "VideoPageLink": "/Series/Software-Architecture-Microsoft-Platform/Agile-Service-Architecture-for-the-Agile-Business",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/29c0/6f8f177f-eb5f-4328-ad06-9780f6f629c0/sundblad12_960.jpg",
+    "ShowName": "Software Architecture Microsoft Platform â€“ Mini Course",
+    "VideoLength": "00:17:36",
+    "VideoTitle": "Agile Service Architecture for the Agile Business",
+    "Author": "Dag KÃ¶nig",
+    "UtcDateTimePublished": "2015-11-20T04:26:12.5691615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/29c0/6f8f177f-eb5f-4328-ad06-9780f6f629c0/sundblad12_mid.mp4",
+    "Description": "The second episode is all about how to increase service agility in support of business agility. An agile service architecture is an extensible and modifiable architecture. New consumers of a service a"
+  },
+  {
+    "VideoId": "ce9ecc93-3aaf-439a-9f10-a5bc00a1593d",
+    "DataApi": "/Entries(guid'ce9ecc93-3aaf-439a-9f10-a5bc00a1593d')/",
+    "VideoPageLink": "/Series/Software-Architecture-Microsoft-Platform/Architectural-Service-Oriented-Patterns",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7845/89c06084-06ae-4a8b-a4d3-c67e74e47845/sundblad13_960.jpg",
+    "ShowName": "Software Architecture Microsoft Platform â€“ Mini Course",
+    "VideoLength": "00:19:11",
+    "VideoTitle": "Architectural Service-Oriented Patterns",
+    "Author": "Dag KÃ¶nig",
+    "UtcDateTimePublished": "2016-03-01T14:19:56.6972554Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7845/89c06084-06ae-4a8b-a4d3-c67e74e47845/sundblad13_mid.mp4",
+    "Description": "Welcome to the third episode of the Software Architecture Microsoft Platform mini course. It's about architectural and service-oriented patterns. We all know that object-oriented patterns have revolut"
+  },
+  {
+    "VideoId": "61f8aa00-2165-4393-b081-a626003f8285",
+    "DataApi": "/Entries(guid'61f8aa00-2165-4393-b081-a626003f8285')/",
+    "VideoPageLink": "/Series/Software-Architecture-Microsoft-Platform/Taking-Advantage-of-the-Microsoft-Azure-Service-Bus-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1c78/465674b6-51a0-4c6a-ab58-f7a9778f1c78/sundblad14_960.jpg",
+    "ShowName": "Software Architecture Microsoft Platform â€“ Mini Course",
+    "VideoLength": "00:14:26",
+    "VideoTitle": "Taking Advantage of the Microsoft Azure Service Bus Part 1",
+    "Author": "Dag KÃ¶nig",
+    "UtcDateTimePublished": "2016-06-15T10:47:45.1459676Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1c78/465674b6-51a0-4c6a-ab58-f7a9778f1c78/sundblad14_mid.mp4",
+    "Description": "Welcome to the fourth episode of the Software Architecture Microsoft Platform mini course. It's the beginning of a story that ends with episode 5. Together, these episodes present an architectural pat"
+  },
+  {
+    "VideoId": "d5758e9d-9e3c-4e4f-8877-a67a00fac809",
+    "DataApi": "/Entries(guid'd5758e9d-9e3c-4e4f-8877-a67a00fac809')/",
+    "VideoPageLink": "/Series/Software-Architecture-Microsoft-Platform/Taking-Advantage-of-the-Microsoft-Azure-Service-Bus-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae7d/5bf9acc5-25e4-4d1e-9e8c-35512e87ae7d/sundblad15_960.jpg",
+    "ShowName": "Software Architecture Microsoft Platform â€“ Mini Course",
+    "VideoLength": "00:15:57",
+    "VideoTitle": "Taking Advantage of the Microsoft Azure Service Bus Part 2",
+    "Author": "Dag KÃ¶nig",
+    "UtcDateTimePublished": "2016-09-07T15:43:38.3087055Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae7d/5bf9acc5-25e4-4d1e-9e8c-35512e87ae7d/sundblad15_mid.mp4",
+    "Description": "Welcome to the fifth episode of the Software Architecture Microsoft Platform mini course. It completes the story that began with episode 4. Together, these episodes present an architectural pattern th"
+  }
+]

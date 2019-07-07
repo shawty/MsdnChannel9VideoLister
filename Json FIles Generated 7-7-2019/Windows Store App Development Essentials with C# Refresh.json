@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "5cd29018-22b3-4730-9d5a-a27f0023f022",
+    "DataApi": "/Entries(guid'5cd29018-22b3-4730-9d5a-a27f0023f022')/",
+    "VideoPageLink": "/Series/win-store-app-essentials-csharp-refresh/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/900a/e0d43f48-483a-42c1-95c5-51321f51900a/WinStoreAppEssCRefreshM02_960.jpg",
+    "ShowName": "Windows Store App Development Essentials with C# Refresh",
+    "VideoLength": "00:51:28",
+    "VideoTitle": "Windows Store App Development Essentials with C# Refresh: (02) Building Windows Store Apps with XAML, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:53:25.1092924Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/900a/e0d43f48-483a-42c1-95c5-51321f51900a/WinStoreAppEssCRefreshM02_mid.mp4",
+    "Description": "Learn about XAML syntax, controls, and new features, including the new CommandBar (AppBar), Flyouts, and more. [01:10] - Basics &amp; Syntax[21:12] - Data BindingFull course outline: Mod 01: Building "
+  },
+  {
+    "VideoId": "dec2d1fa-9635-496d-81ab-a27f0024446b",
+    "DataApi": "/Entries(guid'dec2d1fa-9635-496d-81ab-a27f0024446b')/",
+    "VideoPageLink": "/Series/win-store-app-essentials-csharp-refresh/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0c1/aca4ee70-96bc-4611-b64c-e3a47be7b0c1/WinStoreAppEssCRefreshM03_960.jpg",
+    "ShowName": "Windows Store App Development Essentials with C# Refresh",
+    "VideoLength": "00:51:44",
+    "VideoTitle": "Windows Store App Development Essentials with C# Refresh: (03) Building Windows Store Apps with XAML, Part 3",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:53:38.5009698Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0c1/aca4ee70-96bc-4611-b64c-e3a47be7b0c1/WinStoreAppEssCRefreshM03_mid.mp4",
+    "Description": "Find out about layout controls, resource management, and data binding. [01:21] - Foundational Layout Controls[23:26] - Advanced Layout ControlsFull course outline: Mod 01: Building Windows Store Apps "
+  },
+  {
+    "VideoId": "1413bce4-d843-4373-9486-a27f00249986",
+    "DataApi": "/Entries(guid'1413bce4-d843-4373-9486-a27f00249986')/",
+    "VideoPageLink": "/Series/win-store-app-essentials-csharp-refresh/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/22c8/8d0370dc-98db-4a54-8b8b-7ec8ea4922c8/WinStoreAppEssCRefreshM04_960.jpg",
+    "ShowName": "Windows Store App Development Essentials with C# Refresh",
+    "VideoLength": "00:53:51",
+    "VideoTitle": "Windows Store App Development Essentials with C# Refresh: (04) Implementing Platform Features, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:53:50.4371616Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/22c8/8d0370dc-98db-4a54-8b8b-7ec8ea4922c8/WinStoreAppEssCRefreshM04_mid.mp4",
+    "Description": "Discover the Search, Share, and Settings contracts, and check out the new SearchBox control. [02:01] - Search Contract[25:54] - Share ContractFull course outline: Mod 01: Building Windows Store Apps w"
+  },
+  {
+    "VideoId": "21b2f27d-d02f-4882-9ef2-a27f0024dd8a",
+    "DataApi": "/Entries(guid'21b2f27d-d02f-4882-9ef2-a27f0024dd8a')/",
+    "VideoPageLink": "/Series/win-store-app-essentials-csharp-refresh/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/14bc/0a92a061-4b22-48c7-9724-3233f90514bc/WinStoreAppEssCRefreshM05_960.jpg",
+    "ShowName": "Windows Store App Development Essentials with C# Refresh",
+    "VideoLength": "00:49:37",
+    "VideoTitle": "Windows Store App Development Essentials with C# Refresh: (05) Implementing Platform Features, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:54:07.3274821Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/14bc/0a92a061-4b22-48c7-9724-3233f90514bc/WinStoreAppEssCRefreshM05_mid.mp4",
+    "Description": "Learn about Push Notifications, Live Tiles, and Toast Notifications.â€‹ [03:32] - Push Notifications[19:22] - Live Tiles[26:34] - Toast NotificationsFull course outline: Mod 01: Building Windows Store A"
+  },
+  {
+    "VideoId": "58151d14-f168-4ddf-a259-a27f00257573",
+    "DataApi": "/Entries(guid'58151d14-f168-4ddf-a259-a27f00257573')/",
+    "VideoPageLink": "/Series/win-store-app-essentials-csharp-refresh/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/62f5/3f3bbec5-e0b5-46d2-bcb0-19cfeb6962f5/WinStoreAppEssCRefreshM07_960.jpg",
+    "ShowName": "Windows Store App Development Essentials with C# Refresh",
+    "VideoLength": "00:53:33",
+    "VideoTitle": "Windows Store App Development Essentials with C# Refresh: (07) Architecture and Data Strategies, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:54:13.0852925Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/62f5/3f3bbec5-e0b5-46d2-bcb0-19cfeb6962f5/WinStoreAppEssCRefreshM07_mid.mp4",
+    "Description": "Learn the basics of Azure integration (including mobile services), authentication, and publishing to the Windows Store. [01:37] - Architecture Cont.[33:58] - App Store PublishingFull course outline: M"
+  },
+  {
+    "VideoId": "2efb6b69-bf45-4982-9bf3-a27f002538bf",
+    "DataApi": "/Entries(guid'2efb6b69-bf45-4982-9bf3-a27f002538bf')/",
+    "VideoPageLink": "/Series/win-store-app-essentials-csharp-refresh/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f39/8f7b9e1a-3683-455f-8aef-0c561aa38f39/WinStoreAppEssCRefreshM06_960.jpg",
+    "ShowName": "Windows Store App Development Essentials with C# Refresh",
+    "VideoLength": "00:55:15",
+    "VideoTitle": "Windows Store App Development Essentials with C# Refresh: (06) Architecture and Data Strategies, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:54:18.9667195Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f39/8f7b9e1a-3683-455f-8aef-0c561aa38f39/WinStoreAppEssCRefreshM06_mid.mp4",
+    "Description": "Find out how to choose the best data strategies for your app, including local data, local settings, and local databases. [00:54] - Remote Data[37:30] - Architecture DiscussionFull course outline: Mod "
+  }
+]

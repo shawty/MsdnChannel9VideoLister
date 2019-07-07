@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "81d2ab09-387e-4304-b08e-a624012ea0ef",
+    "DataApi": "/Entries(guid'81d2ab09-387e-4304-b08e-a624012ea0ef')/",
+    "VideoPageLink": "/Blogs/ITProGuru/How-to-Install-Hyper-V-Role-On-Windows-Server-2016-Step-By-Step",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ddc2/882a4d55-8de1-4e06-9b8d-92458909ddc2/InstallHyperVRoleONWindowsServer2016_960.jpg",
+    "ShowName": "ITProGuru Video Blog",
+    "VideoLength": "00:13:21",
+    "VideoTitle": "How to Install Hyper-V Role On Windows Server 2016 Step-By-Step",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2016-06-14T12:31:40.6812571Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ddc2/882a4d55-8de1-4e06-9b8d-92458909ddc2/InstallHyperVRoleONWindowsServer2016_mid.mp4",
+    "Description": "In this post, we will walk through the step-by-step process for adding and configuring Hyper-V on Windows Server 2016 - See full Step-By-Step Instructions (lab guide) at http://itproguru.com/expert/20"
+  },
+  {
+    "VideoId": "e7ef98c9-9b99-498b-9c49-a624013eadc0",
+    "DataApi": "/Entries(guid'e7ef98c9-9b99-498b-9c49-a624013eadc0')/",
+    "VideoPageLink": "/Blogs/ITProGuru/How-To-Enable-Remote-Desktop-for-Administrators-on-Windows-Server-2016-Plus-Adding-Users-to-Windows-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/53e3/0deee841-5051-4280-bf2c-f5b39d4a53e3/HowToEnableRemoteDesktopforAdministratorsonWindow_960.jpg",
+    "ShowName": "ITProGuru Video Blog",
+    "VideoLength": "00:05:20",
+    "VideoTitle": "How To Enable Remote Desktop for Administrators on Windows Server 2016 - Plus Adding Users to Windows Server 2016",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2016-06-14T12:31:02.216838Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/53e3/0deee841-5051-4280-bf2c-f5b39d4a53e3/HowToEnableRemoteDesktopforAdministratorsonWindow_mid.mp4",
+    "Description": "see full blog post at: http://itproguru.com/?p=95325 "
+  },
+  {
+    "VideoId": "c25bef71-d4fe-45bc-a498-a61d01414d93",
+    "DataApi": "/Entries(guid'c25bef71-d4fe-45bc-a498-a61d01414d93')/",
+    "VideoPageLink": "/Blogs/ITProGuru/How-To-Install-Windows-Server-2016-on-Bare-metal",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac94/39318a25-cd9a-4b58-bbf7-83f8011fac94/HowToInstallWindowsServer2016onMetal_960.jpg",
+    "ShowName": "ITProGuru Video Blog",
+    "VideoLength": "00:07:09",
+    "VideoTitle": "How To Install Windows Server 2016 on Bare metal",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2016-06-08T19:58:04.951571Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac94/39318a25-cd9a-4b58-bbf7-83f8011fac94/HowToInstallWindowsServer2016onMetal_mid.mp4",
+    "Description": "See Installing Windows Server 2016 on Bare Metal Step-By-Step for full step by step instructions and the home of this video.  Leverage Create Bootable Windows Server 2016 USB Thumb Drive for Installin"
+  },
+  {
+    "VideoId": "a5c7f6be-36cb-4520-92b8-a5de01004bd4",
+    "DataApi": "/Entries(guid'a5c7f6be-36cb-4520-92b8-a5de01004bd4')/",
+    "VideoPageLink": "/Blogs/ITProGuru/Create-Bootable-Windows-Server-2016-USB-Installation-Drive-Step-by-step",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/032a/89b42e3d-4a38-4729-a632-8338bcbe032a/CreateBootableUSBforWin2016ServerInstall_960.jpg",
+    "ShowName": "ITProGuru Video Blog",
+    "VideoLength": "00:12:46",
+    "VideoTitle": "Create Bootable Windows Server 2016 USB Installation Drive Step-by-step",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2016-06-07T13:43:11.6559923Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/032a/89b42e3d-4a38-4729-a632-8338bcbe032a/CreateBootableUSBforWin2016ServerInstall_mid.mp4",
+    "Description": "These procedures were written and tested using Windows Server 2016 Technical Preview 5 but should work on any version of Windows Server or Windos Desktop version 8 or above.  They should work on prior"
+  },
+  {
+    "VideoId": "a041da8d-9eaf-440a-8ed2-a5d70101fb86",
+    "DataApi": "/Entries(guid'a041da8d-9eaf-440a-8ed2-a5d70101fb86')/",
+    "VideoPageLink": "/Blogs/ITProGuru/Paul-Braren-Everything-You-Need-To-Know-About-State-Of-The-Art-SSD-Drives-NVMe-PCIe-M2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c19/f326c153-ed58-4c6e-b68e-80ca7ffd8c19/SSDWithPaulBraren_960.jpg",
+    "ShowName": "ITProGuru Video Blog",
+    "VideoLength": "00:25:58",
+    "VideoTitle": "Paul Braren Everything You Need To Know About State Of The Art SSD Drives NVMe, PCIe, M.2",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2016-03-30T18:28:11.4074109Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c19/f326c153-ed58-4c6e-b68e-80ca7ffd8c19/SSDWithPaulBraren_mid.mp4",
+    "Description": "Recent SSD performance has catapulted storage capabilities into a new level of reality.   Learn about this new technology.  Paul Braren shares insights about the technology, how to install it, how to "
+  }
+]

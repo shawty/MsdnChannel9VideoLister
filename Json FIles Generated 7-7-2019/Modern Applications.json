@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "5fef95c8-05bb-4d42-b384-a56b01583eee",
+    "DataApi": "/Entries(guid'5fef95c8-05bb-4d42-b384-a56b01583eee')/",
+    "VideoPageLink": "/Series/Modern-Applications/Take-a-modern-approach-to-data-in-your-apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/42b3/a00cc822-62f5-4c80-b65f-891bc8f442b3/moderndata_960.jpg",
+    "ShowName": "Modern Applications",
+    "VideoLength": "01:02:17",
+    "VideoTitle": "Take a modern approach to data in your apps",
+    "Author": "Tara Shankar Jana",
+    "UtcDateTimePublished": "2015-12-14T03:10:53.8638248Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/42b3/a00cc822-62f5-4c80-b65f-891bc8f442b3/moderndata_mid.mp4",
+    "Description": "Modern Application Demo- WingTip Tickets (SaaS Application) and Dartmouth Hitchcock (Patient Healthcare) WingTip Tickets- This demonstration explores the benefits for several Microsoft Azure SQL Datab"
+  }
+]

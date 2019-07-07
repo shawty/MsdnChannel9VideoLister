@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "74564514-2c56-4e32-b718-a18d013f18fa",
+    "DataApi": "/Entries(guid'74564514-2c56-4e32-b718-a18d013f18fa')/",
+    "VideoPageLink": "/Blogs/Windows-Store/Building-Games-for-Windows-8",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e955/35410b81-eabe-4f8e-8e47-a8c518b9e955/BuildingGamesForWindows8_512.jpg",
+    "ShowName": "Windows Store",
+    "VideoLength": "00:01:57",
+    "VideoTitle": "Building Games for Windows 8",
+    "Author": "bjthompson",
+    "UtcDateTimePublished": "2013-03-26T19:32:15.4276577Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e955/35410b81-eabe-4f8e-8e47-a8c518b9e955/BuildingGamesForWindows8_mid.mp4",
+    "Description": "See how Halfbrick, Arkadium and Oceanhouse Media brought their titles to Windows 8. To learn more, visit www.windowsstore.com. "
+  },
+  {
+    "VideoId": "519d0129-8de0-47b2-942c-a1660008e375",
+    "DataApi": "/Entries(guid'519d0129-8de0-47b2-942c-a1660008e375')/",
+    "VideoPageLink": "/Blogs/Windows-Store/Wikipedia-Building-for-Windows-8",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/47c6/7fdb0d5e-df60-4a22-93cb-51a4059847c6/WikipediaWindowsStore_512.jpg",
+    "ShowName": "Windows Store",
+    "VideoLength": "00:01:17",
+    "VideoTitle": "Wikipedia - Building for Windows 8",
+    "Author": "bjthompson",
+    "UtcDateTimePublished": "2013-02-15T19:59:14.1720702Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb84/6fc1c369-e973-462b-81bc-4d37f52bbb84/WikipediaWindows8v2_mid.mp4",
+    "Description": "See how Windows 8 lets Wikipedia reach the entire world on all types of devices.   Learn more at http://windowsstore.com "
+  },
+  {
+    "VideoId": "76212390-1c9e-4a8b-8661-a10001094a0f",
+    "DataApi": "/Entries(guid'76212390-1c9e-4a8b-8661-a10001094a0f')/",
+    "VideoPageLink": "/Blogs/Windows-Store/StumbleUpon-Building-for-Windows-8",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b9e9/4352757b-d026-497a-aebe-08173b1cb9e9/StubleUponWindows8_512.jpg",
+    "ShowName": "Windows Store",
+    "VideoLength": "00:01:55",
+    "VideoTitle": "StumbleUpon: Building for Windows 8",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-11-05T16:23:06.1739425Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b9e9/4352757b-d026-497a-aebe-08173b1cb9e9/StubleUponWindows8_mid.mp4",
+    "Description": "See how StumbleUpon immerses you in great content without the chrome. Learn more at the Windows Store. "
+  },
+  {
+    "VideoId": "9903b265-97c4-4a14-9b78-a0f6015e61ac",
+    "DataApi": "/Entries(guid'9903b265-97c4-4a14-9b78-a0f6015e61ac')/",
+    "VideoPageLink": "/Blogs/Windows-Store/Allrecipes-Building-for-Windows-8",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/993d/6db00be7-f250-4b35-94e5-a5168941993d/AllRecipesBuildingForWindows8_512.jpg",
+    "ShowName": "Windows Store",
+    "VideoLength": "00:02:02",
+    "VideoTitle": "Allrecipes - Building for Windows 8",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-10-26T21:58:15.6243347Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/993d/6db00be7-f250-4b35-94e5-a5168941993d/AllRecipesBuildingForWindows8_mid.mp4",
+    "Description": "Learn about how AllRecipes brings content to the forefront in the Windows Store apps.For more information, please visit http://windowsstore.com "
+  },
+  {
+    "VideoId": "c04ae530-802d-4817-b046-a0f6000bd4bd",
+    "DataApi": "/Entries(guid'c04ae530-802d-4817-b046-a0f6000bd4bd')/",
+    "VideoPageLink": "/Blogs/Windows-Store/Box-Building-for-Windows-8",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9af1/844699b2-cfaa-42b4-9461-7d6845d99af1/BoxBuildingForWindows8_512.jpg",
+    "ShowName": "Windows Store",
+    "VideoLength": "00:01:51",
+    "VideoTitle": "Box: Building for Windows 8",
+    "Author": "bjthompson",
+    "UtcDateTimePublished": "2012-10-26T17:22:04.5652056Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9af1/844699b2-cfaa-42b4-9461-7d6845d99af1/BoxBuildingForWindows8_mid.mp4",
+    "Description": "Learn about how the Box Windows Store app is deeply integrated into Windows 8. For more information, please see visit WindowsStore.com "
+  },
+  {
+    "VideoId": "64bfc409-a4f6-40ea-9ddc-a0f6000bf9b3",
+    "DataApi": "/Entries(guid'64bfc409-a4f6-40ea-9ddc-a0f6000bf9b3')/",
+    "VideoPageLink": "/Blogs/Windows-Store/Ratio-Interactive-Windows-Agency-Network",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a635/bdf3610a-e375-4aa5-a9bc-daee8c9ca635/RatioInteractiveWindowsAgencyNetwork_512.jpg",
+    "ShowName": "Windows Store",
+    "VideoLength": "00:02:00",
+    "VideoTitle": "Ratio Interactive: Windows Agency Network",
+    "Author": "bjthompson",
+    "UtcDateTimePublished": "2012-10-26T17:21:50.9567887Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a635/bdf3610a-e375-4aa5-a9bc-daee8c9ca635/RatioInteractiveWindowsAgencyNetwork_mid.mp4",
+    "Description": "Ratio Interactive discusses the huge potential opportunity Windows 8 provides. For more information, visit WindowsStore.com "
+  }
+]

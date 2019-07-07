@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d4fb0f20-5c3e-4928-8071-a4690147d88a",
+    "DataApi": "/Entries(guid'd4fb0f20-5c3e-4928-8071-a4690147d88a')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Development-for-Office-365/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d9b/de10bd12-e1b4-4c3e-9e0f-a77f14a97d9b/544SharePointOnlineDevForO365M02_960.jpg",
+    "ShowName": "SharePoint Online Development for Office 365",
+    "VideoLength": "00:30:29",
+    "VideoTitle": "SharePoint Online Development for Office 365: (02) Introduction to SharePoint Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-29T16:13:22.3909482Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d9b/de10bd12-e1b4-4c3e-9e0f-a77f14a97d9b/544SharePointOnlineDevForO365M02_mid.mp4",
+    "Description": "See howâ€‹ â€‹SharePoint, both online and on-premises, can be extended through the use of apps. Explore how to create a SharePoint app, and walk through the first part of Lab 3 from the Office 365 DevCamp"
+  },
+  {
+    "VideoId": "2685d1ea-960a-4869-9d98-a4690147ffc4",
+    "DataApi": "/Entries(guid'2685d1ea-960a-4869-9d98-a4690147ffc4')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Development-for-Office-365/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c151/db8c6be6-e843-4ff0-a107-36a57fc9c151/544SharePointOnlineDevForO365M03_960.jpg",
+    "ShowName": "SharePoint Online Development for Office 365",
+    "VideoLength": "00:34:24",
+    "VideoTitle": "SharePoint Online Development for Office 365: (03) OAuth",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-29T16:13:34.504247Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c151/db8c6be6-e843-4ff0-a107-36a57fc9c151/544SharePointOnlineDevForO365M03_mid.mp4",
+    "Description": "Since authentication for SharePoint apps is handled through OAuth, find out how to obtain and manage tokens by continuing through Lab 3. [01:43] - OAuth Concepts[13:20] - Programming OAuth[26:58] - La"
+  },
+  {
+    "VideoId": "69ef0323-221e-4cf2-bef7-a469014828d7",
+    "DataApi": "/Entries(guid'69ef0323-221e-4cf2-bef7-a469014828d7')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Development-for-Office-365/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/05b9/b8cc62ee-233d-4733-aa8f-ba30a81b05b9/544SharePointOnlineDevForO365M04_960.jpg",
+    "ShowName": "SharePoint Online Development for Office 365",
+    "VideoLength": "00:28:59",
+    "VideoTitle": "SharePoint Online Development for Office 365: (04) Cross-Domain Library",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-29T16:13:44.1817101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/05b9/b8cc62ee-233d-4733-aa8f-ba30a81b05b9/544SharePointOnlineDevForO365M04_mid.mp4",
+    "Description": "When creating code that will run outside of SharePoint but will access SharePoint data, there are some potential security issues, so take a look at how they are addressed. Then, complete Lab 3. [01:51"
+  },
+  {
+    "VideoId": "f72f1506-1b5c-4289-92b2-a46901485010",
+    "DataApi": "/Entries(guid'f72f1506-1b5c-4289-92b2-a46901485010')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Development-for-Office-365/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3574/57a586c7-0015-412f-9311-c8b0f9893574/544SharePointOnlineDevForO365M05_960.jpg",
+    "ShowName": "SharePoint Online Development for Office 365",
+    "VideoLength": "00:40:33",
+    "VideoTitle": "SharePoint Online Development for Office 365: (05) Office 365 Authentication",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-29T16:13:52.5333281Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3574/57a586c7-0015-412f-9311-c8b0f9893574/544SharePointOnlineDevForO365M05_mid.mp4",
+    "Description": "Find out about using Office 365 as the back end for your application. Start by investigating how to manage authentication, and begin working through Lab 4 from the Office 365 DevCamp. [00:57] - Hook i"
+  },
+  {
+    "VideoId": "263b4158-fb34-41e5-993c-a46901488308",
+    "DataApi": "/Entries(guid'263b4158-fb34-41e5-993c-a46901488308')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Development-for-Office-365/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c21e/7c4a8afa-0f8e-41e2-b73d-1e53ffc0c21e/544SharePointOnlineDevForO365M06_960.jpg",
+    "ShowName": "SharePoint Online Development for Office 365",
+    "VideoLength": "00:27:44",
+    "VideoTitle": "SharePoint Online Development for Office 365: (06) Office 365 APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-29T16:14:03.8248281Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c21e/7c4a8afa-0f8e-41e2-b73d-1e53ffc0c21e/544SharePointOnlineDevForO365M06_mid.mp4",
+    "Description": "Close off the day, and Lab 4, by seeing the power of the Office 365 APIs. Find out how to manage contacts, files, and SharePoint sites. [01:15] - Connecting Calendar, Mail and Contacts[03:23] - Exerci"
+  }
+]

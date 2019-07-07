@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5c624e09-32bc-42e7-a33b-a47b0169b194",
+    "DataApi": "/Entries(guid'5c624e09-32bc-42e7-a33b-a47b0169b194')/",
+    "VideoPageLink": "/Series/Using-XML-in-SQL-Server-and-Azure-SQL-Database/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/636c/90fc419c-9865-4bae-b592-29725ba3636c/708UsingXMLinSQLM02_960.jpg",
+    "ShowName": "Using XML in SQL Server and Azure SQL Database",
+    "VideoLength": "00:46:47",
+    "VideoTitle": "Using XML in SQL Server and Azure SQL Database: (02) Storing and Querying XML",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:14:34.6733678Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/636c/90fc419c-9865-4bae-b592-29725ba3636c/708UsingXMLinSQLM02_mid.mp4",
+    "Description": "Explore the XML data type. Plus, learn how to use XQuery and to query XML data in Transact-SQL.â€‹ [00:56] - The XML data Type[06:29] - Xquery[12:55] - Querying the XML Data Type[36:24] - Modifying the "
+  },
+  {
+    "VideoId": "633b2d96-8dd0-4dc9-846a-a47b0169d8bb",
+    "DataApi": "/Entries(guid'633b2d96-8dd0-4dc9-846a-a47b0169d8bb')/",
+    "VideoPageLink": "/Series/Using-XML-in-SQL-Server-and-Azure-SQL-Database/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3536/e86d56c9-9ee8-4ef9-9424-26a816c13536/708UsingXMLinSQLM03_960.jpg",
+    "ShowName": "Using XML in SQL Server and Azure SQL Database",
+    "VideoLength": "00:11:05",
+    "VideoTitle": "Using XML in SQL Server and Azure SQL Database: (03) Implementing XML Indexes",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:14:44.6376288Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3536/e86d56c9-9ee8-4ef9-9424-26a816c13536/708UsingXMLinSQLM03_mid.mp4",
+    "Description": "Find out how to define and use XML indexes on XML columns in a database.â€‹ [00:35] - Intro to XML Indexes and Primary XML index[03:03] - Secondary XML Indexes"
+  },
+  {
+    "VideoId": "d34b85b2-9e02-487d-9e8c-a47b016a0457",
+    "DataApi": "/Entries(guid'd34b85b2-9e02-487d-9e8c-a47b016a0457')/",
+    "VideoPageLink": "/Series/Using-XML-in-SQL-Server-and-Azure-SQL-Database/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8e31/7dd8faa6-0aa1-4228-8dc7-ab8554bf8e31/708UsingXMLinSQLM04_960.jpg",
+    "ShowName": "Using XML in SQL Server and Azure SQL Database",
+    "VideoLength": "00:24:32",
+    "VideoTitle": "Using XML in SQL Server and Azure SQL Database: (04) Working with Typed XML",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:15:00.930615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8e31/7dd8faa6-0aa1-4228-8dc7-ab8554bf8e31/708UsingXMLinSQLM04_mid.mp4",
+    "Description": "Take a look at the concept of typed XML and the XML schema specification used to implement it. See how to define and use Schema Collections to implement typed XML in a database. [01:04] - XML Schemas["
+  },
+  {
+    "VideoId": "1138c71b-ca8b-40d8-86e1-a47b016a5694",
+    "DataApi": "/Entries(guid'1138c71b-ca8b-40d8-86e1-a47b016a5694')/",
+    "VideoPageLink": "/Series/Using-XML-in-SQL-Server-and-Azure-SQL-Database/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5fc0/508c4a3f-14a3-4060-a03b-53b7d87d5fc0/708UsingXMLinSQLM06_960.jpg",
+    "ShowName": "Using XML in SQL Server and Azure SQL Database",
+    "VideoLength": "00:29:44",
+    "VideoTitle": "Using XML in SQL Server and Azure SQL Database: (06) Creating XML from Relational Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:15:26.515439Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5fc0/508c4a3f-14a3-4060-a03b-53b7d87d5fc0/708UsingXMLinSQLM06_mid.mp4",
+    "Description": "Find out how to use the FOR XML clause to generate XML from relational data structures. [00:17] - The FOR XML Clause[00:58] - RAW MODE[05:20] - AUTO MODE[09:44] - EXPLICIT MODE[18:02] - PATH MODE[24:1"
+  },
+  {
+    "VideoId": "4dfafac0-d80c-4692-9f25-a4850118bd1a",
+    "DataApi": "/Entries(guid'4dfafac0-d80c-4692-9f25-a4850118bd1a')/",
+    "VideoPageLink": "/Series/Using-XML-in-SQL-Server-and-Azure-SQL-Database/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ab0/4809086f-505e-4762-80fa-736fd25d5ab0/708UsingXMLinSQLM05_960.jpg",
+    "ShowName": "Using XML in SQL Server and Azure SQL Database",
+    "VideoLength": "00:27:02",
+    "VideoTitle": "Using XML in SQL Server and Azure SQL Database: (05) Creating Relational Data from XML",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-25T18:06:04.3898657Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ab0/4809086f-505e-4762-80fa-736fd25d5ab0/708UsingXMLinSQLM05_mid.mp4",
+    "Description": "Get the details on how to use the OPENXML function to convert XML data to a relational structure.â€‹ [01:26] - Options for Shredding XML[03:34] - The Nodes Method[09:35] - OPENXML[16:31] - OPENXML with "
+  }
+]

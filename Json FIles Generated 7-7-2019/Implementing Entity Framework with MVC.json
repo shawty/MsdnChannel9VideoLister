@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "ee520b5e-0b7e-4ead-9844-a43a01404fc1",
+    "DataApi": "/Entries(guid'ee520b5e-0b7e-4ead-9844-a43a01404fc1')/",
+    "VideoPageLink": "/Series/Implementing-Entity-Framework-with-MVC/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/68cf/e5b6f029-b63c-4491-a5f5-9931de5a68cf/583ImplementingEntityFrameworkMVCM02_960.jpg",
+    "ShowName": "Implementing Entity Framework with MVC",
+    "VideoLength": "00:53:17",
+    "VideoTitle": "Implementing Entity Framework with MVC: (02) Beginning Code First",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-09T23:30:43.8483577Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/68cf/e5b6f029-b63c-4491-a5f5-9931de5a68cf/583ImplementingEntityFrameworkMVCM02_mid.mp4",
+    "Description": "After installing Entity Framework, itâ€™s time to start doing development. Look at creating classes and data contexts, and find out how to configure the database. [01:22] - Simple Code First[03:31] - Cr"
+  },
+  {
+    "VideoId": "d83c94bc-c2e7-4ca6-a189-a43a014079bb",
+    "DataApi": "/Entries(guid'd83c94bc-c2e7-4ca6-a189-a43a014079bb')/",
+    "VideoPageLink": "/Series/Implementing-Entity-Framework-with-MVC/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf98/b169147c-d62b-415e-b3f2-71a9065cbf98/583ImplementingEntityFrameworkMVCM03_960.jpg",
+    "ShowName": "Implementing Entity Framework with MVC",
+    "VideoLength": "00:42:53",
+    "VideoTitle": "Implementing Entity Framework with MVC: (03) Managing Relationships",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-09T23:30:53.3348181Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf98/b169147c-d62b-415e-b3f2-71a9065cbf98/583ImplementingEntityFrameworkMVCM03_mid.mp4",
+    "Description": "Classes are going to map to tables and need to have relationships. See how to configure and manage those relationships. And get a bonus section on inheritance. [01:35] - One-to-Many Relationships[21:2"
+  },
+  {
+    "VideoId": "c763f1d2-f6e7-444b-ad47-a43a0140a86d",
+    "DataApi": "/Entries(guid'c763f1d2-f6e7-444b-ad47-a43a0140a86d')/",
+    "VideoPageLink": "/Series/Implementing-Entity-Framework-with-MVC/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de2d/e32e3280-020d-4892-94c3-61b5dc0bde2d/583ImplementingEntityFrameworkMVCM04_960.jpg",
+    "ShowName": "Implementing Entity Framework with MVC",
+    "VideoLength": "01:02:36",
+    "VideoTitle": "Implementing Entity Framework with MVC: (04) Managing the Database",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-09T23:31:06.4819873Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de2d/e32e3280-020d-4892-94c3-61b5dc0bde2d/583ImplementingEntityFrameworkMVCM04_mid.mp4",
+    "Description": "Although simple applications can be managed with conventions, they wonâ€™t necessarily scale. Find out how Entity Framework allows you complete control over the database. [04:29] - Fluent API[44:16] - C"
+  },
+  {
+    "VideoId": "750e8d91-c74f-4439-98db-a43a0140cfa0",
+    "DataApi": "/Entries(guid'750e8d91-c74f-4439-98db-a43a0140cfa0')/",
+    "VideoPageLink": "/Series/Implementing-Entity-Framework-with-MVC/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0577/79fe3baa-7190-4e15-95c2-3ecf9c0e0577/583ImplementingEntityFrameworkMVCM05_960.jpg",
+    "ShowName": "Implementing Entity Framework with MVC",
+    "VideoLength": "00:41:48",
+    "VideoTitle": "Implementing Entity Framework with MVC: (05) Managing Transactions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-09T23:31:19.9260008Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0577/79fe3baa-7190-4e15-95c2-3ecf9c0e0577/583ImplementingEntityFrameworkMVCM05_mid.mp4",
+    "Description": "Dealing with multiple objects requires consistency in the database. Examine how to manage concurrency and transactions.â€‹ [01:04] - Working in a web application[11:39] - Managing Concurrency[37:06] - T"
+  },
+  {
+    "VideoId": "8ab78435-2289-4576-897d-a43a0140fded",
+    "DataApi": "/Entries(guid'8ab78435-2289-4576-897d-a43a0140fded')/",
+    "VideoPageLink": "/Series/Implementing-Entity-Framework-with-MVC/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cbd3/ef2f2276-51da-4292-8100-378e296bcbd3/583ImplementingEntityFrameworkMVCM06_960.jpg",
+    "ShowName": "Implementing Entity Framework with MVC",
+    "VideoLength": "00:56:34",
+    "VideoTitle": "Implementing Entity Framework with MVC: (06) Integrating Extra Features and Looking Forward",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-09T23:31:29.5112916Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cbd3/ef2f2276-51da-4292-8100-378e296bcbd3/583ImplementingEntityFrameworkMVCM06_mid.mp4",
+    "Description": "Get a look backward and forward. See how to improve performance, implement eager loading, and see what Entity Framework 7 will offer in the future. [01:04] - Stored Procedures[16:32] - Increasing User"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "ac92433a-2c55-4db8-8982-a5c0001f15eb",
+    "DataApi": "/Entries(guid'ac92433a-2c55-4db8-8982-a5c0001f15eb')/",
+    "VideoPageLink": "/Blogs/Indie-Game-Dev/Playcrafting-February-Demo-Night-2016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1b51/c8800240-6db9-4e1a-b3a5-b50c73da1b51/Playcraftingfebdemonight2016_960.jpg",
+    "ShowName": "Indie Game Dev",
+    "VideoLength": "00:03:55",
+    "VideoTitle": "Playcrafting February Demo Night 2016",
+    "Author": "Adina Shanholtz",
+    "UtcDateTimePublished": "2016-03-08T00:08:58.2400006Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1b51/c8800240-6db9-4e1a-b3a5-b50c73da1b51/Playcraftingfebdemonight2016_mid.mp4",
+    "Description": "Music: pl4y1ng by Rolemusic Playcrafting holds monthly demo nights that feature games made by indie developers in the community. The featured games:  Peter Panic by Heckle Inc baboon - Twitter The Pai"
+  },
+  {
+    "VideoId": "833ee81a-f42d-4b22-9e37-a5bb013f2f35",
+    "DataApi": "/Entries(guid'833ee81a-f42d-4b22-9e37-a5bb013f2f35')/",
+    "VideoPageLink": "/Blogs/Indie-Game-Dev/A-Word-from-XBOXs-Major-Nelson--Recap-of-the-NYC-2016-Global-Game-Jam",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf32/f6c038f9-e627-48d2-86f2-43dd1242cf32/majornelsongamejam2016_960.jpg",
+    "ShowName": "Indie Game Dev",
+    "VideoLength": "00:20:03",
+    "VideoTitle": "A Word from XBOX's Major Nelson & Recap of the NYC 2016 Global Game Jam",
+    "Author": "Stacey Mulcahy",
+    "UtcDateTimePublished": "2016-02-29T21:22:39.6255194Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf32/f6c038f9-e627-48d2-86f2-43dd1242cf32/majornelsongamejam2016_mid.mp4",
+    "Description": "We knew it was a long shot, but we tried to get Larry Hryb ( @majornelson ) out to NYC to see all the indie game developers in full game-making mode for the Global Game Jam 2016.  We couldn't make it "
+  },
+  {
+    "VideoId": "593abc3a-6b5c-4cc1-8735-a5bb014f0798",
+    "DataApi": "/Entries(guid'593abc3a-6b5c-4cc1-8735-a5bb014f0798')/",
+    "VideoPageLink": "/Blogs/Indie-Game-Dev/Using-Visual-Studio-Code-with-Unity-on-OSX",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/064e/948ec8ca-2655-4660-a694-e59af769064e/unityosxvisualstudiocode_960.jpg",
+    "ShowName": "Indie Game Dev",
+    "VideoLength": "00:03:21",
+    "VideoTitle": "Using Visual Studio Code with Unity on OSX",
+    "Author": "Stacey Mulcahy",
+    "UtcDateTimePublished": "2016-02-29T21:14:13.4596326Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/064e/948ec8ca-2655-4660-a694-e59af769064e/unityosxvisualstudiocode.mp4",
+    "Description": "Need a different code editor on your Mac for your Unity development? In this tutorial, we'll go through how to set up Visual Studio Code to work with Unity and get features needed such as Intellisense"
+  },
+  {
+    "VideoId": "816051df-272b-406b-839b-a5ab001e3467",
+    "DataApi": "/Entries(guid'816051df-272b-406b-839b-a5ab001e3467')/",
+    "VideoPageLink": "/Blogs/Indie-Game-Dev/A-day-in-the-life-of-a-demoing-Indie-Game-Dev",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75e8/aeb88397-2321-41fe-bfbc-87215bd175e8/indiegamedevvlog_960.jpg",
+    "ShowName": "Indie Game Dev",
+    "VideoLength": "00:02:40",
+    "VideoTitle": "A day in the life of a demo'ing Indie Game Dev",
+    "Author": "Stacey Mulcahy",
+    "UtcDateTimePublished": "2016-02-13T03:00:34.8549047Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75e8/aeb88397-2321-41fe-bfbc-87215bd175e8/indiegamedevvlog_mid.mp4",
+    "Description": "Follow Nikola Kostic, a local NYC indie game developer, as his day from start to end is documented as he preps to demo his game at Playcrafting's Winter Expo on January 28th at the Microsoft offices. "
+  },
+  {
+    "VideoId": "cddf0801-0dda-4fea-8b56-a5ab001ca768",
+    "DataApi": "/Entries(guid'cddf0801-0dda-4fea-8b56-a5ab001ca768')/",
+    "VideoPageLink": "/Blogs/Indie-Game-Dev/Playcrafting-Game-Expo-for-Indie-Game-Devs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc89/7406196c-ef67-4964-ba24-ee36094abc89/indiegamedevgameexpo_960.jpg",
+    "ShowName": "Indie Game Dev",
+    "VideoLength": "00:02:56",
+    "VideoTitle": "Playcrafting Game Expo for Indie Game Devs",
+    "Author": "Stacey Mulcahy",
+    "UtcDateTimePublished": "2016-02-13T02:48:06.9216283Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc89/7406196c-ef67-4964-ba24-ee36094abc89/indiegamedevgameexpo_mid.mp4",
+    "Description": "Microsoft teamed up with Playcrafting to host a Global Game Jam in NYC from January 29th-31st!  Check out a video recap of all the indie dev action going on in NYC at the Expo on January 28th, 2016 - "
+  },
+  {
+    "VideoId": "23abc148-abc8-49f8-9999-a5a7016e6bc2",
+    "DataApi": "/Entries(guid'23abc148-abc8-49f8-9999-a5a7016e6bc2')/",
+    "VideoPageLink": "/Blogs/Indie-Game-Dev/Global-Game-Jam-2016-Playcrafting",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e586/9baa3725-1cf7-4aae-9c56-8eccb396e586/globalgamejam2016nyc_960.jpg",
+    "ShowName": "Indie Game Dev",
+    "VideoLength": "00:19:38",
+    "VideoTitle": "Global Game Jam 2016 in NYC with Playcrafting Recap",
+    "Author": "Stacey Mulcahy",
+    "UtcDateTimePublished": "2016-02-13T02:43:45.4367221Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e586/9baa3725-1cf7-4aae-9c56-8eccb396e586/globalgamejam2016nyc_mid.mp4",
+    "Description": "Microsoft teamed up with Playcrafting to host a Global Game Jam in NYC from January 29th-31st! Over 300 people attended and jammed throughout the weekend creating games around the theme of Ritual. We "
+  }
+]

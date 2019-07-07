@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "6d68ec5a-ca7a-4a08-8a5b-a69101745f3e",
+    "DataApi": "/Entries(guid'6d68ec5a-ca7a-4a08-8a5b-a69101745f3e')/",
+    "VideoPageLink": "/Series/Azure-SQL-DW/Part-3Loading-Data-into-Azure-SQL-Data-Warehouse",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0fbd/0a4f792c-7de6-45df-b692-d39b35390fbd/LoadingDataintoAzureSQLDataWarehouse_960.jpg",
+    "ShowName": "Azure SQL DW",
+    "VideoLength": "01:07:06",
+    "VideoTitle": "Part 3â€“Loading Data into Azure SQL Data Warehouse",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-10-03T15:42:16.895625Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0fbd/0a4f792c-7de6-45df-b692-d39b35390fbd/LoadingDataintoAzureSQLDataWarehouse_mid.mp4",
+    "Description": "In this video, you will explore the different methods for loading data into a Data Warehouse and have a clear understanding of the efficient method to load. You will also understand the role of a &quo"
+  },
+  {
+    "VideoId": "b5b29eff-03ff-47fa-bf44-a6910158dd74",
+    "DataApi": "/Entries(guid'b5b29eff-03ff-47fa-bf44-a6910158dd74')/",
+    "VideoPageLink": "/Series/Azure-SQL-DW/Part1-Azure-SQL-Data-Warehouse-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca67/ab6374f8-413b-4699-ad6d-8667dc13ca67/AzureSQLDataWarehouseOverview_960.jpg",
+    "ShowName": "Azure SQL DW",
+    "VideoLength": "00:45:32",
+    "VideoTitle": "Part1â€“ Azure SQL Data Warehouse Overview",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2017-03-06T20:01:13.4914075Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca67/ab6374f8-413b-4699-ad6d-8667dc13ca67/AzureSQLDataWarehouseOverview_mid.mp4",
+    "Description": "This video will cover the key concepts of Azure SQL Data Warehouse and the Massively Parallel Processing architecture. At the end of this session you will also be able to create an Azure SQL Data Ware"
+  },
+  {
+    "VideoId": "16c48dd2-737b-4a73-89e9-a730014782cc",
+    "DataApi": "/Entries(guid'16c48dd2-737b-4a73-89e9-a730014782cc')/",
+    "VideoPageLink": "/Series/Azure-SQL-DW/BItoDCTeaser",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4dd1/b6e7ddad-4efe-4e45-9aee-b7e7d3514dd1/BItoDCTeaser_960.jpg",
+    "ShowName": "Azure SQL DW",
+    "VideoLength": "00:09:48",
+    "VideoTitle": "BItoDCTeaser",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2017-03-08T20:39:41.8507078Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4dd1/b6e7ddad-4efe-4e45-9aee-b7e7d3514dd1/BItoDCTeaser_mid.mp4",
+    "Description": "In this short video, learn how BI and BA professionals can transfer existing skills in the world of data science and the Cortana Intelligence Suite. This video shares the perspective of Chris Testa-O'"
+  }
+]

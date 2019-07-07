@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "d8d7e507-5c0b-4df4-966e-a3e3016c96e3",
+    "DataApi": "/Entries(guid'd8d7e507-5c0b-4df4-966e-a3e3016c96e3')/",
+    "VideoPageLink": "/Series/Upgrading-to-Microsoft-SQL-Server-2014/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0c7b/e91af932-28bd-450d-bafc-9a8245630c7b/587UpgradingToSQLServer2014M02_960.jpg",
+    "ShowName": "Upgrading to Microsoft SQL Server 2014",
+    "VideoLength": "00:55:18",
+    "VideoTitle": "Upgrading to Microsoft SQL Server 2014: (02) Planning Your Upgraded SQL Server Environment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:07:57.094053Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0c7b/e91af932-28bd-450d-bafc-9a8245630c7b/587UpgradingToSQLServer2014M02_mid.mp4",
+    "Description": "Find out what to look for and how to capture data on a pre-upgrade environment, and interpret the data to scale a new environment. Get details on address design for SQL Server on-premises and in Micro"
+  },
+  {
+    "VideoId": "11f45513-7832-4850-895a-a3e3016cc3f2",
+    "DataApi": "/Entries(guid'11f45513-7832-4850-895a-a3e3016cc3f2')/",
+    "VideoPageLink": "/Series/Upgrading-to-Microsoft-SQL-Server-2014/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cff6/868137fa-3ceb-451e-977b-ebf8cf45cff6/587UpgradingToSQLServer2014M03_960.jpg",
+    "ShowName": "Upgrading to Microsoft SQL Server 2014",
+    "VideoLength": "00:36:18",
+    "VideoTitle": "Upgrading to Microsoft SQL Server 2014: (03) Performing and Validating a SQL Server Upgrade",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:08:34.5821155Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cff6/868137fa-3ceb-451e-977b-ebf8cf45cff6/587UpgradingToSQLServer2014M03_mid.mp4",
+    "Description": "Learn about validating your upgraded SQL Server environment, including the options for side-by-side and in-place upgrades. Look at approaches such as mirroring, log shipping, backup and restore, and d"
+  },
+  {
+    "VideoId": "270a01e8-0dfa-4623-8df8-a44f012831e1",
+    "DataApi": "/Entries(guid'270a01e8-0dfa-4623-8df8-a44f012831e1')/",
+    "VideoPageLink": "/Series/Upgrading-to-Microsoft-SQL-Server-2014/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3014/6e686033-e788-40a8-97b9-5c689fe23014/587UpgradingToSQLServer2014M04_960.jpg",
+    "ShowName": "Upgrading to Microsoft SQL Server 2014",
+    "VideoLength": "00:51:31",
+    "VideoTitle": "Upgrading to Microsoft SQL Server 2014: (04) Upgrading SQL Server High Availability (HA) Environments",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-02T21:56:35.2461919Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3014/6e686033-e788-40a8-97b9-5c689fe23014/587UpgradingToSQLServer2014M04_mid.mp4",
+    "Description": "Review high availability (HA) options in prior versions, including Log Shipping, Mirroring, Failover Clustering, and Replication. Examine upgrade versus migration strategies, and look at consideration"
+  },
+  {
+    "VideoId": "bcd8dfc0-7e43-46a8-8e1d-a44f012855c3",
+    "DataApi": "/Entries(guid'bcd8dfc0-7e43-46a8-8e1d-a44f012855c3')/",
+    "VideoPageLink": "/Series/Upgrading-to-Microsoft-SQL-Server-2014/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51af/fc5298a3-0647-412d-81ea-b6f6c64f51af/587UpgradingToSQLServer2014M05_960.jpg",
+    "ShowName": "Upgrading to Microsoft SQL Server 2014",
+    "VideoLength": "00:45:08",
+    "VideoTitle": "Upgrading to Microsoft SQL Server 2014: (05) Upgrading SQL Server Integration Services (SSIS)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-02T21:56:44.8037882Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51af/fc5298a3-0647-412d-81ea-b6f6c64f51af/587UpgradingToSQLServer2014M05_mid.mp4",
+    "Description": "Explore what's new in the latest versions of SQL Server Integration Services (SSIS), various SSIS upgrade scenarios, and tools for upgrading SSIS projects and packages. "
+  },
+  {
+    "VideoId": "2bd4e90e-27c1-4b86-aab3-a44f01288030",
+    "DataApi": "/Entries(guid'2bd4e90e-27c1-4b86-aab3-a44f01288030')/",
+    "VideoPageLink": "/Series/Upgrading-to-Microsoft-SQL-Server-2014/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c5cc/60f63794-729d-449b-a8a2-271e5180c5cc/587UpgradingToSQLServer2014M06_960.jpg",
+    "ShowName": "Upgrading to Microsoft SQL Server 2014",
+    "VideoLength": "00:41:32",
+    "VideoTitle": "Upgrading to Microsoft SQL Server 2014: (06) Upgrading SSAS - Multidimensional and Tabular Models",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-02T21:57:18.1228748Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c5cc/60f63794-729d-449b-a8a2-271e5180c5cc/587UpgradingToSQLServer2014M06_mid.mp4",
+    "Description": "Find out what's new in the latest versions of SQL Server Analysis Services, the benefits of upgrade versus migration strategies, and how to prepare for and upgrade both multidimensional and tabular mo"
+  },
+  {
+    "VideoId": "2aff436c-0969-49f4-9393-a44f0128a50f",
+    "DataApi": "/Entries(guid'2aff436c-0969-49f4-9393-a44f0128a50f')/",
+    "VideoPageLink": "/Series/Upgrading-to-Microsoft-SQL-Server-2014/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d73e/e057e851-4891-4eab-8dc1-2350cfc8d73e/587UpgradingToSQLServer2014M07_960.jpg",
+    "ShowName": "Upgrading to Microsoft SQL Server 2014",
+    "VideoLength": "00:36:30",
+    "VideoTitle": "Upgrading to Microsoft SQL Server 2014: (07) Upgrading BI Tools and SQL Server Reporting Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-02T21:57:28.2110392Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d73e/e057e851-4891-4eab-8dc1-2350cfc8d73e/587UpgradingToSQLServer2014M07_mid.mp4",
+    "Description": "Learn what's new in the latest versions of the BI Tools and SQL Server Reporting Services. Look at upgrade versus migration strategies, special considerations for upgrading to 2014, and troubleshootin"
+  }
+]

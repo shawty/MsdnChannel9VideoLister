@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ec3ee7a2-b6ee-458f-ae9b-9deb0175e0da",
+    "DataApi": "/Entries(guid'ec3ee7a2-b6ee-458f-ae9b-9deb0175e0da')/",
+    "VideoPageLink": "/Blogs/tschultz/Commerce-Server-2009-Web-Cast-Using-Store-Locator-Web-Part",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/8/5/2/6/4/CS2009StoreLocator_large_ch9.png",
+    "ShowName": "tschultz",
+    "VideoLength": "00:23:31",
+    "VideoTitle": "Commerce Server 2009 Web Cast - Using Store Locator Web Part",
+    "Author": "Tom Schultz",
+    "UtcDateTimePublished": "2009-03-27T15:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/8/5/2/6/4/CS2009StoreLocator_ch9.mp4",
+    "Description": "Join Web Solutions Architect, Tom Schultz from Microsoft Services for a recorded web cast on the Commerce Server 2009 Store Locator web part feature.  The Store Locator Web Part provides shoppers with"
+  }
+]

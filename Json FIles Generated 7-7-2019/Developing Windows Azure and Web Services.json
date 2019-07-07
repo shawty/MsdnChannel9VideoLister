@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "6ac78b56-734b-4580-b519-a27e012146e4",
+    "DataApi": "/Entries(guid'6ac78b56-734b-4580-b519-a27e012146e4')/",
+    "VideoPageLink": "/Series/developing-windows-azure-and-web-services/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7064/7c4682dc-faad-4b2b-b823-144598df7064/DevelopingAzureWebServicesM02_960.jpg",
+    "ShowName": "Developing Windows Azure and Web Services",
+    "VideoLength": "01:18:24",
+    "VideoTitle": "Developing Windows Azure and Web Services: (02) Windows Azure Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:37:19.6965488Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7064/7c4682dc-faad-4b2b-b823-144598df7064/DevelopingAzureWebServicesM02_mid.mp4",
+    "Description": "Find out about deploying and hosting services in services in Azure websites, web roles, and worker roles. [03:42] - Azure Overview[19:22] - Web Services in Azure Web Sites[49:42] - Windows Azure Cloud"
+  },
+  {
+    "VideoId": "7a71b67e-ef8f-48f1-bb1b-a27e0121c362",
+    "DataApi": "/Entries(guid'7a71b67e-ef8f-48f1-bb1b-a27e0121c362')/",
+    "VideoPageLink": "/Series/developing-windows-azure-and-web-services/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9ae0/7da9f20b-37a7-4514-8b14-b30c7ced9ae0/DevelopingAzureWebServicesM03_960.jpg",
+    "ShowName": "Developing Windows Azure and Web Services",
+    "VideoLength": "00:46:47",
+    "VideoTitle": "Developing Windows Azure and Web Services: (03) Azure Storage and SQL Database",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:37:26.8609735Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9ae0/7da9f20b-37a7-4514-8b14-b30c7ced9ae0/DevelopingAzureWebServicesM03_mid.mp4",
+    "Description": "In this module, you learn about Azure storage and storage APIs, tables, blobs, and queues. The module also covers SQL Database. [01:33] - Windows Azure Storage Overview[21:21] - Windows Azure Table St"
+  },
+  {
+    "VideoId": "e5f55dde-4417-4612-9dca-a27e01220360",
+    "DataApi": "/Entries(guid'e5f55dde-4417-4612-9dca-a27e01220360')/",
+    "VideoPageLink": "/Series/developing-windows-azure-and-web-services/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/820f/f5b8c0f8-b3b9-465d-96e3-6d86fcaf820f/DevelopingAzureWebServicesM04_960.jpg",
+    "ShowName": "Developing Windows Azure and Web Services",
+    "VideoLength": "01:02:56",
+    "VideoTitle": "Developing Windows Azure and Web Services: (04) Data Access Technologies",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:37:46.136187Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/820f/f5b8c0f8-b3b9-465d-96e3-6d86fcaf820f/DevelopingAzureWebServicesM04_mid.mp4",
+    "Description": "Learn about data access technologies, such as ADO.NET, LINQ, XML, and LINQ to XML. [02:48] - ADO.NET[37:41] - LINQ (Language-Integrated Query)[51:52] - XML (Extensible Markup Language)[54:43] - LINQ t"
+  },
+  {
+    "VideoId": "733ca440-7783-440c-b2bb-a27e01226adc",
+    "DataApi": "/Entries(guid'733ca440-7783-440c-b2bb-a27e01226adc')/",
+    "VideoPageLink": "/Series/developing-windows-azure-and-web-services/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8215/e057812f-3753-47da-ad20-2fe63acd8215/DevelopingAzureWebServicesM05_960.jpg",
+    "ShowName": "Developing Windows Azure and Web Services",
+    "VideoLength": "00:56:51",
+    "VideoTitle": "Developing Windows Azure and Web Services: (05) Data Access with Entity Framework",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:38:04.5186905Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8215/e057812f-3753-47da-ad20-2fe63acd8215/DevelopingAzureWebServicesM05_mid.mp4",
+    "Description": "Get details on entity framework models, including CSDL, SSDL, and MSL. The module also covers workflows, such as Database First, Model First, and Code First, and it reviews WCF Data Services. [02:29] "
+  },
+  {
+    "VideoId": "3779c530-bdb7-4ff9-b013-a27e0122b61f",
+    "DataApi": "/Entries(guid'3779c530-bdb7-4ff9-b013-a27e0122b61f')/",
+    "VideoPageLink": "/Series/developing-windows-azure-and-web-services/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6f28/c7736ba5-bc00-4671-a5d5-b131a4216f28/DevelopingAzureWebServicesM06_960.jpg",
+    "ShowName": "Developing Windows Azure and Web Services",
+    "VideoLength": "00:58:49",
+    "VideoTitle": "Developing Windows Azure and Web Services: (06) Web API Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:41:29.2234856Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6f28/c7736ba5-bc00-4671-a5d5-b131a4216f28/DevelopingAzureWebServicesM06_mid.mp4",
+    "Description": "This module discusses creating, consuming, and configuring Web API Services. [11:24] - Consuming Web API Services[30:58] - Creating Services &amp; Clients in Code[40:01] - Securing ServicesFull course"
+  },
+  {
+    "VideoId": "ca7f1755-c977-4906-8bc0-a27e0122f7d9",
+    "DataApi": "/Entries(guid'ca7f1755-c977-4906-8bc0-a27e0122f7d9')/",
+    "VideoPageLink": "/Series/developing-windows-azure-and-web-services/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9e8a/401cfaf4-6f7f-4dfd-b542-9094deb49e8a/DevelopingAzureWebServicesM07_960.jpg",
+    "ShowName": "Developing Windows Azure and Web Services",
+    "VideoLength": "00:29:46",
+    "VideoTitle": "Developing Windows Azure and Web Services: (07) Advanced Topics",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-23T19:41:43.2855145Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9e8a/401cfaf4-6f7f-4dfd-b542-9094deb49e8a/DevelopingAzureWebServicesM07_mid.mp4",
+    "Description": "Explore programmatically creating services and clients, securing services, and Windows Azure Service Bus. [00:58] - Creating Services &amp; Clients in Code[10:59] - Securing Services[12:37] - Windows "
+  }
+]

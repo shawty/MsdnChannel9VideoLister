@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "a682c7e2-e085-4a47-bf82-a6130156d2fe",
+    "DataApi": "/Entries(guid'a682c7e2-e085-4a47-bf82-a6130156d2fe')/",
+    "VideoPageLink": "/Series/EIP-Speaker-Series/Deploying-Your-First-UWP-Xbox-Application",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a57f/a0260b5d-66d8-429c-b335-89fc088ca57f/DeployingYourFirstUWPXboxApp_960.jpg",
+    "ShowName": "EIP Speaker Series",
+    "VideoLength": "00:24:49",
+    "VideoTitle": "Deploying Your First UWP Xbox Application",
+    "Author": "Andy Beach",
+    "UtcDateTimePublished": "2016-05-27T21:36:42.6153216Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a57f/a0260b5d-66d8-429c-b335-89fc088ca57f/DeployingYourFirstUWPXboxApp_mid.mp4",
+    "Description": "In this Speaker Series, Dale Linneman discusses the process of deploying your first UWP based app on Xbox One. The presentation begins with an overview of changes when going from ADK/XDK to UWP, such "
+  },
+  {
+    "VideoId": "0dcd7682-8d9b-43e9-b419-a62e0003c96b",
+    "DataApi": "/Entries(guid'0dcd7682-8d9b-43e9-b419-a62e0003c96b')/",
+    "VideoPageLink": "/Series/EIP-Speaker-Series/Intro-to-Responsive-Design-for-XAML",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1975/994a739b-1e86-4e6d-be99-5b97d20c1975/respdesign_960.jpg",
+    "ShowName": "EIP Speaker Series",
+    "VideoLength": "00:24:49",
+    "VideoTitle": "Intro to Responsive Design (for XAML)",
+    "Author": "Andy Beach",
+    "UtcDateTimePublished": "2016-06-23T15:07:43.1350524Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1975/994a739b-1e86-4e6d-be99-5b97d20c1975/respdesign_high.mp4",
+    "Description": "In this Speaker Series, Nuno Silva presents on topic of adaptive UI, which is central to Windows 10 UWP apps. Most of the challenges faced with increased complexity on Windows 10 can be met by creatin"
+  }
+]

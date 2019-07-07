@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "44711950-60de-453f-aa39-a373006658e8",
+    "DataApi": "/Entries(guid'44711950-60de-453f-aa39-a373006658e8')/",
+    "VideoPageLink": "/Series/Explain/HybridCloud101",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4099/17c3efd7-068f-4fd7-beb9-6a378f744099/Hybrid101_960.jpg",
+    "ShowName": "Explain that to me",
+    "VideoLength": "00:11:12",
+    "VideoTitle": "Hybrid Cloud 101: Different ways to connect your network to Azure",
+    "Author": "Mat Velloso",
+    "UtcDateTimePublished": "2014-07-26T01:19:46.1923931Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/90ff/3a3106a5-b8c2-4df2-ab30-74bb615e90ff/Hybrid101_mid.mp4",
+    "Description": "In this episode we will review different ways you can connect your applications on premises with other applications on Azure.   We will see the differences between BizTalk hybrid connections, Azure Ac"
+  },
+  {
+    "VideoId": "045a3d14-9c9d-4d80-a465-a4490168315c",
+    "DataApi": "/Entries(guid'045a3d14-9c9d-4d80-a465-a4490168315c')/",
+    "VideoPageLink": "/Series/Explain/Identity-201-Cloud-Identity-for-Developers",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/47b2/f08a3006-a362-4efe-98cc-d70b1bd747b2/identity201_960.jpg",
+    "ShowName": "Explain that to me",
+    "VideoLength": "00:08:55",
+    "VideoTitle": "Identity 201: Cloud Identity for Developers",
+    "Author": "Mat Velloso",
+    "UtcDateTimePublished": "2015-02-25T00:08:26.8862266Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/47b2/f08a3006-a362-4efe-98cc-d70b1bd747b2/identity201_mid.mp4",
+    "Description": "In this video we will discuss some basic concepts around OAuth, Microsoft Azure Active Directory and how applications interact with it. "
+  },
+  {
+    "VideoId": "268161df-85a0-49ff-87b7-a6ac01331141",
+    "DataApi": "/Entries(guid'268161df-85a0-49ff-87b7-a6ac01331141')/",
+    "VideoPageLink": "/Series/Explain/Meet-the-presenter-bot-a-bot-that-presents-about-bots",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d52/06cd2bf6-9ca5-4ba6-bc46-8e089e183d52/presenterbot_960.jpg",
+    "ShowName": "Explain that to me",
+    "VideoLength": "00:04:54",
+    "VideoTitle": "Meet the presenter bot, a bot that presents about bots",
+    "Author": "Mat Velloso",
+    "UtcDateTimePublished": "2016-10-27T18:48:06.7756068Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d52/06cd2bf6-9ca5-4ba6-bc46-8e089e183d52/presenterbot.mp4",
+    "Description": "PresenterBot is an open source project to demonstrate some of the technologies behind Microsoft Bot Framework, LUIS, Skype and Bing Speech.   You can find the source code here: https://github.com/matv"
+  },
+  {
+    "VideoId": "0aa6e651-3cec-489c-bf68-a6b70135042c",
+    "DataApi": "/Entries(guid'0aa6e651-3cec-489c-bf68-a6b70135042c')/",
+    "VideoPageLink": "/Series/Explain/Venha-conhecer-o-presenterBot-um-bot-que-explica-sobre-bots-Portuguese",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cc41/0cea786e-eebb-48eb-815c-5e633959cc41/presenterBotBR_960.jpg",
+    "ShowName": "Explain that to me",
+    "VideoLength": "00:06:20",
+    "VideoTitle": "Venha conhecer o presenterBot, um bot que explica sobre bots - Portuguese",
+    "Author": "Mat Velloso",
+    "UtcDateTimePublished": "2016-11-07T20:19:41.9948184Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cc41/0cea786e-eebb-48eb-815c-5e633959cc41/presenterBotBR_mid.mp4",
+    "Description": "O presenterBot é um demo usando o Microsoft Bot Framework para mostrar o que a tecnologia é capaz.   Código fonte: www.github.com/matvelloso/presenterbot "
+  },
+  {
+    "VideoId": "584a3bde-0ca7-4fba-a456-a72801096fcd",
+    "DataApi": "/Entries(guid'584a3bde-0ca7-4fba-a456-a72801096fcd')/",
+    "VideoPageLink": "/Series/Explain/Bots-101-Scenarios-for-bots",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/afb2/6c86d7e2-f662-4d2d-9e1c-5fa9f26bafb2/bots101_960.jpg",
+    "ShowName": "Explain that to me",
+    "VideoLength": "00:16:20",
+    "VideoTitle": "Bots 101 - Scenarios for bots",
+    "Author": "Mat Velloso",
+    "UtcDateTimePublished": "2017-02-28T17:29:11.8123904Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/afb2/6c86d7e2-f662-4d2d-9e1c-5fa9f26bafb2/bots101_mid.mp4",
+    "Description": "Let us take a look at real world scenarios for bots and how they can be used for solving real user needs. "
+  }
+]

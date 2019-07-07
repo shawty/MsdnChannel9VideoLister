@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "07f652a4-f994-4152-a360-a635012a982d",
+    "DataApi": "/Entries(guid'07f652a4-f994-4152-a360-a635012a982d')/",
+    "VideoPageLink": "/Blogs/NET-Core/What-is-NET-Core",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/490b/b9594fa4-8be1-4125-87b9-3b8bb95a490b/dotnetCore_960.jpg",
+    "ShowName": ".NET Core",
+    "VideoLength": "00:13:39",
+    "VideoTitle": "What is .NET Core",
+    "Author": "Vidya Vrat Agarwal",
+    "UtcDateTimePublished": "2016-07-01T23:24:56.677233Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/490b/b9594fa4-8be1-4125-87b9-3b8bb95a490b/dotnetCore.mp4",
+    "Description": "This video explain what is .NET Core and also helps you learn why .NET Core, it's vision and future path. "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "19793c2a-baa3-4bf2-8c6b-a47b010d5466",
+    "DataApi": "/Entries(guid'19793c2a-baa3-4bf2-8c6b-a47b010d5466')/",
+    "VideoPageLink": "/Series/MCP-Insider-Series-AMA-with-Jeffrey-Snover/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a43c/da70c678-cfee-4166-b166-0556fdbea43c/792MCPInsiderSnoverM02_960.jpg",
+    "ShowName": "MCP Insider Series - AMA with Jeffrey Snover",
+    "VideoLength": "00:42:17",
+    "VideoTitle": "MCP Insider Series - AMA with Jeffrey Snover: (02) MCP Insider Series - AMA featuring Jeffrey Snover (Part II)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-15T22:03:25.6291834Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a43c/da70c678-cfee-4166-b166-0556fdbea43c/792MCPInsiderSnoverM02_mid.mp4",
+    "Description": "Part Two of our first MCP Insider featuring Jeffrey Snover hosted by Jason Helmick. Jeffrey is a Distinguished Engineer and the Lead Architect for the Windows Server Division at Microsoft. He is also "
+  }
+]

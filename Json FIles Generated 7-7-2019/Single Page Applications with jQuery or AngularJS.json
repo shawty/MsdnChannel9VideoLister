@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "bb8cfda3-5e06-4aea-9955-a3c5012094f1",
+    "DataApi": "/Entries(guid'bb8cfda3-5e06-4aea-9955-a3c5012094f1')/",
+    "VideoPageLink": "/Series/Single-Page-Applications-with-jQuery-or-AngularJS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0f9/38791f9e-af5c-4b9a-bb13-11f88136b0f9/SinglePageAppsjQueryAngularM02_960.jpg",
+    "ShowName": "Single Page Applications with jQuery or AngularJS",
+    "VideoLength": "00:47:51",
+    "VideoTitle": "Single Page Applications with jQuery or AngularJS: (02) Using jQuery to Make a SPA",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T21:59:22.9902511Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0f9/38791f9e-af5c-4b9a-bb13-11f88136b0f9/SinglePageAppsjQueryAngularM02_mid.mp4",
+    "Description": "See a demo of a basic single page application created with jQuery, illustrating DOM manipulation, event handling, and AJAX calls to get and post data. And watch a demo on how to create a simple REST A"
+  },
+  {
+    "VideoId": "9381dfb1-3f5b-4ad7-8462-a3c50120bcf0",
+    "DataApi": "/Entries(guid'9381dfb1-3f5b-4ad7-8462-a3c50120bcf0')/",
+    "VideoPageLink": "/Series/Single-Page-Applications-with-jQuery-or-AngularJS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a4e0/f0029fd2-91b4-431f-916b-29c18cc4a4e0/SinglePageAppsjQueryAngularM03_960.jpg",
+    "ShowName": "Single Page Applications with jQuery or AngularJS",
+    "VideoLength": "00:50:50",
+    "VideoTitle": "Single Page Applications with jQuery or AngularJS: (03) Debugging and Testing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T21:59:25.5174892Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a4e0/f0029fd2-91b4-431f-916b-29c18cc4a4e0/SinglePageAppsjQueryAngularM03_mid.mp4",
+    "Description": "Walk through several tools and approaches for debugging SPAs, including the F12 developer tools, the debugger and call stack, and console log. See a demonstration on how to debug service calls by insp"
+  },
+  {
+    "VideoId": "c6cdd3fb-f9d3-4e19-b68f-a3c50120f4f9",
+    "DataApi": "/Entries(guid'c6cdd3fb-f9d3-4e19-b68f-a3c50120f4f9')/",
+    "VideoPageLink": "/Series/Single-Page-Applications-with-jQuery-or-AngularJS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d1b8/22cd5b48-dbbc-4cc1-9cb5-22e36b67d1b8/SinglePageAppsjQueryAngularM04_960.jpg",
+    "ShowName": "Single Page Applications with jQuery or AngularJS",
+    "VideoLength": "00:25:09",
+    "VideoTitle": "Single Page Applications with jQuery or AngularJS: (04) Understanding Frameworks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T22:00:00.5387716Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d1b8/22cd5b48-dbbc-4cc1-9cb5-22e36b67d1b8/SinglePageAppsjQueryAngularM04_mid.mp4",
+    "Description": "Get a basic introduction to some key architectural concepts, including design patterns, libraries, and frameworks. Hear a discussion of the benefits of utilizing a framework in your project, and explo"
+  },
+  {
+    "VideoId": "e93a98bf-c8cd-447f-b1e0-a3c501213f60",
+    "DataApi": "/Entries(guid'e93a98bf-c8cd-447f-b1e0-a3c501213f60')/",
+    "VideoPageLink": "/Series/Single-Page-Applications-with-jQuery-or-AngularJS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/999d/953b0d19-3efc-4a62-88bb-ad971a3c999d/SinglePageAppsjQueryAngularM05_960.jpg",
+    "ShowName": "Single Page Applications with jQuery or AngularJS",
+    "VideoLength": "00:33:34",
+    "VideoTitle": "Single Page Applications with jQuery or AngularJS: (05) Introduction to AngularJS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T22:00:11.4398645Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/999d/953b0d19-3efc-4a62-88bb-ad971a3c999d/SinglePageAppsjQueryAngularM05_mid.mp4",
+    "Description": "Examine AngularJS, with a look at the particular benefits of this framework, along with key concepts and features, plus some differences between AngularJS and jQuery. Watch for additional learning res"
+  },
+  {
+    "VideoId": "8249da10-cfd2-4b80-aa71-a3c5012186bb",
+    "DataApi": "/Entries(guid'8249da10-cfd2-4b80-aa71-a3c5012186bb')/",
+    "VideoPageLink": "/Series/Single-Page-Applications-with-jQuery-or-AngularJS/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a45b/0a416ffe-d015-4a06-a07d-73e2f12aa45b/SinglePageAppsjQueryAngularM06_960.jpg",
+    "ShowName": "Single Page Applications with jQuery or AngularJS",
+    "VideoLength": "00:52:35",
+    "VideoTitle": "Single Page Applications with jQuery or AngularJS: (06) Using AngularJS to Create a SPA",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T22:01:00.3362634Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a45b/0a416ffe-d015-4a06-a07d-73e2f12aa45b/SinglePageAppsjQueryAngularM06_mid.mp4",
+    "Description": "Take the simple single page application created with jQuery in Module 2, and learn how to make an AngularJS app from the ground up. Explore concepts, such as modules, models, controllers, data-binding"
+  },
+  {
+    "VideoId": "c492daf6-396c-4d5a-9e10-a3c501226910",
+    "DataApi": "/Entries(guid'c492daf6-396c-4d5a-9e10-a3c501226910')/",
+    "VideoPageLink": "/Series/Single-Page-Applications-with-jQuery-or-AngularJS/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/839e/65462193-9ce2-4809-a89b-ad678b91839e/SinglePageAppsjQueryAngularM07_960.jpg",
+    "ShowName": "Single Page Applications with jQuery or AngularJS",
+    "VideoLength": "00:42:34",
+    "VideoTitle": "Single Page Applications with jQuery or AngularJS: (07) Deploying to Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T22:01:20.5017304Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/839e/65462193-9ce2-4809-a89b-ad678b91839e/SinglePageAppsjQueryAngularM07_mid.mp4",
+    "Description": "Take the final step in this series, and deploy online to Azure right from Visual Studio or from GitHub. [02:50] - The Azure SDK[04:20] - Uploading your website[30:22] - Source control via GitFull cour"
+  }
+]

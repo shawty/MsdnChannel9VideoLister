@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "10688a78-db21-4a57-87dd-a3e0018af84e",
+    "DataApi": "/Entries(guid'10688a78-db21-4a57-87dd-a3e0018af84e')/",
+    "VideoPageLink": "/Series/Configure-Outlook-for-Office-365/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f61b/4695fc23-0682-45f2-944e-2d99ab04f61b/604ConfigureOutlookForO365M01_960.jpg",
+    "ShowName": "Configure Outlook for Office 365",
+    "VideoLength": "00:25:03",
+    "VideoTitle": "Configure Outlook for Office 365: (01) Configuring Outlook for Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-12T20:18:09.1681027Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f61b/4695fc23-0682-45f2-944e-2d99ab04f61b/604ConfigureOutlookForO365M01_mid.mp4",
+    "Description": "Examine how to connect Outlook to Office 365 using Auto Account Setup, POP3, and IMAP4. Review how to configure Office 365 on the server side, examine how DNS affects Office 365 setup, and see how to "
+  }
+]

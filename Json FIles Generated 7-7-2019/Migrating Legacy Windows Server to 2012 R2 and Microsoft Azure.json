@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "d2ffb808-8bf8-47c4-a7d5-a38e012b9cb5",
+    "DataApi": "/Entries(guid'd2ffb808-8bf8-47c4-a7d5-a38e012b9cb5')/",
+    "VideoPageLink": "/Series/Migrating-Legacy-Windows-Server-to-2012-R2-and-Microsoft-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c31b/841c95fc-e7b9-4445-9adb-b5eb644cc31b/MigrateWinLegacyServerM02_960.jpg",
+    "ShowName": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure",
+    "VideoLength": "00:24:51",
+    "VideoTitle": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure: (02) Migrating Clustering to Windows Server 2012 R2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-22T02:16:47.2274457Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c31b/841c95fc-e7b9-4445-9adb-b5eb644cc31b/MigrateWinLegacyServerM02_mid.mp4",
+    "Description": "Explore the two main approaches that you can take to migrate your cluster to a Windows Server 2012 cluster. Watch as experts create a separate failover cluster running Windows Server 2012 and rebuild "
+  },
+  {
+    "VideoId": "7348e9f9-77a0-4e03-9a0e-a38e012bddfc",
+    "DataApi": "/Entries(guid'7348e9f9-77a0-4e03-9a0e-a38e012bddfc')/",
+    "VideoPageLink": "/Series/Migrating-Legacy-Windows-Server-to-2012-R2-and-Microsoft-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c5ef/952b382b-89ef-466f-86c7-4b6ff5f3c5ef/MigrateWinLegacyServerM03_960.jpg",
+    "ShowName": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure",
+    "VideoLength": "00:31:29",
+    "VideoTitle": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure: (03) Migrating WSUS to Windows Server 2012 R2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-22T02:17:00.0278755Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c5ef/952b382b-89ef-466f-86c7-4b6ff5f3c5ef/MigrateWinLegacyServerM03_mid.mp4",
+    "Description": "Get the details on migrating Windows Server Update Services to Windows Server 2012, and hear the system requirements. [02:15] - Migrating WSUS[05:05] - Supported Scenerios[06:47] - High Level Procedur"
+  },
+  {
+    "VideoId": "e40a76ca-d6b8-48a7-883d-a38e012c26ef",
+    "DataApi": "/Entries(guid'e40a76ca-d6b8-48a7-883d-a38e012c26ef')/",
+    "VideoPageLink": "/Series/Migrating-Legacy-Windows-Server-to-2012-R2-and-Microsoft-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cae6/1ba76620-b0c6-445a-b772-01c8c63acae6/MigrateWinLegacyServerM04_960.jpg",
+    "ShowName": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure",
+    "VideoLength": "00:47:23",
+    "VideoTitle": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure: (04) Active Directory Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-22T02:17:11.7024424Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cae6/1ba76620-b0c6-445a-b772-01c8c63acae6/MigrateWinLegacyServerM04_mid.mp4",
+    "Description": "Find out about Active Directory migration, including the system requirements and the infrastructure roles migration. [02:24] - Migration Challenges[04:21] - Requirements[09:02] - ProcessFull course ou"
+  },
+  {
+    "VideoId": "8f3e3384-e138-464c-92af-a38e012c69d9",
+    "DataApi": "/Entries(guid'8f3e3384-e138-464c-92af-a38e012c69d9')/",
+    "VideoPageLink": "/Series/Migrating-Legacy-Windows-Server-to-2012-R2-and-Microsoft-Azure/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d145/604f1cbc-016a-4571-909b-5d97baccd145/MigrateWinLegacyServerM05_960.jpg",
+    "ShowName": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure",
+    "VideoLength": "00:23:58",
+    "VideoTitle": "Migrating Legacy Windows Server to 2012 R2 and Microsoft Azure: (05) Migrating Hyper-V VMs to Microsoft Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-22T02:17:22.5326606Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d145/604f1cbc-016a-4571-909b-5d97baccd145/MigrateWinLegacyServerM05_mid.mp4",
+    "Description": "Learn additional migration approaches, such as building virtual machines in the cloud, which lowers upload time and dependency risk,and requires upload and installation of application and data. [02:11"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4aa60623-3cdc-468b-b016-a79b00440f4d",
+    "DataApi": "/Entries(guid'4aa60623-3cdc-468b-b016-a79b00440f4d')/",
+    "VideoPageLink": "/blogs/Modern-Service-Management/Modern-Service-Management-for-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9bca/4c1ceaeb-c3c4-4995-ba01-be9afaa39bca/MSMSession1_960.jpg",
+    "ShowName": "Modern Service Management",
+    "VideoLength": "00:51:01",
+    "VideoTitle": "Modern Service Management for Azure",
+    "Author": "Kathleen Wilson",
+    "UtcDateTimePublished": "2017-06-27T00:12:56.2675416Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9bca/4c1ceaeb-c3c4-4995-ba01-be9afaa39bca/MSMSession1_mid.mp4",
+    "Description": "This 50 minute video shares the details on what is Modern Service Management (MSM) and how it differs from traditional IT Service Management to enable Agility and Business value for organizations.  Pr"
+  }
+]

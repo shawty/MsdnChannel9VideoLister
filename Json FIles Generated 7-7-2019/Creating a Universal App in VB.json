@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "ff490033-7513-484c-875f-a4b6006f223d",
+    "DataApi": "/Entries(guid'ff490033-7513-484c-875f-a4b6006f223d')/",
+    "VideoPageLink": "/Series/Creating-a-Universal-App-in-VB/UWP-port-from-phone81-to-phone81--Win10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e97f/51f29295-bd18-46da-a7e2-b4636b78e97f/PortWP81toWin10_960.jpg",
+    "ShowName": "Creating a Universal App in VB",
+    "VideoLength": "01:04:21",
+    "VideoTitle": "UWP - port from phone8.1 to phone8.1 + Win10",
+    "Author": "Lucian Wischik",
+    "UtcDateTimePublished": "2015-06-13T08:24:20.1728023Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e97f/51f29295-bd18-46da-a7e2-b4636b78e97f/PortWP81toWin10_mid.mp4",
+    "Description": "This live video shows me porting a phone8.1 app to phone8.1 &#43; Win10. It showcases Shared Projects (and how to set them up), adaptive UI, adaptive Code, debugging techniques to reduce application s"
+  },
+  {
+    "VideoId": "7a4d8fd4-ab5f-4991-9de9-a4ba005c98da",
+    "DataApi": "/Entries(guid'7a4d8fd4-ab5f-4991-9de9-a4ba005c98da')/",
+    "VideoPageLink": "/Series/Creating-a-Universal-App-in-VB/UWP-getting-started-with-win2d",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d276/76709f9a-08f5-4c5f-8d83-fe5ac92cd276/GettingStartedWin2d_960.jpg",
+    "ShowName": "Creating a Universal App in VB",
+    "VideoLength": "00:18:29",
+    "VideoTitle": "UWP - getting started with win2d",
+    "Author": "Lucian Wischik",
+    "UtcDateTimePublished": "2015-06-17T16:30:48.5363043Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d276/76709f9a-08f5-4c5f-8d83-fe5ac92cd276/GettingStartedWin2d_mid.mp4",
+    "Description": "Fast accelerated graphics! with an clean easy API! That's the promise of Microsoft's Win2d library. In this video I walk through, from scratch, how to create a simple animated graphics application for"
+  }
+]

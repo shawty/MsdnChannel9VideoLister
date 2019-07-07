@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "96df459f-72a4-4555-a590-a2c20155129f",
+    "DataApi": "/Entries(guid'96df459f-72a4-4555-a590-a2c20155129f')/",
+    "VideoPageLink": "/Series/Get-Started-with-Windows-Azure-Today/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/79f7/a2f26732-ec91-427d-9fd2-aee16f0979f7/GetStartedwithWindowsAzureTodayM02_960.jpg",
+    "ShowName": "Get Started with Windows Azure Today",
+    "VideoLength": "00:47:40",
+    "VideoTitle": "Get Started with Windows Azure Today: (02) Windows Azure Storage and Best Practices Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-04T20:52:50.3023204Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/79f7/a2f26732-ec91-427d-9fd2-aee16f0979f7/GetStartedwithWindowsAzureTodayM02_mid.mp4",
+    "Description": "Are you wondering what Windows Azure Storage is and how to use it? If you are considering storing application data of any kind in the cloud, this session can help you get started. Hear about how to de"
+  },
+  {
+    "VideoId": "4a9b54da-8eea-4af2-bec3-a2c201556455",
+    "DataApi": "/Entries(guid'4a9b54da-8eea-4af2-bec3-a2c201556455')/",
+    "VideoPageLink": "/Series/Get-Started-with-Windows-Azure-Today/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a235/67d10e59-8fee-4738-beb9-ff3d5a9ea235/GetStartedwithWindowsAzureTodayM03_960.jpg",
+    "ShowName": "Get Started with Windows Azure Today",
+    "VideoLength": "00:53:36",
+    "VideoTitle": "Get Started with Windows Azure Today: (03) Windows Azure Storage and Best Practices Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-04T20:53:21.0900176Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a235/67d10e59-8fee-4738-beb9-ff3d5a9ea235/GetStartedwithWindowsAzureTodayM03_mid.mp4",
+    "Description": "Windows Azure Storage provides highly durable data solutions for your applications. In this module, learn how to set up resilient, geo-redundant storage solutions. Then dig deeper into best practices "
+  }
+]

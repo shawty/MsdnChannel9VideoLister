@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "65866620-7d26-4c32-b1d7-a118011e4d2a",
+    "DataApi": "/Entries(guid'65866620-7d26-4c32-b1d7-a118011e4d2a')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-101-Windows-Design-Language",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/df9ebf98-8743-4fbb-bc51-042d2924b522.png",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:16:07",
+    "VideoTitle": "Windows Phone Design Bootcamp 101: Windows Design Language ",
+    "Author": "Jean-Christophe Cimetiere",
+    "UtcDateTimePublished": "2012-12-04T05:35:03.5386545Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cfa5/a31b2b88-b183-4b88-94bd-0fc466decfa5/bootcamp2_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  },
+  {
+    "VideoId": "7dc399f8-12ef-460a-85c5-a11e01487b35",
+    "DataApi": "/Entries(guid'7dc399f8-12ef-460a-85c5-a11e01487b35')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-The-Design-Driven-Product",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9661/0b042c34-3ea5-4db8-a415-5e8868809661/Bootcamp3_512.jpg",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:14:08",
+    "VideoTitle": "Windows Phone Design Bootcamp 101: The Design Driven Product ",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-12-06T04:31:58.5286298Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9661/0b042c34-3ea5-4db8-a415-5e8868809661/Bootcamp3_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  },
+  {
+    "VideoId": "b6e78f63-8e5f-418c-af99-a11f015c7211",
+    "DataApi": "/Entries(guid'b6e78f63-8e5f-418c-af99-a11f015c7211')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-101-Windows-Phone-8-Demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f37c/91ac3452-4fcc-4c90-b244-18f768d8f37c/bootcamp4_512.jpg",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:08:18",
+    "VideoTitle": "Windows Phone Design Bootcamp 101: Windows Phone 8 Demo",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-12-07T19:03:43.162287Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f37c/91ac3452-4fcc-4c90-b244-18f768d8f37c/bootcamp4_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  },
+  {
+    "VideoId": "0dbe75b2-7c45-4d76-9839-a1230130185f",
+    "DataApi": "/Entries(guid'0dbe75b2-7c45-4d76-9839-a1230130185f')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-The-System",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2c78/0847481f-b5df-4bcf-9e86-f7067ae22c78/bootcamp5_512.jpg",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:40:30",
+    "VideoTitle": "Windows Phone Design Bootcamp 201: The System",
+    "Author": "Jean-Christophe Cimetiere",
+    "UtcDateTimePublished": "2012-12-10T20:34:55.1795085Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2c78/0847481f-b5df-4bcf-9e86-f7067ae22c78/bootcamp5_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  },
+  {
+    "VideoId": "802620b1-aa74-4710-aeb8-a12b012c890f",
+    "DataApi": "/Entries(guid'802620b1-aa74-4710-aeb8-a12b012c890f')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-101-Windows-Ecosystem--Cocktail-Flow-apps-case-study",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ab7a/1b2e5231-9e56-493a-985c-ecf48846ab7a/bootcamp5_512.jpg",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:15:39",
+    "VideoTitle": "Windows Phone Design Bootcamp 101: Windows Ecosystem & Cocktail Flow apps case study ",
+    "Author": "Jean-Christophe Cimetiere",
+    "UtcDateTimePublished": "2012-12-18T19:28:18.0848231Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ab7a/1b2e5231-9e56-493a-985c-ecf48846ab7a/bootcamp5_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  },
+  {
+    "VideoId": "c7923055-ec8f-464f-ba73-a1260183c997",
+    "DataApi": "/Entries(guid'c7923055-ec8f-464f-ba73-a1260183c997')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-201-Controls--APIs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cd20/675e6450-374c-4d3c-b2b1-1cef36dacd20/bootcamp7_512.jpg",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:33:25",
+    "VideoTitle": "Windows Phone Design Bootcamp 201: Controls & API's",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-12-19T06:07:53.8188449Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cd20/675e6450-374c-4d3c-b2b1-1cef36dacd20/bootcamp7_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  },
+  {
+    "VideoId": "d045dd83-84d1-4328-b8e6-a124015becb0",
+    "DataApi": "/Entries(guid'd045dd83-84d1-4328-b8e6-a124015becb0')/",
+    "VideoPageLink": "/Series/Windows-Phone-Design-Bootcamp/Windows-Phone-Design-Bootcamp-Composition",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2cf8/30cebc2c-9d1c-447d-b1e4-eab307b52cf8/bootcamp6TRY2_512.jpg",
+    "ShowName": "Windows Phone Design Bootcamp",
+    "VideoLength": "00:42:22",
+    "VideoTitle": "Windows Phone Design Bootcamp 201: Composition",
+    "Author": "Jean-Christophe Cimetiere",
+    "UtcDateTimePublished": "2012-12-19T06:25:30.6250211Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2cf8/30cebc2c-9d1c-447d-b1e4-eab307b52cf8/bootcamp6TRY2_mid.mp4",
+    "Description": "Windows Phone Design Bootcamp Overview:Windows Phone Design 101 covers the philosophy, inspiration and visuals that are Windows Phone Design Language. Starting with the basic terminology of design, th"
+  }
+]

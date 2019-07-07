@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "8e9bb12b-7b17-418b-9854-a31e0129ec66",
+    "DataApi": "/Entries(guid'8e9bb12b-7b17-418b-9854-a31e0129ec66')/",
+    "VideoPageLink": "/Blogs/Dev-Inspiration/What-Developers-Need-To-Know-About-the-Cortana-API",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c59e/a344700d-dac9-4884-ad10-1909382cc59e/Cortana_960.jpg",
+    "ShowName": "Dev-Inspiration",
+    "VideoLength": "00:28:42",
+    "VideoTitle": "What Developers Need To Know About the Cortana API ",
+    "Author": "Nick Martin",
+    "UtcDateTimePublished": "2014-05-01T23:41:35.2304086Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c59e/a344700d-dac9-4884-ad10-1909382cc59e/Cortana_mid.mp4",
+    "Description": "The Cortana announcement at //Build/ has gotten developer imaginations running wild with ideas for incorporating the Bing-powered personality into new or existing apps. To make sure you have everythin"
+  },
+  {
+    "VideoId": "14d84a5a-63a9-4bed-ad99-a314012bf8ac",
+    "DataApi": "/Entries(guid'14d84a5a-63a9-4bed-ad99-a314012bf8ac')/",
+    "VideoPageLink": "/Blogs/Dev-Inspiration/Cortana-API-Guidance",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

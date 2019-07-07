@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "32208d9a-03f5-4d01-b855-a3df012a1c4f",
+    "DataApi": "/Entries(guid'32208d9a-03f5-4d01-b855-a3df012a1c4f')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Xamarin--Visual-Studio/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3548/87bf7d3b-b1ea-43fc-8cb6-f69b20903548/CrossPlatformDevXamarinM02_960.jpg",
+    "ShowName": "Cross-Platform Development with Xamarin & Visual Studio",
+    "VideoLength": "00:43:49",
+    "VideoTitle": "Cross-Platform Development with Xamarin & Visual Studio: (02) iOS Development with Xamarin & Visual Studio",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-10T22:35:22.5402783Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3548/87bf7d3b-b1ea-43fc-8cb6-f69b20903548/CrossPlatformDevXamarinM02_mid.mp4",
+    "Description": "Begin developing the Heritage Properties sample application. Start building for iOS, with the goal of learning key items, such as runtime model, application lifecycle, application structure, storyboar"
+  },
+  {
+    "VideoId": "c1f9c87d-b3c0-4e23-b8e5-a3df012a6885",
+    "DataApi": "/Entries(guid'c1f9c87d-b3c0-4e23-b8e5-a3df012a6885')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Xamarin--Visual-Studio/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7794/3f516775-0021-4c4a-9a4f-b5819f897794/CrossPlatformDevXamarinM03_960.jpg",
+    "ShowName": "Cross-Platform Development with Xamarin & Visual Studio",
+    "VideoLength": "00:56:37",
+    "VideoTitle": "Cross-Platform Development with Xamarin & Visual Studio: (03) Android Development with Xamarin & Visual Studio",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-10T22:35:43.2941796Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7794/3f516775-0021-4c4a-9a4f-b5819f897794/CrossPlatformDevXamarinM03_mid.mp4",
+    "Description": "Start developing the same Heritage Properties app, but for the Android platform; get familiar with the runtime model, application lifecycle, app structure, layouts, and navigation. Explore some initia"
+  },
+  {
+    "VideoId": "4ef8a2a6-7a78-49a2-9a3b-a3df012a9a33",
+    "DataApi": "/Entries(guid'4ef8a2a6-7a78-49a2-9a3b-a3df012a9a33')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Xamarin--Visual-Studio/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/61a5/80d58959-d62b-456b-82bf-237a8e6e61a5/CrossPlatformDevXamarinM04_960.jpg",
+    "ShowName": "Cross-Platform Development with Xamarin & Visual Studio",
+    "VideoLength": "01:14:45",
+    "VideoTitle": "Cross-Platform Development with Xamarin & Visual Studio: (04) Code-Sharing Techniques & Xamarin Forms",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-10T22:36:07.8062414Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/61a5/80d58959-d62b-456b-82bf-237a8e6e61a5/CrossPlatformDevXamarinM04_mid.mp4",
+    "Description": "Use different code-sharing techniques, such as portable class libraries and inversion of control, plus implement a Model-View-View-Model (MVVM) design pattern. Get an introduction to Xamarin.Forms, an"
+  },
+  {
+    "VideoId": "5c9aae3d-c273-4865-a1e2-a3df012adb60",
+    "DataApi": "/Entries(guid'5c9aae3d-c273-4865-a1e2-a3df012adb60')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Xamarin--Visual-Studio/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee57/ed82db2b-8613-4e49-843f-ae751ae4ee57/CrossPlatformDevXamarinM05_960.jpg",
+    "ShowName": "Cross-Platform Development with Xamarin & Visual Studio",
+    "VideoLength": "00:30:39",
+    "VideoTitle": "Cross-Platform Development with Xamarin & Visual Studio: (05) UI Test Automation Using Xamarin.UITest",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-10T22:36:26.8462744Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee57/ed82db2b-8613-4e49-843f-ae751ae4ee57/CrossPlatformDevXamarinM05_mid.mp4",
+    "Description": "Test the application to try and catch bugs before your users do. Explore Xamarin.UITest to test the Heritage Properties app locally, and also use Xamarin Test Cloud to test on more than 1,000 real dev"
+  }
+]

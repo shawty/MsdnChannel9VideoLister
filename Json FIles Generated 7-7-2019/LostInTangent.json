@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c75826f6-83e0-44c7-9e22-9deb0018e611",
+    "DataApi": "/Entries(guid'c75826f6-83e0-44c7-9e22-9deb0018e611')/",
+    "VideoPageLink": "/Blogs/LostInTangent/Web-Application-Toolkit-Mobile-Web-Applications",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/4/0/4/9/4/WebAppToolkitMobileWebApplications_512_ch9.png",
+    "ShowName": "LostInTangent",
+    "VideoLength": "00:09:03",
+    "VideoTitle": "Web Application Toolkit: Mobile Web Applications",
+    "Author": "Jonathan Carter",
+    "UtcDateTimePublished": "2009-09-24T18:04:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/4/0/4/9/4/WebAppToolkitMobileWebApplications_ch9.mp4",
+    "Description": "This Web Application Toolkit is designed to demonstrate how to extend an existing ASP.NET MVC Web application to provide access from mobile devices. To enable mobile access, the Web application should"
+  },
+  {
+    "VideoId": "6a487f16-36aa-4744-9b1d-9deb0018e1a0",
+    "DataApi": "/Entries(guid'6a487f16-36aa-4744-9b1d-9deb0018e1a0')/",
+    "VideoPageLink": "/Blogs/LostInTangent/Web-Application-Toolkit-Template-Driven-Emails",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/4/5/0/4/9/4/WebAppToolkitTemplateDrivenEmail_512_ch9.png",
+    "ShowName": "LostInTangent",
+    "VideoLength": "00:12:26",
+    "VideoTitle": "Web Application Toolkit: Template-Driven Emails",
+    "Author": "Jonathan Carter",
+    "UtcDateTimePublished": "2009-09-24T18:03:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/4/5/0/4/9/4/WebAppToolkitTemplateDrivenEmail_ch9.mp4",
+    "Description": "\nThis Web Application Toolkit is designed to demonstrate how to generate and send dynamic, template-based emails from a web application. There are many common scenarios where notification emails need"
+  },
+  {
+    "VideoId": "eb39a847-8a6c-4ed1-bd11-9deb0018dd50",
+    "DataApi": "/Entries(guid'eb39a847-8a6c-4ed1-bd11-9deb0018dd50')/",
+    "VideoPageLink": "/Blogs/LostInTangent/Web-Application-Toolkit-REST-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/9/0/4/9/4/WebAppToolkitRestServices_512_ch9.png",
+    "ShowName": "LostInTangent",
+    "VideoLength": "00:10:34",
+    "VideoTitle": "Web Application Toolkit: REST Services",
+    "Author": "Jonathan Carter",
+    "UtcDateTimePublished": "2009-09-24T18:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/9/0/4/9/4/WebAppToolkitRestServices_ch9.mp4",
+    "Description": "This Web Application Toolkit shows how to easily add REST service interfaces for an existing Web application. The Web Application Toolkit includes a sample of REST services based on a fictitious onlin"
+  }
+]

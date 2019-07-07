@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "7ba406ac-bfb3-44c8-b4a8-a64b01381303",
+    "DataApi": "/Entries(guid'7ba406ac-bfb3-44c8-b4a8-a64b01381303')/",
+    "VideoPageLink": "/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-1-Create-an-Azure-Mobile-App",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ab9/c27aa7a2-6143-4834-851c-126783821ab9/Azure_960.jpg",
+    "ShowName": "Azure connected services with Cordova",
+    "VideoLength": "00:07:01",
+    "VideoTitle": "Azure connected services - task 1: Create an Azure Mobile App",
+    "Author": "Mikejo",
+    "UtcDateTimePublished": "2016-07-25T16:02:41.7374158Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ab9/c27aa7a2-6143-4834-851c-126783821ab9/Azure_mid.mp4",
+    "Description": "Create the Azure Mobile App using the Azure portal.This is one video in the Cordova video and documentation series on using connected services.For the complete set of tasks and videos, see this topic:"
+  },
+  {
+    "VideoId": "60142c8a-15ab-4696-ba59-a64b01765e7d",
+    "DataApi": "/Entries(guid'60142c8a-15ab-4696-ba59-a64b01765e7d')/",
+    "VideoPageLink": "/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-4-Set-up-gcm-for-push",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5111/411ed09c-c67b-4e23-a336-d20c1de25111/azurepushgcmconfig_960.jpg",
+    "ShowName": "Azure connected services with Cordova",
+    "VideoLength": "00:04:48",
+    "VideoTitle": "Azure connected services - task 4: Set up gcm for push ",
+    "Author": "Mikejo",
+    "UtcDateTimePublished": "2016-07-25T16:03:08.1250894Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5111/411ed09c-c67b-4e23-a336-d20c1de25111/azurepushgcmconfig_mid.mp4",
+    "Description": "This video shows how to setup up Google Cloud Messaging (GCM) to send push notifications to Android devices in a Cordova app.This is one video in the Cordova video and documentation series on using Az"
+  },
+  {
+    "VideoId": "fd5fc057-b8a6-4604-a769-a64b01775787",
+    "DataApi": "/Entries(guid'fd5fc057-b8a6-4604-a769-a64b01775787')/",
+    "VideoPageLink": "/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-5-Set-up-apns-for-push",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b472/3128334e-8a9e-4432-9364-8a842a17b472/azurepushapnsconfig_960.jpg",
+    "ShowName": "Azure connected services with Cordova",
+    "VideoLength": "00:06:31",
+    "VideoTitle": "Azure connected services - task 5: Set up apns for push ",
+    "Author": "Mikejo",
+    "UtcDateTimePublished": "2016-07-25T16:03:22.2867747Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b472/3128334e-8a9e-4432-9364-8a842a17b472/azurepushapnsconfig_mid.mp4",
+    "Description": "This video shows how to set up Apple Push Notification Service (APNS) to send push notifications to iOS devices in a Cordova app. This is one video in the Cordova video and documentation series on usi"
+  },
+  {
+    "VideoId": "15d7256e-6995-4e12-9da6-a64b0178daa8",
+    "DataApi": "/Entries(guid'15d7256e-6995-4e12-9da6-a64b0178daa8')/",
+    "VideoPageLink": "/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-6-Set-up-wns-for-push",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0697/0c9f158f-eb92-4403-88b0-e40390a50697/azurepushwnsconfig_960.jpg",
+    "ShowName": "Azure connected services with Cordova",
+    "VideoLength": "00:03:57",
+    "VideoTitle": "Azure connected services - task 6: Set up wns for push ",
+    "Author": "Mikejo",
+    "UtcDateTimePublished": "2016-07-25T16:03:36.557168Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0697/0c9f158f-eb92-4403-88b0-e40390a50697/azurepushwnsconfig_mid.mp4",
+    "Description": "This video shows how to set up Windows Notification Service (WNS) to send push notifications to Windows devices.This is one video in the Cordova video and documentation series on using Azure connected"
+  },
+  {
+    "VideoId": "760fc7be-f095-4576-8f2e-a64b0179adab",
+    "DataApi": "/Entries(guid'760fc7be-f095-4576-8f2e-a64b0179adab')/",
+    "VideoPageLink": "/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-7-Configure-client-and-backend",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4c99/fd8d9cd4-2824-43f1-a508-07255c3a4c99/azurepushclientandbackendconfig_960.jpg",
+    "ShowName": "Azure connected services with Cordova",
+    "VideoLength": "00:05:43",
+    "VideoTitle": "Azure connected services - task 7: Configure client and backend",
+    "Author": "Mikejo",
+    "UtcDateTimePublished": "2016-07-25T16:03:48.7634602Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4c99/fd8d9cd4-2824-43f1-a508-07255c3a4c99/azurepushclientandbackendconfig_mid.mp4",
+    "Description": "Final code check and client configuration for pushThis is one video in the Cordova video and documentation series on using connected services.For the complete set of tasks and videos, see this topic: "
+  },
+  {
+    "VideoId": "efbebb0d-ba9c-451d-a23f-a64b017a9cf0",
+    "DataApi": "/Entries(guid'efbebb0d-ba9c-451d-a23f-a64b017a9cf0')/",
+    "VideoPageLink": "/series/Azure-connected-services-with-Cordova/Azure-connected-services-task-8-Azure-authentication",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3acc/672527d6-040c-4960-a61f-8843c4f83acc/azureauthentication_960.jpg",
+    "ShowName": "Azure connected services with Cordova",
+    "VideoLength": "00:04:33",
+    "VideoTitle": "Azure connected services - task 8: Azure authentication ",
+    "Author": "Mikejo",
+    "UtcDateTimePublished": "2016-07-25T16:04:04.2644452Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3acc/672527d6-040c-4960-a61f-8843c4f83acc/azureauthentication_mid.mp4",
+    "Description": "This video shows how to add authentication support to the Azure connected services sample app.This is one video in the Cordova video and documentation series on using Azure connected services.For the "
+  }
+]

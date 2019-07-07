@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "49db8b53-0835-48da-b835-a243012ec269",
+    "DataApi": "/Entries(guid'49db8b53-0835-48da-b835-a243012ec269')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ed19/2a2d86be-41fa-4255-bdcf-442764bbed19/ASPMVC4M02_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "00:44:02",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (02) Developing ASP.NET MVC 4 Models",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:32:51.9683479Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ed19/2a2d86be-41fa-4255-bdcf-442764bbed19/ASPMVC4M02_mid.mp4",
+    "Description": "This module describes what's involved in working with MVC models and working with data. [00:39] - Lesson 1: Creating MVC Models[10:01] - Demo - How to Add a model[41:04] - Demo - How to Use Entity Fra"
+  },
+  {
+    "VideoId": "0a78020d-dd10-4b93-bb25-a243012f1e89",
+    "DataApi": "/Entries(guid'0a78020d-dd10-4b93-bb25-a243012f1e89')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/13f9/d67d6807-15d8-474c-b90e-b3f288f513f9/ASPMVC4M03_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "00:34:36",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (03) Developing MVC 4 Controllers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:33:08.253875Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/13f9/d67d6807-15d8-474c-b90e-b3f288f513f9/ASPMVC4M03_mid.mp4",
+    "Description": "In this module you'll learn about writing controllers and actions, including responding to user requests, writing controller actions, using parameters, passing information to views, and using filters."
+  },
+  {
+    "VideoId": "0c1658e6-7a78-4056-bd41-a243012f6667",
+    "DataApi": "/Entries(guid'0c1658e6-7a78-4056-bd41-a243012f6667')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e581/29d52fee-daa2-410b-ac2e-2439ab19e581/ASPMVC4M04_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "00:47:17",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (04) Developing ASP.NET MVC 4 Views",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:33:48.1525922Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e581/29d52fee-daa2-410b-ac2e-2439ab19e581/ASPMVC4M04_mid.mp4",
+    "Description": "This module teaches you about creating views with Razor syntax, using HTML helpers, and reusing code in views. [01:41] - Lesson 1: Creating Views with Razor Syntax[28:13] - Lesson 2: Using HTML Helper"
+  },
+  {
+    "VideoId": "4ad7f81c-f755-4df0-8ffa-a243012fa4c6",
+    "DataApi": "/Entries(guid'4ad7f81c-f755-4df0-8ffa-a243012fa4c6')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4ee3/fb447909-4666-4f2d-9bcb-91f22ae74ee3/ASPMVC4M05_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "00:54:49",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (05) Integrating JavaScript and MVC 4",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:34:02.4254043Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4ee3/fb447909-4666-4f2d-9bcb-91f22ae74ee3/ASPMVC4M05_mid.mp4",
+    "Description": "In this module you'll learn about using Ajax and partial page updates and rendering and executing JavaScript code. [06:16] - Lesson 1: Using AJAX and Partial Page Updates[32:59] - Lesson 2: Rendering "
+  },
+  {
+    "VideoId": "f88946e4-246b-459e-8720-a243012fed9b",
+    "DataApi": "/Entries(guid'f88946e4-246b-459e-8720-a243012fed9b')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/390d/34d84b0b-941b-4f70-86a8-e5d82cf7390d/ASPMVC4M06_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "00:34:33",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (06) Implementing Web APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:34:15.41693Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/390d/34d84b0b-941b-4f70-86a8-e5d82cf7390d/ASPMVC4M06_mid.mp4",
+    "Description": "This module explains how to develop a web API and covers routing in a web API, creating a web API for an MVC 4 web application, RESTful services, data return formats, and using routes and controllers "
+  },
+  {
+    "VideoId": "62ab3ec3-54cd-4126-93a1-a243013031f8",
+    "DataApi": "/Entries(guid'62ab3ec3-54cd-4126-93a1-a243013031f8')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f762/f5677b64-8361-4b79-8ecf-9805f8f7f762/ASPMVC4M07_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "00:40:23",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (07) Deploying to Windows Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:34:26.5139458Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f762/f5677b64-8361-4b79-8ecf-9805f8f7f762/ASPMVC4M07_mid.mp4",
+    "Description": "In this module you'll learn how to deploy a web application. It covers ASP.NET MVC 4 dependencies, deploying web applications to single-server and multi-server farms, and deploying web applications on"
+  },
+  {
+    "VideoId": "34e42fc2-a055-4887-9f48-a243013075a7",
+    "DataApi": "/Entries(guid'34e42fc2-a055-4887-9f48-a243013075a7')/",
+    "VideoPageLink": "/Series/Dev-ASP-MVC4-WebApps/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0b3/20bc29b9-fddd-4af3-998a-111766fbb0b3/ASPMVC4M08_960.jpg",
+    "ShowName": "Developing ASP.NET MVC 4 Web Applications",
+    "VideoLength": "01:06:11",
+    "VideoTitle": "Developing ASP.NET MVC 4 Web Applications: (08) Visual Studio 2013/MVC 5 Sneak Peek",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:34:37.692692Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0b3/20bc29b9-fddd-4af3-998a-111766fbb0b3/ASPMVC4M08_mid.mp4",
+    "Description": "This module introduces ASP.NET SignalR and Visual Studio 2013 and includes an MVC 5 sneak preview and a description of ASP.NET resources. [01:20] - Introducing SignalR[34:49] - ASP.Net[51:25] - Resour"
+  }
+]

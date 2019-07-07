@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "cc4a31a2-c582-4620-a5ba-9deb018980b3",
+    "DataApi": "/Entries(guid'cc4a31a2-c582-4620-a5ba-9deb018980b3')/",
+    "VideoPageLink": "/Blogs/AndrewDavey/Client-side-Model-View-Presenter",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "a2c83ff7-1b0b-4e3e-8ca3-9dea0163da5f",
+    "DataApi": "/Entries(guid'a2c83ff7-1b0b-4e3e-8ca3-9dea0163da5f')/",
+    "VideoPageLink": "/Blogs/AndrewDavey/Functional-ADONET",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

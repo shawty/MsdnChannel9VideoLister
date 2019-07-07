@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c5a3bd57-68c9-498b-a592-a15d003e91f7",
+    "DataApi": "/Entries(guid'c5a3bd57-68c9-498b-a592-a15d003e91f7')/",
+    "VideoPageLink": "/Series/Windows-Azure-Media-Services-Tutorials/How-to-build-customized-Media-Workflows-using-the-Media-Services-NET-SDK-Part-II",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f12c/6c262180-f83e-4bb0-b4fd-c063babff12c/WindowsAzureMediaServicesNETSDKPartII_512.jpg",
+    "ShowName": "Windows Azure Media Services",
+    "VideoLength": "00:16:47",
+    "VideoTitle": "How to Build Customized Media Workflows Using the Media Services .NET SDK - Part II",
+    "Author": "Mingfeiy",
+    "UtcDateTimePublished": "2013-02-06T06:06:27.4039678Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f12c/6c262180-f83e-4bb0-b4fd-c063babff12c/WindowsAzureMediaServicesNETSDKPartII_mid.mp4",
+    "Description": "In this two part video, Mingfei Yan will teach you how to use the Windows Azure Media Services .NET SDK to create your own media workflow including how to upload, encode, package and deliver your vide"
+  },
+  {
+    "VideoId": "9ebdb578-24f8-4f13-97e4-a15d003725ce",
+    "DataApi": "/Entries(guid'9ebdb578-24f8-4f13-97e4-a15d003725ce')/",
+    "VideoPageLink": "/Series/Windows-Azure-Media-Services-Tutorials/How-to-build-customized-Media-Workflows-using-the-Media-Services-NET-SDK-Part-I",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7066/1fbfb520-2165-4a16-9d54-84583b377066/WindowsAzureMediaServicesNETSDK_512.jpg",
+    "ShowName": "Windows Azure Media Services",
+    "VideoLength": "00:12:32",
+    "VideoTitle": "How to Build Customized Media Workflows Using the Media Services .NET SDK - Part I",
+    "Author": "Mingfeiy",
+    "UtcDateTimePublished": "2013-03-06T23:44:01.0466064Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7066/1fbfb520-2165-4a16-9d54-84583b377066/WindowsAzureMediaServicesNETSDK_mid.mp4",
+    "Description": "In this two part video, Mingfei Yan will teach you how to use the Windows Azure Media Services .NET SDK to create your own media workflow including how to upload, encode, package and deliver your vide"
+  },
+  {
+    "VideoId": "a81487bb-a32b-4c0a-88da-a17a00401d8c",
+    "DataApi": "/Entries(guid'a81487bb-a32b-4c0a-88da-a17a00401d8c')/",
+    "VideoPageLink": "/Series/Windows-Azure-Media-Services-Tutorials/Introduction-to-dynamic-packaging",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f58b/8fc755d3-bf30-4f2c-ac93-867b3562f58b/DynamicPacking_512.jpg",
+    "ShowName": "Windows Azure Media Services",
+    "VideoLength": "00:13:05",
+    "VideoTitle": "Introduction to Dynamic Packaging with Windows Azure Media Services",
+    "Author": "Mingfeiy",
+    "UtcDateTimePublished": "2013-03-07T05:58:23.4681829Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f58b/8fc755d3-bf30-4f2c-ac93-867b3562f58b/DynamicPacking_mid.mp4",
+    "Description": "This presentation introduces the a Windows Azure Media Services feature available via the on-demand streaming origins called &quot;Dynamic Packaging&quot;. You'll hear an overview of the feature, and "
+  }
+]

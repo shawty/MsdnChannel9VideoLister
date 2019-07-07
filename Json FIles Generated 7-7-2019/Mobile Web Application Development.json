@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "b6dc4111-4bd6-4331-820a-a3d9015f6f7c",
+    "DataApi": "/Entries(guid'b6dc4111-4bd6-4331-820a-a3d9015f6f7c')/",
+    "VideoPageLink": "/Series/Mobile-Web-Application-Development/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/60d4/129cf748-5c7f-4b66-adfd-d587a50e60d4/MobileWebAppDevM02_960.jpg",
+    "ShowName": "Mobile Web Application Development",
+    "VideoLength": "01:00:23",
+    "VideoTitle": "Mobile Web Application Development: (02) Creating a Mobile User Interface",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:11:02.9599105Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/60d4/129cf748-5c7f-4b66-adfd-d587a50e60d4/MobileWebAppDevM02_mid.mp4",
+    "Description": "Dig into how to create a responsive interface and the tools needed to ensure that a site performs well on smaller devices. [03:25] - CSS and media queries[23:29] - Bootstrap[31:19] - Images[49:18] - M"
+  },
+  {
+    "VideoId": "028b9aeb-e3c1-46eb-89a3-a3d9015fa377",
+    "DataApi": "/Entries(guid'028b9aeb-e3c1-46eb-89a3-a3d9015fa377')/",
+    "VideoPageLink": "/Series/Mobile-Web-Application-Development/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ede8/9511869d-0bc4-4f33-9d9f-22e871deede8/MobileWebAppDevM03_960.jpg",
+    "ShowName": "Mobile Web Application Development",
+    "VideoLength": "00:31:43",
+    "VideoTitle": "Mobile Web Application Development: (03) Integrating Touch",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:11:26.0037696Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ede8/9511869d-0bc4-4f33-9d9f-22e871deede8/MobileWebAppDevM03_mid.mp4",
+    "Description": "Find out how to work with touch, using JavaScript events and a helper library. [01:50] - Issues with touch[05:31] - JavaScript support[15:04] - Library support (Hammer.js)"
+  },
+  {
+    "VideoId": "84a26887-dcab-45f0-91b3-a3d9015fe08e",
+    "DataApi": "/Entries(guid'84a26887-dcab-45f0-91b3-a3d9015fe08e')/",
+    "VideoPageLink": "/Series/Mobile-Web-Application-Development/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e86b/366b47b5-52f7-4db8-bbe4-3db61b75e86b/MobileWebAppDevM04_960.jpg",
+    "ShowName": "Mobile Web Application Development",
+    "VideoLength": "00:33:48",
+    "VideoTitle": "Mobile Web Application Development: (04) Creating the Backend",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:11:52.8822877Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e86b/366b47b5-52f7-4db8-bbe4-3db61b75e86b/MobileWebAppDevM04_mid.mp4",
+    "Description": "Examine the different options for creating a backend for mobile web applications. [03:20] - Server architecture[09:50] - Creating the Mobile Service"
+  },
+  {
+    "VideoId": "245869e5-84c2-4402-814b-a3d901601732",
+    "DataApi": "/Entries(guid'245869e5-84c2-4402-814b-a3d901601732')/",
+    "VideoPageLink": "/Series/Mobile-Web-Application-Development/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f6ce/a7006b4a-9306-44d9-bb6b-f91b0ac6f6ce/MobileWebAppDevM05_960.jpg",
+    "ShowName": "Mobile Web Application Development",
+    "VideoLength": "00:51:35",
+    "VideoTitle": "Mobile Web Application Development: (05) The Mobile Client",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:12:14.4575783Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f6ce/a7006b4a-9306-44d9-bb6b-f91b0ac6f6ce/MobileWebAppDevM05_mid.mp4",
+    "Description": "Learn about the different options for creating a full-fledged mobile web application. [02:09] - Options for the client framework[03:41] - Getting started with Angular"
+  },
+  {
+    "VideoId": "3218e981-0ef8-49b8-81cd-a3d901604ff3",
+    "DataApi": "/Entries(guid'3218e981-0ef8-49b8-81cd-a3d901604ff3')/",
+    "VideoPageLink": "/Series/Mobile-Web-Application-Development/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1867/40ff9af5-4ed8-4899-849a-8270f8991867/MobileWebAppDevM06_960.jpg",
+    "ShowName": "Mobile Web Application Development",
+    "VideoLength": "00:34:44",
+    "VideoTitle": "Mobile Web Application Development: (06) Making Data Available Offline",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:12:31.1402687Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1867/40ff9af5-4ed8-4899-849a-8270f8991867/MobileWebAppDevM06_mid.mp4",
+    "Description": "See how to cache and store data in the browser, and get an intro to geolocation. [02:51] - Browser storage[15:04] - Caching and offline access[26:00] - Geolocation"
+  },
+  {
+    "VideoId": "e1110a7d-3bfc-4591-8a7b-a3d90160843e",
+    "DataApi": "/Entries(guid'e1110a7d-3bfc-4591-8a7b-a3d90160843e')/",
+    "VideoPageLink": "/Series/Mobile-Web-Application-Development/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b2a5/bd5c1c7b-a117-4ff4-bcce-a7b464c9b2a5/MobileWebAppDevM07_960.jpg",
+    "ShowName": "Mobile Web Application Development",
+    "VideoLength": "00:46:57",
+    "VideoTitle": "Mobile Web Application Development: (07) Publishing to Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:12:53.6288149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b2a5/bd5c1c7b-a117-4ff4-bcce-a7b464c9b2a5/MobileWebAppDevM07_mid.mp4",
+    "Description": "Find out how to take your web app and convert it to a mobile app and how to deploy your web app to Azure.â€‹ [03:19] - Multi-Device Hybrid Apps Tooling[16:55] - Deploying to Azure"
+  }
+]

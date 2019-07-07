@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c2b60794-4241-429c-ac39-a2740161cd1c",
+    "DataApi": "/Entries(guid'c2b60794-4241-429c-ac39-a2740161cd1c')/",
+    "VideoPageLink": "/Series/Visual-Studio-Online/Welcome-to-Visual-Studio-Online-Part-II-Account-Overview--Administration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/667d/38b20bde-ae84-4588-99bc-3b02729d667d/welcomtovisualstudiopartII_960.jpg",
+    "ShowName": "Visual Studio Online",
+    "VideoLength": "00:05:21",
+    "VideoTitle": "Welcome to Visual Studio Online Part II: Account Overview & Administration",
+    "Author": "Matt Mostad",
+    "UtcDateTimePublished": "2013-11-13T20:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/667d/38b20bde-ae84-4588-99bc-3b02729d667d/welcomtovisualstudiopartII_mid.mp4",
+    "Description": "This video demonstrates how to set up your Visual Studio Online account, add team members and start projects. "
+  },
+  {
+    "VideoId": "85b1488d-08fe-435b-8ab3-a2740166f0cf",
+    "DataApi": "/Entries(guid'85b1488d-08fe-435b-8ab3-a2740166f0cf')/",
+    "VideoPageLink": "/Series/Visual-Studio-Online/Welcome-to-Visual-Studio-Online--Part-III-Work-Items--Team-Rooms",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09c4/d6b85bfe-0494-4b19-bcd2-f14efdc809c4/WelcomeToVisualStudioPartIII_960.jpg",
+    "ShowName": "Visual Studio Online",
+    "VideoLength": "00:03:25",
+    "VideoTitle": "Welcome to Visual Studio Online â€“ Part III: Team Rooms",
+    "Author": "Matt Mostad",
+    "UtcDateTimePublished": "2013-11-13T20:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09c4/d6b85bfe-0494-4b19-bcd2-f14efdc809c4/WelcomeToVisualStudioPartIII_mid.mp4",
+    "Description": "This video demonstrates how to enter work items, develop a team room and use other services. "
+  },
+  {
+    "VideoId": "fca0623e-dd9c-4b2b-8382-a2740169be34",
+    "DataApi": "/Entries(guid'fca0623e-dd9c-4b2b-8382-a2740169be34')/",
+    "VideoPageLink": "/Series/Visual-Studio-Online/Welcome-to-Visual-Studio-Online--Part-IV-Advanced-Usage",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b5e/e7d37467-a49d-492c-a9fa-d0ce82dc4b5e/WelcomeToVisualStudioOnlinePartIV_960.jpg",
+    "ShowName": "Visual Studio Online",
+    "VideoLength": "00:03:15",
+    "VideoTitle": "Welcome to Visual Studio Online â€“ Part IV: Advanced Usage",
+    "Author": "Matt Mostad",
+    "UtcDateTimePublished": "2013-11-13T20:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b5e/e7d37467-a49d-492c-a9fa-d0ce82dc4b5e/WelcomeToVisualStudioOnlinePartIV_mid.mp4",
+    "Description": "This video illustrates a dashboard for an advanced user. "
+  },
+  {
+    "VideoId": "71ea8085-53b6-470f-846b-a274016af29b",
+    "DataApi": "/Entries(guid'71ea8085-53b6-470f-846b-a274016af29b')/",
+    "VideoPageLink": "/Series/Visual-Studio-Online/Welcome-to-Visual-Studio-Online--Part-IV-Application-Insights",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/afcd/afffd553-50d7-4ca0-bd14-a4deefacafcd/WelcometoVisualStudioOnlinePartIV_960.jpg",
+    "ShowName": "Visual Studio Online",
+    "VideoLength": "00:04:45",
+    "VideoTitle": "Welcome to Visual Studio Online â€“ Part V: Application Insights",
+    "Author": "Matt Mostad",
+    "UtcDateTimePublished": "2013-11-13T20:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/afcd/afffd553-50d7-4ca0-bd14-a4deefacafcd/WelcometoVisualStudioOnlinePartIV_mid.mp4",
+    "Description": "This video demonstrates a few key components of Visual Studio Online's Application Insights.  This is a service that is currently in limited preview and requires a pre-authorized token for use.  Reque"
+  },
+  {
+    "VideoId": "eb3df471-34df-40a6-b630-a274016c468e",
+    "DataApi": "/Entries(guid'eb3df471-34df-40a6-b630-a274016c468e')/",
+    "VideoPageLink": "/Series/Visual-Studio-Online/Welcome-to-Visual-Studio-Online--Part-IV-Source-Code--Git-Repository--Wrap-up",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/22b1/d08555bc-d742-42f1-b69a-e9bea18222b1/WelcomeToVisualStudioOnlinePartVI_960.jpg",
+    "ShowName": "Visual Studio Online",
+    "VideoLength": "00:03:25",
+    "VideoTitle": "Welcome to Visual Studio Online â€“ Part VI: Source Code / Git Repository & Wrap-up",
+    "Author": "Matt Mostad",
+    "UtcDateTimePublished": "2013-11-13T20:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/22b1/d08555bc-d742-42f1-b69a-e9bea18222b1/WelcomeToVisualStudioOnlinePartVI_mid.mp4",
+    "Description": "This video demonstrates how to work with Visual Studio Online as your source code repository for Git or centralized source control. "
+  }
+]

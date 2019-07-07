@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "d37152e9-bd18-41cc-81b5-a2ea01784ab2",
+    "DataApi": "/Entries(guid'd37152e9-bd18-41cc-81b5-a2ea01784ab2')/",
+    "VideoPageLink": "/Series/Using-Kanban/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ec9/61f463c6-c361-4c95-a4a4-082c29383ec9/UsingKanbanM02_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:52:54",
+    "VideoTitle": "Using Kanban: (02) Start Where You Are",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:36:13.1870401Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ec9/61f463c6-c361-4c95-a4a4-082c29383ec9/UsingKanbanM02_mid.mp4",
+    "Description": "Kanban starts where you are, not where you want to be, and not where you wish you were. Visualizing your process and making policies explicit are the tools Kanban uses to elicit that starting point. H"
+  },
+  {
+    "VideoId": "003f62c0-31da-40c0-b43e-a2ea01788e86",
+    "DataApi": "/Entries(guid'003f62c0-31da-40c0-b43e-a2ea01788e86')/",
+    "VideoPageLink": "/Series/Using-Kanban/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3532/304f41df-0451-48d3-a5fb-d8c213e93532/UsingKanbanM03_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:53:58",
+    "VideoTitle": "Using Kanban: (03) Learn to Read",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:36:52.6702784Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3532/304f41df-0451-48d3-a5fb-d8c213e93532/UsingKanbanM03_mid.mp4",
+    "Description": "How do you interpret what your board is telling you? You have to figure out where your impediments are, and they usually aren't where you thought they'd be. Learn how to spot the elephants on your boa"
+  },
+  {
+    "VideoId": "3ecc98cd-6efa-4170-b814-a2ea0178cc66",
+    "DataApi": "/Entries(guid'3ecc98cd-6efa-4170-b814-a2ea0178cc66')/",
+    "VideoPageLink": "/Series/Using-Kanban/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b5d0/aae470e5-5b43-4998-b8ff-1dd66252b5d0/UsingKanbanM04_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:33:38",
+    "VideoTitle": "Using Kanban: (04) Induce Pain",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:38:27.190228Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b5d0/aae470e5-5b43-4998-b8ff-1dd66252b5d0/UsingKanbanM04_mid.mp4",
+    "Description": "Limiting work in process sounds harmless until you start trying: you and everybody else will immediately want to raise it again. It's a key Kanban practice to get you looking for, and embracing, the p"
+  },
+  {
+    "VideoId": "67bd98b2-996c-4d2a-ba2e-a2ea0178ff28",
+    "DataApi": "/Entries(guid'67bd98b2-996c-4d2a-ba2e-a2ea0178ff28')/",
+    "VideoPageLink": "/Series/Using-Kanban/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/adc3/68463466-5cef-439a-bd29-0e1b7c7aadc3/UsingKanbanM05_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:34:08",
+    "VideoTitle": "Using Kanban: (05) Triage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:42:35.9003494Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/adc3/68463466-5cef-439a-bd29-0e1b7c7aadc3/UsingKanbanM05_mid.mp4",
+    "Description": "Kanban calls for continuous, incremental improvement, which might mean small progressive fixes, or planting seeds for a longer-term effort, or both. Learn how to weigh the tradeoffs and prioritize wit"
+  },
+  {
+    "VideoId": "283cd899-47fb-4f3b-9a92-a2ea01794eec",
+    "DataApi": "/Entries(guid'283cd899-47fb-4f3b-9a92-a2ea01794eec')/",
+    "VideoPageLink": "/Series/Using-Kanban/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/534c/e0611235-e285-456a-b890-68534b2e534c/UsingKanbanM06_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:44:34",
+    "VideoTitle": "Using Kanban: (06) Try Stuff",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:45:05.6751222Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/534c/e0611235-e285-456a-b890-68534b2e534c/UsingKanbanM06_mid.mp4",
+    "Description": "Take ownership of your process, and try something to make it better. How will you know whether your change helped? How quickly can you find out? If it didn't help, what now? [00:41] - Kanban Try Stuff"
+  },
+  {
+    "VideoId": "b9bd7676-4472-4474-95af-a2ea01798843",
+    "DataApi": "/Entries(guid'b9bd7676-4472-4474-95af-a2ea01798843')/",
+    "VideoPageLink": "/Series/Using-Kanban/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/edf3/979168cb-5987-42c8-b63b-fa812debedf3/UsingKanbanM07_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:43:12",
+    "VideoTitle": "Using Kanban: (07) Tools for Your Toolbox",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:45:24.3728714Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/edf3/979168cb-5987-42c8-b63b-fa812debedf3/UsingKanbanM07_mid.mp4",
+    "Description": "Kanban doesn't prescribe methods or practices, but you need a well-informed and really robust toolbox to tackle your impediments. We share a bunch of our ideas, but more importantly, we help you inspi"
+  },
+  {
+    "VideoId": "1c59d020-5ac3-4810-90dd-a2ea0179be74",
+    "DataApi": "/Entries(guid'1c59d020-5ac3-4810-90dd-a2ea0179be74')/",
+    "VideoPageLink": "/Series/Using-Kanban/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf5a/f18b5886-6bbc-4d31-ac73-1ac4b60acf5a/UsingKanbanM08_960.jpg",
+    "ShowName": "Using Kanban",
+    "VideoLength": "00:40:26",
+    "VideoTitle": "Using Kanban: (08) Go Forth",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-11T04:45:42.197035Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf5a/f18b5886-6bbc-4d31-ac73-1ac4b60acf5a/UsingKanbanM08_mid.mp4",
+    "Description": "Explore what your world looks like when you have a Kanban/Kaizen culture, and how to keep it going after you've started. [02:02] - Kanban Go Forth[05:13] - Culture Flag[19:06] - Culture FlagFull cours"
+  }
+]

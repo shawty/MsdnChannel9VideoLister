@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "2e53a0f2-f311-48b6-a526-a2d100142dd2",
+    "DataApi": "/Entries(guid'2e53a0f2-f311-48b6-a526-a2d100142dd2')/",
+    "VideoPageLink": "/Series/Enterprise-Developer-Camp/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a164/bce910c3-4929-4fe5-9bb4-897f27ada164/EnterpriseDevCampM02_960.jpg",
+    "ShowName": "Enterprise Developer Camp",
+    "VideoLength": "01:05:11",
+    "VideoTitle": "Enterprise Developer Camp: (02) Adopt a Services Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-13T17:22:31.3726753Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a164/bce910c3-4929-4fe5-9bb4-897f27ada164/EnterpriseDevCampM02_mid.mp4",
+    "Description": "Learn about best practices for building WPF LOB applications that are based on a services architecture. Review the Expenses app that serves as foundation of the session for the day, and explore a numb"
+  },
+  {
+    "VideoId": "3de4d003-ae2b-44c9-92c2-a2d1001d88a6",
+    "DataApi": "/Entries(guid'3de4d003-ae2b-44c9-92c2-a2d1001d88a6')/",
+    "VideoPageLink": "/Series/Enterprise-Developer-Camp/03a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/23dc/0f5020ca-7201-4d4d-8eeb-a20732f823dc/EnterpriseDevCampM03a_960.jpg",
+    "ShowName": "Enterprise Developer Camp",
+    "VideoLength": "00:41:22",
+    "VideoTitle": "Enterprise Developer Camp: (03a) Move to the Cloud, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-13T17:25:35.2356002Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/23dc/0f5020ca-7201-4d4d-8eeb-a20732f823dc/EnterpriseDevCampM03a_mid.mp4",
+    "Description": "Find out how to cloud-enable the Expenses app so users can access expense data on-premises and off-premises. Walk through the steps, including configuring the WCF service to use SQL Azure, deploying t"
+  },
+  {
+    "VideoId": "3cd96a83-48c3-42c6-83cb-a2d1001dc2c3",
+    "DataApi": "/Entries(guid'3cd96a83-48c3-42c6-83cb-a2d1001dc2c3')/",
+    "VideoPageLink": "/Series/Enterprise-Developer-Camp/03b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/72d3/1f05a017-22d2-411d-8946-18398fad72d3/EnterpriseDevCampM03b_960.jpg",
+    "ShowName": "Enterprise Developer Camp",
+    "VideoLength": "01:01:15",
+    "VideoTitle": "Enterprise Developer Camp: (03b) Move to the Cloud, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-13T17:26:31.0778722Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/72d3/1f05a017-22d2-411d-8946-18398fad72d3/EnterpriseDevCampM03b_mid.mp4",
+    "Description": "Find out how to cloud-enable the Expenses app so users can access expense data on-premises and off-premises. Walk through the steps, including configuring the WCF service to use SQL Azure, deploying t"
+  },
+  {
+    "VideoId": "915b1de0-2017-4f3a-89e1-a2d1001dfdbd",
+    "DataApi": "/Entries(guid'915b1de0-2017-4f3a-89e1-a2d1001dfdbd')/",
+    "VideoPageLink": "/Series/Enterprise-Developer-Camp/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/047e/9ce0c753-1c11-4b04-b19e-f3947af7047e/EnterpriseDevCampM04_960.jpg",
+    "ShowName": "Enterprise Developer Camp",
+    "VideoLength": "00:32:57",
+    "VideoTitle": "Enterprise Developer Camp: (04) Build Modern Looking Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-13T17:27:58.1585272Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/047e/9ce0c753-1c11-4b04-b19e-f3947af7047e/EnterpriseDevCampM04_mid.mp4",
+    "Description": "Explore new features in Visual Studio 2013 that make XAML development easier. Learn about controls provided by third-party vendors, and see how they can be used to build WPF apps that have a more mode"
+  },
+  {
+    "VideoId": "9e1bd129-92ab-43ef-bf72-a2d1001e4b1c",
+    "DataApi": "/Entries(guid'9e1bd129-92ab-43ef-bf72-a2d1001e4b1c')/",
+    "VideoPageLink": "/Series/Enterprise-Developer-Camp/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c31a/3ea353f0-5723-4a3d-a36b-b8b36fa7c31a/EnterpriseDevCampM05_960.jpg",
+    "ShowName": "Enterprise Developer Camp",
+    "VideoLength": "00:59:03",
+    "VideoTitle": "Enterprise Developer Camp: (05) Build for Multiple Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-13T17:28:34.2230333Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c31a/3ea353f0-5723-4a3d-a36b-b8b36fa7c31a/EnterpriseDevCampM05_mid.mp4",
+    "Description": "See how you can take your existing skills and build Windows 8 and Windows Phone apps. Get a basic overview, and then see how to build an Expenses app for both of these platforms to provide users the a"
+  }
+]

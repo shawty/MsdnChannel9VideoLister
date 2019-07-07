@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "70e0eb68-0b2a-4a20-a91d-a572013f3734",
+    "DataApi": "/Entries(guid'70e0eb68-0b2a-4a20-a91d-a572013f3734')/",
+    "VideoPageLink": "/Series/Pit-Stop-Enterprise-Mobility-Suite/Create-RMS-Custom-Template",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e82f/88b15542-a7d4-4418-9165-7c7ae1aae82f/EMScreateRMScustomtemplate_960.jpg",
+    "ShowName": "Pit Stop: Enterprise Mobility Suite",
+    "VideoLength": "00:02:48",
+    "VideoTitle": "How to Create RMS custom templates",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-26T18:35:33.734769Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e82f/88b15542-a7d4-4418-9165-7c7ae1aae82f/EMScreateRMScustomtemplate_mid.mp4",
+    "Description": "Walk through creating a custom template with Azure Rights Management Services. A policy template makes it easy for users to apply policies to sensitive files that restrict access to authorized users i"
+  },
+  {
+    "VideoId": "eb53639a-df18-4bfa-b3d3-a599016eb336",
+    "DataApi": "/Entries(guid'eb53639a-df18-4bfa-b3d3-a599016eb336')/",
+    "VideoPageLink": "/Series/Pit-Stop-Enterprise-Mobility-Suite/How-to-create-and-deploy-Mobile-Application-Management-MAM-Policies",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4c5d/77f9be59-eeab-43cb-b128-90f7d1164c5d/CreateDeployMAM_960.jpg",
+    "ShowName": "Pit Stop: Enterprise Mobility Suite",
+    "VideoLength": "00:04:50",
+    "VideoTitle": "How to create and deploy Mobile Application Management (MAM) policies",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-26T22:47:00.3121548Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4c5d/77f9be59-eeab-43cb-b128-90f7d1164c5d/CreateDeployMAM_mid.mp4",
+    "Description": "Walk through creating and deploying a Mobile App Management (MAM) policy using the Azure Portal and Microsoft Intune. Next Steps Learn: Microsoft Intune Core SkillsWatch: Azure videos on Microsoft Mec"
+  },
+  {
+    "VideoId": "2b22d568-112e-4934-be2f-a59a016d5df1",
+    "DataApi": "/Entries(guid'2b22d568-112e-4934-be2f-a59a016d5df1')/",
+    "VideoPageLink": "/Series/Pit-Stop-Enterprise-Mobility-Suite/How-to-protect-emailed-files-with-Azure-RMS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1488/1bf57db5-3c0d-4ab9-bb3d-9ced29121488/ProtectEmailRMS_960.jpg",
+    "ShowName": "Pit Stop: Enterprise Mobility Suite",
+    "VideoLength": "00:03:51",
+    "VideoTitle": "How to protect emailed files with Azure RMS",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-27T22:14:37.1009063Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1488/1bf57db5-3c0d-4ab9-bb3d-9ced29121488/ProtectEmailRMS_mid.mp4",
+    "Description": "Walk thru the steps for safely sharing documents via Email. Next Steps Learn: Azure Rights Management Core SkillsWatch: Azure videos on Microsoft MechanicsTry: Azure Rights Management as a part of the"
+  },
+  {
+    "VideoId": "9c615bc8-7e75-425c-ad05-a59a016cb7cb",
+    "DataApi": "/Entries(guid'9c615bc8-7e75-425c-ad05-a59a016cb7cb')/",
+    "VideoPageLink": "/Series/Pit-Stop-Enterprise-Mobility-Suite/How-to-configure-and-deploy-mobile-device-security-policy-with-Microsoft-Intune",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a546/8e2c461d-ef85-4495-9402-5f6c2ae6a546/ConfigAndDeployIntune_960.jpg",
+    "ShowName": "Pit Stop: Enterprise Mobility Suite",
+    "VideoLength": "00:03:16",
+    "VideoTitle": "How to configure and deploy mobile device security policy with Microsoft Intune",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-27T22:15:10.6424104Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a546/8e2c461d-ef85-4495-9402-5f6c2ae6a546/ConfigAndDeployIntune_mid.mp4",
+    "Description": "Walk through a simple example of using Intune configuration policies to help secure a mobile device. Next Steps Learn: Microsoft Intune Core SkillsWatch: Azure videos on Microsoft MechanicsTry: Micros"
+  }
+]

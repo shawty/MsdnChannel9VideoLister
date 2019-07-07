@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "f90bbc30-ecad-4fd2-a3b9-a2f201381e27",
+    "DataApi": "/Entries(guid'f90bbc30-ecad-4fd2-a3b9-a2f201381e27')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c741/a8041d73-c41a-4e9a-aa79-373b79f0c741/Windows81DeploymentM02_960.jpg",
+    "ShowName": "Windows 8.1 Deployment",
+    "VideoLength": "00:51:27",
+    "VideoTitle": "Windows 8.1 Deployment: (02) Creating a Windows 8.1 Reference Image",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-18T22:20:14.6429664Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c741/a8041d73-c41a-4e9a-aa79-373b79f0c741/Windows81DeploymentM02_mid.mp4",
+    "Description": "Get a deep and practical understanding of the Windows 8.1 image engineering process, building a reference image using a fully automated and repeatable process. [01:00] - Image Engineering Overview[15:"
+  },
+  {
+    "VideoId": "415d8b4a-c2b2-4f19-b6ad-a2f2013875d4",
+    "DataApi": "/Entries(guid'415d8b4a-c2b2-4f19-b6ad-a2f2013875d4')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5f09/b6c7ee2c-4c8b-4035-a88b-9d4404be5f09/Windows81DeploymentM03_960.jpg",
+    "ShowName": "Windows 8.1 Deployment",
+    "VideoLength": "00:53:57",
+    "VideoTitle": "Windows 8.1 Deployment: (03) Deploying Windows 8.1 with MDT",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-18T22:20:33.1881755Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5f09/b6c7ee2c-4c8b-4035-a88b-9d4404be5f09/Windows81DeploymentM03_mid.mp4",
+    "Description": "Get insight into using the Microsoft Deployment Toolkit to deploy Windows 8.1, with a specific focus on driver management and application deployment. [01:14] - Image Deployment Overview[11:32] - Drive"
+  },
+  {
+    "VideoId": "09bf125a-95a5-4d6d-8a0d-a2f20138bafb",
+    "DataApi": "/Entries(guid'09bf125a-95a5-4d6d-8a0d-a2f20138bafb')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/daf3/679dbf8b-f740-4b97-ad13-c28429a3daf3/Windows81DeploymentM04_960.jpg",
+    "ShowName": "Windows 8.1 Deployment",
+    "VideoLength": "00:58:21",
+    "VideoTitle": "Windows 8.1 Deployment: (04) Deploying Windows 8.1 with System Center 2012 R2 Configuration Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-18T22:20:48.5279001Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/daf3/679dbf8b-f740-4b97-ad13-c28429a3daf3/Windows81DeploymentM04_mid.mp4",
+    "Description": "Learn how to use System Center 2012 R2 Configuration Manager with the Microsoft Deployment Toolkit to perform Windows 8.1 deployment, including driver management. [01:00] - ConfigMgr Image Deployment "
+  }
+]

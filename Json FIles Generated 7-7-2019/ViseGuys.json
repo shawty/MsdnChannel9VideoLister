@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ed78d4af-ff47-4e42-8c19-a5b6017b63c5",
+    "DataApi": "/Entries(guid'ed78d4af-ff47-4e42-8c19-a5b6017b63c5')/",
+    "VideoPageLink": "/Series/ViseGuys/Developing-and-deploying-apps-with-Continuum",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d082/faccb454-cc5c-459b-8356-4ed31492d082/950XL_960.jpg",
+    "ShowName": "ViseGuys",
+    "VideoLength": "00:11:02",
+    "VideoTitle": "Developing and deploying apps with Continuum",
+    "Author": "The Real Shadyman",
+    "UtcDateTimePublished": "2016-02-25T14:03:16.1273147Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d082/faccb454-cc5c-459b-8356-4ed31492d082/950XL_mid.mp4",
+    "Description": "In this video we go through how you can develop and deploy Windows Universal apps using a Windows 10 Mobile device such as the Lumia 950 XL. "
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "d838982d-1fcc-4f84-8afa-a4c000bb799e",
+    "DataApi": "/Entries(guid'd838982d-1fcc-4f84-8afa-a4c000bb799e')/",
+    "VideoPageLink": "/Series/Building-Infrastructure-in-Azure-using-Azure-Resource-Manager/Resource-Providers-Resources-and-Powershell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/025c/d0f9c1ea-f327-4a0f-8b1c-346c100b025c/ResourcesandPowershell_960.jpg",
+    "ShowName": "Building Infrastructure in Azure using Azure Resource Manager",
+    "VideoLength": "00:27:41",
+    "VideoTitle": "Resource Providers, Resources and Powershell",
+    "Author": "ITPrOla",
+    "UtcDateTimePublished": "2015-06-23T12:29:37.4760076Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/025c/d0f9c1ea-f327-4a0f-8b1c-346c100b025c/ResourcesandPowershell_mid.mp4",
+    "Description": "In this chapter I give you a tour on all the relevant resources for building an IaaS solution with Azure Resource Manager. I then show you how you can deploy and configure these resources with Powersh"
+  },
+  {
+    "VideoId": "d41aca3d-3515-4c55-82c0-a4c000bcd8f3",
+    "DataApi": "/Entries(guid'd41aca3d-3515-4c55-82c0-a4c000bcd8f3')/",
+    "VideoPageLink": "/Series/Building-Infrastructure-in-Azure-using-Azure-Resource-Manager/Azure-Resource-Manager-Templates",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8708/77140b6b-e0a7-42e0-8501-b545ab7d8708/ARMTemplates_960.jpg",
+    "ShowName": "Building Infrastructure in Azure using Azure Resource Manager",
+    "VideoLength": "00:20:00",
+    "VideoTitle": "Azure Resource Manager Templates",
+    "Author": "ITPrOla",
+    "UtcDateTimePublished": "2015-06-23T12:29:54.1571407Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8708/77140b6b-e0a7-42e0-8501-b545ab7d8708/ARMTemplates_mid.mp4",
+    "Description": "In this chapter I show you how to build and deploy templates for your infrastructure in Azure using Visual Studio. "
+  },
+  {
+    "VideoId": "83a14b67-e59a-4ef3-897e-a4c000bd40fe",
+    "DataApi": "/Entries(guid'83a14b67-e59a-4ef3-897e-a4c000bd40fe')/",
+    "VideoPageLink": "/Series/Building-Infrastructure-in-Azure-using-Azure-Resource-Manager/Role-Based-Access-Control",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/47bb/599002ae-75eb-4364-9abc-937de89b47bb/RBAC_960.jpg",
+    "ShowName": "Building Infrastructure in Azure using Azure Resource Manager",
+    "VideoLength": "00:18:34",
+    "VideoTitle": "Role Based Access Control",
+    "Author": "ITPrOla",
+    "UtcDateTimePublished": "2015-06-23T12:30:18.0035655Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/47bb/599002ae-75eb-4364-9abc-937de89b47bb/RBAC_mid.mp4",
+    "Description": "In this final chapter I explain how Role Based Access Control (RBAC) works and how you can manage it using the Azure portal and also how you can manage RBAC with Powershell. "
+  }
+]

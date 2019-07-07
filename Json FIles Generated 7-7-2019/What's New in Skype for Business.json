@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c49c9b63-2506-4825-a6a6-a45301730be1",
+    "DataApi": "/Entries(guid'c49c9b63-2506-4825-a6a6-a45301730be1')/",
+    "VideoPageLink": "/Series/Whats-New-in-Skype-for-Business/Skype-for-Business-Server-Core-and-Voice-Improvements",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/885c/643ac09a-0cbc-43b6-bb84-ba785fc5885c/Skype4_960.jpg",
+    "ShowName": "What's New in Skype for Business",
+    "VideoLength": "01:00:29",
+    "VideoTitle": "Skype for Business: Server Core and Voice Improvements",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2015-03-06T22:42:09.15723Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/885c/643ac09a-0cbc-43b6-bb84-ba785fc5885c/Skype4_mid.mp4",
+    "Description": "Core server improvementsVoice improvements"
+  },
+  {
+    "VideoId": "c1dfef4e-ce3a-42d5-8844-a4530171ce34",
+    "DataApi": "/Entries(guid'c1dfef4e-ce3a-42d5-8844-a4530171ce34')/",
+    "VideoPageLink": "/Series/Whats-New-in-Skype-for-Business/Skype-for-Business-New-Meeting-and-Video-Investments",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/031e/96d55be6-ac3f-4308-a57b-a7b5ebd2031e/Skype3_960.jpg",
+    "ShowName": "What's New in Skype for Business",
+    "VideoLength": "00:35:38",
+    "VideoTitle": "Skype for Business: New Meeting and Video Investments",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2015-03-06T22:43:16.8164101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/031e/96d55be6-ac3f-4308-a57b-a7b5ebd2031e/Skype3_mid.mp4",
+    "Description": "Meeting InvestmentsVideo Investments"
+  },
+  {
+    "VideoId": "131c6dd5-93be-4b22-986c-a4530174786d",
+    "DataApi": "/Entries(guid'131c6dd5-93be-4b22-986c-a4530174786d')/",
+    "VideoPageLink": "/Series/Whats-New-in-Skype-for-Business/Skype-for-Business-Ensuring-Media-Quality-in-the-Network",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9964/2bdc48cb-ee49-4981-a853-ab18b8109964/Skype5_960.jpg",
+    "ShowName": "What's New in Skype for Business",
+    "VideoLength": "00:58:35",
+    "VideoTitle": "Skype for Business: Ensuring Media Quality in the Network",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2015-03-06T22:48:20.5763524Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9964/2bdc48cb-ee49-4981-a853-ab18b8109964/Skype5_mid.mp4",
+    "Description": "Network impairmentsCall quality methodologySoftware defined networking"
+  },
+  {
+    "VideoId": "e7d18bbb-6431-45d3-abe9-a4530176fb56",
+    "DataApi": "/Entries(guid'e7d18bbb-6431-45d3-abe9-a4530176fb56')/",
+    "VideoPageLink": "/Series/Whats-New-in-Skype-for-Business/Opportunities-with-the-Skype-Developer-Platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1e1c/e086e89f-8a31-478d-9a28-34d16f8a1e1c/Skype6_960.jpg",
+    "ShowName": "What's New in Skype for Business",
+    "VideoLength": "00:39:48",
+    "VideoTitle": "Opportunities with the Skype Developer Platform",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2015-03-08T15:40:07.7062389Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1e1c/e086e89f-8a31-478d-9a28-34d16f8a1e1c/Skype6_mid.mp4",
+    "Description": "Introducing Skype Developer PlatformBuilding Skype Experience for the WebWhat developers can do with Lync, Skype for Business"
+  }
+]

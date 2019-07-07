@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "69d0121b-32b4-44e4-a4cd-a5610066fbfe",
+    "DataApi": "/Entries(guid'69d0121b-32b4-44e4-a4cd-a5610066fbfe')/",
+    "VideoPageLink": "/Series/Windows10AU-IT-Pro/Windows-10-for-Mobile-Devices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1682/44a66d66-6091-4667-96e6-9d36a03b1682/Windows10forMobileDevices_960.jpg",
+    "ShowName": "Windows 10 for IT Professionals",
+    "VideoLength": "00:48:16",
+    "VideoTitle": "Windows 10 for Mobile Devices",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-02-09T00:25:19.2883658Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1682/44a66d66-6091-4667-96e6-9d36a03b1682/Windows10forMobileDevices_mid.mp4",
+    "Description": "In today's mobile-first world, we had to make sure Windows 10 went beyond the PC to embrace the use of smartphones and small devices. Tune into this session for live demos and a detailed discussion on"
+  },
+  {
+    "VideoId": "575cf7f9-f947-4af6-89fe-a56100666d37",
+    "DataApi": "/Entries(guid'575cf7f9-f947-4af6-89fe-a56100666d37')/",
+    "VideoPageLink": "/Series/Windows10AU-IT-Pro/Provisioning-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51c1/506fe245-e7d0-473e-94c8-60cb21ba51c1/ProvisioningWindows10_960.jpg",
+    "ShowName": "Windows 10 for IT Professionals",
+    "VideoLength": "00:51:18",
+    "VideoTitle": "Provisioning Windows 10 ",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-02-09T00:25:29.3447292Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51c1/506fe245-e7d0-473e-94c8-60cb21ba51c1/ProvisioningWindows10_mid.mp4",
+    "Description": "Introducing Runtime Provisioning: the smart way for IT professionals and system integrators to reduce the cost of deploying Windows PCs and devices. From first-boot to choosing the right technology, t"
+  },
+  {
+    "VideoId": "0ad631ca-8c3d-4c76-a01a-a561006613ba",
+    "DataApi": "/Entries(guid'0ad631ca-8c3d-4c76-a01a-a561006613ba')/",
+    "VideoPageLink": "/Series/Windows10AU-IT-Pro/Deploying-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f5b5/7a5d9275-918f-496b-9e41-448b8b45f5b5/DeployingWindows10_960.jpg",
+    "ShowName": "Windows 10 for IT Professionals",
+    "VideoLength": "01:01:09",
+    "VideoTitle": "Deploying Windows 10",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-02-09T00:26:45.6387924Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f5b5/7a5d9275-918f-496b-9e41-448b8b45f5b5/DeployingWindows10_mid.mp4",
+    "Description": "From the new Windows Store to improved built-in mobile device management protocols, Windows 10 brings with it some exciting new features, along with some useful upgrades to existing management technol"
+  },
+  {
+    "VideoId": "6b055e80-f4b8-4cd3-8d5f-a561006593a8",
+    "DataApi": "/Entries(guid'6b055e80-f4b8-4cd3-8d5f-a561006593a8')/",
+    "VideoPageLink": "/Series/Windows10AU-IT-Pro/Preparing-Your-Environment-for-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/47df/2002f8ed-d776-4214-866a-5bbbe7b147df/preparingYourEnvironment_960.jpg",
+    "ShowName": "Windows 10 for IT Professionals",
+    "VideoLength": "00:56:46",
+    "VideoTitle": "Preparing Your Environment for Windows 10",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-02-09T00:27:25.2950515Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/47df/2002f8ed-d776-4214-866a-5bbbe7b147df/preparingYourEnvironment_mid.mp4",
+    "Description": "While most businesses will be able to deploy Windows 10 easily, some may find that its new features could impact existing server, management and network infrastructure. So to make things simple, we're"
+  },
+  {
+    "VideoId": "8819e841-4ee7-4f0b-949b-a5610063f211",
+    "DataApi": "/Entries(guid'8819e841-4ee7-4f0b-949b-a5610063f211')/",
+    "VideoPageLink": "/Series/Windows10AU-IT-Pro/Win10overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/335a/7fca1080-2344-4580-811b-45f5ff46335a/Win10UpdateForEnterprise_960.jpg",
+    "ShowName": "Windows 10 for IT Professionals",
+    "VideoLength": "01:02:20",
+    "VideoTitle": "Overview of Windows 10 for the IT Professional",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-02-09T00:28:03.1563591Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/335a/7fca1080-2344-4580-811b-45f5ff46335a/Win10UpdateForEnterprise_mid.mp4",
+    "Description": "In this session we'll be priming you on everything our newest version has to offer. From booting-up to security, you'll uncover where your opportunities lie and what you can do to transform the way yo"
+  }
+]

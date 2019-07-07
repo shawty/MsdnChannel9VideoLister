@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "14f2dd51-1500-4206-9ec3-9dea00c2dd33",
+    "DataApi": "/Entries(guid'14f2dd51-1500-4206-9ec3-9dea00c2dd33')/",
+    "VideoPageLink": "/Shows/The+EndPoint/BizTalk-Services-SDK-Echo-Sample",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ed7/86b6d0f6-9501-4cf6-b615-3973fb193ed7/BizTalk-Services-SDK-Echo-Sample_960.jpg",
+    "ShowName": "The EndPoint",
+    "VideoLength": "00:08:10",
+    "VideoTitle": "BizTalk Services SDK Echo Sample",
+    "Author": "justinjsmith",
+    "UtcDateTimePublished": "2007-11-27T23:53:27Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ed7/86b6d0f6-9501-4cf6-b615-3973fb193ed7/BizTalk-Services-SDK-Echo-Sample_mid.mp4",
+    "Description": "This screencast walks through the Echo Sample in the BizTalk Services SDK (R9). In a nutshell, the Echo Sample highlights how BizTalk Services makes it easy to expose services that are behind a NAT or"
+  },
+  {
+    "VideoId": "8b1e8be2-45bc-4546-87ff-9dea00c2e72a",
+    "DataApi": "/Entries(guid'8b1e8be2-45bc-4546-87ff-9dea00c2e72a')/",
+    "VideoPageLink": "/Shows/The+EndPoint/Programming-JSON-with-WCF-in-NET-Framework-35",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/36ed/cc3076b1-d784-4406-b35d-5063642336ed/Programming-JSON-with-WCF-in-NET-Framework-35_960.jpg",
+    "ShowName": "The EndPoint",
+    "VideoLength": "00:20:05",
+    "VideoTitle": "Programming JSON with WCF in .NET Framework 3.5",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2007-08-21T00:28:20Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/36ed/cc3076b1-d784-4406-b35d-5063642336ed/Programming-JSON-with-WCF-in-NET-Framework-35_mid.mp4",
+    "Description": "Technical Evangelist Matt Winkler meets up with Eugene Osovetsky and Ghenadie Plingau, a PM and developer, from the WCF team to talk about returning JSON from a WCF service. JSON (JavaScript Object No"
+  },
+  {
+    "VideoId": "1ba9387d-25f4-42b9-939a-9dea00c2ea73",
+    "DataApi": "/Entries(guid'1ba9387d-25f4-42b9-939a-9dea00c2ea73')/",
+    "VideoPageLink": "/Shows/The+EndPoint/WF-and-WCF-integration-in-NET-35",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c297/af6f173b-74ff-48e1-a214-6bf30e33c297/WF-and-WCF-integration-in-NET-35_960.jpg",
+    "ShowName": "The EndPoint",
+    "VideoLength": "00:39:04",
+    "VideoTitle": "WF and WCF integration in .NET 3.5",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2007-08-20T23:40:17Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c297/af6f173b-74ff-48e1-a214-6bf30e33c297/WF-and-WCF-integration-in-NET-35_mid.mp4",
+    "Description": "The technical evangelist for Windows Workflow Foundation, Matt Winkler, took some time to interview the team that worked to create the Workflow Services functionality inside of .NET 3.5.  Workflow Ser"
+  },
+  {
+    "VideoId": "da2e1f33-7205-4640-819b-9dea00c2df4b",
+    "DataApi": "/Entries(guid'da2e1f33-7205-4640-819b-9dea00c2df4b')/",
+    "VideoPageLink": "/Shows/The+EndPoint/A-lap-around-Picture-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f39/f8d570e1-8478-4ae7-ae84-83d551bc9f39/A-lap-around-Picture-Services_960.jpg",
+    "ShowName": "The EndPoint",
+    "VideoLength": "00:20:35",
+    "VideoTitle": "A lap around Picture Services",
+    "Author": "justinjsmith",
+    "UtcDateTimePublished": "2007-08-17T05:19:08Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f39/f8d570e1-8478-4ae7-ae84-83d551bc9f39/A-lap-around-Picture-Services_mid.mp4",
+    "Description": "Picture Services is a code sample that highlights the REST and syndication capabilities of WCF in the .NET Framework 3.5. In a nutshell, the projects in this code sample show how to syndicate pictures"
+  },
+  {
+    "VideoId": "ceefd4e3-08d9-4687-bd46-9dea00c2e1b0",
+    "DataApi": "/Entries(guid'ceefd4e3-08d9-4687-bd46-9dea00c2e1b0')/",
+    "VideoPageLink": "/Shows/The+EndPoint/WCF-101-Demo-a-la-Notepad",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ef1c62bc-a2ad-48e2-b79a-9dea00c2e4f7",
+    "DataApi": "/Entries(guid'ef1c62bc-a2ad-48e2-b79a-9dea00c2e4f7')/",
+    "VideoPageLink": "/Shows/The+EndPoint/Service-Oriented-Thinking",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

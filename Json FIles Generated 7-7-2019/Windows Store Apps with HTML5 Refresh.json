@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "14f98345-633e-4437-ae4f-a2340159ae8f",
+    "DataApi": "/Entries(guid'14f98345-633e-4437-ae4f-a2340159ae8f')/",
+    "VideoPageLink": "/Series/html5refresh/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2a9d/2b23e8ab-fe0b-4a54-b834-561196d02a9d/HTML5RefreshM02_960.jpg",
+    "ShowName": "Windows Store Apps with HTML5 Refresh",
+    "VideoLength": "00:56:56",
+    "VideoTitle": "Windows Store Apps with HTML5 Refresh: (02) Storage, Networking, and Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T16:59:16.0737711Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2a9d/2b23e8ab-fe0b-4a54-b834-561196d02a9d/HTML5RefreshM02_mid.mp4",
+    "Description": "This module describes and includes demos for new file management features, the new HTTP client API and other updates for networking, as well as security updates. [02:11] - Files[13:05] - Networking[37"
+  },
+  {
+    "VideoId": "7d546798-bacd-4e9e-b33b-a234015a4731",
+    "DataApi": "/Entries(guid'7d546798-bacd-4e9e-b33b-a234015a4731')/",
+    "VideoPageLink": "/Series/html5refresh/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fd16/bc203ae2-ced7-4dd0-a481-9b89821efd16/HTML5RefreshM03_960.jpg",
+    "ShowName": "Windows Store Apps with HTML5 Refresh",
+    "VideoLength": "00:54:07",
+    "VideoTitle": "Windows Store Apps with HTML5 Refresh: (03) UX/UI",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T16:59:26.660922Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fd16/bc203ae2-ced7-4dd0-a481-9b89821efd16/HTML5RefreshM03_mid.mp4",
+    "Description": "This module describes and includes demos for the new UX/UI features including new windowing modes, tile updates, search updates, share updates, charms work on every screen, integration with people and"
+  },
+  {
+    "VideoId": "a936f991-724d-4c6d-af5b-a234015b02c2",
+    "DataApi": "/Entries(guid'a936f991-724d-4c6d-af5b-a234015b02c2')/",
+    "VideoPageLink": "/Series/html5refresh/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d9cf/9cdbd871-29ef-4051-b327-a6e2dcdfd9cf/HTML5RefreshM05_960.jpg",
+    "ShowName": "Windows Store Apps with HTML5 Refresh",
+    "VideoLength": "00:44:39",
+    "VideoTitle": "Windows Store Apps with HTML5 Refresh: (05) Packaging and Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:02:06.1338573Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d9cf/9cdbd871-29ef-4051-b327-a6e2dcdfd9cf/HTML5RefreshM05_mid.mp4",
+    "Description": "This module describes new features for resource packaging and bundling as well as Store improvements. [01:37] - App Packaging[18:41] - Store ImprovementsFull course outline: Mod 01: ControlsMod 02: St"
+  },
+  {
+    "VideoId": "1ec19559-ef58-4be5-b9fe-a234015a7969",
+    "DataApi": "/Entries(guid'1ec19559-ef58-4be5-b9fe-a234015a7969')/",
+    "VideoPageLink": "/Series/html5refresh/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b73e/9f93ac4e-6a12-4f75-b6fc-8dcae14cb73e/HTML5RefreshM04_960.jpg",
+    "ShowName": "Windows Store Apps with HTML5 Refresh",
+    "VideoLength": "00:37:00",
+    "VideoTitle": "Windows Store Apps with HTML5 Refresh: (04) Multimedia and Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:02:20.9073498Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b73e/9f93ac4e-6a12-4f75-b6fc-8dcae14cb73e/HTML5RefreshM04_mid.mp4",
+    "Description": "This module describes and includes demos for video updates, playback updates, play to updates, Human Interface Device (HID) support, and Point of Service (POS) device support. [01:02] - Multimedia[29:"
+  },
+  {
+    "VideoId": "645d44d7-76b7-467d-897b-a234015b4e0a",
+    "DataApi": "/Entries(guid'645d44d7-76b7-467d-897b-a234015b4e0a')/",
+    "VideoPageLink": "/Series/html5refresh/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f519/42399d1d-d15c-4c3f-89ac-b535dcdff519/HTML5RefreshM06_960.jpg",
+    "ShowName": "Windows Store Apps with HTML5 Refresh",
+    "VideoLength": "01:04:03",
+    "VideoTitle": "Windows Store Apps with HTML5 Refresh: (06) Tools and Asynchronous Programming",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:03:28.3089897Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f519/42399d1d-d15c-4c3f-89ac-b535dcdff519/HTML5RefreshM06_mid.mp4",
+    "Description": "The module includes general feature updates as well as updates for diagnostics, the JavaScript editor, HTML design tools, web essentials, WACK 3.0, and the WinJS Scheduler. [02:57] - General Updates[2"
+  }
+]

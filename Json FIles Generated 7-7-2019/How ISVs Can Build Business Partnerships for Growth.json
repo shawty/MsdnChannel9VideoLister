@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c580909d-238d-42cc-ad84-a2fa00d88c5c",
+    "DataApi": "/Entries(guid'c580909d-238d-42cc-ad84-a2fa00d88c5c')/",
+    "VideoPageLink": "/Blogs/How-ISVs-can-Build-Business-Partnerships-for-Growth/Session-2-Building-a-partnership-plan",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0da4/c53f5b96-f287-4bd3-9b12-de1e8be50da4/BuildingAPartnershipPlan_960.jpg",
+    "ShowName": "How ISVs Can Build Business Partnerships for Growth",
+    "VideoLength": "00:18:06",
+    "VideoTitle": "Session 2: Building a partnership plan",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-04-01T19:35:42.863918Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0da4/c53f5b96-f287-4bd3-9b12-de1e8be50da4/BuildingAPartnershipPlan_mid.mp4",
+    "Description": "To build any business partnership, you need to do your homework! Building a partnership has many rewards, but the process does take a clear strategy and dedicated effort. Join Diana Kreklow and Gail M"
+  },
+  {
+    "VideoId": "2ff0253b-0c35-467e-b546-a2fa00d97c34",
+    "DataApi": "/Entries(guid'2ff0253b-0c35-467e-b546-a2fa00d97c34')/",
+    "VideoPageLink": "/Blogs/How-ISVs-can-Build-Business-Partnerships-for-Growth/Session-3-Building-a-partner-channel",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8167/3b8055fa-e1fc-4052-86e2-9201eb908167/BuildingaPartnerChannel_960.jpg",
+    "ShowName": "How ISVs Can Build Business Partnerships for Growth",
+    "VideoLength": "00:18:00",
+    "VideoTitle": "Session 3: Building a partner channel",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-04-01T19:34:29.5149971Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8167/3b8055fa-e1fc-4052-86e2-9201eb908167/BuildingaPartnerChannel_mid.mp4",
+    "Description": "Many independent software vendors (ISVs) are interested in recruiting partners to sell or integrate their products. Some develop outstandingly successful partnerships; some founder on miscommunication"
+  },
+  {
+    "VideoId": "d33ce26a-50d5-40c3-bc72-a2fa00ea8294",
+    "DataApi": "/Entries(guid'd33ce26a-50d5-40c3-bc72-a2fa00ea8294')/",
+    "VideoPageLink": "/Blogs/How-ISVs-can-Build-Business-Partnerships-for-Growth/Session-4-Revenue-recognition-and-channel-implications",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ec53/30d38234-d427-4fcd-9101-e9d790e8ec53/RevenueRecognitionandChannelImplications_960.jpg",
+    "ShowName": "How ISVs Can Build Business Partnerships for Growth",
+    "VideoLength": "00:14:42",
+    "VideoTitle": "Session 4: Revenue recognition and channel implications",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-04-01T19:34:18.9417245Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ec53/30d38234-d427-4fcd-9101-e9d790e8ec53/RevenueRecognitionandChannelImplications_mid.mp4",
+    "Description": "Too often, independent software vendors (ISVs) that want to build successful channel partnerships overlook a key element: how to recognize influenced revenue and compensate channel partners accordingl"
+  },
+  {
+    "VideoId": "04fa6671-60fb-40f2-bdbd-a2fa00eb0ffb",
+    "DataApi": "/Entries(guid'04fa6671-60fb-40f2-bdbd-a2fa00eb0ffb')/",
+    "VideoPageLink": "/Blogs/How-ISVs-can-Build-Business-Partnerships-for-Growth/Session-5-Operationalizing-a-partner-channel",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d0af/7780ad0f-5cd5-442c-90fd-ecb7ad57d0af/OperationalizingAPartnerChannel_960.jpg",
+    "ShowName": "How ISVs Can Build Business Partnerships for Growth",
+    "VideoLength": "00:13:42",
+    "VideoTitle": "Session 5: Operationalizing a partner channel",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-04-01T19:33:41.0444568Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d0af/7780ad0f-5cd5-442c-90fd-ecb7ad57d0af/OperationalizingAPartnerChannel_mid.mp4",
+    "Description": "Many independent software vendors (ISVs) aim to recruit partners to sell or integrate their products. All too often, these channel partnerships suffer needlessly from a lack of long-term strategic pla"
+  }
+]

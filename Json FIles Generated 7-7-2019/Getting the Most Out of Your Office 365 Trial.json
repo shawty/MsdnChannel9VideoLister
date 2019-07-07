@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "9ac2ee84-1a9e-4f08-bdc3-a395015c3ad4",
+    "DataApi": "/Entries(guid'9ac2ee84-1a9e-4f08-bdc3-a395015c3ad4')/",
+    "VideoPageLink": "/Series/Getting-the-Most-Out-of-Your-Office-365-Trial/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8b68/f336cb86-18bd-44d6-a78d-d4bca4208b68/GettingtheMostOutOfYourO365TrialM02_960.jpg",
+    "ShowName": "Getting the Most Out of Your Office 365 Trial",
+    "VideoLength": "00:48:45",
+    "VideoTitle": "Getting the Most Out of Your Office 365 Trial: (02) Get Started with Office 365 Trial",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T02:57:22.1947333Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8b68/f336cb86-18bd-44d6-a78d-d4bca4208b68/GettingtheMostOutOfYourO365TrialM02_mid.mp4",
+    "Description": "Sign up for Office 365, set up your initial domain, add users to the trial, and try the new Outlook Web Access. [01:12] - Sign up for trial[20:00] - Set up your initial domain[31:44] - Add users and a"
+  },
+  {
+    "VideoId": "95a1fd36-6e09-49b2-8130-a395015c7725",
+    "DataApi": "/Entries(guid'95a1fd36-6e09-49b2-8130-a395015c7725')/",
+    "VideoPageLink": "/Series/Getting-the-Most-Out-of-Your-Office-365-Trial/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/05cb/686439b3-666a-4310-a130-8eef20ed05cb/GettingtheMostOutOfYourO365TrialM03_960.jpg",
+    "ShowName": "Getting the Most Out of Your Office 365 Trial",
+    "VideoLength": "00:52:28",
+    "VideoTitle": "Getting the Most Out of Your Office 365 Trial: (03) Try Office 365 Services and Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T02:57:37.0254736Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/05cb/686439b3-666a-4310-a130-8eef20ed05cb/GettingtheMostOutOfYourO365TrialM03_mid.mp4",
+    "Description": "Try a SharePoint collaboration site, build SharePoint site collections and groups, and set up devices for Lync Online. Test Office 365, assign licenses, install Office 365 ProPlus, and complete your d"
+  },
+  {
+    "VideoId": "26c47dfc-1e5b-4c6f-8c93-a395015cb988",
+    "DataApi": "/Entries(guid'26c47dfc-1e5b-4c6f-8c93-a395015cb988')/",
+    "VideoPageLink": "/Series/Getting-the-Most-Out-of-Your-Office-365-Trial/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d64b/29e42b5b-396f-44ab-9205-f4935289d64b/GettingtheMostOutOfYourO365TrialM04_960.jpg",
+    "ShowName": "Getting the Most Out of Your Office 365 Trial",
+    "VideoLength": "00:49:05",
+    "VideoTitle": "Getting the Most Out of Your Office 365 Trial: (04) Configure Optional Settings, Plus Next Steps and Additional Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T02:57:52.7823872Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d64b/29e42b5b-396f-44ab-9205-f4935289d64b/GettingtheMostOutOfYourO365TrialM04_mid.mp4",
+    "Description": "Deliver a Federated Identity Management experience, and unify the experience across Exchange Server and Exchange Online. Safeguard your email with Exchange Online Protection, customize SharePoint Onli"
+  }
+]

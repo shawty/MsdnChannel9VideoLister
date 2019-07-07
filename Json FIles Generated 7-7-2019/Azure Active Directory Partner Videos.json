@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "02aeb869-d8d7-4ad2-83b1-a49d0030ff42",
+    "DataApi": "/Entries(guid'02aeb869-d8d7-4ad2-83b1-a49d0030ff42')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Partner-Videos/Workday-integration-with-Azure-Active-Directory",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/7bbd2287-1002-4a82-a98c-de15b246b4c7.jpg",
+    "ShowName": "Azure Active Directory Partner Videos",
+    "VideoLength": "00:02:19",
+    "VideoTitle": "Workday integration with Azure Active Directory",
+    "Author": "Nasos Kladakis",
+    "UtcDateTimePublished": "2015-05-19T04:03:26.785816Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1b0f/d9f80b38-6201-4b9b-9538-8dd57adc1b0f/workdayintegration_mid.mp4",
+    "Description": "Organizations can use Azure Active Directory to enable single-sign on to Workday for their users but also for importing employee records as user accounts from Workday to Azure Active Directory. "
+  },
+  {
+    "VideoId": "efef674c-34a6-4267-9741-a4a5016d751b",
+    "DataApi": "/Entries(guid'efef674c-34a6-4267-9741-a4a5016d751b')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Partner-Videos/Concur-and-Azure-Active-Directory",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fe54/e2bac07c-de05-4776-9de3-a4a853cafe54/ConcurAAD_960.jpg",
+    "ShowName": "Azure Active Directory Partner Videos",
+    "VideoLength": "00:02:28",
+    "VideoTitle": "Concur and Azure Active Directory ",
+    "Author": "Nasos Kladakis",
+    "UtcDateTimePublished": "2015-05-27T22:19:23.7034769Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fe54/e2bac07c-de05-4776-9de3-a4a853cafe54/ConcurAAD_mid.mp4",
+    "Description": "Concur is all about integrating travel and expense reporting with the least possible friction. Concur applications are cloud-based so integrating with Azure Active Directory for secure single sign-on "
+  },
+  {
+    "VideoId": "d0df9c82-a0cc-47a0-bd1c-a4a50173f73d",
+    "DataApi": "/Entries(guid'd0df9c82-a0cc-47a0-bd1c-a4a50173f73d')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Partner-Videos/Box-and-Azure-Active-Directory",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/f447b8a4-5055-4e8e-802d-ae40c50a93ad.jpg",
+    "ShowName": "Azure Active Directory Partner Videos",
+    "VideoLength": "00:02:15",
+    "VideoTitle": "Box and Azure Active Directory",
+    "Author": "Nasos Kladakis",
+    "UtcDateTimePublished": "2015-05-27T22:58:51.6295855Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a7b/4b1f5306-4f86-4a17-842e-16a135d96a7b/BoxAAD_mid.mp4",
+    "Description": "Box integrates with Azure Active Directory to meet the needs of both Enterprise IT departments and end-users for identity and access management and transform the way that people work.   "
+  },
+  {
+    "VideoId": "31662665-e96c-4f73-aa00-a5a0001bb633",
+    "DataApi": "/Entries(guid'31662665-e96c-4f73-aa00-a5a0001bb633')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Partner-Videos/NetSuite-and-Azure-Active-Directory",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9122/18c86502-8131-4d15-beef-7400e5cc9122/NetsuiteAAD_960.jpg",
+    "ShowName": "Azure Active Directory Partner Videos",
+    "VideoLength": "00:02:17",
+    "VideoTitle": "NetSuite and Azure Active Directory",
+    "Author": "Nasos Kladakis",
+    "UtcDateTimePublished": "2016-02-02T01:58:32.1851088Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9122/18c86502-8131-4d15-beef-7400e5cc9122/NetsuiteAAD_mid.mp4",
+    "Description": "NetSuite is integrated with Azure Active Directory to provide single sign-on and provisioning to organizations using their applications. "
+  },
+  {
+    "VideoId": "ffe4bd9b-7385-47f3-b203-a5d0012fcc63",
+    "DataApi": "/Entries(guid'ffe4bd9b-7385-47f3-b203-a5d0012fcc63')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Partner-Videos/Facebook-at-Work-and-Azure-Active-Directory",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/86eb/74f5b427-f0d2-4755-a785-1431af0286eb/FBatworkAzureAD_960.jpg",
+    "ShowName": "Azure Active Directory Partner Videos",
+    "VideoLength": "00:02:30",
+    "VideoTitle": "Facebook at Work and Azure Active Directory",
+    "Author": "Nasos Kladakis",
+    "UtcDateTimePublished": "2016-04-05T20:38:14.7181282Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/86eb/74f5b427-f0d2-4755-a785-1431af0286eb/FBatworkAzureAD_mid.mp4",
+    "Description": "Facebook at Work is integrated with Azure Active Directory to provide single sign-on and provisioning to organizations using this application. Azure Active Directory provides single sign-on to thousan"
+  },
+  {
+    "VideoId": "2ae5c32b-7731-4716-8532-a66f0013173c",
+    "DataApi": "/Entries(guid'2ae5c32b-7731-4716-8532-a66f0013173c')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Partner-Videos/Blackboard-and-Azure-Active-Directory",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/80ca/6a63aee7-bd98-4c49-91f2-6aeef0fd80ca/BlackboardAzureAD_960.jpg",
+    "ShowName": "Azure Active Directory Partner Videos",
+    "VideoLength": "00:02:16",
+    "VideoTitle": "Blackboard and Azure Active Directory",
+    "Author": "Nasos Kladakis",
+    "UtcDateTimePublished": "2016-08-27T01:34:29.696438Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/80ca/6a63aee7-bd98-4c49-91f2-6aeef0fd80ca/BlackboardAzureAD_mid.mp4",
+    "Description": "Blackboard is integrated with Azure Active Directory to provide secure single sign-on to organizations using this application. Azure Active Directory provides single sign-on to thousands of cloud (Saa"
+  }
+]

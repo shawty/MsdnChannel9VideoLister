@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "23b1444a-de48-4c39-8cab-a3a2015939dd",
+    "DataApi": "/Entries(guid'23b1444a-de48-4c39-8cab-a3a2015939dd')/",
+    "VideoPageLink": "/Series/Big-Data-and-Business-Analytics-Immersion-v3-1/02a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ba1/1e343c50-cbf6-48f2-9cb9-891922701ba1/BigDataBusinessAnalyticsImmersion31Mod02a_960.jpg",
+    "ShowName": "Big Data and Business Analytics Immersion v3.1",
+    "VideoLength": "00:33:07",
+    "VideoTitle": "Big Data and Business Analytics Immersion v3.1: (02a) Big Data with HDInsight: Provisioning Big Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:07:15.8516331Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ba1/1e343c50-cbf6-48f2-9cb9-891922701ba1/BigDataBusinessAnalyticsImmersion31Mod02a_mid.mp4",
+    "Description": "Establish an infrastructure to keep up with the growing volume of data, and translate this data into a usable format. [05:15] - Set up and load data into Azure Storage[15:31] - Set up a HDInsight clus"
+  },
+  {
+    "VideoId": "d240a718-e44a-41ee-8b07-a3a201597423",
+    "DataApi": "/Entries(guid'd240a718-e44a-41ee-8b07-a3a201597423')/",
+    "VideoPageLink": "/Series/Big-Data-and-Business-Analytics-Immersion-v3-1/02b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e351/1045dca2-a24a-48ec-b22a-30292990e351/BigDataBusinessAnalyticsImmersion31Mod2b_960.jpg",
+    "ShowName": "Big Data and Business Analytics Immersion v3.1",
+    "VideoLength": "00:34:16",
+    "VideoTitle": "Big Data and Business Analytics Immersion v3.1: (02b) Big Data with HDInsight: Interrogating Big Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:07:35.8561465Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e351/1045dca2-a24a-48ec-b22a-30292990e351/BigDataBusinessAnalyticsImmersion31Mod2b_mid.mp4",
+    "Description": "Hear about harvesting data from multiple sources, regardless of type and structure. [05:25] - Import HDInsight Data Feed into Office[22:28] - Load Hive Tables Into SQL ServerFull course outline: Mod 0"
+  },
+  {
+    "VideoId": "809c0d43-8d2c-49d1-afb0-a3a20159d829",
+    "DataApi": "/Entries(guid'809c0d43-8d2c-49d1-afb0-a3a20159d829')/",
+    "VideoPageLink": "/Series/Big-Data-and-Business-Analytics-Immersion-v3-1/04a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/08b7/050e6467-5074-4a84-bf85-82d876ac08b7/BigDataBusinessAnalyticsImmersion31Mod04a_960.jpg",
+    "ShowName": "Big Data and Business Analytics Immersion v3.1",
+    "VideoLength": "00:37:43",
+    "VideoTitle": "Big Data and Business Analytics Immersion v3.1: (04a) Departmental BI: Modeling data from any source",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:08:20.7912579Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/08b7/050e6467-5074-4a84-bf85-82d876ac08b7/BigDataBusinessAnalyticsImmersion31Mod04a_mid.mp4",
+    "Description": "Increase the discoverability and accessibility of data sources across platforms familiar to data analysts. [05:41] - Import Structured information into Power Pivot[14:27] - Import Unstructured data in"
+  },
+  {
+    "VideoId": "b4f499fc-ee5f-42b8-9d2f-a3a2015a291b",
+    "DataApi": "/Entries(guid'b4f499fc-ee5f-42b8-9d2f-a3a2015a291b')/",
+    "VideoPageLink": "/Series/Big-Data-and-Business-Analytics-Immersion-v3-1/04b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ac1/83b829e6-b311-4967-8288-ff77144b8ac1/BigDataBusinessAnalyticsImmersion31Mod04b_960.jpg",
+    "ShowName": "Big Data and Business Analytics Immersion v3.1",
+    "VideoLength": "00:43:02",
+    "VideoTitle": "Big Data and Business Analytics Immersion v3.1: (04b) Departmental BI: Create Insight",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:08:41.4473967Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ac1/83b829e6-b311-4967-8288-ff77144b8ac1/BigDataBusinessAnalyticsImmersion31Mod04b_mid.mp4",
+    "Description": "Generate interactive dashboards and maps depicting data points. Learn about simple Natural Language Querying and forecasting. [05:27] - Power View with Time data[15:01] - Power View with Time data[25:"
+  },
+  {
+    "VideoId": "b83171d9-6553-435b-b644-a3a2015a6d64",
+    "DataApi": "/Entries(guid'b83171d9-6553-435b-b644-a3a2015a6d64')/",
+    "VideoPageLink": "/Series/Big-Data-and-Business-Analytics-Immersion-v3-1/05a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e5e9/d4555284-5389-4816-af45-6a97e903e5e9/BigDataBusinessAnalyticsImmersion31Mod05a_960.jpg",
+    "ShowName": "Big Data and Business Analytics Immersion v3.1",
+    "VideoLength": "00:38:49",
+    "VideoTitle": "Big Data and Business Analytics Immersion v3.1: (05a) Corporate BI: Publishing and Sharing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:08:59.1991532Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e5e9/d4555284-5389-4816-af45-6a97e903e5e9/BigDataBusinessAnalyticsImmersion31Mod05a_mid.mp4",
+    "Description": "Undertake personal BI to create corporate data models, without the need to involve IT. [04:34] - Creating BI Content[20:53] - Publish Workbook to Share POInt[28:50] - Load Tabular Power Pivot Models i"
+  },
+  {
+    "VideoId": "cec3734b-5d20-40b1-a869-a3a2015aaf3c",
+    "DataApi": "/Entries(guid'cec3734b-5d20-40b1-a869-a3a2015aaf3c')/",
+    "VideoPageLink": "/Series/Big-Data-and-Business-Analytics-Immersion-v3-1/05b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dc65/b7fd74f8-593c-4c39-97d2-00518e3fdc65/BigDataBusinessAnalyticsImmersion31Mod05b_960.jpg",
+    "ShowName": "Big Data and Business Analytics Immersion v3.1",
+    "VideoLength": "00:32:01",
+    "VideoTitle": "Big Data and Business Analytics Immersion v3.1: (05b) Corporate BI: Empower Users",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:09:18.2577722Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dc65/b7fd74f8-593c-4c39-97d2-00518e3fdc65/BigDataBusinessAnalyticsImmersion31Mod05b_mid.mp4",
+    "Description": "Create a KPI dashboard inside SharePoint, and learn about presentation-ready reporting. [04:48] - Build Power View report in SharePoint[17:41] - Publishing Power View Report into PowerPoint from Galle"
+  }
+]

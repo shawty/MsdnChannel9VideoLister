@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "232d0bd2-1475-46f0-bbcd-a461012ea11f",
+    "DataApi": "/Entries(guid'232d0bd2-1475-46f0-bbcd-a461012ea11f')/",
+    "VideoPageLink": "/Series/Troubleshooting-with-Office-365-Admin-Center-Diagnostics/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1dc4/5a0f199a-1ba7-4b19-b731-9cbe8f1c1dc4/768TroubleshootO365AdminDiagM01_960.jpg",
+    "ShowName": "Troubleshooting with Office 365 Admin Center Diagnostics",
+    "VideoLength": "00:35:37",
+    "VideoTitle": "Troubleshooting with Office 365 Admin Center Diagnostics: (01) Troubleshooting with Office 365 Admin Center Diagnosticsâ€‹",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-20T21:36:39.5832333Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1dc4/5a0f199a-1ba7-4b19-b731-9cbe8f1c1dc4/768TroubleshootO365AdminDiagM01_mid.mp4",
+    "Description": "Examine the diagnostic tools available in the Office 365 Admin Center, explore health, readiness, and connectivity checks, and get a look at the Directory Synchronization Troubleshooter tool. [01:40] "
+  }
+]

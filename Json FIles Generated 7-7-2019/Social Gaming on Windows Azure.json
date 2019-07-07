@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "f948526a-e253-4015-a240-9f2600fd3e2a",
+    "DataApi": "/Entries(guid'f948526a-e253-4015-a240-9f2600fd3e2a')/",
+    "VideoPageLink": "/Series/Social-Gaming-on-Windows-Azure/Tankster-a-Social-Game-Built-for-Windows-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e2a/f948526a-e253-4015-a240-9f2600fd3e2a/IntroducingTankster_512_ch9.jpg",
+    "ShowName": "Social Gaming on Windows Azure",
+    "VideoLength": "00:05:27",
+    "VideoTitle": "Tankster, a Social Game Built for Windows Azure",
+    "Author": "Wade Wegner",
+    "UtcDateTimePublished": "2011-07-20T18:32:45Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e2a/f948526a-e253-4015-a240-9f2600fd3e2a/IntroducingTankster_low_ch9.mp4",
+    "Description": " Tankster is social game built using the Windows Azure Toolkit for Social Games.  Tankster uses HTML5 and comes complete with reusable server side code and documentation. It also supports a variety of"
+  }
+]

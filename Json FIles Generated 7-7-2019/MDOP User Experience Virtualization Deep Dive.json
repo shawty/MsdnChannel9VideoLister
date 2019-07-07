@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "87e5a747-d8c6-4dce-94cc-a364015f474b",
+    "DataApi": "/Entries(guid'87e5a747-d8c6-4dce-94cc-a364015f474b')/",
+    "VideoPageLink": "/Series/MDOP-User-Experience-Virtualization-Deep-Dive/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2735/3a3b5e7c-6d14-4eb7-9887-d638fcbe2735/MDOPUEVM02_960.jpg",
+    "ShowName": "MDOP User Experience Virtualization Deep Dive",
+    "VideoLength": "00:28:52",
+    "VideoTitle": "MDOP User Experience Virtualization Deep Dive: (02) Planning for UE-V",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:17:53.2869149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2735/3a3b5e7c-6d14-4eb7-9887-d638fcbe2735/MDOPUEVM02_mid.mp4",
+    "Description": "Learn more about geographical planning, securing a setting storage share, and the agent-supported matrix. [01:04] - Planning, What's important?[11:50] - Which Sync Methond and Profile[17:31] - Demo- S"
+  },
+  {
+    "VideoId": "ff743481-ad4e-4c0f-a953-a364015f9174",
+    "DataApi": "/Entries(guid'ff743481-ad4e-4c0f-a953-a364015f9174')/",
+    "VideoPageLink": "/Series/MDOP-User-Experience-Virtualization-Deep-Dive/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8af8/2e9aeab4-16df-4917-acb0-4858b7948af8/MDOPUEVM03_960.jpg",
+    "ShowName": "MDOP User Experience Virtualization Deep Dive",
+    "VideoLength": "00:28:21",
+    "VideoTitle": "MDOP User Experience Virtualization Deep Dive: (03) Managing OS & App Settings",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:18:05.5782376Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8af8/2e9aeab4-16df-4917-acb0-4858b7948af8/MDOPUEVM03_mid.mp4",
+    "Description": "Find out about UE-V controlled apps, default templates and custom templates, as well as in-box templates. [00:53] - UE-V Controlled Apps[03:05] - Classic Templates[14:34] - Demo- Generating UE-V Custo"
+  },
+  {
+    "VideoId": "b47338ab-7e02-4942-8bb3-a364015fd37f",
+    "DataApi": "/Entries(guid'b47338ab-7e02-4942-8bb3-a364015fd37f')/",
+    "VideoPageLink": "/Series/MDOP-User-Experience-Virtualization-Deep-Dive/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/728d/3c8ff1a6-c852-42ad-939b-6d23ca22728d/MDOPUEVM04_960.jpg",
+    "ShowName": "MDOP User Experience Virtualization Deep Dive",
+    "VideoLength": "00:35:45",
+    "VideoTitle": "MDOP User Experience Virtualization Deep Dive: (04) LifeCycle Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:18:16.6928703Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/728d/3c8ff1a6-c852-42ad-939b-6d23ca22728d/MDOPUEVM04_mid.mp4",
+    "Description": "In this module, we describe managing standalone and managing via Group Policy. We demo ADMX templates and managing via Config Manager. We also cover PowerShell and WMI cmdlets. [01:04] - Managing Stan"
+  }
+]

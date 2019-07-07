@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "3285349b-d4c1-4403-9b2c-a25400262192",
+    "DataApi": "/Entries(guid'3285349b-d4c1-4403-9b2c-a25400262192')/",
+    "VideoPageLink": "/Series/Core-Solutions-Exchange-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/587f/607ee265-a999-4e3c-bdf4-97e56b97587f/CoreSolutionsExchange2013M02_960.jpg",
+    "ShowName": "Core Solutions of Exchange Server 2013",
+    "VideoLength": "00:59:44",
+    "VideoTitle": "Core Solutions of Exchange Server 2013: (02) Configuring Mailbox Servers and Recipients",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-11T15:32:39.1242851Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/587f/607ee265-a999-4e3c-bdf4-97e56b97587f/CoreSolutionsExchange2013M02_mid.mp4",
+    "Description": "In this module, you'll learn about planning and configuring the mailbox server, managing recipients, address lists, and more. [01:27] - Overview of Managing the Mailbox Server [20:41] - Planning for S"
+  },
+  {
+    "VideoId": "460fe9d5-e224-473f-bb25-a2540026678b",
+    "DataApi": "/Entries(guid'460fe9d5-e224-473f-bb25-a2540026678b')/",
+    "VideoPageLink": "/Series/Core-Solutions-Exchange-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf4b/a13cdc4b-8300-4e4b-86da-a115b963bf4b/CoreSolutionsExchange2013M03_960.jpg",
+    "ShowName": "Core Solutions of Exchange Server 2013",
+    "VideoLength": "00:58:48",
+    "VideoTitle": "Core Solutions of Exchange Server 2013: (03) Deploying and Managing Client Access Servers and Clients",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-11T15:32:59.9852964Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf4b/a13cdc4b-8300-4e4b-86da-a115b963bf4b/CoreSolutionsExchange2013M03_mid.mp4",
+    "Description": "This module shows you how to create and configure mailbox storage, add recipients and address lists, and create policies. [01:39] - Overview of the Client Access Server [05:27] - Configuring the Clien"
+  },
+  {
+    "VideoId": "8c9a8c5d-f986-40bf-88f8-a2540026aaf1",
+    "DataApi": "/Entries(guid'8c9a8c5d-f986-40bf-88f8-a2540026aaf1')/",
+    "VideoPageLink": "/Series/Core-Solutions-Exchange-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aef6/a3ef2866-dcb1-4092-ba2b-4788bf8caef6/CoreSolutionsExchange2013M04_960.jpg",
+    "ShowName": "Core Solutions of Exchange Server 2013",
+    "VideoLength": "00:44:58",
+    "VideoTitle": "Core Solutions of Exchange Server 2013: (04) Configuring the Message Transport",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-11T15:33:11.3895088Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aef6/a3ef2866-dcb1-4092-ba2b-4788bf8caef6/CoreSolutionsExchange2013M04_mid.mp4",
+    "Description": "In this module you'll find out how to configure send/receive connectors and learn about transport rules and data loss prevention. [01:20] - Overview of the Message Transport [08:44] - Configuring the "
+  },
+  {
+    "VideoId": "10abecfe-04f8-4105-b190-a2540027015e",
+    "DataApi": "/Entries(guid'10abecfe-04f8-4105-b190-a2540027015e')/",
+    "VideoPageLink": "/Series/Core-Solutions-Exchange-2013/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/623d/f4c8d2fd-9892-4d0f-81e5-28b38612623d/CoreSolutionsExchange2013M05_960.jpg",
+    "ShowName": "Core Solutions of Exchange Server 2013",
+    "VideoLength": "00:47:03",
+    "VideoTitle": "Core Solutions of Exchange Server 2013: (05) Implementing High Availability and Disaster Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-11T15:33:28.259061Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/623d/f4c8d2fd-9892-4d0f-81e5-28b38612623d/CoreSolutionsExchange2013M05_mid.mp4",
+    "Description": "In this module you'll learn how to configure database availability groups and find out about load balancing and recovery options. [01:30] - Overview of High Availability [03:08] - Configuring Highly A"
+  },
+  {
+    "VideoId": "078d00ae-6016-4948-a0af-a25400274e3f",
+    "DataApi": "/Entries(guid'078d00ae-6016-4948-a0af-a25400274e3f')/",
+    "VideoPageLink": "/Series/Core-Solutions-Exchange-2013/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e377/271d55b3-83e4-4eca-b4d2-4db9a6c9e377/CoreSolutionsExchange2013M06_960.jpg",
+    "ShowName": "Core Solutions of Exchange Server 2013",
+    "VideoLength": "00:25:26",
+    "VideoTitle": "Core Solutions of Exchange Server 2013: (06) Configuring Administrative Security and Auditing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-11T15:33:42.2828401Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e377/271d55b3-83e4-4eca-b4d2-4db9a6c9e377/CoreSolutionsExchange2013M06_mid.mp4",
+    "Description": "This module describes assigning security using groups, role-based access control, and viewing audit reports. [01:52] - Overview of Administrative Security [04:45] - Examining Built-In Role Groups [11:"
+  },
+  {
+    "VideoId": "3875bff2-327e-4559-aa72-a25400279725",
+    "DataApi": "/Entries(guid'3875bff2-327e-4559-aa72-a25400279725')/",
+    "VideoPageLink": "/Series/Core-Solutions-Exchange-2013/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ce8/6fa7e5ce-d0ba-4fc6-a319-131ce1a75ce8/CoreSolutionsExchange2013M07_960.jpg",
+    "ShowName": "Core Solutions of Exchange Server 2013",
+    "VideoLength": "00:49:43",
+    "VideoTitle": "Core Solutions of Exchange Server 2013: (07) Migrating to Microsoft Exchange Server 2013",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-11T15:34:00.2918787Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ce8/6fa7e5ce-d0ba-4fc6-a319-131ce1a75ce8/CoreSolutionsExchange2013M07_mid.mp4",
+    "Description": "This module provides an overview of the migration process with tips and tricks, plus a description of the new public folders. [01:55] - Overview of the Migration Process [03:41] - Tips and Tricks from"
+  }
+]

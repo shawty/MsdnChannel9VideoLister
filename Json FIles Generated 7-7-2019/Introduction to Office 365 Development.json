@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "48675cb2-6549-4921-a22f-a38800036df3",
+    "DataApi": "/Entries(guid'48675cb2-6549-4921-a22f-a38800036df3')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4cf1/446bd917-d24d-40fd-8272-21f863f94cf1/IntroO365DevevelopmentM02_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "01:01:36",
+    "VideoTitle": "Introduction to Office 365 Development: (02) Getting started with Apps for Office",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-15T16:29:06.6149241Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4cf1/446bd917-d24d-40fd-8272-21f863f94cf1/IntroO365DevevelopmentM02_mid.mp4",
+    "Description": "This session will give an overview of the Apps for Office. It will tackle how to get started as well as comparisons on where the models fit in building business solutions. The session will show compel"
+  },
+  {
+    "VideoId": "6c7c35c0-ca48-4149-97ab-a3880003af86",
+    "DataApi": "/Entries(guid'6c7c35c0-ca48-4149-97ab-a3880003af86')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1825/6768546e-7406-4044-b0cb-1970e3e81825/IntroO365DevevelopmentM03_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "01:15:21",
+    "VideoTitle": "Introduction to Office 365 Development: (03) Getting started with Apps for SharePoint",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-15T16:29:18.5437849Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1825/6768546e-7406-4044-b0cb-1970e3e81825/IntroO365DevevelopmentM03_mid.mp4",
+    "Description": "This session will give an overview of the SharePoint Hosted and Provider Hosted App Models. It will tackle how to get started as well as comparisons on where the models fit in building business soluti"
+  },
+  {
+    "VideoId": "f0884650-92ae-4746-8d6b-a3880003ffe8",
+    "DataApi": "/Entries(guid'f0884650-92ae-4746-8d6b-a3880003ffe8')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dfd0/bdd4cdd4-40b1-443f-9d6b-9517c450dfd0/IntroO365DevevelopmentM04_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "01:12:40",
+    "VideoTitle": "Introduction to Office 365 Development: (04) Moving Full Trust Code to the Cloud Using Repeatable Patterns and Best Practices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-15T16:29:29.1567879Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dfd0/bdd4cdd4-40b1-443f-9d6b-9517c450dfd0/IntroO365DevevelopmentM04_mid.mp4",
+    "Description": "This session is full of demos and real life practices on showing how the typical intranet or collaboration customizations can be achieved using app model patterns. We will show different real world pr"
+  },
+  {
+    "VideoId": "f1dffd0f-c996-4447-8936-a38800043ab6",
+    "DataApi": "/Entries(guid'f1dffd0f-c996-4447-8936-a38800043ab6')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fa70/74da284e-034a-4d54-ba97-11121616fa70/IntroO365DevevelopmentM05_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "00:52:24",
+    "VideoTitle": "Introduction to Office 365 Development: (05) Getting started with Office 365 APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-15T16:29:38.5563779Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fa70/74da284e-034a-4d54-ba97-11121616fa70/IntroO365DevevelopmentM05_mid.mp4",
+    "Description": "The Office 365 APIs were released in Preview at the SharePoint Conference 2014 in March. This session will give an overview of how these APIs can be leveraged across Mobile Device platforms and standa"
+  },
+  {
+    "VideoId": "4c2acee1-e1cb-4c3a-83c7-a3c90145273b",
+    "DataApi": "/Entries(guid'4c2acee1-e1cb-4c3a-83c7-a3c90145273b')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f452/0692f3b8-48a0-45c4-a257-3b546444f452/IntroO365DevevelopmentM07_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "00:52:58",
+    "VideoTitle": "Introduction to Office 365 Development: (07) Setting Up your Developer Environment in Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:27:06.0818774Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f452/0692f3b8-48a0-45c4-a257-3b546444f452/IntroO365DevevelopmentM07_mid.mp4",
+    "Description": "Learn about the tools and services required to get started with Office 365 development. [02:59] - Overview[12:47] - The Office 365 Environment[26:38] - The Windows Azure Environment[50:20] - Seller Da"
+  },
+  {
+    "VideoId": "620f71cc-5ef9-4648-b8bb-a3c901456aa3",
+    "DataApi": "/Entries(guid'620f71cc-5ef9-4648-b8bb-a3c901456aa3')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6693/d396a79d-7fe8-471a-b185-cf354f016693/IntroO365DevevelopmentM08_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "00:59:39",
+    "VideoTitle": "Introduction to Office 365 Development: (08) Setting Up your On-Premises Enviornment for App Development",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T16:27:36.6886283Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6693/d396a79d-7fe8-471a-b185-cf354f016693/IntroO365DevevelopmentM08_mid.mp4",
+    "Description": "Find out what is required to get SharePoint Apps running with SharePoint Server 2013 on-premises, for both a stand-alone and a hybrid scenario. [02:05] - Creating a SharePoint 2013 VM[16:54] - Configu"
+  },
+  {
+    "VideoId": "4243399f-ac3a-4363-98c9-a3ee0176d854",
+    "DataApi": "/Entries(guid'4243399f-ac3a-4363-98c9-a3ee0176d854')/",
+    "VideoPageLink": "/Series/Introduction-to-Office-365-Development/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cc9c/a0afc88b-775d-46fb-bac6-db942a0acc9c/IntroO365DevelopmentM06_960.jpg",
+    "ShowName": "Introduction to Office 365 Development",
+    "VideoLength": "01:10:01",
+    "VideoTitle": "Introduction to Office 365 Development: (06) Getting Started with Mobile Development with Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:18:03.2170286Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cc9c/a0afc88b-775d-46fb-bac6-db942a0acc9c/IntroO365DevelopmentM06_mid.mp4",
+    "Description": "Get an introduction to the different approaches to building mobile applications that consume Office 365 platform services. Explore an overview of native mobile platform development (Android, iOS, and "
+  }
+]

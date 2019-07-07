@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "dec1b372-80f0-428a-b25c-a387003c011e",
+    "DataApi": "/Entries(guid'dec1b372-80f0-428a-b25c-a387003c011e')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-SQL/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2126/6c7f8603-010e-4d3f-b24d-c8a970612126/Mod2_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: SQL",
+    "VideoLength": "00:09:02",
+    "VideoTitle": "(Module 2) Creating a Database in Microsoft Azure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T05:01:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2126/6c7f8603-010e-4d3f-b24d-c8a970612126/Mod2_mid.mp4",
+    "Description": "In this module you will create and configure an Azure SQL Database through Azure Management Portal. Deploying a Database to Azure SQL through SQL Server Management Studio and identify the Database to "
+  },
+  {
+    "VideoId": "ab677a0c-2190-4ccf-8b4c-a387003ca7e0",
+    "DataApi": "/Entries(guid'ab677a0c-2190-4ccf-8b4c-a387003ca7e0')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-SQL/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d6f/4744c049-1f8d-4a1c-a651-b088a2604d6f/Mod3_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: SQL",
+    "VideoLength": "00:13:55",
+    "VideoTitle": "(Module 3) Creating a Database in Azure Pack for Windows Server",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T05:02:38Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d6f/4744c049-1f8d-4a1c-a651-b088a2604d6f/Mod3_mid.mp4",
+    "Description": "In this module you will learn about the scale and functionality of an enterprise datacenter that has high availability, familiar development and a relational data model.  You will also see how to use "
+  },
+  {
+    "VideoId": "d4a79b1b-e919-4b6f-a34b-a387003d1cce",
+    "DataApi": "/Entries(guid'd4a79b1b-e919-4b6f-a34b-a387003d1cce')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-SQL/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8d66/17cd0d3f-4a5f-40c6-a290-b3ef87078d66/Mod4_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: SQL",
+    "VideoLength": "00:14:22",
+    "VideoTitle": "(Module 4) Monitoring an Azure Database",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T05:03:13Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8d66/17cd0d3f-4a5f-40c6-a290-b3ef87078d66/Mod4_mid.mp4",
+    "Description": "In this module you will learn how the Basic Monitoring via Web Console operates. With an overview of deadlocks, failed connections, successful connections and blocking by Firewall. We will also review"
+  },
+  {
+    "VideoId": "6876828a-d0e3-49ba-a204-a387003da46c",
+    "DataApi": "/Entries(guid'6876828a-d0e3-49ba-a204-a387003da46c')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-SQL/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf60/c9d2114b-778e-40da-91de-03727156bf60/Mod5_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: SQL",
+    "VideoLength": "00:23:38",
+    "VideoTitle": "(Module 5) Monitoring a Database with System Center 2012 R2",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T05:04:08Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf60/c9d2114b-778e-40da-91de-03727156bf60/Mod5_mid.mp4",
+    "Description": "In this module you will learn the capabilities of managing a datacenter in System Center which can help provide a custom or standardized infrastructure for on-premises, service provider, or Windows Az"
+  },
+  {
+    "VideoId": "96b0d298-b5aa-41ee-aa7a-a387003e16d5",
+    "DataApi": "/Entries(guid'96b0d298-b5aa-41ee-aa7a-a387003e16d5')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-SQL/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0168/19569577-1bd7-4054-82c0-b15861b10168/Mod6_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: SQL",
+    "VideoLength": "00:21:18",
+    "VideoTitle": "(Module 6) Managing a Database in the Hybrid Cloud",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T05:05:30Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0168/19569577-1bd7-4054-82c0-b15861b10168/Mod6_mid.mp4",
+    "Description": "In this module you will learn how to manage a Database in the Hybrid Cloud. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths fo"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "0c74497e-2d8b-4935-abe7-a2ce012b6cee",
+    "DataApi": "/Entries(guid'0c74497e-2d8b-4935-abe7-a2ce012b6cee')/",
+    "VideoPageLink": "/Series/Connected-Devices-with-Windows-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0c37/f9fca428-44d5-4b93-8169-6771e0210c37/ConnectedDevicesWithWindowsAzureM02_960.jpg",
+    "ShowName": "Connected Devices with Windows Azure",
+    "VideoLength": "00:41:06",
+    "VideoTitle": "Connected Devices with Windows Azure: (02) Consumer Mobile Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-10T23:05:55.0846404Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0c37/f9fca428-44d5-4b93-8169-6771e0210c37/ConnectedDevicesWithWindowsAzureM02_mid.mp4",
+    "Description": "Discover tips and tricks for using Mobile Services and Notification Hubs to build scalable consumer-facing iOS, Android, and Windows apps. [03:08] - Overview[08:07] - Platforms[08:39] - Data[22:51] - "
+  },
+  {
+    "VideoId": "1c32c6ef-f46a-40fc-9ac3-a2ce012b8909",
+    "DataApi": "/Entries(guid'1c32c6ef-f46a-40fc-9ac3-a2ce012b8909')/",
+    "VideoPageLink": "/Series/Connected-Devices-with-Windows-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/63d3/c6954d44-cc39-4c74-b528-43a432b363d3/ConnectedDevicesWithWindowsAzureM03_960.jpg",
+    "ShowName": "Connected Devices with Windows Azure",
+    "VideoLength": "00:48:05",
+    "VideoTitle": "Connected Devices with Windows Azure: (03) Secure Mobile Apps in the Enterprise",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-10T23:06:54.56097Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/63d3/c6954d44-cc39-4c74-b528-43a432b363d3/ConnectedDevicesWithWindowsAzureM03_mid.mp4",
+    "Description": "Focus on best practices for building employee-facing mobile apps that utilize on-premises data and systems. [03:04] - Overview[15:18] - Data[18:27] - Business Logic[27:45] - Authentication[34:14] - Pu"
+  },
+  {
+    "VideoId": "219d842e-9216-42f9-87d0-a2ce012bea7d",
+    "DataApi": "/Entries(guid'219d842e-9216-42f9-87d0-a2ce012bea7d')/",
+    "VideoPageLink": "/Series/Connected-Devices-with-Windows-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/456c/be9daea4-4ddf-45c5-9dcf-75e42549456c/ConnectedDevicesWithWindowsAzureM04_960.jpg",
+    "ShowName": "Connected Devices with Windows Azure",
+    "VideoLength": "00:50:42",
+    "VideoTitle": "Connected Devices with Windows Azure: (04) Using Windows Azure for M2M and IoT",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-10T23:07:32.3396695Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/456c/be9daea4-4ddf-45c5-9dcf-75e42549456c/ConnectedDevicesWithWindowsAzureM04_mid.mp4",
+    "Description": "Explore using Service Bus to establish connectivity for command/control, cover the range of security options available, and collect telemetry data. After this session, you can get up and running with "
+  }
+]

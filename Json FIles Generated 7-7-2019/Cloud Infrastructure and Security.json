@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "d640f00a-b34f-42c0-b46a-a716015072c5",
+    "DataApi": "/Entries(guid'd640f00a-b34f-42c0-b46a-a716015072c5')/",
+    "VideoPageLink": "/Blogs/CloudNSecurity/AESOMSCyberDetect",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e1ee/3973d464-38d6-4538-875a-14e435f8e1ee/aesomscyberdetec_960.jpg",
+    "ShowName": "Cloud Infrastructure and Security",
+    "VideoLength": "00:29:43",
+    "VideoTitle": "Azure Education Series-Detecting a Cyberattack with the Operations Management Suite",
+    "Author": "MSFTGuyInKY",
+    "UtcDateTimePublished": "2017-02-10T20:43:30.8209629Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e1ee/3973d464-38d6-4538-875a-14e435f8e1ee/aesomscyberdetec_mid.mp4",
+    "Description": "This 30 minute video demonstrates how cyberattacks occur and how the Microsoft Operations Management Suite Security Solution and Advanced Threat Analytics can be used to both detect and respond to the"
+  },
+  {
+    "VideoId": "138216a3-55a3-48aa-88cb-a705017729d6",
+    "DataApi": "/Entries(guid'138216a3-55a3-48aa-88cb-a705017729d6')/",
+    "VideoPageLink": "/Blogs/CloudNSecurity/AES-CloudStorage",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8375/67b7bf3d-5e50-4707-b7af-aff317188375/AESCloudStorageandBackup_960.jpg",
+    "ShowName": "Cloud Infrastructure and Security",
+    "VideoLength": "01:06:42",
+    "VideoTitle": "Azure Education Series-Cloud Storage, Backup and Disaster Recovery",
+    "Author": "MSFTGuyInKY",
+    "UtcDateTimePublished": "2017-01-25T01:45:46.1035002Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8375/67b7bf3d-5e50-4707-b7af-aff317188375/AESCloudStorageandBackup_mid.mp4",
+    "Description": "This video is a recording of a live webcast delivered on January 24, 2017 and will provide a technical overview of the more popular uses cases for Azure Storage as they relate to Hybrid, Cloud Integra"
+  },
+  {
+    "VideoId": "3cffeb5a-a4f6-4e99-98c8-a657016a0646",
+    "DataApi": "/Entries(guid'3cffeb5a-a4f6-4e99-98c8-a657016a0646')/",
+    "VideoPageLink": "/Blogs/CloudNSecurity/Combating-Corporate-Security-Threats-with-Log-AnalyticsNotable-Issues",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9ac3/d30b9a82-2b7e-4814-aa5c-608882459ac3/LogAnalyticsNotableIssues_960.jpg",
+    "ShowName": "Cloud Infrastructure and Security",
+    "VideoLength": "00:09:10",
+    "VideoTitle": "Combating Corporate Security Threats with Log Analytics....Notable Issues",
+    "Author": "MSFTGuyInKY",
+    "UtcDateTimePublished": "2016-08-04T01:37:48.7639979Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9ac3/d30b9a82-2b7e-4814-aa5c-608882459ac3/LogAnalyticsNotableIssues_mid.mp4",
+    "Description": "This is the second video in my Combating Corporate Security Threats series covering the Security and Audit solution within Log Analytics.  In this entry I will drill down into the &quot;Notable Issues"
+  },
+  {
+    "VideoId": "e964fb1d-9ca5-4afe-b71f-a65200f656e6",
+    "DataApi": "/Entries(guid'e964fb1d-9ca5-4afe-b71f-a65200f656e6')/",
+    "VideoPageLink": "/Blogs/CloudNSecurity/Combating-Corporate-Security-Threats-Getting-Started-with-Log-Analytics",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5492/c1e9ba81-adfa-4af5-a98b-79476c725492/GettingStartedwLogAnalytics_960.jpg",
+    "ShowName": "Cloud Infrastructure and Security",
+    "VideoLength": "00:16:48",
+    "VideoTitle": "Combating Corporate Security Threats:  Getting Started with Log Analytics",
+    "Author": "MSFTGuyInKY",
+    "UtcDateTimePublished": "2016-07-29T20:48:37.3091365Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5492/c1e9ba81-adfa-4af5-a98b-79476c725492/GettingStartedwLogAnalytics_mid.mp4",
+    "Description": "With the increase in cyber attacks over the past two years, organizations need intelligence based threat detection tools to assist them in protecting their enterprise.  This video will demonstrate how"
+  }
+]

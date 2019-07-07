@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "580f92f6-e09a-45c0-bd68-a3c301785854",
+    "DataApi": "/Entries(guid'580f92f6-e09a-45c0-bd68-a3c301785854')/",
+    "VideoPageLink": "/Series/Exchange-Online-Integration-with-Office-365/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c70/d425ca4b-b05b-4926-be94-536510b68c70/ExchangeOnlineIntegrationO365M02_960.jpg",
+    "ShowName": "Exchange Online Integration with Office 365",
+    "VideoLength": "00:14:32",
+    "VideoTitle": "Exchange Online Integration with Office 365: (02) Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T16:06:46.696957Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c70/d425ca4b-b05b-4926-be94-536510b68c70/ExchangeOnlineIntegrationO365M02_mid.mp4",
+    "Description": "Explore key integration points, including OAuth and server-to-Server authentication. [02:07] - OAuth 2.0[04:41] - Server to Server Authentication[06:29] - Example[13:03] - IntegrationFull course outli"
+  },
+  {
+    "VideoId": "a7422816-65fb-4b54-a431-a3c30178784f",
+    "DataApi": "/Entries(guid'a7422816-65fb-4b54-a431-a3c30178784f')/",
+    "VideoPageLink": "/Series/Exchange-Online-Integration-with-Office-365/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b7c/af2ffef0-aa8e-40e8-9214-b30ca2494b7c/ExchangeOnlineIntegrationO365M03_960.jpg",
+    "ShowName": "Exchange Online Integration with Office 365",
+    "VideoLength": "00:50:01",
+    "VideoTitle": "Exchange Online Integration with Office 365: (03) Solving Your Business Problems",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T16:07:09.8295082Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b7c/af2ffef0-aa8e-40e8-9214-b30ca2494b7c/ExchangeOnlineIntegrationO365M03_mid.mp4",
+    "Description": "Look at key integration points between Exchange Online and Office 365, including site mailboxes, data storage and access for documents, and eDiscovery. [38:50] - Site Mailboxes[35:20] - eDiscoveryFull"
+  },
+  {
+    "VideoId": "4e5f4f6d-ff61-4b73-a66f-a3c30178b583",
+    "DataApi": "/Entries(guid'4e5f4f6d-ff61-4b73-a66f-a3c30178b583')/",
+    "VideoPageLink": "/Series/Exchange-Online-Integration-with-Office-365/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0b34/f23da733-b13f-402c-80ca-a72bda270b34/ExchangeOnlineIntegrationO365M04_960.jpg",
+    "ShowName": "Exchange Online Integration with Office 365",
+    "VideoLength": "00:31:56",
+    "VideoTitle": "Exchange Online Integration with Office 365: (04) Solving More Business Problems",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T16:07:42.2820543Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0b34/f23da733-b13f-402c-80ca-a72bda270b34/ExchangeOnlineIntegrationO365M04_mid.mp4",
+    "Description": "Look at additional key integration points between Exchange Online and Office 365, including high-resolution photos, task synchronization, unified contact store, presence, meeting recordings, voice mai"
+  },
+  {
+    "VideoId": "b9360595-a91e-408e-b81c-a3c30178e1a6",
+    "DataApi": "/Entries(guid'b9360595-a91e-408e-b81c-a3c30178e1a6')/",
+    "VideoPageLink": "/Series/Exchange-Online-Integration-with-Office-365/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f3d/607a6dec-d338-4c16-abfc-a6f1f3ff8f3d/ExchangeOnlineIntegrationO365M05_960.jpg",
+    "ShowName": "Exchange Online Integration with Office 365",
+    "VideoLength": "00:14:51",
+    "VideoTitle": "Exchange Online Integration with Office 365: (05) Road Map Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T16:07:47.0100014Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f3d/607a6dec-d338-4c16-abfc-a6f1f3ff8f3d/ExchangeOnlineIntegrationO365M05_mid.mp4",
+    "Description": "Review the Office 365 Business Roadmap features that are currently planned for applicable subscribers. This includes the use of Groups in Office 365, as well as Office Delve. [02:33] - Groups in Offic"
+  }
+]

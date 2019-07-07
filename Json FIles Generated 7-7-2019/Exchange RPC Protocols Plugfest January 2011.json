@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "f6879a9e-c8eb-4544-ac00-9e8a0137df5a",
+    "DataApi": "/Entries(guid'f6879a9e-c8eb-4544-ac00-9e8a0137df5a')/",
+    "VideoPageLink": "/Series/Exchange-RPC-Protocols-Plugfest-January-2011/Exchange-RPC-ROPS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/df5a/f6879a9e-c8eb-4544-ac00-9e8a0137df5a/ExchangePlugfestRPCROPS_512_ch9.jpg",
+    "ShowName": "Exchange RPC Protocols Plugfest January 2011",
+    "VideoLength": "00:26:10",
+    "VideoTitle": "Exchange RPC, ROPS",
+    "Author": "ViBing",
+    "UtcDateTimePublished": "2011-02-14T19:30:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/df5a/f6879a9e-c8eb-4544-ac00-9e8a0137df5a/ExchangePlugfestRPCROPS_low_ch9.mp4",
+    "Description": " Darrell Brunsch, Senior Software Development Engineer, presents detailed information about Exchange RPC and ROPs. The talk includes a discussion of MS-OXCROPS document organization, buffer examples, "
+  },
+  {
+    "VideoId": "f410c1b6-5499-410d-9dbb-9e8a013bca44",
+    "DataApi": "/Entries(guid'f410c1b6-5499-410d-9dbb-9e8a013bca44')/",
+    "VideoPageLink": "/Series/Exchange-RPC-Protocols-Plugfest-January-2011/Exchange-RPC-Plugfest-MS-OXCPRPT",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca44/f410c1b6-5499-410d-9dbb-9e8a013bca44/ExchangePlugfestMSOXCPRPT_512_ch9.jpg",
+    "ShowName": "Exchange RPC Protocols Plugfest January 2011",
+    "VideoLength": "00:36:44",
+    "VideoTitle": "Exchange RPC Plugfest MS-OXCPRPT",
+    "Author": "ViBing",
+    "UtcDateTimePublished": "2011-02-14T23:20:40Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca44/f410c1b6-5499-410d-9dbb-9e8a013bca44/ExchangePlugfestMSOXCPRPT_low_ch9.mp4",
+    "Description": " Juan Pablo Muraira, Principal Development Lead, discusses Exchange protocol objects and properties. The talk details modifying, reading, referring to objects as well as referring to and manipulating "
+  },
+  {
+    "VideoId": "5f487e79-7bce-44fd-8ad8-9e8a013a946c",
+    "DataApi": "/Entries(guid'5f487e79-7bce-44fd-8ad8-9e8a013a946c')/",
+    "VideoPageLink": "/Series/Exchange-RPC-Protocols-Plugfest-January-2011/Exchange-Protocol-Test-Suite-Architecture",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/946c/5f487e79-7bce-44fd-8ad8-9e8a013a946c/ExchangeProtocolTestSuiteArchitecture_512_ch9.jpg",
+    "ShowName": "Exchange RPC Protocols Plugfest January 2011",
+    "VideoLength": "01:30:21",
+    "VideoTitle": "Exchange Protocol Test Suite Architecture",
+    "Author": "ViBing",
+    "UtcDateTimePublished": "2011-02-14T23:21:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/946c/5f487e79-7bce-44fd-8ad8-9e8a013a946c/ExchangeProtocolTestSuiteArchitecture_low_ch9.mp4",
+    "Description": " Simon Xiao, Software Developer Engineer in Test II, introduces the Exchange Protocol Test Suite Architecture. The talk also includes a demo presented by Xianming Xu (Chinasoft), Test Suite Developer."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "15842f0e-818f-4559-a81a-a4710134b0b8",
+    "DataApi": "/Entries(guid'15842f0e-818f-4559-a81a-a4710134b0b8')/",
+    "VideoPageLink": "/Series/Package-Management-and-Workflow-Automation/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/63b8/2859b1ab-f543-4940-8069-826e63dd63b8/763PackageMgmtWorkflowAutoM02_960.jpg",
+    "ShowName": "Package Management and Workflow Automation",
+    "VideoLength": "00:49:22",
+    "VideoTitle": "Package Management and Workflow Automation: (02) Package Management in .NET Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-05T23:38:19.7493223Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/63b8/2859b1ab-f543-4940-8069-826e63dd63b8/763PackageMgmtWorkflowAutoM02_mid.mp4",
+    "Description": "Learn how NuGet, the package manager for .NET applications, can help you locate, install, and deploy third-party code. If you can find a framework, library, or module that gets your project done faste"
+  },
+  {
+    "VideoId": "f603a2cb-7ca0-404b-b196-a4710134dd3b",
+    "DataApi": "/Entries(guid'f603a2cb-7ca0-404b-b196-a4710134dd3b')/",
+    "VideoPageLink": "/Series/Package-Management-and-Workflow-Automation/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/36ec/5e818cc0-288a-4a0b-a1da-22834ede36ec/763PackageMgmtWorkflowAutoM03_960.jpg",
+    "ShowName": "Package Management and Workflow Automation",
+    "VideoLength": "01:02:14",
+    "VideoTitle": "Package Management and Workflow Automation: (03) Package Management in Node.js and Web Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-05T23:38:36.5044272Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/36ec/5e818cc0-288a-4a0b-a1da-22834ede36ec/763PackageMgmtWorkflowAutoM03_mid.mp4",
+    "Description": "Explore the powerful package managers which are available, like Bower for the website front end, and kpm for ASP.NET 5. See how the de facto package manager in Node.js apps, npm, can easily bring in t"
+  },
+  {
+    "VideoId": "e1ca82b7-1616-48b1-89b9-a4710135054d",
+    "DataApi": "/Entries(guid'e1ca82b7-1616-48b1-89b9-a4710135054d')/",
+    "VideoPageLink": "/Series/Package-Management-and-Workflow-Automation/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2b0e/7e1793b3-5217-444a-9696-dc202c392b0e/763PackageMgmtWorkflowAutoM04_960.jpg",
+    "ShowName": "Package Management and Workflow Automation",
+    "VideoLength": "00:40:44",
+    "VideoTitle": "Package Management and Workflow Automation: (04) Workflow Automation in Node.js Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-05T23:38:52.0768187Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2b0e/7e1793b3-5217-444a-9696-dc202c392b0e/763PackageMgmtWorkflowAutoM04_mid.mp4",
+    "Description": "Implement good workflow management, now that youâ€™ve all but finished your applicationâ€™s core logic. Automate workflow scenarios, which may involve everything from design time code quality to minificat"
+  },
+  {
+    "VideoId": "f84ddc50-d271-4c7c-82e4-a47101353452",
+    "DataApi": "/Entries(guid'f84ddc50-d271-4c7c-82e4-a47101353452')/",
+    "VideoPageLink": "/Series/Package-Management-and-Workflow-Automation/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ecc/eb8c0278-e05a-420f-b73f-8712e2b03ecc/763PackageMgmtWorkflowAutoM05_960.jpg",
+    "ShowName": "Package Management and Workflow Automation",
+    "VideoLength": "00:19:40",
+    "VideoTitle": "Package Management and Workflow Automation: (05) Deployment and Continuous Integration with Azure Websites",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-05T23:39:08.4987645Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ecc/eb8c0278-e05a-420f-b73f-8712e2b03ecc/763PackageMgmtWorkflowAutoM05_mid.mp4",
+    "Description": "Since a good developer knows a bit about deployment to the cloud and application operations and analytics, take a look at continuous integration (CI) with Azure. Turn this task into a joy, because it "
+  }
+]

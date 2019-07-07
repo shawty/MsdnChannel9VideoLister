@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "ce84cf24-0988-49a6-85f4-9deb016f09f6",
+    "DataApi": "/Entries(guid'ce84cf24-0988-49a6-85f4-9deb016f09f6')/",
+    "VideoPageLink": "/Blogs/davidsb/IE8-con-herramientas-de-desarrollo-integradas",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/1/6/4/6/5/4/IE8DevTools_large_ch9.png",
+    "ShowName": "Channel 9 Spain",
+    "VideoLength": "00:12:19",
+    "VideoTitle": "IE8 con herramientas de desarrollo integradas",
+    "Author": "David Salgado",
+    "UtcDateTimePublished": "2009-02-23T12:27:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/1/6/4/6/5/4/IE8DevTools_ch9.mp4",
+    "Description": "Eres desarrollador web?  En Internet Explorer 8 encontrarás una suite de herramientas orientadas a facilitar el desarrollo web en cliente, así como para dar los últimos retoques de diseño a un sitio w"
+  },
+  {
+    "VideoId": "8471493e-6392-46e2-88ed-9deb016f06b3",
+    "DataApi": "/Entries(guid'8471493e-6392-46e2-88ed-9deb016f06b3')/",
+    "VideoPageLink": "/Blogs/davidsb/Depuracin-HTTP-con-Fiddler",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/2/6/4/6/5/4/IntroFiddler_large_ch9.png",
+    "ShowName": "Channel 9 Spain",
+    "VideoLength": "00:09:21",
+    "VideoTitle": "DepuraciÃ³n HTTP con Fiddler",
+    "Author": "David Salgado",
+    "UtcDateTimePublished": "2009-02-23T12:23:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/2/6/4/6/5/4/IntroFiddler_ch9.mp4",
+    "Description": "Una herramienta vital para desarrolladores web, la funcionalidad básica muestra el intercambio de datos entre el navegador y la aplicación web.\n\nVemos las cabeceras, las cookies, los datos intercamb"
+  },
+  {
+    "VideoId": "20f9579b-f910-4327-bcc3-9deb016f0d52",
+    "DataApi": "/Entries(guid'20f9579b-f910-4327-bcc3-9deb016f0d52')/",
+    "VideoPageLink": "/Blogs/davidsb/Generacion-de-mantenimientos-de-BBDD",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/2/2/6/9/4/4/ASPNETDynamicData_large_ch9.jpg",
+    "ShowName": "Channel 9 Spain",
+    "VideoLength": "00:23:33",
+    "VideoTitle": "Generacion de mantenimientos de BBDD",
+    "Author": "David Salgado",
+    "UtcDateTimePublished": "2009-01-07T14:38:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/2/2/6/9/4/4/ASPNETDynamicData_ch9.mp4",
+    "Description": "ASP.NET Dynamic Data te permite crear sitios web a partir de una fuente de datos. En este screencast veremos la creación básica de un sitio a partir de una Base de Datos y cómo podemos personalizarlo "
+  },
+  {
+    "VideoId": "e0ff25a4-0906-4c4a-8e5b-9dec002159cf",
+    "DataApi": "/Entries(guid'e0ff25a4-0906-4c4a-8e5b-9dec002159cf')/",
+    "VideoPageLink": "/Blogs/davidsb/Trabajando-con-HTTP-GET-y-HTTP-POST",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/5/2/6/9/4/4/GETPOST_large_ch9.jpg",
+    "ShowName": "Channel 9 Spain",
+    "VideoLength": "00:14:09",
+    "VideoTitle": "Trabajando con HTTP GET y HTTP POST",
+    "Author": "David Salgado",
+    "UtcDateTimePublished": "2008-12-26T10:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/5/2/6/9/4/4/GETPOST_ch9.mp4",
+    "Description": "ASP.NET Web Forms encapsula muchas de las técnicas tradicionales de desarrollo web. Enviar datos de un formulario a otro, trabajar sin eventos...\n\nEn este screencast veremos cuál es la diferencia en"
+  },
+  {
+    "VideoId": "39fda582-e79d-45b0-8431-9dec00215e6a",
+    "DataApi": "/Entries(guid'39fda582-e79d-45b0-8431-9dec00215e6a')/",
+    "VideoPageLink": "/Blogs/davidsb/Como-no-bloquear-el-Interfaz-de-Usuario",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/3/2/6/9/4/4/UIThread_large_ch9.jpg",
+    "ShowName": "Channel 9 Spain",
+    "VideoLength": "00:17:42",
+    "VideoTitle": "Como no bloquear el Interfaz de Usuario",
+    "Author": "David Salgado",
+    "UtcDateTimePublished": "2008-12-23T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/3/2/6/9/4/4/UIThread_ch9.mp4",
+    "Description": "Al desarrollar una aplicación de escritorio, algunas veces la interfaz se queda bloqueada esperando a que se ejecute una operación.\n\nVeremos técnicas para hacer que los trabajos pesados se ejecuten "
+  }
+]

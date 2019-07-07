@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "afd5a8d0-bec7-4248-af76-a49500d1d17f",
+    "DataApi": "/Entries(guid'afd5a8d0-bec7-4248-af76-a49500d1d17f')/",
+    "VideoPageLink": "/Blogs/MSP/Windows-Server-for-absolute-beginners",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a1f5/1ce239d8-a48f-468b-8b8e-3c40e8d2a1f5/WSForAbsoluteBeginners_960.jpg",
+    "ShowName": "Microsoft Student Partners",
+    "VideoLength": "00:59:10",
+    "VideoTitle": "Windows Server for absolute beginners",
+    "Author": "RoyaChang",
+    "UtcDateTimePublished": "2015-05-13T10:16:35.3529305Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a1f5/1ce239d8-a48f-468b-8b8e-3c40e8d2a1f5/WSForAbsoluteBeginners_mid.mp4",
+    "Description": "¿Te gustaría conocer el mundo del IT-Pro y no sabes por dónde empezar? Con este vídeo tendrás una primera aproximación a conceptos básicos del mundo de los sistemas. "
+  },
+  {
+    "VideoId": "00db9b4e-dcd5-4763-b76b-a4940002918f",
+    "DataApi": "/Entries(guid'00db9b4e-dcd5-4763-b76b-a4940002918f')/",
+    "VideoPageLink": "/Blogs/MSP/Windows-Server-What-Why-and-Which",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "42656d7b-78a2-47e2-8cb2-a47d00b32768",
+    "DataApi": "/Entries(guid'42656d7b-78a2-47e2-8cb2-a47d00b32768')/",
+    "VideoPageLink": "/Blogs/MSP/Building-Universal-apps-using-WinJS-01-Intro-to-WinJS",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "22e4cc25-7dc1-4a81-8b79-a47300ada3c9",
+    "DataApi": "/Entries(guid'22e4cc25-7dc1-4a81-8b79-a47300ada3c9')/",
+    "VideoPageLink": "/Blogs/MSP/Adding-Azure-Mobile-Services-to-a-JavaScript-app",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/85c6/fa8b84a0-2707-4235-8bd4-eb1e535b85c6/AzureJavaScriptTutorial_960.jpg",
+    "ShowName": "Microsoft Student Partners",
+    "VideoLength": "00:05:33",
+    "VideoTitle": "Adding Azure Mobile Services to a JavaScript app",
+    "Author": "DrazenD",
+    "UtcDateTimePublished": "2015-04-15T15:51:32.6975621Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/85c6/fa8b84a0-2707-4235-8bd4-eb1e535b85c6/AzureJavaScriptTutorial_mid.mp4",
+    "Description": "In this tutorial we show how to add Azure Mobile Services to a Javascript application. You will learn how to use Mobile Services to save data and retrieve from the cloud. The use case in the demonstra"
+  },
+  {
+    "VideoId": "d5cff99f-abee-4c5f-9b95-a46c009ac790",
+    "DataApi": "/Entries(guid'd5cff99f-abee-4c5f-9b95-a46c009ac790')/",
+    "VideoPageLink": "/Blogs/MSP/Unit-Testing-a-journey-in-Mock-Frameworks",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

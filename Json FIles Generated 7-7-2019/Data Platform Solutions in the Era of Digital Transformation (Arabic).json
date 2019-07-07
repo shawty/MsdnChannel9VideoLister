@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c71b07b6-5063-40e9-802c-a6da0068105b",
+    "DataApi": "/Entries(guid'c71b07b6-5063-40e9-802c-a6da0068105b')/",
+    "VideoPageLink": "/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/Power-BI-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f468/f5fd78fb-67c4-497e-b4a2-e779eb54f468/PowerBIAArabic_960.jpg",
+    "ShowName": "Data Platform Solutions in the Era of Digital Transformation (Arabic)",
+    "VideoLength": "00:18:37",
+    "VideoTitle": "Power BI (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-12-13T07:53:25.4304475Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f468/f5fd78fb-67c4-497e-b4a2-e779eb54f468/PowerBIAArabic_mid.mp4",
+    "Description": "Description of the tool Power BI and a demo "
+  },
+  {
+    "VideoId": "88e22367-1822-408e-9b8f-a6da0067d3be",
+    "DataApi": "/Entries(guid'88e22367-1822-408e-9b8f-a6da0067d3be')/",
+    "VideoPageLink": "/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/SQL-Server-2016-Everything-built-in-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5598/9354b27f-3c38-41f4-a6b9-5cebfcb75598/SQLServer2016Arabic_960.jpg",
+    "ShowName": "Data Platform Solutions in the Era of Digital Transformation (Arabic)",
+    "VideoLength": "00:24:10",
+    "VideoTitle": "SQL Server 2016: Everything built-in (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-12-13T07:53:28.6445934Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5598/9354b27f-3c38-41f4-a6b9-5cebfcb75598/SQLServer2016Arabic_mid.mp4",
+    "Description": "The new features of SQL Server 2016, a demo about the Mobile Report Publisher and a comparison between the different editions of SQL Server 2016 "
+  },
+  {
+    "VideoId": "97a07bc4-4aa1-45af-866f-a6da00678c44",
+    "DataApi": "/Entries(guid'97a07bc4-4aa1-45af-866f-a6da00678c44')/",
+    "VideoPageLink": "/Series/Data-Platform-Solutions-in-the-Era-of-Digital-Transformation-Arabic/Introduction-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b3c/c2304a90-37e1-4264-a882-bc0e61556b3c/IntroductionArabic_960.jpg",
+    "ShowName": "Data Platform Solutions in the Era of Digital Transformation (Arabic)",
+    "VideoLength": "00:12:59",
+    "VideoTitle": "Introduction (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-12-13T07:53:31.5712213Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b3c/c2304a90-37e1-4264-a882-bc0e61556b3c/IntroductionArabic_mid.mp4",
+    "Description": "General introduction about Digital Transformation and the structure of Microsoft Data Platform "
+  }
+]

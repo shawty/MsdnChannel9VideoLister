@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "18f7eaf1-4f03-41eb-85d7-a601016501d7",
+    "DataApi": "/Entries(guid'18f7eaf1-4f03-41eb-85d7-a601016501d7')/",
+    "VideoPageLink": "/series/officejs/End-to-End-Walkthrough-of-Excel-JavaScript-Add-in-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1259/dd9afe67-0529-4f35-b7ac-f0ad8a5b1259/EndToEndWalkthroughExcelAddins_960.jpg",
+    "ShowName": "Building Office Add-ins with Office.js",
+    "VideoLength": "01:41:54",
+    "VideoTitle": "End-to-End Walkthrough of Excel JavaScript Add-in Development",
+    "Author": "Michael Zlatkovsky",
+    "UtcDateTimePublished": "2016-05-10T16:58:31.5808149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1259/dd9afe67-0529-4f35-b7ac-f0ad8a5b1259/EndToEndWalkthroughExcelAddins_mid.mp4",
+    "Description": "In this webcast, I walk through the end-to-end process of building an Office Add-in for Excel:  from launching Visual Studio, to writing a bit of JavaScript code that uses the new Excel 2016 APIs, to "
+  }
+]

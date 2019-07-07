@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "03b0c4d8-870e-4ec7-b452-a768003f5f1c",
+    "DataApi": "/Entries(guid'03b0c4d8-870e-4ec7-b452-a768003f5f1c')/",
+    "VideoPageLink": "/blogs/MicrosoftR/Introducing-Microsoft-R-Server-Version-91-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c85d/312bb5ee-6ac0-4603-95b4-71ca65a7c85d/2O18NCarl_960.jpg",
+    "ShowName": "Microsoft R Analytics Channel",
+    "VideoLength": "00:12:00",
+    "VideoTitle": "Introducing Microsoft R Server Version 9.1 - Part 2",
+    "Author": "Bill Jacobs",
+    "UtcDateTimePublished": "2017-05-03T23:41:46.9472999Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c85d/312bb5ee-6ac0-4603-95b4-71ca65a7c85d/2O18NCarl_mid.mp4",
+    "Description": "On April 19, 2917, Microsoft announced a new version of Microsoft R Server with significant new capabilities including new algorithms, new operationalization features and enhanced capabilities coming "
+  },
+  {
+    "VideoId": "c05fa52f-8e0c-4683-9b6f-a768003f6d42",
+    "DataApi": "/Entries(guid'c05fa52f-8e0c-4683-9b6f-a768003f6d42')/",
+    "VideoPageLink": "/blogs/MicrosoftR/Introducing-Microsoft-R-Server-Version-91-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/da31/afcf4d7f-194e-4249-a61a-3ccfe045da31/MRSV91Spark_960.jpg",
+    "ShowName": "Microsoft R Analytics Channel",
+    "VideoLength": "00:20:56",
+    "VideoTitle": "Introducing Microsoft R Server Version 9.1 - Part 1",
+    "Author": "Bill Jacobs",
+    "UtcDateTimePublished": "2017-05-03T23:40:11.1242581Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/da31/afcf4d7f-194e-4249-a61a-3ccfe045da31/MRSV91Spark_mid.mp4",
+    "Description": "On April 19, 2917, Microsoft announced a new version of Microsoft R Server with significant new capabilities including new algorithms, new operationalization features and enhanced capabilities coming "
+  },
+  {
+    "VideoId": "c79bac17-e590-465c-9f82-a634010c799c",
+    "DataApi": "/Entries(guid'c79bac17-e590-465c-9f82-a634010c799c')/",
+    "VideoPageLink": "/blogs/MicrosoftR/Microsoft-Introduces-new-free-Microsoft-R-Client",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0e87/acb0560f-8efd-4ca7-a3ba-99252b8a0e87/IntroductingMicrosoftRClient_960.jpg",
+    "ShowName": "Microsoft R Analytics Channel",
+    "VideoLength": "00:03:51",
+    "VideoTitle": "Microsoft Introduces new free Microsoft R Client",
+    "Author": "Bill Jacobs",
+    "UtcDateTimePublished": "2016-06-29T16:53:28.5839577Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0e87/acb0560f-8efd-4ca7-a3ba-99252b8a0e87/IntroductingMicrosoftRClient_mid.mp4",
+    "Description": "This week, Microsoft announced availability of the Microsoft R Client, creating a much more usable, freely available desktop client option for users of Microsoft R Server. Microsoft R Client is a free"
+  },
+  {
+    "VideoId": "e3d0dc87-598a-4cbd-bd04-a627011bfba8",
+    "DataApi": "/Entries(guid'e3d0dc87-598a-4cbd-bd04-a627011bfba8')/",
+    "VideoPageLink": "/blogs/MicrosoftR/R-Server-on-Spark",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b49d/32ddfd06-bdc5-48fc-a1e2-31b12588b49d/RServeronSparkIntro_960.jpg",
+    "ShowName": "Microsoft R Analytics Channel",
+    "VideoLength": "00:23:34",
+    "VideoTitle": "Microsoft R Server Supports Apache Spark for Faster Big Data Analytics",
+    "Author": "Bill Jacobs",
+    "UtcDateTimePublished": "2016-06-16T18:47:44.2852036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b49d/32ddfd06-bdc5-48fc-a1e2-31b12588b49d/RServeronSparkIntro_mid.mp4",
+    "Description": "Hello Channel9 Viewers:   Microsoft is hard at work bringing the fastest, most complete R Analytics environment to the millions of R users.   For enterprises with very large data assets, Apache Spark "
+  }
+]

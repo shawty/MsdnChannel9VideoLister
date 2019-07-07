@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c18f94ea-86b8-4ee7-8ecd-a340014f2fa5",
+    "DataApi": "/Entries(guid'c18f94ea-86b8-4ee7-8ecd-a340014f2fa5')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment-In-Action/Windows-8-1-Deployment-In-Action-Deployment-Pre-Requisites-Part-2-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb85/4f51d6fc-eca4-4303-b343-2efb738dbb85/MDT2_960.jpg",
+    "ShowName": "Windows 8.1 Deployment In Action",
+    "VideoLength": "00:09:10",
+    "VideoTitle": "Windows 8.1 Deployment In Action: Deployment Pre-Requisites (Part 2)",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-06-05T13:00:50.5967804Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb85/4f51d6fc-eca4-4303-b343-2efb738dbb85/MDT2_mid.mp4",
+    "Description": "In part 2 we will take a look at some of the deployment pre-requisites that you will need to begin building your deployment environment. "
+  },
+  {
+    "VideoId": "97df3391-cd6b-42d8-b0b8-a340014fe045",
+    "DataApi": "/Entries(guid'97df3391-cd6b-42d8-b0b8-a340014fe045')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment-In-Action/Windows-8-1-Deployment-In-Action-Installing-the-Tools-Part-3-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/85b5/0c4b6379-b112-4fa7-99d4-b1b1735785b5/MDT3_960.jpg",
+    "ShowName": "Windows 8.1 Deployment In Action",
+    "VideoLength": "00:07:12",
+    "VideoTitle": "Windows 8.1 Deployment In Action: Installing the Tools (Part 3)",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-06-05T13:01:11.4317881Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/85b5/0c4b6379-b112-4fa7-99d4-b1b1735785b5/MDT3_mid.mp4",
+    "Description": "In this part we will take a tour on how to install the core tools of Windows Automated Deployment Kit (WADK) and Microsoft Deployment Toolkit (MDT) "
+  },
+  {
+    "VideoId": "b61264d9-2fce-4e68-8e61-a3400150c093",
+    "DataApi": "/Entries(guid'b61264d9-2fce-4e68-8e61-a3400150c093')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment-In-Action/Windows-8-1-Deployment-In-Action-Working-with-Deployment-Shares-Part-4-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6241/0d805312-276d-4b2a-99e0-d02d7ecf6241/MDT4_960.jpg",
+    "ShowName": "Windows 8.1 Deployment In Action",
+    "VideoLength": "00:08:56",
+    "VideoTitle": "Windows 8.1 Deployment In Action: Working with Deployment Shares (Part 4)",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-06-05T13:01:31.410003Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6241/0d805312-276d-4b2a-99e0-d02d7ecf6241/MDT4_mid.mp4",
+    "Description": "Is this part we will take a look at how to create and work with a deployment share in the Microsoft Deployment Toolkit (MDT) "
+  },
+  {
+    "VideoId": "639fc26a-4f47-42c8-9f4b-a34001510dfb",
+    "DataApi": "/Entries(guid'639fc26a-4f47-42c8-9f4b-a34001510dfb')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment-In-Action/Windows-8-1-Deployment-In-Action-Working-with-Task-Sequences-Part-5-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dbbd/4294fbad-8486-46b7-99f0-19800479dbbd/MDT5_960.jpg",
+    "ShowName": "Windows 8.1 Deployment In Action",
+    "VideoLength": "00:07:29",
+    "VideoTitle": "Windows 8.1 Deployment In Action: Working with Task Sequences (Part 5)",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2014-06-05T13:01:48.5619108Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dbbd/4294fbad-8486-46b7-99f0-19800479dbbd/MDT5_mid.mp4",
+    "Description": "In this part we will take a look at how to create and work with task sequences in the Microsoft Deployment Toolkit (MDT) "
+  },
+  {
+    "VideoId": "7f669b5c-5fb2-48b0-a8fb-a34001513c0f",
+    "DataApi": "/Entries(guid'7f669b5c-5fb2-48b0-a8fb-a34001513c0f')/",
+    "VideoPageLink": "/Series/Windows-8-1-Deployment-In-Action/Windows-8-1-Deployment-In-Action-Putting-MDT-and-WDS-Together-Part-6-",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

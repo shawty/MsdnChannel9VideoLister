@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "2990ea81-1fdc-4814-a564-a5720141bbbd",
+    "DataApi": "/Entries(guid'2990ea81-1fdc-4814-a564-a5720141bbbd')/",
+    "VideoPageLink": "/Series/Pit-Stop-Operations-Management-Suite/How-to-Onboard-Servers",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/33f7/d974a32c-9f8a-48dc-a8d9-529ccb3e33f7/OMShowtoonboardservers_960.jpg",
+    "ShowName": "Pit Stop: Operations Management Suite",
+    "VideoLength": "00:02:42",
+    "VideoTitle": "How to onboard servers",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-26T21:37:46.6670675Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/33f7/d974a32c-9f8a-48dc-a8d9-529ccb3e33f7/OMShowtoonboardservers_mid.mp4",
+    "Description": "Learn how to use Microsoft Operations Management Suite to choose solutions and connect the servers that you want to manage. Next Steps Read: Hybrid IT Management Part I then take the trainingWatch: Az"
+  },
+  {
+    "VideoId": "4fc02df6-074f-4221-8895-a572014117fe",
+    "DataApi": "/Entries(guid'4fc02df6-074f-4221-8895-a572014117fe')/",
+    "VideoPageLink": "/Series/Pit-Stop-Operations-Management-Suite/How-to-add-Logs-and-create-dashboard",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8fcc/b5246d3e-68c0-43e4-baa8-4d992cdb8fcc/OMShowtoaddlogscreatedashboard_960.jpg",
+    "ShowName": "Pit Stop: Operations Management Suite",
+    "VideoLength": "00:01:45",
+    "VideoTitle": "How to add logs and create dashboards",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-26T21:39:07.0450293Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8fcc/b5246d3e-68c0-43e4-baa8-4d992cdb8fcc/OMShowtoaddlogscreatedashboard_mid.mp4",
+    "Description": "Learn how you can and create custom dashboards and add logging with Operations Management Suite. Next Steps Read: Hybrid IT Management Part I then take the trainingWatch: Azure videos on Microsoft Mec"
+  },
+  {
+    "VideoId": "dac4740f-34be-4c3b-ba21-a5720141567b",
+    "DataApi": "/Entries(guid'dac4740f-34be-4c3b-ba21-a5720141567b')/",
+    "VideoPageLink": "/Series/Pit-Stop-Operations-Management-Suite/How-to-gain-workload-intelligence-through-Solutions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9550/6eaff8b6-09cb-4702-abf8-c06a7aac9550/OMShowtogainworkloadintelligence_960.jpg",
+    "ShowName": "Pit Stop: Operations Management Suite",
+    "VideoLength": "00:02:23",
+    "VideoTitle": "How to gain workload intelligence through solutions",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-26T21:49:37.0183919Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9550/6eaff8b6-09cb-4702-abf8-c06a7aac9550/OMShowtogainworkloadintelligence_mid.mp4",
+    "Description": "Learn to reflect a specific workload intelligence through adding 'Solutions' in the Operations Management Suite. Next Steps Read: Hybrid IT Management Part I then take the trainingWatch: Azure videos "
+  },
+  {
+    "VideoId": "1ee5afc2-d9af-4e0f-9a20-a57201417f77",
+    "DataApi": "/Entries(guid'1ee5afc2-d9af-4e0f-9a20-a57201417f77')/",
+    "VideoPageLink": "/Series/Pit-Stop-Operations-Management-Suite/How-to-Log-Search",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a35d/f3bda4c7-b326-48d5-8fff-9bc24b7fa35d/OMShowtologsearch_960.jpg",
+    "ShowName": "Pit Stop: Operations Management Suite",
+    "VideoLength": "00:04:02",
+    "VideoTitle": "How to log search basic in OMS",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2016-01-26T21:51:34.1273478Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a35d/f3bda4c7-b326-48d5-8fff-9bc24b7fa35d/OMShowtologsearch_mid.mp4",
+    "Description": "At the core of Microsoft Azure Operational Insights is the log search feature which allows you to combine and correlate any machine data from multiple sources within your environment. Solutions are al"
+  }
+]

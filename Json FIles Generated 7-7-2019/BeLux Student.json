@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "1fe29d11-8637-4c2b-a252-a51d00a0ab88",
+    "DataApi": "/Entries(guid'1fe29d11-8637-4c2b-a252-a51d00a0ab88')/",
+    "VideoPageLink": "/Blogs/BeLux-Student/Web-App-publiceren-met-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1511/0cd9ff35-fb93-4350-b6f8-58df30dc1511/WebAppAzure_960.jpg",
+    "ShowName": "BeLux Student",
+    "VideoLength": "00:09:34",
+    "VideoTitle": "Web App publiceren met Azure",
+    "Author": "Microsoft BeLux",
+    "UtcDateTimePublished": "2015-09-24T09:53:48.9586859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1511/0cd9ff35-fb93-4350-b6f8-58df30dc1511/WebAppAzure_mid.mp4",
+    "Description": "Jou website online zetten doormiddel van het Azure platform? Dat kan zeker en het is helemaal niet zo moeilijk. In dit filmpje wordt alles uitgelegd van inloggen in Azure tot aan het online zetten van"
+  },
+  {
+    "VideoId": "499c2991-c63f-494f-8623-a51a013f6c9d",
+    "DataApi": "/Entries(guid'499c2991-c63f-494f-8623-a51a013f6c9d')/",
+    "VideoPageLink": "/Blogs/BeLux-Student/How-to-download-Visual-Studio-2015-NL",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bbb7/fd4155b0-c5db-4179-893a-1416ad64bbb7/vscommunitystudent_960.jpg",
+    "ShowName": "BeLux Student",
+    "VideoLength": "00:01:39",
+    "VideoTitle": "How to download Visual Studio 2015 (NL)",
+    "Author": "Microsoft BeLux",
+    "UtcDateTimePublished": "2015-09-24T09:53:22.3883837Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bbb7/fd4155b0-c5db-4179-893a-1416ad64bbb7/vscommunitystudent_mid.mp4",
+    "Description": "Wil je beginnen met programmeren, dan is visual studio het programma voor jou! Hoe kan je het krijgen? Dat is helemaal niet moeilijk, bekijk dit filmpje en zie hoe je gratis visual studio 2015 kan dow"
+  },
+  {
+    "VideoId": "c1e7ff72-5a30-4014-b4ad-a51a0140583f",
+    "DataApi": "/Entries(guid'c1e7ff72-5a30-4014-b4ad-a51a0140583f')/",
+    "VideoPageLink": "/Blogs/BeLux-Student/Activating-your-Azure-Student-Submission-NL",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b236/53517999-5281-4e5c-88ef-8f164dc7b236/azurestudent_960.jpg",
+    "ShowName": "BeLux Student",
+    "VideoLength": "00:03:00",
+    "VideoTitle": "Activating your Azure Student Submission (NL)",
+    "Author": "Microsoft BeLux",
+    "UtcDateTimePublished": "2015-09-21T20:01:00.1780662Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b236/53517999-5281-4e5c-88ef-8f164dc7b236/azurestudent_mid.mp4",
+    "Description": "Ben je student en wil je gratis gebruik maken van Microsoft Azure? Dat kan en je hoeft enkel de uitleg in deze video te volgen om erachter te komen hoe je het moet doen. In deze video laat ik jullie n"
+  }
+]

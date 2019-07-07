@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "fd54400e-d766-4932-88a8-a2690180c882",
+    "DataApi": "/Entries(guid'fd54400e-d766-4932-88a8-a2690180c882')/",
+    "VideoPageLink": "/Series/WinSvr2012R2-Management-and-Automation/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/808b/bb7f4c99-8cd4-42a8-8706-d2ee00e6808b/WinSvr2012R2MgmtAutomationM02_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Management and Automation",
+    "VideoLength": "00:19:47",
+    "VideoTitle": "Windows Server 2012 R2 Server Management and Automation: (02) Simplify Your Routine Tasks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-04T21:26:06.3905645Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/808b/bb7f4c99-8cd4-42a8-8706-d2ee00e6808b/WinSvr2012R2MgmtAutomationM02_mid.mp4",
+    "Description": "This module details updates to Windows PowerShell and how it can be utilized within Windows Server 2012 R2 to provide greater ease of use, extensive coverage, and greater resiliency. [00:31] - Simplif"
+  },
+  {
+    "VideoId": "794aab33-a265-44a9-9f01-a26901810950",
+    "DataApi": "/Entries(guid'794aab33-a265-44a9-9f01-a26901810950')/",
+    "VideoPageLink": "/Series/WinSvr2012R2-Management-and-Automation/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b5be/21dc0d5e-43aa-4419-b4a1-26c6ef5bb5be/WinSvr2012R2MgmtAutomationM03_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Management and Automation",
+    "VideoLength": "00:17:18",
+    "VideoTitle": "Windows Server 2012 R2 Server Management and Automation: (03) Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-04T21:26:44.0359182Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b5be/21dc0d5e-43aa-4419-b4a1-26c6ef5bb5be/WinSvr2012R2MgmtAutomationM03_mid.mp4",
+    "Description": "This module introduces deployment options, methods, and desired state configurations in detail to provide a better understanding of what the deployment process looks like and the choices available. [0"
+  },
+  {
+    "VideoId": "6f2f3387-8d85-497d-8593-a269018155cc",
+    "DataApi": "/Entries(guid'6f2f3387-8d85-497d-8593-a269018155cc')/",
+    "VideoPageLink": "/Series/WinSvr2012R2-Management-and-Automation/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d8b0/9fab898d-f82e-4f3d-844f-d322e901d8b0/WinSvr2012R2MgmtAutomationM04_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Management and Automation",
+    "VideoLength": "00:15:13",
+    "VideoTitle": "Windows Server 2012 R2 Server Management and Automation: (04) Multiserver Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-04T21:27:35.7877202Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d8b0/9fab898d-f82e-4f3d-844f-d322e901d8b0/WinSvr2012R2MgmtAutomationM04_mid.mp4",
+    "Description": "This module provides information regarding the Multiserver Management capabilities within Server Manager and the ecosystem provided within standard base management and above. A detailed overview of th"
+  }
+]

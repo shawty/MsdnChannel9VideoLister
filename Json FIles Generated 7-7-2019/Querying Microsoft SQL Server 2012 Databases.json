@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "ae3fad4c-aadc-458b-8ee3-a24400024a21",
+    "DataApi": "/Entries(guid'ae3fad4c-aadc-458b-8ee3-a24400024a21')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f59c/533d1255-54c7-4677-8b98-c7d0bf50f59c/QueryingSQLM02_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:32:14",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (02) Advanced SELECT Statements",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:19:39.2783367Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f59c/533d1255-54c7-4677-8b98-c7d0bf50f59c/QueryingSQLM02_mid.mp4",
+    "Description": "This module describes DISTINCT, aliases, scalar functions and CASE, using JOIN and MERGE; filtering and sorting data, and NULL values. [00:59] - Advanced SELECT Clauses[10:13] - Query Multiple Tables "
+  },
+  {
+    "VideoId": "82eeb0f1-4ea0-42e9-ac69-a24400029297",
+    "DataApi": "/Entries(guid'82eeb0f1-4ea0-42e9-ac69-a24400029297')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b281/40a12427-5792-478a-adf1-308d9fc0b281/QueryingSQLM03_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:39:54",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (03) SQL Server Data Types and Functions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:20:02.3121442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b281/40a12427-5792-478a-adf1-308d9fc0b281/QueryingSQLM03_mid.mp4",
+    "Description": "This module introduces data types, data type usage, converting data types, and understanding SQL Server function types. [01:34] - Introduce data types[11:11] - Character data types[15:45] - Date and T"
+  },
+  {
+    "VideoId": "7dc7b7f7-a183-4f53-9c3d-a2440002f7bb",
+    "DataApi": "/Entries(guid'7dc7b7f7-a183-4f53-9c3d-a2440002f7bb')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/576c/bdaab3ed-0a49-454b-8ee5-cf94066c576c/QueryingSQLM04_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:41:53",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (04) Grouping and Aggregating Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:20:23.1168358Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/576c/bdaab3ed-0a49-454b-8ee5-cf94066c576c/QueryingSQLM04_mid.mp4",
+    "Description": "In this module you'll learn about aggregate functions, GROUP BY and HAVING clauses, and subqueries; self-contained, correlated and EXISTS; views, and inline-table valued functions, and derived tables."
+  },
+  {
+    "VideoId": "599456d6-de71-445b-9905-a244000341b2",
+    "DataApi": "/Entries(guid'599456d6-de71-445b-9905-a244000341b2')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6002/4b28dfff-42c6-4d5a-a68c-b124bc226002/QueryingSQLM05_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:35:55",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (05) SET Operators Grouping and Windows Functions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:20:54.3112261Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6002/4b28dfff-42c6-4d5a-a68c-b124bc226002/QueryingSQLM05_mid.mp4",
+    "Description": "In this module you'll find out about SET operators, Windows functions, and GROUPING sets (PIVOT, UNPIVOT, CUBE, ROLLUP). [02:11] - SET Operators[08:22] - Window Functions[21:20] - Grouping SetsFull co"
+  },
+  {
+    "VideoId": "6d1d5340-bae1-41ae-9b4b-a244000391f3",
+    "DataApi": "/Entries(guid'6d1d5340-bae1-41ae-9b4b-a244000391f3')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b474/031ca789-e6fe-41cb-8f60-5f992458b474/QueryingSQLM06_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:39:37",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (06) Modifying Data in SQL Server",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:21:10.1208235Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b474/031ca789-e6fe-41cb-8f60-5f992458b474/QueryingSQLM06_mid.mp4",
+    "Description": "This module covers INSERT, UPDATE, and DELETE statements, and the use of defaults, constraints, and triggers, and OUTPUT. [01:32] - DML Statements[22:44] - Working with defaults, constraints and trigg"
+  },
+  {
+    "VideoId": "6553c09d-ff3a-4eed-8242-a2440003d071",
+    "DataApi": "/Entries(guid'6553c09d-ff3a-4eed-8242-a2440003d071')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/469c/5df645ac-7ba9-4797-8ebf-2d4f95f9469c/QueryingSQLM07_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:51:09",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (07) Programming with T-SQL",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:21:33.8105488Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/469c/5df645ac-7ba9-4797-8ebf-2d4f95f9469c/QueryingSQLM07_mid.mp4",
+    "Description": "In this module, you'll learn about using T-SQL programming elements, implementing error handling, and understanding and implementing transactions. [01:13] - Introducing T-SQL[08:19] - Control of Flow "
+  },
+  {
+    "VideoId": "56c2b487-7df9-44f7-b30e-a24400040e84",
+    "DataApi": "/Entries(guid'56c2b487-7df9-44f7-b30e-a24400040e84')/",
+    "VideoPageLink": "/Series/Querying-SQL-Server-2012/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9da3/b2365897-926c-478e-bc18-3a6043029da3/QueryingSQLM08_960.jpg",
+    "ShowName": "Querying Microsoft SQL Server 2012 Databases",
+    "VideoLength": "00:49:22",
+    "VideoTitle": "Querying Microsoft SQL Server 2012 Databases: (08) Retrieving SQL Metadata and Improving SQL Performance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-25T05:21:56.6039515Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9da3/b2365897-926c-478e-bc18-3a6043029da3/QueryingSQLM08_mid.mp4",
+    "Description": "This module explains querying system catalogs and dynamic management views, creating and executing stored procedures, and improving SQL Server query performance. [03:30] - Querying system catalogs and"
+  }
+]

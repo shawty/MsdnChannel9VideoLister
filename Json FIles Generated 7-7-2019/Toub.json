@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ccbefbc5-18d5-4a95-981b-9de90187d37e",
+    "DataApi": "/Entries(guid'ccbefbc5-18d5-4a95-981b-9de90187d37e')/",
+    "VideoPageLink": "/Blogs/Toub/Stephen-Toub-Parallel-Patterns-using-NET-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8378/568378/ParallelPatterns2010EngineeringForum_512_ch9.png",
+    "ShowName": "Toub",
+    "VideoLength": "00:47:41",
+    "VideoTitle": "Stephen Toub - Implementing Parallel Patterns using .NET 4",
+    "Author": "Stephen Toub",
+    "UtcDateTimePublished": "2010-08-20T15:14:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8378/568378/ParallelPatterns2010EngineeringForum_ch9.mp4",
+    "Description": "Stephen Toub presents on implementing parallel patterns using .NET 4.  This 45-minute presentation's material is pulled from Stephen's\n\nparallel patterns paper. "
+  }
+]

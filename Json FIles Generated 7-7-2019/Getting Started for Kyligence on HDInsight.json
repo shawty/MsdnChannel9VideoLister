@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ff14f9cf-6e66-4a9a-b004-a7c2005a0606",
+    "DataApi": "/Entries(guid'ff14f9cf-6e66-4a9a-b004-a7c2005a0606')/",
+    "VideoPageLink": "/Shows/Getting-Started-for-Kyligence-on-HDInsight/Getting-Started-to-Use-Kyligence-on-HDInsight",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4636/6ad87e81-ac84-46e3-a890-8e038f0e4636/KyligenceGettingStarted_960.jpg",
+    "ShowName": "Getting Started for Kyligence on HDInsight",
+    "VideoLength": "00:08:04",
+    "VideoTitle": "Getting Started to Use Kyligence on HDInsight",
+    "Author": "Xiaoyong Zhu",
+    "UtcDateTimePublished": "2017-08-01T17:29:52.5765703Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5f9d/ad78773e-7b12-475b-9351-00816e765f9d/KyligenceGettingStarted_mid.mp4",
+    "Description": "In resource-intensive systems, even though SQL on Hadoop is being improved constantly, queries will compete for runtime resources and it takes hours to return when the work load is high. SQL on Hadoop"
+  }
+]

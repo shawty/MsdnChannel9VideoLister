@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "13293e0e-82ad-4857-bf6e-a64d015286f1",
+    "DataApi": "/Entries(guid'13293e0e-82ad-4857-bf6e-a64d015286f1')/",
+    "VideoPageLink": "/blogs/Mustafa-Kasap/How-to-Setup-the-Azure-Usage--Billing-Portal",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2221/b5b39249-acd2-4bad-98a0-a58bf0052221/UsageAndBilling_960.jpg",
+    "ShowName": "Mustafa Kasap",
+    "VideoLength": "00:20:09",
+    "VideoTitle": "How to Setup the Azure Usage & Billing Portal",
+    "Author": "Chris Risner",
+    "UtcDateTimePublished": "2016-07-25T20:42:25.3518339Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2221/b5b39249-acd2-4bad-98a0-a58bf0052221/UsageAndBilling_mid.mp4",
+    "Description": "In this video we will be describing how to setup the Azure Usage &amp; Billing Portal from scratch. We will use a brand new operating system installation and setup the AUBP system on it with step by s"
+  }
+]

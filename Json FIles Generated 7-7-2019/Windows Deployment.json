@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "6a5b9c3e-0619-4881-9505-a67401807722",
+    "DataApi": "/Entries(guid'6a5b9c3e-0619-4881-9505-a67401807722')/",
+    "VideoPageLink": "/Blogs/Windows-Deployment/rs1deployment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3dee/c95dc220-2e5f-4b0b-9de3-ee8078ec3dee/RS1ODR201608_960.jpg",
+    "ShowName": "Windows Deployment",
+    "VideoLength": "00:58:55",
+    "VideoTitle": "Windows 10 Anniversary Update Deployment Training for System Builders",
+    "Author": "minab",
+    "UtcDateTimePublished": "2016-11-01T16:15:30.5442785Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3dee/c95dc220-2e5f-4b0b-9de3-ee8078ec3dee/RS1ODR201608_mid.mp4",
+    "Description": "Are you a System Builder who has already created customized Windows 10 images? Want to see what is new in the Windows 10 Anniversary update? How about a new solution for customizing a Windows 10 image"
+  },
+  {
+    "VideoId": "31935681-2734-4f12-939d-a613016ac45a",
+    "DataApi": "/Entries(guid'31935681-2734-4f12-939d-a613016ac45a')/",
+    "VideoPageLink": "/Blogs/Windows-Deployment/Windows10DeploymentTrainingforODR",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/177b/d4537b4c-dbac-4e5a-b358-b751be16177b/win10DeploymentODR_960.jpg",
+    "ShowName": "Windows Deployment",
+    "VideoLength": "00:47:20",
+    "VideoTitle": "Windows 10 Deployment Training for System Builders",
+    "Author": "minab",
+    "UtcDateTimePublished": "2016-06-02T18:33:35.4257984Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/177b/d4537b4c-dbac-4e5a-b358-b751be16177b/win10DeploymentODR_mid.mp4",
+    "Description": "Want to see how to build a PC with Windows 10 customized image pre-installed following Microsoft recommended steps and procedures? Here is a comprehensive look into deploying customized Windows 10 ima"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "524ce22c-6b40-4225-a1b1-a292013a75eb",
+    "DataApi": "/Entries(guid'524ce22c-6b40-4225-a1b1-a292013a75eb')/",
+    "VideoPageLink": "/Series/What-s-New-in-Windows-8-1-Security/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e2b9/3b4baa56-c04a-4531-8144-6ed79f0ce2b9/WhatsNewWin81SecurityM02_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 Security",
+    "VideoLength": "00:19:21",
+    "VideoTitle": "Whatâ€™s New in Windows 8.1 Security: (02) Malware Resistance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-12T23:23:24.2566248Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e2b9/3b4baa56-c04a-4531-8144-6ed79f0ce2b9/WhatsNewWin81SecurityM02_mid.mp4",
+    "Description": "Find out more about the biggest area of investment in Windows 8.1â€”malware resistance. Learn about improved and new security features, such as UEFI, TPM, Trusted and Measured Boot, ASLR, DEP, App Conta"
+  },
+  {
+    "VideoId": "b4b694a2-9df5-484a-a7c5-a292013ac960",
+    "DataApi": "/Entries(guid'b4b694a2-9df5-484a-a7c5-a292013ac960')/",
+    "VideoPageLink": "/Series/What-s-New-in-Windows-8-1-Security/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8189/4998c8c1-7cc1-4062-b465-004c4a288189/WhatsNewWin81SecurityM03_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 Security",
+    "VideoLength": "00:26:11",
+    "VideoTitle": "Whatâ€™s New in Windows 8.1 Security: (03) Windows Defender",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-12T23:23:49.0202612Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8189/4998c8c1-7cc1-4062-b465-004c4a288189/WhatsNewWin81SecurityM03_mid.mp4",
+    "Description": "This module expands upon Module 2 by reviewing Windows 8.1 features. Specifically, it addresses mitigating the security threat landscape for Windows 8.1 computers during the boot process, immediately "
+  },
+  {
+    "VideoId": "ed2d925c-3f27-475d-a6f3-a292013b3a28",
+    "DataApi": "/Entries(guid'ed2d925c-3f27-475d-a6f3-a292013b3a28')/",
+    "VideoPageLink": "/Series/What-s-New-in-Windows-8-1-Security/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/35ba/1facbab5-eab3-4dff-9c14-ec32ce9735ba/WhatsNewWin81SecurityM04_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 Security",
+    "VideoLength": "01:09:46",
+    "VideoTitle": "Whatâ€™s New in Windows 8.1 Security: (04) Modern Access Control",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-13T00:26:23.3389135Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/35ba/1facbab5-eab3-4dff-9c14-ec32ce9735ba/WhatsNewWin81SecurityM04_mid.mp4",
+    "Description": "Gain a deep understanding of the security goals for Windows 8.1 and the new feature area of &quot;Modern Access Control.&quot; Learn about identity and access control features, such as biometrics, mul"
+  }
+]

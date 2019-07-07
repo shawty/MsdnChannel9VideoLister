@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "43b30b00-72e1-4284-b22f-a20c014e2ec0",
+    "DataApi": "/Entries(guid'43b30b00-72e1-4284-b22f-a20c014e2ec0')/",
+    "VideoPageLink": "/Series/IntroToAD/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aa13/09f15882-1bc4-4384-8fbf-3b412ae5aa13/IntroToADM02_960.jpg",
+    "ShowName": "Microsoft Active Directory: An Introduction",
+    "VideoLength": "00:53:51",
+    "VideoTitle": "Microsoft Active Directory: An Introduction: (02) Active Directory Domain Services (DS)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-07T20:02:51.8849183Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aa13/09f15882-1bc4-4384-8fbf-3b412ae5aa13/IntroToADM02_mid.mp4",
+    "Description": "This module provides an overview of Active Directory Domain Services in Windows Server. Full course outline: Mod 01: Introduction to Active DirectoryMod 02: Active Directory Domain Services (DS)Mod 03"
+  },
+  {
+    "VideoId": "e27c47ae-803c-4faa-b5a6-a20c014ef7de",
+    "DataApi": "/Entries(guid'e27c47ae-803c-4faa-b5a6-a20c014ef7de')/",
+    "VideoPageLink": "/Series/IntroToAD/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/66e9/57bf7281-cc7f-42f3-880c-d626d93766e9/IntroToADM03_960.jpg",
+    "ShowName": "Microsoft Active Directory: An Introduction",
+    "VideoLength": "00:47:39",
+    "VideoTitle": "Microsoft Active Directory: An Introduction: (03) Active Directory Certificate Services (CS)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-07T20:03:18.2035776Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/66e9/57bf7281-cc7f-42f3-880c-d626d93766e9/IntroToADM03_mid.mp4",
+    "Description": "This module provides an overview of Active Directory Certificate Services in Windows Server. Full course outline: Mod 01: Introduction to Active DirectoryMod 02: Active Directory Domain Services (DS)M"
+  },
+  {
+    "VideoId": "07c56407-2fb9-47a6-b2d6-a20c014f45fb",
+    "DataApi": "/Entries(guid'07c56407-2fb9-47a6-b2d6-a20c014f45fb')/",
+    "VideoPageLink": "/Series/IntroToAD/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1000/209c7b05-0de4-47b7-8b4f-9b06d23f1000/IntroToADM04_960.jpg",
+    "ShowName": "Microsoft Active Directory: An Introduction",
+    "VideoLength": "00:20:01",
+    "VideoTitle": "Microsoft Active Directory: An Introduction: (04) Active Directory Federation Services (FS)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-07T20:03:45.0765125Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1000/209c7b05-0de4-47b7-8b4f-9b06d23f1000/IntroToADM04_mid.mp4",
+    "Description": "This module provides an overview of Active Directory Federation Services in Windows Server. [00:34] - AD FS Overview[05:40] - AD FS Deployment Scenarios[09:15] - Configuring AD FS ComponentsFull cours"
+  },
+  {
+    "VideoId": "81cfc9b6-27ec-4811-bfe2-a20c014f8747",
+    "DataApi": "/Entries(guid'81cfc9b6-27ec-4811-bfe2-a20c014f8747')/",
+    "VideoPageLink": "/Series/IntroToAD/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/469e/06db0899-9208-4e2a-99dc-22571379469e/IntroToADM05_960.jpg",
+    "ShowName": "Microsoft Active Directory: An Introduction",
+    "VideoLength": "00:23:47",
+    "VideoTitle": "Microsoft Active Directory: An Introduction: (05) Active Directory Rights Management Services (RMS)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-07T20:04:11.7923906Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/469e/06db0899-9208-4e2a-99dc-22571379469e/IntroToADM05_mid.mp4",
+    "Description": "This module provides an overview of Active Directory Rights Management Services in Windows Server. [00:42] - AM RMS Overview[04:40] - Understanding AD RMS[13:49] - Managing AD RMSFull course outline: "
+  },
+  {
+    "VideoId": "1f7ff342-d38a-4038-947e-a20c014fc5f5",
+    "DataApi": "/Entries(guid'1f7ff342-d38a-4038-947e-a20c014fc5f5')/",
+    "VideoPageLink": "/Series/IntroToAD/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ba83/cc2cad93-c7ed-40c3-9d61-897de749ba83/IntroToADM06_960.jpg",
+    "ShowName": "Microsoft Active Directory: An Introduction",
+    "VideoLength": "00:27:38",
+    "VideoTitle": "Microsoft Active Directory: An Introduction: (06) Active Directory Lightweight Directory Services (LDS)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-08-07T20:04:32.5817322Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ba83/cc2cad93-c7ed-40c3-9d61-897de749ba83/IntroToADM06_mid.mp4",
+    "Description": "This module provides an overview of Active Directory Lightweight Directory Services in Windows Server. [00:43] - AD LDS Overview[05:26] - Implementing and Administering AD LDS[22:02] - Implementing AD"
+  }
+]

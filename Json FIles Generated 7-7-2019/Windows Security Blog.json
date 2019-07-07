@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "08bd417c-e8d5-4292-9ab7-a786005c5e89",
+    "DataApi": "/Entries(guid'08bd417c-e8d5-4292-9ab7-a786005c5e89')/",
+    "VideoPageLink": "/Shows/Windows-Security-Blog/PLATINUM-activity-group-file-transfer-method-using-Intel-AMT-SOL",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/78cf/646930d5-711f-41af-99df-b83cf5f478cf/platinumdemo_960.jpg",
+    "ShowName": "Windows Security Blog",
+    "VideoLength": "00:02:56",
+    "VideoTitle": "PLATINUM activity group file-transfer method using Intel AMT SOL",
+    "Author": "msftmmpc",
+    "UtcDateTimePublished": "2017-06-07T12:42:44.0591558Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/78cf/646930d5-711f-41af-99df-b83cf5f478cf/platinumdemo_mid.mp4",
+    "Description": "This video demonstrates how the file-transfer tool associated with the PLATINUM activity group can be used by attackers to place files in compromised computers with Intel AMT SOL. This can be done eve"
+  }
+]

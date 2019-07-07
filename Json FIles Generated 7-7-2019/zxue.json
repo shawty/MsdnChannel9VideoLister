@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6bb900a9-69e9-40aa-a283-9dec00144353",
+    "DataApi": "/Entries(guid'6bb900a9-69e9-40aa-a283-9dec00144353')/",
+    "VideoPageLink": "/Blogs/zxue/Discussion-on-Application-Management-with-AVIcode-CTO",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8/6/6/9/4/2/ApplicationManagementAVIcode_512_ch9.png",
+    "ShowName": "zxue",
+    "VideoLength": "00:15:37",
+    "VideoTitle": "Discussion on Application Management with AVIcode CTO",
+    "Author": "zxue",
+    "UtcDateTimePublished": "2008-03-17T22:05:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8/6/6/9/4/2/ApplicationManagementAVIcode_ch9.mp4",
+    "Description": "\nZhiming Xue &quot;Dr. Z&quot; interviews Victor Mushkatin, CTO of AVIcode, a Microsoft partner that has developed an application management solution based on the .NET framework and Operations Manage"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "eb32d78f-336c-4191-be69-a4d7011ce534",
+    "DataApi": "/Entries(guid'eb32d78f-336c-4191-be69-a4d7011ce534')/",
+    "VideoPageLink": "/Blogs/Cool-Tech-Videos/WITCH-Chapter-0-Cry-TechArt-demo-by-Square-Enix",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ef86/107ee569-c25c-48d0-a356-a2b6e8f4ef86/WitchChapter0_960.jpg",
+    "ShowName": "Cool Tech Videos",
+    "VideoLength": "00:01:37",
+    "VideoTitle": "WITCH Chapter 0 [Cry] - Tech&Art demo by Square Enix",
+    "Author": "Vlad Kolesnikov",
+    "UtcDateTimePublished": "2015-07-17T21:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ef86/107ee569-c25c-48d0-a356-a2b6e8f4ef86/WitchChapter0_mid.mp4",
+    "Description": "Many tech demos end in tears. Square Enix's moving demo during the keynote at Microsoft's BUILD 2015 developer onference might be the first where that's exactly the point. In collaboration with NVIDIA"
+  }
+]

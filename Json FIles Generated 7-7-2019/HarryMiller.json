@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5f3d21ba-e780-4fa5-8be6-9dec001d7703",
+    "DataApi": "/Entries(guid'5f3d21ba-e780-4fa5-8be6-9dec001d7703')/",
+    "VideoPageLink": "/Blogs/HarryMiller/Word-Add-ins-Part-2-When-Add-ins-Collide",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ea3b145d-99ff-4142-923f-9dec001d7b05",
+    "DataApi": "/Entries(guid'ea3b145d-99ff-4142-923f-9dec001d7b05')/",
+    "VideoPageLink": "/Blogs/HarryMiller/Word-Add-ins-Part-1-Clear-the-Ribbon-Except-for-My-Controls",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "5b7b2aaf-1e99-4e3b-9fd7-9dec001d7e1a",
+    "DataApi": "/Entries(guid'5b7b2aaf-1e99-4e3b-9fd7-9dec001d7e1a')/",
+    "VideoPageLink": "/Blogs/HarryMiller/Activating-a-Custom-Tab-on-the-Ribbon-When-a-Document-Is-Opened",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/8/4/4/3/2/4/ActivateTabOnTheRibbon_large_ch9.jpg",
+    "ShowName": "HarryMiller",
+    "VideoLength": "00:01:08",
+    "VideoTitle": "Activating a Custom Tab on the Ribbon When a Document Is Opened",
+    "Author": "Harry Miller",
+    "UtcDateTimePublished": "2008-08-27T19:34:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/8/4/4/3/2/4/ActivateTabOnTheRibbon_ch9.mp4",
+    "Description": "\nA lot of people seem to want to make a certain tab or control on the Ribbon active programmatically using VSTO. It makes sense that a developer would want to select the custom tab if the controls th"
+  },
+  {
+    "VideoId": "3ce17389-f35c-4ac4-8e37-9dec001d8226",
+    "DataApi": "/Entries(guid'3ce17389-f35c-4ac4-8e37-9dec001d8226')/",
+    "VideoPageLink": "/Blogs/HarryMiller/Turn-Off-Automatic-Conversion-of-Office-2003-Projects-into-2007-Projects",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "4657207f-942c-40ef-984a-9dec001d8523",
+    "DataApi": "/Entries(guid'4657207f-942c-40ef-984a-9dec001d8523')/",
+    "VideoPageLink": "/Blogs/HarryMiller/Create-an-Excel-Shortcut-Menu-That-Writes-Selections-to-a-Text-File",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/7/9/9/2/2/4/ExcelShortcutMenu_large_ch9.jpg",
+    "ShowName": "HarryMiller",
+    "VideoLength": "00:03:50",
+    "VideoTitle": "Create an Excel Shortcut Menu That Writes Selections to a Text File",
+    "Author": "Harry Miller",
+    "UtcDateTimePublished": "2008-08-23T00:25:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/7/9/9/2/2/4/ExcelShortcutMenu_ch9.mp4",
+    "Description": "\nIt doesn't take much code to add a command to a shortcut menu in Excel, but the menu objects have strange names so it's not intuitive, to me at least. The trickiest part is just sorting out how it's"
+  }
+]

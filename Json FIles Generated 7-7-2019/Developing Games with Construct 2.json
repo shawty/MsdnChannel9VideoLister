@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "a477c003-470b-4aed-bff3-a3b10110213c",
+    "DataApi": "/Entries(guid'a477c003-470b-4aed-bff3-a3b10110213c')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Construct-2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c05/c77f3642-75df-4abd-b12b-ec1a4abe3c05/DevelopingGamesWithConstruct2M02_960.jpg",
+    "ShowName": "Developing Games with Construct 2",
+    "VideoLength": "00:53:25",
+    "VideoTitle": "Developing Games with Construct 2: (02) Expanding Your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-25T20:22:03.7252692Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c05/c77f3642-75df-4abd-b12b-ec1a4abe3c05/DevelopingGamesWithConstruct2M02_mid.mp4",
+    "Description": "Take your skills from Module 1, and expand them by adding features, such as additional behaviors, permanent storage for high scores, and other screens. [03:57] - More Behaviours[17:19] - Functions[28:"
+  },
+  {
+    "VideoId": "4c205457-cadf-4db2-9ef7-a3b101105f29",
+    "DataApi": "/Entries(guid'4c205457-cadf-4db2-9ef7-a3b101105f29')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Construct-2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/10b2/53aec336-2e11-48f0-aa7b-9a2cef6610b2/DevelopingGamesWithConstruct2M03_960.jpg",
+    "ShowName": "Developing Games with Construct 2",
+    "VideoLength": "00:51:58",
+    "VideoTitle": "Developing Games with Construct 2: (03) Exploring Construct 2 Templates",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-25T20:25:58.6750397Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/10b2/53aec336-2e11-48f0-aa7b-9a2cef6610b2/DevelopingGamesWithConstruct2M03_mid.mp4",
+    "Description": "Learn to leverage existing Construct 2 templates to build and customize your own version of Flappy Bird, an infinite jumper/runner, and a trivia game. [04:23] - Inspecting/Modifying a Template[13:46] "
+  },
+  {
+    "VideoId": "09833925-6ee2-4f37-9779-a3b10110973b",
+    "DataApi": "/Entries(guid'09833925-6ee2-4f37-9779-a3b10110973b')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Construct-2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8a4b/5dc694f1-5ae0-4f90-8f08-ce70caf08a4b/DevelopingGamesWithConstruct2M04_960.jpg",
+    "ShowName": "Developing Games with Construct 2",
+    "VideoLength": "00:49:19",
+    "VideoTitle": "Developing Games with Construct 2: (04) Exporting and Publishing Your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-25T20:26:19.4681753Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8a4b/5dc694f1-5ae0-4f90-8f08-ce70caf08a4b/DevelopingGamesWithConstruct2M04_mid.mp4",
+    "Description": "Take your finished Construct 2 game, and learn to export for Windows Phone and Windows 8. Then, open up Visual Studio to create your app package to submit to the two stores. [03:34] - Exporting Your G"
+  }
+]

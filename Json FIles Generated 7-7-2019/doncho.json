@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "42f64d4b-f010-463f-90e1-9dea0116c2d3",
+    "DataApi": "/Entries(guid'42f64d4b-f010-463f-90e1-9dea0116c2d3')/",
+    "VideoPageLink": "/Blogs/doncho/Creating-a-Word-2007-File-from-Scratch",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "867f0949-b980-4001-9ed0-9dea0116c763",
+    "DataApi": "/Entries(guid'867f0949-b980-4001-9ed0-9dea0116c763')/",
+    "VideoPageLink": "/Blogs/doncho/Office-Open-XML-enables-round-trip-interoperability-between-Word-2007-and-Mindjets-MindManager",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

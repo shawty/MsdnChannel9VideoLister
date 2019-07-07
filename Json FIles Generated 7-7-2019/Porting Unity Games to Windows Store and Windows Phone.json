@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "93a92408-4ed8-4b5c-a88f-a3a9011f0753",
+    "DataApi": "/Entries(guid'93a92408-4ed8-4b5c-a88f-a3a9011f0753')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-Store-and-Windows-Phone/02a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d1e2/43d05143-7a9d-4d23-8f85-ec649502d1e2/PortingUnityGamesWinPhoneWinStoreM02a_960.jpg",
+    "ShowName": "Porting Unity Games to Windows Store and Windows Phone",
+    "VideoLength": "00:50:39",
+    "VideoTitle": "Porting Unity Games to Windows Store and Windows Phone: (02a) Porting Unity Games to Windows, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-17T22:34:07.693872Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d1e2/43d05143-7a9d-4d23-8f85-ec649502d1e2/PortingUnityGamesWinPhoneWinStoreM02a_mid.mp4",
+    "Description": "Gain a greater understanding of feature detection for hardware and of design patterns for optimal UX, along with run-time differences and code reuse. Walk through the differences you might encounter, "
+  },
+  {
+    "VideoId": "2555538c-deda-49ff-bbcb-a3a9011f4540",
+    "DataApi": "/Entries(guid'2555538c-deda-49ff-bbcb-a3a9011f4540')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-Store-and-Windows-Phone/02b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c923/27d86809-9b7d-46ea-b793-85030f9cc923/PortingUnityGamesWinPhoneWinStoreM02b_960.jpg",
+    "ShowName": "Porting Unity Games to Windows Store and Windows Phone",
+    "VideoLength": "00:50:31",
+    "VideoTitle": "Porting Unity Games to Windows Store and Windows Phone: (02b) Porting Unity Games to Windows, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-17T22:34:27.1934414Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c923/27d86809-9b7d-46ea-b793-85030f9cc923/PortingUnityGamesWinPhoneWinStoreM02b_mid.mp4",
+    "Description": "Gain a greater understanding of feature detection for hardware and of design patterns for optimal UX, along with run-time differences and code reuse. Walk through the differences you might encounter, "
+  },
+  {
+    "VideoId": "d4d1763e-68d6-4caa-8275-a3a9011f8079",
+    "DataApi": "/Entries(guid'd4d1763e-68d6-4caa-8275-a3a9011f8079')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-Store-and-Windows-Phone/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/11bb/7388b1cf-200d-4c9c-8a99-1f1ee04e11bb/PortingUnityGamesWinPhoneWinStoreM03_960.jpg",
+    "ShowName": "Porting Unity Games to Windows Store and Windows Phone",
+    "VideoLength": "01:00:41",
+    "VideoTitle": "Porting Unity Games to Windows Store and Windows Phone: (03) Native Integration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-17T22:34:47.152786Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/11bb/7388b1cf-200d-4c9c-8a99-1f1ee04e11bb/PortingUnityGamesWinPhoneWinStoreM03_mid.mp4",
+    "Description": "Consider adding live tiles, a beautiful splash screen, window resizing support, notifications, and more, to create a game that stands out. Get a look at the features that give you opportunities to inc"
+  },
+  {
+    "VideoId": "9da96f1b-9988-4d4e-a429-a3a9011fbc3a",
+    "DataApi": "/Entries(guid'9da96f1b-9988-4d4e-a429-a3a9011fbc3a')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-Store-and-Windows-Phone/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e1bb/c9f6e07d-951f-44c3-a262-e2b237d1e1bb/PortingUnityGamesWinPhoneWinStoreM04_960.jpg",
+    "ShowName": "Porting Unity Games to Windows Store and Windows Phone",
+    "VideoLength": "00:32:31",
+    "VideoTitle": "Porting Unity Games to Windows Store and Windows Phone: (04) Optimizations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-17T22:35:06.0448131Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e1bb/c9f6e07d-951f-44c3-a262-e2b237d1e1bb/PortingUnityGamesWinPhoneWinStoreM04_mid.mp4",
+    "Description": "Find out about tools and patterns you can use to rapidly create a high-quality game, and explore debugging and optimizations. Full course outline: Mod 01: Getting StartedMod 02a: Porting Unity Games t"
+  },
+  {
+    "VideoId": "bbea9d52-56a7-4bf3-a908-a3a9011ff7a5",
+    "DataApi": "/Entries(guid'bbea9d52-56a7-4bf3-a908-a3a9011ff7a5')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-Store-and-Windows-Phone/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4816/999b413f-cc61-4682-898b-0dffd6064816/PortingUnityGamesWinPhoneWinStoreM05_960.jpg",
+    "ShowName": "Porting Unity Games to Windows Store and Windows Phone",
+    "VideoLength": "00:38:46",
+    "VideoTitle": "Porting Unity Games to Windows Store and Windows Phone: (05) Monetization & Packaging",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-17T22:35:24.7499557Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4816/999b413f-cc61-4682-898b-0dffd6064816/PortingUnityGamesWinPhoneWinStoreM05_mid.mp4",
+    "Description": "Check out the options for monetizing your game, such as trials, ads, and in-app purchases. Get pragmatic, data-driven tips on selecting a monetization model, and review submission and certification pr"
+  },
+  {
+    "VideoId": "05f46f7b-9e7f-40c3-bef1-a3a90120349a",
+    "DataApi": "/Entries(guid'05f46f7b-9e7f-40c3-bef1-a3a90120349a')/",
+    "VideoPageLink": "/Series/Porting-Unity-Games-to-Windows-Store-and-Windows-Phone/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1b2f/f2a85812-2247-4223-a2da-715fe90e1b2f/PortingUnityGamesWinPhoneWinStoreM06_960.jpg",
+    "ShowName": "Porting Unity Games to Windows Store and Windows Phone",
+    "VideoLength": "00:21:11",
+    "VideoTitle": "Porting Unity Games to Windows Store and Windows Phone: (06) Programs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-17T22:35:43.6673307Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1b2f/f2a85812-2247-4223-a2da-715fe90e1b2f/PortingUnityGamesWinPhoneWinStoreM06_mid.mp4",
+    "Description": "Explore special offers available to Unity developers to get free hardware for testing, assets, advertisement, and many other benefits. Learn how Microsoft can help you succeed in Windows. Full course "
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "e2ceacf6-0540-4eae-a906-a40000193568",
+    "DataApi": "/Entries(guid'e2ceacf6-0540-4eae-a906-a40000193568')/",
+    "VideoPageLink": "/Series/Upgrading-to-SharePoint-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/950d/fa73df93-d019-4056-96ab-52d4e50c950d/487UpgradingToSharepointServer2013M02_960.jpg",
+    "ShowName": "Upgrading to SharePoint 2013",
+    "VideoLength": "00:15:13",
+    "VideoTitle": "Upgrading to SharePoint 2013: (02) Upgrade Process Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T19:02:46.2807651Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/950d/fa73df93-d019-4056-96ab-52d4e50c950d/487UpgradingToSharepointServer2013M02_mid.mp4",
+    "Description": "Take a detailed look at each of the steps in the SharePoint upgrade process model, including creating a SharePoint 2013 farm, copying databases to the new farm, upgrading service applications, upgradi"
+  },
+  {
+    "VideoId": "04f756db-7571-4ad7-b4cd-a400001982ce",
+    "DataApi": "/Entries(guid'04f756db-7571-4ad7-b4cd-a400001982ce')/",
+    "VideoPageLink": "/Series/Upgrading-to-SharePoint-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb49/71ed9a8c-5428-4dbb-9b2e-4dee9256cb49/487UpgradingToSharepointServer2013M03_960.jpg",
+    "ShowName": "Upgrading to SharePoint 2013",
+    "VideoLength": "00:21:31",
+    "VideoTitle": "Upgrading to SharePoint 2013: (03) Upgrade Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T19:03:12.2185076Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb49/71ed9a8c-5428-4dbb-9b2e-4dee9256cb49/487UpgradingToSharepointServer2013M03_mid.mp4",
+    "Description": "Take a detailed look at a web application database upgrade, including an examination of the corresponding process model, plus how to attach web app databases and to verify that they attached correctly"
+  },
+  {
+    "VideoId": "71f3d94a-4732-4834-8ada-a40000198e5d",
+    "DataApi": "/Entries(guid'71f3d94a-4732-4834-8ada-a40000198e5d')/",
+    "VideoPageLink": "/Series/Upgrading-to-SharePoint-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c72d/93ef5dad-ee62-4a4c-93d2-75ee7a0ec72d/487UpgradingToSharepointServer2013M04_960.jpg",
+    "ShowName": "Upgrading to SharePoint 2013",
+    "VideoLength": "00:17:57",
+    "VideoTitle": "Upgrading to SharePoint 2013: (04) Upgrade Site Collections",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T19:03:53.6075228Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c72d/93ef5dad-ee62-4a4c-93d2-75ee7a0ec72d/487UpgradingToSharepointServer2013M04_mid.mp4",
+    "Description": "Walk through upgrading site collections by examining â€‹the page-rendering process, system notifications on the status bar, site collection health checks, evaluating site options, and performing and ver"
+  },
+  {
+    "VideoId": "7ac2b35d-1c47-45bd-8881-a4000019bd4e",
+    "DataApi": "/Entries(guid'7ac2b35d-1c47-45bd-8881-a4000019bd4e')/",
+    "VideoPageLink": "/Series/Upgrading-to-SharePoint-2013/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/358c/e203ca17-0e5f-4c13-a163-c5a6fe51358c/487UpgradingToSharepointServer2013M05_960.jpg",
+    "ShowName": "Upgrading to SharePoint 2013",
+    "VideoLength": "00:10:57",
+    "VideoTitle": "Upgrading to SharePoint 2013: (05) Special Upgrade Processes",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-15T19:05:31.3078425Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/358c/e203ca17-0e5f-4c13-a163-c5a6fe51358c/487UpgradingToSharepointServer2013M05_mid.mp4",
+    "Description": "Get a look at the special processes for organizations upgrading to SharePoint 2013. For firms running SharePoint 2007, examine the five-step, two-upgrade process needed to make the transition to Share"
+  }
+]

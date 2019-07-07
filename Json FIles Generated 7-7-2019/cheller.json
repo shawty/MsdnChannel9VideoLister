@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6df8f880-006d-437a-bf96-9deb001ec859",
+    "DataApi": "/Entries(guid'6df8f880-006d-437a-bf96-9deb001ec859')/",
+    "VideoPageLink": "/Blogs/cheller/A-Look-at-the-NET-Micro-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/3/7/1/0/3/4/20080801NETMF_large_ch9.jpg",
+    "ShowName": "cheller",
+    "VideoLength": "00:37:13",
+    "VideoTitle": "A Look at the .NET Micro Framework",
+    "Author": "Catherine Heller",
+    "UtcDateTimePublished": "2008-10-14T08:18:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/3/7/1/0/3/4/20080801NETMF_ch9.mp4",
+    "Description": "\nBuilt from the ground up, the .NET Micro Framework is a platform for resource-constrained devices that extends Microsoftâ€™s embedded offering to smaller, simpler â€œsub-CEâ€  devices  (i.e. devices usin"
+  }
+]

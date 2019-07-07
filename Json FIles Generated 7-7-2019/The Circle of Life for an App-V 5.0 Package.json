@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "35576d40-b584-4cc0-8456-a3b800532d13",
+    "DataApi": "/Entries(guid'35576d40-b584-4cc0-8456-a3b800532d13')/",
+    "VideoPageLink": "/Series/The-Circle-of-Life-for-an-App-V-5-0-Package/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ae6/b16be4a7-063e-4952-9d4a-070e08118ae6/Mod2_960.jpg",
+    "ShowName": "The Circle of Life for an App-V 5.0 Package",
+    "VideoLength": "00:20:35",
+    "VideoTitle": "(Module 2) Change, Adapt and Update",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-17T00:46:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ae6/b16be4a7-063e-4952-9d4a-070e08118ae6/Mod2_mid.mp4",
+    "Description": "Managing a package in your environment through user changes, admin adaptation and the publishing of updates. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delive"
+  },
+  {
+    "VideoId": "1056969a-cd70-4392-bcec-a3b800534b34",
+    "DataApi": "/Entries(guid'1056969a-cd70-4392-bcec-a3b800534b34')/",
+    "VideoPageLink": "/Series/The-Circle-of-Life-for-an-App-V-5-0-Package/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9da4/413bec45-c034-4a54-90aa-91e5ef519da4/Mod3_960.jpg",
+    "ShowName": "The Circle of Life for an App-V 5.0 Package",
+    "VideoLength": "00:24:17",
+    "VideoTitle": "(Module 3) Connect, Integrate and Terminate",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-17T00:46:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9da4/413bec45-c034-4a54-90aa-91e5ef519da4/Mod3_mid.mp4",
+    "Description": "Connecting your package to other App-V packages, integrating it with the local platform and finally terminating it. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "8c58a385-3d71-4244-b400-a3b10161941a",
+    "DataApi": "/Entries(guid'8c58a385-3d71-4244-b400-a3b10161941a')/",
+    "VideoPageLink": "/Series/Public-cloud-and-the-IT-Pro-Some-Legal-Aspects/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/efc5/75285a2e-0e40-49b9-a82e-d1c0a082efc5/Mod2_960.jpg",
+    "ShowName": "Public Cloud and the IT Professional: The Legal Aspects",
+    "VideoLength": "00:18:21",
+    "VideoTitle": "(Module 2) Data Protection Legislation",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:01:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/efc5/75285a2e-0e40-49b9-a82e-d1c0a082efc5/Mod2_mid.mp4",
+    "Description": "Module two will cover the key component of The Golden Thread within Data protection legislation, and start to uncover what is at the heart of Data ProtectionThis video is part of the Microsoft Virtual"
+  },
+  {
+    "VideoId": "68bf05ac-c59c-4cdd-b4c7-a3b10161c37a",
+    "DataApi": "/Entries(guid'68bf05ac-c59c-4cdd-b4c7-a3b10161c37a')/",
+    "VideoPageLink": "/Series/Public-cloud-and-the-IT-Pro-Some-Legal-Aspects/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc64/a1ab0dd4-b393-47e8-87c9-d9371548fc64/Mod3_960.jpg",
+    "ShowName": "Public Cloud and the IT Professional: The Legal Aspects",
+    "VideoLength": "00:12:42",
+    "VideoTitle": "(Module 3) Privacy vs Security",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:01:07Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc64/a1ab0dd4-b393-47e8-87c9-d9371548fc64/Mod3_mid.mp4",
+    "Description": "With many thoughts and views of Privacy vs. Security, this module will outline the two categories, as well as how each should be addressed.This video is part of the Microsoft Virtual Academy (MVA). Th"
+  },
+  {
+    "VideoId": "e4a98a7b-69c7-46ca-8ab8-a3b10161effb",
+    "DataApi": "/Entries(guid'e4a98a7b-69c7-46ca-8ab8-a3b10161effb')/",
+    "VideoPageLink": "/Series/Public-cloud-and-the-IT-Pro-Some-Legal-Aspects/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0ee6/30c431ac-b5bb-424a-9b97-e050ef8b0ee6/Mod4_960.jpg",
+    "ShowName": "Public Cloud and the IT Professional: The Legal Aspects",
+    "VideoLength": "00:13:04",
+    "VideoTitle": "(Module 4) Role Players Under Legislation",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:01:08Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0ee6/30c431ac-b5bb-424a-9b97-e050ef8b0ee6/Mod4_mid.mp4",
+    "Description": "Within legislation, we need to understand what &amp; who the role players are within legislation. Module four will uncover what these particular roles are, as well as who would fall into which role ca"
+  },
+  {
+    "VideoId": "01ee8057-03fe-4844-8048-a3b1016222f4",
+    "DataApi": "/Entries(guid'01ee8057-03fe-4844-8048-a3b1016222f4')/",
+    "VideoPageLink": "/Series/Public-cloud-and-the-IT-Pro-Some-Legal-Aspects/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c2be/6b8dd79e-5735-46ea-b16d-83367b5ac2be/Mod5_960.jpg",
+    "ShowName": "Public Cloud and the IT Professional: The Legal Aspects",
+    "VideoLength": "00:22:32",
+    "VideoTitle": "(Module 5) Key Practical Issues",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:01:09Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c2be/6b8dd79e-5735-46ea-b16d-83367b5ac2be/Mod5_mid.mp4",
+    "Description": "Module five will start to address the practical issues IT Professionals may face with regard to Data sovereignty, Data mining, Transparency &amp; Security. This video is part of the Microsoft Virtual "
+  },
+  {
+    "VideoId": "969d5347-90da-4849-a4eb-a3b10162706d",
+    "DataApi": "/Entries(guid'969d5347-90da-4849-a4eb-a3b10162706d')/",
+    "VideoPageLink": "/Series/Public-cloud-and-the-IT-Pro-Some-Legal-Aspects/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ade/0e1b1c5f-6ce5-4a3f-af1b-60ec21413ade/Mod6_960.jpg",
+    "ShowName": "Public Cloud and the IT Professional: The Legal Aspects",
+    "VideoLength": "00:09:39",
+    "VideoTitle": "(Module 6) Security & Closing",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:01:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ade/0e1b1c5f-6ce5-4a3f-af1b-60ec21413ade/Mod6_mid.mp4",
+    "Description": "After understanding the theory &amp; practical content, module six will start to differentiate between the Customer responsibilities and the Cloud provider responsibilities.This video is part of the M"
+  }
+]

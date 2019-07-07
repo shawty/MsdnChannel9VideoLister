@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ddeb2d63-c1ac-404a-ae21-a7b6008bdf3d",
+    "DataApi": "/Entries(guid'ddeb2d63-c1ac-404a-ae21-a7b6008bdf3d')/",
+    "VideoPageLink": "/Shows/Using-Microsoft-Forms-for-quick-and-easy-surveys-and-quizzes/The-Power-of-Forms",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7582/e0771c36-4987-4eed-9e20-bc51c8ea7582/ThePowerofForms_960.jpg",
+    "ShowName": "Using Microsoft Forms for quick and easy surveys and quizzes",
+    "VideoLength": "00:46:17",
+    "VideoTitle": "The Power of Forms",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2017-07-20T10:44:36.7981068Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7582/e0771c36-4987-4eed-9e20-bc51c8ea7582/ThePowerofForms_mid.mp4",
+    "Description": "With an Office 365 for Education account, it is quick and easy to set up a quiz or to create a survey. Then, once the answers are in, it is simple to download the results in Excel or to view the respo"
+  }
+]

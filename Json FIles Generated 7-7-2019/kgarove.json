@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "e66a3d4a-dcd6-4d45-8cb3-9df8003d6dae",
+    "DataApi": "/Entries(guid'e66a3d4a-dcd6-4d45-8cb3-9df8003d6dae')/",
+    "VideoPageLink": "/Blogs/kgarove/Using-Team-Foundation-Power-Toy-for-Offline-Changes-to-Source-Controlled-Files",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6e355328-7a30-4715-bd09-9df8003d7174",
+    "DataApi": "/Entries(guid'6e355328-7a30-4715-bd09-9df8003d7174')/",
+    "VideoPageLink": "/Blogs/kgarove/Using-Web-Deployment-Projects-in-Visual-Studio-2005-to-Modify-WebConfig-for-Production-Deployments",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "fa032012-59d9-4b22-a01f-9df8003d75a2",
+    "DataApi": "/Entries(guid'fa032012-59d9-4b22-a01f-9df8003d75a2')/",
+    "VideoPageLink": "/Blogs/kgarove/Team-Foundation-Server-Tracing-Technical-Requirements-through-to-Tests-and-Builds",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

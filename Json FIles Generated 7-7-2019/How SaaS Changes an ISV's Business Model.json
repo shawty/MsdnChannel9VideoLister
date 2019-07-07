@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "11abcf27-956f-475e-80db-a2e100019dd3",
+    "DataApi": "/Entries(guid'11abcf27-956f-475e-80db-a2e100019dd3')/",
+    "VideoPageLink": "/Series/How-SaaS-Changes-an-ISV-s-Business-Model/Session-2-A-Simple-Decision-Tree",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f39c/8cb8c6ef-8eb5-4273-b8a7-e502335af39c/ASimpleDecisionTree_960.jpg",
+    "ShowName": "How SaaS Changes an ISV's Business Model",
+    "VideoLength": "00:04:59",
+    "VideoTitle": "Session 2: A Simple Decision Tree",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-03-01T00:56:43.2219997Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f39c/8cb8c6ef-8eb5-4273-b8a7-e502335af39c/ASimpleDecisionTree_mid.mp4",
+    "Description": "In this 5-minute session, we'll identify some of the key questions an ISV should evaluate when determining whether an application should be developed as a service or as an on-premises offering. "
+  },
+  {
+    "VideoId": "5eaa63df-e484-4650-a064-a2e100024e77",
+    "DataApi": "/Entries(guid'5eaa63df-e484-4650-a064-a2e100024e77')/",
+    "VideoPageLink": "/Series/How-SaaS-Changes-an-ISV-s-Business-Model/Session-3-Customers-Pricing-and-Revenue",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e6b4/8f014e7d-212d-46cf-865e-7409c2bce6b4/CustomerPricingandRevenue_960.jpg",
+    "ShowName": "How SaaS Changes an ISV's Business Model",
+    "VideoLength": "00:07:05",
+    "VideoTitle": "Session 3: Customers, Pricing and Revenue",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-03-03T19:36:46.2311065Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e6b4/8f014e7d-212d-46cf-865e-7409c2bce6b4/CustomerPricingandRevenue_mid.mp4",
+    "Description": "In this 10-minute session, we'll explore some of the considerations implied by the shift: shifting and new customer markets, pricing schemes, and revenue models. "
+  },
+  {
+    "VideoId": "a8948487-16de-4f9d-9434-a2e100033643",
+    "DataApi": "/Entries(guid'a8948487-16de-4f9d-9434-a2e100033643')/",
+    "VideoPageLink": "/Series/How-SaaS-Changes-an-ISV-s-Business-Model/Session-4-The-Sales-Process",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/69b6/9cfe9d6c-e326-47d5-ad6c-0f4dc89969b6/TheSalesProcess_960.jpg",
+    "ShowName": "How SaaS Changes an ISV's Business Model",
+    "VideoLength": "00:09:04",
+    "VideoTitle": "Session 4: The Sales Process",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-03-03T19:36:58.7522111Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/69b6/9cfe9d6c-e326-47d5-ad6c-0f4dc89969b6/TheSalesProcess_mid.mp4",
+    "Description": "In this 10-minute Webinar, we'll discuss some of the critical elements of the sales process in a software-as-a-service business model. "
+  },
+  {
+    "VideoId": "71b5edce-d67a-4b46-a938-a2e10003dccc",
+    "DataApi": "/Entries(guid'71b5edce-d67a-4b46-a938-a2e10003dccc')/",
+    "VideoPageLink": "/Series/How-SaaS-Changes-an-ISV-s-Business-Model/Session-5-The-Impact-of-Average-Selling-Price",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fe58/70dd09ce-83dc-4630-86ff-cafbe1f0fe58/TheImpactofAverageSellingPrice_960.jpg",
+    "ShowName": "How SaaS Changes an ISV's Business Model",
+    "VideoLength": "00:05:44",
+    "VideoTitle": "Session 5: The Impact of Average Selling Price",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-03-03T19:37:06.3533403Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fe58/70dd09ce-83dc-4630-86ff-cafbe1f0fe58/TheImpactofAverageSellingPrice_mid.mp4",
+    "Description": "The average selling price of a software-as-a-service offering has significant impact during such a shift. In this 10-minute Webinar, we'll explore the impact of that pricing decision. "
+  },
+  {
+    "VideoId": "9615cb91-e06b-4c71-bee3-a2e100049f53",
+    "DataApi": "/Entries(guid'9615cb91-e06b-4c71-bee3-a2e100049f53')/",
+    "VideoPageLink": "/Series/How-SaaS-Changes-an-ISV-s-Business-Model/Session-6-Marketing-Software-Development-and-More",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3793/a05f4693-51a4-45ac-92cf-ac74884a3793/MarketingSoftwareDevelopmentandMore_960.jpg",
+    "ShowName": "How SaaS Changes an ISV's Business Model",
+    "VideoLength": "00:10:13",
+    "VideoTitle": "Session 6: Marketing, Software Development, and More",
+    "Author": "sloughcow",
+    "UtcDateTimePublished": "2014-03-03T19:37:11.0054945Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3793/a05f4693-51a4-45ac-92cf-ac74884a3793/MarketingSoftwareDevelopmentandMore_mid.mp4",
+    "Description": "In this 10-minute Webinar, we'll explore some of the changes to marketing, operations and development processes this shift implies. "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "99af299f-e768-4917-90cd-a433012d5159",
+    "DataApi": "/Entries(guid'99af299f-e768-4917-90cd-a433012d5159')/",
+    "VideoPageLink": "/Series/Azure-Media-Services/Getting-Started-with-Azure-Media-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6873/d827f878-da0b-4e7e-b1f0-3304986c6873/GettingStarted_960.jpg",
+    "ShowName": "Azure Media Services",
+    "VideoLength": "00:19:39",
+    "VideoTitle": "Getting Started with Azure Media Services",
+    "Author": "Julianne Carroll",
+    "UtcDateTimePublished": "2015-02-02T19:18:17.6052233Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6873/d827f878-da0b-4e7e-b1f0-3304986c6873/GettingStarted_mid.mp4",
+    "Description": "Take a look at this instructional video to learn more about getting started with Azure Media Services.  We will walk through how to set up a live streaming channel "
+  }
+]

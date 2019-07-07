@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "fd135ca4-78ed-45eb-9e47-a79b01380680",
+    "DataApi": "/Entries(guid'fd135ca4-78ed-45eb-9e47-a79b01380680')/",
+    "VideoPageLink": "/Shows/MVP-Show/Episode-4-Australia-Interview-with-Troy-Hunt",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/85de/2c000076-ce83-4e89-9050-12dffba785de/MVPShowTroyHuntGoldCoastAustralia_960.jpg",
+    "ShowName": "The MVP Show",
+    "VideoLength": "00:57:28",
+    "VideoTitle": "Episode 4: Australia - Interview with Troy Hunt",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2017-08-16T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/85de/2c000076-ce83-4e89-9050-12dffba785de/MVPShowTroyHuntGoldCoastAustralia_mid.mp4",
+    "Description": " In this episode of the MVP Show, we are here in Gold Coast, Australia, to meet with Troy Hunt, a well-known security expert, and meet the dude that made HaveIBeenPwned.com. Troy has been an MVP speci"
+  },
+  {
+    "VideoId": "4deb19bf-1a52-4723-bd94-a7850138eb17",
+    "DataApi": "/Entries(guid'4deb19bf-1a52-4723-bd94-a7850138eb17')/",
+    "VideoPageLink": "/Shows/MVP-Show/Episode-3-England-Interview-with-Evelina-Gabasova",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/98db/aebb706b-fca3-48e0-b1b5-598ce00598db/MVPShowEp03England_960.jpg",
+    "ShowName": "The MVP Show",
+    "VideoLength": "00:44:55",
+    "VideoTitle": "Episode 3: England - Interview with Evelina Gabasova",
+    "Author": "Kaitlin McKinnon",
+    "UtcDateTimePublished": "2017-06-28T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/98db/aebb706b-fca3-48e0-b1b5-598ce00598db/MVPShowEp03England_mid.mp4",
+    "Description": " In this episode of the MVP Show, we head to Cambridge, England, to visit post-doctoral researcher at MRC Cancer Unit, at the University of Cambridge, speaker and Microsoft MVP, Evelina Gabasova. We a"
+  },
+  {
+    "VideoId": "f4604a70-3cab-4466-8f17-a75b01363fb3",
+    "DataApi": "/Entries(guid'f4604a70-3cab-4466-8f17-a75b01363fb3')/",
+    "VideoPageLink": "/Shows/MVP-Show/Episode-2-Germany-Interview-with-Dominick-Baier",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f9d/56c0edba-bf4b-459f-b594-73d092668f9d/MVPShowGermany_960.jpg",
+    "ShowName": "The MVP Show",
+    "VideoLength": "00:32:35",
+    "VideoTitle": "Episode 2: Germany - Interview with Dominick Baier",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2017-04-24T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f9d/56c0edba-bf4b-459f-b594-73d092668f9d/MVPShowGermany_mid.mp4",
+    "Description": " In episode 2 of the MVP Show we join MVP, Dominick Baier, in his hometown of Heidelberg, Germany. He has been a tremendous contributor to the technical community and an MVP for 10&#43; years, focusin"
+  },
+  {
+    "VideoId": "8c63dbe7-c2c7-41e4-9c6e-a75c0149771d",
+    "DataApi": "/Entries(guid'8c63dbe7-c2c7-41e4-9c6e-a75c0149771d')/",
+    "VideoPageLink": "/Shows/MVP-Show/Episode-2-Germany-Part-II-Modern-Authentication-Architecture",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b0d/843d0dc6-38e1-44b1-a29e-198aa6356b0d/MVPShowGermanyPartII_960.jpg",
+    "ShowName": "The MVP Show",
+    "VideoLength": "00:38:10",
+    "VideoTitle": "Episode 2: Germany Part II - Modern Authentication Architecture",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2017-04-24T14:59:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b0d/843d0dc6-38e1-44b1-a29e-198aa6356b0d/MVPShowGermanyPartII_mid.mp4",
+    "Description": "In this bonus footage from Episode 2 of the MVP Show, Dominick Baier walks us through two typical modern authentication scenarios. One is &quot;machine to machine&quot; communication and one is web-ba"
+  },
+  {
+    "VideoId": "5a85dd35-f383-437a-b781-a75c014a4604",
+    "DataApi": "/Entries(guid'5a85dd35-f383-437a-b781-a75c014a4604')/",
+    "VideoPageLink": "/Shows/MVP-Show/Episode-2-Germany-Part-III-IdentityServer4-in-Action",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dc43/ccc7f0f8-f499-4db7-be4f-caf6974ddc43/MVPShowGermanyIDServer4Action_960.jpg",
+    "ShowName": "The MVP Show",
+    "VideoLength": "01:08:18",
+    "VideoTitle": "Episode 2: Germany Part III - IdentityServer4 in Action",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2017-04-24T14:58:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dc43/ccc7f0f8-f499-4db7-be4f-caf6974ddc43/MVPShowGermanyIDServer4Action_mid.mp4",
+    "Description": "For many years, Dominick Baier has been involved with the IdentityServer OSS project. IdentityServer is an OAuth 2.0 and OpenID Connect framework for .NET--and in its latest incarnation for ASP. NET C"
+  },
+  {
+    "VideoId": "cd2c2e81-62f4-4ec0-bbb1-a706015e9fe0",
+    "DataApi": "/Entries(guid'cd2c2e81-62f4-4ec0-bbb1-a706015e9fe0')/",
+    "VideoPageLink": "/Shows/MVP-Show/Episode-1-Taiwan-Interview-with-MVP-Shih-Ming-Tung",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1322/613f7cb9-fbd9-4f01-a4f1-22bb0ad31322/MVPShowEp01Taiwan_960.jpg",
+    "ShowName": "The MVP Show",
+    "VideoLength": "00:30:02",
+    "VideoTitle": "Episode 1: Taiwan - Interview with MVP, Shih-Ming Tung (è‘£æ˜¯æ˜Ž)",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2017-03-23T00:30:25.9995537Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1322/613f7cb9-fbd9-4f01-a4f1-22bb0ad31322/MVPShowEp01Taiwan_mid.mp4",
+    "Description": " In this video, Seth interviews Shih-Ming Tung (è‘£æ˜¯æ˜Ž), a Software Engineer at Yahoo and a Microsoft MVP in Windows development. In this episode, we discuss technology, and have fun exploring Taiwan tog"
+  }
+]

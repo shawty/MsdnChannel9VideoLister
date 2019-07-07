@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "24ae3d53-ae75-4012-9258-a08000224c72",
+    "DataApi": "/Entries(guid'24ae3d53-ae75-4012-9258-a08000224c72')/",
+    "VideoPageLink": "/Series/SQLDWShorts/PDW-Architecture-and-Demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d953/57029534-8767-48b8-9c7b-2ec24788d953/PDWArchitecture_512.jpg",
+    "ShowName": "SQLDWShorts",
+    "VideoLength": "00:09:14",
+    "VideoTitle": "PDW Architecture and Demo",
+    "Author": "Sanjay Soni",
+    "UtcDateTimePublished": "2012-07-03T21:40:50.1287601Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d953/57029534-8767-48b8-9c7b-2ec24788d953/PDWArchitecture_mid.mp4",
+    "Description": "SQL Server Parallel Data Warehouse Architecture and a short Demo "
+  },
+  {
+    "VideoId": "5c01fde0-6e04-4ca9-8dba-a08000228f1f",
+    "DataApi": "/Entries(guid'5c01fde0-6e04-4ca9-8dba-a08000228f1f')/",
+    "VideoPageLink": "/Series/SQLDWShorts/Top-10-features-and-benefits-of-PDW",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/978e/63edc5a7-2998-4141-a23f-ef2befc5978e/Top10Features_512.jpg",
+    "ShowName": "SQLDWShorts",
+    "VideoLength": "00:06:33",
+    "VideoTitle": "Top 10 features and benefits of PDW",
+    "Author": "Sanjay Soni",
+    "UtcDateTimePublished": "2012-07-03T21:44:34.3591205Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/978e/63edc5a7-2998-4141-a23f-ef2befc5978e/Top10Features_mid.mp4",
+    "Description": "Short video about top 10 features and benefits of Microsoft SQL Server Parallel Data Warehouse. "
+  },
+  {
+    "VideoId": "a467c6dd-a772-4bf1-9825-a0a00180a813",
+    "DataApi": "/Entries(guid'a467c6dd-a772-4bf1-9825-a0a00180a813')/",
+    "VideoPageLink": "/Series/SQLDWShorts/Demo-of-PowerPivot-with-PDW",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a0d8/bc7c2358-651c-48af-a067-61c862cca0d8/PDWwithPowerPivotDemo_512.jpg",
+    "ShowName": "SQLDWShorts",
+    "VideoLength": "00:04:53",
+    "VideoTitle": "Demo of PowerPivot with PDW",
+    "Author": "Sanjay Soni",
+    "UtcDateTimePublished": "2012-08-03T08:37:02.6285298Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a0d8/bc7c2358-651c-48af-a067-61c862cca0d8/PDWwithPowerPivotDemo_mid.mp4",
+    "Description": "Demo of PowerPivot with PDW. "
+  }
+]

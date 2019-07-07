@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "9380c9cb-24bd-45ea-a57c-a3e1016562af",
+    "DataApi": "/Entries(guid'9380c9cb-24bd-45ea-a57c-a3e1016562af')/",
+    "VideoPageLink": "/Series/Office-365-for-Small-Business-Mail-Flow--Accepted-Domains/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3bad/d3bac0ae-13c1-41e8-a76a-1f7d88f23bad/609O365ForSMBMailFlowAcceptedDomainsM01_960.jpg",
+    "ShowName": "Office 365 for Small Business: Mail Flow & Accepted Domains",
+    "VideoLength": "00:41:16",
+    "VideoTitle": "Office 365 for Small Business: Mail Flow & Accepted Domains: (01) Configuring and Troubleshooting Email Flow for Accepted Domains",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-13T16:27:39.6644755Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3bad/d3bac0ae-13c1-41e8-a76a-1f7d88f23bad/609O365ForSMBMailFlowAcceptedDomainsM01_mid.mp4",
+    "Description": "Examine the specifics of configuring email flow for accepted domains, including DNS requirements, domain ownership, MX, and SPF requirements. Take a look at the DNS settings for each domain and how to"
+  }
+]

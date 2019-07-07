@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "3d7d6e9b-2ed1-41c0-93bb-a6c70005c156",
+    "DataApi": "/Entries(guid'3d7d6e9b-2ed1-41c0-93bb-a6c70005c156')/",
+    "VideoPageLink": "/series/MeultaSerie/Introduction-to-Microsoft-Edge-extensions-and-security-on-the-web",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b3f8/0e6f09a8-3fa8-49e9-b9d2-0b8054eab3f8/IntroductiontoMicrosoftEdge_960.jpg",
+    "ShowName": "Tech Videos",
+    "VideoLength": "00:45:52",
+    "VideoTitle": "Introduction to Microsoft Edge, extensions and security on the web",
+    "Author": "David Rousset",
+    "UtcDateTimePublished": "2016-11-28T22:41:16.7828779Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b3f8/0e6f09a8-3fa8-49e9-b9d2-0b8054eab3f8/IntroductiontoMicrosoftEdge_mid.mp4",
+    "Description": "Learn about the latest advancements with Microsoft Edge browser, how it compares with other offerings in the marketplace, and new developments in extensibility, security, and standards. Includes an up"
+  }
+]

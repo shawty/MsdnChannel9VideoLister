@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "6c7d3a9d-2b8e-43af-9d46-9deb0171a386",
+    "DataApi": "/Entries(guid'6c7d3a9d-2b8e-43af-9d46-9deb0171a386')/",
+    "VideoPageLink": "/Blogs/Robert+Hess/PDC-Classics-PDC2000-in-Orlando-Florida",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/9/5/2/8/4/PDCClassic01PDC2000andXML_large_ch9.png",
+    "ShowName": "Robert Hess",
+    "VideoLength": "00:06:28",
+    "VideoTitle": "PDC Classics - PDC2000 in Orlando Florida",
+    "Author": "Robert Hess",
+    "UtcDateTimePublished": "2009-08-24T22:06:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/9/5/2/8/4/PDCClassic01PDC2000andXML_ch9.mp4",
+    "Description": "\nOrlando Florida, July 2000. This was when Microsoft announced the initial developer availability of the Microsoft® .NET Framework, as well as Microsoft Visual Studio.NET to allow developers to begin"
+  },
+  {
+    "VideoId": "5d4fd781-4c43-4201-af91-9deb0171a061",
+    "DataApi": "/Entries(guid'5d4fd781-4c43-4201-af91-9deb0171a061')/",
+    "VideoPageLink": "/Blogs/Robert+Hess/PDC-Classics-PDC-2001-Los-Angeles-California",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/7/0/7/5/8/4/PDCClassicsPDC2001_large_ch9.png",
+    "ShowName": "Robert Hess",
+    "VideoLength": "00:12:27",
+    "VideoTitle": "PDC Classics - PDC 2001, Los Angeles California",
+    "Author": "Robert Hess",
+    "UtcDateTimePublished": "2009-08-24T22:06:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/7/0/7/5/8/4/PDCClassicsPDC2001_ch9.mp4",
+    "Description": "Just one short year after introducing .NET Framework, we announced its release along with Visual Studio .NET. In this episode of â€œPDC Classicsâ€ join Robert Hess and\n\nDon Box as they reminisce about "
+  }
+]

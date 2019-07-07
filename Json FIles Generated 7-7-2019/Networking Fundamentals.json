@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "daeb55cb-fc24-4040-afda-a245013a5e9f",
+    "DataApi": "/Entries(guid'daeb55cb-fc24-4040-afda-a245013a5e9f')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c01/b1ab77b6-a0cb-4c8b-a3e6-a280300d3c01/NetworkingFundamentalsM02_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:41:09",
+    "VideoTitle": "Networking Fundamentals: (02) Defining Networks with the OSI Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T19:59:30.4266495Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c01/b1ab77b6-a0cb-4c8b-a3e6-a280300d3c01/NetworkingFundamentalsM02_mid.mp4",
+    "Description": "Discover the OSI model and how it's layers determine how network traffic is moved and consumed. [01:00] - Layer 1-2 Physical, Data Link and Switches Layer[19:35] - Layer 3-6 Network, Transport and Ses"
+  },
+  {
+    "VideoId": "007ff5f2-ae1d-4ac3-b8f6-a245013ad00f",
+    "DataApi": "/Entries(guid'007ff5f2-ae1d-4ac3-b8f6-a245013ad00f')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3679/960574c6-88da-47fd-ba95-088eda853679/NetworkingFundamentalsM03_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:48:29",
+    "VideoTitle": "Networking Fundamentals: (03) Understanding Wired and Wireless Networks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T19:59:41.914778Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3679/960574c6-88da-47fd-ba95-088eda853679/NetworkingFundamentalsM03_mid.mp4",
+    "Description": "Get the basics of wired and wireless media, protocols, standards and concepts. [00:45] - Recognizing Wired Networks and Media Types[28:13] - Comprehending Wireless NetworksFull course outline: Mod 01:"
+  },
+  {
+    "VideoId": "b7ba6971-a311-44f0-a2c3-a245013b2093",
+    "DataApi": "/Entries(guid'b7ba6971-a311-44f0-a2c3-a245013b2093')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/230b/1e0b9dfe-ca24-4395-8431-b0deb893230b/NetworkingFundamentalsM04_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:49:33",
+    "VideoTitle": "Networking Fundamentals: (04) Understanding Internet Protocol",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T19:59:51.633565Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/230b/1e0b9dfe-ca24-4395-8431-b0deb893230b/NetworkingFundamentalsM04_mid.mp4",
+    "Description": "Internet Protocol (IP) is what makes the internet and modern networks function.  Here you will learn how. [01:20] - Working with iPv4[39:39] - Working with iPv6Full course outline: Mod 01: Understandi"
+  },
+  {
+    "VideoId": "5afafa45-c47c-4e1c-9761-a245013b6e59",
+    "DataApi": "/Entries(guid'5afafa45-c47c-4e1c-9761-a245013b6e59')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8a25/6e79de72-fa34-4ab1-8e2a-d9e218e28a25/NetworkingFundamentalsM05_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:42:01",
+    "VideoTitle": "Networking Fundamentals: (05) Implementing TCP/IP in the Command Line",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T20:00:05.2178676Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8a25/6e79de72-fa34-4ab1-8e2a-d9e218e28a25/NetworkingFundamentalsM05_mid.mp4",
+    "Description": "Discover and see the tools used to manage and troubleshoot networks. [00:50] - Common TCP/IP Tools[13:30] - Advanced TCP/IP Tools[19:54] - Advanced TCP/IP Tools DemosFull course outline: Mod 01: Under"
+  },
+  {
+    "VideoId": "e64c2e07-f9aa-439f-8618-a245013bc512",
+    "DataApi": "/Entries(guid'e64c2e07-f9aa-439f-8618-a245013bc512')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f6ff/ef46fc5a-04e3-4fec-824f-391709a9f6ff/NetworkingFundamentalsM06_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:56:12",
+    "VideoTitle": "Networking Fundamentals: (06) Working with Networking Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T20:00:23.2842658Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f6ff/ef46fc5a-04e3-4fec-824f-391709a9f6ff/NetworkingFundamentalsM06_mid.mp4",
+    "Description": "Learn what services can be provided and which services are required for a network to function. [01:45] - DHCP[17:51] - DORA[31:21] - Remote Desktop[16:45] - IPSECFull course outline: Mod 01: Understan"
+  },
+  {
+    "VideoId": "0615c7b7-f4eb-4921-82a2-a245013c0e6b",
+    "DataApi": "/Entries(guid'0615c7b7-f4eb-4921-82a2-a245013c0e6b')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7489/8d52c700-98fe-478f-b5f8-02da13c07489/NetworkingFundamentalsM07_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:40:58",
+    "VideoTitle": "Networking Fundamentals: (07) Understanding Wide Area Networks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T20:00:28.4501447Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7489/8d52c700-98fe-478f-b5f8-02da13c07489/NetworkingFundamentalsM07_mid.mp4",
+    "Description": "Once you have learned about your local area network, we will teach you about connecting it to other local area networks over large geographic areas and across mutliple types of boundaries. [01:15] - U"
+  },
+  {
+    "VideoId": "70716569-0e1c-4238-a6c2-a245013c5bc7",
+    "DataApi": "/Entries(guid'70716569-0e1c-4238-a6c2-a245013c5bc7')/",
+    "VideoPageLink": "/Series/Networking-Fundamentals/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/76a0/4815f6df-48ca-4862-8a8b-6a71e13b76a0/NetworkingFundamentalsM08_960.jpg",
+    "ShowName": "Networking Fundamentals",
+    "VideoLength": "00:42:58",
+    "VideoTitle": "Networking Fundamentals: (08) Defining Network Infrastructure and Network Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-27T20:00:46.607859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/76a0/4815f6df-48ca-4862-8a8b-6a71e13b76a0/NetworkingFundamentalsM08_mid.mp4",
+    "Description": "Now that you know the tools, we will teach you what you need to know to use them all together, appropriately, to build a functional, secure network. [00:46] - Understanding Networks Outside the LAN[17"
+  }
+]

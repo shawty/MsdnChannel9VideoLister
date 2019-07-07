@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "e10e4dae-11b6-4cba-93ae-a28b0178436e",
+    "DataApi": "/Entries(guid'e10e4dae-11b6-4cba-93ae-a28b0178436e')/",
+    "VideoPageLink": "/Series/Platform-for-Hybrid-Cloud-with-SQL-Server-2014/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6381/08653be1-2e95-404f-ac9c-08f2d9ed6381/PlatformForHybridCloudSQL2014M03_960.jpg",
+    "ShowName": "Platform for Hybrid Cloud with SQL Server 2014",
+    "VideoLength": "00:31:04",
+    "VideoTitle": "Platform for Hybrid Cloud with SQL Server 2014: (03) SQL Server Data Files in Windows Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:03:26.0573192Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6381/08653be1-2e95-404f-ac9c-08f2d9ed6381/PlatformForHybridCloudSQL2014M03_mid.mp4",
+    "Description": "SQL Server 2014 enables native support for SQL Server database files stored as Windows Azure Blobs. This feature allows you to create a database in SQL Server running on-premises or in a virtual machi"
+  },
+  {
+    "VideoId": "76758a95-3e7d-403f-9cd3-a28b01781ece",
+    "DataApi": "/Entries(guid'76758a95-3e7d-403f-9cd3-a28b01781ece')/",
+    "VideoPageLink": "/Series/Platform-for-Hybrid-Cloud-with-SQL-Server-2014/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1eb7/567f3771-1fb7-4b1a-bd75-e92c61081eb7/PlatformForHybridCloudSQL2014M02_960.jpg",
+    "ShowName": "Platform for Hybrid Cloud with SQL Server 2014",
+    "VideoLength": "00:52:07",
+    "VideoTitle": "Platform for Hybrid Cloud with SQL Server 2014: (02) SQL Server on Windows Azure Virtual Machines High Availability and Disaster Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:03:37.6320225Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1eb7/567f3771-1fb7-4b1a-bd75-e92c61081eb7/PlatformForHybridCloudSQL2014M02_mid.mp4",
+    "Description": "This session discusses high availability and disaster recovery technologies for SQL Server in Windows Azure virtual machines. Through demos, learn how to ensure high availability of SQL Server on Wind"
+  },
+  {
+    "VideoId": "9b1ff67b-e995-4926-b11f-a28b0179196f",
+    "DataApi": "/Entries(guid'9b1ff67b-e995-4926-b11f-a28b0179196f')/",
+    "VideoPageLink": "/Series/Platform-for-Hybrid-Cloud-with-SQL-Server-2014/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ebab/9eb75d84-1c58-404d-9064-b7f30e32ebab/PlatformForHybridCloudSQL2014M04_960.jpg",
+    "ShowName": "Platform for Hybrid Cloud with SQL Server 2014",
+    "VideoLength": "00:40:12",
+    "VideoTitle": "Platform for Hybrid Cloud with SQL Server 2014: (04) SQL Server Solutions to Deploy a Database to a Windows Azure VM",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:03:58.548011Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ebab/9eb75d84-1c58-404d-9064-b7f30e32ebab/PlatformForHybridCloudSQL2014M04_mid.mp4",
+    "Description": "SQL Server 2014 introduces a new wizard to deploy a database from an instance of the Database Engine to SQL Server in a Windows Azure virtual machine. [01:32] - Deployment Options[06:26] - Deploy Data"
+  },
+  {
+    "VideoId": "f01457b6-4de0-45a9-a53b-a28b0179a8c0",
+    "DataApi": "/Entries(guid'f01457b6-4de0-45a9-a53b-a28b0179a8c0')/",
+    "VideoPageLink": "/Series/Platform-for-Hybrid-Cloud-with-SQL-Server-2014/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f299/4ad52b38-f917-4ffc-b6f6-0e641ed1f299/PlatformForHybridCloudSQL2014M06_960.jpg",
+    "ShowName": "Platform for Hybrid Cloud with SQL Server 2014",
+    "VideoLength": "00:36:09",
+    "VideoTitle": "Platform for Hybrid Cloud with SQL Server 2014: (06) SQL Server Data Tools for Visual Studio Part II, Business Intelligence Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:04:55.4493533Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f299/4ad52b38-f917-4ffc-b6f6-0e641ed1f299/PlatformForHybridCloudSQL2014M06_mid.mp4",
+    "Description": "This session will provide an overview of the new SQL Server Data Tools for business intelligence projects. We will provide an overview of these tools, including SQL Server Analysis Services projects, "
+  },
+  {
+    "VideoId": "dae9ed7e-1dfc-49be-b243-a28b01797fdc",
+    "DataApi": "/Entries(guid'dae9ed7e-1dfc-49be-b243-a28b01797fdc')/",
+    "VideoPageLink": "/Series/Platform-for-Hybrid-Cloud-with-SQL-Server-2014/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/14b9/5bc00e88-e50e-48e8-aef2-32d6ae6914b9/PlatformForHybridCloudSQL2014M05_960.jpg",
+    "ShowName": "Platform for Hybrid Cloud with SQL Server 2014",
+    "VideoLength": "00:45:47",
+    "VideoTitle": "Platform for Hybrid Cloud with SQL Server 2014: (05) SQL Server Data Tools for Visual Studio Part I, Core SQL Server Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-06T17:05:16.7318663Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/14b9/5bc00e88-e50e-48e8-aef2-32d6ae6914b9/PlatformForHybridCloudSQL2014M05_mid.mp4",
+    "Description": "This session will provide an overview of the new SQL Server Data Tools, now integrated into Visual Studio 2012 and 2013. We will offer an overview of these tools, including Database Projects, T-SQL de"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c6f70ad1-0da3-4841-98ab-a2c801421d67",
+    "DataApi": "/Entries(guid'c6f70ad1-0da3-4841-98ab-a2c801421d67')/",
+    "VideoPageLink": "/Series/Licensing-Expert-Series/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d493/e0bed158-40ff-4372-9ca4-09c408b2d493/LicensingOffice2013O365_960.jpg",
+    "ShowName": "Licensing Expert Series",
+    "VideoLength": "00:40:40",
+    "VideoTitle": "Licensing Expert Series: (03) Licensing Office 2013 and Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-05T22:42:12.6788693Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d493/e0bed158-40ff-4372-9ca4-09c408b2d493/LicensingOffice2013O365_mid.mp4",
+    "Description": "In this module we will look at the features and benefits of the new Office, and  how Microsoft is helping customers to make the transition to the cloud with offers that are economically attractive and"
+  },
+  {
+    "VideoId": "1639cde6-b05e-469c-882e-a2c80141b2c8",
+    "DataApi": "/Entries(guid'1639cde6-b05e-469c-882e-a2c80141b2c8')/",
+    "VideoPageLink": "/Series/Licensing-Expert-Series/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4ccd/f757b506-8807-422c-b836-71bdf1804ccd/LicensingWindowsServer2012R2_960.jpg",
+    "ShowName": "Licensing Expert Series",
+    "VideoLength": "00:35:44",
+    "VideoTitle": "Licensing Expert Series: (02) Licensing Windows Server 2012 R2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-05T22:43:07.5274423Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4ccd/f757b506-8807-422c-b836-71bdf1804ccd/LicensingWindowsServer2012R2_mid.mp4",
+    "Description": "With Windows Server 2012 R2, customers receive the capabilities they need to meet today's transforming IT. We will review Windows Server 2012 R2 benefits and features and look at the editions. Then we"
+  },
+  {
+    "VideoId": "234d9337-4aa4-470b-a6de-a3110141e8ae",
+    "DataApi": "/Entries(guid'234d9337-4aa4-470b-a6de-a3110141e8ae')/",
+    "VideoPageLink": "/Series/Licensing-Expert-Series/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b833/624f7963-9e00-42b4-bac7-3a82a1c2b833/TheServerAndCloudEnrollment_960.jpg",
+    "ShowName": "Licensing Expert Series",
+    "VideoLength": "00:30:35",
+    "VideoTitle": "Licensing Expert Series: (04) The Server and Cloud Enrollment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-19T15:51:17.0336838Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b833/624f7963-9e00-42b4-bac7-3a82a1c2b833/TheServerAndCloudEnrollment_mid.mp4",
+    "Description": "In this course we will review details around Microsoft Volume Licensing's Enterprise Agreement  and the new Server and Cloud Enrollment (SCE) which provides benefits for highly committed customers who"
+  },
+  {
+    "VideoId": "922cef8b-183c-4814-8db1-a31101421b04",
+    "DataApi": "/Entries(guid'922cef8b-183c-4814-8db1-a31101421b04')/",
+    "VideoPageLink": "/Series/Licensing-Expert-Series/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cdfd/a840bb85-4428-4983-9f9b-c816b45fcdfd/LicensingThePrivateCloud_960.jpg",
+    "ShowName": "Licensing Expert Series",
+    "VideoLength": "00:50:44",
+    "VideoTitle": "Licensing Expert Series: (05) Licensing the Private Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-19T15:51:30.3247108Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cdfd/a840bb85-4428-4983-9f9b-c816b45fcdfd/LicensingThePrivateCloud_mid.mp4",
+    "Description": "In this course, we will look at the details and the value of a private cloud and we'll look at the specifics of Microsoft's private cloud solutions which are built using Windows Server with Hyper-V an"
+  }
+]

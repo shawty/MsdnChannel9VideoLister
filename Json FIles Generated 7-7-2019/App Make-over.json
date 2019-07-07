@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4329990e-a394-4b59-988c-9ff8015f6ee6",
+    "DataApi": "/Entries(guid'4329990e-a394-4b59-988c-9ff8015f6ee6')/",
+    "VideoPageLink": "/Blogs/App-Make-over/Developer-Diaries-Mangesh-Deshpande",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6ee6/4329990e-a394-4b59-988c-9ff8015f6ee6/DevDiary1_512_ch9.jpg",
+    "ShowName": "App Make-over",
+    "VideoLength": "00:09:17",
+    "VideoTitle": "Developer Diaries: Mangesh Deshpande",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-02-16T20:14:51.8642739Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6ee6/4329990e-a394-4b59-988c-9ff8015f6ee6/DevDiary1_med_ch9.mp4",
+    "Description": "This is the first of a series of videos where we will follow developers as they take the steps to give their Windows Phone applications make-overs. Our first guinea pig is Mangesh Deshpande and he nee"
+  }
+]

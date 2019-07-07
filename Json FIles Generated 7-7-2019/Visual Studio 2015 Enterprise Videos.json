@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "28183f10-4d1b-4001-86d1-a4810161d8e0",
+    "DataApi": "/Entries(guid'28183f10-4d1b-4001-86d1-a4810161d8e0')/",
+    "VideoPageLink": "/Series/Visual-Studio-2015-Enterprise-Videos/Windows-Presentation-Foundation-Application-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9ecc/9bd44ac5-bc13-47c3-b2d6-a069e9179ecc/WPFApplicationDevelopment_960.jpg",
+    "ShowName": "Visual Studio 2015 Enterprise Videos",
+    "VideoLength": "00:15:49",
+    "VideoTitle": "Windows Presentation Foundation Application Development",
+    "Author": "Lan Kaim",
+    "UtcDateTimePublished": "2015-04-29T17:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9ecc/9bd44ac5-bc13-47c3-b2d6-a069e9179ecc/WPFApplicationDevelopment_mid.mp4",
+    "Description": "Windows Presentation Foundation (WPF) and XAMLâ€¯combine into a rich presentation system for building Windows desktop applications with visually stunning user experiences that incorporate UI, media, and"
+  },
+  {
+    "VideoId": "39d90753-68bd-487d-85be-a4810164f98b",
+    "DataApi": "/Entries(guid'39d90753-68bd-487d-85be-a4810164f98b')/",
+    "VideoPageLink": "/Series/Visual-Studio-2015-Enterprise-Videos/Whats-New-in-CSharp-6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a2c1/e78a06b8-25d4-41e9-9299-9e089797a2c1/WhatsNewinCSharp6_960.jpg",
+    "ShowName": "Visual Studio 2015 Enterprise Videos",
+    "VideoLength": "00:07:49",
+    "VideoTitle": "What's New in C# 6.0",
+    "Author": "Lan Kaim",
+    "UtcDateTimePublished": "2015-04-29T17:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a2c1/e78a06b8-25d4-41e9-9299-9e089797a2c1/WhatsNewinCSharp6_mid.mp4",
+    "Description": "C# 6 adds a lot of small but useful language features to remove boilerplate and clean up your code. This video takes you on a whirlwind tour through all the new language constructs "
+  },
+  {
+    "VideoId": "2a4bcb75-3829-4ba5-b47a-a484011f7ccb",
+    "DataApi": "/Entries(guid'2a4bcb75-3829-4ba5-b47a-a484011f7ccb')/",
+    "VideoPageLink": "/Series/Visual-Studio-2015-Enterprise-Videos/Whats-New-for-NET-2015",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c88a/94e64b2c-7fc5-4885-9308-b9a95f14c88a/WhatsNewforDotNet2015_960.jpg",
+    "ShowName": "Visual Studio 2015 Enterprise Videos",
+    "VideoLength": "00:08:21",
+    "VideoTitle": "What's New for .NET 2015",
+    "Author": "Lan Kaim",
+    "UtcDateTimePublished": "2015-04-29T17:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c88a/94e64b2c-7fc5-4885-9308-b9a95f14c88a/WhatsNewforDotNet2015_mid.mp4",
+    "Description": "Join Habib Haydarian, discover the .NET 2015, learn the latest on the different pieces of the .NET universe: .NET Framework 4.6, .NET Core, ASP.NET 5, Roslyn... and more. "
+  },
+  {
+    "VideoId": "f32bf701-190d-4fc2-9e37-a48401804b7f",
+    "DataApi": "/Entries(guid'f32bf701-190d-4fc2-9e37-a48401804b7f')/",
+    "VideoPageLink": "/Series/Visual-Studio-2015-Enterprise-Videos/Code-Editor-Enhancements-for-XAML-Developers",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d6dd/85831196-8824-43d1-8fb6-00eeac92d6dd/CodeEditorEnhancementsForXAMLDevelopers_960.jpg",
+    "ShowName": "Visual Studio 2015 Enterprise Videos",
+    "VideoLength": "00:04:08",
+    "VideoTitle": "Code Editor Enhancements for XAML Developers",
+    "Author": "adbors",
+    "UtcDateTimePublished": "2015-04-29T17:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d6dd/85831196-8824-43d1-8fb6-00eeac92d6dd/CodeEditorEnhancementsForXAMLDevelopers_mid.mp4",
+    "Description": "We have rebuilt the XAML language service on top of the .NET Compiler Platform (&quot;Roslyn&quot;) to provide an improved XAML editing experience with rich IntelliSense that is faster and more reliab"
+  },
+  {
+    "VideoId": "8fbdd011-b025-4a1d-aa73-a487014c6525",
+    "DataApi": "/Entries(guid'8fbdd011-b025-4a1d-aa73-a487014c6525')/",
+    "VideoPageLink": "/Series/Visual-Studio-2015-Enterprise-Videos/Connecting-to-Services-with-Visual-Studio",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/48e6/93f37564-bf6c-4ad4-acd6-6594296248e6/ConnectingtoServicesWithVisualStudio_960.jpg",
+    "ShowName": "Visual Studio 2015 Enterprise Videos",
+    "VideoLength": "00:07:12",
+    "VideoTitle": "Connecting to Services with Visual Studio",
+    "Author": "adbors",
+    "UtcDateTimePublished": "2015-04-29T17:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/48e6/93f37564-bf6c-4ad4-acd6-6594296248e6/ConnectingtoServicesWithVisualStudio_mid.mp4",
+    "Description": "Developers are building apps with an increasing number of services, yet the service technologies are evolving just as fast. How will developers keep up? Visual Studio 2015 brings a modern service cons"
+  },
+  {
+    "VideoId": "4905c08a-1b0f-467f-864a-a487015e10d6",
+    "DataApi": "/Entries(guid'4905c08a-1b0f-467f-864a-a487015e10d6')/",
+    "VideoPageLink": "/Series/Visual-Studio-2015-Enterprise-Videos/Building-JavaScript-apps-with-Angular",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/014f/a2045fa0-b277-4381-be71-27c3625f014f/BuildingJavaScriptAppsWithAngular_960.jpg",
+    "ShowName": "Visual Studio 2015 Enterprise Videos",
+    "VideoLength": "00:11:11",
+    "VideoTitle": "Building JavaScript apps with Angular",
+    "Author": "adbors",
+    "UtcDateTimePublished": "2015-04-29T17:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/014f/a2045fa0-b277-4381-be71-27c3625f014f/BuildingJavaScriptAppsWithAngular_mid.mp4",
+    "Description": "Angular is an extremely popular JavaScript library used by developers to build web and mobile client apps. Visual Studio 2015 improves the HTML and JavaScript editors to help developers building with "
+  }
+]

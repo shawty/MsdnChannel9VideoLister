@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "8fa1bc76-3fd5-4183-b3a0-a425017d7934",
+    "DataApi": "/Entries(guid'8fa1bc76-3fd5-4183-b3a0-a425017d7934')/",
+    "VideoPageLink": "/Series/Application-Performance-Monitoring/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5284/2ddecfa8-dd05-45f5-bfa2-db195c5d5284/Mod2_960.jpg",
+    "ShowName": "Application Performance Monitoring",
+    "VideoLength": "00:51:41",
+    "VideoTitle": "(Module 2) Application Insights",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-01-20T14:02:44Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5284/2ddecfa8-dd05-45f5-bfa2-db195c5d5284/Mod2_mid.mp4",
+    "Description": "Module two will introduce Application Insights and step through from getting started with AI, to monitoring applications, as well as pulling data for true insight into your monitored applications. Thi"
+  },
+  {
+    "VideoId": "3ad9ffb1-bbff-475d-8027-a425017e470a",
+    "DataApi": "/Entries(guid'3ad9ffb1-bbff-475d-8027-a425017e470a')/",
+    "VideoPageLink": "/Series/Application-Performance-Monitoring/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e47f/562757b1-f7d7-4f2c-9f9e-2cf39fe2e47f/Mod3_960.jpg",
+    "ShowName": "Application Performance Monitoring",
+    "VideoLength": "00:53:17",
+    "VideoTitle": "(Module 3) System Center 2012 Operations Manager ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-01-20T14:03:21Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e47f/562757b1-f7d7-4f2c-9f9e-2cf39fe2e47f/Mod3_mid.mp4",
+    "Description": "Module three will introduce System Center 2012 Operations Manager and its role within application monitoring. We will understand the integration options available with Visual Studio, as well as the fl"
+  },
+  {
+    "VideoId": "a60499c5-8c33-42d5-9719-a425017ea114",
+    "DataApi": "/Entries(guid'a60499c5-8c33-42d5-9719-a425017ea114')/",
+    "VideoPageLink": "/Series/Application-Performance-Monitoring/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ec1/135b042d-9c8a-4b14-ba8d-caaae9c98ec1/Mod4_960.jpg",
+    "ShowName": "Application Performance Monitoring",
+    "VideoLength": "00:07:09",
+    "VideoTitle": "(Module 4) Closing",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-01-20T14:04:09Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ec1/135b042d-9c8a-4b14-ba8d-caaae9c98ec1/Mod4_mid.mp4",
+    "Description": "The closing module will review all the key points and components, both within Application Insights as well as System Center. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a fre"
+  }
+]

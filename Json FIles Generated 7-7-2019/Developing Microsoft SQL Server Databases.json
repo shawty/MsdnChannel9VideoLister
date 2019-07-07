@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "4fe525fa-5d31-425f-97e6-a4340012ec99",
+    "DataApi": "/Entries(guid'4fe525fa-5d31-425f-97e6-a4340012ec99')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-SQL-Server-Databases/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5508/471618d5-3ca1-4d70-8d6e-c12ee1bb5508/463DevMSSQLDatabasesM02_960.jpg",
+    "ShowName": "Developing Microsoft SQL Server Databases",
+    "VideoLength": "00:56:39",
+    "VideoTitle": "Developing Microsoft SQL Server Databases: (02) Implementing Indexes",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-03T18:19:30.3410383Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5508/471618d5-3ca1-4d70-8d6e-c12ee1bb5508/463DevMSSQLDatabasesM02_mid.mp4",
+    "Description": "Learn the difference between heaps, clustered indexes, and non-clustered indexes. Hear how to design and implement clustered and non-clustered indexes, including considerations for filtered indexes, d"
+  },
+  {
+    "VideoId": "afd56471-74cc-412a-976d-a43400137f86",
+    "DataApi": "/Entries(guid'afd56471-74cc-412a-976d-a43400137f86')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-SQL-Server-Databases/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e48d/60842b72-87d5-492a-af02-ee59bdd9e48d/463DevMSSQLDatabasesM03_960.jpg",
+    "ShowName": "Developing Microsoft SQL Server Databases",
+    "VideoLength": "00:34:24",
+    "VideoTitle": "Developing Microsoft SQL Server Databases: (03) Implementing Stored Procedures and Functions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-03T18:19:41.1204141Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e48d/60842b72-87d5-492a-af02-ee59bdd9e48d/463DevMSSQLDatabasesM03_mid.mp4",
+    "Description": "Explore implementing and executing stored procedures, including execution context, parameters, and return values. Learn about the different kinds of functions that you can create, along with how to im"
+  },
+  {
+    "VideoId": "8e3b55db-ac0e-455d-9b92-a4340013abf2",
+    "DataApi": "/Entries(guid'8e3b55db-ac0e-455d-9b92-a4340013abf2')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-SQL-Server-Databases/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/efcd/57d55ad1-5dfa-42e1-8220-d2835ed6efcd/463DevMSSQLDatabasesM04_960.jpg",
+    "ShowName": "Developing Microsoft SQL Server Databases",
+    "VideoLength": "00:41:56",
+    "VideoTitle": "Developing Microsoft SQL Server Databases: (04) Managing Transactions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-03T18:19:50.4394728Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/efcd/57d55ad1-5dfa-42e1-8220-d2835ed6efcd/463DevMSSQLDatabasesM04_mid.mp4",
+    "Description": "Get an introduction to transactions and isolation concepts, and look at how to implement transactions, catch and resolve errors, set isolation levels, and design database objects for concurrency. Lear"
+  },
+  {
+    "VideoId": "fdba0f07-a377-47f3-bd22-a4340013e5e8",
+    "DataApi": "/Entries(guid'fdba0f07-a377-47f3-bd22-a4340013e5e8')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-SQL-Server-Databases/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e804/4012fdd1-c500-4381-88d9-70491dc2e804/463DevMSSQLDatabasesM05_960.jpg",
+    "ShowName": "Developing Microsoft SQL Server Databases",
+    "VideoLength": "00:50:48",
+    "VideoTitle": "Developing Microsoft SQL Server Databases: (05) Implementing In-Memory Objects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-03T18:20:16.9783233Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e804/4012fdd1-c500-4381-88d9-70491dc2e804/463DevMSSQLDatabasesM05_mid.mp4",
+    "Description": "Find out how to implement clustered and non-clustered columnstore indexes on disk-based tables. Learn how (and when) to implement in-memory tables and stored procedures, and explore considerations for"
+  },
+  {
+    "VideoId": "79dfdda8-bcd9-49e4-bfe5-a43400141142",
+    "DataApi": "/Entries(guid'79dfdda8-bcd9-49e4-bfe5-a43400141142')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-SQL-Server-Databases/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f16/b4aa1088-7b7f-470b-9776-9c1967967f16/463DevMSSQLDatabasesM06_960.jpg",
+    "ShowName": "Developing Microsoft SQL Server Databases",
+    "VideoLength": "00:38:35",
+    "VideoTitle": "Developing Microsoft SQL Server Databases: (06) Optimizing and Troubleshooting Queries",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-03T18:20:28.0880066Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f16/b4aa1088-7b7f-470b-9776-9c1967967f16/463DevMSSQLDatabasesM06_mid.mp4",
+    "Description": "Learn how to tune poorly performing queries, and get tips on dealing with common performance issues and tools you can use to analyze and tune workloads. "
+  }
+]

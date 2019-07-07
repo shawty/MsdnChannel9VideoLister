@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "84afad5d-810f-452d-8c47-a307015590cf",
+    "DataApi": "/Entries(guid'84afad5d-810f-452d-8c47-a307015590cf')/",
+    "VideoPageLink": "/Series/Building-Blocks-Initialize-C-NET-and-JavaScript-Dev-Skills/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e1e7/9f673d6a-c690-49d2-b8cb-4f371c4fe1e7/BuildingBlocksInitializeM02_960.jpg",
+    "ShowName": "Building Blocks: Initialize() C#, .NET, and JavaScript Dev Skills",
+    "VideoLength": "00:52:45",
+    "VideoTitle": "Building Blocks - Initialize() C#, .NET, and JavaScript Dev Skills: (02) Lists",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T01:12:32.3795568Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e1e7/9f673d6a-c690-49d2-b8cb-4f371c4fe1e7/BuildingBlocksInitializeM02_mid.mp4",
+    "Description": "Lists are a fundamental part of modern programming architectures, and the ability to manipulate them easily and elegantly should be in every developer's toolbelt. [00:55] - Classes[13:02] - Overview[1"
+  },
+  {
+    "VideoId": "daff2ee9-7d32-4ddf-b1a3-a3070155f8b9",
+    "DataApi": "/Entries(guid'daff2ee9-7d32-4ddf-b1a3-a3070155f8b9')/",
+    "VideoPageLink": "/Series/Building-Blocks-Initialize-C-NET-and-JavaScript-Dev-Skills/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/afe2/e5cfab68-00e6-4617-9db5-951f1fd3afe2/BuildingBlocksInitializeM03_960.jpg",
+    "ShowName": "Building Blocks: Initialize() C#, .NET, and JavaScript Dev Skills",
+    "VideoLength": "00:51:28",
+    "VideoTitle": "Building Blocks - Initialize() C#, .NET, and JavaScript Dev Skills: (03) Asynchrony and Concurrency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T01:12:49.8803438Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/afe2/e5cfab68-00e6-4617-9db5-951f1fd3afe2/BuildingBlocksInitializeM03_mid.mp4",
+    "Description": "Modern computer users demand a flawless UI, and there's no reason we can't deliver, especially with multiple cores being the norm in modern devices and with some powerful facilities in the code for bo"
+  },
+  {
+    "VideoId": "174cf440-a27a-4a16-855b-a30701563b5a",
+    "DataApi": "/Entries(guid'174cf440-a27a-4a16-855b-a30701563b5a')/",
+    "VideoPageLink": "/Series/Building-Blocks-Initialize-C-NET-and-JavaScript-Dev-Skills/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8d65/aa1745af-a78d-485d-83cc-2de2d8348d65/BuildingBlocksInitializeM04_960.jpg",
+    "ShowName": "Building Blocks: Initialize() C#, .NET, and JavaScript Dev Skills",
+    "VideoLength": "00:51:47",
+    "VideoTitle": "Building Blocks - Initialize() C#, .NET, and JavaScript Dev Skills: (04) Data Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T01:13:02.837396Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8d65/aa1745af-a78d-485d-83cc-2de2d8348d65/BuildingBlocksInitializeM04_mid.mp4",
+    "Description": "There is so much data to store. Learn about the various types of data that needs to be stored and how to actually make it happen. [10:43] - Entity Framework Code First[38:17] - Windows Azure Mobile Se"
+  },
+  {
+    "VideoId": "f61d142e-d3b0-4af2-82d0-a30701572274",
+    "DataApi": "/Entries(guid'f61d142e-d3b0-4af2-82d0-a30701572274')/",
+    "VideoPageLink": "/Series/Building-Blocks-Initialize-C-NET-and-JavaScript-Dev-Skills/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/927a/26f10e33-4496-4508-a2bf-8d08b0e1927a/BuildingBlocksInitializeM05_960.jpg",
+    "ShowName": "Building Blocks: Initialize() C#, .NET, and JavaScript Dev Skills",
+    "VideoLength": "00:57:43",
+    "VideoTitle": "Building Blocks - Initialize() C#, .NET, and JavaScript Dev Skills: (05) Services and OData",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T01:13:24.4295202Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/927a/26f10e33-4496-4508-a2bf-8d08b0e1927a/BuildingBlocksInitializeM05_mid.mp4",
+    "Description": "So many apps rely on data and functionality in the cloud or across the world. Learn about the historic and current standards for web services and how to implement them in both C# and JavaScript. [00:5"
+  },
+  {
+    "VideoId": "d1260df5-dcc9-4e34-8b17-a3070157a2e3",
+    "DataApi": "/Entries(guid'd1260df5-dcc9-4e34-8b17-a3070157a2e3')/",
+    "VideoPageLink": "/Series/Building-Blocks-Initialize-C-NET-and-JavaScript-Dev-Skills/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e9dc/1ab0116e-777f-4775-b640-4212bca6e9dc/BuildingBlocksInitializeM06_960.jpg",
+    "ShowName": "Building Blocks: Initialize() C#, .NET, and JavaScript Dev Skills",
+    "VideoLength": "01:03:06",
+    "VideoTitle": "Building Blocks - Initialize() C#, .NET, and JavaScript Dev Skills: (06) Libraries",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T01:13:38.2346811Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e9dc/1ab0116e-777f-4775-b640-4212bca6e9dc/BuildingBlocksInitializeM06_mid.mp4",
+    "Description": "Bringing in external libraries is a great way to save time and effort on a project. Find out how to create references in C# and how you include third-party libraries in JavaScript. [01:18] - SignalR[2"
+  }
+]

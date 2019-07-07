@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "c260cf0f-7e0e-4844-a689-a658010fc7ef",
+    "DataApi": "/Entries(guid'c260cf0f-7e0e-4844-a689-a658010fc7ef')/",
+    "VideoPageLink": "/series/tendulkar-uvca/0102-Verify-Machine-Setup",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1dc1/ea8fe654-3958-4965-9f27-31b8ec4f1dc1/0102VerifyMachineSetup_960.jpg",
+    "ShowName": "tendulkar-uvÄca",
+    "VideoLength": "00:12:14",
+    "VideoTitle": "01.02 Verify Machine Setup",
+    "Author": "Mayur Tendulkar",
+    "UtcDateTimePublished": "2016-08-04T18:31:41.8767814Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1dc1/ea8fe654-3958-4965-9f27-31b8ec4f1dc1/0102VerifyMachineSetup_mid.mp4",
+    "Description": "Just like we check microphone before delivering next great speech, it makes sense to verify your machine setup before starting developing apps or participating in hackathons. It will help us to focus "
+  }
+]

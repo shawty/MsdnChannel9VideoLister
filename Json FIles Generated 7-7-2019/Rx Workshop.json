@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "8c2a02e3-d450-4eaf-bda8-9f0a01871748",
+    "DataApi": "/Entries(guid'8c2a02e3-d450-4eaf-bda8-9f0a01871748')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-Event-Processing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1748/8c2a02e3-d450-4eaf-bda8-9f0a01871748/RxWorkshopEventProcessing_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:16:51",
+    "VideoTitle": "Rx Workshop: Event Processing",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-06-29T15:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1748/8c2a02e3-d450-4eaf-bda8-9f0a01871748/RxWorkshopEventProcessing_low_ch9.mp4",
+    "Description": " Learn how to use LINQ operators to filter, aggregate, and group data in observable sequences to produce desired results.  Download the Challenge "
+  },
+  {
+    "VideoId": "632b5aae-9393-4a75-afeb-9f0a0187d94f",
+    "DataApi": "/Entries(guid'632b5aae-9393-4a75-afeb-9f0a0187d94f')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-Observables-versus-Events",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d94f/632b5aae-9393-4a75-afeb-9f0a0187d94f/RxWorkshopObservables_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:14:03",
+    "VideoTitle": "Rx Workshop: Observables versus Events",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-06-29T15:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d94f/632b5aae-9393-4a75-afeb-9f0a0187d94f/RxWorkshopObservables_low_ch9.mp4",
+    "Description": " Learn about the first-class representation of event streams using observable sequences in Rx, and how to use subjects to publish and subscribe to sources. Download the Challenge "
+  },
+  {
+    "VideoId": "b834b233-4416-4b2e-a450-9f0a01896315",
+    "DataApi": "/Entries(guid'b834b233-4416-4b2e-a450-9f0a01896315')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-Unified-Programming-Model",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6315/b834b233-4416-4b2e-a450-9f0a01896315/RxWorkshopUPM_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:12:21",
+    "VideoTitle": "Rx Workshop: Unified Programming Model",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-06-29T15:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6315/b834b233-4416-4b2e-a450-9f0a01896315/RxWorkshopUPM_low_ch9.mp4",
+    "Description": " Learn how to wrap existing event sources, including tasks, asynchronous methods, .NET events, etc. in observable sequences. Download the Challenge "
+  },
+  {
+    "VideoId": "cee8e203-7ae4-49c8-bfd6-9f0a0189a51a",
+    "DataApi": "/Entries(guid'cee8e203-7ae4-49c8-bfd6-9f0a0189a51a')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-Writing-Queries",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a51a/cee8e203-7ae4-49c8-bfd6-9f0a0189a51a/RxWorkshopWritingQueries_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:11:24",
+    "VideoTitle": "Rx Workshop: Writing Queries",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-06-29T15:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a51a/cee8e203-7ae4-49c8-bfd6-9f0a0189a51a/RxWorkshopWritingQueries_low_ch9.mp4",
+    "Description": " Learn about the rich set of LINQ query operators available in Rx to query event streams. Download the Challenge "
+  },
+  {
+    "VideoId": "fb488327-ffee-4445-8a0f-9f0a0189e90e",
+    "DataApi": "/Entries(guid'fb488327-ffee-4445-8a0f-9f0a0189e90e')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-Schedulers",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e90e/fb488327-ffee-4445-8a0f-9f0a0189e90e/RxWorkshopSchedulers_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:17:47",
+    "VideoTitle": "Rx Workshop: Schedulers",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-06-29T15:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e90e/fb488327-ffee-4445-8a0f-9f0a0189e90e/RxWorkshopSchedulers_low_ch9.mp4",
+    "Description": " Learn about the use of schedulers to parameterize concurrency in Rx and to test applications using virtual time. Download the Challenge "
+  },
+  {
+    "VideoId": "a23f1b16-5049-48e0-ae89-9f1a0150ae83",
+    "DataApi": "/Entries(guid'a23f1b16-5049-48e0-ae89-9f1a0150ae83')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-7-Reactive-Coincidence",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae83/a23f1b16-5049-48e0-ae89-9f1a0150ae83/RxWorkshopLINQJoinOperatorRx_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:21:59",
+    "VideoTitle": "Rx Workshop: Reactive Coincidence",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-07-11T19:05:20Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae83/a23f1b16-5049-48e0-ae89-9f1a0150ae83/RxWorkshopLINQJoinOperatorRx_low_ch9.mp4",
+    "Description": " Learn how to model events with duration and how to use the LINQ Join operator to express complex queries involving coincidence. Download the Challenge "
+  },
+  {
+    "VideoId": "7e4e49e9-a6d3-45d4-b77b-9f1a0150d50c",
+    "DataApi": "/Entries(guid'7e4e49e9-a6d3-45d4-b77b-9f1a0150d50c')/",
+    "VideoPageLink": "/Series/Rx-Workshop/Rx-Workshop-8-Programming-the-Cloud",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d50c/7e4e49e9-a6d3-45d4-b77b-9f1a0150d50c/RxWorkshopAdvancedScheduling_512_ch9.jpg",
+    "ShowName": "Rx Workshop",
+    "VideoLength": "00:18:46",
+    "VideoTitle": "Rx Workshop: Programming the Cloud",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-07-11T19:05:32Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d50c/7e4e49e9-a6d3-45d4-b77b-9f1a0150d50c/RxWorkshopAdvancedScheduling_low_ch9.mp4",
+    "Description": " Learn about the special challenges of distributed reactive applications and how to use distributed schedulers to write powerful reactive programs. Download the Challenge "
+  }
+]

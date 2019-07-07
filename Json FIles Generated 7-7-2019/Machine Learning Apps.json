@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5ae7b8e5-2c14-46af-9382-a6a100059fb0",
+    "DataApi": "/Entries(guid'5ae7b8e5-2c14-46af-9382-a6a100059fb0')/",
+    "VideoPageLink": "/blogs/Machine-Learning-Apps/Opportunity-Scoring-Installer-for-Sales-Force",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ebd/be5d321e-0ca3-430d-b1df-be8466841ebd/OpportunityscoringinstallerforSalesForce_960.jpg",
+    "ShowName": "Machine Learning Apps",
+    "VideoLength": "00:05:18",
+    "VideoTitle": "Opportunity Scoring Installer for Sales Force",
+    "Author": "Prashant Kumar Dhingra",
+    "UtcDateTimePublished": "2016-10-16T00:54:00.006528Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ebd/be5d321e-0ca3-430d-b1df-be8466841ebd/OpportunityscoringinstallerforSalesForce_mid.mp4",
+    "Description": "In this video - see &quot;Opportunity scoring installer for Sales Force and usage&quot; Learn - how to use Machine learning model built using CIS on Sales Force sales pipeline Installation wizard will"
+  },
+  {
+    "VideoId": "e525f87d-52b7-4f1a-a074-a66f000eafe6",
+    "DataApi": "/Entries(guid'e525f87d-52b7-4f1a-a074-a66f000eafe6')/",
+    "VideoPageLink": "/blogs/Machine-Learning-Apps/Predict-water-flow-in-rivers-using-Machine-Learning",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1163/787433d2-0096-4082-ab15-9aafdff31163/predictwaterflow_960.jpg",
+    "ShowName": "Machine Learning Apps",
+    "VideoLength": "00:01:59",
+    "VideoTitle": "Predict water flow in rivers using Machine Learning",
+    "Author": "Prashant Kumar Dhingra",
+    "UtcDateTimePublished": "2016-08-27T01:29:44.0106775Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1163/787433d2-0096-4082-ab15-9aafdff31163/predictwaterflow_mid.mp4",
+    "Description": "Video demonstrate how floods can be predicted using Machine Learning. Example shows a scenario - during flood situation stream gage gets broken. Machine Learning can accurately predict water flow even"
+  },
+  {
+    "VideoId": "15fd1006-cc69-49fa-8064-a647015162f2",
+    "DataApi": "/Entries(guid'15fd1006-cc69-49fa-8064-a647015162f2')/",
+    "VideoPageLink": "/blogs/Machine-Learning-Apps/Opportunity-scoring-installer",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b154/eb34c759-a699-41e3-9b10-02763134b154/OpportunityScoringInstaller_960.jpg",
+    "ShowName": "Machine Learning Apps",
+    "VideoLength": "00:07:47",
+    "VideoTitle": "Opportunity scoring installer",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-07-18T20:39:56.6562818Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b154/eb34c759-a699-41e3-9b10-02763134b154/OpportunityScoringInstaller_mid.mp4",
+    "Description": "In this video - see &quot;Opportunity scoring installation and usage&quot; Learn - how to use Machine learning model on sales pipeline (in Dynamics CRM,  SalesForce CRM) Installation wizard will ask y"
+  },
+  {
+    "VideoId": "68e8e049-9524-4095-8c15-a6400156e935",
+    "DataApi": "/Entries(guid'68e8e049-9524-4095-8c15-a6400156e935')/",
+    "VideoPageLink": "/blogs/Machine-Learning-Apps/Demo-How-to-use-Machine-Learning-on-sales-pipeline",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ed41/68dbe36a-b29d-4098-acb2-e7cae883ed41/opportunityscoringdemo_960.jpg",
+    "ShowName": "Machine Learning Apps",
+    "VideoLength": "00:05:29",
+    "VideoTitle": "Demo - How to use Machine Learning on sales pipeline",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-07-11T21:59:51.3159142Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ed41/68dbe36a-b29d-4098-acb2-e7cae883ed41/opportunityscoringdemo_mid.mp4",
+    "Description": " Steps to install Download zip fileExtract contentDouble click on exe - CRMInstaller.exeProvide CRM CredentialsProvide Azure credentials Installer will deploy e2e solution in your Azure subscription. "
+  },
+  {
+    "VideoId": "3e114369-c9a8-4e9d-aff3-a63c00044248",
+    "DataApi": "/Entries(guid'3e114369-c9a8-4e9d-aff3-a63c00044248')/",
+    "VideoPageLink": "/blogs/Machine-Learning-Apps/Opportunity-scoring-for-Dynamics-CRM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/07b7/87c197b4-b856-45d1-b13b-0abd573d07b7/opportunityscoring_960.jpg",
+    "ShowName": "Machine Learning Apps",
+    "VideoLength": "00:01:42",
+    "VideoTitle": "Opportunity scoring for Dynamics CRM",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-07-07T21:51:37.4891011Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/07b7/87c197b4-b856-45d1-b13b-0abd573d07b7/opportunityscoring_mid.mp4",
+    "Description": "Microsoft team has released a Opportunity Scoring solution. Opportunity scoring uses a machine learning model trained on past sales data to predict the eventual probability that the sale will be won. "
+  }
+]

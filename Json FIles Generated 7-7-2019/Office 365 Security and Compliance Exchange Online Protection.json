@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "22922bbb-e8d6-4336-99da-a3cb014c4c0b",
+    "DataApi": "/Entries(guid'22922bbb-e8d6-4336-99da-a3cb014c4c0b')/",
+    "VideoPageLink": "/Series/Office-365-Security-and-Compliance-Exchange-Online-Protection/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/611f/a4f27ea0-8f55-4a75-9317-e1bf24f5611f/O365SecurityAndComplianceM02_960.jpg",
+    "ShowName": "Office 365 Security and Compliance: Exchange Online Protection",
+    "VideoLength": "00:16:58",
+    "VideoTitle": "Office 365 Security and Compliance: Exchange Online Protection: (02) EOP Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:46:19.1457947Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/611f/a4f27ea0-8f55-4a75-9317-e1bf24f5611f/O365SecurityAndComplianceM02_mid.mp4",
+    "Description": "Gain an understanding of the mail flow for both inbound and outbound mail when EOP is deployed. "
+  },
+  {
+    "VideoId": "0021ddd6-ed8b-4a4d-9689-a3cb014c8377",
+    "DataApi": "/Entries(guid'0021ddd6-ed8b-4a4d-9689-a3cb014c8377')/",
+    "VideoPageLink": "/Series/Office-365-Security-and-Compliance-Exchange-Online-Protection/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4836/49969614-1207-4201-9c32-14c60ff34836/O365SecurityAndComplianceM03_960.jpg",
+    "ShowName": "Office 365 Security and Compliance: Exchange Online Protection",
+    "VideoLength": "00:17:33",
+    "VideoTitle": "Office 365 Security and Compliance: Exchange Online Protection: (03) How Does EOP Handle Spam?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:46:43.2216602Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4836/49969614-1207-4201-9c32-14c60ff34836/O365SecurityAndComplianceM03_mid.mp4",
+    "Description": "Examine the multilevel spam filter used by EOP, and explore how administrators and end users can manage actions taken to handle spam and can provide feedback to improve the overall effectiveness of EO"
+  },
+  {
+    "VideoId": "def1af39-c1ea-4183-ad28-a3cb014cb689",
+    "DataApi": "/Entries(guid'def1af39-c1ea-4183-ad28-a3cb014cb689')/",
+    "VideoPageLink": "/Series/Office-365-Security-and-Compliance-Exchange-Online-Protection/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75bc/8c838910-a97b-4a38-aed6-587f882a75bc/O365SecurityAndComplianceM04_960.jpg",
+    "ShowName": "Office 365 Security and Compliance: Exchange Online Protection",
+    "VideoLength": "00:13:19",
+    "VideoTitle": "Office 365 Security and Compliance: Exchange Online Protection: (04) Exchange Transport Rules",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:47:03.7158571Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75bc/8c838910-a97b-4a38-aed6-587f882a75bc/O365SecurityAndComplianceM04_mid.mp4",
+    "Description": "Learn how to create, configure, and manage Exchange Transport Rules, which are a key component for spam filtering, malware filtering, and enforcing corporate policies for inbound and outbound email. "
+  },
+  {
+    "VideoId": "1bbbd2c2-a205-43f0-9f6f-a3cb014cd7c2",
+    "DataApi": "/Entries(guid'1bbbd2c2-a205-43f0-9f6f-a3cb014cd7c2')/",
+    "VideoPageLink": "/Series/Office-365-Security-and-Compliance-Exchange-Online-Protection/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4266/329330ca-9f90-4463-ad6b-1048c0ca4266/O365SecurityAndComplianceM05_960.jpg",
+    "ShowName": "Office 365 Security and Compliance: Exchange Online Protection",
+    "VideoLength": "00:11:33",
+    "VideoTitle": "Office 365 Security and Compliance: Exchange Online Protection: (05) Reporting & Message Trace",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:47:32.6276398Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4266/329330ca-9f90-4463-ad6b-1048c0ca4266/O365SecurityAndComplianceM05_mid.mp4",
+    "Description": "Get the details on how to use built-in reports and message tracing, including standard data-retention policies. "
+  },
+  {
+    "VideoId": "c7b043ff-b5da-4f8a-8c33-a3cb014d0b39",
+    "DataApi": "/Entries(guid'c7b043ff-b5da-4f8a-8c33-a3cb014d0b39')/",
+    "VideoPageLink": "/Series/Office-365-Security-and-Compliance-Exchange-Online-Protection/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7255/4ffc96e0-53bd-4924-8585-0560acd17255/O365SecurityAndComplianceM06_960.jpg",
+    "ShowName": "Office 365 Security and Compliance: Exchange Online Protection",
+    "VideoLength": "00:11:15",
+    "VideoTitle": "Office 365 Security and Compliance: Exchange Online Protection: (06) Mail-Flow & Connectors",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:47:36.6804204Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7255/4ffc96e0-53bd-4924-8585-0560acd17255/O365SecurityAndComplianceM06_mid.mp4",
+    "Description": "Exchange Online Protection can be used with on-premises Exchange Servers. Learn how you can integrate EOP into your existing mail flow, with just three easy steps, including configuring connectors to "
+  },
+  {
+    "VideoId": "77b020b5-02f8-4bdb-985b-a3cb014d3f07",
+    "DataApi": "/Entries(guid'77b020b5-02f8-4bdb-985b-a3cb014d3f07')/",
+    "VideoPageLink": "/Series/Office-365-Security-and-Compliance-Exchange-Online-Protection/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8029/f2d3f4d4-54ac-467b-ab16-dbd5c7d08029/O365SecurityAndComplianceM07_960.jpg",
+    "ShowName": "Office 365 Security and Compliance: Exchange Online Protection",
+    "VideoLength": "00:13:45",
+    "VideoTitle": "Office 365 Security and Compliance: Exchange Online Protection: (07) Data Privacy",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:48:18.5717347Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8029/f2d3f4d4-54ac-467b-ab16-dbd5c7d08029/O365SecurityAndComplianceM07_mid.mp4",
+    "Description": "Find out how Microsoft has implemented a three-layer security model involving Office 365, the customer, and security standards, to meet compliance requirements. And hear what Microsoft has planned for"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "630c921c-1524-47ef-a308-9fd4000c729b",
+    "DataApi": "/Entries(guid'630c921c-1524-47ef-a308-9fd4000c729b')/",
+    "VideoPageLink": "/Series/Top-Ranked/Top-Ranked-Benefiting-from-Trial-Mode",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/729b/630c921c-1524-47ef-a308-9fd4000c729b/TopRanked002TrialMode_512_ch9.jpg",
+    "ShowName": "Top Ranked",
+    "VideoLength": "00:15:12",
+    "VideoTitle": "Top Ranked - Benefiting from Trial Mode",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2012-01-16T23:49:00.140821Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/729b/630c921c-1524-47ef-a308-9fd4000c729b/TopRanked002TrialMode_med_ch9.mp4",
+    "Description": "In this episode of Top Ranked I talk about Trial mode.  Trial mode is one of the most important features available to you as a developer if youâ€™re building a paid app.  By implementing Trial mode in y"
+  },
+  {
+    "VideoId": "94875b2a-84e5-429e-92a8-9fe401602e95",
+    "DataApi": "/Entries(guid'94875b2a-84e5-429e-92a8-9fe401602e95')/",
+    "VideoPageLink": "/Series/Top-Ranked/Top-Ranked-Market-Testing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2e95/94875b2a-84e5-429e-92a8-9fe401602e95/TopRanked003MarketTesting_512_ch9.jpg",
+    "ShowName": "Top Ranked",
+    "VideoLength": "00:07:31",
+    "VideoTitle": "Top Ranked - Market Testing",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2012-01-30T19:22:21.454028Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2e95/94875b2a-84e5-429e-92a8-9fe401602e95/TopRanked003MarketTesting_med_ch9.mp4",
+    "Description": "In this episode we talk about pricing and more generically about market testing.  I know, I know, marketing is probably not every coders favorite subject.      I bring it up as Iâ€™ve noticed many apps "
+  },
+  {
+    "VideoId": "457ca0d1-d287-4960-b4bc-a00e00184e27",
+    "DataApi": "/Entries(guid'457ca0d1-d287-4960-b4bc-a00e00184e27')/",
+    "VideoPageLink": "/Series/Top-Ranked/Top-Ranked-Control-Feedback-on-Tap",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e27/457ca0d1-d287-4960-b4bc-a00e00184e27/TopRanked004ControlFeedbackOnTap_512_ch9.jpg",
+    "ShowName": "Top Ranked",
+    "VideoLength": "00:07:48",
+    "VideoTitle": "Top Ranked - Control Feedback on Tap",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2012-03-08T17:46:34.6735557Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e27/457ca0d1-d287-4960-b4bc-a00e00184e27/TopRanked004ControlFeedbackOnTap_med_ch9.mp4",
+    "Description": "In this episode, I focus on another small tweak that developers can add to their apps that will help make those apps look a lot more like native apps.  Iâ€™m referring to the addition of the Tilt Effect"
+  },
+  {
+    "VideoId": "76470842-fbed-455b-bcd1-a00f011e1e91",
+    "DataApi": "/Entries(guid'76470842-fbed-455b-bcd1-a00f011e1e91')/",
+    "VideoPageLink": "/Series/Top-Ranked/Top-Ranked-All-About-You",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e578/2ae00ea8-93cd-4c1d-8dfc-b22f9044e578/TopRanked005AllAboutYou_512.jpg",
+    "ShowName": "Top Ranked",
+    "VideoLength": "00:13:38",
+    "VideoTitle": "Top Ranked - All \"About\" You",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2012-03-13T17:05:06.2909047Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e578/2ae00ea8-93cd-4c1d-8dfc-b22f9044e578/TopRanked005AllAboutYou_mid.mp4",
+    "Description": "The About page is usually one of the last things you think about when building an app.  Itâ€™s just not core to the whatever it is youâ€™re trying to build.  And yet youâ€™ll soon find out that itâ€™s pretty "
+  },
+  {
+    "VideoId": "5c9c9ef8-31e4-4a8a-8d51-a0120131ba66",
+    "DataApi": "/Entries(guid'5c9c9ef8-31e4-4a8a-8d51-a0120131ba66')/",
+    "VideoPageLink": "/Series/Top-Ranked/Top-Ranked-Is-your-app-aligned",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f2fb/4fb89d69-dfa0-4baa-9c25-f3bd28c9f2fb/TopRanked006ElementAlignment_512.jpg",
+    "ShowName": "Top Ranked",
+    "VideoLength": "00:12:09",
+    "VideoTitle": "Top Ranked - Is your app aligned?",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2012-03-28T21:17:45.1231873Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f2fb/4fb89d69-dfa0-4baa-9c25-f3bd28c9f2fb/TopRanked006ElementAlignment_mid.mp4",
+    "Description": "Misaligned elements is probably one of the most common issues I see with apps in the marketplace.  In this episode of Top Ranked, I delve into why this is an issue and how easy it is to check for that"
+  },
+  {
+    "VideoId": "bd90809b-63f0-4e45-a545-a0130162973e",
+    "DataApi": "/Entries(guid'bd90809b-63f0-4e45-a545-a0130162973e')/",
+    "VideoPageLink": "/Series/Top-Ranked/Top-Ranked-Crash-King",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c94a/6ae965cd-32c9-4b28-8a2e-fd2c5e9dc94a/TopRanked007CrashReporting_512.jpg",
+    "ShowName": "Top Ranked",
+    "VideoLength": "00:13:06",
+    "VideoTitle": "Top Ranked - Crash King",
+    "Author": "Ben Riga",
+    "UtcDateTimePublished": "2012-05-08T18:52:08.3209326Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c94a/6ae965cd-32c9-4b28-8a2e-fd2c5e9dc94a/TopRanked007CrashReporting_mid.mp4",
+    "Description": "Bad stuff happens!  There is no way around that.  Itâ€™s a fact; your apps, out there in the wild on consumers devices, will crash.  This in itself is ok but only if you can get the information about th"
+  }
+]

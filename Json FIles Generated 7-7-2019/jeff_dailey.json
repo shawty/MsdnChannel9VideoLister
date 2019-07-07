@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "3fc049a1-601e-4592-be33-9deb01899cce",
+    "DataApi": "/Entries(guid'3fc049a1-601e-4592-be33-9deb01899cce')/",
+    "VideoPageLink": "/Blogs/jeff_dailey/ntdebugging-blog-talk-about-on-desktop-heap",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/31cd/c6cb7b0c-5668-4085-98b4-80a7981831cd/ntdebugging-blog-talk-about-on-desktop-heap_960.jpg",
+    "ShowName": "jeff_dailey",
+    "VideoLength": "00:14:37",
+    "VideoTitle": "ntdebugging blog talk about on desktop heap",
+    "Author": "jeff_dailey",
+    "UtcDateTimePublished": "2007-09-13T11:37:22Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/31cd/c6cb7b0c-5668-4085-98b4-80a7981831cd/ntdebugging-blog-talk-about-on-desktop-heap_mid.mp4",
+    "Description": "\nHi, This is Jeff Dailey, Iâ€™m an Escalation Engineer (EE) from the Microsoft GES (Global Escalation Services) Platforms team.  \nThis is the first in an ongoing series of videos based on our advanced"
+  }
+]

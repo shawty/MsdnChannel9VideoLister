@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "6dfa77bd-325c-4bfe-9525-a54e004e5f46",
+    "DataApi": "/Entries(guid'6dfa77bd-325c-4bfe-9525-a54e004e5f46')/",
+    "VideoPageLink": "/Blogs/trevor-powershell/Authoring-Custom-PowerShell-Intellisense-with-Trevor-Sullivan",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b1b9/19cc092c-efb9-4fd5-ae0b-c62713f6b1b9/AuthoringCustomPowerShellIntellisenseWithTrevorSu_960.jpg",
+    "ShowName": "PowerShell Automation with Trevor",
+    "VideoLength": "00:18:13",
+    "VideoTitle": "Authoring Custom PowerShell Intellisense with Trevor Sullivan",
+    "Author": "Trevor Sullivan",
+    "UtcDateTimePublished": "2015-11-12T13:47:25.3945022Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b1b9/19cc092c-efb9-4fd5-ae0b-c62713f6b1b9/AuthoringCustomPowerShellIntellisenseWithTrevorSu_mid.mp4",
+    "Description": "This video covers the use of the TabExpansion&#43;&#43; PowerShell module to develop your own custom &quot;argument completer&quot; functions for PowerShell's Intellisense engine. By leveraging this c"
+  },
+  {
+    "VideoId": "3775c083-4564-46d6-bab5-a4eb015c9227",
+    "DataApi": "/Entries(guid'3775c083-4564-46d6-bab5-a4eb015c9227')/",
+    "VideoPageLink": "/Blogs/trevor-powershell/Adding-Conceptual-Help-to-your-PowerShell-Modules",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/83e1/a16f7661-125d-4fcc-a092-01f3c7ad83e1/AddingConceptualHelpPowerShellModules_960.jpg",
+    "ShowName": "PowerShell Automation with Trevor",
+    "VideoLength": "00:05:06",
+    "VideoTitle": "Adding Conceptual Help to your PowerShell Modules",
+    "Author": "Trevor Sullivan",
+    "UtcDateTimePublished": "2015-08-05T21:42:38.5830117Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/83e1/a16f7661-125d-4fcc-a092-01f3c7ad83e1/AddingConceptualHelpPowerShellModules_mid.mp4",
+    "Description": "During this video, we will explore the process of adding conceptual &quot;about&quot; topics to PowerShell modules. You can learn more about Trevor Sullivan, a Microsoft MVP for Windows PowerShell, an"
+  },
+  {
+    "VideoId": "bf9c2b3b-9678-43ae-903f-a4e501829bcb",
+    "DataApi": "/Entries(guid'bf9c2b3b-9678-43ae-903f-a4e501829bcb')/",
+    "VideoPageLink": "/Blogs/trevor-powershell/Creating-and-Manipulating-PowerShell-Variables",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6a54/202090a9-8e6d-4bb9-87c1-2f90c1536a54/PowerShellVariablesCreatingManipulating_960.jpg",
+    "ShowName": "PowerShell Automation with Trevor",
+    "VideoLength": "00:06:21",
+    "VideoTitle": "Creating and Manipulating PowerShell Variables",
+    "Author": "Trevor Sullivan",
+    "UtcDateTimePublished": "2015-07-31T00:56:53.5130652Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a54/202090a9-8e6d-4bb9-87c1-2f90c1536a54/PowerShellVariablesCreatingManipulating_mid.mp4",
+    "Description": "During this video, we will explore variables in PowerShell: how to create them, how to strongly type them, how to add useful metadata to them, and remove them from the session! You can learn more abou"
+  }
+]

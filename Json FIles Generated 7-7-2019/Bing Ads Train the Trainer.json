@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "2ad23be2-455d-4039-ba1e-a3470132c597",
+    "DataApi": "/Entries(guid'2ad23be2-455d-4039-ba1e-a3470132c597')/",
+    "VideoPageLink": "/Series/Bing-Ads-Train-the-Trainer/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d6e/7aea8a7a-4dff-4879-af49-38c54f464d6e/BigAdsTTTM02_960.jpg",
+    "ShowName": "Bing Ads Train the Trainer",
+    "VideoLength": "00:48:00",
+    "VideoTitle": "Bing Ads Train The Trainer: (02) Getting Started with Bing Ads",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-11T20:32:41.4477615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d6e/7aea8a7a-4dff-4879-af49-38c54f464d6e/BigAdsTTTM02_mid.mp4",
+    "Description": "Learn what you need to know to set up your first campaign, including structure basics for Bing ads, ad targeting, keyword match types and selection, bidding and budgeting techniques, and conversion tr"
+  },
+  {
+    "VideoId": "c4d3e561-30a1-4e9d-b664-a34701332a84",
+    "DataApi": "/Entries(guid'c4d3e561-30a1-4e9d-b664-a34701332a84')/",
+    "VideoPageLink": "/Series/Bing-Ads-Train-the-Trainer/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ce6/2b3834f1-f601-4f9f-92eb-98f11df91ce6/BigAdsTTTM03_960.jpg",
+    "ShowName": "Bing Ads Train the Trainer",
+    "VideoLength": "00:22:19",
+    "VideoTitle": "Bing Ads Train The Trainer: (03) Bing Ads Advanced Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-11T20:32:58.960584Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ce6/2b3834f1-f601-4f9f-92eb-98f11df91ce6/BigAdsTTTM03_mid.mp4",
+    "Description": "Get an overview of advanced features, including ad extensions, dynamic ad text, content ads, and campaign exclusions. [00:31] - Ad extensions[08:47] - Dynamic text[13:53] - Content ads[16:18] - Campai"
+  },
+  {
+    "VideoId": "86b08f0d-f7a8-4c5c-a335-a347013361f3",
+    "DataApi": "/Entries(guid'86b08f0d-f7a8-4c5c-a335-a347013361f3')/",
+    "VideoPageLink": "/Series/Bing-Ads-Train-the-Trainer/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e429/0a1f7df1-18d6-48a0-ac25-f70ac7fde429/BigAdsTTTM04_960.jpg",
+    "ShowName": "Bing Ads Train the Trainer",
+    "VideoLength": "00:35:42",
+    "VideoTitle": "Bing Ads Train The Trainer: (04) Optimizations and the Bing Ads Editor",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-16T16:18:22.8644839Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e429/0a1f7df1-18d6-48a0-ac25-f70ac7fde429/BigAdsTTTM04_mid.mp4",
+    "Description": "Get details on utilizing Bing Ads reports and campaign optimization techniques, including optimizations for Smart Search and a look at the functionality of Bing Ads Editor. [01:18] - Bing Ads reports["
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4508c025-4861-46ed-a226-a5a3001164ca",
+    "DataApi": "/Entries(guid'4508c025-4861-46ed-a226-a5a3001164ca')/",
+    "VideoPageLink": "/Series/C-60-Programming-Language/Module-1-C-101",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e58/7ee0d6de-83bf-4e61-9d53-bdf569df6e58/csen1_960.jpg",
+    "ShowName": "C# 6.0 Programming Language",
+    "VideoLength": "01:11:59",
+    "VideoTitle": "Module 1: C# 101",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-02-05T04:27:23.0171811Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e58/7ee0d6de-83bf-4e61-9d53-bdf569df6e58/csen1_mid.mp4",
+    "Description": "Introduction to C# and .NET Framework. "
+  }
+]

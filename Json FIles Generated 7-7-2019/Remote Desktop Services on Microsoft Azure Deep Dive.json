@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "1e1427b1-3f65-4827-93f9-a3c40130c47f",
+    "DataApi": "/Entries(guid'1e1427b1-3f65-4827-93f9-a3c40130c47f')/",
+    "VideoPageLink": "/Series/Remote-Desktop-Services-on-Microsoft-Azure-Deep-Dive/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/717c/bf6d8c76-6643-450d-9879-d3a44208717c/RDSonMicrosoftAzureDeepDiveM02_960.jpg",
+    "ShowName": "Remote Desktop Services on Microsoft Azure Deep Dive",
+    "VideoLength": "00:15:14",
+    "VideoTitle": "Remote Desktop Services on Microsoft Azure Deep Dive: (02) Preparing the Environment for RDS in Microsoft Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T21:15:15.0668763Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/717c/bf6d8c76-6643-450d-9879-d3a44208717c/RDSonMicrosoftAzureDeepDiveM02_mid.mp4",
+    "Description": "Find out how to deploy a basic desktop hosting solution based on the Azure Desktop Hosting Reference Architecture Guide. Get a starting point for implementing a desktop hosting service on Microsoft Az"
+  },
+  {
+    "VideoId": "1b51ed4a-27f6-4752-9265-a3c40130f42f",
+    "DataApi": "/Entries(guid'1b51ed4a-27f6-4752-9265-a3c40130f42f')/",
+    "VideoPageLink": "/Series/Remote-Desktop-Services-on-Microsoft-Azure-Deep-Dive/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7192/4d0459af-9877-4750-8452-f9ac93bd7192/RDSonMicrosoftAzureDeepDiveM03_960.jpg",
+    "ShowName": "Remote Desktop Services on Microsoft Azure Deep Dive",
+    "VideoLength": "00:49:36",
+    "VideoTitle": "Remote Desktop Services on Microsoft Azure Deep Dive: (03) Deploying and Testing the RDS Farm in Microsoft Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T21:15:43.1797442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7192/4d0459af-9877-4750-8452-f9ac93bd7192/RDSonMicrosoftAzureDeepDiveM03_mid.mp4",
+    "Description": "Get the details on deploying and testing the RDS farm in Microsoft Azure. Full course outline: Mod 01: Solution Overview of RDS in Microsoft AzureMod 02: Preparing the Environment for RDS in Microsoft"
+  },
+  {
+    "VideoId": "77d5cba1-d8e6-4f92-a029-a3c40131379a",
+    "DataApi": "/Entries(guid'77d5cba1-d8e6-4f92-a029-a3c40131379a')/",
+    "VideoPageLink": "/Series/Remote-Desktop-Services-on-Microsoft-Azure-Deep-Dive/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f156/57903fd0-86f5-468d-acc9-bdeb5d97f156/RDSonMicrosoftAzureDeepDiveM04_960.jpg",
+    "ShowName": "Remote Desktop Services on Microsoft Azure Deep Dive",
+    "VideoLength": "00:06:46",
+    "VideoTitle": "Remote Desktop Services on Microsoft Azure Deep Dive: (04) Preparing the Environment for Load Balancing and High Availability in Microsoft Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T21:15:59.2897824Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f156/57903fd0-86f5-468d-acc9-bdeb5d97f156/RDSonMicrosoftAzureDeepDiveM04_mid.mp4",
+    "Description": "Learn how to prepare the environment for load balancing and high availability in Micosoft Azure. Full course outline: Mod 01: Solution Overview of RDS in Microsoft AzureMod 02: Preparing the Environme"
+  },
+  {
+    "VideoId": "5cc07b9b-7f0e-40c0-9d49-a3c401316ff4",
+    "DataApi": "/Entries(guid'5cc07b9b-7f0e-40c0-9d49-a3c401316ff4')/",
+    "VideoPageLink": "/Series/Remote-Desktop-Services-on-Microsoft-Azure-Deep-Dive/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/10d2/f884d340-6bb4-4417-9cba-d42a092f10d2/RDSonMicrosoftAzureDeepDiveM05_960.jpg",
+    "ShowName": "Remote Desktop Services on Microsoft Azure Deep Dive",
+    "VideoLength": "00:16:21",
+    "VideoTitle": "Remote Desktop Services on Microsoft Azure Deep Dive: (05) Deploying Load Balancing and High Availability for RDS in Microsoft Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T21:16:45.7625518Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/10d2/f884d340-6bb4-4417-9cba-d42a092f10d2/RDSonMicrosoftAzureDeepDiveM05_mid.mp4",
+    "Description": "Hear how to deploy a Remote Desktop Web Access (RD Web Access) and Remote Desktop Gateway (RD Gateway) to improve the availability and scale of a Windows Server 2012 R2 Remote Desktop Services (RDS) d"
+  },
+  {
+    "VideoId": "68ddaf5b-3dc2-43c0-b0be-a3c401319881",
+    "DataApi": "/Entries(guid'68ddaf5b-3dc2-43c0-b0be-a3c401319881')/",
+    "VideoPageLink": "/Series/Remote-Desktop-Services-on-Microsoft-Azure-Deep-Dive/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1369/6d0587f5-efef-4fdd-83e2-23422e5f1369/RDSonMicrosoftAzureDeepDiveM06_960.jpg",
+    "ShowName": "Remote Desktop Services on Microsoft Azure Deep Dive",
+    "VideoLength": "00:04:15",
+    "VideoTitle": "Remote Desktop Services on Microsoft Azure Deep Dive: (06) Testing and Securing your Load-Balanced, Highly Available RDS Farm in Microsoft Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-14T21:17:02.3966564Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1369/6d0587f5-efef-4fdd-83e2-23422e5f1369/RDSonMicrosoftAzureDeepDiveM06_mid.mp4",
+    "Description": "Find out how to test and secure the environment for load-balanced, highly available RDS farm in Microsoft Azure. Full course outline: Mod 01: Solution Overview of RDS in Microsoft AzureMod 02: Prepari"
+  }
+]

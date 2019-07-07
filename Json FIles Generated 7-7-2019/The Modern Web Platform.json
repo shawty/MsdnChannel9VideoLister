@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5c2359e4-6180-42c8-8071-a3950151a557",
+    "DataApi": "/Entries(guid'5c2359e4-6180-42c8-8071-a3950151a557')/",
+    "VideoPageLink": "/Series/The-Modern-Web-Platform/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3136/e326703e-0705-4978-ba8a-f706e7733136/TheModernWebPlatformM02_960.jpg",
+    "ShowName": "The Modern Web Platform",
+    "VideoLength": "00:53:46",
+    "VideoTitle": "The Modern Web Platform: (02) Styling and Layout",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T00:50:51.197705Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3136/e326703e-0705-4978-ba8a-f706e7733136/TheModernWebPlatformM02_mid.mp4",
+    "Description": "Explore layout and styling factors that apply to HTML interfaces in general, in addition to those which enable the unique interactions that exist in mobile apps. Hear how HTML relies on the powerful C"
+  },
+  {
+    "VideoId": "275236bd-77a1-493c-af0f-a3950151e0ee",
+    "DataApi": "/Entries(guid'275236bd-77a1-493c-af0f-a3950151e0ee')/",
+    "VideoPageLink": "/Series/The-Modern-Web-Platform/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bffa/968db4a6-c207-4dc2-ab05-65de891bbffa/TheModernWebPlatformM03_960.jpg",
+    "ShowName": "The Modern Web Platform",
+    "VideoLength": "00:51:00",
+    "VideoTitle": "The Modern Web Platform: (03) Transitions and Transforms",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T00:51:22.2687729Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bffa/968db4a6-c207-4dc2-ab05-65de891bbffa/TheModernWebPlatformM03_mid.mp4",
+    "Description": "See how to modify the UI through a variety of definitions that produce rotation, scaling, and movement, and explore how to effectively use the options to produce desirable features in websites and app"
+  },
+  {
+    "VideoId": "65b5350d-7a47-41c0-bdd5-a395015219c9",
+    "DataApi": "/Entries(guid'65b5350d-7a47-41c0-bdd5-a395015219c9')/",
+    "VideoPageLink": "/Series/The-Modern-Web-Platform/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2f92/2a3b1381-5f6f-4e72-bf08-15f0dcb22f92/TheModernWebPlatformM04_960.jpg",
+    "ShowName": "The Modern Web Platform",
+    "VideoLength": "00:53:00",
+    "VideoTitle": "The Modern Web Platform: (04) Core APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T00:51:54.215273Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2f92/2a3b1381-5f6f-4e72-bf08-15f0dcb22f92/TheModernWebPlatformM04_mid.mp4",
+    "Description": "Since the introduction of HTML5, a huge number of capabilities have been added to the web stack. Hear how to make the most of these capabilities using JavaScript, look at promises for asynchrony, loca"
+  },
+  {
+    "VideoId": "e1fb5210-ed40-458d-b589-a39501525442",
+    "DataApi": "/Entries(guid'e1fb5210-ed40-458d-b589-a39501525442')/",
+    "VideoPageLink": "/Series/The-Modern-Web-Platform/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb49/8e730d2b-e577-4396-b183-ffb4f845fb49/TheModernWebPlatformM05_960.jpg",
+    "ShowName": "The Modern Web Platform",
+    "VideoLength": "00:43:00",
+    "VideoTitle": "The Modern Web Platform: (05) UI APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T00:52:22.8998116Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb49/8e730d2b-e577-4396-b183-ffb4f845fb49/TheModernWebPlatformM05_mid.mp4",
+    "Description": "See how to provide features, such as touch interactions, enhanced visuals with canvas or WebGL, adding audio, and providing video. Review what MPEG-DASH is, and explore why you might care to learn mor"
+  },
+  {
+    "VideoId": "9c495caa-0bce-48c9-afc2-a3950152875b",
+    "DataApi": "/Entries(guid'9c495caa-0bce-48c9-afc2-a3950152875b')/",
+    "VideoPageLink": "/Series/The-Modern-Web-Platform/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf6c/31bed19a-bf61-4b71-9e00-8d1f0c45bf6c/TheModernWebPlatformM06_960.jpg",
+    "ShowName": "The Modern Web Platform",
+    "VideoLength": "00:55:38",
+    "VideoTitle": "The Modern Web Platform: (06) JavaScript Libraries",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-29T00:52:59.7071061Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf6c/31bed19a-bf61-4b71-9e00-8d1f0c45bf6c/TheModernWebPlatformM06_mid.mp4",
+    "Description": "Hear about one of the huge advantages of using the modern web platform to build client apps, which is the ability to utilize the entire world of JavaScript libraries, frameworks, and snippets availabl"
+  }
+]

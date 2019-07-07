@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "a0820666-ae8a-4dae-978f-a3d501497f46",
+    "DataApi": "/Entries(guid'a0820666-ae8a-4dae-978f-a3d501497f46')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Azure-Machine-Learning/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/40d7/521fb4ca-0869-41d8-84f2-975e26d540d7/GetStartedMSAzureMachineLearningM02_960.jpg",
+    "ShowName": "Getting Started with Microsoft Azure Machine Learning",
+    "VideoLength": "00:48:33",
+    "VideoTitle": "Getting Started with Microsoft Azure Machine Learning: (02) Designing a Predictive Analytics Solution with Azure ML",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:04:58.996796Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/40d7/521fb4ca-0869-41d8-84f2-975e26d540d7/GetStartedMSAzureMachineLearningM02_mid.mp4",
+    "Description": "Watch an end-to-end scenario demo, and recreate a recommendation model from scratch in ML Studio. Learn about the process and flow of machine learning and what each module contributes, from start to f"
+  },
+  {
+    "VideoId": "3d1e133a-d2fc-4452-8faa-a3d50149ced5",
+    "DataApi": "/Entries(guid'3d1e133a-d2fc-4452-8faa-a3d50149ced5')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Azure-Machine-Learning/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a71d/85640d49-4109-443a-8c70-d8c065eda71d/GetStartedMSAzureMachineLearningM03_960.jpg",
+    "ShowName": "Getting Started with Microsoft Azure Machine Learning",
+    "VideoLength": "00:38:32",
+    "VideoTitle": "Getting Started with Microsoft Azure Machine Learning: (03) Monetizing Your ML Application with Azure Marketplace",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:05:18.1085041Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a71d/85640d49-4109-443a-8c70-d8c065eda71d/GetStartedMSAzureMachineLearningM03_mid.mp4",
+    "Description": "See a demo on publishing the finished app: begin with the two stage-process of publishing the app and then releasing it to production as a web service. Then, explore the process of registering as a pu"
+  },
+  {
+    "VideoId": "7be6db03-d8db-4d42-945d-a3d5014a0a34",
+    "DataApi": "/Entries(guid'7be6db03-d8db-4d42-945d-a3d5014a0a34')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Azure-Machine-Learning/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/48fc/87949436-48e9-4162-88fc-5fc67a9448fc/GetStartedMSAzureMachineLearningM04_960.jpg",
+    "ShowName": "Getting Started with Microsoft Azure Machine Learning",
+    "VideoLength": "00:17:31",
+    "VideoTitle": "Getting Started with Microsoft Azure Machine Learning: (04) Azure ML API Services and Extensibility Scenarios",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:05:35.7076647Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/48fc/87949436-48e9-4162-88fc-5fc67a9448fc/GetStartedMSAzureMachineLearningM04_mid.mp4",
+    "Description": "Learn to use the automatically generated C# code in the web service API, and run that code in Visual Studio. This code calls the API from the web service and returns the results, which can be used to "
+  }
+]

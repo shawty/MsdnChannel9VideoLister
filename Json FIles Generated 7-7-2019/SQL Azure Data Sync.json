@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "c461f99f-3d80-47c3-b611-9f9101685a2b",
+    "DataApi": "/Entries(guid'c461f99f-3d80-47c3-b611-9f9101685a2b')/",
+    "VideoPageLink": "/Series/SQL-Azure-Data-Sync/SQL-Azure-Data-Sync-Synchronize-Data-across-On-Premise-and-Cloud-E2C",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a2b/c461f99f-3d80-47c3-b611-9f9101685a2b/SQLAzureDataSyncE2_512_ch9.jpg",
+    "ShowName": "SQL Azure Data Sync",
+    "VideoLength": "00:16:07",
+    "VideoTitle": "SQL Azure Data Sync- Synchronize Data across On-Premise and Cloud (E2C)",
+    "Author": "Sudhesh Suresh",
+    "UtcDateTimePublished": "2011-11-04T23:40:57.7164679Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a2b/c461f99f-3d80-47c3-b611-9f9101685a2b/SQLAzureDataSyncE2_med_ch9.mp4",
+    "Description": "About the Video: This is second in the series of webcasts covering the SQL Azure Data Sync service. In this demo heavy webcast, Sudhesh covers the details of synchronizing date across on-premise and c"
+  },
+  {
+    "VideoId": "b1ae79f2-f6a1-43c6-980a-9f9a0144b426",
+    "DataApi": "/Entries(guid'b1ae79f2-f6a1-43c6-980a-9f9a0144b426')/",
+    "VideoPageLink": "/Series/SQL-Azure-Data-Sync/Synchronize-Data-from-Cloud-to-Cloud-C2C-using-SQL-Azure-Data-Sync",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b426/b1ae79f2-f6a1-43c6-980a-9f9a0144b426/C2C_512_ch9.jpg",
+    "ShowName": "SQL Azure Data Sync",
+    "VideoLength": "00:17:08",
+    "VideoTitle": "Synchronize Data from Cloud to Cloud (C2C) using SQL Azure Data Sync",
+    "Author": "Sudhesh Suresh",
+    "UtcDateTimePublished": "2011-11-13T21:07:20.7984208Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b426/b1ae79f2-f6a1-43c6-980a-9f9a0144b426/C2C_med_ch9.mp4",
+    "Description": "About the Video: This is third in the series of webcasts covering the SQL Azure Data Sync service. In this demo heavy webcast, Sudhesh covers the details of how SQL Azure Data Sync can be used for Clo"
+  }
+]

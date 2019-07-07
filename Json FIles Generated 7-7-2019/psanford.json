@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "7ab747fb-6ffb-4fa8-8078-9deb002a6f1a",
+    "DataApi": "/Entries(guid'7ab747fb-6ffb-4fa8-8078-9deb002a6f1a')/",
+    "VideoPageLink": "/Blogs/psanford/Windows-Azure-Developer-Contest-Winners",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/9/2/4/0/9/4/WindowsAzureDeveloperContest_512_ch9.png",
+    "ShowName": "psanford",
+    "VideoLength": "00:06:54",
+    "VideoTitle": "Windows Azure Developer Contest Winners",
+    "Author": "Paul Sanford",
+    "UtcDateTimePublished": "2009-09-08T23:33:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/9/2/4/0/9/4/WindowsAzureDeveloperContest_ch9.mp4",
+    "Description": "Learn how Laith Yousif created his winning Windows Azure application!  "
+  }
+]

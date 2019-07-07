@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "187e6045-74a0-4c29-a48f-a5cd00b3f821",
+    "DataApi": "/Entries(guid'187e6045-74a0-4c29-a48f-a5cd00b3f821')/",
+    "VideoPageLink": "/Series/TechNetUK/Managing-Windows-Containers-and-Hyper-V-Containers-using-PowerShell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/942a/4f36de7b-42bb-419c-bef0-6102120f942a/ukcontainers_960.jpg",
+    "ShowName": "@TechNetUK",
+    "VideoLength": "00:21:26",
+    "VideoTitle": "Managing Windows Containers and Hyper-V Containers using PowerShell",
+    "Author": "Ed Baker",
+    "UtcDateTimePublished": "2016-03-18T11:16:53.2770721Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/942a/4f36de7b-42bb-419c-bef0-6102120f942a/ukcontainers_mid.mp4",
+    "Description": "This How-to  session will walk the viewer through all that is required to create, amend and deploy Windows Containers and Hyper-V containers and Container Images. In this session the viewer will learn"
+  }
+]

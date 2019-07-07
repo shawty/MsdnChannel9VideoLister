@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "68a4e01b-cf07-460c-926f-a3c5010cbf76",
+    "DataApi": "/Entries(guid'68a4e01b-cf07-460c-926f-a3c5010cbf76')/",
+    "VideoPageLink": "/Series/Azure-Resource-Manager-DevOps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/41ad/e2efd9e4-168f-437f-ac72-e5777f8e41ad/AzureResourceManagerDevOpsM02_960.jpg",
+    "ShowName": "Azure Resource Manager DevOps",
+    "VideoLength": "00:50:58",
+    "VideoTitle": "Azure Resource Manager DevOps: (02) Tooling",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T20:29:19.0698049Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/41ad/e2efd9e4-168f-437f-ac72-e5777f8e41ad/AzureResourceManagerDevOpsM02_mid.mp4",
+    "Description": "Understand the various tools you have available to create, deploy, and manage resource groups and templates. [05:33] - PowerSHell[13:06] - Postman and Rest APIS[33:23] - Troubleshooting[42:33] - Visua"
+  },
+  {
+    "VideoId": "589f7e51-5474-4c01-83df-a3c5010cf935",
+    "DataApi": "/Entries(guid'589f7e51-5474-4c01-83df-a3c5010cf935')/",
+    "VideoPageLink": "/Series/Azure-Resource-Manager-DevOps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f3f7/0f4636b4-3a96-4cf2-b133-1b8cb07cf3f7/AzureResourceManagerDevOpsM03_960.jpg",
+    "ShowName": "Azure Resource Manager DevOps",
+    "VideoLength": "00:40:31",
+    "VideoTitle": "Azure Resource Manager DevOps: (03) Customizing Templates",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T20:29:58.2809243Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f3f7/0f4636b4-3a96-4cf2-b133-1b8cb07cf3f7/AzureResourceManagerDevOpsM03_mid.mp4",
+    "Description": "Dive into the JSON language utilized by resource templates so you can customize your own custom deployment with dependencies, endpoints, alerts, and the new tagging support. [01:09] - Language Foundat"
+  },
+  {
+    "VideoId": "1d24e7bc-fa71-4797-99f0-a3c5010d4639",
+    "DataApi": "/Entries(guid'1d24e7bc-fa71-4797-99f0-a3c5010d4639')/",
+    "VideoPageLink": "/Series/Azure-Resource-Manager-DevOps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2100/6092f570-7afc-45c5-a785-55cbe3db2100/AzureResourceManagerDevOpsM04_960.jpg",
+    "ShowName": "Azure Resource Manager DevOps",
+    "VideoLength": "00:26:17",
+    "VideoTitle": "Azure Resource Manager DevOps: (04) Role-Based Access Control",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T20:30:21.4095218Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2100/6092f570-7afc-45c5-a785-55cbe3db2100/AzureResourceManagerDevOpsM04_mid.mp4",
+    "Description": "Hear how role-based access control works, and find out how to start implementing it in your own Azure subscription. [03:38] - Azure AD Fundamentals[09:43] - RBAC -Portals[17:30] - RBAC - TemplatesFull"
+  },
+  {
+    "VideoId": "c3e5493b-9eca-42a2-9274-a3c5010d9af2",
+    "DataApi": "/Entries(guid'c3e5493b-9eca-42a2-9274-a3c5010d9af2')/",
+    "VideoPageLink": "/Series/Azure-Resource-Manager-DevOps/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1e3c/d096e694-ca44-4b61-af1f-292906ea1e3c/AzureResourceManagerDevOpsM05_960.jpg",
+    "ShowName": "Azure Resource Manager DevOps",
+    "VideoLength": "00:39:07",
+    "VideoTitle": "Azure Resource Manager DevOps: (05) ARM and ALM Intergration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-15T20:31:13.587251Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1e3c/d096e694-ca44-4b61-af1f-292906ea1e3c/AzureResourceManagerDevOpsM05_mid.mp4",
+    "Description": "See some of the advanced ways to connect the knowledge you've learned so far to the overall application lifecycle management (ALM) by implementing continuous deployment and by automating the provision"
+  }
+]

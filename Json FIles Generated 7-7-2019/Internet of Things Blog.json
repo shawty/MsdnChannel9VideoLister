@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d046dd09-ae1e-474e-b3fc-a500012c9c82",
+    "DataApi": "/Entries(guid'd046dd09-ae1e-474e-b3fc-a500012c9c82')/",
+    "VideoPageLink": "/Blogs/Internet-of-Things-Blog/Creating-AllJoyn-Producers-and-Authoring-AllJoyn-Introspection-XML",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "f287c66d-9c99-451b-b055-a4f4017f936c",
+    "DataApi": "/Entries(guid'f287c66d-9c99-451b-b055-a4f4017f936c')/",
+    "VideoPageLink": "/Blogs/Internet-of-Things-Blog/Using-the-AllJoyn--Studio-Extension",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "b64ca2d7-6b74-45c2-9f3b-a4ae011777fa",
+    "DataApi": "/Entries(guid'b64ca2d7-6b74-45c2-9f3b-a4ae011777fa')/",
+    "VideoPageLink": "/Blogs/Internet-of-Things-Blog/Troubleshooting-AllJoyn-with-Windows-10-Insider-Preview-Builds",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "0d754157-53a7-4b48-8911-a48a01267474",
+    "DataApi": "/Entries(guid'0d754157-53a7-4b48-8911-a48a01267474')/",
+    "VideoPageLink": "/Blogs/Internet-of-Things-Blog/Step-By-Step-Building-AllJoyn-Universal-Windows-Apps-for-Windows-10-Public-Preview",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ada7ab7b-cb97-4650-a045-a3a10117ac3b",
+    "DataApi": "/Entries(guid'ada7ab7b-cb97-4650-a045-a3a10117ac3b')/",
+    "VideoPageLink": "/Blogs/Internet-of-Things-Blog/IoT-Hackathon-with-the-Intel-Galileo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8201/3cdbbceb-10eb-4d84-903a-650c09618201/IoTHackathonIntelGalileo_960.jpg",
+    "ShowName": "Internet of Things Blog",
+    "VideoLength": "00:06:13",
+    "VideoTitle": "IoT Hackathon with the Intel Galileo",
+    "Author": "Golnaz",
+    "UtcDateTimePublished": "2014-09-09T17:58:08.6872214Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8201/3cdbbceb-10eb-4d84-903a-650c09618201/IoTHackathonIntelGalileo_mid.mp4",
+    "Description": "Ric Lewis, Program Manager for the IoT team, walks us through an internal Hackathon held here at Microsoft. The event was designed to introduce internal developers to the Intel Galileo board. These pa"
+  }
+]

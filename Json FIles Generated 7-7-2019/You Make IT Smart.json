@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "f1353d5e-3e0f-4599-bfdb-a51000ccad22",
+    "DataApi": "/Entries(guid'f1353d5e-3e0f-4599-bfdb-a51000ccad22')/",
+    "VideoPageLink": "/blogs/Azure4Students/You-Make-IT-Smart",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b2b4/cb7f984e-e5a2-4c33-b45a-a49bf36fb2b4/YMITS_960.jpg",
+    "ShowName": "You Make IT Smart",
+    "VideoLength": "00:16:05",
+    "VideoTitle": "You Make IT Smart",
+    "Author": "Mandrx",
+    "UtcDateTimePublished": "2015-09-14T10:13:01.3572185Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b2b4/cb7f984e-e5a2-4c33-b45a-a49bf36fb2b4/YMITS_mid.mp4",
+    "Description": "Discover the new Azure for student offer available at https://aka.ms/azureforstudents and the contest for Swiss student at http://ymits.azurewebsites.net/ which will make you discover Azure in a fun w"
+  }
+]

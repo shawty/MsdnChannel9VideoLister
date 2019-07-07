@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "0d9165a2-b44c-4234-99bf-a42901746ce2",
+    "DataApi": "/Entries(guid'0d9165a2-b44c-4234-99bf-a42901746ce2')/",
+    "VideoPageLink": "/Series/Enabling-Samsung-KNOX-via-Microsoft-Intune/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09df/e63ca010-c4b4-417d-a6c6-e01049cb09df/702EnablingSamsungKNOXViaIntuneM02_960.jpg",
+    "ShowName": "Enabling Samsung KNOX via Microsoft Intune",
+    "VideoLength": "00:12:40",
+    "VideoTitle": "Enabling Samsung KNOX via Microsoft Intune: (02) Microsoft Intune Introduction",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T18:15:37.5093794Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09df/e63ca010-c4b4-417d-a6c6-e01049cb09df/702EnablingSamsungKNOXViaIntuneM02_mid.mp4",
+    "Description": "Learn how Microsoft Intune allows IT to securely enable the organization it supports through Intune. See a real-world example of Microsoft Intune in use. "
+  },
+  {
+    "VideoId": "948fd23c-522d-4449-bf0f-a429017492e8",
+    "DataApi": "/Entries(guid'948fd23c-522d-4449-bf0f-a429017492e8')/",
+    "VideoPageLink": "/Series/Enabling-Samsung-KNOX-via-Microsoft-Intune/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ab00/ae7f47c5-ea17-4754-aedc-e8d8f60bab00/702EnablingSamsungKNOXViaIntuneM03_960.jpg",
+    "ShowName": "Enabling Samsung KNOX via Microsoft Intune",
+    "VideoLength": "00:11:01",
+    "VideoTitle": "Enabling Samsung KNOX via Microsoft Intune: (03) Samsung KNOX Introduction",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T18:15:47.9695973Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ab00/ae7f47c5-ea17-4754-aedc-e8d8f60bab00/702EnablingSamsungKNOXViaIntuneM03_mid.mp4",
+    "Description": "Find out what Samsung has done to reinforce Android to make it business-friendly. â€‹Android, as a stand-alone offering, has been a challenge to securel, and Samsung has stepped up to address this via K"
+  },
+  {
+    "VideoId": "c098ae3a-0c20-4198-bc53-a4290174b714",
+    "DataApi": "/Entries(guid'c098ae3a-0c20-4198-bc53-a4290174b714')/",
+    "VideoPageLink": "/Series/Enabling-Samsung-KNOX-via-Microsoft-Intune/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c857/93ec79bb-d6ef-4034-a0f9-b6d93ec2c857/702EnablingSamsungKNOXViaIntuneM04_960.jpg",
+    "ShowName": "Enabling Samsung KNOX via Microsoft Intune",
+    "VideoLength": "00:17:27",
+    "VideoTitle": "Enabling Samsung KNOX via Microsoft Intune: (04) Enabling Samsung KNOX via Microsoft Intune",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-24T18:15:59.3632788Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c857/93ec79bb-d6ef-4034-a0f9-b6d93ec2c857/702EnablingSamsungKNOXViaIntuneM04_mid.mp4",
+    "Description": "Take a look at enablement of the Samsung KNOX feature set via Microsoft Intune, specifically identifying KNOX capabilities. See a demo that highlights the deployment of a Galaxy Tab 3 via Microsoft In"
+  }
+]

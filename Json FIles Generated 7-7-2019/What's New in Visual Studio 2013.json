@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "8d997ba6-3867-4825-a18c-a2960184fda4",
+    "DataApi": "/Entries(guid'8d997ba6-3867-4825-a18c-a2960184fda4')/",
+    "VideoPageLink": "/Series/What-s-New-in-Visual-Studio-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8377/3877844d-5b4f-41e4-86ed-c6176ef98377/WhatsNewInVisualStudio2013M02_960.jpg",
+    "ShowName": "What's New in Visual Studio 2013",
+    "VideoLength": "01:03:07",
+    "VideoTitle": "Whatâ€™s New in Visual Studio 2013: (02) New Features for Web Developers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T17:02:38.239875Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8377/3877844d-5b4f-41e4-86ed-c6176ef98377/WhatsNewInVisualStudio2013M02_mid.mp4",
+    "Description": "Learn about what's new in Visual Studio 2013 for web developers. Whether it's MVC and ASP.NET, SharePoint, or Azure integration, this module is a must for anyone doing web app development. [01:45] - A"
+  },
+  {
+    "VideoId": "5d4db82f-972b-49d2-841e-a296018542b6",
+    "DataApi": "/Entries(guid'5d4db82f-972b-49d2-841e-a296018542b6')/",
+    "VideoPageLink": "/Series/What-s-New-in-Visual-Studio-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d8df/699c744b-6b9e-4fd5-bed4-971a8f75d8df/WhatsNewInVisualStudio2013M03_960.jpg",
+    "ShowName": "What's New in Visual Studio 2013",
+    "VideoLength": "00:54:30",
+    "VideoTitle": "Whatâ€™s New in Visual Studio 2013: (03) Application Lifecycle Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T17:03:04.8300934Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d8df/699c744b-6b9e-4fd5-bed4-971a8f75d8df/WhatsNewInVisualStudio2013M03_mid.mp4",
+    "Description": "Find out how to take advantage of the new and improved ALM features in Visual Studio 2013. This module introduces new Team Foundation Server and testing tools that will help improve efficiencies and r"
+  },
+  {
+    "VideoId": "20d61396-4e2d-4546-9696-a2960185b00b",
+    "DataApi": "/Entries(guid'20d61396-4e2d-4546-9696-a2960185b00b')/",
+    "VideoPageLink": "/Series/What-s-New-in-Visual-Studio-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c956/4a999303-8e04-468a-802d-f19492d8c956/WhatsNewInVisualStudio2013M04_960.jpg",
+    "ShowName": "What's New in Visual Studio 2013",
+    "VideoLength": "00:52:45",
+    "VideoTitle": "Whatâ€™s New in Visual Studio 2013: (04) What's New for App Developers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-17T17:03:44.9496055Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c956/4a999303-8e04-468a-802d-f19492d8c956/WhatsNewInVisualStudio2013M04_mid.mp4",
+    "Description": "Hear about the many improvements for Windows Phone and Windows Store app developers, and see how to get the most from C#, XAML, and Blend. [02:18] - New Features for XAML Developers[10:57] - New Featu"
+  }
+]

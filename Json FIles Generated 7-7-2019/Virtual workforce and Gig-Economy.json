@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "b9d4edf4-2825-4598-b225-a6ab00732093",
+    "DataApi": "/Entries(guid'b9d4edf4-2825-4598-b225-a6ab00732093')/",
+    "VideoPageLink": "/Series/Virtual-workforce-and-Gig-Economy/Virtual-Workforce-Collaboration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0938/9e9f15ea-5d16-4d49-b7a8-c922f4800938/VirtualWorkforceColab_960.jpg",
+    "ShowName": "Virtual workforce and Gig-Economy",
+    "VideoLength": "00:20:33",
+    "VideoTitle": "Virtual Workforce Collaboration",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-10-27T14:03:29.3637929Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0938/9e9f15ea-5d16-4d49-b7a8-c922f4800938/VirtualWorkforceColab_mid.mp4",
+    "Description": "How to collaborate successfully on deliverables when working virtually. "
+  },
+  {
+    "VideoId": "73066f89-ce88-48c6-8e3c-a6ab0072831b",
+    "DataApi": "/Entries(guid'73066f89-ce88-48c6-8e3c-a6ab0072831b')/",
+    "VideoPageLink": "/Series/Virtual-workforce-and-Gig-Economy/Managing-a-Virtual-Workforce",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/73d4/7b551b31-8102-4b52-ac40-de5aeb3273d4/ManagingaVirtualWorkforce_960.jpg",
+    "ShowName": "Virtual workforce and Gig-Economy",
+    "VideoLength": "00:29:30",
+    "VideoTitle": "Managing a Virtual Workforce",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-10-27T14:03:32.072667Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/73d4/7b551b31-8102-4b52-ac40-de5aeb3273d4/ManagingaVirtualWorkforce_mid.mp4",
+    "Description": "How to manage a Virtual Workforce successfully. "
+  }
+]

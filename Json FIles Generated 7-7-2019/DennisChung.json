@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "dd8fc134-9b15-4299-ad10-9deb0016107b",
+    "DataApi": "/Entries(guid'dd8fc134-9b15-4299-ad10-9deb0016107b')/",
+    "VideoPageLink": "/Blogs/DennisChung/Battle-Stations-a-PHP-app-runs-better-on-Windows-Server-2008-IIS7",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/0/9/9/6/2/4/BattleStations_large_ch9.jpg",
+    "ShowName": "DennisChung",
+    "VideoLength": "00:05:16",
+    "VideoTitle": "Battle Stations, a PHP app, runs better on Windows Server 2008, IIS7",
+    "Author": "dennischung",
+    "UtcDateTimePublished": "2008-09-12T00:57:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/0/9/9/6/2/4/BattleStations_ch9.mp4",
+    "Description": "Here in Singapore, we started a LAMP2WIMP project team. Focus, to help PHP application owners realize that Windows Server 2008, IIS7 can be an option for them when running PHP applications.\n\nIn this"
+  }
+]

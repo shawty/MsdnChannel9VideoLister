@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "8ef0249a-ae91-471e-a000-a46701689efe",
+    "DataApi": "/Entries(guid'8ef0249a-ae91-471e-a000-a46701689efe')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Migration-Planning/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a725/8c55e8f4-e667-4d26-a4ae-e2d65148a725/757SharePointOnlineMigrationPlanningM02_960.jpg",
+    "ShowName": "SharePoint Online Migration Planning",
+    "VideoLength": "00:38:05",
+    "VideoTitle": "SharePoint Online Migration Planning: (02) Planning Considerations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T18:58:23.7372785Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a725/8c55e8f4-e667-4d26-a4ae-e2d65148a725/757SharePointOnlineMigrationPlanningM02_mid.mp4",
+    "Description": "Explore common migration methodologies, including the internal methodology of Microsoft and how following a more structured approach can help your organization mitigate some of the inherent risks. Loo"
+  },
+  {
+    "VideoId": "63a13dec-c2f6-42cb-88a3-a4670168d15a",
+    "DataApi": "/Entries(guid'63a13dec-c2f6-42cb-88a3-a4670168d15a')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Migration-Planning/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/65fc/9d24caa0-aa48-4166-bd8c-175d703b65fc/757SharePointOnlineMigrationPlanningM03_960.jpg",
+    "ShowName": "SharePoint Online Migration Planning",
+    "VideoLength": "00:10:01",
+    "VideoTitle": "SharePoint Online Migration Planning: (03) SharePoint Online Limitations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T18:58:34.7965829Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/65fc/9d24caa0-aa48-4166-bd8c-175d703b65fc/757SharePointOnlineMigrationPlanningM03_mid.mp4",
+    "Description": "Get a detailed walkthrough of the known SharePoint Online thresholds and limitations that can likely impact your migration strategy, and hear advice on how you can mitigate these risks. "
+  },
+  {
+    "VideoId": "928fb82d-0d16-4cf8-b433-a4670168fb9d",
+    "DataApi": "/Entries(guid'928fb82d-0d16-4cf8-b433-a4670168fb9d')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Migration-Planning/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c797/a3eff55c-7fae-4741-b6e6-963460c8c797/757SharePointOnlineMigrationPlanningM04_960.jpg",
+    "ShowName": "SharePoint Online Migration Planning",
+    "VideoLength": "00:12:56",
+    "VideoTitle": "SharePoint Online Migration Planning: (04) Migration Performance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T18:58:45.5937762Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c797/a3eff55c-7fae-4741-b6e6-963460c8c797/757SharePointOnlineMigrationPlanningM04_mid.mp4",
+    "Description": "Take a look at each of the SharePoint Online mechanisms that impact performance, and hear recommendations to help improve that performance. For organizations with large content databases or complex si"
+  },
+  {
+    "VideoId": "3bc945dd-f97c-4a0b-a30d-a47d01097aa9",
+    "DataApi": "/Entries(guid'3bc945dd-f97c-4a0b-a30d-a47d01097aa9')/",
+    "VideoPageLink": "/Series/SharePoint-Online-Migration-Planning/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5663/cdbf2523-62c5-4606-a76a-b84a43495663/757SharePointOnlineMigrationPlanningM05_960.jpg",
+    "ShowName": "SharePoint Online Migration Planning",
+    "VideoLength": "00:23:30",
+    "VideoTitle": "SharePoint Online Migration Planning: (05) Additional Planning Factors",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-17T17:52:23.7094891Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5663/cdbf2523-62c5-4606-a76a-b84a43495663/757SharePointOnlineMigrationPlanningM05_mid.mp4",
+    "Description": "Explore hybrid migration considerations, and hear common questions and best practices as your organization plans for any size of cloud deployment. Hybrid deployment is one of the most common SharePoin"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c678e2e8-cf74-43be-a8c8-a468010e383a",
+    "DataApi": "/Entries(guid'c678e2e8-cf74-43be-a8c8-a468010e383a')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Core-Skills/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4dc8/110eb5ae-a9fa-41c8-a8b8-e644cd7b4dc8/730AzureADCoreSkillsM02_960.jpg",
+    "ShowName": "Azure Active Directory Core Skills",
+    "VideoLength": "00:48:50",
+    "VideoTitle": "Azure Active Directory Core Skills: (02) Brad Anderson Keynote and Solution Demo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T22:35:38.3332053Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4dc8/110eb5ae-a9fa-41c8-a8b8-e644cd7b4dc8/730AzureADCoreSkillsM02_mid.mp4",
+    "Description": "Your host, Simon May, is joined by Brad Anderson, Microsoft CVP Enterprise Client and Mobility. Brad helps you understand some of the fundamental reasons that your mobility strategy needs identity and"
+  },
+  {
+    "VideoId": "ff1983d7-c9cc-4f13-b4cf-a468010e61f2",
+    "DataApi": "/Entries(guid'ff1983d7-c9cc-4f13-b4cf-a468010e61f2')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Core-Skills/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b8c/bcdbdabd-afe0-48b2-8b2d-971a46b94b8c/730AzureADCoreSkillsM03_960.jpg",
+    "ShowName": "Azure Active Directory Core Skills",
+    "VideoLength": "00:30:13",
+    "VideoTitle": "Azure Active Directory Core Skills: (03) Azure AD Users, Groups, and Authentication",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T22:35:47.9112748Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b8c/bcdbdabd-afe0-48b2-8b2d-971a46b94b8c/730AzureADCoreSkillsM03_mid.mp4",
+    "Description": "Walk step by step with your hosts, Simon May and Nasos Kladakis, through user accounts and groups in Azure AD. Find out how you can build a solid foundation by consolidating on Azure AD. [03:43] - Azu"
+  },
+  {
+    "VideoId": "9c7c3d69-90f7-4294-9d80-a468010ea3d5",
+    "DataApi": "/Entries(guid'9c7c3d69-90f7-4294-9d80-a468010ea3d5')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Core-Skills/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f650/84e974fd-8f4b-49b2-b3ef-90c3f075f650/730AzureADCoreSkillsM04_960.jpg",
+    "ShowName": "Azure Active Directory Core Skills",
+    "VideoLength": "00:19:56",
+    "VideoTitle": "Azure Active Directory Core Skills: (04) Azure AD Sync Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T22:35:57.4338869Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f650/84e974fd-8f4b-49b2-b3ef-90c3f075f650/730AzureADCoreSkillsM04_mid.mp4",
+    "Description": "Learn about the options for syncing your on-premises Windows Server Active Directory to Azure AD. Hear what's involved with sync and how you can have granular control over which users and attributes a"
+  },
+  {
+    "VideoId": "f6397663-c176-4dde-82b3-a468010ecc7a",
+    "DataApi": "/Entries(guid'f6397663-c176-4dde-82b3-a468010ecc7a')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Core-Skills/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b5a/ba93dd1b-8df7-40ea-8598-fbb8a6244b5a/730AzureADCoreSkillsM05_960.jpg",
+    "ShowName": "Azure Active Directory Core Skills",
+    "VideoLength": "00:29:35",
+    "VideoTitle": "Azure Active Directory Core Skills: (05) Azure AD Apps (Including Proxy)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T22:36:07.8018914Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b5a/ba93dd1b-8df7-40ea-8598-fbb8a6244b5a/730AzureADCoreSkillsM05_mid.mp4",
+    "Description": "Find out why applications are such an important part of an identity strategy and how to enable single sign-on to thousands of applications. Simon and Nasos uncover some of the more interesting types o"
+  },
+  {
+    "VideoId": "b4d53f3a-f237-4adf-8758-a468010ef7e0",
+    "DataApi": "/Entries(guid'b4d53f3a-f237-4adf-8758-a468010ef7e0')/",
+    "VideoPageLink": "/Series/Azure-Active-Directory-Core-Skills/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/49cd/3a82624f-9c5f-4bde-9e04-9953dbc849cd/730AzureADCoreSkillsM06_960.jpg",
+    "ShowName": "Azure Active Directory Core Skills",
+    "VideoLength": "00:24:01",
+    "VideoTitle": "Azure Active Directory Core Skills: (06) Azure AD MFA",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T22:36:18.5742784Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/49cd/3a82624f-9c5f-4bde-9e04-9953dbc849cd/730AzureADCoreSkillsM06_mid.mp4",
+    "Description": "Learn how to enable, configure, and manage Multi-Factor Authentication (MFA) from Azure AD. Explore how to configure advanced options, and gain an understanding of how MFA can help secure your users. "
+  }
+]

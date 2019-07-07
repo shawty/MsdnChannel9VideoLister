@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "66eb6045-fba5-400d-980b-a38700456c97",
+    "DataApi": "/Entries(guid'66eb6045-fba5-400d-980b-a38700456c97')/",
+    "VideoPageLink": "/Series/Corporate-Apps-anywhere-anytime-with-MS-Azure-RemoteApp/-Module-2-Microsoft-Azure-RemoteApp-Cloud-Deployment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eef5/b022f428-1cda-449c-85c2-5ac5b770eef5/Mod2_960.jpg",
+    "ShowName": "Corporate Apps anywhere, anytime with Microsoft Azure RemoteApp",
+    "VideoLength": "00:12:14",
+    "VideoTitle": "(Module 2) Microsoft Azure RemoteApp - Cloud Deployment",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T10:01:55Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eef5/b022f428-1cda-449c-85c2-5ac5b770eef5/Mod2_mid.mp4",
+    "Description": "In this module you will learn that users can access Azure RemoteApp from anywhere and anytime. Users can login in with their Microsoft accounts or organizational accounts. This video is part of the Mi"
+  },
+  {
+    "VideoId": "84462f37-3129-49b2-9c26-a3870045dd08",
+    "DataApi": "/Entries(guid'84462f37-3129-49b2-9c26-a3870045dd08')/",
+    "VideoPageLink": "/Series/Corporate-Apps-anywhere-anytime-with-MS-Azure-RemoteApp/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a468/4d010aa1-8b96-41a1-8bfd-87b88408a468/Mod3_960.jpg",
+    "ShowName": "Corporate Apps anywhere, anytime with Microsoft Azure RemoteApp",
+    "VideoLength": "01:07:24",
+    "VideoTitle": "(Module 3) Microsoft Azure RemoteApp - Hybrid Deployment",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T10:02:28Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a468/4d010aa1-8b96-41a1-8bfd-87b88408a468/Mod3_mid.mp4",
+    "Description": "In this module you will learn that RemoteApp leverages Azure AD to control user access and enable Single Sign-On, Virtual Networks build on Azure networking to seamlessly access on-premises resources "
+  }
+]

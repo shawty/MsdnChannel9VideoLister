@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "294fd8e4-f98b-478b-a444-a2b2017452ea",
+    "DataApi": "/Entries(guid'294fd8e4-f98b-478b-a444-a2b2017452ea')/",
+    "VideoPageLink": "/Series/Boost-Your-T-SQL-With-the-APPLY-Operator/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb4a/23b234d2-641a-4b9c-818e-de5a417ffb4a/BoostTSQLWithAPPLYM02_960.jpg",
+    "ShowName": "Boost Your T-SQL With the APPLY Operator",
+    "VideoLength": "01:38:25",
+    "VideoTitle": "Boost Your T-SQL With the APPLY Operator: (02) APPLY Boosts Various T-SQL Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-01-14T20:14:37.689038Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb4a/23b234d2-641a-4b9c-818e-de5a417ffb4a/BoostTSQLWithAPPLYM02_mid.mp4",
+    "Description": "This module walks through T-SQL features that were introduced in various versions of SQL Server, some of which are in wide use today, and demonstrates how to use the APPLY operator to better them. [03"
+  }
+]

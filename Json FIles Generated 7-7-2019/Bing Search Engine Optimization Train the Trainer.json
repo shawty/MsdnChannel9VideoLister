@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "d5f6a648-4fbc-44df-896d-a3470150e650",
+    "DataApi": "/Entries(guid'd5f6a648-4fbc-44df-896d-a3470150e650')/",
+    "VideoPageLink": "/Series/Bing-Search-Engine-Optimization-Train-the-Trainer/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/592f/75dcca58-80c5-4850-8ca4-b9c75c8d592f/BingSEOTTTM03_960.jpg",
+    "ShowName": "Bing Search Engine Optimization Train the Trainer",
+    "VideoLength": "00:18:09",
+    "VideoTitle": " Bing Search Engine and Optimization Train The Trainer: (03) On-Page Content Planning and Organization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-11T21:27:48.8727172Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/592f/75dcca58-80c5-4850-8ca4-b9c75c8d592f/BingSEOTTTM03_mid.mp4",
+    "Description": "Learn how to utilize keyword research and content planning to adjust on-page elements for the best possible search experience and indexing by engines. [00:39] - Content planning[06:02] - Introduction "
+  },
+  {
+    "VideoId": "6c46f5f9-1c90-4759-9454-a34701509f6c",
+    "DataApi": "/Entries(guid'6c46f5f9-1c90-4759-9454-a34701509f6c')/",
+    "VideoPageLink": "/Series/Bing-Search-Engine-Optimization-Train-the-Trainer/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dc21/32e7d5a9-1804-4d90-a5c8-fb760068dc21/BingSEOTTTM02_960.jpg",
+    "ShowName": "Bing Search Engine Optimization Train the Trainer",
+    "VideoLength": "00:15:35",
+    "VideoTitle": " Bing Search Engine and Optimization Train The Trainer: (02) Keyword Research",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-11T21:27:49.5802823Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dc21/32e7d5a9-1804-4d90-a5c8-fb760068dc21/BingSEOTTTM02_mid.mp4",
+    "Description": "Get a brief review of best practices for keyword research, including tools, tips, and theories behind optimizing for search demand. [00:36] - Keyword Research Terminology[04:15] - Fundamentals of keyw"
+  },
+  {
+    "VideoId": "9e4765ac-f59a-4398-be01-a3470151271f",
+    "DataApi": "/Entries(guid'9e4765ac-f59a-4398-be01-a3470151271f')/",
+    "VideoPageLink": "/Series/Bing-Search-Engine-Optimization-Train-the-Trainer/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9084/5cdd0d88-862e-4cdb-a2ef-9c4d731b9084/BingSEOTTTM04_960.jpg",
+    "ShowName": "Bing Search Engine Optimization Train the Trainer",
+    "VideoLength": "00:24:17",
+    "VideoTitle": " Bing Search Engine and Optimization Train The Trainer: (04) Overview of Technical SEO Issues and Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-11T21:28:14.8778408Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9084/5cdd0d88-862e-4cdb-a2ef-9c4d731b9084/BingSEOTTTM04_mid.mp4",
+    "Description": "Hear a discussion of technical SEO elements, website mechanics, site architecture, and utilization of Bing Webmaster Tools. [01:24] - Introduction to technical SEO[13:57] - Webmaster Tools[16:14] - Ov"
+  }
+]

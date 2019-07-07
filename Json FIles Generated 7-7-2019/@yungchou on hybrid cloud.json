@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "70218239-d741-4d32-a805-a4e20160fa2c",
+    "DataApi": "/Entries(guid'70218239-d741-4d32-a805-a4e20160fa2c')/",
+    "VideoPageLink": "/Blogs/yungchou/TIY-P2S-Step-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9bfc/bf8f07a1-9b81-4be7-ba02-8840f63b9bfc/yungchouP2SStep2_960.jpg",
+    "ShowName": "@yungchou on hybrid cloud",
+    "VideoLength": "00:06:12",
+    "VideoTitle": "Try It Yourself - P2S Step 2: Create a Root-Client Certificate Pair",
+    "Author": "yung chou",
+    "UtcDateTimePublished": "2015-08-03T14:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9bfc/bf8f07a1-9b81-4be7-ba02-8840f63b9bfc/yungchouP2SStep2_mid.mp4",
+    "Description": "This video steps through the operations described in the step 2, Create your certificates, of the Azure documentation, Configure a Point-to-Site VPN connection to a Virtual Network. [00:38] - How to g"
+  },
+  {
+    "VideoId": "a39da9bf-8bbd-4617-be8b-a4e2015dc4cb",
+    "DataApi": "/Entries(guid'a39da9bf-8bbd-4617-be8b-a4e2015dc4cb')/",
+    "VideoPageLink": "/Blogs/yungchou/TIY-P2S-Step-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e151/a6cba4fc-32dc-4b95-9214-b91cda06e151/yungchouP2SStep1_960.jpg",
+    "ShowName": "@yungchou on hybrid cloud",
+    "VideoLength": "00:03:23",
+    "VideoTitle": "Try It Yourself - P2S Step 1: Configure a Virtual Network with a Dynamic Routing Gateway",
+    "Author": "yung chou",
+    "UtcDateTimePublished": "2015-08-03T14:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e151/a6cba4fc-32dc-4b95-9214-b91cda06e151/yungchouP2SStep1_mid.mp4",
+    "Description": "This video steps through the operations described in the step 1, Create a virtual network and a VPN gateway, of the Azure documentation, Configure a Point-to-Site VPN connection to a Virtual Network. "
+  },
+  {
+    "VideoId": "ab97c080-5b0a-4728-9593-a4dc0057cbcb",
+    "DataApi": "/Entries(guid'ab97c080-5b0a-4728-9593-a4dc0057cbcb')/",
+    "VideoPageLink": "/Blogs/yungchou/Try-It-Yourself-Configure-an-Azure-VNet-to-VNet-Connection",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6ed8/e056906b-f765-44b1-a72b-cc9d885a6ed8/yungchouVnet2Vnet_960.jpg",
+    "ShowName": "@yungchou on hybrid cloud",
+    "VideoLength": "00:10:03",
+    "VideoTitle": "Try It Yourself - Configure an Azure VNet to VNet Connection",
+    "Author": "yung chou",
+    "UtcDateTimePublished": "2015-07-23T14:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6ed8/e056906b-f765-44b1-a72b-cc9d885a6ed8/yungchouVnet2Vnet_mid.mp4",
+    "Description": "Vet-to-vent is an interesting and realistic scenario when connecting resources of branch offices, organizations, partners, etc. The above recoriding includes the processes and operations to establish "
+  }
+]

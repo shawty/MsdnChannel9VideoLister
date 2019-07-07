@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "b861da39-f340-4d48-8a1a-a4230136ca6b",
+    "DataApi": "/Entries(guid'b861da39-f340-4d48-8a1a-a4230136ca6b')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/18d2/a3843d83-4743-482f-bbdb-11e90be118d2/616ALapAroundAzureWebsitesM02_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:51:31",
+    "VideoTitle": "A Lap Around Azure Websites: (02) Getting Started with Azure Websites",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:42:32.7436968Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/18d2/a3843d83-4743-482f-bbdb-11e90be118d2/616ALapAroundAzureWebsitesM02_mid.mp4",
+    "Description": "Find out how you can interact with Azure Websites from the Portal, both Current and Preview, and explore the command line using the Azure Cross Platform Tools (which work on Windows, Linux, and Mac) a"
+  },
+  {
+    "VideoId": "63594e6a-469d-4315-bccc-a4230136f6c6",
+    "DataApi": "/Entries(guid'63594e6a-469d-4315-bccc-a4230136f6c6')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6018/6779719c-b3c8-43cb-9f18-d4a1552e6018/616ALapAroundAzureWebsitesM03_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:42:55",
+    "VideoTitle": "A Lap Around Azure Websites: (03) Web Stacks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:42:45.690096Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6018/6779719c-b3c8-43cb-9f18-d4a1552e6018/616ALapAroundAzureWebsitesM03_mid.mp4",
+    "Description": "See how to run multiple languages on Azure Websites. Learn about how Websites supports ASP (Classic), ASP.NET, Java, Node.js, PHP, and Python. [08:02] - ASP (Classic)[09:19] - ASP.NET[15:54] - Node.js"
+  },
+  {
+    "VideoId": "3056e898-ebe2-4555-9da6-a42301372562",
+    "DataApi": "/Entries(guid'3056e898-ebe2-4555-9da6-a42301372562')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51f1/6f4626b2-8e02-44ac-b03b-0293f38351f1/616ALapAroundAzureWebsitesM04_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:57:18",
+    "VideoTitle": "A Lap Around Azure Websites: (04) Continuous Deployment and Integration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:43:00.2215581Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51f1/6f4626b2-8e02-44ac-b03b-0293f38351f1/616ALapAroundAzureWebsitesM04_mid.mp4",
+    "Description": "Find out how to set up continuous delivery to your websites and how to take advantage of Site Slots to enable additional environments to deploy code before promoting it to Production. See how to hook "
+  },
+  {
+    "VideoId": "d26c7b69-8c05-4745-b147-a423013756d7",
+    "DataApi": "/Entries(guid'd26c7b69-8c05-4745-b147-a423013756d7')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc4d/f0ee8ffc-64ab-4d6e-ade8-fd41833bbc4d/616ALapAroundAzureWebsitesM05_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:25:25",
+    "VideoTitle": "A Lap Around Azure Websites: (05) Background Processing with WebJobs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:43:12.8798749Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc4d/f0ee8ffc-64ab-4d6e-ade8-fd41833bbc4d/616ALapAroundAzureWebsitesM05_mid.mp4",
+    "Description": "Dive deeper into Kudu (the deployment engine for Azure Websites), which has functionality to notify applications via WebHooks, run background tasks for your Web Application with WebJobs, and extend th"
+  },
+  {
+    "VideoId": "12129824-bf98-49a2-8d27-a423013783a3",
+    "DataApi": "/Entries(guid'12129824-bf98-49a2-8d27-a423013783a3')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6c8f/fcdc69f1-4e45-4fbb-83df-1cab0f506c8f/616ALapAroundAzureWebsitesM06_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:36:13",
+    "VideoTitle": "A Lap Around Azure Websites: (06) â€‹Going Live on Azure Websites",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:43:27.9201084Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6c8f/fcdc69f1-4e45-4fbb-83df-1cab0f506c8f/616ALapAroundAzureWebsitesM06_mid.mp4",
+    "Description": "Find out how to prepare your new Website or Web Application to go live. Learn how to scale your site using Manual and Auto Scaling, reducing the load on Internet Information Services (IIS) by rewritin"
+  },
+  {
+    "VideoId": "a563e31b-7efa-4834-9025-a4230137b0e6",
+    "DataApi": "/Entries(guid'a563e31b-7efa-4834-9025-a4230137b0e6')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bd6/d10e53f4-6cfd-4902-8388-d211c5f12bd6/616ALapAroundAzureWebsitesM07_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:49:14",
+    "VideoTitle": "A Lap Around Azure Websites: (07) My Website Is Down! What's Next?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:43:52.9232592Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bd6/d10e53f4-6cfd-4902-8388-d211c5f12bd6/616ALapAroundAzureWebsitesM07_mid.mp4",
+    "Description": "Diagnose your application after itâ€™s gone live. [01:35] - Service Issues[04:43] - Diagnostics[38:42] - Auto-Healing"
+  },
+  {
+    "VideoId": "06734bdb-427e-4d10-9fa6-a4230137e138",
+    "DataApi": "/Entries(guid'06734bdb-427e-4d10-9fa6-a4230137e138')/",
+    "VideoPageLink": "/Series/A-Lap-Around-Azure-Websites/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/26a0/7b4a3d90-a304-4f08-b3c3-5bb4c28526a0/616ALapAroundAzureWebsitesM08_960.jpg",
+    "ShowName": "A Lap Around Azure Websites",
+    "VideoLength": "00:33:51",
+    "VideoTitle": "A Lap Around Azure Websites: (08) Conclusion",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-20T02:44:04.0247562Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/26a0/7b4a3d90-a304-4f08-b3c3-5bb4c28526a0/616ALapAroundAzureWebsitesM08_mid.mp4",
+    "Description": "Review today's learnings, and explore how to connect your Azure Website to an on-premises data source. See a new feature which makes it simple to protect your site slots (testing environments) with Az"
+  }
+]

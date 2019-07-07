@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "45497893-e5e7-4012-93b1-a3fd0124f0d7",
+    "DataApi": "/Entries(guid'45497893-e5e7-4012-93b1-a3fd0124f0d7')/",
+    "VideoPageLink": "/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d84/6aa3bfab-b76d-4353-bcf2-947a6c723d84/431DebugWebsiteWithIEF12M02_960.jpg",
+    "ShowName": "How to Debug a Website with Internet Explorer F12 Tools",
+    "VideoLength": "00:34:18",
+    "VideoTitle": "How to Debug a Website with Internet Explorer F12 Tools: (02) Debugging with the Console and the Debugger Windows",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:49:39.2401852Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d84/6aa3bfab-b76d-4353-bcf2-947a6c723d84/431DebugWebsiteWithIEF12M02_mid.mp4",
+    "Description": "Explore using integrated console and debugger windows to debug your JavaScript code. [02:21] - Brief history[03:11] - Using the console[24:15] - Debugger"
+  },
+  {
+    "VideoId": "2d1e1187-4b0a-4639-a924-a3fd0124ecfa",
+    "DataApi": "/Entries(guid'2d1e1187-4b0a-4639-a924-a3fd0124ecfa')/",
+    "VideoPageLink": "/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e808/0fdc6c73-1bc0-4c30-9018-6edde8ace808/431DebugWebsiteWithIEF12M03_960.jpg",
+    "ShowName": "How to Debug a Website with Internet Explorer F12 Tools",
+    "VideoLength": "00:23:58",
+    "VideoTitle": "How to Debug a Website with Internet Explorer F12 Tools: (03) Optimizing Your Page",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:50:28.897809Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e808/0fdc6c73-1bc0-4c30-9018-6edde8ace808/431DebugWebsiteWithIEF12M03_mid.mp4",
+    "Description": "Find out how to use profiler, memory, network analyzer, and UI responsiveness toolsâ€‹. [01:24] - DOM explorer[08:52] - Network[14:46] - UI Responsiveness[19:01] - Memory profiler"
+  },
+  {
+    "VideoId": "b1bacb64-cb5e-47fb-875b-a3fd01254bc0",
+    "DataApi": "/Entries(guid'b1bacb64-cb5e-47fb-875b-a3fd01254bc0')/",
+    "VideoPageLink": "/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b573/1bae06cd-0a3d-42b7-85c6-7580d1ccb573/431DebugWebsiteWithIEF12M04_960.jpg",
+    "ShowName": "How to Debug a Website with Internet Explorer F12 Tools",
+    "VideoLength": "00:17:07",
+    "VideoTitle": "How to Debug a Website with Internet Explorer F12 Tools: (04) â€‹Developing a Mobile Website",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:50:57.9887611Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b573/1bae06cd-0a3d-42b7-85c6-7580d1ccb573/431DebugWebsiteWithIEF12M04_mid.mp4",
+    "Description": "Get the details on using Visual Studio to develop and debug a mobile website.â€‹ [01:15] - Using Visual Studio[10:09] - Challenges with mobile websites"
+  },
+  {
+    "VideoId": "08add91b-0c66-4f96-83f0-a3fd01258a25",
+    "DataApi": "/Entries(guid'08add91b-0c66-4f96-83f0-a3fd01258a25')/",
+    "VideoPageLink": "/Series/How-to-Debug-a-Website-with-Internet-Explorer-F12-Tools/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/229d/855f87cb-2dc0-4952-9700-4f7e8c5b229d/431DebugWebsiteWithIEF12M05_960.jpg",
+    "ShowName": "How to Debug a Website with Internet Explorer F12 Tools",
+    "VideoLength": "00:11:52",
+    "VideoTitle": "How to Debug a Website with Internet Explorer F12 Tools: (05) Testing on All Browsers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T23:51:15.0888865Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/229d/855f87cb-2dc0-4952-9700-4f7e8c5b229d/431DebugWebsiteWithIEF12M05_mid.mp4",
+    "Description": "Learn about using BrowserStack and RemoteIE to test a website. [02:07] - Testing all versions of IE[07:37] - Testing on all browsers"
+  }
+]

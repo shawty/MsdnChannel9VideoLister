@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ac79ca52-a8f6-4880-a6d8-a53600bad88b",
+    "DataApi": "/Entries(guid'ac79ca52-a8f6-4880-a6d8-a53600bad88b')/",
+    "VideoPageLink": "/Series/Windows-10-Role-Play-for-SMB/Windows-10-for-SMB",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2633/6c0f1c8d-5b33-46e4-9601-6642e8272633/W10SMB_960.jpg",
+    "ShowName": "Windows 10 Role Play for SMB",
+    "VideoLength": "01:01:51",
+    "VideoTitle": "Windows 10 for SMB",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-19T15:20:17.156054Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2633/6c0f1c8d-5b33-46e4-9601-6642e8272633/W10SMB_mid.mp4",
+    "Description": "Join us and learn more about Windows 10 "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "d670e24d-c030-4098-a2c2-a46d010fe600",
+    "DataApi": "/Entries(guid'd670e24d-c030-4098-a2c2-a46d010fe600')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Express-Installation-Walkthrough/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c041/81fd901e-bb8e-4145-bc1f-c157bc1bc041/696WinAzurePackExpressInstallM02_960.jpg",
+    "ShowName": "Windows Azure Pack: Express Installation Walkthrough",
+    "VideoLength": "00:25:43",
+    "VideoTitle": "Windows Azure Pack: Express Installation Walkthrough: (02) Preparing Images/Disks/Networks and Exposing Them to Tenants",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-05T18:51:58.9821621Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c041/81fd901e-bb8e-4145-bc1f-c157bc1bc041/696WinAzurePackExpressInstallM02_mid.mp4",
+    "Description": "Examine the tasks to prepare IaaS resources in VMM, and walk through acquiring gallery resources, importing resource extension, and preparing the virtual hard drive and data disk. With the Windows Azu"
+  }
+]

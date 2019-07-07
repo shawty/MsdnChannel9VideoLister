@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "5c00231b-0496-4e38-82dd-9dea00429a46",
+    "DataApi": "/Entries(guid'5c00231b-0496-4e38-82dd-9dea00429a46')/",
+    "VideoPageLink": "/Series/C9-Lectures-Dr-Don-Syme-Introduction-to-F-/C9-Lectures-Dr-Don-Syme-Introduction-to-F-2-of-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/1/7/6/2/5/C9LecturesDonSymeFSharpP2_512_ch9.png",
+    "ShowName": "C9 Lectures: Dr. Don Syme - Introduction to F#",
+    "VideoLength": "00:37:57",
+    "VideoTitle": "C9 Lectures: Dr. Don Syme - Introduction to F#, 2 of 3",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2010-02-11T18:48:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/1/7/6/2/5/C9LecturesDonSymeFSharpP2_ch9.mp4",
+    "Description": "F# is Microsoft's first functional programming language to be included as one of Visual Studio's official set of languages. F# is a succinct, efficient, expressive functional/object-oriented programmi"
+  },
+  {
+    "VideoId": "acb68e91-ddc2-45c3-b79d-9dea004296e1",
+    "DataApi": "/Entries(guid'acb68e91-ddc2-45c3-b79d-9dea004296e1')/",
+    "VideoPageLink": "/Series/C9-Lectures-Dr-Don-Syme-Introduction-to-F-/C9-Lectures-Dr-Don-Syme-Introduction-to-F-3-of-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/0/5/9/2/5/C9LecturesDonSymeFSharpP3_512_ch9.png",
+    "ShowName": "C9 Lectures: Dr. Don Syme - Introduction to F#",
+    "VideoLength": "00:29:01",
+    "VideoTitle": "C9 Lectures: Dr. Don Syme - Introduction to F#, 3 of 3",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2010-02-18T19:05:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/0/5/9/2/5/C9LecturesDonSymeFSharpP3_ch9.mp4",
+    "Description": "F# is Microsoft's first functional programming language to be included as one of Visual Studio's official set of languages. F# is a succinct, efficient, expressivefunctional/object-oriented programmin"
+  }
+]

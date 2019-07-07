@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "31b59669-7108-4af5-85e4-a1f70117778b",
+    "DataApi": "/Entries(guid'31b59669-7108-4af5-85e4-a1f70117778b')/",
+    "VideoPageLink": "/Series/privatecloud/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a593/4c2409f5-5813-4152-8c25-51160ae9a593/PrivateCloudM02_960.jpg",
+    "ShowName": "Build a Private Cloud with Windows Server and System Center",
+    "VideoLength": "01:39:55",
+    "VideoTitle": "Build a Private Cloud with Windows Server and System Center: (02) Building the Cloud Fabric",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-11T18:35:30.6621899Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a593/4c2409f5-5813-4152-8c25-51160ae9a593/PrivateCloudM02_mid.mp4",
+    "Description": "In this session you will learn how to configure the storage layer, physical and virtual network. In addition it covers bringing the hypervisor under management. [02:22] - Configuring the storage layer"
+  },
+  {
+    "VideoId": "ec3a97c9-edca-44dc-8e9a-a1f70117dd8e",
+    "DataApi": "/Entries(guid'ec3a97c9-edca-44dc-8e9a-a1f70117dd8e')/",
+    "VideoPageLink": "/Series/privatecloud/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8d0b/af54a18a-ec4f-4837-9ee3-9dfbc5e98d0b/PrivateCloudM03_960.jpg",
+    "ShowName": "Build a Private Cloud with Windows Server and System Center",
+    "VideoLength": "01:36:05",
+    "VideoTitle": "Build a Private Cloud with Windows Server and System Center: (03) Preparing for Self-Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-11T18:35:49.7329781Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8d0b/af54a18a-ec4f-4837-9ee3-9dfbc5e98d0b/PrivateCloudM03_mid.mp4",
+    "Description": "This section addresses planning and building your various templates as well as installing your applications. You will also learn about Runbook Automation and best practices for cloud; building a relia"
+  },
+  {
+    "VideoId": "2eb585ea-89a3-49de-9396-a1f701184fd5",
+    "DataApi": "/Entries(guid'2eb585ea-89a3-49de-9396-a1f701184fd5')/",
+    "VideoPageLink": "/Series/privatecloud/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0bfa/427250fb-107d-4e70-9f69-1e9247190bfa/PrivateCloudM04_960.jpg",
+    "ShowName": "Build a Private Cloud with Windows Server and System Center",
+    "VideoLength": "01:57:45",
+    "VideoTitle": "Build a Private Cloud with Windows Server and System Center: (04) Building Your Service Catalog",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-11T18:36:19.3996082Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0bfa/427250fb-107d-4e70-9f69-1e9247190bfa/PrivateCloudM04_mid.mp4",
+    "Description": "This final module cover preparing your CMDB for self-service, configuring virtualization self-service and connecting your tenants to cloud resources. This closes out part 1 of building for the cloud. "
+  }
+]

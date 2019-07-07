@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "7feaaf6a-c582-41f4-a807-a3da011c0ddd",
+    "DataApi": "/Entries(guid'7feaaf6a-c582-41f4-a807-a3da011c0ddd')/",
+    "VideoPageLink": "/Shows/MVA-Running-Linux-in-Azure/Module-2-Creating-a-Linux-VM-in-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f46c/729efbf9-e783-4012-94cf-305b2eb7f46c/Module2CreatingALinuxVMInAzure_960.jpg",
+    "ShowName": "MVA - Running Linux in Azure",
+    "VideoLength": "00:24:44",
+    "VideoTitle": "Module 2: Creating a Linux VM in Azure",
+    "Author": "MicrosoftLearningExperiences",
+    "UtcDateTimePublished": "2014-11-06T17:44:23.6001256Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f46c/729efbf9-e783-4012-94cf-305b2eb7f46c/Module2CreatingALinuxVMInAzure_mid.mp4",
+    "Description": "Running Linux in Azure Module 2: Creating a Linux VM in Azure "
+  },
+  {
+    "VideoId": "2c6bd4e6-54ac-4c07-8d2d-a3da011bd56e",
+    "DataApi": "/Entries(guid'2c6bd4e6-54ac-4c07-8d2d-a3da011bd56e')/",
+    "VideoPageLink": "/Shows/MVA-Running-Linux-in-Azure/Module-1-Microsoft-Open-in-the-cloud",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7ca1/6f86f32a-7f1d-462f-b470-bbdd73f97ca1/Module1MicrosoftOpenInTheCloud_960.jpg",
+    "ShowName": "MVA - Running Linux in Azure",
+    "VideoLength": "00:07:31",
+    "VideoTitle": "Module 1: Microsoft - Open in the cloud",
+    "Author": "MicrosoftLearningExperiences",
+    "UtcDateTimePublished": "2014-11-06T17:44:05.7855908Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7ca1/6f86f32a-7f1d-462f-b470-bbdd73f97ca1/Module1MicrosoftOpenInTheCloud_mid.mp4",
+    "Description": "Running Linux in Azure Module 1: Microsoft - Open in the cloud "
+  }
+]

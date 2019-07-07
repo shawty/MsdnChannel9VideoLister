@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "706deb39-4cae-4f0e-a09a-a60301655709",
+    "DataApi": "/Entries(guid'706deb39-4cae-4f0e-a09a-a60301655709')/",
+    "VideoPageLink": "/Blogs/TFS-Build-2015/tfsbuild05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/53c5/1bf68369-5d79-47ec-8244-16232ebd53c5/tfsbuild01_960.jpg",
+    "ShowName": "TFS Build 2015",
+    "VideoLength": "00:08:23",
+    "VideoTitle": "5: Azure Deployment with VSTS Build",
+    "Author": "Paul Hacker",
+    "UtcDateTimePublished": "2016-05-12T03:37:37.7844304Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/53c5/1bf68369-5d79-47ec-8244-16232ebd53c5/tfsbuild01_mid.mp4",
+    "Description": "This webcast will walk you through the setup and deployment of an ASP.Net Web application to Azure using VSTS Build and the Azure Deployment step. "
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "212607b3-f191-4059-ac17-a2c7000d267f",
+    "DataApi": "/Entries(guid'212607b3-f191-4059-ac17-a2c7000d267f')/",
+    "VideoPageLink": "/Series/Building-Modern-Web-Apps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f858/a22c7759-2f50-413e-bb8b-66c7a716f858/BuildingModernWebAppsM02_960.jpg",
+    "ShowName": "Building Modern Web Apps",
+    "VideoLength": "00:52:44",
+    "VideoTitle": "Building Modern Web Apps: (02) Upgrading Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T17:51:14.5796738Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f858/a22c7759-2f50-413e-bb8b-66c7a716f858/BuildingModernWebAppsM02_mid.mp4",
+    "Description": "Get a deep dive on how to upgrade your older applications to ASP.NET 4.5 and later. Full course outline: Mod 01: What's New in Visual Studio 2013 for Web DevelopersMod 02: Upgrading ApplicationsMod 03"
+  },
+  {
+    "VideoId": "24a7cb1e-58f0-41c7-96bf-a2c7000d75ce",
+    "DataApi": "/Entries(guid'24a7cb1e-58f0-41c7-96bf-a2c7000d75ce')/",
+    "VideoPageLink": "/Series/Building-Modern-Web-Apps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5072/8e3e3946-1b3a-4f0b-8a8b-2db372fa5072/BuildingModernWebAppsM03_960.jpg",
+    "ShowName": "Building Modern Web Apps",
+    "VideoLength": "00:38:59",
+    "VideoTitle": "Building Modern Web Apps: (03) ASP.NET Identity",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T17:51:30.0794189Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5072/8e3e3946-1b3a-4f0b-8a8b-2db372fa5072/BuildingModernWebAppsM03_mid.mp4",
+    "Description": "Explore the new ASP.NET Identity system. Learn how to migrate your existing membership data to the new Identity system and how to integrate with other membership systems. Full course outline: Mod 01: "
+  },
+  {
+    "VideoId": "5c10621a-565d-4c3e-9e32-a2c7000dabf4",
+    "DataApi": "/Entries(guid'5c10621a-565d-4c3e-9e32-a2c7000dabf4')/",
+    "VideoPageLink": "/Series/Building-Modern-Web-Apps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf7a/709e8164-9500-40f1-b010-eef08702cf7a/BuildingModernWebAppsM04_960.jpg",
+    "ShowName": "Building Modern Web Apps",
+    "VideoLength": "00:49:49",
+    "VideoTitle": "Building Modern Web Apps: (04) Web Essentials and the Client Side",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T17:52:02.2626341Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf7a/709e8164-9500-40f1-b010-eef08702cf7a/BuildingModernWebAppsM04_mid.mp4",
+    "Description": "Discover how to build modern client-side applications, more simply and quickly, with a host of new features, tips, and tricks in Web Essentials for Visual Studio. Full course outline: Mod 01: What's N"
+  },
+  {
+    "VideoId": "51e07b9f-daa1-4ba9-8906-a2c7000dfcb9",
+    "DataApi": "/Entries(guid'51e07b9f-daa1-4ba9-8906-a2c7000dfcb9')/",
+    "VideoPageLink": "/Series/Building-Modern-Web-Apps/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b58/05bc5e2c-47c2-478d-ba2e-a1ce287b6b58/BuildingModernWebAppsM05_960.jpg",
+    "ShowName": "Building Modern Web Apps",
+    "VideoLength": "00:49:49",
+    "VideoTitle": "Building Modern Web Apps: (05) Entity Framework",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T17:55:16.6421474Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b58/05bc5e2c-47c2-478d-ba2e-a1ce287b6b58/BuildingModernWebAppsM05_mid.mp4",
+    "Description": "Have you been using Entity Framework for data access in your web app? In this advanced demo-heavy session, learn the latest features of Entity Framework 6 and get sneak previews of what's coming in ve"
+  },
+  {
+    "VideoId": "ab6a1134-dcb5-48b0-9789-a2c7000e32e2",
+    "DataApi": "/Entries(guid'ab6a1134-dcb5-48b0-9789-a2c7000e32e2')/",
+    "VideoPageLink": "/Series/Building-Modern-Web-Apps/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/33d7/2f495511-96cc-481b-acc3-b37d0b7533d7/BuildingModernWebAppsM06_960.jpg",
+    "ShowName": "Building Modern Web Apps",
+    "VideoLength": "00:45:40",
+    "VideoTitle": "Building Modern Web Apps: (06) Katana Project",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T17:56:14.0425317Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/33d7/2f495511-96cc-481b-acc3-b37d0b7533d7/BuildingModernWebAppsM06_mid.mp4",
+    "Description": "Hear the latest on &quot;Project Katana,&quot; the Microsoft implementation of Open Web Interface for .NET. It's a glimpse of the future for cloud-optimizing your ASP.NET applications. Full course out"
+  },
+  {
+    "VideoId": "605b7a69-6e79-4a2f-af92-a2c7000f2d1e",
+    "DataApi": "/Entries(guid'605b7a69-6e79-4a2f-af92-a2c7000f2d1e')/",
+    "VideoPageLink": "/Series/Building-Modern-Web-Apps/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2207/01be318f-6f0c-42c6-8c9e-76296edc2207/BuildingModernWebAppsM07_960.jpg",
+    "ShowName": "Building Modern Web Apps",
+    "VideoLength": "00:45:17",
+    "VideoTitle": "Building Modern Web Apps: (07) ASP.NET \"Project Helios\"",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T17:56:50.4515696Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2207/01be318f-6f0c-42c6-8c9e-76296edc2207/BuildingModernWebAppsM07_mid.mp4",
+    "Description": "Discover &quot;Project Helios,&quot; a prototype representing the re-thinking of the core of ASP.NET. Take a look at the future of web development, with a modular, lightweight OWIN host that runs on I"
+  }
+]

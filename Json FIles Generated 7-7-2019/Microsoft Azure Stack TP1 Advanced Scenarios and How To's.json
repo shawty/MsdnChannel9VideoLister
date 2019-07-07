@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "69073f54-36f6-4fb7-a254-a5f000f2d5bd",
+    "DataApi": "/Entries(guid'69073f54-36f6-4fb7-a254-a5f000f2d5bd')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-Stack-TP1-Advanced-Scenarios-and-How-Tos/Microsoft-Azure-Stack-TP1-Beyond-the-Basics-2-Deploying-the-MySQL-Resource-Provider",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dff4/337bc0d7-c7d0-45cc-b8cb-2fdab698dff4/AzureStackMySQLRP_960.jpg",
+    "ShowName": "Microsoft Azure Stack TP1 Advanced Scenarios and How To's",
+    "VideoLength": "00:09:56",
+    "VideoTitle": "Microsoft Azure Stack TP1 Beyond the Basics #2 Deploying the MySQL Resource Provider",
+    "Author": "KathMcBrideMSFT",
+    "UtcDateTimePublished": "2016-04-25T22:33:14.6469574Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dff4/337bc0d7-c7d0-45cc-b8cb-2fdab698dff4/AzureStackMySQLRP_mid.mp4",
+    "Description": "In this video, Kath McBride, a Sr. Program Manager at Microsoft, will show you the process to deploy the MySQL Resource Provider for Microsoft Azure Stack TP1. "
+  },
+  {
+    "VideoId": "c625d3b3-7d7e-4baa-a6c1-a5f0010c7357",
+    "DataApi": "/Entries(guid'c625d3b3-7d7e-4baa-a6c1-a5f0010c7357')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-Stack-TP1-Advanced-Scenarios-and-How-Tos/Microsoft-Azure-Stack-TP1-Beyond-the-Basics-1-Deploying-the-SQL-Resource-Provider",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c6f1/a0183ce3-a96b-4c2e-965a-5df31bbfc6f1/AzureStackSQLRP_960.jpg",
+    "ShowName": "Microsoft Azure Stack TP1 Advanced Scenarios and How To's",
+    "VideoLength": "00:11:57",
+    "VideoTitle": "Microsoft Azure Stack TP1 Beyond the Basics #1 Deploying the SQL Resource Provider",
+    "Author": "KathMcBrideMSFT",
+    "UtcDateTimePublished": "2016-04-25T22:32:10.2837865Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c6f1/a0183ce3-a96b-4c2e-965a-5df31bbfc6f1/AzureStackSQLRP_mid.mp4",
+    "Description": "In this video, Kath McBride, a Sr. Program Manager at Microsoft, will show you the process to deploy the SQL Resource Provider for Microsoft Azure Stack TP1 "
+  },
+  {
+    "VideoId": "fbca534b-439c-4dca-a4e6-a5f0010bb6a3",
+    "DataApi": "/Entries(guid'fbca534b-439c-4dca-a4e6-a5f0010bb6a3')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-Stack-TP1-Advanced-Scenarios-and-How-Tos/Microsoft-Azure-Stack-TP1-Foundational-Skills-2-Deploying-Extensions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eb91/821160ee-eb63-4228-8aea-558c64a5eb91/AzureStackExt_960.jpg",
+    "ShowName": "Microsoft Azure Stack TP1 Advanced Scenarios and How To's",
+    "VideoLength": "00:18:46",
+    "VideoTitle": "Microsoft Azure Stack TP1 Foundational Skills #2 Deploying Extensions",
+    "Author": "KathMcBrideMSFT",
+    "UtcDateTimePublished": "2016-04-25T22:24:57.3022735Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eb91/821160ee-eb63-4228-8aea-558c64a5eb91/AzureStackExt_mid.mp4",
+    "Description": "In this video, Victor Arzate a Program Manager at Microsoft, will walk you thru the process of deploying VM extensions on Windows and Linux virtual machines in Microsoft Azure Stack TP1, utilizing the"
+  },
+  {
+    "VideoId": "519ae3a1-f654-40b9-adc5-a5f000f24cd3",
+    "DataApi": "/Entries(guid'519ae3a1-f654-40b9-adc5-a5f000f24cd3')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-Stack-TP1-Advanced-Scenarios-and-How-Tos/Microsoft-Azure-Stack-TP1-Foundational-Skills-1-Deploying-JSON-Templates",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c186/3b8e7b44-5a1b-43f2-b134-d5510f8fc186/JSONDeployments_960.jpg",
+    "ShowName": "Microsoft Azure Stack TP1 Advanced Scenarios and How To's",
+    "VideoLength": "00:15:04",
+    "VideoTitle": "Microsoft Azure Stack TP1 Foundational Skills #1 Deploying JSON Templates",
+    "Author": "KathMcBrideMSFT",
+    "UtcDateTimePublished": "2016-04-25T22:23:52.9331204Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c186/3b8e7b44-5a1b-43f2-b134-d5510f8fc186/JSONDeployments_mid.mp4",
+    "Description": " In this video, Kath McBride a Sr. Program Manager at Microsoft, will walk you thru the process of deploying templates in Microsoft Azure Stack TP1.  The video will show you how to complete your deplo"
+  }
+]

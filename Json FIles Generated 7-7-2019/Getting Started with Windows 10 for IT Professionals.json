@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "f6411b6a-cdc4-4d53-a2da-a4d7017a666f",
+    "DataApi": "/Entries(guid'f6411b6a-cdc4-4d53-a2da-a4d7017a666f')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-2-Whats-New-in-Windows-10-Management-and-the-Windows-Store",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2a3c/f4cb9e13-2928-43eb-a88d-6b19c6872a3c/whatsnewinwindows10management_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:32:49",
+    "VideoTitle": "Mod 2 - What's New in Windows 10 Management and the Windows Store ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:20:13.7920315Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2a3c/f4cb9e13-2928-43eb-a88d-6b19c6872a3c/whatsnewinwindows10management_mid.mp4",
+    "Description": "Explore traditional management, with Group Policy, System Center and related components, and mobile device management, which we added in Windows 8.1 and enhanced in Windows 10. "
+  },
+  {
+    "VideoId": "f7dba4e4-e435-4cf0-8f4d-a4d8010772fe",
+    "DataApi": "/Entries(guid'f7dba4e4-e435-4cf0-8f4d-a4d8010772fe')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-3-Runtime-Provisioning-in-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/47cb/68dcde8d-13c1-4c0b-840d-4e1b0c4947cb/runtimeprovisioninginwindows10_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:21:33",
+    "VideoTitle": "Mod 3 - Runtime Provisioning in Windows 10 ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:20:23.040636Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/47cb/68dcde8d-13c1-4c0b-840d-4e1b0c4947cb/runtimeprovisioninginwindows10_mid.mp4",
+    "Description": "â€‹Since it's time-prohibitive to re-image a machine, find out the benefits of runtime provisioning (and get precious time back). "
+  },
+  {
+    "VideoId": "d979ccea-106f-4ed0-b3c2-a4d8010e69dd",
+    "DataApi": "/Entries(guid'd979ccea-106f-4ed0-b3c2-a4d8010e69dd')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-4-Windows-10-Mobile-Device-Management-MDM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e543/07aa1503-261b-466d-9632-a362b591e543/windows10mobiledevicemanagement_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:33:59",
+    "VideoTitle": "Mod 4 - Windows 10 Mobile Device Management (MDM) ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:20:44.5370607Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e543/07aa1503-261b-466d-9632-a362b591e543/windows10mobiledevicemanagement_mid.mp4",
+    "Description": "Take a closer look at today's MDM challenges, through more granular device management capabilities. "
+  },
+  {
+    "VideoId": "d16236d2-ef53-4d85-9e57-a4d8011041e2",
+    "DataApi": "/Entries(guid'd16236d2-ef53-4d85-9e57-a4d8011041e2')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-5-Protecting-Your-Data-with-Containers-Without-Boxing-Yourself-In",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dbcf/b4bb522f-ade7-4cde-a70a-77d7dff6dbcf/protectingyourdatawithcontainerswithoutboxingyour_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:33:31",
+    "VideoTitle": "Mod 5 -  Protecting Your Data with Containers Without Boxing Yourself In ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:20:56.8141476Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dbcf/b4bb522f-ade7-4cde-a70a-77d7dff6dbcf/protectingyourdatawithcontainerswithoutboxingyour_mid.mp4",
+    "Description": "Since a majority of data leaks happen accidentally, learn how Windows 10 addresses this, without additional cumbersome steps. "
+  },
+  {
+    "VideoId": "96fac0ed-96ea-411e-96c7-a4d80111a615",
+    "DataApi": "/Entries(guid'96fac0ed-96ea-411e-96c7-a4d80111a615')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-6-A-New-Era-of-Threat-Resistance-for-the-Windows-10-Platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c403/2f212b39-e0a9-4ae5-9118-415d5d3ac403/aneweraofthreatresistanceforthewindows10platform_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:33:10",
+    "VideoTitle": "Mod 6 - A New Era of Threat Resistance for the Windows 10 Platform ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:21:08.0549782Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c403/2f212b39-e0a9-4ae5-9118-415d5d3ac403/aneweraofthreatresistanceforthewindows10platform_mid.mp4",
+    "Description": "Get the details on how Windows 10 addresses â€‹evolving cyber-threats, with a new approach. "
+  },
+  {
+    "VideoId": "f1d44008-571e-4ce5-8cde-a4d80111db8b",
+    "DataApi": "/Entries(guid'f1d44008-571e-4ce5-8cde-a4d80111db8b')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-7-Secure-Authentication-with-Windows-Hello",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8af1/ed52d3ba-e7db-48a8-a382-126a0a5f8af1/secureauthenticationwithwindowshello_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:23:56",
+    "VideoTitle": "Mod 7 - Secure Authentication with Windows Hello ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:21:18.0685483Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8af1/ed52d3ba-e7db-48a8-a382-126a0a5f8af1/secureauthenticationwithwindowshello_mid.mp4",
+    "Description": "Find out how easy multifactor authentication is now. Learn how to secure your organization via included biometric capabilities made available in Windows 10â€‹. â€‹ "
+  },
+  {
+    "VideoId": "304c4054-1006-41fd-9a71-a4d801143f3b",
+    "DataApi": "/Entries(guid'304c4054-1006-41fd-9a71-a4d801143f3b')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Windows-10-for-IT-Professionals/Mod-8-Windows-as-a-Service-What-does-it-mean-for-your-business",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dbea/6f3ed9bf-9411-4115-b061-4eccc344dbea/windowsasaservicewhatdoesitmeanforyourbusiness_960.jpg",
+    "ShowName": "Getting Started with Windows 10 for IT Professionals",
+    "VideoLength": "00:24:27",
+    "VideoTitle": "Mod 8 - Windows as a Service: What does it mean for your business?",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-07-29T20:21:30.8977805Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dbea/6f3ed9bf-9411-4115-b061-4eccc344dbea/windowsasaservicewhatdoesitmeanforyourbusiness_mid.mp4",
+    "Description": "Take a look at the ways that Windows Update for Business keeps organizations' Windows 10 deployment up to date at the pace set by you and your IT department. â€‹ â€‹ â€‹ "
+  }
+]

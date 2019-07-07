@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "4c2d57f2-1c59-4d2f-beb0-a5b100416059",
+    "DataApi": "/Entries(guid'4c2d57f2-1c59-4d2f-beb0-a5b100416059')/",
+    "VideoPageLink": "/Series/Developing-Windows-10-Applications-with-C/Introduction-to-XAML",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9bc0/088879e9-c2c7-44b3-8166-9ea485da9bc0/xamlintro_960.jpg",
+    "ShowName": "Developing Windows 10 Applications with C#",
+    "VideoLength": "00:29:41",
+    "VideoTitle": "Introduction to XAML",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-02-19T06:38:37.7998282Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9bc0/088879e9-c2c7-44b3-8166-9ea485da9bc0/xamlintro_mid.mp4",
+    "Description": "XAML (eXtensible Application Markup Language) is a special declarative language that is based on XML and is used primarily for creating interfaces. XAML was introduced in the .NET Framework 3.0 as a p"
+  },
+  {
+    "VideoId": "cfa07636-f8f4-4271-8d9b-a5b8001be72f",
+    "DataApi": "/Entries(guid'cfa07636-f8f4-4271-8d9b-a5b8001be72f')/",
+    "VideoPageLink": "/Series/Developing-Windows-10-Applications-with-C/Layouts",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0670/f6276e49-896a-4de8-ad67-53d18f9b0670/win103_960.jpg",
+    "ShowName": "Developing Windows 10 Applications with C#",
+    "VideoLength": "00:29:43",
+    "VideoTitle": "Layouts",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-02-26T02:53:12.993052Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0670/f6276e49-896a-4de8-ad67-53d18f9b0670/win103_mid.mp4",
+    "Description": "In this module we will discuss Grid, StackPanel, Canvas and RelativePanel user controls "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b772bbef-e377-40e0-b55e-a3e101694c7f",
+    "DataApi": "/Entries(guid'b772bbef-e377-40e0-b55e-a3e101694c7f')/",
+    "VideoPageLink": "/Series/Configure-OWA-for-Office-365/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d908/7eaaad98-34b9-4b19-ac10-ff703443d908/611ConfigureOWAforO365M01_960.jpg",
+    "ShowName": "Configure OWA for Office 365",
+    "VideoLength": "00:45:21",
+    "VideoTitle": "Configure OWA for Office 365: (01) Configuring OWA for Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-13T16:28:28.0654732Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d908/7eaaad98-34b9-4b19-ac10-ff703443d908/611ConfigureOWAforO365M01_mid.mp4",
+    "Description": "Find out how to configure your mail and calendar settings, organize emails, create distribution groups and site mailboxes, configure your mobile device to synchronize with your mailbox, and add Outloo"
+  }
+]

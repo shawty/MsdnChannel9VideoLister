@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "90cafd79-9bfe-4bf4-bf32-a36f014c4aa7",
+    "DataApi": "/Entries(guid'90cafd79-9bfe-4bf4-bf32-a36f014c4aa7')/",
+    "VideoPageLink": "/Series/Programming-Kinect-for-Windows-v2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6db4/aa6e4f5c-846c-40bd-aba2-204ff28e6db4/ProgrammingKinectForWindowsV2M02_960.jpg",
+    "ShowName": "Programming Kinect for Windows v2",
+    "VideoLength": "00:52:56",
+    "VideoTitle": "Programming Kinect for Windows v2: (02) Kinect Data Sources and Programming Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-22T05:42:28.3011096Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6db4/aa6e4f5c-846c-40bd-aba2-204ff28e6db4/ProgrammingKinectForWindowsV2M02_mid.mp4",
+    "Description": "Kinect has various data sources available, including Infrared, Color, Depth, Body, and Audio. Learn how to use all of the sources, and go deep into the programming model. Find out how to add Kinect su"
+  },
+  {
+    "VideoId": "91b69582-c12c-4a55-b257-a36f014c8d4a",
+    "DataApi": "/Entries(guid'91b69582-c12c-4a55-b257-a36f014c8d4a')/",
+    "VideoPageLink": "/Series/Programming-Kinect-for-Windows-v2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/30bf/ea6c5571-b463-49c7-87b9-1623bf1830bf/ProgrammingKinectForWindowsV2M03_960.jpg",
+    "ShowName": "Programming Kinect for Windows v2",
+    "VideoLength": "00:52:18",
+    "VideoTitle": "Programming Kinect for Windows v2: (03) Hand Pointer Gestures and Speech",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-22T05:42:38.9312821Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/30bf/ea6c5571-b463-49c7-87b9-1623bf1830bf/ProgrammingKinectForWindowsV2M03_mid.mp4",
+    "Description": "Kinect provides new ways to interact with applications using gesture or voice.  Experts explain how they created the hand cursor, PHIZ, and user interactions, and they go through sample code to show h"
+  },
+  {
+    "VideoId": "dfa45697-94e9-476d-85d7-a36f014ccd66",
+    "DataApi": "/Entries(guid'dfa45697-94e9-476d-85d7-a36f014ccd66')/",
+    "VideoPageLink": "/Series/Programming-Kinect-for-Windows-v2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/96c1/332e045e-33b7-4a0c-a43c-3727ec2696c1/ProgrammingKinectForWindowsV2M04_960.jpg",
+    "ShowName": "Programming Kinect for Windows v2",
+    "VideoLength": "00:52:07",
+    "VideoTitle": "Programming Kinect for Windows v2: (04) Using Kinect with Other Frameworks or Libraries",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-22T05:42:49.4036018Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/96c1/332e045e-33b7-4a0c-a43c-3727ec2696c1/ProgrammingKinectForWindowsV2M04_mid.mp4",
+    "Description": "Find out how a Unity3D plugin allows you to use Kinect data and APIs in your Unity game or application. And learn about Kinect Common Bridge, along with support for Cinder and openFrameworks. See samp"
+  },
+  {
+    "VideoId": "dd5b926b-73b5-457f-8dbe-a36f014d109a",
+    "DataApi": "/Entries(guid'dd5b926b-73b5-457f-8dbe-a36f014d109a')/",
+    "VideoPageLink": "/Series/Programming-Kinect-for-Windows-v2/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f66/8160a3b6-f5cc-46be-9eaf-83ddf09b8f66/ProgrammingKinectForWindowsV2M05_960.jpg",
+    "ShowName": "Programming Kinect for Windows v2",
+    "VideoLength": "00:51:14",
+    "VideoTitle": "Programming Kinect for Windows v2: (05) Fusion, Face, HD Face",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-22T05:43:00.9716141Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f66/8160a3b6-f5cc-46be-9eaf-83ddf09b8f66/ProgrammingKinectForWindowsV2M05_mid.mp4",
+    "Description": "Get the details on Kinect Fusion, which allows the sensor to be used to scan and create 3D models of people or objects. And hear how the Face APIs enable applications to detect faces in the scene, cap"
+  },
+  {
+    "VideoId": "566bb834-8df9-4161-b0c8-a36f014d4c73",
+    "DataApi": "/Entries(guid'566bb834-8df9-4161-b0c8-a36f014d4c73')/",
+    "VideoPageLink": "/Series/Programming-Kinect-for-Windows-v2/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9750/90dba642-3834-4c10-9dbc-3118d2399750/ProgrammingKinectForWindowsV2M06_960.jpg",
+    "ShowName": "Programming Kinect for Windows v2",
+    "VideoLength": "00:49:55",
+    "VideoTitle": "Programming Kinect for Windows v2: (06) Recording, Playback, and Gesture Recognition",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-22T05:43:09.8979502Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9750/90dba642-3834-4c10-9dbc-3118d2399750/ProgrammingKinectForWindowsV2M06_mid.mp4",
+    "Description": "Find out about Kinect Studio, which allows sensor data to be recorded and played back (helpful when developing and debugging your application). Explore different approaches to creating custom gestures"
+  },
+  {
+    "VideoId": "634eee2d-2145-4cdc-a908-a36f014d9a7b",
+    "DataApi": "/Entries(guid'634eee2d-2145-4cdc-a908-a36f014d9a7b')/",
+    "VideoPageLink": "/Series/Programming-Kinect-for-Windows-v2/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3de5/e768a1cf-a088-4d06-a19f-090276fd3de5/ProgrammingKinectForWindowsV2M07_960.jpg",
+    "ShowName": "Programming Kinect for Windows v2",
+    "VideoLength": "00:55:33",
+    "VideoTitle": "Programming Kinect for Windows v2: (07) Advance Topics: Skeletal Tracking and Depth Filtering",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-22T05:43:19.67342Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3de5/e768a1cf-a088-4d06-a19f-090276fd3de5/ProgrammingKinectForWindowsV2M07_mid.mp4",
+    "Description": "Walk through two case studies, and take a deep dive into the joint filtering work done in the platform to have a stable hand cursor. The module includes a depth-based approach to gesture detection and"
+  }
+]

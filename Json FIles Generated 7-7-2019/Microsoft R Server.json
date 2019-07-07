@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "674d0b4d-b342-498f-a126-a58b001401a6",
+    "DataApi": "/Entries(guid'674d0b4d-b342-498f-a126-a58b001401a6')/",
+    "VideoPageLink": "/Series/Microsoft-R-Server/Technology-Overview-for-Microsoft-R-Server-2016",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/d08a880b-9ce9-4f57-befe-b7fc905b0a49.png",
+    "ShowName": "Microsoft R Server",
+    "VideoLength": "00:32:37",
+    "VideoTitle": "Technology Overview for Microsoft R Server 2016",
+    "Author": "tchristiani",
+    "UtcDateTimePublished": "2016-01-12T23:37:18.9319921Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f65c/e070d484-4ad8-4541-b492-4726a120f65c/technologyoverviewMSRS2016_high.mp4",
+    "Description": "This brief overview video discusses the features and benefits of the Microsoft R Server product. "
+  }
+]

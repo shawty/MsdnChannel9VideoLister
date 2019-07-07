@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "63b4f28c-00e6-41bd-9283-a1ff017c209a",
+    "DataApi": "/Entries(guid'63b4f28c-00e6-41bd-9283-a1ff017c209a')/",
+    "VideoPageLink": "/Series/xamldeepdive/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d208/e104b4f8-167d-4135-93fe-c17634fdd208/XAMLDeepDiveM02_960.jpg",
+    "ShowName": "XAML Deep Dive for Windows & Windows Phone Apps",
+    "VideoLength": "01:25:32",
+    "VideoTitle": "XAML Deep Dive for Windows & Windows Phone Apps: (02) XAML UI Elements",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T18:54:20.8771988Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d208/e104b4f8-167d-4135-93fe-c17634fdd208/XAMLDeepDiveM02_mid.mp4",
+    "Description": "In this session you learn about colors, brushes, palettes, shapes and paths and much more. You will receive and overview of all the UI elements of what XAML can do. [00:17] - Paths and Brushes [23:54]"
+  },
+  {
+    "VideoId": "0764ebf3-9610-4fc5-ac36-a1ff017c9921",
+    "DataApi": "/Entries(guid'0764ebf3-9610-4fc5-ac36-a1ff017c9921')/",
+    "VideoPageLink": "/Series/xamldeepdive/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e3cf/0123267c-530a-40f3-99d4-7d3e8963e3cf/XAMLDeepDiveM03_960.jpg",
+    "ShowName": "XAML Deep Dive for Windows & Windows Phone Apps",
+    "VideoLength": "00:40:46",
+    "VideoTitle": "XAML Deep Dive for Windows & Windows Phone Apps: (03) Panels and Layout",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T18:54:55.1963329Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e3cf/0123267c-530a-40f3-99d4-7d3e8963e3cf/XAMLDeepDiveM03_mid.mp4",
+    "Description": "This sessions provides an overview on core framework panels: Canvas, StackPanel, Grid and VirtualizingStackPanel. Additionally you will learn about platform specific requirements for the phone and Win"
+  },
+  {
+    "VideoId": "6c5bd3a3-310a-435f-aed1-a1ff017ceafe",
+    "DataApi": "/Entries(guid'6c5bd3a3-310a-435f-aed1-a1ff017ceafe')/",
+    "VideoPageLink": "/Series/xamldeepdive/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/13fe/a439cfeb-578c-4ac8-b5d2-863fe7d913fe/XAMLDeepDiveM04_960.jpg",
+    "ShowName": "XAML Deep Dive for Windows & Windows Phone Apps",
+    "VideoLength": "01:16:27",
+    "VideoTitle": "XAML Deep Dive for Windows & Windows Phone Apps: (04) Controls",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T18:55:57.576714Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/13fe/a439cfeb-578c-4ac8-b5d2-863fe7d913fe/XAMLDeepDiveM04_mid.mp4",
+    "Description": "With the basics down, this module goes into reusable units for presentation, defined UI/Interaction patterns such as input and feedback, and consistency with OS. Get ready to crank up the speed and le"
+  },
+  {
+    "VideoId": "63971c89-b476-49f0-8ca5-a1ff017d43f2",
+    "DataApi": "/Entries(guid'63971c89-b476-49f0-8ca5-a1ff017d43f2')/",
+    "VideoPageLink": "/Series/xamldeepdive/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1a32/ab9aaee1-8ec0-4e6a-b761-198174101a32/XAMLDeepDiveM05_960.jpg",
+    "ShowName": "XAML Deep Dive for Windows & Windows Phone Apps",
+    "VideoLength": "01:09:01",
+    "VideoTitle": "XAML Deep Dive for Windows & Windows Phone Apps: (05) Data Binding",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T18:56:26.0228297Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1a32/ab9aaee1-8ec0-4e6a-b761-198174101a32/XAMLDeepDiveM05_mid.mp4",
+    "Description": "This section goes into details on data binding and why it is a key element of XAML. It introduces you to how to connect UI to data when data values change, UI updates, how to use XAML efficiently to d"
+  },
+  {
+    "VideoId": "906e5828-c198-4758-b2ec-a1ff017d9394",
+    "DataApi": "/Entries(guid'906e5828-c198-4758-b2ec-a1ff017d9394')/",
+    "VideoPageLink": "/Series/xamldeepdive/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c75/7608e84e-a0b1-4a43-aa82-dc096ec09c75/XAMLDeepDiveM06_960.jpg",
+    "ShowName": "XAML Deep Dive for Windows & Windows Phone Apps",
+    "VideoLength": "01:14:05",
+    "VideoTitle": "XAML Deep Dive for Windows & Windows Phone Apps: (06) MVVM",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T18:56:45.5624266Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c75/7608e84e-a0b1-4a43-aa82-dc096ec09c75/XAMLDeepDiveM06_mid.mp4",
+    "Description": "This module is all about MVVM and how what you have learned in the earlier sections all ties together. It provides an overview on how to implement commands, the relationships and a demo on the MVVM li"
+  }
+]

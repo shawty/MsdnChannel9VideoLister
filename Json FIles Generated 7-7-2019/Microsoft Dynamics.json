@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "f458a0ed-2c0a-449e-8282-a5cd007cab10",
+    "DataApi": "/Entries(guid'f458a0ed-2c0a-449e-8282-a5cd007cab10')/",
+    "VideoPageLink": "/Series/Microsoft-Dynamics/Dynamics-AX-Agriculture-Management-Scheme",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/988d/cb78f46a-dfae-4718-a597-02b9aab1988d/DynamicAXAgricultureMana_960.jpg",
+    "ShowName": "Microsoft Dynamics",
+    "VideoLength": "00:10:10",
+    "VideoTitle": "Dynamics AX: Agriculture Management Scheme",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-03-18T14:22:54.0327215Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/988d/cb78f46a-dfae-4718-a597-02b9aab1988d/DynamicAXAgricultureMana_mid.mp4",
+    "Description": "Microsoft recognises that the agricultural marketplace is one of the biggest across the African continent, and sees potential for synergy with Dynamics AX. "
+  },
+  {
+    "VideoId": "e0100d1c-38ec-4728-a06f-a5cd007c38aa",
+    "DataApi": "/Entries(guid'e0100d1c-38ec-4728-a06f-a5cd007c38aa')/",
+    "VideoPageLink": "/Series/Microsoft-Dynamics/Introduction-to-CRM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2cc0/e5bc30d5-0634-430f-bc4c-c8a588442cc0/IntroCRM_960.jpg",
+    "ShowName": "Microsoft Dynamics",
+    "VideoLength": "00:29:59",
+    "VideoTitle": "Introduction to CRM",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-03-18T14:22:58.3300421Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2cc0/e5bc30d5-0634-430f-bc4c-c8a588442cc0/IntroCRM_mid.mp4",
+    "Description": "CRM allows an SME to understand his/her client and create a methodology to predict the needs of this same client as an essential development tool for an SME. The module is broken down into different e"
+  },
+  {
+    "VideoId": "180cc0d6-3b9f-447d-9173-a5cd007b9d17",
+    "DataApi": "/Entries(guid'180cc0d6-3b9f-447d-9173-a5cd007b9d17')/",
+    "VideoPageLink": "/Series/Microsoft-Dynamics/Dynamics-NAV-Special-functionalities",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6c5a/be4a67b0-d03d-42cf-818e-b88d4ba16c5a/DynamicNAVSpecialFunc_960.jpg",
+    "ShowName": "Microsoft Dynamics",
+    "VideoLength": "00:19:04",
+    "VideoTitle": "Dynamics NAV: Special functionalities",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-03-18T14:23:00.7445986Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6c5a/be4a67b0-d03d-42cf-818e-b88d4ba16c5a/DynamicNAVSpecialFunc_mid.mp4",
+    "Description": "This second part of the Dynamics NAV course allows for an in-depth definition of specifics within the solution. "
+  },
+  {
+    "VideoId": "9c98f94e-f40b-4620-89c7-a5cd007b6934",
+    "DataApi": "/Entries(guid'9c98f94e-f40b-4620-89c7-a5cd007b6934')/",
+    "VideoPageLink": "/Series/Microsoft-Dynamics/Dynamics-NAV-Access-to-finance-and-access-to-markets",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/097d/e71fc8d0-c301-4e9a-af3e-5cf7bac2097d/DynamicNAVAccess_960.jpg",
+    "ShowName": "Microsoft Dynamics",
+    "VideoLength": "00:13:45",
+    "VideoTitle": "Dynamics NAV: Access to finance and access to markets",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-03-18T14:23:04.6972329Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/097d/e71fc8d0-c301-4e9a-af3e-5cf7bac2097d/DynamicNAVAccess_mid.mp4",
+    "Description": "The introduction to what Dynamics NAV is allows an entrepreneur and SME to understand how it can easily be implemented into their existing company structure. "
+  }
+]

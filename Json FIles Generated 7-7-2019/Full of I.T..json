@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "1f828b54-dca2-453e-922d-a5e7012e7625",
+    "DataApi": "/Entries(guid'1f828b54-dca2-453e-922d-a5e7012e7625')/",
+    "VideoPageLink": "/Blogs/FullofIT/ARMPart5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e29f/edf5a957-a04d-4735-8d20-6cafce7ee29f/ARMPart5_960.jpg",
+    "ShowName": "Full of I.T.",
+    "VideoLength": "00:12:29",
+    "VideoTitle": "Additional Automations (Part 5)",
+    "Author": "Kevin Remde",
+    "UtcDateTimePublished": "2016-04-13T20:01:24.6759151Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e29f/edf5a957-a04d-4735-8d20-6cafce7ee29f/ARMPart5_mid.mp4",
+    "Description": "In the 6th part of our series we look at some of the remaining requirements for our lab environment, and how we automatically launched a PowerShell script on each of our virtual machines to perform th"
+  },
+  {
+    "VideoId": "e48ac952-a3bd-4f5c-9bbe-a5e7012da4ac",
+    "DataApi": "/Entries(guid'e48ac952-a3bd-4f5c-9bbe-a5e7012da4ac')/",
+    "VideoPageLink": "/Blogs/FullofIT/ARMPart3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f5f3/1d5a10c1-f606-4254-99dc-3ca4b126f5f3/ARMPart3_960.jpg",
+    "ShowName": "Full of I.T.",
+    "VideoLength": "00:09:25",
+    "VideoTitle": "Domain-Join the member servers (Part 3)",
+    "Author": "Kevin Remde",
+    "UtcDateTimePublished": "2016-04-13T20:00:44.5256733Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f5f3/1d5a10c1-f606-4254-99dc-3ca4b126f5f3/ARMPart3_mid.mp4",
+    "Description": "In the fourth part of our series we look at how to automatically join the three other virtual machines to the contoso.com domain, again using an custom extension in our Azure Resource Manager template"
+  },
+  {
+    "VideoId": "cbbac591-4a05-4d21-820d-a5e7012e163a",
+    "DataApi": "/Entries(guid'cbbac591-4a05-4d21-820d-a5e7012e163a')/",
+    "VideoPageLink": "/Blogs/FullofIT/ARMPart4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0e47/8a48bcdf-8da2-4f63-ba7e-257fcc3d0e47/ARMPart4_960.jpg",
+    "ShowName": "Full of I.T.",
+    "VideoLength": "00:05:37",
+    "VideoTitle": "Copy down files (Part 4)",
+    "Author": "Kevin Remde",
+    "UtcDateTimePublished": "2016-04-13T20:00:29.8992448Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0e47/8a48bcdf-8da2-4f63-ba7e-257fcc3d0e47/ARMPart4_mid.mp4",
+    "Description": "Our lab environment requires that several sample scripts and other utilities be available on several of the member servers.  But how do we get those files onto the C: drive?  In this video I'll show h"
+  },
+  {
+    "VideoId": "8f56768e-86e4-42bf-8c1a-a5e7012cf9c3",
+    "DataApi": "/Entries(guid'8f56768e-86e4-42bf-8c1a-a5e7012cf9c3')/",
+    "VideoPageLink": "/Blogs/FullofIT/ARMPart2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/114c/00408e70-49a4-4b74-9ab6-09c54a6f114c/ARMPart2_960.jpg",
+    "ShowName": "Full of I.T.",
+    "VideoLength": "00:17:04",
+    "VideoTitle": "Create a Domain Controller (Part 2)",
+    "Author": "Kevin Remde",
+    "UtcDateTimePublished": "2016-04-13T19:58:52.1596257Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/114c/00408e70-49a4-4b74-9ab6-09c54a6f114c/ARMPart2_mid.mp4",
+    "Description": "It's not enough just to create a new virtual machine.  Our lab environment requires a pre-configured domain, and so in part 2 we find and utilize and extension that automatically configures one of our"
+  },
+  {
+    "VideoId": "97e9f8e4-17ee-4bb7-840c-a5e701289867",
+    "DataApi": "/Entries(guid'97e9f8e4-17ee-4bb7-840c-a5e701289867')/",
+    "VideoPageLink": "/Blogs/FullofIT/ARMPart1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/98d8/a63e9a28-b12f-41c3-ab0a-6c57378c98d8/ARMPart1_960.jpg",
+    "ShowName": "Full of I.T.",
+    "VideoLength": "00:22:22",
+    "VideoTitle": "Working with JSON (Part 1)",
+    "Author": "Kevin Remde",
+    "UtcDateTimePublished": "2016-04-13T19:58:07.1634709Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/98d8/a63e9a28-b12f-41c3-ab0a-6c57378c98d8/ARMPart1_mid.mp4",
+    "Description": "In the second part of this series we discuss the components that make up the schema for JSON-based Azure Resource Manager templates.  We also look at some of the initial building blocks that our examp"
+  },
+  {
+    "VideoId": "c5fabadf-a699-45be-bf1e-a5e701278360",
+    "DataApi": "/Entries(guid'c5fabadf-a699-45be-bf1e-a5e701278360')/",
+    "VideoPageLink": "/Blogs/FullofIT/ARMPart0",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/146c/a29cb103-2f00-4b76-9820-937d01e1146c/ARMPart0_960.jpg",
+    "ShowName": "Full of I.T.",
+    "VideoLength": "00:19:21",
+    "VideoTitle": "How I automated a hands-on-lab infrastructure - Introduction (Part 0)",
+    "Author": "Kevin Remde",
+    "UtcDateTimePublished": "2016-04-13T19:56:44.9104866Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/146c/a29cb103-2f00-4b76-9820-937d01e1146c/ARMPart0_mid.mp4",
+    "Description": "In part 0, I introduce the purpose for this series, which is a walk-through of how I learned to automate the creation of an Azure-hosted lab environment (Storage, 4 VMs, network, NICs, etc.) using Azu"
+  }
+]

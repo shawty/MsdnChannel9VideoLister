@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "7e3d4e71-e9f4-47ae-89dc-a5b101532398",
+    "DataApi": "/Entries(guid'7e3d4e71-e9f4-47ae-89dc-a5b101532398')/",
+    "VideoPageLink": "/Series/How-to-Control-the-Uncontrolled/2--How-to-Configure-Conditional-Access-to-Exchange-Online",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f7bd/bbbd0fc3-ba1a-483b-b125-3f7ed2f6f7bd/ConfigureConditional_960.jpg",
+    "ShowName": "How to: Control the Uncontrolled",
+    "VideoLength": "00:32:30",
+    "VideoTitle": "2 | How to Configure Conditional Access to Exchange Online",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2016-02-24T00:31:41.895134Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f7bd/bbbd0fc3-ba1a-483b-b125-3f7ed2f6f7bd/ConfigureConditional_mid.mp4",
+    "Description": "In the second video of the series, Ed demonstrates how you can bring even greater security to your mobile environment by enabling conditional access for Exchange accounts. With conditional access you "
+  },
+  {
+    "VideoId": "5bc3c094-e69d-4e5f-ba21-a5b101538db0",
+    "DataApi": "/Entries(guid'5bc3c094-e69d-4e5f-ba21-a5b101538db0')/",
+    "VideoPageLink": "/Series/How-to-Control-the-Uncontrolled/3--How-to-Configure-Email-Profiles",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b7c8/5ff4d08e-fa8b-43aa-a4fc-559e1072b7c8/ConfigureEmail_960.jpg",
+    "ShowName": "How to: Control the Uncontrolled",
+    "VideoLength": "00:12:33",
+    "VideoTitle": "3 | How to Configure Email Profiles",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2016-02-24T00:32:20.7025057Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b7c8/5ff4d08e-fa8b-43aa-a4fc-559e1072b7c8/ConfigureEmail_mid.mp4",
+    "Description": "Ed builds on his progress in the first two labs of this series, enabling email configuration and access to users with minimal to no setup on their part. Learn how you can create email profiles, deploy"
+  },
+  {
+    "VideoId": "a41ab525-356e-4be9-83c6-a5b10153fcaf",
+    "DataApi": "/Entries(guid'a41ab525-356e-4be9-83c6-a5b10153fcaf')/",
+    "VideoPageLink": "/Series/How-to-Control-the-Uncontrolled/4--How-to-Enable-Mobile-Application-Management-MAM-for-Unenrolled-iOS-and-Android-Devices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/295e/f18e99b2-cad9-4a17-9b32-8e0240a2295e/MAMforUnenrolled_960.jpg",
+    "ShowName": "How to: Control the Uncontrolled",
+    "VideoLength": "00:12:58",
+    "VideoTitle": "4 | How to Enable Mobile Application Management (MAM) for Unenrolled iOS and Android Devices",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2016-02-24T00:32:29.3982033Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/295e/f18e99b2-cad9-4a17-9b32-8e0240a2295e/MAMforUnenrolled_mid.mp4",
+    "Description": "In the next lab, Ed will show you how you can manage applications and corporate data on users' devices without requiring those devices to enroll in mobile device management, using either Microsoft Int"
+  },
+  {
+    "VideoId": "bdcd72df-9070-40a6-8e19-a5b101549226",
+    "DataApi": "/Entries(guid'bdcd72df-9070-40a6-8e19-a5b101549226')/",
+    "VideoPageLink": "/Series/How-to-Control-the-Uncontrolled/5--How-to-Configure-Mobile-Application-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4230/de6c5df9-9712-4cff-ba0f-c32c37d44230/ConfigureMAM_960.jpg",
+    "ShowName": "How to: Control the Uncontrolled",
+    "VideoLength": "00:34:45",
+    "VideoTitle": "5 | How to Configure Mobile Application Management",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2016-02-24T00:32:37.6829571Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4230/de6c5df9-9712-4cff-ba0f-c32c37d44230/ConfigureMAM_mid.mp4",
+    "Description": "Ed will show you how you can take enforcing security and compliance requirements to the next level with mobile device management (MDM) and mobile application management (MAM) capabilities of Microsoft"
+  },
+  {
+    "VideoId": "2f183bcc-aa3c-416e-a92a-a5b1015519d6",
+    "DataApi": "/Entries(guid'2f183bcc-aa3c-416e-a92a-a5b1015519d6')/",
+    "VideoPageLink": "/Series/How-to-Control-the-Uncontrolled/6--How-to-Deploy-MSI-Applications-to-Windows-10-Using-Intune-and-Mobile-Device-Management-MDM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cae1/2ef182a0-cc19-4cb1-ab22-8648ef8ecae1/DeployApplications_960.jpg",
+    "ShowName": "How to: Control the Uncontrolled",
+    "VideoLength": "00:10:01",
+    "VideoTitle": "6 | How to Deploy MSI Applications to Windows 10 Using Intune and Mobile Device Management (MDM)",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2016-02-24T00:32:48.3117699Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cae1/2ef182a0-cc19-4cb1-ab22-8648ef8ecae1/DeployApplications_mid.mp4",
+    "Description": "Files come in more than just a few mobile formats, and your mobile application management solution should also handle deploying more traditional files, regardless of whether they're using a PC, phone "
+  },
+  {
+    "VideoId": "9e622b72-eb82-41b9-917e-a5b10155b654",
+    "DataApi": "/Entries(guid'9e622b72-eb82-41b9-917e-a5b10155b654')/",
+    "VideoPageLink": "/Series/How-to-Control-the-Uncontrolled/7--How-to-Configure-Multi-factor-authentication-for-Mobile-Device-Management-MDM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ff5b/de89e968-e830-4faa-b491-474fbc07ff5b/MultiFactorAuthentication_960.jpg",
+    "ShowName": "How to: Control the Uncontrolled",
+    "VideoLength": "00:20:40",
+    "VideoTitle": "7 | How to Configure Multi-factor authentication for Mobile Device Management (MDM) ",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2016-02-24T00:32:57.1074269Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ff5b/de89e968-e830-4faa-b491-474fbc07ff5b/MultiFactorAuthentication_mid.mp4",
+    "Description": "In the final video in this series, Ed will show you how you can bring even greater security to corporate resources through Azure Multi-Factor Authentication (MFA). MFA will provide you with greater ce"
+  }
+]

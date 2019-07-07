@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "59db43a0-4cfe-437b-b09e-a7400168b2bd",
+    "DataApi": "/Entries(guid'59db43a0-4cfe-437b-b09e-a7400168b2bd')/",
+    "VideoPageLink": "/blogs/fernando/Conversations-as-a-Platform-with-Azure-Bot-Service-and-Cortana-Intelligence",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b19f/2f8592bd-f4a2-4514-946c-5455fc83b19f/ConversationsPlatformAzureBotCortana_960.jpg",
+    "ShowName": "My head is in the Cloud",
+    "VideoLength": "00:16:21",
+    "VideoTitle": "Conversations as a Platform with Azure Bot Service and Cortana Intelligence",
+    "Author": "Fernando de Oliveira",
+    "UtcDateTimePublished": "2017-03-27T13:05:59.2364053Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b19f/2f8592bd-f4a2-4514-946c-5455fc83b19f/ConversationsPlatformAzureBotCortana_mid.mp4",
+    "Description": "An introduction about Conversations as a Platform with Azure Bot Service and Cortana Intelligence. The source code used in demo section is available at my Github. For more details about Azure Bot Serv"
+  }
+]

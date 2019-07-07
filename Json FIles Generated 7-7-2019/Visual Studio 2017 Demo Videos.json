@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "623541fb-d37d-4768-a258-a6bb0183a2f6",
+    "DataApi": "/Entries(guid'623541fb-d37d-4768-a258-a6bb0183a2f6')/",
+    "VideoPageLink": "/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Code-Analysis-Improvement",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d77d/744c7eed-d285-4195-9e59-3466b0a3d77d/DotNetCodeAnalysisImprovements_960.jpg",
+    "ShowName": "Visual Studio 2017 Demo Videos",
+    "VideoLength": "00:09:58",
+    "VideoTitle": "Visual Studio 2017: .NET Code Analysis Improvement",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2016-11-16T16:49:16.640106Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d77d/744c7eed-d285-4195-9e59-3466b0a3d77d/DotNetCodeAnalysisImprovements_mid.mp4",
+    "Description": "Visual Studio 2017: .NET Code Analysis Improvement - demo "
+  },
+  {
+    "VideoId": "ca5fc5c9-0f97-4141-a728-a6bb0183d3e0",
+    "DataApi": "/Entries(guid'ca5fc5c9-0f97-4141-a728-a6bb0183d3e0')/",
+    "VideoPageLink": "/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Code-Navigation-Improvement",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/904d/a1feb1d8-ce8c-41be-9ec6-29aa2e0e904d/VS2016CodeNavigationImprovements_960.jpg",
+    "ShowName": "Visual Studio 2017 Demo Videos",
+    "VideoLength": "00:05:35",
+    "VideoTitle": "Visual Studio 2017: .NET Code Navigation Improvement",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2016-11-16T16:49:23.5782757Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/904d/a1feb1d8-ce8c-41be-9ec6-29aa2e0e904d/VS2016CodeNavigationImprovements_mid.mp4",
+    "Description": "Visual Studio 2017: .NET Code Navigation Improvement - demo video "
+  },
+  {
+    "VideoId": "79c49640-4dc4-4b9b-9993-a6bb01845cdb",
+    "DataApi": "/Entries(guid'79c49640-4dc4-4b9b-9993-a6bb01845cdb')/",
+    "VideoPageLink": "/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-Unity-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4447/fd2f6023-7f44-408d-8191-7d90c4a14447/VS2017UnityDevelopment_960.jpg",
+    "ShowName": "Visual Studio 2017 Demo Videos",
+    "VideoLength": "00:01:42",
+    "VideoTitle": "Visual Studio 2017: Unity Development",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2016-11-16T16:49:31.8760737Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4447/fd2f6023-7f44-408d-8191-7d90c4a14447/VS2017UnityDevelopment_mid.mp4",
+    "Description": "Visual Studio 2017: Unity Development - demo video "
+  },
+  {
+    "VideoId": "e2ed4262-702e-42cb-83d4-a6bb0184127c",
+    "DataApi": "/Entries(guid'e2ed4262-702e-42cb-83d4-a6bb0184127c')/",
+    "VideoPageLink": "/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-Linux-Development-with-C",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ea02/9d8712fb-b335-4eae-a8dc-b51ade09ea02/VS2017LinuxCDemo_960.jpg",
+    "ShowName": "Visual Studio 2017 Demo Videos",
+    "VideoLength": "00:01:43",
+    "VideoTitle": "Visual Studio 2017: Linux Development with C++",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2016-11-16T17:02:07.4820199Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ea02/9d8712fb-b335-4eae-a8dc-b51ade09ea02/VS2017LinuxCDemo_mid.mp4",
+    "Description": "Visual Studio 2017: Linux Development with C&#43;&#43; demo video "
+  },
+  {
+    "VideoId": "5b7e4415-bc1b-467e-a73a-a6bb018443ae",
+    "DataApi": "/Entries(guid'5b7e4415-bc1b-467e-a73a-a6bb018443ae')/",
+    "VideoPageLink": "/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-Universal-Windows-Platform-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d7b9/440f25bb-8344-49e4-b5b4-7a0f0e41d7b9/VS2017UWPDemo_960.jpg",
+    "ShowName": "Visual Studio 2017 Demo Videos",
+    "VideoLength": "00:06:13",
+    "VideoTitle": "Visual Studio 2017: Universal Windows Platform Development",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2016-11-16T17:02:26.895045Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d7b9/440f25bb-8344-49e4-b5b4-7a0f0e41d7b9/VS2017UWPDemo_mid.mp4",
+    "Description": "Visual Studio 2017: Universal Windows Platform Development - demo "
+  },
+  {
+    "VideoId": "3f7af607-ca0d-400a-bcac-a6bb01842aea",
+    "DataApi": "/Entries(guid'3f7af607-ca0d-400a-bcac-a6bb01842aea')/",
+    "VideoPageLink": "/Series/Visual-Studio-2017-Demo-Videos/Visual-Studio-2017-NET-Desktop-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e0fb/339e2def-a752-46c2-b5e3-3945b253e0fb/VS2017DestkopDevDemo_960.jpg",
+    "ShowName": "Visual Studio 2017 Demo Videos",
+    "VideoLength": "00:05:33",
+    "VideoTitle": "Visual Studio 2017: .NET Desktop Development",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2016-11-16T17:02:31.67078Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e0fb/339e2def-a752-46c2-b5e3-3945b253e0fb/VS2017DestkopDevDemo_mid.mp4",
+    "Description": "Visual Studio 2017: .NET Desktop Development - demo video "
+  }
+]

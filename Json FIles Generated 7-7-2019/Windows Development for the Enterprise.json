@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "58d00759-c8c5-4790-813a-a6f90145dbef",
+    "DataApi": "/Entries(guid'58d00759-c8c5-4790-813a-a6f90145dbef')/",
+    "VideoPageLink": "/Blogs/Windows-Development-for-the-Enterprise/Securing-Enterprise-Data-with-Windows-Information-Protection",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e58/063fca6e-c3b4-4c14-900f-1ecfc3ec6e58/WindowsInformationProtection_960.jpg",
+    "ShowName": "Windows Development for the Enterprise",
+    "VideoLength": "00:02:03",
+    "VideoTitle": "Securing Enterprise Data with Windows Information Protection",
+    "Author": "keantonc",
+    "UtcDateTimePublished": "2017-01-12T19:58:19.6214162Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e58/063fca6e-c3b4-4c14-900f-1ecfc3ec6e58/WindowsInformationProtection_mid.mp4",
+    "Description": "Learn about Windows Information Protection. It's a new security feature in Windows 10, and this video will show you how administrators use it to protect organizational data on devices.  Also learn how"
+  },
+  {
+    "VideoId": "0d7459ae-e7ba-4c3c-b8c7-a6aa012f3df4",
+    "DataApi": "/Entries(guid'0d7459ae-e7ba-4c3c-b8c7-a6aa012f3df4')/",
+    "VideoPageLink": "/Blogs/Windows-Development-for-the-Enterprise/Using-Microsoft-Graph-with-Cortana",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e8de/2db830e1-6b81-4f88-ac2c-79790a50e8de/MSGraphWithCortana_960.jpg",
+    "ShowName": "Windows Development for the Enterprise",
+    "VideoLength": "00:01:50",
+    "VideoTitle": "Using Microsoft Graph with Cortana",
+    "Author": "keantonc",
+    "UtcDateTimePublished": "2016-10-25T20:38:46.7241817Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e8de/2db830e1-6b81-4f88-ac2c-79790a50e8de/MSGraphWithCortana_mid.mp4",
+    "Description": "The MeetingBot sample shows how to integrate Microsoft Graph capabilities into an app that uses Cortana voice commands.  Watch the video to see an overview of the sample and then check out the source "
+  }
+]

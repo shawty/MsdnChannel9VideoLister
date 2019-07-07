@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "804452d1-000c-41be-9f0d-a4bf0172d45d",
+    "DataApi": "/Entries(guid'804452d1-000c-41be-9f0d-a4bf0172d45d')/",
+    "VideoPageLink": "/blogs/US-DX-Developer-Tools/Visual-Studio-2015-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1bfa/e7d57d59-e8bb-46b4-ba1b-515bb3221bfa/Overview_960.jpg",
+    "ShowName": "US DX Developer Tools",
+    "VideoLength": "00:15:09",
+    "VideoTitle": "Visual Studio 2015 Overview",
+    "Author": "ryanbarr",
+    "UtcDateTimePublished": "2015-06-23T18:11:37.0169085Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1bfa/e7d57d59-e8bb-46b4-ba1b-515bb3221bfa/Overview_mid.mp4",
+    "Description": "Your organization doesn't write software just to keep busy.  You know the advantage of responding to opportunities quickly by continuously delivering value.  However, the technology challenges you fac"
+  }
+]

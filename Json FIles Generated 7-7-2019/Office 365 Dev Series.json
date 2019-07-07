@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "955ab3e5-162e-4924-a118-a62e00b2ddf0",
+    "DataApi": "/Entries(guid'955ab3e5-162e-4924-a118-a62e00b2ddf0')/",
+    "VideoPageLink": "/Series/Office-365-Dev-Series/Deep-dive-into-building-Office-365-Connectors",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/015d/b7a9f073-f930-4aff-902c-201826f4015d/BuildingOffice365Connectors_960.jpg",
+    "ShowName": "Office 365 Dev Series",
+    "VideoLength": "00:49:59",
+    "VideoTitle": "Deep-dive into building Office 365 Connectors",
+    "Author": "Richard diZerega",
+    "UtcDateTimePublished": "2016-06-27T14:29:00.6666586Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/015d/b7a9f073-f930-4aff-902c-201826f4015d/BuildingOffice365Connectors_mid.mp4",
+    "Description": "Office 365 Connectors are a powerful way to send useful 3rd party information and content into Office 365 where users can have conversations, collaborate and take action on the information. This video"
+  }
+]

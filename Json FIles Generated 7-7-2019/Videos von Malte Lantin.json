@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "9405258b-6e09-4d5b-ae4c-a4f900e2f075",
+    "DataApi": "/Entries(guid'9405258b-6e09-4d5b-ae4c-a4f900e2f075')/",
+    "VideoPageLink": "/Blogs/malte_lantin/Testen-der-eigenen-Website-fr-Microsoft-Edge-auf-Mac-Linux-und-Windows",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e86e/4bd27308-7699-4fab-86cc-bc72012de86e/TestingForMSEdge_960.jpg",
+    "ShowName": "Videos von Malte Lantin",
+    "VideoLength": "00:10:27",
+    "VideoTitle": "Testen der eigenen Website fÃ¼r Microsoft Edge auf Mac, Linux und Windows",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2015-08-19T08:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e86e/4bd27308-7699-4fab-86cc-bc72012de86e/TestingForMSEdge_mid.mp4",
+    "Description": "Microsoft Edge ist der neue Standardbrowser in Windows 10. Mit neuer Rendering Engine und neuen Funktionen für den Endnutzer, ist er ein Browser für das moderne Web. Durch das kostenfreie Update auf W"
+  },
+  {
+    "VideoId": "2d234464-ccaa-42eb-9a93-a3a2007502d9",
+    "DataApi": "/Entries(guid'2d234464-ccaa-42eb-9a93-a3a2007502d9')/",
+    "VideoPageLink": "/Blogs/malte_lantin/Microsoft-Azure-als-MSDN-Abonnent-kostenfrei-nutzen",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eac3/fa299f62-317b-4a82-93f1-7e666a27eac3/MicrosoftAzureForMSDN_960.jpg",
+    "ShowName": "Videos von Malte Lantin",
+    "VideoLength": "00:06:28",
+    "VideoTitle": "Microsoft Azure als MSDN Abonnent kostenfrei nutzen",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2014-09-10T10:34:51.4407494Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eac3/fa299f62-317b-4a82-93f1-7e666a27eac3/MicrosoftAzureForMSDN_mid.mp4",
+    "Description": "Als MSDN Abonnent lässt sich Microsoft Azure ganz einfach für Test- und Entwicklungszenarien nutzen. Die Aktivierung erfolgt ohne Angabe weiterer Zahlungsinformationen und dank monatlichem Inklusivgut"
+  },
+  {
+    "VideoId": "120c2d7d-fbf7-43aa-b093-a2ce0089ef67",
+    "DataApi": "/Entries(guid'120c2d7d-fbf7-43aa-b093-a2ce0089ef67')/",
+    "VideoPageLink": "/Blogs/malte_lantin/Windows-Azure-Auto-Skalierung-und-Lasttesten-mit-Visual-Studio-Online",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f60c/8f765f14-d7cc-4f71-b92a-4356a0d1f60c/autoskalierunglasttestsmitvisualstudio_960.jpg",
+    "ShowName": "Videos von Malte Lantin",
+    "VideoLength": "00:12:25",
+    "VideoTitle": "Windows Azure Auto-Skalierung und Lasttesten mit Visual Studio Online",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2014-02-10T09:51:05.8912312Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f60c/8f765f14-d7cc-4f71-b92a-4356a0d1f60c/autoskalierunglasttestsmitvisualstudio_mid.mp4",
+    "Description": "Bei der Nutzung von Windows Azure Cloud Services besteht die Möglichkeit die eigene Anwendung automatisch horizontal, das heißt über die Anzahl der Serverinstanzen, zu skalieren. In diesem Video gebe "
+  },
+  {
+    "VideoId": "dc2511bc-9760-4da5-9309-a2b90131705c",
+    "DataApi": "/Entries(guid'dc2511bc-9760-4da5-9309-a2b90131705c')/",
+    "VideoPageLink": "/Blogs/malte_lantin/Staged-Publishing-fr-Windows-Azure-Web-Sites",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b8ac/d310f1e3-e197-4dad-97e5-7ca775e2b8ac/windowsazurewebsitesstaged_960.jpg",
+    "ShowName": "Videos von Malte Lantin",
+    "VideoLength": "00:07:10",
+    "VideoTitle": "Staged Publishing fÃ¼r Windows Azure Web Sites",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2014-01-20T20:13:12.6028826Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b8ac/d310f1e3-e197-4dad-97e5-7ca775e2b8ac/windowsazurewebsitesstaged_mid.mp4",
+    "Description": "Seit dem 16. Januar 2014 besteht auch bei der Nutzung von Windows Azure Web Sites die Möglichkeit seine Webapplikation, wie bei den Cloud Services, zunächst in einer Staging-Umgebung zu veröffentliche"
+  },
+  {
+    "VideoId": "b19cdfad-b68d-4439-bdcb-a28900d06599",
+    "DataApi": "/Entries(guid'b19cdfad-b68d-4439-bdcb-a28900d06599')/",
+    "VideoPageLink": "/Blogs/malte_lantin/Einfhrung-in-den-Windows-Azure-Traffic-Manager",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/269f/443bd7c0-80e5-4016-8128-34bfa580269f/einfuehrungwindowsazuretrafficmanager_960.jpg",
+    "ShowName": "Videos von Malte Lantin",
+    "VideoLength": "00:08:33",
+    "VideoTitle": "EinfÃ¼hrung in den Windows Azure Traffic Manager",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2013-12-03T14:09:50.4907659Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/269f/443bd7c0-80e5-4016-8128-34bfa580269f/einfuehrungwindowsazuretrafficmanager_mid.mp4",
+    "Description": "In diesem kurzen Video möchte ich einen Überblick über den Windows Azure Traffic Manager und seine Funktionsweise geben. In einem How-To Teil wird zudem die Einrichtung demonstriert. Ich bitte die Sch"
+  }
+]

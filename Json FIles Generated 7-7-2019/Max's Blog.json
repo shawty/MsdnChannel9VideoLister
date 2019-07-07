@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "45e20d99-8c0b-40fc-9000-9deb00db735d",
+    "DataApi": "/Entries(guid'45e20d99-8c0b-40fc-9000-9deb00db735d')/",
+    "VideoPageLink": "/Blogs/MaxZuck/Joe-Video-Blog-004",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1b0f/cc8baab5-ca07-4063-a2f5-746da46c1b0f/Joe-Video-Blog-004_960.jpg",
+    "ShowName": "Max's Blog",
+    "VideoLength": "00:04:09",
+    "VideoTitle": "Joe Video Blog 004",
+    "Author": "Max",
+    "UtcDateTimePublished": "2009-06-30T23:52:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1b0f/cc8baab5-ca07-4063-a2f5-746da46c1b0f/Joe-Video-Blog-004_mid.mp4",
+    "Description": "The 4th installment in Joe's pre-Imagine Cup 2009 video updates. "
+  },
+  {
+    "VideoId": "a13e8831-58f2-4723-a293-9deb00db6fdf",
+    "DataApi": "/Entries(guid'a13e8831-58f2-4723-a293-9deb00db6fdf')/",
+    "VideoPageLink": "/Blogs/MaxZuck/Visual-Studio-Learning-Pack-for-you-to-download",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3490/7fbcb35a-abb9-486a-86e7-16b099373490/Visual-Studio-Learning-Pack-for-you-to-download_960.jpg",
+    "ShowName": "Max's Blog",
+    "VideoLength": "00:18:11",
+    "VideoTitle": "Visual Studio Learning Pack for you to download",
+    "Author": "Max",
+    "UtcDateTimePublished": "2009-06-30T21:46:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3490/7fbcb35a-abb9-486a-86e7-16b099373490/Visual-Studio-Learning-Pack-for-you-to-download_mid.mp4",
+    "Description": "\nWhat started out as an initiative to help middle school students learn about programming concepts has ballooned out into a great tool for all beginner programmers. Itâ€™s the Visual Studio Learning pa"
+  },
+  {
+    "VideoId": "4ba90fdf-5560-41f1-8fe6-9deb00db7663",
+    "DataApi": "/Entries(guid'4ba90fdf-5560-41f1-8fe6-9deb00db7663')/",
+    "VideoPageLink": "/Blogs/MaxZuck/IC09joevid001",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac0a/fddea3d0-e570-409d-a359-76f8363dac0a/IC09joevid001_960.jpg",
+    "ShowName": "Max's Blog",
+    "VideoLength": "00:03:33",
+    "VideoTitle": "Joe Video Blog 001: A month out",
+    "Author": "Max",
+    "UtcDateTimePublished": "2009-06-01T23:20:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac0a/fddea3d0-e570-409d-a359-76f8363dac0a/IC09joevid001_mid.mp4",
+    "Description": "\nThe â€œOlympicsâ€ of software for students is about a month away.  Thatâ€™s right, the finals of the\nImagine Cup 2009 starts July 3rd in Cairo, Egypt.  This is a quick lowdown from the Director of Educa"
+  }
+]

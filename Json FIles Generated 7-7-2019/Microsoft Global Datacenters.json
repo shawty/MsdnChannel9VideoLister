@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b6847a45-26bb-412b-b606-a73501133382",
+    "DataApi": "/Entries(guid'b6847a45-26bb-412b-b606-a73501133382')/",
+    "VideoPageLink": "/Series/Microsoft-Global-Datacenters/Microsoft-Project-Olympus",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8003/f69416f7-c699-4d88-8a83-beff125a8003/ProjectOlympus_960.jpg",
+    "ShowName": "Microsoft Global Datacenters",
+    "VideoLength": "00:04:25",
+    "VideoTitle": "Microsoft Project Olympus",
+    "Author": "lwarren4",
+    "UtcDateTimePublished": "2017-03-13T18:00:21.7955883Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8003/f69416f7-c699-4d88-8a83-beff125a8003/ProjectOlympus_mid.mp4",
+    "Description": "Project Olympus is Microsoft's next generation rack level solution that is open sourced through Open Compute Project. Project Olympus addresses variety of cloud workloads for Microsoft Cloud and was i"
+  }
+]

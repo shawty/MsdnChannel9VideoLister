@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "a3f383fc-b7b0-4a50-8563-a422012341e4",
+    "DataApi": "/Entries(guid'a3f383fc-b7b0-4a50-8563-a422012341e4')/",
+    "VideoPageLink": "/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c05e/ba72333e-a2be-4128-b548-9007b2e0c05e/383GameDevFunSoundsShadersM02_960.jpg",
+    "ShowName": "C++/DirectX Game Development: Fun with Sounds and Shaders",
+    "VideoLength": "00:58:43",
+    "VideoTitle": "C++/DirectX Game Development: Fun with Sounds and Shaders: (02) Basic Artistic Shader Effects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-17T17:17:22.8144852Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c05e/ba72333e-a2be-4128-b548-9007b2e0c05e/383GameDevFunSoundsShadersM02_mid.mp4",
+    "Description": "Learn how to apply basic artistic effects, such as lighten/darken, color burn, and vignette, among others, through the use of simple HLSL operations and custom shader functions. [01:10] - What do we u"
+  },
+  {
+    "VideoId": "09eed9fb-6048-456c-84ff-a42201236bf4",
+    "DataApi": "/Entries(guid'09eed9fb-6048-456c-84ff-a42201236bf4')/",
+    "VideoPageLink": "/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/086e/11be26f3-ed4a-4b0b-9632-cb14bb25086e/383GameDevFunSoundsShadersM03_960.jpg",
+    "ShowName": "C++/DirectX Game Development: Fun with Sounds and Shaders",
+    "VideoLength": "00:39:09",
+    "VideoTitle": "C++/DirectX Game Development: Fun with Sounds and Shaders: (03) Adding Audio Effects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-17T17:17:36.4310615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/086e/11be26f3-ed4a-4b0b-9632-cb14bb25086e/383GameDevFunSoundsShadersM03_mid.mp4",
+    "Description": "Take a look at XAudio2 and how to integrate it into your DirectX/C&#43;&#43; game engine. [01:19] - Introduction To XAudio 2[08:13] - How To Include XAudio 2 in Your Project[18:24] - Creating an Insta"
+  },
+  {
+    "VideoId": "8702e2f2-0516-4f0b-82eb-a4220123981a",
+    "DataApi": "/Entries(guid'8702e2f2-0516-4f0b-82eb-a4220123981a')/",
+    "VideoPageLink": "/Series/CDirectX-Game-Development-Fun-with-Sounds-and-Shaders/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f852/860614dd-8295-4c70-8f22-e12711ddf852/383GameDevFunSoundsShadersM04_960.jpg",
+    "ShowName": "C++/DirectX Game Development: Fun with Sounds and Shaders",
+    "VideoLength": "00:54:51",
+    "VideoTitle": "C++/DirectX Game Development: Fun with Sounds and Shaders: (04) Gameplay Expansions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-17T17:18:00.6818782Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f852/860614dd-8295-4c70-8f22-e12711ddf852/383GameDevFunSoundsShadersM04_mid.mp4",
+    "Description": "Expand the features of the game to allow for more strategies and dynamics during a battle. [03:53] - The Push Mechanic[24:51] - Creating A Power-up Spawn Manager[37:34] - Adding The First Power-up[46:"
+  }
+]

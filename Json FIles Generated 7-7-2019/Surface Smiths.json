@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "8015ea69-82d9-475a-85c4-a4e6011dbd0a",
+    "DataApi": "/Entries(guid'8015ea69-82d9-475a-85c4-a4e6011dbd0a')/",
+    "VideoPageLink": "/Shows/Surface-Smiths/Five-Fun-New-Features-in-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/40f4/39e2e2fc-0bae-4a0f-b964-6544436940f4/FiveFunWin10_960.jpg",
+    "ShowName": "Surface Smiths",
+    "VideoLength": "00:15:00",
+    "VideoTitle": "Episode 1 - Five Fun New Features in Windows 10",
+    "Author": "Colin Smith",
+    "UtcDateTimePublished": "2015-07-31T17:28:01.052296Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/40f4/39e2e2fc-0bae-4a0f-b964-6544436940f4/FiveFunWin10_mid.mp4",
+    "Description": "This video highlights five new features in Windows 10: CortanaVirtual DesktopsAction CenterUpdated Modern AppsEdge Browser"
+  }
+]

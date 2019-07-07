@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "4968f1cf-75f7-4622-9c51-a3ad01418b16",
+    "DataApi": "/Entries(guid'4968f1cf-75f7-4622-9c51-a3ad01418b16')/",
+    "VideoPageLink": "/Series/Automation-and-Self-Service-with-System-Center-2012-R2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f96c/f67c7530-2ab8-4966-b0e6-8f715703f96c/AutomationSelfServiceWithSC2012R2M02_960.jpg",
+    "ShowName": "Automation and Self-Service with System Center 2012 R2",
+    "VideoLength": "00:14:50",
+    "VideoTitle": "Automation and Self-Service with System Center 2012 R2: (02) Connecting System Center 2012 R2 to Hybrid Cloud Infrastructure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T20:42:19.0376689Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f96c/f67c7530-2ab8-4966-b0e6-8f715703f96c/AutomationSelfServiceWithSC2012R2M02_mid.mp4",
+    "Description": "To begin automating IT Service Management, System Center 2012 R2 - Service Manager must be connected to the sources of truth in your environment and to your main automation engine components. Get the "
+  },
+  {
+    "VideoId": "ead19540-74ed-45e9-9d4d-a3ad0141bf8f",
+    "DataApi": "/Entries(guid'ead19540-74ed-45e9-9d4d-a3ad0141bf8f')/",
+    "VideoPageLink": "/Series/Automation-and-Self-Service-with-System-Center-2012-R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bd6a/c7ca8759-c457-450a-a80c-e0598e89bd6a/AutomationSelfServiceWithSC2012R2M03_960.jpg",
+    "ShowName": "Automation and Self-Service with System Center 2012 R2",
+    "VideoLength": "00:24:38",
+    "VideoTitle": "Automation and Self-Service with System Center 2012 R2: (03) Creating a System Center 2012 R2 - Orchestrator Runbook to Automate a Service Request",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T22:49:23.8182067Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bd6a/c7ca8759-c457-450a-a80c-e0598e89bd6a/AutomationSelfServiceWithSC2012R2M03_mid.mp4",
+    "Description": "System Center 2012 R2 - Orchestrator is the component that forms the main work engine of Service Request Automation in your hybrid cloud environment. Get an introduction to this critical component, an"
+  },
+  {
+    "VideoId": "be6b375b-f688-48ff-bca7-a3ad0141f591",
+    "DataApi": "/Entries(guid'be6b375b-f688-48ff-bca7-a3ad0141f591')/",
+    "VideoPageLink": "/Series/Automation-and-Self-Service-with-System-Center-2012-R2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a8b6/5994235c-a241-47da-90fc-3689c57ca8b6/AutomationSelfServiceWithSC2012R2M04_960.jpg",
+    "ShowName": "Automation and Self-Service with System Center 2012 R2",
+    "VideoLength": "00:12:48",
+    "VideoTitle": "Automation and Self-Service with System Center 2012 R2: (04) Creating a Service Request in System Center 2012 R2 - Service Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T22:50:02.5681577Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a8b6/5994235c-a241-47da-90fc-3689c57ca8b6/AutomationSelfServiceWithSC2012R2M04_mid.mp4",
+    "Description": "Explore service requests, which are requests for existing, preauthorized services and features that System Center 2012 â€“ Service Manager can manage as a type of work item. Learn more about them to fos"
+  },
+  {
+    "VideoId": "8c485a4b-ceee-40b6-9e9c-a3ad014232cd",
+    "DataApi": "/Entries(guid'8c485a4b-ceee-40b6-9e9c-a3ad014232cd')/",
+    "VideoPageLink": "/Series/Automation-and-Self-Service-with-System-Center-2012-R2/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/414b/e0e0fabc-0629-4ef9-ad84-9c5fe928414b/AutomationSelfServiceWithSC2012R2M05_960.jpg",
+    "ShowName": "Automation and Self-Service with System Center 2012 R2",
+    "VideoLength": "00:11:41",
+    "VideoTitle": "Automation and Self-Service with System Center 2012 R2: (05) Linking a Service Request with a Runbook in System Center 2012 R2 - Service Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T22:50:29.6820018Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/414b/e0e0fabc-0629-4ef9-ad84-9c5fe928414b/AutomationSelfServiceWithSC2012R2M05_mid.mp4",
+    "Description": "Take a newly created Service Request, and link it to the runbook created earlier, to complete the cycle of Service Request Automation in System Center 2012 R2. Full course outline: Mod 01: Introductio"
+  },
+  {
+    "VideoId": "8e740b44-59c3-494d-8fb5-a3ad0142680c",
+    "DataApi": "/Entries(guid'8e740b44-59c3-494d-8fb5-a3ad0142680c')/",
+    "VideoPageLink": "/Series/Automation-and-Self-Service-with-System-Center-2012-R2/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1074/718ed99e-ea35-4231-b815-c453868a1074/AutomationSelfServiceWithSC2012R2M06_960.jpg",
+    "ShowName": "Automation and Self-Service with System Center 2012 R2",
+    "VideoLength": "00:08:09",
+    "VideoTitle": "Automation and Self-Service with System Center 2012 R2: (06) Testing the Solution with the System Center 2012 R2 Self-Service Portal",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T22:51:02.4441054Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1074/718ed99e-ea35-4231-b815-c453868a1074/AutomationSelfServiceWithSC2012R2M06_mid.mp4",
+    "Description": "Work with Self-Service Portal in System Center 2012 â€“ Service Manager to provision a Service Request. The portal consists of a SharePoint website and a web content server, and this environment provide"
+  }
+]

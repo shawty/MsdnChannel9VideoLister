@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "9917f24d-c143-43fe-b757-a291014d4459",
+    "DataApi": "/Entries(guid'9917f24d-c143-43fe-b757-a291014d4459')/",
+    "VideoPageLink": "/Blogs/Milad-s-G33K-Corner/Microsoft-Summit-Deploying-and-Managing-Windows-81-in-the-Real-World",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7da7/81083227-d29a-4286-bba6-505bb7857da7/Milad_960.jpg",
+    "ShowName": "Milad's G33K Corner",
+    "VideoLength": "00:41:19",
+    "VideoTitle": "Microsoft Summit: Deploying and Managing Windows 8.1 in the Real World",
+    "Author": "Milad",
+    "UtcDateTimePublished": "2013-12-16T07:39:14.3697036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7da7/81083227-d29a-4286-bba6-505bb7857da7/Milad_mid.mp4",
+    "Description": "What does it take for organizations to deploy and manage Windows 8? Walk through the entire process during this session.Understand what has changed in Windows 8, how to prepare for a Windows 8 migrati"
+  },
+  {
+    "VideoId": "d6ad7425-3027-4ba8-8f20-a291014ec258",
+    "DataApi": "/Entries(guid'd6ad7425-3027-4ba8-8f20-a291014ec258')/",
+    "VideoPageLink": "/Blogs/Milad-s-G33K-Corner/TechNet-Conference-How-many-coffee-can-you-drink-till-your-PC-starts",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

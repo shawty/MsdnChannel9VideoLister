@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "505b62aa-316d-4e37-83c8-9deb001072c4",
+    "DataApi": "/Entries(guid'505b62aa-316d-4e37-83c8-9deb001072c4')/",
+    "VideoPageLink": "/Blogs/acangialosi/PDCday1Glimpse",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/9/9/1/6/3/4/pdcday1_large_ch9.jpg",
+    "ShowName": "acangialosi",
+    "VideoLength": "00:04:37",
+    "VideoTitle": "Microsoft's Professional Developer's Conference 2008 Day 1 Glimpse",
+    "Author": "Max",
+    "UtcDateTimePublished": "2008-10-28T22:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/9/9/1/6/3/4/pdcday1_ch9.mp4",
+    "Description": "\nYour favorite spiky blonde haired ladyâ€”Laura--decided to hang out with the \nPDC2008 (professional developer's conference) attendees on the first day to see what the general vibe was and find out wh"
+  },
+  {
+    "VideoId": "4e774281-e3a1-4761-9e44-9df8003d9946",
+    "DataApi": "/Entries(guid'4e774281-e3a1-4761-9e44-9df8003d9946')/",
+    "VideoPageLink": "/Blogs/acangialosi/Using-the-Package-Wizard-to-create-an-Editor-Package-in-VS",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "cef7f61d-90cd-4cae-8c50-9df8003d9db0",
+    "DataApi": "/Entries(guid'cef7f61d-90cd-4cae-8c50-9df8003d9db0')/",
+    "VideoPageLink": "/Blogs/acangialosi/Creating-a-Visual-Studio-Editor-Using-the-Package-Wizard",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

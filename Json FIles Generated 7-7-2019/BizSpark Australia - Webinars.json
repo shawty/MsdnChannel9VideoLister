@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "d0abfb2e-b56e-410c-b78b-a6cd016f6179",
+    "DataApi": "/Entries(guid'd0abfb2e-b56e-410c-b78b-a6cd016f6179')/",
+    "VideoPageLink": "/Blogs/BizSpark-Australia-Webinars/Every-startup-is-unique-How-can-Microsoft-support-you",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cace/e5ddf069-58e8-458a-ba59-bb28d427cace/bizsparkRecording_960.jpg",
+    "ShowName": "BizSpark Australia - Webinars",
+    "VideoLength": "00:50:03",
+    "VideoTitle": "Every startup is unique! How can Microsoft support you?",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-11-30T00:01:09.1994934Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cace/e5ddf069-58e8-458a-ba59-bb28d427cace/bizsparkRecording_mid.mp4",
+    "Description": "No two startups have been on the same journey. During this 60minute session we'll hear from the CEO of Gruntify, Jamie Leach, and CEO and Founder of Drawboard PDF, Alistair Michener, about what their "
+  },
+  {
+    "VideoId": "1ef5627c-fd0a-48e1-add3-a621004f1881",
+    "DataApi": "/Entries(guid'1ef5627c-fd0a-48e1-add3-a621004f1881')/",
+    "VideoPageLink": "/Blogs/BizSpark-Australia-Webinars/BizSpark-Australia-Webinar-Your-legal-questions-answered",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d93a/3b7bfcdd-10aa-45f5-9048-ef798bf1d93a/webinar_960.jpg",
+    "ShowName": "BizSpark Australia - Webinars",
+    "VideoLength": "00:20:16",
+    "VideoTitle": "BizSpark Australia Webinar - Your legal questions answered",
+    "Author": "PatStanton",
+    "UtcDateTimePublished": "2016-06-14T01:06:59.9693827Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d93a/3b7bfcdd-10aa-45f5-9048-ef798bf1d93a/webinar_mid.mp4",
+    "Description": "Join Microsoft and LawPath for an informative and interactive online Q&amp;A session with Daniel Szekely, Associate at Clamenz Lawyers. Come prepared with legal questions you have in relation to your "
+  }
+]

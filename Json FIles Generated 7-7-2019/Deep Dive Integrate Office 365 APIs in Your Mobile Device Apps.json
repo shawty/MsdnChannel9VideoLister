@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "859a4bdd-f6b2-4b4f-8d21-a3ca016d042d",
+    "DataApi": "/Entries(guid'859a4bdd-f6b2-4b4f-8d21-a3ca016d042d')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Mobile-Device-Apps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2c7d/343409b8-8386-45fc-9d85-ec03a84d2c7d/DeepDiveIntegrateO365APIMobileDeviceAppM02_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps",
+    "VideoLength": "00:37:39",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps: (02) Deep Dive into Mobile Development with Office 365 and Cordova",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-23T03:47:30.8197362Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2c7d/343409b8-8386-45fc-9d85-ec03a84d2c7d/DeepDiveIntegrateO365APIMobileDeviceAppM02_mid.mp4",
+    "Description": "Focus on how to build a mobile device app using the Office 365 services for iOS, Android, and Windows Phone with HTML and JavaScript. Explore the bright future of mobile business applications that lev"
+  },
+  {
+    "VideoId": "d4ee83a5-9f5d-45a0-b048-a3ca016d237f",
+    "DataApi": "/Entries(guid'd4ee83a5-9f5d-45a0-b048-a3ca016d237f')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Mobile-Device-Apps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/55e5/52184bfe-28e7-4766-bf94-788c36e055e5/DeepDiveIntegrateO365APIMobileDeviceAppM03_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps",
+    "VideoLength": "00:47:36",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps: (03) Deep Dive into Native Xamarin Development with Office 365 APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-23T03:48:25.1038999Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/55e5/52184bfe-28e7-4766-bf94-788c36e055e5/DeepDiveIntegrateO365APIMobileDeviceAppM03_mid.mp4",
+    "Description": "Get all the details on how to build a mobile device app using the Office 365 services for iOS, Android, and Windows Phone with XAML and .NET C#. And hear how, with the release of the Office 365 APIs P"
+  },
+  {
+    "VideoId": "08389fa8-e524-425f-9063-a3ee017855c8",
+    "DataApi": "/Entries(guid'08389fa8-e524-425f-9063-a3ee017855c8')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Mobile-Device-Apps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d8ce/632f47a6-d7b8-4b39-863a-10a132e0d8ce/DeepDiveIntegrateO365APIMobileDeviceAppM04_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps",
+    "VideoLength": "01:10:31",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps: (04) Deep Dive into Native Android Development with Office 365 APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:18:22.9363815Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d8ce/632f47a6-d7b8-4b39-863a-10a132e0d8ce/DeepDiveIntegrateO365APIMobileDeviceAppM04_mid.mp4",
+    "Description": "Take a deep dive into how to build an Android app in Eclipse. Get the details on how, with the release of the Office 365 APIs Preview and the Android SDK, the future of mobile business applications th"
+  },
+  {
+    "VideoId": "314369b6-c1dc-42e0-984f-a3ee01789e9d",
+    "DataApi": "/Entries(guid'314369b6-c1dc-42e0-984f-a3ee01789e9d')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Mobile-Device-Apps/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a787/0b3ff299-1cdf-494a-9bae-d9629c4aa787/DeepDiveIntegrateO365APIMobileDeviceAppM05_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps",
+    "VideoLength": "00:55:48",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Mobile Device Apps: (05) Deep Dive into Native iOS Development with Office 365 APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:18:48.0321228Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a787/0b3ff299-1cdf-494a-9bae-d9629c4aa787/DeepDiveIntegrateO365APIMobileDeviceAppM05_mid.mp4",
+    "Description": "Explore how to build an iOS app in Xcode.â€‹ And find out how, with the release of the Office 365 APIs Preview and the iOS SDK, the future of mobile business applications that leverage the Office 365 se"
+  }
+]

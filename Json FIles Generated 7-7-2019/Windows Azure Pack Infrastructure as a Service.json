@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "986911d9-f799-4680-840a-a3780141f21b",
+    "DataApi": "/Entries(guid'986911d9-f799-4680-840a-a3780141f21b')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Infrastructure-as-a-Service/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1d81/eafca057-2474-47ac-90c8-3150d7691d81/WINAZUREPACKIAASM02_960.jpg",
+    "ShowName": "Windows Azure Pack: Infrastructure as a Service",
+    "VideoLength": "01:00:26",
+    "VideoTitle": "Windows Azure Pack - Infrastructure as a Service: (02) Install and Configure WAP",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:38:25.1330606Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1d81/eafca057-2474-47ac-90c8-3150d7691d81/WINAZUREPACKIAASM02_mid.mp4",
+    "Description": "Find out more about how Azure technology has been integrated, along with IaaS service administrator concepts and best practices. [02:18] - IaaS Resources Powered by System Center[18:46] - Service Prov"
+  },
+  {
+    "VideoId": "8bbd4ce9-70e4-4657-a41c-a378014293e4",
+    "DataApi": "/Entries(guid'8bbd4ce9-70e4-4657-a41c-a378014293e4')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Infrastructure-as-a-Service/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc93/3c84b971-01aa-479b-919f-d4a49768fc93/WINAZUREPACKIAASM03_960.jpg",
+    "ShowName": "Windows Azure Pack: Infrastructure as a Service",
+    "VideoLength": "01:00:09",
+    "VideoTitle": "Windows Azure Pack - Infrastructure as a Service: (03) Integrate the Fabric",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:38:36.477045Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc93/3c84b971-01aa-479b-919f-d4a49768fc93/WINAZUREPACKIAASM03_mid.mp4",
+    "Description": "Explore service models and how they integrate with infrastructure components. Hear a discussion of fabric architectural principals, tools, and artifacts, plus publishing to WAP. [02:34] - Service Mode"
+  },
+  {
+    "VideoId": "0956d84a-cf60-4e80-9bd3-a37801439782",
+    "DataApi": "/Entries(guid'0956d84a-cf60-4e80-9bd3-a37801439782')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Infrastructure-as-a-Service/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c125/0c5736d5-9efa-461f-9b44-ebf1e672c125/WINAZUREPACKIAASM04_960.jpg",
+    "ShowName": "Windows Azure Pack: Infrastructure as a Service",
+    "VideoLength": "00:51:21",
+    "VideoTitle": "Windows Azure Pack - Infrastructure as a Service: (04) Deliver Self-Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:38:47.4931661Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c125/0c5736d5-9efa-461f-9b44-ebf1e672c125/WINAZUREPACKIAASM04_mid.mp4",
+    "Description": "Learn how Azure technology has been integrated, along with IaaS service administrator concepts and best practices. [01:30] - Azure Technology[05:05] - Service Admin Concepts[30:27] - Usage Metering[33"
+  },
+  {
+    "VideoId": "ca52217f-6a49-43f0-ad3f-a3780143e7df",
+    "DataApi": "/Entries(guid'ca52217f-6a49-43f0-ad3f-a3780143e7df')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Infrastructure-as-a-Service/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8e68/12920e83-c287-4101-8f4e-3f06b05c8e68/WINAZUREPACKIAASM05_960.jpg",
+    "ShowName": "Windows Azure Pack: Infrastructure as a Service",
+    "VideoLength": "01:25:57",
+    "VideoTitle": "Windows Azure Pack - Infrastructure as a Service: (05) Service Management Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:38:59.226986Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8e68/12920e83-c287-4101-8f4e-3f06b05c8e68/WINAZUREPACKIAASM05_mid.mp4",
+    "Description": "Discover the capabilities of Service Management Automation (SMA), and review key scenarios for automation within your data center. [04:38] - Service Management Automation[08:42] - Integrating with SMA"
+  },
+  {
+    "VideoId": "4c7d4b50-6869-4755-aef9-a37801443720",
+    "DataApi": "/Entries(guid'4c7d4b50-6869-4755-aef9-a37801443720')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Infrastructure-as-a-Service/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a29a/da1c9a97-283b-4260-bca4-50d12c9ca29a/WINAZUREPACKIAASM06_960.jpg",
+    "ShowName": "Windows Azure Pack: Infrastructure as a Service",
+    "VideoLength": "01:06:07",
+    "VideoTitle": "Windows Azure Pack - Infrastructure as a Service: (06) Extend Services with Third Parties",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:39:11.5054556Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a29a/da1c9a97-283b-4260-bca4-50d12c9ca29a/WINAZUREPACKIAASM06_mid.mp4",
+    "Description": "Hear about WAP extensibility, integrating System Center Service Manager for request management with GridPro, and billing and chargeback with Cloud Cruiser. [04:38] - WAP Extensibility Overview[08:42] "
+  },
+  {
+    "VideoId": "d8916e0f-c644-4df2-9cae-a378014482bd",
+    "DataApi": "/Entries(guid'd8916e0f-c644-4df2-9cae-a378014482bd')/",
+    "VideoPageLink": "/Series/Windows-Azure-Pack-Infrastructure-as-a-Service/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5396/a8cf4129-1774-4244-bdbb-dcbea22f5396/WINAZUREPACKIAASM07_960.jpg",
+    "ShowName": "Windows Azure Pack: Infrastructure as a Service",
+    "VideoLength": "01:03:29",
+    "VideoTitle": "Windows Azure Pack - Infrastructure as a Service: (07) Create Tenant Experiences",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:39:22.3108216Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5396/a8cf4129-1774-4244-bdbb-dcbea22f5396/WINAZUREPACKIAASM07_mid.mp4",
+    "Description": "Learn more about the tenant experience through the management portal, creating websites, deploying infrastructure services, configuring the Service Bus, and creating databases. [01:41] - Management Po"
+  }
+]

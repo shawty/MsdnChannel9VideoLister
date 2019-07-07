@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "9c800c8f-a3fa-40f4-af62-a378016c38b7",
+    "DataApi": "/Entries(guid'9c800c8f-a3fa-40f4-af62-a378016c38b7')/",
+    "VideoPageLink": "/Series/Windows-Server-2003-EOS-Migration-Overview/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09b0/96642350-ddef-44b2-bede-010fc14709b0/WS2003EOSMigrationM01_960.jpg",
+    "ShowName": "Windows Server 2003 EOS Migration Overview",
+    "VideoLength": "00:53:35",
+    "VideoTitle": "Windows Server 2003 EOS Migration Overview: (01) Windows Server 2003 Migration with AppZero",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-31T02:39:30.7123229Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09b0/96642350-ddef-44b2-bede-010fc14709b0/WS2003EOSMigrationM01_mid.mp4",
+    "Description": "In this module you will learn more about Windows Server 2003 end of extended support, Migration tool / process options, Considerations for migration at scale, Intro to AppZero (incl. concept of a Virt"
+  }
+]

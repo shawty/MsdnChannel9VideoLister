@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "57bcc891-b5b3-4228-bcdf-a31f01239c71",
+    "DataApi": "/Entries(guid'57bcc891-b5b3-4228-bcdf-a31f01239c71')/",
+    "VideoPageLink": "/Series/Windows-Phone-8-1-Enterprise-Mobility-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a980/4ab3a28d-4263-46c2-9b86-172fb6b5a980/WinPhone81EnterpriseMobilityMgmtM02_960.jpg",
+    "ShowName": "Windows Phone 8.1 Enterprise Mobility Management",
+    "VideoLength": "00:42:38",
+    "VideoTitle": "Windows Phone 8.1 Enterprise Mobility Management: (02) Asset and User Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-03T17:38:31.0275653Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a980/4ab3a28d-4263-46c2-9b86-172fb6b5a980/WinPhone81EnterpriseMobilityMgmtM02_mid.mp4",
+    "Description": "In this module you will learn about management and enrollment/device retirement. [00:05] - Policy and Settings Configuration[15:49] - Asset and User ManagementFull course outline: Mod 01: Mobile Devic"
+  },
+  {
+    "VideoId": "a0c08602-948e-48ec-b61c-a31f0123edde",
+    "DataApi": "/Entries(guid'a0c08602-948e-48ec-b61c-a31f0123edde')/",
+    "VideoPageLink": "/Series/Windows-Phone-8-1-Enterprise-Mobility-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf21/3b379909-6067-4ec0-9cb6-0a668934cf21/WinPhone81EnterpriseMobilityMgmtM03_960.jpg",
+    "ShowName": "Windows Phone 8.1 Enterprise Mobility Management",
+    "VideoLength": "00:29:20",
+    "VideoTitle": "Windows Phone 8.1 Enterprise Mobility Management: (03) App Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-03T17:38:47.7631629Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf21/3b379909-6067-4ec0-9cb6-0a668934cf21/WinPhone81EnterpriseMobilityMgmtM03_mid.mp4",
+    "Description": "Explore how the company portal, app deployment, and app lifecycle management all are important. [01:26] - The Company Portal[02:49] - App Deployment[05:03] - App Lifecycle ManagementFull course outlin"
+  },
+  {
+    "VideoId": "4335ef85-ad06-49a8-884c-a31f0124352a",
+    "DataApi": "/Entries(guid'4335ef85-ad06-49a8-884c-a31f0124352a')/",
+    "VideoPageLink": "/Series/Windows-Phone-8-1-Enterprise-Mobility-Management/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6807/00b30860-5f19-4189-8e40-18c910766807/WinPhone81EnterpriseMobilityMgmtM04_960.jpg",
+    "ShowName": "Windows Phone 8.1 Enterprise Mobility Management",
+    "VideoLength": "00:46:36",
+    "VideoTitle": "Windows Phone 8.1 Enterprise Mobility Management: (04) App Lifecycle Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-03T17:38:59.5196253Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6807/00b30860-5f19-4189-8e40-18c910766807/WinPhone81EnterpriseMobilityMgmtM04_mid.mp4",
+    "Description": "Learn the dynamics of App lifecycle Management while seeing how policies can affect apps. [01:50] - App Lifecycle Management[16:17] - How Policies Affect Apps[22:11] - Assigned AccessFull course outli"
+  },
+  {
+    "VideoId": "ed15ea43-bcc0-40c9-b651-a31f01248094",
+    "DataApi": "/Entries(guid'ed15ea43-bcc0-40c9-b651-a31f01248094')/",
+    "VideoPageLink": "/Series/Windows-Phone-8-1-Enterprise-Mobility-Management/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d90f/1309f1c9-0b7d-4fea-b3b3-f54cc017d90f/WinPhone81EnterpriseMobilityMgmtM05_960.jpg",
+    "ShowName": "Windows Phone 8.1 Enterprise Mobility Management",
+    "VideoLength": "00:16:39",
+    "VideoTitle": "Windows Phone 8.1 Enterprise Mobility Management: (05) Managing Data on Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-03T17:39:14.6302281Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d90f/1309f1c9-0b7d-4fea-b3b3-f54cc017d90f/WinPhone81EnterpriseMobilityMgmtM05_mid.mp4",
+    "Description": "Explore remote wipe, encryption, and app sandboxing. Full course outline: Mod 01: Mobile Device ManagementMod 02: Asset and User ManagementMod 03: App DeploymentMod 04: App Lifecycle ManagementMod 05:"
+  },
+  {
+    "VideoId": "43973869-64d0-4073-9baa-a31f0124d02d",
+    "DataApi": "/Entries(guid'43973869-64d0-4073-9baa-a31f0124d02d')/",
+    "VideoPageLink": "/Series/Windows-Phone-8-1-Enterprise-Mobility-Management/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dddd/cbdff9b9-7099-48ac-9eed-81b4e82bdddd/WinPhone81EnterpriseMobilityMgmtM06_960.jpg",
+    "ShowName": "Windows Phone 8.1 Enterprise Mobility Management",
+    "VideoLength": "00:24:18",
+    "VideoTitle": "Windows Phone 8.1 Enterprise Mobility Management: (06) Managing Device Access",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-03T17:39:29.2146788Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dddd/cbdff9b9-7099-48ac-9eed-81b4e82bdddd/WinPhone81EnterpriseMobilityMgmtM06_mid.mp4",
+    "Description": "Get an understanding on how managing access from devices is beneficial. This module will go over email, certificates, and VPN throughout this module. Full course outline: Mod 01: Mobile Device Managem"
+  },
+  {
+    "VideoId": "b3edf7e4-a716-4c64-833c-a31f01250727",
+    "DataApi": "/Entries(guid'b3edf7e4-a716-4c64-833c-a31f01250727')/",
+    "VideoPageLink": "/Series/Windows-Phone-8-1-Enterprise-Mobility-Management/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca6d/d7c924e1-ecd5-4607-adc4-6c7d2b52ca6d/WinPhone81EnterpriseMobilityMgmtM07_960.jpg",
+    "ShowName": "Windows Phone 8.1 Enterprise Mobility Management",
+    "VideoLength": "00:14:12",
+    "VideoTitle": "Windows Phone 8.1 Enterprise Mobility Management: (07) Windows Phone 8.1 Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-03T17:39:41.9216763Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca6d/d7c924e1-ecd5-4607-adc4-6c7d2b52ca6d/WinPhone81EnterpriseMobilityMgmtM07_mid.mp4",
+    "Description": "In this module you will learn about the new features and updates in Windows Phone 8.1 for IT Pros and Enterprises. Full course outline: Mod 01: Mobile Device ManagementMod 02: Asset and User Managemen"
+  }
+]

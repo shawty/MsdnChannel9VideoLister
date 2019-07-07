@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "6af91ed2-fec4-45de-856e-a408006e3954",
+    "DataApi": "/Entries(guid'6af91ed2-fec4-45de-856e-a408006e3954')/",
+    "VideoPageLink": "/Blogs/ANZMVPChannel9/ComCampSepANZ4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b46/30d47269-e2fb-49a1-adb7-5f40aa4d4b46/ComCampSepANZSession4_960.jpg",
+    "ShowName": "Australia and New Zealand MVP Program Channel 9",
+    "VideoLength": "00:58:06",
+    "VideoTitle": "Manage/Enhance all your system on both Cloud & On-Premise with less work. (Nirmal Thewarathanthri)",
+    "Author": "MVP Asia Team",
+    "UtcDateTimePublished": "2014-12-22T01:26:04.358101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b46/30d47269-e2fb-49a1-adb7-5f40aa4d4b46/ComCampSepANZSession4_mid.mp4",
+    "Description": "We'll take a look at how Cloud and On-premise helped reducing the cost and amount of work for system implementation. This session will provide functions that will manage infrastructure more easily and"
+  },
+  {
+    "VideoId": "cecd67de-f609-4448-b250-a408006dc0e1",
+    "DataApi": "/Entries(guid'cecd67de-f609-4448-b250-a408006dc0e1')/",
+    "VideoPageLink": "/Blogs/ANZMVPChannel9/ComCampSepANZ3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4baa/efd6a878-1196-40cc-8f05-8b2b19b44baa/ComCampSepANZSession3_960.jpg",
+    "ShowName": "Australia and New Zealand MVP Program Channel 9",
+    "VideoLength": "00:56:50",
+    "VideoTitle": "Creating Universal/Multi-platform Application- How? (Nick Randolph and June Tabadero)",
+    "Author": "MVP Asia Team",
+    "UtcDateTimePublished": "2014-12-22T01:25:09.4841722Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4baa/efd6a878-1196-40cc-8f05-8b2b19b44baa/ComCampSepANZSession3_mid.mp4",
+    "Description": "This session will introduce concepts of creating applications. Also we will find out what kinds of development tools there are and how they are used by showing demonstrations for most popular platform"
+  },
+  {
+    "VideoId": "c86b324b-0317-4d2c-b1b1-a408006d2ec4",
+    "DataApi": "/Entries(guid'c86b324b-0317-4d2c-b1b1-a408006d2ec4')/",
+    "VideoPageLink": "/Blogs/ANZMVPChannel9/ComCampSepANZ1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7846/7ee4f2e8-d7fc-48da-9fd0-4c4228007846/ComCampSepANZSession1_960.jpg",
+    "ShowName": "Australia and New Zealand MVP Program Channel 9",
+    "VideoLength": "00:36:28",
+    "VideoTitle": "How Microsoft Cloud will help strengthen your Business Infrastructure. (Elaine Van Bergen)",
+    "Author": "MVP Asia Team",
+    "UtcDateTimePublished": "2014-12-22T01:24:59.2970578Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7846/7ee4f2e8-d7fc-48da-9fd0-4c4228007846/ComCampSepANZSession1_mid.mp4",
+    "Description": "This session is an introductory look at the scenarios and workloads that can be rapidly addressed for a business by moving specific workloads to the Microsoft cloud.  It will cover the reasons as to w"
+  },
+  {
+    "VideoId": "bbc1ec52-a6ec-41a1-9d0b-a408006d1c75",
+    "DataApi": "/Entries(guid'bbc1ec52-a6ec-41a1-9d0b-a408006d1c75')/",
+    "VideoPageLink": "/Blogs/ANZMVPChannel9/ComCampSepANZ2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8a4e/a4bc0b21-8f04-486c-95a1-1caf6c988a4e/ComCampSepANZSession2_960.jpg",
+    "ShowName": "Australia and New Zealand MVP Program Channel 9",
+    "VideoLength": "01:00:18",
+    "VideoTitle": "Develop Apps/Website in Cloud environment. (June Tabadero)",
+    "Author": "MVP Asia Team",
+    "UtcDateTimePublished": "2014-12-22T01:24:39.8144933Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8a4e/a4bc0b21-8f04-486c-95a1-1caf6c988a4e/ComCampSepANZSession2_mid.mp4",
+    "Description": "The Microsoft Azure platform provides an open, robust and scalable cloud computing platform for developing or deploying web applications. Discover the various options and services available for web ap"
+  }
+]

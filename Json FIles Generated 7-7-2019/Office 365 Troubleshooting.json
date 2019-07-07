@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "90a2dbdf-205d-489f-b1ed-a3e9016e7150",
+    "DataApi": "/Entries(guid'90a2dbdf-205d-489f-b1ed-a3e9016e7150')/",
+    "VideoPageLink": "/Series/Office-365-Troubleshooting/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb6a/2abe9804-ee08-4d52-bad4-a5780ec8cb6a/647Office365TroublshootingM02_960.jpg",
+    "ShowName": "Office 365 Troubleshooting",
+    "VideoLength": "01:01:49",
+    "VideoTitle": "Office 365 Troubleshooting: (02) Troubleshooting Tools and Tips",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:02:39.5370393Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb6a/2abe9804-ee08-4d52-bad4-a5780ec8cb6a/647Office365TroublshootingM02_mid.mp4",
+    "Description": "Hear about troubleshooting tools to address mail flow issues, and see them in action. Take a look at Remote Connectivity Analyzer, Office 365 Fast Track Network Analysis Tool, OnRamp for Office 365, a"
+  }
+]

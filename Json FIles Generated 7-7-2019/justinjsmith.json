@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a5a1af1d-e3e8-405b-a1f6-9deb0007457d",
+    "DataApi": "/Entries(guid'a5a1af1d-e3e8-405b-a1f6-9deb0007457d')/",
+    "VideoPageLink": "/Blogs/justinjsmith/Access-Control-Service-and-ADFS-v2-Integration",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8/4/6/6/9/4/acsadfsv2demo_512_ch9.png",
+    "ShowName": "justinjsmith",
+    "VideoLength": "00:06:46",
+    "VideoTitle": "Access Control Service and ADFS v2 Integration",
+    "Author": "justinjsmith",
+    "UtcDateTimePublished": "2009-10-07T11:38:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8/4/6/6/9/4/acsadfsv2demo_ch9.mp4",
+    "Description": "Here's a quick demo offering a preview into how the pending version of the Access Control Service integrates with ADFS v2.\n"
+  }
+]

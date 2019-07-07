@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "810fadb3-9047-469f-b929-a3b101609829",
+    "DataApi": "/Entries(guid'810fadb3-9047-469f-b929-a3b101609829')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-Implementing-a-Basic-PKI/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c40e/00be0964-fe48-4f11-891d-c4dde69cc40e/Mod2_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Implementing a Basic PKI",
+    "VideoLength": "00:16:20",
+    "VideoTitle": "(Module 2) Install a Stand-alone Root CA",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:11:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c40e/00be0964-fe48-4f11-891d-c4dde69cc40e/Mod2_mid.mp4",
+    "Description": "In this module, we will begin the process of building the PKI environment. The first item to be configured is the stand-alone root CA, that will form the trust anchor and establish the root of the tru"
+  },
+  {
+    "VideoId": "67f32557-735d-4551-b9ad-a3b10160be98",
+    "DataApi": "/Entries(guid'67f32557-735d-4551-b9ad-a3b10160be98')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-Implementing-a-Basic-PKI/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1635/8bcf9a01-ba7f-4fa4-b0d1-9fd9561a1635/Mod3_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Implementing a Basic PKI",
+    "VideoLength": "00:30:33",
+    "VideoTitle": "(Module 3) Install & Configure Enterprise SubCA",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:11:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1635/8bcf9a01-ba7f-4fa4-b0d1-9fd9561a1635/Mod3_mid.mp4",
+    "Description": "In this module, we will continue the setup of the PKI by installing the Active Directory Certificate Services (AD CS) server role and then configuring it with the certificates from the stand-alone roo"
+  },
+  {
+    "VideoId": "66c8703d-6427-4b1a-bedb-a3b1016110ac",
+    "DataApi": "/Entries(guid'66c8703d-6427-4b1a-bedb-a3b1016110ac')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-Implementing-a-Basic-PKI/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/882f/fb599c76-7a35-4f7a-b5e9-04696b04882f/Mod4_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Implementing a Basic PKI",
+    "VideoLength": "00:20:26",
+    "VideoTitle": "(Module 4) Manage the Certificate Environment",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:11:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/882f/fb599c76-7a35-4f7a-b5e9-04696b04882f/Mod4_mid.mp4",
+    "Description": "In this module we will continue to test the implementation of the deployed PKI to ensure that it is all functioning. In addition, we will ensure that we can manage the issued certificates using Window"
+  }
+]

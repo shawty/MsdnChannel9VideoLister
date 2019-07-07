@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4cbdb9d4-320d-4292-97b3-a608016f6839",
+    "DataApi": "/Entries(guid'4cbdb9d4-320d-4292-97b3-a608016f6839')/",
+    "VideoPageLink": "/Series/Visual-Studio-Subscribers/Visual-Studio-Subscriptions-portal-overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e561/10b04937-4cdd-46db-b9fd-522ca62be561/VSTS2_960.jpg",
+    "ShowName": "Visual Studio Subscribers",
+    "VideoLength": "00:01:00",
+    "VideoTitle": "Visual Studio Subscriptions portal overview",
+    "Author": "AmyMetzler",
+    "UtcDateTimePublished": "2016-06-13T22:31:46.3790316Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e561/10b04937-4cdd-46db-b9fd-522ca62be561/VSTS2_mid.mp4",
+    "Description": "Visual Studio Subscriptions portal overview "
+  }
+]

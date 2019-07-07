@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "bcf4a3f9-3176-4f4d-a5a1-a6bb015be323",
+    "DataApi": "/Entries(guid'bcf4a3f9-3176-4f4d-a5a1-a6bb015be323')/",
+    "VideoPageLink": "/Series/PowerApps-and-Flow-Training/Hands-On-Lab",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/20bf/6e0dd86d-a48a-4d2e-bbd8-efc7f25920bf/HOL_960.jpg",
+    "ShowName": "PowerApps and Flow Training",
+    "VideoLength": "01:07:56",
+    "VideoTitle": "Hands On Lab",
+    "Author": "assafb",
+    "UtcDateTimePublished": "2016-11-11T21:31:13.6860524Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/20bf/6e0dd86d-a48a-4d2e-bbd8-efc7f25920bf/HOL_mid.mp4",
+    "Description": "Technical Hands on Lab for creating apps in PowerApps "
+  }
+]

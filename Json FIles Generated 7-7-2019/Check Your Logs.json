@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "1921911b-0969-4a65-ab32-a4e60124120c",
+    "DataApi": "/Entries(guid'1921911b-0969-4a65-ab32-a4e60124120c')/",
+    "VideoPageLink": "/Blogs/CheckYourLogs/Episode-1-Azure-Site-to-Site-for-SMBs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/760d/a115f8a5-b0fe-4d51-81cb-e79edd89760d/AzureS2S4SMB_960.jpg",
+    "ShowName": "Check Your Logs",
+    "VideoLength": "00:20:18",
+    "VideoTitle": "Episode 1:  Azure Site-to-Site for SMBs",
+    "Author": "MVPSim",
+    "UtcDateTimePublished": "2015-07-31T18:32:07.1395217Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/760d/a115f8a5-b0fe-4d51-81cb-e79edd89760d/AzureS2S4SMB_mid.mp4",
+    "Description": "A guide on how to configure Azure Site-to-Site VPN using a Small Business router, and setting up a replica Domain Controller in the Azure cloud. "
+  }
+]

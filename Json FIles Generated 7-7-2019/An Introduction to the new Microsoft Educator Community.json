@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a6cbd933-c775-419c-9d0a-a53600867543",
+    "DataApi": "/Entries(guid'a6cbd933-c775-419c-9d0a-a53600867543')/",
+    "VideoPageLink": "/Series/An-Introduction-to-the-new-Microsoft-Educator-Community/Introducing-the-new-Microsoft-Educator-Community",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d526/83e34bee-2498-41fc-919c-2be858ead526/IntroducingthenewMSEducatorCommunity_960.jpg",
+    "ShowName": "An Introduction to the new Microsoft Educator Community",
+    "VideoLength": "00:43:03",
+    "VideoTitle": "Introducing the new Microsoft Educator Community",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-19T11:33:43.3076785Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d526/83e34bee-2498-41fc-919c-2be858ead526/IntroducingthenewMSEducatorCommunity_mid.mp4",
+    "Description": "Microsoft Educator Community, Teacher Professional development tools. "
+  }
+]

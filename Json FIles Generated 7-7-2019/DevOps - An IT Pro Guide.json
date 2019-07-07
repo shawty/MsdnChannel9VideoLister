@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "76ee6f20-5e64-4e82-a13a-a332016815b9",
+    "DataApi": "/Entries(guid'76ee6f20-5e64-4e82-a13a-a332016815b9')/",
+    "VideoPageLink": "/Series/DevOps-An-IT-Pro-Guide/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/030a/e43852f7-3a59-4beb-9430-8c0412c9030a/DevOpsAnITProGuideM02_960.jpg",
+    "ShowName": "DevOps - An IT Pro Guide",
+    "VideoLength": "00:45:40",
+    "VideoTitle": "DevOps - An IT Pro Guide: (02) Develop",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-28T16:02:17.0433934Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/030a/e43852f7-3a59-4beb-9430-8c0412c9030a/DevOpsAnITProGuideM02_mid.mp4",
+    "Description": "Explore the fundamentals of the software development lifecycle, including source code repositories, builds, and the role of the IT Pro and infrastructure. [01:45] - ALM your way[12:01] - Auto Build an"
+  },
+  {
+    "VideoId": "f7f6d852-14f5-49bc-a489-a332016850fc",
+    "DataApi": "/Entries(guid'f7f6d852-14f5-49bc-a489-a332016850fc')/",
+    "VideoPageLink": "/Series/DevOps-An-IT-Pro-Guide/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aabd/083ac080-4ad5-4f1b-931b-e398266daabd/DevOpsAnITProGuideM03_960.jpg",
+    "ShowName": "DevOps - An IT Pro Guide",
+    "VideoLength": "00:47:01",
+    "VideoTitle": "DevOps - An IT Pro Guide: (03) Release",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-28T16:02:29.1281015Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aabd/083ac080-4ad5-4f1b-931b-e398266daabd/DevOpsAnITProGuideM03_mid.mp4",
+    "Description": "This module educates the IT Pro on his or her role to automate the integration and deployment of applications into other environments. [01:04] - Release and Deployment[16:55] - Azure VM Based app Depl"
+  },
+  {
+    "VideoId": "17cec93c-1839-4fd2-9963-a33201689035",
+    "DataApi": "/Entries(guid'17cec93c-1839-4fd2-9963-a33201689035')/",
+    "VideoPageLink": "/Series/DevOps-An-IT-Pro-Guide/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a14/58b0bb62-5305-40b2-8861-cc04d0083a14/DevOpsAnITProGuideM04_960.jpg",
+    "ShowName": "DevOps - An IT Pro Guide",
+    "VideoLength": "00:59:00",
+    "VideoTitle": "DevOps - An IT Pro Guide: (04) Operate",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-28T16:02:41.2658015Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a14/58b0bb62-5305-40b2-8861-cc04d0083a14/DevOpsAnITProGuideM04_mid.mp4",
+    "Description": "After deployment, the job is not done! This module demonstrates the Operations role in providing proactive support and feedback into the applications development team. [02:41] - Monitor[36:08] - Scale"
+  },
+  {
+    "VideoId": "62e32424-f493-4d96-982e-a3320168c512",
+    "DataApi": "/Entries(guid'62e32424-f493-4d96-982e-a3320168c512')/",
+    "VideoPageLink": "/Series/DevOps-An-IT-Pro-Guide/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f794/5ac06360-881b-4db9-a242-a33171c2f794/DevOpsAnITProGuideM05_960.jpg",
+    "ShowName": "DevOps - An IT Pro Guide",
+    "VideoLength": "00:14:12",
+    "VideoTitle": "DevOps - An IT Pro Guide: (05) Close",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-28T16:02:58.6787209Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f794/5ac06360-881b-4db9-a242-a33171c2f794/DevOpsAnITProGuideM05_mid.mp4",
+    "Description": "Review the full application lifecycle with all the roles and responsibilities of the Business, Developer, and IT Professional personas. [01:00] - RecapFull course outline: Mod 01: PlanMod 02: DevelopM"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "6e2d003c-6c62-4987-8617-a7ac0133daea",
+    "DataApi": "/Entries(guid'6e2d003c-6c62-4987-8617-a7ac0133daea')/",
+    "VideoPageLink": "/Shows/The-DEVintersection-Europe-Countdown-Show/DEVintersection-Europe-Countdown-Show-on-Artificial-Intelligence-with-Steve-Guggenheimer",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d16f/dfb9bf43-893d-4e41-b77b-8c1ec11ad16f/DEVintersectionSweden2017Guggs_960.jpg",
+    "ShowName": "The DEVintersection Europe Countdown Show",
+    "VideoLength": "00:02:41",
+    "VideoTitle": "DEVintersection Europe Countdown Show on Artificial Intelligence with Steve Guggenheimer",
+    "Author": "UNKNOWN",
+    "UtcDateTimePublished": "2017-07-25T12:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d16f/dfb9bf43-893d-4e41-b77b-8c1ec11ad16f/DEVintersectionSweden2017Guggs_mid.mp4",
+    "Description": "Microsoft CVP Steve Guggenheimer and Richard Campbell talk about his upcoming keynote at the DEVintersection Europe conference in Stockholm, Sweden, Sept 18-20. Steve discusses his role in the new Art"
+  },
+  {
+    "VideoId": "2b30b903-aa8f-4a0f-8adb-a7ad0179935d",
+    "DataApi": "/Entries(guid'2b30b903-aa8f-4a0f-8adb-a7ad0179935d')/",
+    "VideoPageLink": "/Shows/The-DEVintersection-Europe-Countdown-Show/DEVintersection-Europe-Countdown-Show-Hunter",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/94e7/5d511828-e8a7-4eac-b763-db1fa61a94e7/DEVintersectionSwedenCountdownHunter_960.jpg",
+    "ShowName": "The DEVintersection Europe Countdown Show",
+    "VideoLength": "00:02:41",
+    "VideoTitle": "DEVintersection Europe Countdown Show on .NET Core 2 with Scott Hunter",
+    "Author": "Scott Hunter",
+    "UtcDateTimePublished": "2017-07-18T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/94e7/5d511828-e8a7-4eac-b763-db1fa61a94e7/DEVintersectionSwedenCountdownHunter_mid.mp4",
+    "Description": "The next version of .NET Core is upon us! Scott Hunter, the leader of the .NET team, talks to Richard Campbell about the importance of Core 2 â€“ adding the vast majority of the original .NET framework "
+  }
+]

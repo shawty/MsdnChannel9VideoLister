@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "471b98db-1136-4711-ab92-a38f0165c6e4",
+    "DataApi": "/Entries(guid'471b98db-1136-4711-ab92-a38f0165c6e4')/",
+    "VideoPageLink": "/Series/VMware-to-Hyper-V-Migration/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ff37/ccc65ee5-dd67-4059-a530-0a8da8daff37/VMwareMigrationToHyperVM02_960.jpg",
+    "ShowName": "VMware to Hyper-V Migration",
+    "VideoLength": "00:45:53",
+    "VideoTitle": "VMware to Hyper-V Migration: (02) Microsoft Virtual Machine Converter (MVMC) 2.0 for VMware to Hyper-V & Azure Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:51:44.4303042Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ff37/ccc65ee5-dd67-4059-a530-0a8da8daff37/VMwareMigrationToHyperVM02_mid.mp4",
+    "Description": "Explore Microsoft Virtual Machine Converter (MVMC) 2.0, which allows you to convert a VMware virtual machine to a Hyper-V virtual machine or even an Azure VM. Matt McSpirit provides an overview of how"
+  },
+  {
+    "VideoId": "a4ff7786-ad31-4435-a789-a38f0166182c",
+    "DataApi": "/Entries(guid'a4ff7786-ad31-4435-a789-a38f0166182c')/",
+    "VideoPageLink": "/Series/VMware-to-Hyper-V-Migration/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c13d/51c716c6-25a8-4608-9fb9-91fde7a3c13d/VMwareMigrationToHyperVM03_960.jpg",
+    "ShowName": "VMware to Hyper-V Migration",
+    "VideoLength": "00:46:06",
+    "VideoTitle": "VMware to Hyper-V Migration: (03) Xtreme VM Migrator for VMware to Hyper-V Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:52:10.0273926Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c13d/51c716c6-25a8-4608-9fb9-91fde7a3c13d/VMwareMigrationToHyperVM03_mid.mp4",
+    "Description": "Find out more about VM Migrator from Xtreme Consulting Group, which allows you to convert a VMware virtual machine to a Hyper-V virtual machine. Matt McSpirit and Xtreme Consulting Group's Martin Dey "
+  },
+  {
+    "VideoId": "c77718db-a058-406d-a54a-a38f0166508a",
+    "DataApi": "/Entries(guid'c77718db-a058-406d-a54a-a38f0166508a')/",
+    "VideoPageLink": "/Series/VMware-to-Hyper-V-Migration/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/630a/1355334f-a869-4428-acaa-dc02a0f7630a/VMwareMigrationToHyperVM04_960.jpg",
+    "ShowName": "VMware to Hyper-V Migration",
+    "VideoLength": "00:48:29",
+    "VideoTitle": "VMware to Hyper-V Migration: (04) NetApp MAT4SHIFT for VMware to Hyper-V Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:52:33.050019Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/630a/1355334f-a869-4428-acaa-dc02a0f7630a/VMwareMigrationToHyperVM04_mid.mp4",
+    "Description": "Learn about MAT4SHIFT, from NetApp, which allows you to convert a VMware virtual machine to a Hyper-V virtual machine. Matt McSpirit and NetApp's Barry Shilmover discuss the need for a migration solut"
+  },
+  {
+    "VideoId": "8d60e657-ab91-40bf-aa5a-a38f016695b2",
+    "DataApi": "/Entries(guid'8d60e657-ab91-40bf-aa5a-a38f016695b2')/",
+    "VideoPageLink": "/Series/VMware-to-Hyper-V-Migration/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9bfa/1bd6f924-4a34-4a4f-b741-aa08c9b49bfa/VMwareMigrationToHyperVM05_960.jpg",
+    "ShowName": "VMware to Hyper-V Migration",
+    "VideoLength": "00:41:03",
+    "VideoTitle": "VMware to Hyper-V Migration: (05) 5nine Software V2V Easy Converter 4.0 for VMware to Hyper-V Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:52:56.7224845Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9bfa/1bd6f924-4a34-4a4f-b741-aa08c9b49bfa/VMwareMigrationToHyperVM05_mid.mp4",
+    "Description": "Get the details about the V2V Easy Converter 4.0, from 5nine Software, which allows you to convert a VMware virtual machine to a Hyper-V virtual machine.  Join Microsoft's Matt McSpirit and 5nine's Ko"
+  },
+  {
+    "VideoId": "5340ee51-51e4-4543-8547-a38f0166cd58",
+    "DataApi": "/Entries(guid'5340ee51-51e4-4543-8547-a38f0166cd58')/",
+    "VideoPageLink": "/Series/VMware-to-Hyper-V-Migration/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5046/6cf1b95d-4165-46d4-bc27-73f762975046/VMwareMigrationToHyperVM06_960.jpg",
+    "ShowName": "VMware to Hyper-V Migration",
+    "VideoLength": "00:48:14",
+    "VideoTitle": "VMware to Hyper-V Migration: (06) Vision Solutions DoubleTake Move for VMware to Hyper-V & Azure Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:53:26.566173Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5046/6cf1b95d-4165-46d4-bc27-73f762975046/VMwareMigrationToHyperVM06_mid.mp4",
+    "Description": "Explore DoubleTake Move from Vision Solutions, which allows you to convert a VMware virtual machine to a Hyper-V virtual machine or even an Azure VM. Matt McSpirit and Vision Solution's Eric Payne dis"
+  }
+]

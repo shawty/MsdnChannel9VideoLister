@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "ab452696-c35e-47ca-b389-a5cc00bd1dd4",
+    "DataApi": "/Entries(guid'ab452696-c35e-47ca-b389-a5cc00bd1dd4')/",
+    "VideoPageLink": "/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Optimizing-and-Troubleshooting-Queries-Sinhala",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c43e/f047a532-8d3a-42cd-99ab-f98d94c1c43e/OptimizingQueriesAndTroubleshooting_960.jpg",
+    "ShowName": "Microsoft SQL Server Database à·ƒà¶‚à·€à¶»à·Šà¶°à¶±à¶º à¶šà·’à¶»à·’à¶¸à·š à¶´à·à¶¨à¶¸à·à¶½à·à·€  -(Developing Microsoft SQL Server Databases)",
+    "VideoLength": "00:14:03",
+    "VideoTitle": "(6) - Queries Optimize à·ƒà·„Troubleshoot à¶šà·’à¶»à·“à¶¸ - (Optimizing and Troubleshooting Queries)",
+    "Author": "Wellington Perera",
+    "UtcDateTimePublished": "2016-03-18T03:45:55.6225942Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c43e/f047a532-8d3a-42cd-99ab-f98d94c1c43e/OptimizingQueriesAndTroubleshooting_mid.mp4",
+    "Description": "à¶¯à·”à¶»à·Šà·€à¶½ à¶šà·à¶»à·Šà¶ºà¶šà·Šà·‚à¶¸à¶­à·à·€à¶ºà¶šà·Š à¶´à·™à¶±à·Šà·€à¶± queries à¶šà·™à·ƒà·šà¶¯ à¶šà·à¶»à·Šà¶ºà¶šà·Šà·‚à¶¸ à¶šà¶»à¶±à·Šà¶±à·š? à¶‘à¶½à·™à·ƒà¶¸ à¶šà·à¶»à·Šà¶ºà¶šà·Šà·‚à¶¸à¶­à·à·€ à·ƒà·„ query à·ƒà¶¸à·Šà¶¶à¶±à·Šà¶° à·ƒà·”à¶½à¶¶ à¶œà·à¶§à¶½à·” à·ƒà¶¯à·„à· à¶‡à¶­à·’ à·€à·’à·ƒà¶¯à·”à¶¸à·Š à¶¸à·œà¶±à·€à·à¶¯? à¶¸à·š à¶†à¶šà·à¶»à¶ºà·š à·ƒà·”à¶½à¶¶ à¶œà·à¶§à¶½à·” à·ƒà·„ à·€à·’à·ƒà¶¯à·”à¶¸à·Š à·ƒà·„à·’à¶­à·€ à¶¸à·™à¶¸ à¶¸à·œà¶©à·’à¶ºà·”à¶½à¶º à¶±à·’à¶»à·Šà¶¸à·à¶«à·€ à·€à·“ à¶‡à¶­."
+  },
+  {
+    "VideoId": "71ebbf1e-ad6e-4bb4-b500-a5cc00bad3f2",
+    "DataApi": "/Entries(guid'71ebbf1e-ad6e-4bb4-b500-a5cc00bad3f2')/",
+    "VideoPageLink": "/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/In-Memory-Objects--Implementing-In-Memory-Objects",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3539/3e4347ef-3a05-4dfd-b235-9cb7ffbc3539/InMemoryObjects_960.jpg",
+    "ShowName": "Microsoft SQL Server Database à·ƒà¶‚à·€à¶»à·Šà¶°à¶±à¶º à¶šà·’à¶»à·’à¶¸à·š à¶´à·à¶¨à¶¸à·à¶½à·à·€  -(Developing Microsoft SQL Server Databases)",
+    "VideoLength": "00:27:48",
+    "VideoTitle": "(5) - In-Memory Objects à¶·à·à·€à·’à¶­à¶º - (Implementing In-Memory Objects)",
+    "Author": "Wellington Perera",
+    "UtcDateTimePublished": "2016-03-18T03:46:06.7036155Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3539/3e4347ef-3a05-4dfd-b235-9cb7ffbc3539/InMemoryObjects_mid.mp4",
+    "Description": "à¶¸à·™à¶¸ à¶¸à·œà¶©à·’à¶ºà·”à¶½à¶º à¶¸à¶œà·’à¶±à·Š disk-based tables à·€à¶½ clustered à·ƒà·„ non-clustered column store indexes à¶šà·Šâ€à¶»à·’à¶ºà·à¶­à·Šà¶¸à¶š à·€à¶± à¶†à¶šà·à¶»à¶º à·ƒà·œà¶ºà· à¶¶à¶½à·“à¶¸à¶§à¶­à·Š, in-memory tables à·ƒà·„ stored procedures à¶šà·Šâ€à¶»à·’à¶ºà·à¶­à·Šà¶¸à¶š à¶šà¶½ à¶ºà·”à¶­à·” à·ƒà·”à¶¯à·”à·ƒà·”à¶¸ à¶…à·€à·ƒà·Šà¶®à·à·€à¶±à·Š à¶‰"
+  },
+  {
+    "VideoId": "e1a2ba4e-aa02-41bf-a04c-a5cc00b5406c",
+    "DataApi": "/Entries(guid'e1a2ba4e-aa02-41bf-a04c-a5cc00b5406c')/",
+    "VideoPageLink": "/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Managing-Transactions-Sinhala",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/008b/ff83b657-8cdf-463c-9e88-5f247d17008b/ManageTransactions_960.jpg",
+    "ShowName": "Microsoft SQL Server Database à·ƒà¶‚à·€à¶»à·Šà¶°à¶±à¶º à¶šà·’à¶»à·’à¶¸à·š à¶´à·à¶¨à¶¸à·à¶½à·à·€  -(Developing Microsoft SQL Server Databases)",
+    "VideoLength": "00:32:49",
+    "VideoTitle": "(4) - Transactions à¶šà·…à¶¸à¶±à·à¶šà¶»à¶«à¶º - (Managing Transactions)",
+    "Author": "Wellington Perera",
+    "UtcDateTimePublished": "2016-03-18T03:46:12.517926Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/008b/ff83b657-8cdf-463c-9e88-5f247d17008b/ManageTransactions_mid.mp4",
+    "Description": "à¶¸à·™à¶¸ à¶¸à·œà¶©à·’à¶ºà·”à¶½à¶º à¶¸à¶œà·’à¶±à·Š Transactions à·ƒà·„ isolation concepts à¶´à·’à·…à·’à¶¶à¶³ à·„à·à¶³à·’à¶±à·Šà·€à·“à¶¸à¶šà·Š à¶½à¶¶à· à¶œà·à¶±à·“à¶¸à¶§à¶½ transactions, à·ƒà·„ errors à·„à¶³à·”à¶±à·à¶œà·à¶±à·“à¶¸, isolation à¶¸à¶§à·Šà¶§à¶¸à·Š à·ƒà·Šà¶®à·à¶´à·’à¶­ à¶šà·’à¶»à·“à¶¸ à·ƒà·„ database objects à¶±à·’à¶»à·Šà¶¸à·à¶«à¶º à¶šà·’à¶»à·“à¶¸ à¶‰à¶œà·™à¶± à¶œà¶­ à·„à·à¶š. "
+  },
+  {
+    "VideoId": "f8b5400a-52dc-46a8-990d-a5cc00b2a26f",
+    "DataApi": "/Entries(guid'f8b5400a-52dc-46a8-990d-a5cc00b2a26f')/",
+    "VideoPageLink": "/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Implementing-Stored-Procedures-and-Functions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/36ee/2e00124e-fda8-467f-b302-f2b58a4236ee/ImplementingStoredProcedures_960.jpg",
+    "ShowName": "Microsoft SQL Server Database à·ƒà¶‚à·€à¶»à·Šà¶°à¶±à¶º à¶šà·’à¶»à·’à¶¸à·š à¶´à·à¶¨à¶¸à·à¶½à·à·€  -(Developing Microsoft SQL Server Databases)",
+    "VideoLength": "00:33:15",
+    "VideoTitle": "(3) - Stored Procedure à·ƒà·„ Functions à·„à¶³à·”à¶±à·Šà·€à· à¶¯à·“à¶¸ - (Implementing Stored Procedures and Functions)",
+    "Author": "Wellington Perera",
+    "UtcDateTimePublished": "2016-03-18T03:46:20.6004996Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/36ee/2e00124e-fda8-467f-b302-f2b58a4236ee/ImplementingStoredProcedures_mid.mp4",
+    "Description": "stored procedures à¶±à·’à¶»à·Šà¶¸à·à¶«à¶º à·„à· à¶šà·Šâ€à¶»à·’à¶ºà·à¶šà·Šà¶¸à¶š à¶šà·’à¶»à·“à¶¸, execution context, parameters à·ƒà·„ return values à¶‡à¶­à·”à¶½à¶­à·Šà·€ à¶œà·€à·šà·‚à¶«à¶º à¶šà¶»à¶±à·Šà¶±. à¶‘à·ƒà·š à¶¸ à·€à·™à¶±à·ƒà·Š à¶†à¶šà·à¶»à·€à¶½ functions à¶±à·’à¶»à·Šà¶¸à·à¶«à¶º à¶šà·’à¶»à·“à¶¸ à¶‰à¶œà·™à¶± à¶œà¶±à·Šà¶±à· à¶†à¶šà·à¶»à¶º à¶¯ à¶¸à·š à¶¸à·œà¶©à·’à¶ºà·”à¶½à¶ºà¶§ à¶‡à¶­à·”à¶½à¶­à·Š"
+  },
+  {
+    "VideoId": "cb063625-4ea8-4111-8f1c-a5cc00b18763",
+    "DataApi": "/Entries(guid'cb063625-4ea8-4111-8f1c-a5cc00b18763')/",
+    "VideoPageLink": "/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Implementing-Indexes-Sinhala",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ef3/e2fffc4e-01e3-4850-b765-d7abd5398ef3/ImplementingIndexes_960.jpg",
+    "ShowName": "Microsoft SQL Server Database à·ƒà¶‚à·€à¶»à·Šà¶°à¶±à¶º à¶šà·’à¶»à·’à¶¸à·š à¶´à·à¶¨à¶¸à·à¶½à·à·€  -(Developing Microsoft SQL Server Databases)",
+    "VideoLength": "00:28:20",
+    "VideoTitle": "(2) - Indexes à¶­à·šà¶»à·”à¶¸à·Š à¶œà·à¶±à·“à¶¸ -(Implementing-Indexes)",
+    "Author": "Wellington Perera",
+    "UtcDateTimePublished": "2016-03-18T03:46:27.7830042Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ef3/e2fffc4e-01e3-4850-b765-d7abd5398ef3/ImplementingIndexes_mid.mp4",
+    "Description": "Heaps, clustered indexes à·ƒà·„ non-clustered indexes à¶…à¶­à¶» à·€à·™à¶±à·ƒ à¶¯à·à¶±à¶œà¶±à·Šà¶±. clustered à·ƒà·„ non-clustered indexes à·ƒà¶¸à¶œ à·ƒà¶½à¶šà¶¸à·’à¶±à·Š filtered indexes, data types, page density à¶±à·’à¶»à·Šà¶¸à·à¶«à¶º à·ƒà·„ à¶šà·Šâ€à¶»à·’à¶ºà·à¶­à·Šà¶¸à¶š à¶šà·’à¶»à·“à¶¸à·š à¶†à¶šà·à¶»à¶º à·ƒà·„ in"
+  },
+  {
+    "VideoId": "42dc2a8a-06be-48e0-8b10-a5cb009b42d1",
+    "DataApi": "/Entries(guid'42dc2a8a-06be-48e0-8b10-a5cb009b42d1')/",
+    "VideoPageLink": "/Series/SINHALA-Developing-Microsoft-SQL-Server-Databases/Configure-Microsoft-SQL-Server-Databases-Sinhala",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/30d3/a6c4eefe-c418-4394-a4f8-009b7b7730d3/ConfigureMSSQLDatabases_960.jpg",
+    "ShowName": "Microsoft SQL Server Database à·ƒà¶‚à·€à¶»à·Šà¶°à¶±à¶º à¶šà·’à¶»à·’à¶¸à·š à¶´à·à¶¨à¶¸à·à¶½à·à·€  -(Developing Microsoft SQL Server Databases)",
+    "VideoLength": "01:02:11",
+    "VideoTitle": "(1) - Tables à·ƒà·„ Views à¶šà·Šâ€à¶»à·’à¶ºà·à¶­à·Šà¶¸à¶š à¶šà·’à¶»à·“à¶¸ -(Implementing Tables and Views)",
+    "Author": "Prabhath Mannapperuma",
+    "UtcDateTimePublished": "2016-03-18T03:46:40.8857327Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/30d3/a6c4eefe-c418-4394-a4f8-009b7b7730d3/ConfigureMSSQLDatabases_mid.mp4",
+    "Description": "data types à·ƒà·„ constraints à¶¯ à¶ºà·œà¶¯à·à¶œà¶±à·’à¶¸à·’à¶±à·Š disk-based tables à¶±à·’à¶»à·Šà¶¸à·à¶«à¶º à¶šà¶»à¶± à¶†à¶šà·à¶»à¶º à¶‰à¶œà·™à¶± à¶œà¶±à·’à¶¸à·”. à¶‘à¶½à·™à·ƒà¶¸ variables, temporary tables à·ƒà·„ common table expressions à¶ºà·œà¶¯à·à¶œà¶±à·’à¶¸à·’à¶±à·Š table objects à·ƒà·à¶¯à¶¸à·”. à¶’ à¶´à¶¸à¶«à¶šà·Š à¶±à·œà·€ view"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "89d54f95-b26a-4418-aac9-a6e8014458e8",
+    "DataApi": "/Entries(guid'89d54f95-b26a-4418-aac9-a6e8014458e8')/",
+    "VideoPageLink": "/Series/Parts-Unlimited-Labs/Parts-Unlimited-HOL-Prerequisites",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e482/4720ba0e-82cd-4cc3-9f7a-1cdb0f51e482/PULabsPreReq_960.jpg",
+    "ShowName": "Parts Unlimited Labs",
+    "VideoLength": "00:03:57",
+    "VideoTitle": "Parts Unlimited HOL - Prerequisites",
+    "Author": "Julien Stroheker",
+    "UtcDateTimePublished": "2016-12-26T20:01:38.0931007Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e482/4720ba0e-82cd-4cc3-9f7a-1cdb0f51e482/PULabsPreReq_mid.mp4",
+    "Description": "Prerequisites about Parts Unlimited HOL either if you are on Windows, Mac or Linux. The hands-on lab is available here. "
+  },
+  {
+    "VideoId": "0c107f52-08dd-43b0-ace5-a6e80144dfd4",
+    "DataApi": "/Entries(guid'0c107f52-08dd-43b0-ace5-a6e80144dfd4')/",
+    "VideoPageLink": "/Series/Parts-Unlimited-Labs/Parts-Unlimited-HOL-Continuous-Deployment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5c0c/861dc3dd-4156-489d-bd5c-2f6d26e65c0c/PULabsCD_960.jpg",
+    "ShowName": "Parts Unlimited Labs",
+    "VideoLength": "00:25:37",
+    "VideoTitle": "Parts Unlimited HOL - Continuous Deployment",
+    "Author": "Julien Stroheker",
+    "UtcDateTimePublished": "2016-12-31T23:47:39.6520386Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5c0c/861dc3dd-4156-489d-bd5c-2f6d26e65c0c/PULabsCD_mid.mp4",
+    "Description": "In this lab, you have an application called PartsUnlimited, committed to a Git repo in Visual Studio Team Services (VSTS) and a Continuous Integration build that builds the app and runs unit tests whe"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "e04ae1b9-1f68-47c6-a139-a2670168a68a",
+    "DataApi": "/Entries(guid'e04ae1b9-1f68-47c6-a139-a2670168a68a')/",
+    "VideoPageLink": "/Series/Microspotting/Inside-Soundlab",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/e9ed7cdd-a3ba-4865-a6dc-4a70263b1c45.jpg",
+    "ShowName": "Microspotting",
+    "VideoLength": "00:03:50",
+    "VideoTitle": "Inside Soundlab",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2013-11-15T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0b84/12a61f82-ba86-427f-bed1-ae7db9870b84/MicrospottingSoundLab_mid.mp4",
+    "Description": "Our favorite Xbox games like Halo and Forza wouldn't be the same without their signature soundsâ€”and we found the team behind the magic. Welcome to Soundlab, Microsoft's in-house audio production studi"
+  },
+  {
+    "VideoId": "ecdfbb15-2213-45e9-b54a-a2670168d5d9",
+    "DataApi": "/Entries(guid'ecdfbb15-2213-45e9-b54a-a2670168d5d9')/",
+    "VideoPageLink": "/Series/Microspotting/Inside-Real-Estate--Facilities",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/0d3eda8b-8546-4e34-a29b-47a2dfa8b979.jpg",
+    "ShowName": "Microspotting",
+    "VideoLength": "00:04:04",
+    "VideoTitle": "Inside Real Estate & Facilities",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2013-11-29T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3744/f2adfe14-58a7-4e64-b50a-ea536a813744/MicrospottingREF_mid.mp4",
+    "Description": "When you think of Real Estate &amp; Facilities (RE&amp;F), visions of campus shuttles, cafés, and facilities requests may be conjured up. But what about X-ray machines, bomb safes, and the &quot;shake"
+  },
+  {
+    "VideoId": "d091a75c-984f-4687-a894-a2670168282b",
+    "DataApi": "/Entries(guid'd091a75c-984f-4687-a894-a2670168282b')/",
+    "VideoPageLink": "/Series/Microspotting/Inside-the-Microsoft-Model-Shop",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/8bfd15fc-be39-4bd7-adc7-20bde23b9fba.jpg",
+    "ShowName": "Microspotting",
+    "VideoLength": "00:04:21",
+    "VideoTitle": "Inside the Microsoft Model Shop",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2013-12-13T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/635e/a75ac2e7-a73c-4975-8ff4-298d6fec635e/MicrospottingModelShop_mid.mp4",
+    "Description": "Vince Jesus, shop manager at the Microsoft Model Shop, is a serious guy with a serious business: his team creates &quot;the part from the art&quot; to bring new hardware ideas to life. Designers and e"
+  },
+  {
+    "VideoId": "1d77917b-2f8c-48f8-9201-a26701686fc3",
+    "DataApi": "/Entries(guid'1d77917b-2f8c-48f8-9201-a26701686fc3')/",
+    "VideoPageLink": "/Series/Microspotting/Inside-Microsoft-Production-Studios",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/25010425-aa98-4a31-b408-b99357cecb2f.jpg",
+    "ShowName": "Microspotting",
+    "VideoLength": "00:02:39",
+    "VideoTitle": "Inside Microsoft Production Studios",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2013-12-27T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ff4/65b283a9-f6f7-4762-aab3-1ebeb6408ff4/MicrospottingProdStudio_mid.mp4",
+    "Description": "Tucked in the West Campus building once shared with the Microsoft Company Store, you'll find the Pacific Northwest's largest media production studio: Microsoft Production Studios. Production Manager G"
+  },
+  {
+    "VideoId": "54175498-9eca-4464-845e-a29701590fa0",
+    "DataApi": "/Entries(guid'54175498-9eca-4464-845e-a29701590fa0')/",
+    "VideoPageLink": "/Series/Microspotting/The-Garage",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/1870e925-896e-4bc0-ad0e-ff7e394b550d.jpg",
+    "ShowName": "Microspotting",
+    "VideoLength": "00:04:34",
+    "VideoTitle": "The Garage ",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2014-01-20T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f8a6/61c4fb5c-5df4-472d-b68c-d58f6bfdf8a6/MicrospottingGarage_mid.mp4",
+    "Description": "Their mantra: &quot;Doers. Not Talkers.&quot; Welcome to the Garage, Microsoft's home to grassroots innovation where employeesâ€”everywhere in the worldâ€”come together to tinker on new ideas. Here, you'l"
+  }
+]

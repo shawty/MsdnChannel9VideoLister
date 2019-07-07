@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "09f6db0a-8fad-455a-b844-a426017be02e",
+    "DataApi": "/Entries(guid'09f6db0a-8fad-455a-b844-a426017be02e')/",
+    "VideoPageLink": "/series/App-Developer-Stories/Canadian-Developer-Innovates-with-Windows-81-and-Microsoft-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5de6/467dabf1-6d09-45ee-8d9d-78d2d2eb5de6/AppDeveloperStoriesAtley_960.jpg",
+    "ShowName": "App Developer Stories",
+    "VideoLength": "00:03:54",
+    "VideoTitle": "Canadian Developer Innovates with Windows 8.1 and Microsoft Azure",
+    "Author": "Vanesa",
+    "UtcDateTimePublished": "2015-01-21T17:42:30.8405031Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5de6/467dabf1-6d09-45ee-8d9d-78d2d2eb5de6/AppDeveloperStoriesAtley_mid.mp4",
+    "Description": "Atley Hunter's first universal app, Watchbox, allows users to stay connected with their favorite television shows and interact with other users through a module called Azure Chat. Hunter, who left his"
+  }
+]

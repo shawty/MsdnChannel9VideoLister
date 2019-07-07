@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "3e153d47-241a-49b9-adbd-a6f9015cc7ab",
+    "DataApi": "/Entries(guid'3e153d47-241a-49b9-adbd-a6f9015cc7ab')/",
+    "VideoPageLink": "/Blogs/msedgedev/nolanlaw-web-perf-crisis",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f2a2/cd251b43-45d5-4f34-9985-b5cbb559f2a2/webperfcrisis_960.jpg",
+    "ShowName": "The Microsoft Edge Dev Show",
+    "VideoLength": "00:41:03",
+    "VideoTitle": "Solving theÂ Web Performance Crisis",
+    "Author": "kypflug",
+    "UtcDateTimePublished": "2017-01-12T22:44:12.2313178Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f2a2/cd251b43-45d5-4f34-9985-b5cbb559f2a2/webperfcrisis_mid.mp4",
+    "Description": "Adapted from an internal Microsoft event - presented by Nolan Lawson. The slides for this presentation are available here. Recent research by DoubleClick shows that 53% of mobile sites are abandoned i"
+  },
+  {
+    "VideoId": "3401da1e-2d2b-4772-819e-a6c10184c489",
+    "DataApi": "/Entries(guid'3401da1e-2d2b-4772-819e-a6c10184c489')/",
+    "VideoPageLink": "/Blogs/msedgedev/The-Progress-of-Web-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b258/19270222-30a6-418d-b85d-c8def8a8b258/pwas_960.jpg",
+    "ShowName": "The Microsoft Edge Dev Show",
+    "VideoLength": "00:33:39",
+    "VideoTitle": "The Progress of Web Apps",
+    "Author": "kypflug",
+    "UtcDateTimePublished": "2016-11-18T00:08:16.1214583Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b258/19270222-30a6-418d-b85d-c8def8a8b258/pwas_mid.mp4",
+    "Description": "News of the Web's death is greatly exaggerated: HTML, CSS, and JavaScript are more pervasive than ever, and have long since broken out of the browser and into standalone experiences with tools like Co"
+  },
+  {
+    "VideoId": "caec9177-aa3a-4e27-b1b4-a6b00059fb55",
+    "DataApi": "/Entries(guid'caec9177-aa3a-4e27-b1b4-a6b00059fb55')/",
+    "VideoPageLink": "/Blogs/msedgedev/WebAssembly-AngryBots-Demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e2d1/20504f48-a05b-42ea-b7eb-81b12dd6e2d1/WebAsmBots_960.jpg",
+    "ShowName": "The Microsoft Edge Dev Show",
+    "VideoLength": "00:00:20",
+    "VideoTitle": "WebAssembly AngryBots Demo",
+    "Author": "kypflug",
+    "UtcDateTimePublished": "2016-10-31T14:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5809/fc672e67-732a-484c-b375-4445c27f5809/WebAssemblyAngryBots_mid.mp4",
+    "Description": "We've been hard at work developing support for WebAssembly in Microsoft Edge at the open-source ChakraCore project repo. Microsoft Edge and ChakraCore are close to shipping the browser preview, which "
+  },
+  {
+    "VideoId": "9b13c950-fabb-4fef-90cd-a66d0127864e",
+    "DataApi": "/Entries(guid'9b13c950-fabb-4fef-90cd-a66d0127864e')/",
+    "VideoPageLink": "/Blogs/msedgedev/Edge-14-overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b329/559509e1-8f4f-4ede-873c-488a022db329/Edge14_960.jpg",
+    "ShowName": "The Microsoft Edge Dev Show",
+    "VideoLength": "00:15:19",
+    "VideoTitle": "What's new in Edge 14",
+    "Author": "kypflug",
+    "UtcDateTimePublished": "2016-08-25T20:32:28.5798912Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b329/559509e1-8f4f-4ede-873c-488a022db329/Edge14_mid.mp4",
+    "Description": "Join Helen Huang (an intern on the Web Platform Team) and Jonathan Sampson (a program manager on the Web Platform Team) for a quick tour of some highlights from Edge in the Windows 10 Anniversary Upda"
+  }
+]

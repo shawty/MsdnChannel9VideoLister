@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "cec1068a-9e61-4b02-8eb0-a52900b889b3",
+    "DataApi": "/Entries(guid'cec1068a-9e61-4b02-8eb0-a52900b889b3')/",
+    "VideoPageLink": "/Series/Start-Your-Own-Business-in-90-Days/Start-Your-Business-In-90-Days-Pre-Registration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5cda/74c6e5b6-cae3-4337-9da8-2a02adfd5cda/PreRegistration_960.jpg",
+    "ShowName": "Start Your Own Business in 90 Days",
+    "VideoLength": "00:33:45",
+    "VideoTitle": "Start Your Business In 90 Days - Pre-Registration",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-08T10:38:47.6291515Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5cda/74c6e5b6-cae3-4337-9da8-2a02adfd5cda/PreRegistration_mid.mp4",
+    "Description": "Catherine and Melanie share insights into what needs to happen before your business is registered. "
+  },
+  {
+    "VideoId": "fde53c33-becf-40e7-ae9b-a52900b84474",
+    "DataApi": "/Entries(guid'fde53c33-becf-40e7-ae9b-a52900b84474')/",
+    "VideoPageLink": "/Series/Start-Your-Own-Business-in-90-Days/Start-Your-Business-In-90-Days-Day-46-90",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f84c/f92bd4f7-133f-4a03-a108-9fd4b918f84c/Day46to90_960.jpg",
+    "ShowName": "Start Your Own Business in 90 Days",
+    "VideoLength": "00:20:26",
+    "VideoTitle": "Start Your Business In 90 Days - Day 46 - 90",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-08T10:38:59.8412742Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f84c/f92bd4f7-133f-4a03-a108-9fd4b918f84c/Day46to90_mid.mp4",
+    "Description": "Catherine and Melanie share insights into what to expect and accomplish in days 46 â€“ 90 of your business. "
+  },
+  {
+    "VideoId": "28d71e3f-b4d6-41ad-a89a-a52900b7db3a",
+    "DataApi": "/Entries(guid'28d71e3f-b4d6-41ad-a89a-a52900b7db3a')/",
+    "VideoPageLink": "/Series/Start-Your-Own-Business-in-90-Days/Start-Your-Business-In-90-Days-Day-1-45",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c3e8/553b0657-a194-4040-a763-9ad0b8a0c3e8/Day1to45_960.jpg",
+    "ShowName": "Start Your Own Business in 90 Days",
+    "VideoLength": "00:21:43",
+    "VideoTitle": "Start Your Business In 90 Days - Day 1 - 45",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-10-08T10:39:10.6827655Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c3e8/553b0657-a194-4040-a763-9ad0b8a0c3e8/Day1to45_mid.mp4",
+    "Description": "Catherine and Melanie share insights into what to expect and accomplish in the first 45 days of starting your business. "
+  }
+]

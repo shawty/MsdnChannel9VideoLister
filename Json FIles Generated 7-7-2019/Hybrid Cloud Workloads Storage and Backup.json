@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "fc73fd40-e6de-44eb-aa08-a387003f677a",
+    "DataApi": "/Entries(guid'fc73fd40-e6de-44eb-aa08-a387003f677a')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Storage-and-Backup/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7708/8c98c669-184f-4792-ae24-bf2304397708/Mod2_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Storage and Backup",
+    "VideoLength": "00:17:47",
+    "VideoTitle": "(Module 2) Storage in the Public Cloud",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T08:01:55Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7708/8c98c669-184f-4792-ae24-bf2304397708/Mod2_mid.mp4",
+    "Description": "In this module you will learn why the Cloud makes for a great storage option. You will also learn why using Azure for all backup and archived data, as well as less frequently accessed primary data mak"
+  },
+  {
+    "VideoId": "a18e80c7-2731-4ce1-91d6-a387004009ed",
+    "DataApi": "/Entries(guid'a18e80c7-2731-4ce1-91d6-a387004009ed')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Storage-and-Backup/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2175/2fe284d4-9c30-4cb2-9770-2e61d2a62175/Mod3_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Storage and Backup",
+    "VideoLength": "00:22:16",
+    "VideoTitle": "(Module 3) Hybrid Cloud Storage with StorSimple",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T08:02:32Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2175/2fe284d4-9c30-4cb2-9770-2e61d2a62175/Mod3_mid.mp4",
+    "Description": "In this module you will learn more about the functionality of Hybrid Cloud Storage with StorSimple, emphasizing that it has the capability of Location independent recovery is highly efficient and dete"
+  },
+  {
+    "VideoId": "83ac1036-4757-4845-8685-a38700407e89",
+    "DataApi": "/Entries(guid'83ac1036-4757-4845-8685-a38700407e89')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Storage-and-Backup/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6da3/a5d7bb0d-7484-4c71-8fb9-e386e1bc6da3/Mod4_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Storage and Backup",
+    "VideoLength": "00:16:37",
+    "VideoTitle": "(Module 4) Windows Azure Backup",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T08:03:36Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6da3/a5d7bb0d-7484-4c71-8fb9-e386e1bc6da3/Mod4_mid.mp4",
+    "Description": "In this module you will learn about Windows Azure Backup as a new service in Windows Azure and that it provides simple and reliable server backup to the cloud. You will learn that Windows Azure data i"
+  },
+  {
+    "VideoId": "96e0fdac-173c-4a81-81ef-a3870040fb9f",
+    "DataApi": "/Entries(guid'96e0fdac-173c-4a81-81ef-a3870040fb9f')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Storage-and-Backup/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2b51/fce6cb24-c94c-4f8f-abcd-b002d3b12b51/Mod5_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Storage and Backup",
+    "VideoLength": "00:14:25",
+    "VideoTitle": "(Module 5) Hybrid Backup with Data Protection Manager",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T08:04:12Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2b51/fce6cb24-c94c-4f8f-abcd-b002d3b12b51/Mod5_mid.mp4",
+    "Description": "In this module you will learn that DPM can backup as frequently as every 15 minutes and backup to disk.  DPM also has rich offsite capabilities and can protect to tape which can be sent offsite or can"
+  },
+  {
+    "VideoId": "febceca2-1822-48d2-bb03-a38700417629",
+    "DataApi": "/Entries(guid'febceca2-1822-48d2-bb03-a38700417629')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Workloads-Storage-and-Backup/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5662/8e29d960-e47d-497b-91d3-196e8c7f5662/Mod6_960.jpg",
+    "ShowName": "Hybrid Cloud Workloads: Storage and Backup",
+    "VideoLength": "00:13:24",
+    "VideoTitle": "(Module 6) Hybrid Data Protection - StorSimple",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-08-14T08:05:11Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5662/8e29d960-e47d-497b-91d3-196e8c7f5662/Mod6_mid.mp4",
+    "Description": "In this module you will learn more about Hybrid Data Protection and StorSimple.  You will learn that Hybrid cloud storage is ideal for unstructured data and is suited for workloads generating lots of "
+  }
+]

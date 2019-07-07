@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "f3590e30-b02a-4413-a70b-a3d5000b02df",
+    "DataApi": "/Entries(guid'f3590e30-b02a-4413-a70b-a3d5000b02df')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Visual-Studio/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2996/19acfa72-dc64-4aa5-9e02-985f2b5f2996/CrossPlatformDevWithVSM02_960.jpg",
+    "ShowName": "Cross-Platform Development with Visual Studio",
+    "VideoLength": "00:33:45",
+    "VideoTitle": "Cross-Platform Development with Visual Studio: (02) Windows Web Apps + WAT",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T15:58:36.0318937Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2996/19acfa72-dc64-4aa5-9e02-985f2b5f2996/CrossPlatformDevWithVSM02_mid.mp4",
+    "Description": "Learn how you can easily integrate your existing website into the Windows applications experience, adding functionalities, such as live tiles, app bar, and more. Consider delivering an experience simi"
+  },
+  {
+    "VideoId": "4e6ec65b-db01-4f64-91b4-a3d5000b3bf3",
+    "DataApi": "/Entries(guid'4e6ec65b-db01-4f64-91b4-a3d5000b3bf3')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Visual-Studio/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4578/07dd9451-26bb-4feb-9bfa-6640707d4578/CrossPlatformDevWithVSM03_960.jpg",
+    "ShowName": "Cross-Platform Development with Visual Studio",
+    "VideoLength": "00:40:56",
+    "VideoTitle": "Cross-Platform Development with Visual Studio: (03) Apache Cordova & Visual Studio",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T15:58:55.9507325Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4578/07dd9451-26bb-4feb-9bfa-6640707d4578/CrossPlatformDevWithVSM03_mid.mp4",
+    "Description": "Get an intro to Apache Cordova and how to use it to build hybrid cross-platform apps. See how Cordova/PhoneGap developers can use familiar command line tools to build apps based on the same web code f"
+  },
+  {
+    "VideoId": "a6d32e86-f2c6-40b9-8da1-a3d5000b7a28",
+    "DataApi": "/Entries(guid'a6d32e86-f2c6-40b9-8da1-a3d5000b7a28')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Visual-Studio/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0446/9777d360-14a3-4426-afcc-d8de051c0446/CrossPlatformDevWithVSM04_960.jpg",
+    "ShowName": "Cross-Platform Development with Visual Studio",
+    "VideoLength": "00:24:18",
+    "VideoTitle": "Cross-Platform Development with Visual Studio: (04) Javascript Compatibility",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T15:59:17.1622178Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0446/9777d360-14a3-4426-afcc-d8de051c0446/CrossPlatformDevWithVSM04_mid.mp4",
+    "Description": "Learn about the contextual differences between running code in a website, in a Cordova app for iOS or Android, and in a Cordova app for Windows Store and Windows Phone. [01:15] - JS Compatibility Issu"
+  },
+  {
+    "VideoId": "a0e57034-faed-47e5-a324-a3d5000bc870",
+    "DataApi": "/Entries(guid'a0e57034-faed-47e5-a324-a3d5000bc870')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Visual-Studio/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5f78/b0971cf0-7627-48ee-a3cb-42623a4b5f78/CrossPlatformDevWithVSM05_960.jpg",
+    "ShowName": "Cross-Platform Development with Visual Studio",
+    "VideoLength": "00:43:14",
+    "VideoTitle": "Cross-Platform Development with Visual Studio: (05) WinJS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T15:59:34.7772521Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5f78/b0971cf0-7627-48ee-a3cb-42623a4b5f78/CrossPlatformDevWithVSM05_mid.mp4",
+    "Description": "Explore what WinJS has to offer for building apps and websites for various browsers and mobile devices. WinJS is now fully open source and works across platforms. [02:05] - What is WinJS?[04:46] - Win"
+  },
+  {
+    "VideoId": "ede0afaa-0005-461c-9fbc-a3d5000c4d15",
+    "DataApi": "/Entries(guid'ede0afaa-0005-461c-9fbc-a3d5000c4d15')/",
+    "VideoPageLink": "/Series/Cross-Platform-Development-with-Visual-Studio/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1c17/63695518-8749-4ac9-9570-ea10f77d1c17/CrossPlatformDevWithVSM06_960.jpg",
+    "ShowName": "Cross-Platform Development with Visual Studio",
+    "VideoLength": "00:50:43",
+    "VideoTitle": "Cross-Platform Development with Visual Studio: (06) 3D Graphics",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-31T15:59:53.4569348Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1c17/63695518-8749-4ac9-9570-ea10f77d1c17/CrossPlatformDevWithVSM06_mid.mp4",
+    "Description": "Get creative, and deliver a great user experience. Find out what works across existing platforms and how you can leverage libraries, such as Babylon.js, to build a great 3D experience that works on al"
+  }
+]

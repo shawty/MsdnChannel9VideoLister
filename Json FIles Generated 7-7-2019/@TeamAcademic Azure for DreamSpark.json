@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "bd178dfc-585a-492d-a822-a60100ea0948",
+    "DataApi": "/Entries(guid'bd178dfc-585a-492d-a822-a60100ea0948')/",
+    "VideoPageLink": "/Series/TeamAcademic-Azure-for-DreamSpark/Section-2-Setting-up-WordPress-on-Azure-Websites",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c99/7548d690-f4d9-41c8-a5a1-62c8e14e8c99/Section2SettingUpWordpressOnAzureForDreamSpark_960.jpg",
+    "ShowName": "@TeamAcademic: Azure for DreamSpark",
+    "VideoLength": "00:16:42",
+    "VideoTitle": "Section 2: Setting up WordPress on Azure Websites",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-09T14:43:18.6447016Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c99/7548d690-f4d9-41c8-a5a1-62c8e14e8c99/Section2SettingUpWordpressOnAzureForDreamSpark_mid.mp4",
+    "Description": "In this section, we show you how you can use your new Azure for DreamSpark subscription to host your very own WordPress site for free. This guide aims to help students publish a WordPress websites on "
+  },
+  {
+    "VideoId": "f2479b34-b027-4f46-9a02-a60100f0359c",
+    "DataApi": "/Entries(guid'f2479b34-b027-4f46-9a02-a60100f0359c')/",
+    "VideoPageLink": "/Series/TeamAcademic-Azure-for-DreamSpark/Section-3-Setting-up-an-Azure-Website-with-Microsoft-WebMatrix-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d026/3a4a5936-8ea0-4313-ba2c-0302553dd026/Section3AzureWebsitesWebMatrix3_960.jpg",
+    "ShowName": "@TeamAcademic: Azure for DreamSpark",
+    "VideoLength": "00:20:45",
+    "VideoTitle": "Section 3: Setting up an Azure Website with Microsoft WebMatrix 3",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-11T19:28:11.6882061Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d026/3a4a5936-8ea0-4313-ba2c-0302553dd026/Section3AzureWebsitesWebMatrix3_mid.mp4",
+    "Description": "Learn how to publish Azure Websites with Webmatrix 3 https://www.microsoft.com/web/webmatrix/ "
+  },
+  {
+    "VideoId": "fe880a6a-302d-48c3-b41f-a604016a5e1a",
+    "DataApi": "/Entries(guid'fe880a6a-302d-48c3-b41f-a604016a5e1a')/",
+    "VideoPageLink": "/Series/TeamAcademic-Azure-for-DreamSpark/Student-Competition-IrelandNorthern-Ireland-Activate-Azure-for-DreamSpark-you-could-win-an-Xbox-One",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/376c/b513cd2f-9696-4a45-a56f-3a419d2d376c/DXIrelandStudentCompetition_960.jpg",
+    "ShowName": "@TeamAcademic: Azure for DreamSpark",
+    "VideoLength": "00:01:32",
+    "VideoTitle": "Student Competition (Ireland/Northern Ireland): Activate Azure for DreamSpark - you could win an Xbox One",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-13T07:15:26.1639871Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/376c/b513cd2f-9696-4a45-a56f-3a419d2d376c/DXIrelandStudentCompetition_mid.mp4",
+    "Description": "Details on our competition to win an XBox One for 3rd Level (Higher Education College and University) students. Watch this video to learn how to enter. Go to https://aka.ms/studentsire for T&amp;Cs. "
+  }
+]

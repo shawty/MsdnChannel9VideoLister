@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "1b679ed1-1587-4f83-9b04-a34701573fc3",
+    "DataApi": "/Entries(guid'1b679ed1-1587-4f83-9b04-a34701573fc3')/",
+    "VideoPageLink": "/Series/Financials-in-Microsoft-Dynamics-SL-2015/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/662c/d0c33d45-09d6-4b92-b2c3-59b6c91b662c/FinancialsInMicrosoftDynamicsSL2015M02_960.jpg",
+    "ShowName": "Financials in Microsoft Dynamics SL 2015",
+    "VideoLength": "00:59:55",
+    "VideoTitle": "Financials in Microsoft Dynamics SL 2015: (02) Accounts Payable",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-12T05:41:42.5227975Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/662c/d0c33d45-09d6-4b92-b2c3-59b6c91b662c/FinancialsInMicrosoftDynamicsSL2015M02_mid.mp4",
+    "Description": "This module provides an introduction to Accounts Payable It introduces key concepts and features including setup, entering transactions, processing checks, and reporting. [00:47] - Setup Screens[05:09"
+  },
+  {
+    "VideoId": "aeb524c9-0b7f-4122-941f-a34701577c27",
+    "DataApi": "/Entries(guid'aeb524c9-0b7f-4122-941f-a34701577c27')/",
+    "VideoPageLink": "/Series/Financials-in-Microsoft-Dynamics-SL-2015/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0781/c4754e91-6aba-4434-bca3-f7f686d40781/FinancialsInMicrosoftDynamicsSL2015M03_960.jpg",
+    "ShowName": "Financials in Microsoft Dynamics SL 2015",
+    "VideoLength": "00:54:25",
+    "VideoTitle": "Financials in Microsoft Dynamics SL 2015: (03) Accounts Receivable",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-12T05:41:57.6948588Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0781/c4754e91-6aba-4434-bca3-f7f686d40781/FinancialsInMicrosoftDynamicsSL2015M03_mid.mp4",
+    "Description": "This module provides an introduction to Accounts Receivable. It introduces key concepts and features including setup, entering transactions, printing statements, reporting, and using inquiries to view"
+  },
+  {
+    "VideoId": "9462c111-fe10-4e42-9897-a3470157b7f9",
+    "DataApi": "/Entries(guid'9462c111-fe10-4e42-9897-a3470157b7f9')/",
+    "VideoPageLink": "/Series/Financials-in-Microsoft-Dynamics-SL-2015/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b3d1/b3b2c5dd-96a5-4d31-aff0-ac72adb4b3d1/FinancialsInMicrosoftDynamicsSL2015M04_960.jpg",
+    "ShowName": "Financials in Microsoft Dynamics SL 2015",
+    "VideoLength": "00:31:55",
+    "VideoTitle": "Financials in Microsoft Dynamics SL 2015: (04) Cash Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-12T05:42:14.1143779Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b3d1/b3b2c5dd-96a5-4d31-aff0-ac72adb4b3d1/FinancialsInMicrosoftDynamicsSL2015M04_mid.mp4",
+    "Description": "This module provides an introduction to Cash Manager. It introduces key concepts and features including setup, entering transactions, reconciling bank accounts, reporting, and using inquiries. [00:28]"
+  }
+]

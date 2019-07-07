@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "03a06c0b-c9cd-4742-a46a-a2ba01880ca5",
+    "DataApi": "/Entries(guid'03a06c0b-c9cd-4742-a46a-a2ba01880ca5')/",
+    "VideoPageLink": "/Series/System-Center-2012-R2-Advisor-for-IT-Pros/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b1d1/7a1b5d08-47d3-4190-a34d-5c29da7bb1d1/SystemCenter2012R2AdvisorM02_960.jpg",
+    "ShowName": "System Center 2012 R2 Advisor for IT Pros",
+    "VideoLength": "00:09:55",
+    "VideoTitle": "System Center 2012 R2 Advisor for IT Pros: (02) System Center Advisor Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-01-22T16:43:08.9309744Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b1d1/7a1b5d08-47d3-4190-a34d-5c29da7bb1d1/SystemCenter2012R2AdvisorM02_mid.mp4",
+    "Description": "In this module you will learn more about the high level architecture for Advisor and how to deploy the Advisor agent and gateway in your environment. Full course outline: Mod 01: System Center Advisor"
+  },
+  {
+    "VideoId": "d89c1b7f-7bf0-43e7-bdb4-a2ba018843e7",
+    "DataApi": "/Entries(guid'd89c1b7f-7bf0-43e7-bdb4-a2ba018843e7')/",
+    "VideoPageLink": "/Series/System-Center-2012-R2-Advisor-for-IT-Pros/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3aee/7fd73784-0fb8-4d93-a61d-149c6df93aee/SystemCenter2012R2AdvisorM03_960.jpg",
+    "ShowName": "System Center 2012 R2 Advisor for IT Pros",
+    "VideoLength": "00:06:54",
+    "VideoTitle": "System Center 2012 R2 Advisor for IT Pros: (03) Using the Advisor Portal",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-01-22T16:43:31.3135624Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3aee/7fd73784-0fb8-4d93-a61d-149c6df93aee/SystemCenter2012R2AdvisorM03_mid.mp4",
+    "Description": "This module shows you the different features available in the Advisor portal such as viewing Alerts, Configuration Snapshots and Configuration History. Full course outline: Mod 01: System Center Advis"
+  },
+  {
+    "VideoId": "af789812-ab7a-4a54-a5fb-a2ba01887a6d",
+    "DataApi": "/Entries(guid'af789812-ab7a-4a54-a5fb-a2ba01887a6d')/",
+    "VideoPageLink": "/Series/System-Center-2012-R2-Advisor-for-IT-Pros/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9639/58f6292c-ad97-4309-9fe8-f18d96b59639/SystemCenter2012R2AdvisorM04_960.jpg",
+    "ShowName": "System Center 2012 R2 Advisor for IT Pros",
+    "VideoLength": "00:06:59",
+    "VideoTitle": "System Center 2012 R2 Advisor for IT Pros: (04) Operations Manager Integration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-01-22T16:43:58.9889544Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9639/58f6292c-ad97-4309-9fe8-f18d96b59639/SystemCenter2012R2AdvisorM04_mid.mp4",
+    "Description": "In this module you will learn more about the benefits of using Advisor with System Center Operations Manager and how to view Advisor alerts in the Operations Manager console. Full course outline: Mod "
+  }
+]

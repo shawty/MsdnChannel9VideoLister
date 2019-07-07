@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "e7d3cabe-59da-4e73-9c57-a641011cef0f",
+    "DataApi": "/Entries(guid'e7d3cabe-59da-4e73-9c57-a641011cef0f')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/Improving-Your-App-Quality-using-Raygun-Error-Reporting",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/212f/a40cfd3b-0013-4960-b9ff-f56a516f212f/ImprovingYourAppQualityUsingRaygun_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:45:17",
+    "VideoTitle": "Improving Your App Quality using Raygun Error Reporting",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-07-13T23:50:52.5464141Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/212f/a40cfd3b-0013-4960-b9ff-f56a516f212f/ImprovingYourAppQualityUsingRaygun_mid.mp4",
+    "Description": "Join MVP Russ Fustino of Russ' ToolShed, in this hot off the metal session, recorded live at the 2015 Tampa Code Camp, as he shares how he used Raygun in his Jethro Tull endorsed production cross plat"
+  },
+  {
+    "VideoId": "724fd2b4-4c2f-40d6-82aa-a6410132533e",
+    "DataApi": "/Entries(guid'724fd2b4-4c2f-40d6-82aa-a6410132533e')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/Part-1-App-Studio-Building-Univeral-Windows-Apps-with-No-Code",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3456/4e2e8d8b-fd19-4765-9224-bb71c39b3456/Part1AppStudioBuildingUniversalWindowAppsWithNoCo_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:28:36",
+    "VideoTitle": "App Studio Part 1 - Building Universal Windows Apps with No Code",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-07-13T23:51:46.3068438Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3456/4e2e8d8b-fd19-4765-9224-bb71c39b3456/Part1AppStudioBuildingUniversalWindowAppsWithNoCo_mid.mp4",
+    "Description": "It's all about creating quality apps quickly using templates. The enhanced App Studio (now for Windows 10) gives you a great start. Use the new Universal Windows Platform (UWP) - one binary, one proje"
+  },
+  {
+    "VideoId": "48ccdd7f-f3b5-4139-aee3-a6410158d0e3",
+    "DataApi": "/Entries(guid'48ccdd7f-f3b5-4139-aee3-a6410158d0e3')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/Part-2-App-Studio-Data-Graphics-REST-Services-Updates",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/676b/d75a1cee-cd0d-4c65-a177-6dce5092676b/Part2AppStudioDataGraphicsRESTServicesUpdates_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:36:33",
+    "VideoTitle": "App Studio Part 2 - Data, Graphics, REST Services, Updates",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-07-13T23:52:03.1590409Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/676b/d75a1cee-cd0d-4c65-a177-6dce5092676b/Part2AppStudioDataGraphicsRESTServicesUpdates_mid.mp4",
+    "Description": "Join MVP Russ Fustino and all of the Fustino Brothers in this webcast for the Mobile App Dev Tampa (MAD Tampa) as they present to you this hot off the metal session on a deep dive into Microsoft Windo"
+  },
+  {
+    "VideoId": "3965a5bf-85b4-4450-96a0-a64101620c99",
+    "DataApi": "/Entries(guid'3965a5bf-85b4-4450-96a0-a64101620c99')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/App-Studio-Part-3-Know-the-Code",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74d6/f11df0e4-d438-408d-8367-3999599274d6/AppStudioPart3KnowTheCodeInsideWAS_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:40:42",
+    "VideoTitle": "App Studio Part 3 - Know the Code in WAS",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-07-13T23:52:16.0879285Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74d6/f11df0e4-d438-408d-8367-3999599274d6/AppStudioPart3KnowTheCodeInsideWAS_mid.mp4",
+    "Description": "Join Microsoft MVP Russ Fustino, brothers Rich and Gary.  FBI Apps, is proud to resurrect &quot;Russ' ToolShed&quot;!   FBI Apps takes a deep dive into the incredible code that the Windows App Studio "
+  },
+  {
+    "VideoId": "06399e5c-feaa-49e2-bbf7-a643000bab4a",
+    "DataApi": "/Entries(guid'06399e5c-feaa-49e2-bbf7-a643000bab4a')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/RAP-The-Legend-of-Rusty-Crank-Continues",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/865b/2367cd35-e0a7-48b9-972f-4f18f91f865b/TheLegendOfRustyCrankRussCam_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:01:56",
+    "VideoTitle": "RAP: The Legend of Rusty Crank Continues...",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-07-14T01:47:56.5077684Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/865b/2367cd35-e0a7-48b9-972f-4f18f91f865b/TheLegendOfRustyCrankRussCam_mid.mp4",
+    "Description": "This post is just for fun and developer nostalgia. This is a video I did few years back when Heading up Developer Evangelism at ComponentOne/GrapeCity. We did a happy birthday video for INETA. Had fun"
+  },
+  {
+    "VideoId": "8235d94c-ef7d-468d-9408-a64f00141d67",
+    "DataApi": "/Entries(guid'8235d94c-ef7d-468d-9408-a64f00141d67')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/Microsofts-Joe-Darko-delivers-Keynote-on-dev-community--Tampa-Code-Camp",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/024f/704441ed-78c0-4c0c-b229-b62865e0024f/JoeDarkoKeyNoteTampa_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:18:11",
+    "VideoTitle": "Microsoft's Joe Darko delivers Keynote on dev community @ Tampa Code Camp!",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-07-26T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/024f/704441ed-78c0-4c0c-b229-b62865e0024f/JoeDarkoKeyNoteTampa_mid.mp4",
+    "Description": "It was my please to record the keynote at the recent Tampa Code Camp 2016. Joe Darko, Southeast Program Manager Evangelist provides insight on what developer community is all about. Joe, is the MVP le"
+  },
+  {
+    "VideoId": "8fa55486-6b45-45e6-b167-a65101714b2c",
+    "DataApi": "/Entries(guid'8fa55486-6b45-45e6-b167-a65101714b2c')/",
+    "VideoPageLink": "/Series/Russ-ToolShed/Windows-App-Studio-UWP-from-No-Code-to-Code",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d84f/47ba3e69-687a-4866-98cc-f8383e95d84f/AppStudioFromNoCodeToCode3_960.jpg",
+    "ShowName": "Russ' ToolShed",
+    "VideoLength": "00:40:13",
+    "VideoTitle": "Windows App Studio UWP from No Code to Code",
+    "Author": "RussToolShed",
+    "UtcDateTimePublished": "2016-08-15T19:30:51.9435031Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d84f/47ba3e69-687a-4866-98cc-f8383e95d84f/AppStudioFromNoCodeToCode3_mid.mp4",
+    "Description": "Join MVP Russ Fustino and all of the Fustino Brothers in this live studio audience session recorded recently at the Tampa Code Camp. They present a deep dive into Microsoft Windows App Studio. It is a"
+  }
+]

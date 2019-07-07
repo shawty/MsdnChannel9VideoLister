@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "d6444e6a-f9dc-4e01-8232-a437016fa4bf",
+    "DataApi": "/Entries(guid'd6444e6a-f9dc-4e01-8232-a437016fa4bf')/",
+    "VideoPageLink": "/Series/Information-Protection/Azure-RMS-user-experience",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0666/c26e840f-4220-4633-9025-760ebd8f0666/AzureRMSExperience_960.jpg",
+    "ShowName": "Information Protection",
+    "VideoLength": "00:02:00",
+    "VideoTitle": "Azure RMS user experience",
+    "Author": "Danpl / MSFT Info Protection Team",
+    "UtcDateTimePublished": "2015-02-08T07:16:45.7833076Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0666/c26e840f-4220-4633-9025-760ebd8f0666/AzureRMSExperience_mid.mp4",
+    "Description": "This video gives you an overview of Azure RMS user experience "
+  },
+  {
+    "VideoId": "c6dbbe54-81ae-491e-af4b-a47501165b63",
+    "DataApi": "/Entries(guid'c6dbbe54-81ae-491e-af4b-a47501165b63')/",
+    "VideoPageLink": "/Series/Information-Protection/Azure-RMS-Document-Tracking-and-Revocation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/76ac/35499c0a-859c-4a3e-9a5c-fa4e5d0e76ac/AzureRMSDocumentTrackingandRevocation_960.jpg",
+    "ShowName": "Information Protection",
+    "VideoLength": "00:01:52",
+    "VideoTitle": "Azure RMS Document Tracking and Revocation",
+    "Author": "Danpl / MSFT Info Protection Team",
+    "UtcDateTimePublished": "2015-04-10T16:27:33.5287082Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/76ac/35499c0a-859c-4a3e-9a5c-fa4e5d0e76ac/AzureRMSDocumentTrackingandRevocation_mid.mp4",
+    "Description": "Azure RMS Document Tracking and Revocation "
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "d5c0d8ad-e5a3-4a60-9056-a25101344d5f",
+    "DataApi": "/Entries(guid'd5c0d8ad-e5a3-4a60-9056-a25101344d5f')/",
+    "VideoPageLink": "/Series/WindowsServerR2-Storage/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44f0/0d1b9d5f-0afb-498c-86eb-9894f28444f0/WinServer2012R2StorageM02_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Storage",
+    "VideoLength": "00:54:50",
+    "VideoTitle": "Windows Server 2012 R2 Storage: (02) Storage Platform Built on Windows",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-08T20:44:30.1502742Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44f0/0d1b9d5f-0afb-498c-86eb-9894f28444f0/WinServer2012R2StorageM02_mid.mp4",
+    "Description": "In this module you will learn about the new options for on-premises storage in Windows Server 2012 R2.  These features include: Hybrid Storage Pools, Tiered Storage and Persistent Write-Back Cache. [0"
+  },
+  {
+    "VideoId": "990a4955-5fc7-4b19-82a5-a2510134b608",
+    "DataApi": "/Entries(guid'990a4955-5fc7-4b19-82a5-a2510134b608')/",
+    "VideoPageLink": "/Series/WindowsServerR2-Storage/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2f5e/15f2150c-91c3-4613-b54f-28bd94ae2f5e/WinServer2012R2StorageM03_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Storage",
+    "VideoLength": "00:33:27",
+    "VideoTitle": "Windows Server 2012 R2 Storage: (03) Simplified Storage Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-08T20:45:03.4188454Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2f5e/15f2150c-91c3-4613-b54f-28bd94ae2f5e/WinServer2012R2StorageM03_mid.mp4",
+    "Description": "In this module you will learn about the former and new interfaces and features of Storage Management in Windows Server 2012 and 2012 R2. [01:22] - Simplified Storage Management[12:51] - DemoFull cours"
+  },
+  {
+    "VideoId": "7c4dc136-6275-4cd9-894f-a251013510e3",
+    "DataApi": "/Entries(guid'7c4dc136-6275-4cd9-894f-a251013510e3')/",
+    "VideoPageLink": "/Series/WindowsServerR2-Storage/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e598/6019f29f-2aac-4c8d-8e67-9d1fb332e598/WinServer2012R2StorageM04_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Storage",
+    "VideoLength": "00:34:38",
+    "VideoTitle": "Windows Server 2012 R2 Storage: (04) Protecting Your Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-08T20:45:44.924169Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e598/6019f29f-2aac-4c8d-8e67-9d1fb332e598/WinServer2012R2StorageM04_mid.mp4",
+    "Description": "In this module you will learn about the current and new features for protecting your data.  These options include Hyper-V Replica and Replica Extension, Hyper-V Recovery Manager, Storage Spaces and Re"
+  },
+  {
+    "VideoId": "b5638a6e-9003-43ff-9a4e-a25101355c5e",
+    "DataApi": "/Entries(guid'b5638a6e-9003-43ff-9a4e-a25101355c5e')/",
+    "VideoPageLink": "/Series/WindowsServerR2-Storage/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d9f/8e608d4e-399f-4520-825f-5ea963517d9f/WinServer2012R2StorageM05_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Storage",
+    "VideoLength": "00:50:17",
+    "VideoTitle": "Windows Server 2012 R2 Storage: (05) Getting Started",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-08T20:45:59.1011052Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d9f/8e608d4e-399f-4520-825f-5ea963517d9f/WinServer2012R2StorageM05_mid.mp4",
+    "Description": "In this module you will learn how to get in and get these new features running in your environment as well as hearing a case-study demonstrating the effectiveness from an operational and budgeting per"
+  }
+]

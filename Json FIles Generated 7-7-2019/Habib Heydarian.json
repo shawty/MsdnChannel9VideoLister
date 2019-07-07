@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "fc08f589-6119-4402-966c-9deb0178b392",
+    "DataApi": "/Entries(guid'fc08f589-6119-4402-966c-9deb0178b392')/",
+    "VideoPageLink": "/Blogs/Habib+Heydarian/Debugger-Trick-Debug-a-single-Window-or-Form-at-a-time",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/2/0/5/9/7/4/DebugOneForm_large_ch9.png",
+    "ShowName": "Habib Heydarian",
+    "VideoLength": "00:04:26",
+    "VideoTitle": "Debugger Trick: Debug a single Window or Form at a time",
+    "Author": "Habib Heydarian",
+    "UtcDateTimePublished": "2009-07-18T08:27:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/2/0/5/9/7/4/DebugOneForm_ch9.mp4",
+    "Description": "In this short video, I'll cover how to debug a single form or window in a solution that contains multiple windows/forms. For more details, see the following\n\nblog.\n\nHabib Heydarian. "
+  },
+  {
+    "VideoId": "049d3133-77c6-435d-b567-9deb0178b695",
+    "DataApi": "/Entries(guid'049d3133-77c6-435d-b567-9deb0178b695')/",
+    "VideoPageLink": "/Blogs/Habib+Heydarian/Fun%20with%20Breakpoints",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/8/1/4/8/7/4/FunVisualStudioBreakpoints_large_ch9.png",
+    "ShowName": "Habib Heydarian",
+    "VideoLength": "00:01:22",
+    "VideoTitle": "Fun with Breakpoints!",
+    "Author": "Habib Heydarian",
+    "UtcDateTimePublished": "2009-07-13T12:11:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/8/1/4/8/7/4/FunVisualStudioBreakpoints_ch9.mp4",
+    "Description": "This is one of the lesser known and depending on your point of view, either fun or annoying features in the debugger. You can find out more at\nhttps://blogs.msdn.com/habibh.\n"
+  },
+  {
+    "VideoId": "1ad2e90e-f5d3-4517-bccc-9deb00dda364",
+    "DataApi": "/Entries(guid'1ad2e90e-f5d3-4517-bccc-9deb00dda364')/",
+    "VideoPageLink": "/Blogs/Habib+Heydarian/Moving-Code-Around-in-Visual-Studio",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/8/2/8/5/7/4/MovingCodeAroundInVisualStudio_large_ch9.png",
+    "ShowName": "Habib Heydarian",
+    "VideoLength": "00:02:59",
+    "VideoTitle": "Moving Code Around in Visual Studio",
+    "Author": "Habib Heydarian",
+    "UtcDateTimePublished": "2009-06-27T16:58:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/8/2/8/5/7/4/MovingCodeAroundInVisualStudio_ch9.mp4",
+    "Description": "As a developer, one of the common tasks that you do is move code around. In this video, I'll demonstrate how using the Outlining Expansion feature in Visual Studio makes it a whole lot easier to copy "
+  }
+]

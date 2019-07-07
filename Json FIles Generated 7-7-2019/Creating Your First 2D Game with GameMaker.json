@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "3c717abb-3f6a-4b74-bd51-a40601308d92",
+    "DataApi": "/Entries(guid'3c717abb-3f6a-4b74-bd51-a40601308d92')/",
+    "VideoPageLink": "/Series/Creating-Your-First-2D-Game-with-GameMaker/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/97ea/4b7b3719-151a-49bd-b076-3494b1b097ea/367CreatingFirstGameWithGameMakerM02_960.jpg",
+    "ShowName": "Creating Your First 2D Game with GameMaker",
+    "VideoLength": "00:31:08",
+    "VideoTitle": "Creating Your First 2D Game with GameMaker: (02) Movement, Collisions, & Events",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:06:26.7272099Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/97ea/4b7b3719-151a-49bd-b076-3494b1b097ea/367CreatingFirstGameWithGameMakerM02_mid.mp4",
+    "Description": "Work with collisions and collision masks, and learn about room views, creating events, and adding actions to events. [05:44] - Collisions and Collision Masks[21:05] - Room Views[25:47] - Working with "
+  },
+  {
+    "VideoId": "822f0d95-12f2-4719-83fb-a40601309022",
+    "DataApi": "/Entries(guid'822f0d95-12f2-4719-83fb-a40601309022')/",
+    "VideoPageLink": "/Series/Creating-Your-First-2D-Game-with-GameMaker/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d6ab/2b527c51-e7f9-4a7f-9877-f8ab6d62d6ab/367CreatingFirstGameWithGameMakerM03_960.jpg",
+    "ShowName": "Creating Your First 2D Game with GameMaker",
+    "VideoLength": "00:13:05",
+    "VideoTitle": "Creating Your First 2D Game with GameMaker: (03) Finding Assets for Your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:06:36.6813865Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d6ab/2b527c51-e7f9-4a7f-9877-f8ab6d62d6ab/367CreatingFirstGameWithGameMakerM03_mid.mp4",
+    "Description": "Learn how to find assets you can use, and explore OpenGameArt.org and FreeSound.org. [00:34] - Finding Sounds for your game[08:14] - Modifying Sounds using Audacity"
+  },
+  {
+    "VideoId": "6d930fa9-3d62-4e19-9a47-a4060130cd2a",
+    "DataApi": "/Entries(guid'6d930fa9-3d62-4e19-9a47-a4060130cd2a')/",
+    "VideoPageLink": "/Series/Creating-Your-First-2D-Game-with-GameMaker/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e683/2fb502f5-c4d3-447c-b4b2-e58b01ebe683/367CreatingFirstGameWithGameMakerM04_960.jpg",
+    "ShowName": "Creating Your First 2D Game with GameMaker",
+    "VideoLength": "00:48:13",
+    "VideoTitle": "Creating Your First 2D Game with GameMaker: (04) Creating Assets for Your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:06:59.0987101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e683/2fb502f5-c4d3-447c-b4b2-e58b01ebe683/367CreatingFirstGameWithGameMakerM04_mid.mp4",
+    "Description": "Get the details on creating your own assets, including sprites using InkScape and sounds with Audacity and Sound Nation. [01:18] - Creating your own Sprites using Inkscape[39:17] - Creating your own s"
+  },
+  {
+    "VideoId": "b0bc2d72-7e9e-486d-8a5d-a40601310cc4",
+    "DataApi": "/Entries(guid'b0bc2d72-7e9e-486d-8a5d-a40601310cc4')/",
+    "VideoPageLink": "/Series/Creating-Your-First-2D-Game-with-GameMaker/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e9a/537d2d91-87df-41d0-b4f2-078a55046e9a/367CreatingFirstGameWithGameMakerM05_960.jpg",
+    "ShowName": "Creating Your First 2D Game with GameMaker",
+    "VideoLength": "00:18:36",
+    "VideoTitle": "Creating Your First 2D Game with GameMaker: (05) Bringing It All Together",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:07:07.9894256Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e9a/537d2d91-87df-41d0-b4f2-078a55046e9a/367CreatingFirstGameWithGameMakerM05_mid.mp4",
+    "Description": "Take a look at importing sprites and animation, importing sounds, and creating new rooms and animation. [00:42] - Importing Sprites[02:56] - Animations[05:18] - Importing Sounds[08:26] - Creating New "
+  }
+]

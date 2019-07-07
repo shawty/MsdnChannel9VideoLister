@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "5ae10665-9258-4a0a-a4e4-a15a011b491d",
+    "DataApi": "/Entries(guid'5ae10665-9258-4a0a-a4e4-a15a011b491d')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-02-Storage-and-Resource-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ed5b/d21bb9b1-9651-4d5f-be1d-d1980076ed5b/VirtVMwareJS02_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "01:08:43",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (02) Storage and Resource Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:55:07.082111Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ed5b/d21bb9b1-9651-4d5f-be1d-d1980076ed5b/VirtVMwareJS02_mid.mp4",
+    "Description": "This important session covers key considerations regarding Storage Capabilities and Resource Management. Matt and Symon will compare and contrast how Microsoft and VMware leverage such technologies as"
+  },
+  {
+    "VideoId": "bbe314ca-8d0e-430a-ba17-a15a011bb0a6",
+    "DataApi": "/Entries(guid'bbe314ca-8d0e-430a-ba17-a15a011bb0a6')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-03-Security-multi-tenancy-and-flexibility",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e601/206faade-2892-431d-8f0e-02f7b6e0e601/VirtVMwareJS03_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "01:11:54",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (03) Security, multi-tenancy and flexibility",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:55:20.0474452Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e601/206faade-2892-431d-8f0e-02f7b6e0e601/VirtVMwareJS03_mid.mp4",
+    "Description": "During this module, you will learn how Hyper-V compares with VMware in terms of handling Multi-tenancy and Security (Hyper-V Extensible Switch, Networking Performance and Security) as well as Flexible"
+  },
+  {
+    "VideoId": "6062a1b0-d871-4646-979d-a15a011bf450",
+    "DataApi": "/Entries(guid'6062a1b0-d871-4646-979d-a15a011bf450')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-04-High-availability-and-Resiliency",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9db6/fcdb4be0-3e7a-45d7-b260-2a8781f89db6/VirtVMwareJS04_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "01:26:18",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (04) High-availability and Resiliency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:55:35.5019238Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9db6/fcdb4be0-3e7a-45d7-b260-2a8781f89db6/VirtVMwareJS04_mid.mp4",
+    "Description": "During this module, Symon and Matt help students understand the options for Infrastructure Resiliency, including Incremental Backups, Inbox Replication using Hyper-V Replica, and Integrated NIC Teamin"
+  },
+  {
+    "VideoId": "de519bbc-4608-44d4-9907-a15a011c2799",
+    "DataApi": "/Entries(guid'de519bbc-4608-44d4-9907-a15a011c2799')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-05-Introduction-and-Overview-of-System-Center-201",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/77db/bb97e920-509a-43e5-a7f7-74ef5a9677db/VirtVMwareJS05_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "00:32:45",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (05) Introduction and Overview of System Center 2012",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:55:52.9624545Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/77db/bb97e920-509a-43e5-a7f7-74ef5a9677db/VirtVMwareJS05_mid.mp4",
+    "Description": "This important session begins with an overview of Microsoft Private Cloud then quickly moves into a component-by-component comparison of Microsoft System Center 2012 SP1 products with specific offerin"
+  },
+  {
+    "VideoId": "bcc10d84-b75a-4711-b88e-a15a011c6685",
+    "DataApi": "/Entries(guid'bcc10d84-b75a-4711-b88e-a15a011c6685')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-06-Application-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2b59/0682e95f-1010-4f6b-8347-b7c8faa52b59/VirtVMWareJS06b_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "01:40:33",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (06) Application Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:56:07.3031025Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2b59/0682e95f-1010-4f6b-8347-b7c8faa52b59/VirtVMWareJS06b_mid.mp4",
+    "Description": "During this key session, Symon and Matt walk through important Application Management tasks like Constructing, Delivering &amp; Consuming Apps (e.g., service templates, Server App-V, Service Designer)"
+  },
+  {
+    "VideoId": "c2d48a27-64f7-4fae-b974-a15a011cb09a",
+    "DataApi": "/Entries(guid'c2d48a27-64f7-4fae-b974-a15a011cb09a')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-07-Cross-platform-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c37c/83135868-d9f1-4b2b-86a0-33804152c37c/VirtVMwareJS07_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "00:37:02",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (07) Cross-platform Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:56:41.4283799Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c37c/83135868-d9f1-4b2b-86a0-33804152c37c/VirtVMwareJS07_mid.mp4",
+    "Description": "In this module, students experience how Microsoft and VMware compare and contrast in terms of enabling cross-platform management. The session starts with a discussion of options with Citrix XenServer,"
+  },
+  {
+    "VideoId": "b02f9108-54b2-4bad-a8e0-a15a011d0dc3",
+    "DataApi": "/Entries(guid'b02f9108-54b2-4bad-a8e0-a15a011d0dc3')/",
+    "VideoPageLink": "/Series/Microsoft-Virtualization-for-VMware-Professionals-Jump-Start/Virtualization-for-VMware-Professionals-Jump-Start-08-Foundation-Hybrid-Clouds-and-Costs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/af7d/da42061b-9713-45bf-8138-d3d799daaf7d/VirtVMwareJS08_512.jpg",
+    "ShowName": "Microsoft Virtualization for VMware Professionals Jump Start",
+    "VideoLength": "00:24:17",
+    "VideoTitle": "Virtualization for VMware Professionals Jump Start: (08) Foundation, Hybrid Clouds and Costs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-02-06T01:56:58.7432918Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/af7d/da42061b-9713-45bf-8138-d3d799daaf7d/VirtVMwareJS08_mid.mp4",
+    "Description": "Symon and Matt focus on how the Microsoft approach to Private Cloud differs from VMware's in terms of how each provides a Foundation for the Future, and options for a Hybrid Infrastructure. This sessi"
+  }
+]

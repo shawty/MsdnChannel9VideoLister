@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "dcfda860-a6ed-4ce9-9478-a40701792989",
+    "DataApi": "/Entries(guid'dcfda860-a6ed-4ce9-9478-a40701792989')/",
+    "VideoPageLink": "/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f644/ec32e776-489c-4499-9767-42635885f644/578IntroWebSitePythonFlaskM02_960.jpg",
+    "ShowName": "Introduction to Creating Web Sites using Python and Flask",
+    "VideoLength": "00:51:38",
+    "VideoTitle": "Introduction to Creating Web Sites using Python and Flask: (02) Creating Webpages in Flask",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-21T20:07:04.3566561Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f644/ec32e776-489c-4499-9767-42635885f644/578IntroWebSitePythonFlaskM02_mid.mp4",
+    "Description": "Learn about Flask as a great platform from which to create your websites. Explore how URLs are translated to code behind the scenes and how information gets sent from the client to the server. [06:10]"
+  },
+  {
+    "VideoId": "7ed38e80-83dc-4000-8ca8-a40701794c7c",
+    "DataApi": "/Entries(guid'7ed38e80-83dc-4000-8ca8-a40701794c7c')/",
+    "VideoPageLink": "/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c91e/2ae66b4c-4ea0-4f0c-a6a0-4ee866f9c91e/578IntroWebSitePythonFlaskM03_960.jpg",
+    "ShowName": "Introduction to Creating Web Sites using Python and Flask",
+    "VideoLength": "00:50:32",
+    "VideoTitle": "Introduction to Creating Web Sites using Python and Flask: (03) Requesting User Input",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-21T20:07:05.6522675Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c91e/2ae66b4c-4ea0-4f0c-a6a0-4ee866f9c91e/578IntroWebSitePythonFlaskM03_mid.mp4",
+    "Description": "Take the next step from sending basic text to the client to using templates. Learn about forms and how to request and read information from the user. [04:18] - Forms[18:54] - Jinja[26:40] - Building o"
+  },
+  {
+    "VideoId": "45d53bcc-c58e-41fc-845c-a40701796958",
+    "DataApi": "/Entries(guid'45d53bcc-c58e-41fc-845c-a40701796958')/",
+    "VideoPageLink": "/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4061/44856eaa-0d12-4ff3-ac7d-2594d2464061/578IntroWebSitePythonFlaskM04_960.jpg",
+    "ShowName": "Introduction to Creating Web Sites using Python and Flask",
+    "VideoLength": "00:45:25",
+    "VideoTitle": "Introduction to Creating Web Sites using Python and Flask: (04) Data Storage Locations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-21T20:07:38.7934116Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4061/44856eaa-0d12-4ff3-ac7d-2594d2464061/578IntroWebSitePythonFlaskM04_mid.mp4",
+    "Description": "Since nearly every website needs to store data, take a look at the different options available to you as a Developer. Plus, get an intro to Redis. [09:13] - Should I use an XML File?[18:00] - Should I"
+  },
+  {
+    "VideoId": "107f379c-1643-4c57-82dc-a4070179a7bf",
+    "DataApi": "/Entries(guid'107f379c-1643-4c57-82dc-a4070179a7bf')/",
+    "VideoPageLink": "/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5368/cc9549cd-de43-4a2b-9fdb-b0e0e8025368/578IntroWebSitePythonFlaskM05_960.jpg",
+    "ShowName": "Introduction to Creating Web Sites using Python and Flask",
+    "VideoLength": "00:42:54",
+    "VideoTitle": "Introduction to Creating Web Sites using Python and Flask: (05) Creating and Retrieving Redis Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-21T20:07:54.6784869Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5368/cc9549cd-de43-4a2b-9fdb-b0e0e8025368/578IntroWebSitePythonFlaskM05_mid.mp4",
+    "Description": "Dig deeper into Redis, including how to work with Redis data, both reading and writing records.â€‹ [02:09] - Redis keys and values[35:33] - Redis FAQ"
+  },
+  {
+    "VideoId": "04caa93d-a597-4cf2-9b62-a4070179c0e0",
+    "DataApi": "/Entries(guid'04caa93d-a597-4cf2-9b62-a4070179c0e0')/",
+    "VideoPageLink": "/Series/Introduction-to-Creating-Web-Sites-using-Python-and-Flask/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c455/ffc77f10-04d4-496a-be1e-6dde3ac4c455/578IntroWebSitePythonFlaskM06_960.jpg",
+    "ShowName": "Introduction to Creating Web Sites using Python and Flask",
+    "VideoLength": "00:28:08",
+    "VideoTitle": "Introduction to Creating Web Sites using Python and Flask: (06) Cloud Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-21T20:08:38.1097333Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c455/ffc77f10-04d4-496a-be1e-6dde3ac4c455/578IntroWebSitePythonFlaskM06_mid.mp4",
+    "Description": "Find out how to make your application available. Learn the steps required to take the application youâ€™ve built and deploy it to Microsoft Azure. [02:05] - Azure accounts[06:07] - Redis and Azure[16:26"
+  }
+]

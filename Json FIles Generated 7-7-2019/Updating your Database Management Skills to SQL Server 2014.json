@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "9d111b5b-60ff-4d15-b5c6-a2f301601ed8",
+    "DataApi": "/Entries(guid'9d111b5b-60ff-4d15-b5c6-a2f301601ed8')/",
+    "VideoPageLink": "/Series/Updating-your-Database-Management-Skills-to-SQL-Server-2014/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f980/8d489c67-7858-436c-b7e4-cdb9da67f980/UpdateDataManageSkillsSQL2014M02_960.jpg",
+    "ShowName": "Updating your Database Management Skills to SQL Server 2014",
+    "VideoLength": "00:42:27",
+    "VideoTitle": "Updating your Database Management Skills to Microsoft SQL Server 2014 : (02) Mastering Your Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-20T17:16:56.8222416Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f980/8d489c67-7858-436c-b7e4-cdb9da67f980/UpdateDataManageSkillsSQL2014M02_mid.mp4",
+    "Description": "Storing data across multiple, heterogeneous platforms can make it difficult to ensure that the data is consistent and accurate across the enterprise. This module discusses Master Data Services, which "
+  },
+  {
+    "VideoId": "4a31f450-3337-4e38-af1f-a2f301607297",
+    "DataApi": "/Entries(guid'4a31f450-3337-4e38-af1f-a2f301607297')/",
+    "VideoPageLink": "/Series/Updating-your-Database-Management-Skills-to-SQL-Server-2014/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9021/1714b9c5-ff42-4c3e-b69a-1f515c769021/UpdateDataManageSkillsSQL2014M03_960.jpg",
+    "ShowName": "Updating your Database Management Skills to SQL Server 2014",
+    "VideoLength": "00:38:34",
+    "VideoTitle": "Updating your Database Management Skills to Microsoft SQL Server 2014 : (03) Managing Data Quality",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-20T17:17:06.835224Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9021/1714b9c5-ff42-4c3e-b69a-1f515c769021/UpdateDataManageSkillsSQL2014M03_mid.mp4",
+    "Description": "SQL Server 2014 includes Data Quality Services to provide a computer-assisted process for cleansing data values and identifying and removing duplicate data entities. This process reduces the workload "
+  },
+  {
+    "VideoId": "6f93d32d-6ea0-4f64-a709-a2f30160adef",
+    "DataApi": "/Entries(guid'6f93d32d-6ea0-4f64-a709-a2f30160adef')/",
+    "VideoPageLink": "/Series/Updating-your-Database-Management-Skills-to-SQL-Server-2014/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/30a4/15324daa-1b2d-43d3-b365-6fc1af2830a4/UpdateDataManageSkillsSQL2014M04_960.jpg",
+    "ShowName": "Updating your Database Management Skills to SQL Server 2014",
+    "VideoLength": "00:38:40",
+    "VideoTitle": "Updating your Database Management Skills to Microsoft SQL Server 2014 : (04) Always-On High Availability",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-20T17:17:17.4480519Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/30a4/15324daa-1b2d-43d3-b365-6fc1af2830a4/UpdateDataManageSkillsSQL2014M04_mid.mp4",
+    "Description": "Modern organizations operate in an increasingly globalized environment. Consequently, a key requirement for many companies is to reduce planned and unplanned downtime to an absolute minimum and to del"
+  },
+  {
+    "VideoId": "8fbc97ca-4a5a-48ac-be03-a2f30160e5e0",
+    "DataApi": "/Entries(guid'8fbc97ca-4a5a-48ac-be03-a2f30160e5e0')/",
+    "VideoPageLink": "/Series/Updating-your-Database-Management-Skills-to-SQL-Server-2014/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/af96/fe404910-a113-48b9-ac15-d5e818a3af96/UpdateDataManageSkillsSQL2014M05_960.jpg",
+    "ShowName": "Updating your Database Management Skills to SQL Server 2014",
+    "VideoLength": "00:15:26",
+    "VideoTitle": "Updating your Database Management Skills to Microsoft SQL Server 2014 : (05) Managing Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-20T17:17:26.8208918Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/af96/fe404910-a113-48b9-ac15-d5e818a3af96/UpdateDataManageSkillsSQL2014M05_mid.mp4",
+    "Description": "Security of databases and database servers is crucial in all organizations. In this module, find out how SQL Server 2014 builds on a proven security foundation and about several new features and numer"
+  },
+  {
+    "VideoId": "8967e5d1-181b-40b0-92a4-a2f30161239a",
+    "DataApi": "/Entries(guid'8967e5d1-181b-40b0-92a4-a2f30161239a')/",
+    "VideoPageLink": "/Series/Updating-your-Database-Management-Skills-to-SQL-Server-2014/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cfd0/5e831b12-e736-475f-b435-5bd837ddcfd0/UpdateDataManageSkillsSQL2014M06_960.jpg",
+    "ShowName": "Updating your Database Management Skills to SQL Server 2014",
+    "VideoLength": "01:01:51",
+    "VideoTitle": "Updating your Database Management Skills to Microsoft SQL Server 2014 : (06) SQL Server and the Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-20T17:17:36.8121418Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cfd0/5e831b12-e736-475f-b435-5bd837ddcfd0/UpdateDataManageSkillsSQL2014M06_mid.mp4",
+    "Description": "The term &quot;cloud computing&quot; covers a wide range of concepts, technologies, and techniques for creating scalable, flexible, and manageable IT infrastructure solutions. Find out more about SQL "
+  }
+]

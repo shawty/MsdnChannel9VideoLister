@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "a86beb8a-581c-4898-821a-a508005a3134",
+    "DataApi": "/Entries(guid'a86beb8a-581c-4898-821a-a508005a3134')/",
+    "VideoPageLink": "/Blogs/devfish/BlogEngineNET-Azure-based-Blog-Up-and-Running-in-Ten-Minutes",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ea7e/fd54fd0e-5732-48bd-9b81-61de082bea7e/blogengineeasy_960.jpg",
+    "ShowName": "devfish",
+    "VideoLength": "00:17:11",
+    "VideoTitle": "BlogEngine.NET - Azure based Blog Up and Running in Ten Minutes - Stop and Go Tutorial",
+    "Author": "Joe Healy",
+    "UtcDateTimePublished": "2015-09-03T11:59:10.9164669Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ea7e/fd54fd0e-5732-48bd-9b81-61de082bea7e/blogengineeasy_mid.mp4",
+    "Description": "Want to have a quick and easy blog up in ten minutes? No coding! No database! No PHP (koff koff). Follow along as you learn how to setup a blog with BlogEngine 2.9 into an Azure Web App. We deploy Blo"
+  },
+  {
+    "VideoId": "bd5c311f-f847-4d8b-a2a9-a4f1010a6ad2",
+    "DataApi": "/Entries(guid'bd5c311f-f847-4d8b-a2a9-a4f1010a6ad2')/",
+    "VideoPageLink": "/Blogs/devfish/DreamSpark-and-Azure-Activation-for-Students-Stop-and-Go-Tutorial-Video",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6560/4ac2e4f9-3170-4b7d-ab1a-6b6487676560/dreamsparkazureactivationstopngo_960.jpg",
+    "ShowName": "devfish",
+    "VideoLength": "00:16:22",
+    "VideoTitle": "DreamSpark and Azure Activation for Students - Stop and Go Tutorial Video",
+    "Author": "Joe Healy",
+    "UtcDateTimePublished": "2015-08-11T17:39:28.5118488Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6560/4ac2e4f9-3170-4b7d-ab1a-6b6487676560/dreamsparkazureactivationstopngo_mid.mp4",
+    "Description": "DreamSpark for students offers up some great benefits, such as complimentary software and Azure Web Apps.  But sometimes activating DreamSpark and Azure is not quite as clear as we like.  In this vide"
+  },
+  {
+    "VideoId": "817e1400-c791-49b6-be41-a4ee0142d828",
+    "DataApi": "/Entries(guid'817e1400-c791-49b6-be41-a4ee0142d828')/",
+    "VideoPageLink": "/Blogs/devfish/Six-Ways-to-Obtain-and-Activate-Azure-and-counting",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d9e0/53f55d58-f37d-433a-aabf-ff2d6642d9e0/devfishAzureSixWays_960.jpg",
+    "ShowName": "devfish",
+    "VideoLength": "00:16:36",
+    "VideoTitle": "Six Ways to Obtain and Activate Azure (and counting)",
+    "Author": "Joe Healy",
+    "UtcDateTimePublished": "2015-08-08T20:37:24.1962581Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d9e0/53f55d58-f37d-433a-aabf-ff2d6642d9e0/devfishAzureSixWays_mid.mp4",
+    "Description": "Take a look at the various ways you can obtain and active Windows Azure.  Why bother with this?  Depending up on whether you are a startup, enterprise, MSDN subscriber, app developer, or students ther"
+  }
+]

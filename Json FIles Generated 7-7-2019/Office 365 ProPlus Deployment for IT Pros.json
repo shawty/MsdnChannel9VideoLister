@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "acb56384-8355-40a1-be71-a27d0158e295",
+    "DataApi": "/Entries(guid'acb56384-8355-40a1-be71-a27d0158e295')/",
+    "VideoPageLink": "/Series/office365-proplus-deployment/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7edb/08860f68-c3f4-4f66-82d3-75449aa37edb/O365ProPlusDeploymentM02_960.jpg",
+    "ShowName": "Office 365 ProPlus Deployment for IT Pros",
+    "VideoLength": "01:10:13",
+    "VideoTitle": "Office 365 ProPlus Deployment for IT Pros: (02) Office Telemetry Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-22T15:53:20.4417035Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7edb/08860f68-c3f4-4f66-82d3-75449aa37edb/O365ProPlusDeploymentM02_mid.mp4",
+    "Description": "Get an introduction to Office Telemetry, find out what it can do for you, and explore Office Telemetry components. [01:46] - Office Upgrade Challenges[04:32] - Office Telemetry Overview[15:06] - Insid"
+  },
+  {
+    "VideoId": "622c84e4-ae50-4f3a-9c21-a27d015942fd",
+    "DataApi": "/Entries(guid'622c84e4-ae50-4f3a-9c21-a27d015942fd')/",
+    "VideoPageLink": "/Series/office365-proplus-deployment/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1c33/e027d393-2302-40f4-975f-fc85ea011c33/O365ProPlusDeploymentM03_960.jpg",
+    "ShowName": "Office 365 ProPlus Deployment for IT Pros",
+    "VideoLength": "00:49:02",
+    "VideoTitle": "Office 365 ProPlus Deployment for IT Pros: (03) Advanced Telemetry",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-22T15:53:36.237714Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1c33/e027d393-2302-40f4-975f-fc85ea011c33/O365ProPlusDeploymentM03_mid.mp4",
+    "Description": "Discover in-depth details about the Office Telemetry infrastructure, capacity planning, performance, and the Telemetry Dashboard Administration Tool. [02:02] - Telemetry Infrastructure[31:52] - Teleme"
+  },
+  {
+    "VideoId": "342e847e-c090-448e-b8b3-a27d0159860c",
+    "DataApi": "/Entries(guid'342e847e-c090-448e-b8b3-a27d0159860c')/",
+    "VideoPageLink": "/Series/office365-proplus-deployment/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6fa9/a5ddf87f-3d5d-4322-8bb8-02cc16ed6fa9/O365ProPlusDeploymentM04_960.jpg",
+    "ShowName": "Office 365 ProPlus Deployment for IT Pros",
+    "VideoLength": "00:38:05",
+    "VideoTitle": "Office 365 ProPlus Deployment for IT Pros: (04) Telemetry Custom Reporting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-22T15:54:08.3309744Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6fa9/a5ddf87f-3d5d-4322-8bb8-02cc16ed6fa9/O365ProPlusDeploymentM04_mid.mp4",
+    "Description": "Discover in-depth details about the Office Telemetry infrastructure, capacity planning, performance, and the Telemetry Dashboard Administration Tool. [01:33] - Telemetry Custom Reports[18:29] - DemoFu"
+  },
+  {
+    "VideoId": "de566781-848f-43d6-84c2-a27d0159e152",
+    "DataApi": "/Entries(guid'de566781-848f-43d6-84c2-a27d0159e152')/",
+    "VideoPageLink": "/Series/office365-proplus-deployment/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d76/577e4f5b-8173-4219-a57e-32201de23d76/O365ProPlusDeploymentM05_960.jpg",
+    "ShowName": "Office 365 ProPlus Deployment for IT Pros",
+    "VideoLength": "01:05:09",
+    "VideoTitle": "Office 365 ProPlus Deployment for IT Pros: (05) Office 365 ProPlus Click-to-Run Deployment Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-22T15:54:24.1424133Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d76/577e4f5b-8173-4219-a57e-32201de23d76/O365ProPlusDeploymentM05_mid.mp4",
+    "Description": "Hear an introduction to the new streaming and virtualization technology from Microsoft, known as Click-to-Run,  which is used to deploy Office 365 ProPlus. [01:58] - Understanding Click to Run[35:08] "
+  },
+  {
+    "VideoId": "5b2316ff-d169-446e-8674-a27d015a338e",
+    "DataApi": "/Entries(guid'5b2316ff-d169-446e-8674-a27d015a338e')/",
+    "VideoPageLink": "/Series/office365-proplus-deployment/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9a60/4a0830ff-345f-4ea6-8a61-4fe51a9c9a60/O365ProPlusDeploymentM06_960.jpg",
+    "ShowName": "Office 365 ProPlus Deployment for IT Pros",
+    "VideoLength": "00:56:09",
+    "VideoTitle": "Office 365 ProPlus Deployment for IT Pros: (06) Click-to-Run Deep Dive",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-22T15:54:40.9132967Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9a60/4a0830ff-345f-4ea6-8a61-4fe51a9c9a60/O365ProPlusDeploymentM06_mid.mp4",
+    "Description": "Explore the internals of Click-to-Run, how it works, and real-world tips and tricks that enable you to successfully deploy Office 365 ProPlus. [02:43] - Understanding the Folder Structure[19:49] - Man"
+  },
+  {
+    "VideoId": "4b1e15ec-ef47-418e-ab02-a27d015a7d7e",
+    "DataApi": "/Entries(guid'4b1e15ec-ef47-418e-ab02-a27d015a7d7e')/",
+    "VideoPageLink": "/Series/office365-proplus-deployment/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eed8/fdac98ce-7f4b-4c30-ace4-64a5d48ceed8/O365ProPlusDeploymentM07_960.jpg",
+    "ShowName": "Office 365 ProPlus Deployment for IT Pros",
+    "VideoLength": "00:43:51",
+    "VideoTitle": "Office 365 ProPlus Deployment for IT Pros: (07) Office and App-V",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-22T15:54:52.2953322Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eed8/fdac98ce-7f4b-4c30-ace4-64a5d48ceed8/O365ProPlusDeploymentM07_mid.mp4",
+    "Description": "Find out how Office 365 ProPlus and App-V work together and the advantages of this approach, and see demonstrations. [02:35] - Office and Application Virtualization 5.0[11:57] - Building an App-V Pack"
+  }
+]

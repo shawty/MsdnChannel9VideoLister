@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "4c474163-4860-4ae2-ba4c-9dec0009a9c6",
+    "DataApi": "/Entries(guid'4c474163-4860-4ae2-ba4c-9dec0009a9c6')/",
+    "VideoPageLink": "/Blogs/yizhe/Schools-Near-Me-Virtual-Earth",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2e77/b6613437-ace9-4909-bcc4-2233e6fa2e77/Schools-Near-Me-Virtual-Earth_960.jpg",
+    "ShowName": "yizhe",
+    "VideoLength": "00:09:53",
+    "VideoTitle": "Schools Near Me - Virtual Earth",
+    "Author": "yizhe",
+    "UtcDateTimePublished": "2008-06-17T07:10:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2e77/b6613437-ace9-4909-bcc4-2233e6fa2e77/Schools-Near-Me-Virtual-Earth_mid.mp4",
+    "Description": "In Singaporeâ€™s Microsoft Innovation Centre,  we have been innovating on Virtual Earth. In this quick chat, I caught up with Alvin Poh, to find out what innovation he has been working on. Dubbed â€œSchoo"
+  },
+  {
+    "VideoId": "d13661c6-70f2-4ceb-8ec4-9dec0009aeaa",
+    "DataApi": "/Entries(guid'd13661c6-70f2-4ceb-8ec4-9dec0009aeaa')/",
+    "VideoPageLink": "/Blogs/yizhe/SQL-Data-Mining",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/108b/5a207589-6d84-4cd2-bfb8-6ebcdc17108b/SQL-Data-Mining_960.jpg",
+    "ShowName": "yizhe",
+    "VideoLength": "00:20:50",
+    "VideoTitle": "SQL Data Mining",
+    "Author": "yizhe",
+    "UtcDateTimePublished": "2008-06-02T11:01:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/108b/5a207589-6d84-4cd2-bfb8-6ebcdc17108b/SQL-Data-Mining_mid.mp4",
+    "Description": "\nIn a recent Heroes Community Launch, Dennis (IT Pro Evangelist) caught up with SQL Server MVP, Wee Hyong, who is one of the brains behind a local community event. The event combines 3 local communit"
+  },
+  {
+    "VideoId": "1fd1253c-6272-4b24-99bd-9dec0009ba55",
+    "DataApi": "/Entries(guid'1fd1253c-6272-4b24-99bd-9dec0009ba55')/",
+    "VideoPageLink": "/Blogs/yizhe/Microsoft-SQL2008-Nov-CTP-Spatial-Part-13",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b2b8/cfaa8baa-4793-4532-b225-4c347b8eb2b8/Microsoft-SQL2008-Nov-CTP-Spatial-Part-13_960.jpg",
+    "ShowName": "yizhe",
+    "VideoLength": "00:11:11",
+    "VideoTitle": "Microsoft SQL2008 Nov CTP - Spatial (Part 1/3)",
+    "Author": "yizhe",
+    "UtcDateTimePublished": "2007-12-07T05:59:56Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b2b8/cfaa8baa-4793-4532-b225-4c347b8eb2b8/Microsoft-SQL2008-Nov-CTP-Spatial-Part-13_mid.mp4",
+    "Description": "\nIn this video, we have Wee Hyong (Singapore SQL MVP) doing a short discussion with us about the cool features found in SQL 2008 Nov CTP. He will also be talking about the new spatial support found i"
+  },
+  {
+    "VideoId": "f940b392-5a7c-46e5-b0a0-9dec0009b78e",
+    "DataApi": "/Entries(guid'f940b392-5a7c-46e5-b0a0-9dec0009b78e')/",
+    "VideoPageLink": "/Blogs/yizhe/Developing-your-first-Virtual-Earth-application",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "b7fe44ab-170e-4504-9388-9dec0009c335",
+    "DataApi": "/Entries(guid'b7fe44ab-170e-4504-9388-9dec0009c335')/",
+    "VideoPageLink": "/Blogs/yizhe/Building-portals-with-Silverlight-AJAX-and-Cardspace",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

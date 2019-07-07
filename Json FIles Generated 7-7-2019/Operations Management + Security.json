@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "8584f31a-f37a-4fc4-948c-a71c0007459e",
+    "DataApi": "/Entries(guid'8584f31a-f37a-4fc4-948c-a71c0007459e')/",
+    "VideoPageLink": "/Series/Operations-Management--Security/Network-Performance-Monitor-Deep-Dive",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b75/1ac88fe4-9d06-4b74-aef7-9df1e3ac9b75/NPMDeepDive_960.jpg",
+    "ShowName": "Operations Management + Security",
+    "VideoLength": "00:30:19",
+    "VideoTitle": "Network Performance Monitor Deep Dive",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2017-02-20T20:43:37.1590923Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b75/1ac88fe4-9d06-4b74-aef7-9df1e3ac9b75/NPMDeepDive_mid.mp4",
+    "Description": "Get visibility into network latency, performance and availability within Azure and beyond As you manage your cloud applications, it is important to get visibility into the virtual network connections "
+  },
+  {
+    "VideoId": "b3319f7a-d0d1-441a-a3b6-a76d00ebdd46",
+    "DataApi": "/Entries(guid'b3319f7a-d0d1-441a-a3b6-a76d00ebdd46')/",
+    "VideoPageLink": "/Series/Operations-Management--Security/OMS-ITSM-Connector-to-System-Center-Service-Manager",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51fc/ac200700-cb6a-4ff9-baf6-2ec0ccdd51fc/OMSITSMSCSM_960.jpg",
+    "ShowName": "Operations Management + Security",
+    "VideoLength": "00:15:05",
+    "VideoTitle": "OMS ITSM Connector to System Center Service Manager",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2017-05-10T00:33:38.0015048Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51fc/ac200700-cb6a-4ff9-baf6-2ec0ccdd51fc/OMSITSMSCSM_mid.mp4",
+    "Description": "Improve your service levels with centralized access to help desk info and log data In today's world, organizations need to drive innovation faster to market. To support this need for speed, IT is expe"
+  },
+  {
+    "VideoId": "e05bec88-1aca-405b-a231-a76d00ecc963",
+    "DataApi": "/Entries(guid'e05bec88-1aca-405b-a231-a76d00ecc963')/",
+    "VideoPageLink": "/Series/Operations-Management--Security/OMS-ITSM-Connector-to-Cherwell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b0f/8e323513-f85f-4578-91b8-233feea99b0f/OMSITSMCherwell_960.jpg",
+    "ShowName": "Operations Management + Security",
+    "VideoLength": "00:12:04",
+    "VideoTitle": "OMS ITSM Connector to Cherwell",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2017-05-10T00:34:03.6587812Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b0f/8e323513-f85f-4578-91b8-233feea99b0f/OMSITSMCherwell_mid.mp4",
+    "Description": "Improve your service levels with centralized access to help desk info and log data In today's world, organizations need to drive innovation faster to market. To support this need for speed, IT is expe"
+  },
+  {
+    "VideoId": "71b312e4-826b-4ef8-9b5c-a76d00eded2f",
+    "DataApi": "/Entries(guid'71b312e4-826b-4ef8-9b5c-a76d00eded2f')/",
+    "VideoPageLink": "/Series/Operations-Management--Security/OMS-ITSM-Connector-to-Dynamics-based-Provance",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e37/3b5b2124-de15-4554-b07d-0e286ca16e37/OMSITSMPROVANCE_960.jpg",
+    "ShowName": "Operations Management + Security",
+    "VideoLength": "00:08:32",
+    "VideoTitle": "OMS ITSM Connector to Dynamics based Provance",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2017-05-10T00:34:12.7782974Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e37/3b5b2124-de15-4554-b07d-0e286ca16e37/OMSITSMPROVANCE_mid.mp4",
+    "Description": "Improve your service levels with centralized access to help desk info and log data In today's world, organizations need to drive innovation faster to market. To support this need for speed, IT is expe"
+  },
+  {
+    "VideoId": "d9f6d8a8-da88-4384-85f6-a76d00ed232e",
+    "DataApi": "/Entries(guid'd9f6d8a8-da88-4384-85f6-a76d00ed232e')/",
+    "VideoPageLink": "/Series/Operations-Management--Security/OMS-ITSM-Connector-to-ServiceNow",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/298b/934a55e4-1c03-486a-9261-afc00581298b/OMSITSMSNOW_960.jpg",
+    "ShowName": "Operations Management + Security",
+    "VideoLength": "00:12:41",
+    "VideoTitle": "OMS ITSM Connector to ServiceNow",
+    "Author": "rpraveen",
+    "UtcDateTimePublished": "2017-05-10T00:34:21.2409169Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/298b/934a55e4-1c03-486a-9261-afc00581298b/OMSITSMSNOW_mid.mp4",
+    "Description": "Improve your service levels with centralized access to help desk info and log data In today's world, organizations need to drive innovation faster to market. To support this need for speed, IT is expe"
+  }
+]

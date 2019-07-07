@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "7ea7455e-6c98-43b9-8cb5-9deb003c6aaf",
+    "DataApi": "/Entries(guid'7ea7455e-6c98-43b9-8cb5-9deb003c6aaf')/",
+    "VideoPageLink": "/Shows/VS2010Launch/Doug-Seven-Improving-Developer-Tester-Collaboration-with-Microsoft-Visual-Studio-2010",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/6/7/6/2/4/5/VS2010LaunchDeveloperTesterCollaboration_512_ch9.png",
+    "ShowName": "Visual Studio 2010 Launch",
+    "VideoLength": "00:39:59",
+    "VideoTitle": "Doug Seven: Improving Developer-Tester Collaboration with Microsoft Visual Studio 2010",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2010-04-13T04:26:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/6/7/6/2/4/5/VS2010LaunchDeveloperTesterCollaboration_ch9.mp4",
+    "Description": "Effective collaboration between developers and testers is paramount and can make the difference between shipping quality applications on time, or slipping because bugs are found late.\n\n\nIn this ses"
+  },
+  {
+    "VideoId": "f430c3ab-3c03-4702-9715-9deb003c6512",
+    "DataApi": "/Entries(guid'f430c3ab-3c03-4702-9715-9deb003c6512')/",
+    "VideoPageLink": "/Shows/VS2010Launch/Proactive-Project-Management-with-Visual-Studio-2010",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/3/7/2/4/5/ProjectManagementVS2010_512_ch9.png",
+    "ShowName": "Visual Studio 2010 Launch",
+    "VideoLength": "00:49:34",
+    "VideoTitle": "Sean McBreen: Proactive Project Management with Visual Studio 2010",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2010-04-13T04:26:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/3/7/2/4/5/ProjectManagementVS2010_ch9.mp4",
+    "Description": "Successful projects share a number of common characteristics â€“ tight integration between the ground level practitioner and project management, agile methodologies such as Scrum are taking hold in main"
+  },
+  {
+    "VideoId": "c5e67f92-794c-4d49-a1d8-9deb003c7bf1",
+    "DataApi": "/Entries(guid'c5e67f92-794c-4d49-a1d8-9deb003c7bf1')/",
+    "VideoPageLink": "/Shows/VS2010Launch/Sam-Gazitt-SharePoint-and-Office-Development-with-Visual-Studio-2010",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/7/6/2/4/5/VS2010SharePointOffice_512_ch9.png",
+    "ShowName": "Visual Studio 2010 Launch",
+    "VideoLength": "00:58:36",
+    "VideoTitle": "Sam Gazitt: SharePoint and Office Development with Visual Studio 2010",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2010-04-12T16:25:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/7/6/2/4/5/VS2010SharePointOffice_ch9.mp4",
+    "Description": "\nMany customers are turning to SharePoint as a way of meeting changing business needs and managing IT costs and complexity. Visual Studio 2010 provides new support for SharePoint 2010 development, in"
+  },
+  {
+    "VideoId": "f012bc0b-0ff6-4664-801c-9deb003c7242",
+    "DataApi": "/Entries(guid'f012bc0b-0ff6-4664-801c-9deb003c7242')/",
+    "VideoPageLink": "/Shows/VS2010Launch/Paul-Yuknewicz-Windows-Development-with-Visual-Studio-2010",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/3/7/2/4/5/WindowsDev2010_512_ch9.png",
+    "ShowName": "Visual Studio 2010 Launch",
+    "VideoLength": "01:10:18",
+    "VideoTitle": "Paul Yuknewicz: Windows Development with Visual Studio 2010",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2010-04-12T16:25:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/3/7/2/4/5/WindowsDev2010_ch9.mp4",
+    "Description": "The end users of your applications are being exposed to radical new experiences on Windows every day.  The applications they use in their day-to-day jobs are starting to take advantage of hardware-acc"
+  },
+  {
+    "VideoId": "d48aff8e-3528-4091-b73b-9deb003c5aa2",
+    "DataApi": "/Entries(guid'd48aff8e-3528-4091-b73b-9deb003c5aa2')/",
+    "VideoPageLink": "/Shows/VS2010Launch/Doug-Seven-Code-Understanding-and-Systems-Design-with-Visual-Studio-2010",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/7/7/6/2/4/5/VS2010CodeUnderstanding_512_ch9.png",
+    "ShowName": "Visual Studio 2010 Launch",
+    "VideoLength": "00:37:55",
+    "VideoTitle": "Doug Seven: Code Understanding and Systems Design with Visual Studio 2010",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2010-04-12T16:25:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/7/7/6/2/4/5/VS2010CodeUnderstanding_ch9.mp4",
+    "Description": "Visual Studio 2010 introduces an entirely new set of architecture tools to aide in both understanding the code you already have and in defining how new systems will be built.\n\n\nIn this session, you"
+  }
+]

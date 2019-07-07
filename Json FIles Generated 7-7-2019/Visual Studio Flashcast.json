@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "f6a5f1c2-e371-4845-ab51-a46d01580f88",
+    "DataApi": "/Entries(guid'f6a5f1c2-e371-4845-ab51-a46d01580f88')/",
+    "VideoPageLink": "/series/Visual-Studio-Flashcast/Create-a-SQL-Server-Cluster-in-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a68/6a2da5b8-a216-4672-9793-6f2e3c8b3a68/CreateSQLServerClusterInAzure_960.jpg",
+    "ShowName": "Visual Studio Flashcast",
+    "VideoLength": "00:02:49",
+    "VideoTitle": "Create a SQL Server Cluster in Azure",
+    "Author": "krislankford",
+    "UtcDateTimePublished": "2015-04-01T21:46:15.6753046Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a68/6a2da5b8-a216-4672-9793-6f2e3c8b3a68/CreateSQLServerClusterInAzure_mid.mp4",
+    "Description": "This short video will show you how to quickly create a SQL Server Cluster in Microsoft Azure. "
+  },
+  {
+    "VideoId": "47d4ebfc-cdb7-49d6-a156-a46d015731af",
+    "DataApi": "/Entries(guid'47d4ebfc-cdb7-49d6-a156-a46d015731af')/",
+    "VideoPageLink": "/series/Visual-Studio-Flashcast/Create-a-Virtual-Machine-in-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2433/66b44eb4-b8ab-48f8-a9af-4b4264a92433/CreateVMInAzure_960.jpg",
+    "ShowName": "Visual Studio Flashcast",
+    "VideoLength": "00:03:30",
+    "VideoTitle": "Create a Virtual Machine in Azure",
+    "Author": "krislankford",
+    "UtcDateTimePublished": "2015-04-01T21:46:53.0878276Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2433/66b44eb4-b8ab-48f8-a9af-4b4264a92433/CreateVMInAzure_mid.mp4",
+    "Description": "This short video shows you how to quickly build a Virtual Machine in Microsoft Azure. "
+  },
+  {
+    "VideoId": "7936f7b6-8208-48e7-b4df-a46d01537485",
+    "DataApi": "/Entries(guid'7936f7b6-8208-48e7-b4df-a46d01537485')/",
+    "VideoPageLink": "/series/Visual-Studio-Flashcast/Creating-a-SharePoint-Farm-in-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9350/3a4cc65b-1bfe-4db4-b783-10beb8379350/CreateSharePointFarminAzure_960.jpg",
+    "ShowName": "Visual Studio Flashcast",
+    "VideoLength": "00:03:37",
+    "VideoTitle": "Creating a SharePoint Farm in Azure",
+    "Author": "krislankford",
+    "UtcDateTimePublished": "2015-04-01T22:15:52.5643932Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9350/3a4cc65b-1bfe-4db4-b783-10beb8379350/CreateSharePointFarminAzure_mid.mp4",
+    "Description": "This is a short video on how to create a SharePoint Farm in Microsoft Azure "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "cd4ad090-0236-4cb0-a8cd-a76d0130d241",
+    "DataApi": "/Entries(guid'cd4ad090-0236-4cb0-a8cd-a76d0130d241')/",
+    "VideoPageLink": "/Shows/Data-Science-Best-Practices/Winning-with-Data-Science--7-Pro-Tips-for-Successful-Projects",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1a43/df53e346-9c35-4432-85ff-7dda5ace1a43/7TipsWinningwithDataScience_960.jpg",
+    "ShowName": "Data Science Best Practices",
+    "VideoLength": "00:51:31",
+    "VideoTitle": "Winning with Data Science â€“ 7 Pro Tips for Successful Projects",
+    "Author": "Wee Hyong",
+    "UtcDateTimePublished": "2017-05-16T16:30:14.5931919Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1a43/df53e346-9c35-4432-85ff-7dda5ace1a43/7TipsWinningwithDataScience_mid.mp4",
+    "Description": "Why do some companies drown in volumes of data, while others thrive on distilling  the data into golden strategic advantages? How do business stakeholders and data scientists work together to leverage"
+  }
+]

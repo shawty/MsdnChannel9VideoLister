@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c45ae2ae-e8df-4fb4-bf5d-a644009024c2",
+    "DataApi": "/Entries(guid'c45ae2ae-e8df-4fb4-bf5d-a644009024c2')/",
+    "VideoPageLink": "/Shows/Context/Cortana",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3eec/a472a5c3-59cb-4716-bede-05d043633eec/ContextHeyCortana_960.jpg",
+    "ShowName": "Context",
+    "VideoLength": "00:39:31",
+    "VideoTitle": "Hey Cortana",
+    "Author": "Mike Taulty",
+    "UtcDateTimePublished": "2016-07-18T08:26:10.538026Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3eec/a472a5c3-59cb-4716-bede-05d043633eec/ContextHeyCortana_mid.mp4",
+    "Description": "Hey Cortana! We're back with another show around more natural interactions and more personal computing using device and cloud technology and this time we're looking at Cortana. In this show we add Cor"
+  },
+  {
+    "VideoId": "7c79396a-3297-4235-bb92-a62e00ab774d",
+    "DataApi": "/Entries(guid'7c79396a-3297-4235-bb92-a62e00ab774d')/",
+    "VideoPageLink": "/Shows/Context/Pen-and-Ink",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09d0/ce957339-c422-42bd-b99e-298ba4da09d0/C9ContextPenInk_960.jpg",
+    "ShowName": "Context",
+    "VideoLength": "00:43:27",
+    "VideoTitle": "Pen and Ink",
+    "Author": "Mike Taulty",
+    "UtcDateTimePublished": "2016-06-27T19:34:19.4941884Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09d0/ce957339-c422-42bd-b99e-298ba4da09d0/C9ContextPenInk_mid.mp4",
+    "Description": "They said it couldn't be done ;) but we're back with another episode of 'Context' where this time we're looking at digital ink and digitised pens. Inking has long been a focus of Microsoft and the mod"
+  },
+  {
+    "VideoId": "e2963ffd-a5ee-4b96-b12d-a61200bc417b",
+    "DataApi": "/Entries(guid'e2963ffd-a5ee-4b96-b12d-a61200bc417b')/",
+    "VideoPageLink": "/Shows/Context/Hands",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9533/6518a7da-cda0-46e7-a655-31dd28339533/ContextShowHands_960.jpg",
+    "ShowName": "Context",
+    "VideoLength": "00:33:20",
+    "VideoTitle": "Hands",
+    "Author": "Mike Taulty",
+    "UtcDateTimePublished": "2016-05-31T06:45:50.7088762Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9533/6518a7da-cda0-46e7-a655-31dd28339533/ContextShowHands_mid.mp4",
+    "Description": "In this episode of 'Context', we take a look at working with hands starting with some simple ideas around using pointers for touch, mouse, pen and then branching off into the 3D plane with cameras lik"
+  },
+  {
+    "VideoId": "67094f41-9c48-4df1-ae81-a60100e2a7c2",
+    "DataApi": "/Entries(guid'67094f41-9c48-4df1-ae81-a60100e2a7c2')/",
+    "VideoPageLink": "/Shows/Context/Faces",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f38/9c010a6d-eba2-45c8-baca-63106b307f38/ContextEpisode2_960.jpg",
+    "ShowName": "Context",
+    "VideoLength": "00:39:05",
+    "VideoTitle": "Faces",
+    "Author": "Mike Taulty",
+    "UtcDateTimePublished": "2016-05-09T18:57:01.507352Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f38/9c010a6d-eba2-45c8-baca-63106b307f38/ContextEpisode2_mid.mp4",
+    "Description": "In this episode of 'Context', we take a look at facial technologies and how we can make use of face detection and recognition in modern, Universal Windows Apps and also how we can use some of the addi"
+  },
+  {
+    "VideoId": "e25da24e-cc01-4a72-b78a-a5e9010b8fc5",
+    "DataApi": "/Entries(guid'e25da24e-cc01-4a72-b78a-a5e9010b8fc5')/",
+    "VideoPageLink": "/Shows/Context/Speech",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/04c5/69e8c9da-0e3f-4276-82ba-f0bae7ed04c5/ContextEpisode1_960.jpg",
+    "ShowName": "Context",
+    "VideoLength": "00:31:30",
+    "VideoTitle": "Speech",
+    "Author": "Mike Taulty",
+    "UtcDateTimePublished": "2016-04-18T11:11:42.228297Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/04c5/69e8c9da-0e3f-4276-82ba-f0bae7ed04c5/ContextEpisode1_mid.mp4",
+    "Description": "In this first episode of 'Context', we take a look at speech technologies, looking at how we can make use of speech in modern, Universal Windows Apps but also how we can use some of the additional Mic"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "20e8629f-e386-43be-8764-a40201807ad8",
+    "DataApi": "/Entries(guid'20e8629f-e386-43be-8764-a40201807ad8')/",
+    "VideoPageLink": "/Blogs/AdamTuliper/Custom-Gestures-with-the-Kinect-v2-for-Windows",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d5e/4e9d8527-4aa6-4f34-a34e-51dd52e33d5e/CustomGesturesKinectV2forWindows_960.jpg",
+    "ShowName": "AdamTuliper",
+    "VideoLength": "00:24:00",
+    "VideoTitle": "Custom Gestures with the Kinect v2 for Windows",
+    "Author": "Adam Tuliper",
+    "UtcDateTimePublished": "2014-12-16T01:25:23.2296853Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d5e/4e9d8527-4aa6-4f34-a34e-51dd52e33d5e/CustomGesturesKinectV2forWindows_mid.mp4",
+    "Description": "Want to get up and running FAST in learning the basics of custom gesture recognition for Kinect v2 for Windows? This video is a quick start to learning how to record custom gestures with the Kinect, t"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "0ac45719-8de0-484f-b8eb-9dea011bd98d",
+    "DataApi": "/Entries(guid'0ac45719-8de0-484f-b8eb-9dea011bd98d')/",
+    "VideoPageLink": "/Blogs/Nichop/Real-world-WPF-Introduction-to-Blend-Part3",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "12d3bda3-d92e-42a7-8bd0-9dea011bdd3a",
+    "DataApi": "/Entries(guid'12d3bda3-d92e-42a7-8bd0-9dea011bdd3a')/",
+    "VideoPageLink": "/Blogs/Nichop/Real-world-WPF-Introduction-to-Blend-Part2",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "9327dc28-316e-46b9-a973-9dea011be0bd",
+    "DataApi": "/Entries(guid'9327dc28-316e-46b9-a973-9dea011be0bd')/",
+    "VideoPageLink": "/Blogs/Nichop/Real-world-WPF-Introduction-to-Blend-Part1",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "616dabba-8410-49f6-a021-9dea011be454",
+    "DataApi": "/Entries(guid'616dabba-8410-49f6-a021-9dea011be454')/",
+    "VideoPageLink": "/Blogs/Nichop/Real-world-WPF-BSF-Showcase-behind-the-scenes",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "a705f0f7-2011-45f6-9781-9dea011be934",
+    "DataApi": "/Entries(guid'a705f0f7-2011-45f6-9781-9dea011be934')/",
+    "VideoPageLink": "/Blogs/Nichop/Real-world-WPF-BSF-Showcase",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "ae4dad55-855b-43c8-8a5e-a307018574fc",
+    "DataApi": "/Entries(guid'ae4dad55-855b-43c8-8a5e-a307018574fc')/",
+    "VideoPageLink": "/Series/Building-Blocks-Extend-Cloud-Connected-Mobile-Apps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ffba/52b0df7c-9c3d-4a44-94cb-718c0591ffba/BuildingBlocksExtendM02_960.jpg",
+    "ShowName": "Building Blocks: Extend() Cloud-Connected Mobile Apps",
+    "VideoLength": "00:52:33",
+    "VideoTitle": "Building Blocks - Extend() Cloud-Connected Mobile Apps: (02) Enhance Your Mobile Engagement Strategy with Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:52:59.171289Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ffba/52b0df7c-9c3d-4a44-94cb-718c0591ffba/BuildingBlocksExtendM02_mid.mp4",
+    "Description": "To build a cross-platform mobile app capable of delivering a truly personalized and responsive experience, you need to effectively utilize mobile push notifications. Learn different aspects of a robus"
+  },
+  {
+    "VideoId": "ee56f57e-35dc-476f-992b-a3070185ca72",
+    "DataApi": "/Entries(guid'ee56f57e-35dc-476f-992b-a3070185ca72')/",
+    "VideoPageLink": "/Series/Building-Blocks-Extend-Cloud-Connected-Mobile-Apps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d681/5bf9b478-fede-4467-a4c4-2c6362cbd681/BuildingBlocksExtendM03_960.jpg",
+    "ShowName": "Building Blocks: Extend() Cloud-Connected Mobile Apps",
+    "VideoLength": "00:44:48",
+    "VideoTitle": "Building Blocks - Extend() Cloud-Connected Mobile Apps: (03) Build Cloud Connected iOS, Android, and Windows Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:53:10.3093051Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d681/5bf9b478-fede-4467-a4c4-2c6362cbd681/BuildingBlocksExtendM03_mid.mp4",
+    "Description": "Get up to speed on some advanced scenarios you may face when you're actually ready to deploy a cross-platform app. Learn about saving to blob storage, customer authentication, script versioning, and m"
+  },
+  {
+    "VideoId": "b7ecc806-6bbb-4ea2-b545-a30701861ffd",
+    "DataApi": "/Entries(guid'b7ecc806-6bbb-4ea2-b545-a30701861ffd')/",
+    "VideoPageLink": "/Series/Building-Blocks-Extend-Cloud-Connected-Mobile-Apps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b4d2/598571f8-29a7-4c58-8da4-98e06de2b4d2/BuildingBlocksExtendM04_960.jpg",
+    "ShowName": "Building Blocks: Extend() Cloud-Connected Mobile Apps",
+    "VideoLength": "00:44:20",
+    "VideoTitle": "Building Blocks - Extend() Cloud-Connected Mobile Apps: (04) Mobilize Your Workforce",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:53:20.5025449Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b4d2/598571f8-29a7-4c58-8da4-98e06de2b4d2/BuildingBlocksExtendM04_mid.mp4",
+    "Description": "Recent updates to Mobile Services make it easier than ever to add a mobility layer to existing enterprise systems and data. See how to take advantage of key features, and explore reference architectur"
+  }
+]

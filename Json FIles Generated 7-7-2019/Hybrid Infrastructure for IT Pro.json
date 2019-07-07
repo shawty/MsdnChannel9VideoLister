@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "4c8965d9-3343-4428-9b58-a5f50060a8a4",
+    "DataApi": "/Entries(guid'4c8965d9-3343-4428-9b58-a5f50060a8a4')/",
+    "VideoPageLink": "/series/Hybrid-Infra-ITPro/Windows-Server-2016-Virtualization",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ab61/89d1d244-6811-455d-9e10-8b5bf7d1ab61/Virtulization_960.jpg",
+    "ShowName": "Hybrid Infrastructure for IT Pro",
+    "VideoLength": "00:59:12",
+    "VideoTitle": "Windows Server 2016 Virtualization",
+    "Author": "anmi",
+    "UtcDateTimePublished": "2016-05-05T01:41:41.0688036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ab61/89d1d244-6811-455d-9e10-8b5bf7d1ab61/Virtulization_mid.mp4",
+    "Description": "In this session we will discuss what's new in Virtualization in Windows Server 2016 including increases in security and flexibility and improvements in deployment and Hyper-V Containers. "
+  },
+  {
+    "VideoId": "b7285cc6-f61b-45e9-92fa-a5f5005388bc",
+    "DataApi": "/Entries(guid'b7285cc6-f61b-45e9-92fa-a5f5005388bc')/",
+    "VideoPageLink": "/series/Hybrid-Infra-ITPro/Bringing-the-cloud-to-your-Datacentre",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bdd4/27e8107b-9ca7-44f0-b0cf-ecf289a0bdd4/Datacentre_960.jpg",
+    "ShowName": "Hybrid Infrastructure for IT Pro",
+    "VideoLength": "00:59:52",
+    "VideoTitle": "Bringing the cloud to your Datacentre",
+    "Author": "anmi",
+    "UtcDateTimePublished": "2016-05-05T01:41:58.1227805Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bdd4/27e8107b-9ca7-44f0-b0cf-ecf289a0bdd4/Datacentre_mid.mp4",
+    "Description": "In this session we will introduce the set of technologies that make up Microsoft Software defined datacentre solutions. "
+  }
+]

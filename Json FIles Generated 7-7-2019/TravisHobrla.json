@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4c48820b-d9d0-4041-8c5f-9dec001d6598",
+    "DataApi": "/Entries(guid'4c48820b-d9d0-4041-8c5f-9dec001d6598')/",
+    "VideoPageLink": "/Blogs/TravisHobrla/Porting-Drivers-to-Windows-CE-60",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/0/5/1/2/2/4/PortingDriversCE62500_large_ch9.jpg",
+    "ShowName": "TravisHobrla",
+    "VideoLength": "00:44:41",
+    "VideoTitle": "Porting Drivers to Windows CE 6.0",
+    "Author": "Travis Hobrla",
+    "UtcDateTimePublished": "2008-08-20T23:49:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/0/5/1/2/2/4/PortingDriversCE62500_ch9.mp4",
+    "Description": "This session has been presented at various Windows CE events such as MEDC.  It walks you through getting drivers from CE 5.0 (or previous versions) to work in CE 6.0.  Using the WaveAPI driver as a ex"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "839ea6cb-ddd6-4d42-84db-a3ee015fb9a4",
+    "DataApi": "/Entries(guid'839ea6cb-ddd6-4d42-84db-a3ee015fb9a4')/",
+    "VideoPageLink": "/Series/Implementing-Data-Models--Reports-with-Microsoft-SQL-Server/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fd7d/63985788-786c-433b-86e9-60b6e72efd7d/465ImplementDataModelReportsM02_960.jpg",
+    "ShowName": "Implementing Data Models & Reports with Microsoft SQL Server",
+    "VideoLength": "00:50:28",
+    "VideoTitle": "Implementing Data Models & Reports with Microsoft SQL Server: (02) Using Multidimensional Analysis Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:14:37.216331Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fd7d/63985788-786c-433b-86e9-60b6e72efd7d/465ImplementDataModelReportsM02_mid.mp4",
+    "Description": "Analysis Services provides a storage and query processing engine for multidimensional data models and allows users to perform complex queries and summary aggregations for analytical business intellige"
+  },
+  {
+    "VideoId": "579e922f-89f7-4ffb-a5e8-a3ee0160199b",
+    "DataApi": "/Entries(guid'579e922f-89f7-4ffb-a5e8-a3ee0160199b')/",
+    "VideoPageLink": "/Series/Implementing-Data-Models--Reports-with-Microsoft-SQL-Server/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/679b/4b42de24-134c-429c-95d1-07da9607679b/465ImplementDataModelReportsM04_960.jpg",
+    "ShowName": "Implementing Data Models & Reports with Microsoft SQL Server",
+    "VideoLength": "00:51:02",
+    "VideoTitle": "Implementing Data Models & Reports with Microsoft SQL Server: (04) Creating Tabular Data Models",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:15:28.9583741Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/679b/4b42de24-134c-429c-95d1-07da9607679b/465ImplementDataModelReportsM04_mid.mp4",
+    "Description": "SQL Server Tabular Analysis Services provides a more collaborative way for business and IT to build data models. Find out how to create a tabular Analysis Services solution and tabular data models and"
+  },
+  {
+    "VideoId": "4b2e577f-a673-4fbb-9d64-a3ee015fec4c",
+    "DataApi": "/Entries(guid'4b2e577f-a673-4fbb-9d64-a3ee015fec4c')/",
+    "VideoPageLink": "/Series/Implementing-Data-Models--Reports-with-Microsoft-SQL-Server/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b36/52e5cf4a-49cc-4a91-90b2-5d00f7086b36/465ImplementDataModelReportsM03_960.jpg",
+    "ShowName": "Implementing Data Models & Reports with Microsoft SQL Server",
+    "VideoLength": "00:38:40",
+    "VideoTitle": "Implementing Data Models & Reports with Microsoft SQL Server: (03) Customizing Multidimensional Analysis Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:15:35.1518516Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b36/52e5cf4a-49cc-4a91-90b2-5d00f7086b36/465ImplementDataModelReportsM03_mid.mp4",
+    "Description": "SQL Server 2014 Multidimensional Analysis Services (MDX) provides numerous features that can add value to the cubes you create. Hear how to use MDX, add calculations to a cube, create KPIs, implement "
+  },
+  {
+    "VideoId": "0b7234af-96fc-4ee1-8f31-a3ee01604cff",
+    "DataApi": "/Entries(guid'0b7234af-96fc-4ee1-8f31-a3ee01604cff')/",
+    "VideoPageLink": "/Series/Implementing-Data-Models--Reports-with-Microsoft-SQL-Server/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/92fc/5ef3cc3c-423f-458f-9638-aa8401d792fc/465ImplementDataModelReportsM05_960.jpg",
+    "ShowName": "Implementing Data Models & Reports with Microsoft SQL Server",
+    "VideoLength": "00:31:31",
+    "VideoTitle": "Implementing Data Models & Reports with Microsoft SQL Server: (05) Maintaining Analysis Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:16:09.8258858Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/92fc/5ef3cc3c-423f-458f-9638-aa8401d792fc/465ImplementDataModelReportsM05_mid.mp4",
+    "Description": "After being deployed to a production server, SQL Server 2014 Analysis Services (SSAS) has to be managed. Learn to configure cube processing, implement logging and monitoring in Analysis Services, secu"
+  },
+  {
+    "VideoId": "9d477d2a-700c-4b9d-ad7d-a3ee01608b55",
+    "DataApi": "/Entries(guid'9d477d2a-700c-4b9d-ad7d-a3ee01608b55')/",
+    "VideoPageLink": "/Series/Implementing-Data-Models--Reports-with-Microsoft-SQL-Server/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8dad/c7a1a91b-b740-4bb2-ba67-b3e956628dad/465ImplementDataModelReportsM06_960.jpg",
+    "ShowName": "Implementing Data Models & Reports with Microsoft SQL Server",
+    "VideoLength": "00:32:27",
+    "VideoTitle": "Implementing Data Models & Reports with Microsoft SQL Server: (06) Using Reporting Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:16:38.8914437Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8dad/c7a1a91b-b740-4bb2-ba67-b3e956628dad/465ImplementDataModelReportsM06_mid.mp4",
+    "Description": "SQL Server Reporting Services provides a platform for publishing and delivering reports that users can consume through a native web-based interface. Get the details on creating data sources for use in"
+  },
+  {
+    "VideoId": "f404e7e0-4236-4960-84d9-a3ee0160a3e8",
+    "DataApi": "/Entries(guid'f404e7e0-4236-4960-84d9-a3ee0160a3e8')/",
+    "VideoPageLink": "/Series/Implementing-Data-Models--Reports-with-Microsoft-SQL-Server/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/79ea/855b77af-6e46-4bd6-a783-306d227379ea/465ImplementDataModelReportsM07_960.jpg",
+    "ShowName": "Implementing Data Models & Reports with Microsoft SQL Server",
+    "VideoLength": "00:33:42",
+    "VideoTitle": "Implementing Data Models & Reports with Microsoft SQL Server: (07) Delivering Reports",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-26T17:17:16.1101374Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/79ea/855b77af-6e46-4bd6-a783-306d227379ea/465ImplementDataModelReportsM07_mid.mp4",
+    "Description": "With SQL Server 2014 Reporting Services, you can push reports to users. Learn how to describe subscriptions, create standard subscriptions, create data-driven subscriptions, and manage subscriptions i"
+  }
+]

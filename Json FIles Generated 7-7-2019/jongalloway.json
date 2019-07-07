@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "2d64113a-07ab-4895-902e-9deb003a4015",
+    "DataApi": "/Entries(guid'2d64113a-07ab-4895-902e-9deb003a4015')/",
+    "VideoPageLink": "/Blogs/jongalloway/Jon-Takes-Five-with-Brad-Wilson-on-MVC-2-Templating--Validation",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/6/6/8/3/4/5/Take5BradWilsonMVC2_512_ch9.png",
+    "ShowName": "jongalloway",
+    "VideoLength": "00:10:13",
+    "VideoTitle": "Jon Takes Five with Brad Wilson on MVC 2 Templating & Validation",
+    "Author": "Jon Galloway",
+    "UtcDateTimePublished": "2010-04-15T00:54:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/6/6/8/3/4/5/Take5BradWilsonMVC2_ch9.mp4",
+    "Description": "In this video, Jon talks to ASP.NET team member Brad Wilson about new Templating and Validation features in ASP.NET MVC 2.\n\nBrad shows off templating, strongly typed helpers, model validation, and c"
+  },
+  {
+    "VideoId": "ffe611f3-08d3-441c-90ca-9deb003a474c",
+    "DataApi": "/Entries(guid'ffe611f3-08d3-441c-90ca-9deb003a474c')/",
+    "VideoPageLink": "/Blogs/jongalloway/Jon-Takes-Five-with-Javier-Lozano-on-MVC-Turbine",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/2/1/1/4/5/Take5JavierLozano_512_ch9.png",
+    "ShowName": "jongalloway",
+    "VideoLength": "00:09:59",
+    "VideoTitle": "Jon Takes Five with Javier Lozano on MVC Turbine",
+    "Author": "Jon Galloway",
+    "UtcDateTimePublished": "2010-04-06T15:26:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/2/1/1/4/5/Take5JavierLozano_ch9.mp4",
+    "Description": "In this video, Jon talks to\nJavier Lozano about\nMVC Turbine.\n\n\nMVC Turbine is an open source plugin for \nASP.NET MVC that has IoC baked-in and auto-wires controllers, binders, view engines, and "
+  },
+  {
+    "VideoId": "7385fd86-fdc3-443a-a2ed-9deb003a4cdc",
+    "DataApi": "/Entries(guid'7385fd86-fdc3-443a-a2ed-9deb003a4cdc')/",
+    "VideoPageLink": "/Blogs/jongalloway/Jon-Takes-Five-with-David-Ebbo-on-T4MVC",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4cdc/7385fd86-fdc3-443a-a2ed-9deb003a4cdc/Take5DavidEbboT4MVC_512_ch9.jpg",
+    "ShowName": "jongalloway",
+    "VideoLength": "00:08:32",
+    "VideoTitle": "Jon Takes Five with David Ebbo on T4MVC",
+    "Author": "Jon Galloway",
+    "UtcDateTimePublished": "2010-04-01T16:34:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4cdc/7385fd86-fdc3-443a-a2ed-9deb003a4cdc/Take5DavidEbboT4MVC_low_ch9.mp4",
+    "Description": "Jon talks to David Ebbo about the T4MVC, a T4 Template For ASP.NET MVC.\n\nT4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers, which eliminate the use of literal strings w"
+  }
+]

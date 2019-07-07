@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "97f3cdf1-9b09-4a7a-b416-a5ed017ca91a",
+    "DataApi": "/Entries(guid'97f3cdf1-9b09-4a7a-b416-a5ed017ca91a')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/Let-There-Be-Light",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8a9e/b63f0b78-3b49-41fd-a73b-62dfb5128a9e/LetThereBeLight_960.jpg",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:16:09",
+    "VideoTitle": "Let There Be Light",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:45:27.407334Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8a9e/b63f0b78-3b49-41fd-a73b-62dfb5128a9e/LetThereBeLight_mid.mp4",
+    "Description": "Now that we have deconstructed the default Unity solution settings to get it ready for Creative Coders, we start exploring lighting, ambient, shadows and materials. "
+  },
+  {
+    "VideoId": "ed677162-b32c-4997-a9a1-a5ed017fe4c2",
+    "DataApi": "/Entries(guid'ed677162-b32c-4997-a9a1-a5ed017fe4c2')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/Its-Alive",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/76d4/0007389c-b097-4cee-b14c-24da3c6f76d4/ItsAlive_960.jpg",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:18:51",
+    "VideoTitle": "It's Alive!",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:45:44.9551466Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/76d4/0007389c-b097-4cee-b14c-24da3c6f76d4/ItsAlive_mid.mp4",
+    "Description": "Now that we have the environment setup for full creative control and we've manipulated some basic primitives, we finally get to creative coding! Setting up the code, manipulating the transforms and do"
+  },
+  {
+    "VideoId": "a1e2755f-2f1f-4276-aa6f-a5ed01805643",
+    "DataApi": "/Entries(guid'a1e2755f-2f1f-4276-aa6f-a5ed01805643')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/Spinning-On-That-Dizzy-Edge",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/c39ef2b8-af14-4be1-8dd6-28f919b9dc3b.png",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:21:18",
+    "VideoTitle": "Spinning On That Dizzy Edge",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:45:56.4905698Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d11a/706b963c-3054-4ad0-adfd-535130d1d11a/SpinningOnThatDizzyEdge_mid.mp4",
+    "Description": "We dive a bit deeper on rotations and adding more personality to our creative code. We finish up by converting our experiment into a reusable prefab and save this as our half time milestone. "
+  },
+  {
+    "VideoId": "e4c0ab7b-6d5e-4179-9b2a-a5ed0180d630",
+    "DataApi": "/Entries(guid'e4c0ab7b-6d5e-4179-9b2a-a5ed0180d630')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/Absolutely-PreFabulous",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/71e3/e3a94c03-923f-4f02-be79-afb3507771e3/AbsolutelyPrefabulous_960.jpg",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:25:55",
+    "VideoTitle": "Absolutely (Pre)Fabulous!",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:46:05.1280368Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/71e3/e3a94c03-923f-4f02-be79-afb3507771e3/AbsolutelyPrefabulous_mid.mp4",
+    "Description": "Now let's instantiate our prefabs from code. We setup a scene wide &quot;sketch&quot; script that adds and modifies our spinCube prefab and explore basic positioning algorithms. "
+  },
+  {
+    "VideoId": "3862c503-24b0-4694-b85e-a5ed01811947",
+    "DataApi": "/Entries(guid'3862c503-24b0-4694-b85e-a5ed01811947')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/SIN-City",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ba6c/07991b7f-6415-4558-9e3a-74e2fbfcba6c/SinCity_960.jpg",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:26:15",
+    "VideoTitle": "SIN() City",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:46:15.406807Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ba6c/07991b7f-6415-4558-9e3a-74e2fbfcba6c/SinCity_mid.mp4",
+    "Description": "Let's make our visual distribution of the spinCubes more elegant by learning about easing and Sin() values and how to convert our linear percentage to an eased value that looks much better. "
+  },
+  {
+    "VideoId": "4cbe66dc-23b8-41b5-b219-a5ed018152f5",
+    "DataApi": "/Entries(guid'4cbe66dc-23b8-41b5-b219-a5ed018152f5')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/Some-Light-Probing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3f4c/7fb2d110-73b3-4cc4-ac3f-2046f4803f4c/SomeLightProbing_960.jpg",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:14:02",
+    "VideoTitle": "Some Light Probing",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:46:23.893442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3f4c/7fb2d110-73b3-4cc4-ac3f-2046f4803f4c/SomeLightProbing_mid.mp4",
+    "Description": "Now that we've learned how to programmatically add our prefabs to the scene and explored some graphics algorithms, let's start wrapping up our project by having the dynamic prefabs play well with the "
+  },
+  {
+    "VideoId": "08060f23-f29a-431d-a2cf-a5ed01818926",
+    "DataApi": "/Entries(guid'08060f23-f29a-431d-a2cf-a5ed01818926')/",
+    "VideoPageLink": "/Series/UnityCreativeCoding/Ready-For-My-Close-Up",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7081/58c8fcd5-04da-4ff1-ac64-723d84137081/ReadyForMyCloseUp_960.jpg",
+    "ShowName": "Creative Coding with Unity",
+    "VideoLength": "00:15:34",
+    "VideoTitle": "Ready For My Close Up",
+    "Author": "Rick Barraza",
+    "UtcDateTimePublished": "2016-04-20T17:46:33.2679759Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7081/58c8fcd5-04da-4ff1-ac64-723d84137081/ReadyForMyCloseUp_mid.mp4",
+    "Description": "We wrap up our whirlwind tour of Unity for Creative Coders by going over Camera Effects such as Depth Of Field and Bloom and discuss additional resources and next steps. "
+  }
+]

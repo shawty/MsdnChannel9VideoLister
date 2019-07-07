@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "65668379-0f1c-48f0-99e8-a2e60189f21f",
+    "DataApi": "/Entries(guid'65668379-0f1c-48f0-99e8-a2e60189f21f')/",
+    "VideoPageLink": "/Series/Security-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/59de/6ee50054-623b-4729-bcbd-20c753ee59de/SecurityFundamentalsM02_960.jpg",
+    "ShowName": "Security Fundamentals",
+    "VideoLength": "01:00:09",
+    "VideoTitle": "Security Fundamentals: (02) Authentication, Authorization, and Accounting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-07T05:39:04.4963607Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/59de/6ee50054-623b-4729-bcbd-20c753ee59de/SecurityFundamentalsM02_mid.mp4",
+    "Description": "Get an introduction to the topics of authentication, authorization, and accountingâ€”what they are, how they are different, and how each is implemented and managed. Look at available options and how to "
+  },
+  {
+    "VideoId": "0f09243a-c33a-4966-9559-a2e6018a2ab7",
+    "DataApi": "/Entries(guid'0f09243a-c33a-4966-9559-a2e6018a2ab7')/",
+    "VideoPageLink": "/Series/Security-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be88/035838d0-f8a2-4bae-b85e-21603f48be88/SecurityFundamentalsM03_960.jpg",
+    "ShowName": "Security Fundamentals",
+    "VideoLength": "00:27:56",
+    "VideoTitle": "Security Fundamentals: (03) Understanding Security Policies",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-07T05:39:26.8134621Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be88/035838d0-f8a2-4bae-b85e-21603f48be88/SecurityFundamentalsM03_mid.mp4",
+    "Description": "Hear about security policies and how they may work in an organization. See how policies provided by Group Policy can prevent unauthorized access to an organization's resources. [01:22] - Commmon Passw"
+  },
+  {
+    "VideoId": "8b5c0ad7-d06f-4faf-833a-a2e6018a6fb6",
+    "DataApi": "/Entries(guid'8b5c0ad7-d06f-4faf-833a-a2e6018a6fb6')/",
+    "VideoPageLink": "/Series/Security-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/99c1/ff5b87c6-82ac-4247-ade1-e498d8f199c1/SecurityFundamentalsM04_960.jpg",
+    "ShowName": "Security Fundamentals",
+    "VideoLength": "00:52:52",
+    "VideoTitle": "Security Fundamentals: (04) Understanding Network Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-07T05:39:53.8899126Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/99c1/ff5b87c6-82ac-4247-ade1-e498d8f199c1/SecurityFundamentalsM04_mid.mp4",
+    "Description": "A network can be the most vulnerable part of an IT infrastructure. Learn some of the methods and options for securing these invaluable assets, and gain from a discussion of firewalls, Network Access P"
+  },
+  {
+    "VideoId": "c6188f8c-15d5-431e-9dd4-a2e6018aaa7a",
+    "DataApi": "/Entries(guid'c6188f8c-15d5-431e-9dd4-a2e6018aaa7a')/",
+    "VideoPageLink": "/Series/Security-Fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/60e4/c336f0ee-3aa8-44dc-bc11-47ad654260e4/SecurityFundamentalsM05_960.jpg",
+    "ShowName": "Security Fundamentals",
+    "VideoLength": "00:49:47",
+    "VideoTitle": "Security Fundamentals: (05) Protecting the Server and Client",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-07T05:40:08.1309932Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/60e4/c336f0ee-3aa8-44dc-bc11-47ad654260e4/SecurityFundamentalsM05_mid.mp4",
+    "Description": "Learn about protecting the physical assets in your organization, including servers and clientsâ€”and the software running on themâ€”and how to secure them. [01:33] - Protecting Your Computer from Malware["
+  }
+]

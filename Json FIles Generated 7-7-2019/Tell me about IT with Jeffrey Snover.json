@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "53334240-82c8-4331-b91f-a53f0123d848",
+    "DataApi": "/Entries(guid'53334240-82c8-4331-b91f-a53f0123d848')/",
+    "VideoPageLink": "/Shows/about-it/Episode-002-Jeffrey-on-Windows-Server-2016-Storage",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/94ec7691-4882-4f71-af0b-830805eea5b3.jpg",
+    "ShowName": "Tell me about IT with Jeffrey Snover",
+    "VideoLength": "00:15:54",
+    "VideoTitle": "Episode #002 - Jeffrey on Windows Server 2016 Storage",
+    "Author": "Matt McSpirit",
+    "UtcDateTimePublished": "2015-11-04T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0d13/1ab18126-3b45-46d9-b1da-247786e30d13/AboutITEpisode002_mid.mp4",
+    "Description": "In this episode, Jeffrey Snover takes on storage in Windows Server, walking through the ways that storage evolves in Windows Server 2016. From Storage Spaces Direct to Storage QoS, Jeffrey explains ho"
+  },
+  {
+    "VideoId": "55629d45-245f-47bf-8816-a53e014bcbca",
+    "DataApi": "/Entries(guid'55629d45-245f-47bf-8816-a53e014bcbca')/",
+    "VideoPageLink": "/Shows/about-it/Episode-001-Jeffrey-on-Windows-Server-2016",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/747a1f9d-79c3-4f70-bf3c-1badbae7191d.png",
+    "ShowName": "Tell me about IT with Jeffrey Snover",
+    "VideoLength": "00:13:47",
+    "VideoTitle": "Episode #001 - Jeffrey on Windows Server 2016",
+    "Author": "Brandy Pepper",
+    "UtcDateTimePublished": "2015-10-28T17:54:30.2193028Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/59ea/c0bee74d-8b70-44c3-adaa-d5c417e159ea/AboutITEpisode001_mid.mp4",
+    "Description": "In this episode, with the help of Lindsay Berg, Jeffrey Snover talks about what's coming in Windows Server 2016. Technology today is moving faster than ever. New cloud options, improved features, and "
+  }
+]

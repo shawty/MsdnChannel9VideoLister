@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "dee228eb-c594-41f4-891d-a51d01601c08",
+    "DataApi": "/Entries(guid'dee228eb-c594-41f4-891d-a51d01601c08')/",
+    "VideoPageLink": "/Series/Azure-Data-Lake/Whats-up-with-Spark25-SparkSQL",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/34a8c9d4-ae28-4a98-9c73-ef5cc39856a1.PNG",
+    "ShowName": "Azure HDInsight - A managed Hadoop and Spark service on Azure",
+    "VideoLength": "00:39:56",
+    "VideoTitle": "What's up with Spark(2/5) - SparkSQL",
+    "Author": "Andrew Moll",
+    "UtcDateTimePublished": "2015-09-28T21:16:09.772608Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e00/59003316-3f5a-4b48-8c2f-5ade7fd73e00/SparkSQL_mid.mp4",
+    "Description": "In this episode of What's up with___?  Andrew Moll meets with Asad Khan, a Principal Product Manager on the HDInsight team, and learns all about Spark SQL.  Asad explores a crime data set from the cit"
+  },
+  {
+    "VideoId": "e264c67f-ed89-4285-910f-a51d015f0f51",
+    "DataApi": "/Entries(guid'e264c67f-ed89-4285-910f-a51d015f0f51')/",
+    "VideoPageLink": "/Series/Azure-Data-Lake/Whats-up-with-Spark35-Jupyter-and-Zepplein-Notebooks",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/97a6/dddcf4a0-5f33-4b49-a680-e0cfb85797a6/SparkNotebooks_960.jpg",
+    "ShowName": "Azure HDInsight - A managed Hadoop and Spark service on Azure",
+    "VideoLength": "00:21:25",
+    "VideoTitle": "What's up with Spark(3/5) - Jupyter and Zepplein Notebooks",
+    "Author": "Andrew Moll",
+    "UtcDateTimePublished": "2015-09-28T21:16:22.0572582Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/97a6/dddcf4a0-5f33-4b49-a680-e0cfb85797a6/SparkNotebooks_mid.mp4",
+    "Description": "In this episode of What's up with___?  Andrew Moll meets with Joel Zambrano, a Senior Engineer on the HDInsight team, and learns all about the notebook experience on Spark.  Joel gives an overview of "
+  },
+  {
+    "VideoId": "c397f43d-d3ed-4514-a4b0-a51d0160685e",
+    "DataApi": "/Entries(guid'c397f43d-d3ed-4514-a4b0-a51d0160685e')/",
+    "VideoPageLink": "/Series/Azure-Data-Lake/Whats-up-with-Spark45-Spark-Machine-Learning",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/198af8f6-8f46-4965-9eec-63c89e9e9cc7.PNG",
+    "ShowName": "Azure HDInsight - A managed Hadoop and Spark service on Azure",
+    "VideoLength": "00:23:11",
+    "VideoTitle": "What's up with Spark(4/5) - Spark Machine Learning",
+    "Author": "Andrew Moll",
+    "UtcDateTimePublished": "2015-09-28T21:16:36.0315934Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b726/b03c073d-5aac-44db-af53-50e0eb78b726/SparkMachineLearning_mid.mp4",
+    "Description": "In this episode of What's up with___?  Andrew Moll meets with Alejandro Guerrero Gonzalez, a Engineer on the HDInsight team, and learns all about Machine Learning on Spark.  Alejandro gives a brief in"
+  },
+  {
+    "VideoId": "0bd0defa-24b9-45e2-ab2f-a51d015f963a",
+    "DataApi": "/Entries(guid'0bd0defa-24b9-45e2-ab2f-a51d015f963a')/",
+    "VideoPageLink": "/Series/Azure-Data-Lake/Whats-up-with-Spark55-Spark-Streaming",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/5950286b-7ef0-4477-b41b-9df891db4130.PNG",
+    "ShowName": "Azure HDInsight - A managed Hadoop and Spark service on Azure",
+    "VideoLength": "00:30:35",
+    "VideoTitle": "What's up with Spark(5/5) - Spark Streaming",
+    "Author": "Andrew Moll",
+    "UtcDateTimePublished": "2015-09-28T21:16:50.184556Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2eaa/739e0b4e-cd48-4e40-83bf-d95c46712eaa/SparkStreaming_mid.mp4",
+    "Description": "In this episode of What's up with___?  Andrew Moll meets with Shanyu Zhao, a Senior Engineer on the HDInsight team, and learns all about Spark Streaming.  Shanyu discusses the interworking of running "
+  }
+]

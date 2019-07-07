@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "5d478164-ffe9-4c88-acc5-a5c300f540d7",
+    "DataApi": "/Entries(guid'5d478164-ffe9-4c88-acc5-a5c300f540d7')/",
+    "VideoPageLink": "/Blogs/This-Month-In/2016-03-08-This-Month-In-Skype-Skype-for-Business-Web-Scheduler",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/69a8/b2fb4ef4-2fa9-4da4-bc07-dbf3862d69a8/ThisMonthInSkype20160308_960.jpg",
+    "ShowName": "This Month In...",
+    "VideoLength": "00:10:30",
+    "VideoTitle": "2016-03-08 This Month In Skype: Skype for Business Web Scheduler",
+    "Author": "Michael Gannotti",
+    "UtcDateTimePublished": "2016-03-16T19:10:15.2416264Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/69a8/b2fb4ef4-2fa9-4da4-bc07-dbf3862d69a8/ThisMonthInSkype20160308_mid.mp4",
+    "Description": "In this episode of This Month In Skype host Michael Gannotti is joined by Microsoft's Tariq Hameed. Tariq provides an overview of the capability of the Skype for Business Web Scheduler. Microsoft Skyp"
+  },
+  {
+    "VideoId": "eef0d66f-27bf-493d-aacd-a58d010a777a",
+    "DataApi": "/Entries(guid'eef0d66f-27bf-493d-aacd-a58d010a777a')/",
+    "VideoPageLink": "/Blogs/This-Month-In/2016-01-14-This-Month-In-Education-Student-Drop-In-Drop-Out-For-Office-365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6cbb/ae5b8fc2-2206-4758-ba0e-b12890da6cbb/ThisMonthInEducation20160114_960.jpg",
+    "ShowName": "This Month In...",
+    "VideoLength": "00:18:37",
+    "VideoTitle": "2016-01-14 This Month In Education: Student Drop In Drop Out For Office 365",
+    "Author": "Michael Gannotti",
+    "UtcDateTimePublished": "2016-01-14T17:54:32.2456689Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6cbb/ae5b8fc2-2206-4758-ba0e-b12890da6cbb/ThisMonthInEducation20160114_mid.mp4",
+    "Description": "Schools, daycares, activity centers etc., often are challenged with providing a centralized, paperless, method of checking students/children in and out of their facilities. For those organizations lev"
+  },
+  {
+    "VideoId": "352de9bd-4ea1-4661-9f7d-a587015744fe",
+    "DataApi": "/Entries(guid'352de9bd-4ea1-4661-9f7d-a587015744fe')/",
+    "VideoPageLink": "/Blogs/This-Month-In/2016-01-08-This-Month-In-Windows-Azure-AD-Join",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb01/fb474db2-aef6-4995-9416-fbd817cecb01/ThisMonthInWindows20160108_960.jpg",
+    "ShowName": "This Month In...",
+    "VideoLength": "00:14:35",
+    "VideoTitle": "2016-01-08 This Month In Windows: Azure AD Join",
+    "Author": "Michael Gannotti",
+    "UtcDateTimePublished": "2016-01-08T21:09:26.4649142Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb01/fb474db2-aef6-4995-9416-fbd817cecb01/ThisMonthInWindows20160108_mid.mp4",
+    "Description": "Organizations with mobile employees have long struggled with provisioning their Windows Computers. Oftentimes this has necessitated taking users out of the business/field, bringing them on to the corp"
+  },
+  {
+    "VideoId": "f41cf636-40f9-4dbf-b9bf-a53d00ceb21c",
+    "DataApi": "/Entries(guid'f41cf636-40f9-4dbf-b9bf-a53d00ceb21c')/",
+    "VideoPageLink": "/Blogs/This-Month-In/2015-10-23-This-Month-In-Azure-Azure-Backup",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f207/6cafb0ee-532b-40a0-9384-7220df90f207/ThisMonthInAzure20151026_960.jpg",
+    "ShowName": "This Month In...",
+    "VideoLength": "00:29:26",
+    "VideoTitle": "2015-10-23 This Month In Azure: Azure Backup",
+    "Author": "Michael Gannotti",
+    "UtcDateTimePublished": "2015-10-26T18:30:47.5681601Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f207/6cafb0ee-532b-40a0-9384-7220df90f207/ThisMonthInAzure20151026_mid.mp4",
+    "Description": "When deploying test/dev, QA, and even production instances of virtual machines in the cloud one of the areas that is often overlooked are backups. In this edition of This Month in Azure host's Michael"
+  }
+]

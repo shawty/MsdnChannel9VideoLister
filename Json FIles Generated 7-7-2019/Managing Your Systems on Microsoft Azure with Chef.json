@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "3a45cdd5-d30f-4772-ba14-a44a0073a524",
+    "DataApi": "/Entries(guid'3a45cdd5-d30f-4772-ba14-a44a0073a524')/",
+    "VideoPageLink": "/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod1",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/f359bc21-4f26-4c62-ac9a-59f03af01562.png",
+    "ShowName": "Managing Your Systems on Microsoft Azure with Chef",
+    "VideoLength": "00:56:58",
+    "VideoTitle": "(Module 1) Overview of Chef",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-02-28T01:32:20Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/da8b/2c6ba007-5217-49d0-beab-810462fada8b/MVAMod1_mid.mp4",
+    "Description": "Explore the benefits of automation and why it becomes a necessity in the new IT world. Learn what infrastructure as code is, and look at the architecture of the Chef platform and the vocabulary used i"
+  },
+  {
+    "VideoId": "8e7fb106-a6fa-46e2-be59-a44a0073e1b0",
+    "DataApi": "/Entries(guid'8e7fb106-a6fa-46e2-be59-a44a0073e1b0')/",
+    "VideoPageLink": "/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0716/a5a92557-4d43-4b3a-bae2-1b74d7fa0716/MVAMod2_960.jpg",
+    "ShowName": "Managing Your Systems on Microsoft Azure with Chef",
+    "VideoLength": "00:42:57",
+    "VideoTitle": "(Module 2) Using Chef ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-02-28T01:33:03Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0716/a5a92557-4d43-4b3a-bae2-1b74d7fa0716/MVAMod2_mid.mp4",
+    "Description": "Find out what you need to start using Chef, including required resources and software. Learn how to create files and apply configurations to a system, including Windows and Linux technologies and the "
+  },
+  {
+    "VideoId": "ac6aae30-2620-4c3a-94b4-a44a00744cd9",
+    "DataApi": "/Entries(guid'ac6aae30-2620-4c3a-94b4-a44a00744cd9')/",
+    "VideoPageLink": "/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0450/70b55945-1916-43c2-9561-cc5ad2910450/MVAMod3_960.jpg",
+    "ShowName": "Managing Your Systems on Microsoft Azure with Chef",
+    "VideoLength": "00:31:32",
+    "VideoTitle": "(Module 3) Building Policies with Chef â€‹",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-02-28T01:34:17Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0450/70b55945-1916-43c2-9561-cc5ad2910450/MVAMod3_mid.mp4",
+    "Description": "Go a step further, and build policies to enforce a defined configuration. Get a detailed look at the concepts of recipes and cookbooks, learn to separate the data from the policies, and create and app"
+  },
+  {
+    "VideoId": "fb30c349-1acb-4e5d-89e0-a44a0074ead1",
+    "DataApi": "/Entries(guid'fb30c349-1acb-4e5d-89e0-a44a0074ead1')/",
+    "VideoPageLink": "/Series/Managing-Your-Systems-on-Microsoft-Azure-with-Chef/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0e3a/371a69cb-be46-4990-ad2d-ca5422910e3a/MVAMod4_960.jpg",
+    "ShowName": "Managing Your Systems on Microsoft Azure with Chef",
+    "VideoLength": "00:29:56",
+    "VideoTitle": "(Module 4) Managing Azure Infrastructure with Chef ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-02-28T01:35:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0e3a/371a69cb-be46-4990-ad2d-ca5422910e3a/MVAMod4_mid.mp4",
+    "Description": "Microsoft and Chef have worked together to integrate the Chef Agent on Azure Virtual Machines (VMs). Learn the tools used to automate the creation of Azure Virtual Machines, plus how to leverage the c"
+  }
+]

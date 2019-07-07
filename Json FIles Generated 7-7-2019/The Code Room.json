@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "f4ed7d49-2138-4318-aba3-9dea00bd88e6",
+    "DataApi": "/Entries(guid'f4ed7d49-2138-4318-aba3-9dea00bd88e6')/",
+    "VideoPageLink": "/Shows/The+Code+Room/Episode-2",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6b35fa1a-4a5f-485f-94d8-9dea00bd8aca",
+    "DataApi": "/Entries(guid'6b35fa1a-4a5f-485f-94d8-9dea00bd8aca')/",
+    "VideoPageLink": "/Shows/The+Code+Room/Episode-1",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "86aed5ef-21f3-4531-92c7-a4ff0102cf46",
+    "DataApi": "/Entries(guid'86aed5ef-21f3-4531-92c7-a4ff0102cf46')/",
+    "VideoPageLink": "/Series/GuruPowerShell/Azure-Subscriptions-with-PowerShell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4794/7b4908cc-4a94-4892-b712-e0f210014794/AzureSubscriptionsWithPowerShell_960.jpg",
+    "ShowName": "Advanced PowerShell Techniques",
+    "VideoLength": "00:07:11",
+    "VideoTitle": "Azure Subscriptions with PowerShell",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2015-08-25T17:17:32.6603178Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4794/7b4908cc-4a94-4892-b712-e0f210014794/AzureSubscriptionsWithPowerShell_mid.mp4",
+    "Description": "Demonstrate how Azure Subscriptions work and how to change default and current subscription.  Shows changing accounts and subscriptions with multiple subscriptions in an account as well as multiple ac"
+  },
+  {
+    "VideoId": "11f503a7-a86e-48ce-9219-a5020144edd3",
+    "DataApi": "/Entries(guid'11f503a7-a86e-48ce-9219-a5020144edd3')/",
+    "VideoPageLink": "/Series/GuruPowerShell/LogIt-Function-with-PowerShell-to-Log-to-Screen-and-Log-file-Super-Simple-and-Elegant",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2f31/a24743a3-49ab-47d7-ab8a-9211feab2f31/LogITPowerShell_960.jpg",
+    "ShowName": "Advanced PowerShell Techniques",
+    "VideoLength": "00:07:15",
+    "VideoTitle": "LogIt Function with PowerShell to Log to Screen and Log file - Super Simple and Elegant",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2015-08-28T20:07:16.1022118Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2f31/a24743a3-49ab-47d7-ab8a-9211feab2f31/LogITPowerShell_mid.mp4",
+    "Description": "Demonstrate how create and work with Log files using PowerShell. Shows how to create log files and create function to log information to screen and text file.  Includes ability so set colors and other"
+  },
+  {
+    "VideoId": "dc0e064f-17cb-452d-a90c-a5020158551e",
+    "DataApi": "/Entries(guid'dc0e064f-17cb-452d-a90c-a5020158551e')/",
+    "VideoPageLink": "/Series/GuruPowerShell/Working-with-Files-and-Paths-Using-PowerShell",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1396/1e50d0bf-882b-4ff8-a5fa-82e873f91396/FilePathPowerShell_960.jpg",
+    "ShowName": "Advanced PowerShell Techniques",
+    "VideoLength": "00:06:01",
+    "VideoTitle": "Working with Files and Paths Using PowerShell",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2015-09-03T17:13:53.8853419Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1396/1e50d0bf-882b-4ff8-a5fa-82e873f91396/FilePathPowerShell_mid.mp4",
+    "Description": "Demonstrate Multiple Ways to Obtain and work with File path Information using PowerShell. Includes get-location, get-item, system.io.directory, system.io.file and more. Brought to you by ITProGuru Dan"
+  },
+  {
+    "VideoId": "e8442820-8865-416e-b43e-a509010e18fc",
+    "DataApi": "/Entries(guid'e8442820-8865-416e-b43e-a509010e18fc')/",
+    "VideoPageLink": "/Series/GuruPowerShell/GUI-Form-Using-PowerShell-Add-Panel-Label-Edit-box-Combo-Box-List-Box-CheckBox-and-More",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eea4/d3a01ded-8684-4d9b-bdb3-3326ab8eeea4/GUIWindowsFormsDialogBoxPowerShell_960.jpg",
+    "ShowName": "Advanced PowerShell Techniques",
+    "VideoLength": "00:22:02",
+    "VideoTitle": "GUI Form Using PowerShell Add Panel, Label, Edit box, Combo Box, List Box, CheckBox and More!!!",
+    "Author": "Dan Stolts \"ITProGuru\"",
+    "UtcDateTimePublished": "2016-01-25T18:31:35.1201938Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eea4/d3a01ded-8684-4d9b-bdb3-3326ab8eeea4/GUIWindowsFormsDialogBoxPowerShell_mid.mp4",
+    "Description": "Demonstrate how create and work with GUI Forms using PowerShell. Shows how to create Forms, add labels, text boxes, panels, combo boxes, Pick Lists, and more. Shows how to populate all fields includin"
+  }
+]

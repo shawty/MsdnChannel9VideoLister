@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "c8d4bb4f-e582-447a-b0d7-a15700419005",
+    "DataApi": "/Entries(guid'c8d4bb4f-e582-447a-b0d7-a15700419005')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Windows-Azure-Cloud-Services-Concepts-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f1ea/aa722616-69cc-4c89-94c4-bb3d5524f1ea/CloudServicesConcepts1_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:19:01",
+    "VideoTitle": "Windows Azure Cloud Services Concepts (Part 1)",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-05T18:17:25.6458005Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f1ea/aa722616-69cc-4c89-94c4-bb3d5524f1ea/CloudServicesConcepts1_mid.mp4",
+    "Description": "In this video we'll review some of the fundamental concepts in Windows Azure Cloud Services, including Cloud Service, roles, and scaling options, etc. And then, we'll scale out our &quot;Hello World&q"
+  },
+  {
+    "VideoId": "92bb4175-4b99-4a65-9137-a1570041daf8",
+    "DataApi": "/Entries(guid'92bb4175-4b99-4a65-9137-a1570041daf8')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Walkthrough-of-the-Management-Portal-for-Windows-Azure-Cloud-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/751e/3c110f01-d3b0-4c34-af3b-c58e5873751e/CS3_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:14:53",
+    "VideoTitle": "Walkthrough of the Management Portal for Windows Azure Cloud Services",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-06T01:24:42.4960125Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/751e/3c110f01-d3b0-4c34-af3b-c58e5873751e/CS3_mid.mp4",
+    "Description": "After having some fun with the hosting environment, you'll have a guided tour of Windows Azure Management Portal. Next episode:Windows Azure Cloud Services Concepts (Part 2)https://channel9.msdn.com/S"
+  },
+  {
+    "VideoId": "262d195a-4971-40a9-be82-a1570041fe7f",
+    "DataApi": "/Entries(guid'262d195a-4971-40a9-be82-a1570041fe7f')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Windows-Azure-Cloud-Services-Concepts-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6892/ece7b208-32a6-493a-8973-b4076c636892/CloudServicesConcepts2_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:13:06",
+    "VideoTitle": "Windows Azure Cloud Services Concepts (Part 2)",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-06T01:25:03.7118119Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6892/ece7b208-32a6-493a-8973-b4076c636892/CloudServicesConcepts2_mid.mp4",
+    "Description": "This episode is all about updating your services. We'll discuss concepts such as service package, service definition, fault domain, update domain, VIP swap, and staging environment, etc. Next episode:"
+  },
+  {
+    "VideoId": "c329783b-4bd1-477d-a929-a15700423075",
+    "DataApi": "/Entries(guid'c329783b-4bd1-477d-a929-a15700423075')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Introduction-to-Windows-Azure-Worker-Roles-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/afdc/1e4b2f36-f7bb-4993-b7e2-a2baf9c0afdc/IntroToWorkerRoles1_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:14:57",
+    "VideoTitle": "Introduction to Windows Azure Worker Roles (Part 1)",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-06T01:25:18.5898666Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/afdc/1e4b2f36-f7bb-4993-b7e2-a2baf9c0afdc/IntroToWorkerRoles1_mid.mp4",
+    "Description": "In this episode we'll learn another role type â€“ the Worker Role. We'll see how we can offload lengthy operations to a background processor. And we'll learn how to directly communicate workloads among "
+  },
+  {
+    "VideoId": "8a89e89a-82f9-45d2-880f-a15700425d92",
+    "DataApi": "/Entries(guid'8a89e89a-82f9-45d2-880f-a15700425d92')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Introduction-to-Windows-Azure-Worker-Roles-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b7d4/be1382d4-37d2-4f37-9a2b-36a9f168b7d4/CS6_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:19:58",
+    "VideoTitle": "Introduction to Windows Azure Worker Roles (Part 2)",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-21T09:27:22.5800101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b7d4/be1382d4-37d2-4f37-9a2b-36a9f168b7d4/CS6_mid.mp4",
+    "Description": "In this episode we'll continue with the Worker Role introduction. Instead of tightly coupled direct communication, we'll explore other means such as using shared storage and Windows Azure Service Bus "
+  },
+  {
+    "VideoId": "bd746bd9-eba7-4d9d-be2e-a15700428286",
+    "DataApi": "/Entries(guid'bd746bd9-eba7-4d9d-be2e-a15700428286')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Windows-Azure-Cloud-Services-Role-Lifecycle",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/10d1/8ce9de2a-2e40-402a-9add-1e1ff4b410d1/CS7_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:19:04",
+    "VideoTitle": "Windows Azure Cloud Services Role Lifecycle",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-21T17:47:56.7384098Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/10d1/8ce9de2a-2e40-402a-9add-1e1ff4b410d1/CS7_mid.mp4",
+    "Description": "In earlier episode we removed WebRole.cs from our Web Role. Now it's time to bring it back and have a closer look at role instance lifecycle. And then we'll briefly look into startup tasks. This is al"
+  },
+  {
+    "VideoId": "d853a687-c8e7-413e-b2b4-a1570042a80e",
+    "DataApi": "/Entries(guid'd853a687-c8e7-413e-b2b4-a1570042a80e')/",
+    "VideoPageLink": "/Series/Windows-Azure-Cloud-Services-Tutorials/Building-the-Windows-Azure-Trivia-Sample",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2e38/941e1f40-4d53-4eb3-827a-34d931442e38/CS8_512.jpg",
+    "ShowName": "Windows Azure Cloud Services",
+    "VideoLength": "00:10:38",
+    "VideoTitle": "Building the Windows Azure Trivia Sample",
+    "Author": "Haishi Bai",
+    "UtcDateTimePublished": "2013-02-23T21:55:31.8558399Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2e38/941e1f40-4d53-4eb3-827a-34d931442e38/CS8_mid.mp4",
+    "Description": "Starting with this episode we'll start to build a real Cloud Service with sufficient complexity for us to have deeper discussions of various software engineering topics and scenarios. Our starting poi"
+  }
+]

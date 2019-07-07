@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "1938b808-b68c-49c5-8ff5-9deb0010807d",
+    "DataApi": "/Entries(guid'1938b808-b68c-49c5-8ff5-9deb0010807d')/",
+    "VideoPageLink": "/Blogs/joelercoaster/MS-Virtual-Labs-Connected-Applications-with-WCF-and-WF",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/1/5/7/6/4/vlab101_large_ch9.png",
+    "ShowName": "joelercoaster",
+    "VideoLength": "00:04:35",
+    "VideoTitle": "MS Virtual Labs: Connected Applications with WCF and WF",
+    "Author": "joelercoaster",
+    "UtcDateTimePublished": "2009-05-04T22:41:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/1/5/7/6/4/vlab101_ch9.mp4",
+    "Description": "\nWindows Communication Foundation (WCF) and Windows Workflow Foundation (WF) are relatively new technologies, having only been officially released with .NET 3.0 in November 2006. Despite this, each t"
+  },
+  {
+    "VideoId": "1e21cb3a-3ad5-43a8-82f8-9deb00107d29",
+    "DataApi": "/Entries(guid'1e21cb3a-3ad5-43a8-82f8-9deb00107d29')/",
+    "VideoPageLink": "/Blogs/joelercoaster/MS-Virtual-Labs-Multi-Targeting-in-Visual-Studio-2008",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/7/1/5/7/6/4/vlab103_large_ch9.png",
+    "ShowName": "joelercoaster",
+    "VideoLength": "00:05:16",
+    "VideoTitle": "MS Virtual Labs: Multi-Targeting in Visual Studio 2008",
+    "Author": "joelercoaster",
+    "UtcDateTimePublished": "2009-05-04T22:40:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/7/1/5/7/6/4/vlab103_ch9.mp4",
+    "Description": "\nMulti-targeting is a new feature in Visual Studio 2008 that allows developers to choose which .NET Framework they want to target for a given project. Available choices are 2.0, 3.0 and 3.5, and you "
+  },
+  {
+    "VideoId": "5bc492f6-21eb-41db-b174-9deb001079ff",
+    "DataApi": "/Entries(guid'5bc492f6-21eb-41db-b174-9deb001079ff')/",
+    "VideoPageLink": "/Blogs/joelercoaster/MS-Virtual-Labs-The-New-WPF-Designer-And-WPF-WinForms-Interoperatbility",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/8/1/5/7/6/4/vlab04_large_ch9.png",
+    "ShowName": "joelercoaster",
+    "VideoLength": "00:06:49",
+    "VideoTitle": "MS Virtual Labs: The New WPF Designer And WPF WinForms Interoperatbility",
+    "Author": "joelercoaster",
+    "UtcDateTimePublished": "2009-05-04T22:40:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/8/1/5/7/6/4/vlab04_ch9.mp4",
+    "Description": "\nThe WPF designer in Visual Studio 2008 has been radically improved from the one that found its way into Visual Studio 2005 following the release of .NET 3.0. Capable and intuitive, the designer allo"
+  },
+  {
+    "VideoId": "285498ad-9844-4479-b562-9dec0014885d",
+    "DataApi": "/Entries(guid'285498ad-9844-4479-b562-9dec0014885d')/",
+    "VideoPageLink": "/Blogs/joelercoaster/Embedding-Multimedia-Rich-Content-onto-Office-Documents",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

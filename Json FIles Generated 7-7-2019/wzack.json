@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "9d92bd34-66c0-4ff1-b3a1-9dec00172f43",
+    "DataApi": "/Entries(guid'9d92bd34-66c0-4ff1-b3a1-9dec00172f43')/",
+    "VideoPageLink": "/Blogs/wzack/David-Chappell-Interview-on-SoftwareServices-development",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/previewImages/320/fd80009c-3272-4bd9-abb9-e36628bdb5cb.jpg",
+    "ShowName": "wzack",
+    "VideoLength": "00:03:15",
+    "VideoTitle": "David Chappell Interview on Software+Services development",
+    "Author": "William Zack",
+    "UtcDateTimePublished": "2008-07-11T14:56:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/9/6/8/4/1/4/zackChappellInterview_ch9.mp4",
+    "Description": "David Chappell, noted author and lecturer, gave a presentation on Software&#43;Services to a group of architects recently in New York.  This is an interview with David where he expresses his views on "
+  }
+]

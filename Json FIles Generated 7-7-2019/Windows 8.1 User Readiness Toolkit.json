@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "22150fe4-9b69-4004-9603-a362014dba02",
+    "DataApi": "/Entries(guid'22150fe4-9b69-4004-9603-a362014dba02')/",
+    "VideoPageLink": "/Series/Windows-8-1-User-Readiness-Toolkit/Windows-8-1-User-Readiness-Toolkit-02-Roadmap-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/70a3/43155c5d-90b4-45d0-b2fc-f895cc2370a3/Win81UserReadinessToolkitM02_960.jpg",
+    "ShowName": "Windows 8.1 User Readiness Toolkit",
+    "VideoLength": "00:05:12",
+    "VideoTitle": "Windows 8.1 User Readiness Toolkit: (02) Roadmap + Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-08T22:49:55.3377343Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/70a3/43155c5d-90b4-45d0-b2fc-f895cc2370a3/Win81UserReadinessToolkitM02_mid.mp4",
+    "Description": "Explore the learning roadmap and resources. Full course outline: Mod 01: IntroductionMod 02: Roadmap &#43; OverviewMod 03: User Tip SheetMod 04: Email TemplatesMod 05: Posters &#43; FlyersMod 06: In-H"
+  },
+  {
+    "VideoId": "70526c8a-0d92-4fea-b753-a362014df8ae",
+    "DataApi": "/Entries(guid'70526c8a-0d92-4fea-b753-a362014df8ae')/",
+    "VideoPageLink": "/Series/Windows-8-1-User-Readiness-Toolkit/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f9ad/e7612d37-97b1-40b5-a36b-e9b3c0a0f9ad/Win81UserReadinessToolkitM03_960.jpg",
+    "ShowName": "Windows 8.1 User Readiness Toolkit",
+    "VideoLength": "00:04:17",
+    "VideoTitle": "Windows 8.1 User Readiness Toolkit: (03) User Tip Sheet",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-08T22:50:07.471254Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f9ad/e7612d37-97b1-40b5-a36b-e9b3c0a0f9ad/Win81UserReadinessToolkitM03_mid.mp4",
+    "Description": "Ready users on Windows 8.1 basics in 10 minutes. Full course outline: Mod 01: IntroductionMod 02: Roadmap &#43; OverviewMod 03: User Tip SheetMod 04: Email TemplatesMod 05: Posters &#43; FlyersMod 06:"
+  },
+  {
+    "VideoId": "95c8f2ad-0a3b-4b0a-9b5b-a362014e3613",
+    "DataApi": "/Entries(guid'95c8f2ad-0a3b-4b0a-9b5b-a362014e3613')/",
+    "VideoPageLink": "/Series/Windows-8-1-User-Readiness-Toolkit/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a739/6290be79-0b7a-4a45-83ff-3565d94ea739/Win81UserReadinessToolkitM04_960.jpg",
+    "ShowName": "Windows 8.1 User Readiness Toolkit",
+    "VideoLength": "00:05:39",
+    "VideoTitle": "Windows 8.1 User Readiness Toolkit: (04) Email Templates",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-08T22:50:19.1317916Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a739/6290be79-0b7a-4a45-83ff-3565d94ea739/Win81UserReadinessToolkitM04_mid.mp4",
+    "Description": "Send a series of emails to provide tips, online resources, and encouragement to your users. Full course outline: Mod 01: IntroductionMod 02: Roadmap &#43; OverviewMod 03: User Tip SheetMod 04: Email T"
+  },
+  {
+    "VideoId": "ffc0a842-4438-461d-9cbd-a362014e75c6",
+    "DataApi": "/Entries(guid'ffc0a842-4438-461d-9cbd-a362014e75c6')/",
+    "VideoPageLink": "/Series/Windows-8-1-User-Readiness-Toolkit/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c55d/6925946d-3f7c-4fdf-bc09-d86cf5a8c55d/Win81UserReadinessToolkitM05_960.jpg",
+    "ShowName": "Windows 8.1 User Readiness Toolkit",
+    "VideoLength": "00:03:01",
+    "VideoTitle": "Windows 8.1 User Readiness Toolkit: (05) Posters + Flyers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-08T22:50:28.8625397Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c55d/6925946d-3f7c-4fdf-bc09-d86cf5a8c55d/Win81UserReadinessToolkitM05_mid.mp4",
+    "Description": "Display these posters and flyers in public areas to announce Windows 8.1 deployment and to generate user excitement. Full course outline: Mod 01: IntroductionMod 02: Roadmap &#43; OverviewMod 03: User"
+  },
+  {
+    "VideoId": "222e4e13-44dc-45ab-ac32-a362014ecdcc",
+    "DataApi": "/Entries(guid'222e4e13-44dc-45ab-ac32-a362014ecdcc')/",
+    "VideoPageLink": "/Series/Windows-8-1-User-Readiness-Toolkit/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ef3b/a78b10a4-ae25-467e-b8c6-0f0fa334ef3b/Win81UserReadinessToolkitM06_960.jpg",
+    "ShowName": "Windows 8.1 User Readiness Toolkit",
+    "VideoLength": "00:05:28",
+    "VideoTitle": "Windows 8.1 User Readiness Toolkit: (06) In-House Trainer Toolkit",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-08T22:51:23.9995932Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ef3b/a78b10a4-ae25-467e-b8c6-0f0fa334ef3b/Win81UserReadinessToolkitM06_mid.mp4",
+    "Description": "To prepare in-house presentations, use the toolkit. Full course outline: Mod 01: IntroductionMod 02: Roadmap &#43; OverviewMod 03: User Tip SheetMod 04: Email TemplatesMod 05: Posters &#43; FlyersMod "
+  },
+  {
+    "VideoId": "b48d5605-8dc3-4602-a8be-a362014f1b03",
+    "DataApi": "/Entries(guid'b48d5605-8dc3-4602-a8be-a362014f1b03')/",
+    "VideoPageLink": "/Series/Windows-8-1-User-Readiness-Toolkit/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e17/742bdeeb-1495-452e-8cbb-d849653a7e17/Win81UserReadinessToolkitM07_960.jpg",
+    "ShowName": "Windows 8.1 User Readiness Toolkit",
+    "VideoLength": "00:03:45",
+    "VideoTitle": "Windows 8.1 User Readiness Toolkit: (07) How-to Videos",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-08T22:51:34.5065428Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e17/742bdeeb-1495-452e-8cbb-d849653a7e17/Win81UserReadinessToolkitM07_mid.mp4",
+    "Description": "Discover great self-learning tools for your users. Full course outline: Mod 01: IntroductionMod 02: Roadmap &#43; OverviewMod 03: User Tip SheetMod 04: Email TemplatesMod 05: Posters &#43; FlyersMod 0"
+  }
+]

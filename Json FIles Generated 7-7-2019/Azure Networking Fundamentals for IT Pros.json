@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "4af463f1-77ae-4e6e-b49f-a4030134172d",
+    "DataApi": "/Entries(guid'4af463f1-77ae-4e6e-b49f-a4030134172d')/",
+    "VideoPageLink": "/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d6f5/93808e5a-42d7-4e09-82ff-f27b6326d6f5/Mod2_960.jpg",
+    "ShowName": "Azure Networking Fundamentals for IT Pros",
+    "VideoLength": "00:12:09",
+    "VideoTitle": "(Module 2) â€‹Planning and Designing Your Cloud Network Infrastructure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T11:00:49Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d6f5/93808e5a-42d7-4e09-82ff-f27b6326d6f5/Mod2_mid.mp4",
+    "Description": "Planning our deployments for Azure and on-prem. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on variou"
+  },
+  {
+    "VideoId": "f9a712cd-b29d-4a78-89d2-a403013489ba",
+    "DataApi": "/Entries(guid'f9a712cd-b29d-4a78-89d2-a403013489ba')/",
+    "VideoPageLink": "/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6f3c/6cd5ea38-765a-4f8a-83ae-ec592bba6f3c/Mod3_960.jpg",
+    "ShowName": "Azure Networking Fundamentals for IT Pros",
+    "VideoLength": "00:17:17",
+    "VideoTitle": "(Module 3) Configuring Azure and On-Prem",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T11:02:05Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6f3c/6cd5ea38-765a-4f8a-83ae-ec592bba6f3c/Mod3_mid.mp4",
+    "Description": "Setting up on-prem and Azure VPNs. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on various Microsoft p"
+  },
+  {
+    "VideoId": "ce612b9b-59aa-47d8-a2be-a4030134dbb5",
+    "DataApi": "/Entries(guid'ce612b9b-59aa-47d8-a2be-a4030134dbb5')/",
+    "VideoPageLink": "/Series/Azure-Networking-Fundamentals-for-IT-Pros/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c60/51abf420-5ade-452d-ae6a-062148c53c60/Mod4_960.jpg",
+    "ShowName": "Azure Networking Fundamentals for IT Pros",
+    "VideoLength": "00:08:17",
+    "VideoTitle": "(Module 4) Testing Connectivity and Monitoring",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T11:03:19Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c60/51abf420-5ade-452d-ae6a-062148c53c60/Mod4_mid.mp4",
+    "Description": "Testing connectivity and monitoring VPNsâ€‹. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Professionals on various Mic"
+  }
+]

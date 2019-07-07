@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b9f17572-bbf9-4ece-b665-a67a01368ea0",
+    "DataApi": "/Entries(guid'b9f17572-bbf9-4ece-b665-a67a01368ea0')/",
+    "VideoPageLink": "/Shows/TechDefense/Azure-Key-Vault",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7fc8/600b633d-1993-439a-84ea-d333c3627fc8/Ep1_960.jpg",
+    "ShowName": "TechDefense",
+    "VideoLength": "00:12:24",
+    "VideoTitle": "Azure Key Vault",
+    "Author": "Anthony Turner",
+    "UtcDateTimePublished": "2016-09-09T16:45:33.9289911Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7fc8/600b633d-1993-439a-84ea-d333c3627fc8/Ep1_mid.mp4",
+    "Description": "On this episode of TechDefense, I talk about the importance of encryption for businesses and look at one possible solution offered by Microsoft: Azure Key Vault. TechDefense is a show produced by Anth"
+  }
+]

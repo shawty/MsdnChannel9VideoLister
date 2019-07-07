@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "aedd04ff-417a-4c81-a68c-a64300b789cc",
+    "DataApi": "/Entries(guid'aedd04ff-417a-4c81-a68c-a64300b789cc')/",
+    "VideoPageLink": "/Series/Explore-Microsoft-Visio-Arabic/Visio-with-SharePoint-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fa80/208b230d-efdd-4981-b045-1ad1defefa80/VisioSharePointArabic_960.jpg",
+    "ShowName": "Explore Microsoft Visio (Arabic)",
+    "VideoLength": "00:17:47",
+    "VideoTitle": "Visio with SharePoint (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-07-15T11:40:57.6444586Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fa80/208b230d-efdd-4981-b045-1ad1defefa80/VisioSharePointArabic_mid.mp4",
+    "Description": "The Relation between Visio and SharePoint starting from publishing your Visio diagrams on SharePoint to create your own portal, till utilizing Visio services for interacting with the published diagram"
+  },
+  {
+    "VideoId": "4838d4a3-825b-49a4-9064-a64300b74a30",
+    "DataApi": "/Entries(guid'4838d4a3-825b-49a4-9064-a64300b74a30')/",
+    "VideoPageLink": "/Series/Explore-Microsoft-Visio-Arabic/Data-Linked-Diagrams-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee10/108df974-5b29-414e-8c36-7e310b7cee10/DataLinkArabic_960.jpg",
+    "ShowName": "Explore Microsoft Visio (Arabic)",
+    "VideoLength": "00:30:52",
+    "VideoTitle": "Data Linked Diagrams (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-07-15T11:40:59.8248552Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee10/108df974-5b29-414e-8c36-7e310b7cee10/DataLinkArabic_mid.mp4",
+    "Description": "Connect your diagrams to any data source to have the ultimate monitoring experience with live diagrams. "
+  },
+  {
+    "VideoId": "ea5a43b7-9f85-4a8c-8f3c-a64300b6da6f",
+    "DataApi": "/Entries(guid'ea5a43b7-9f85-4a8c-8f3c-a64300b6da6f')/",
+    "VideoPageLink": "/Series/Explore-Microsoft-Visio-Arabic/Visio-Core-Components-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/412b/991e2484-ddb3-472f-821d-a44b0e83412b/ExploreVisioCoreArabic_960.jpg",
+    "ShowName": "Explore Microsoft Visio (Arabic)",
+    "VideoLength": "00:26:50",
+    "VideoTitle": "Visio Core Components (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-07-15T11:41:03.0051341Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/412b/991e2484-ddb3-472f-821d-a44b0e83412b/ExploreVisioCoreArabic_mid.mp4",
+    "Description": "Get to know Visio main building blocks; Create, Collaborate and Communicate. "
+  }
+]

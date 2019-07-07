@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "a0db65a4-1917-4e14-9f60-a5fb00fcfd5b",
+    "DataApi": "/Entries(guid'a0db65a4-1917-4e14-9f60-a5fb00fcfd5b')/",
+    "VideoPageLink": "/Blogs/Geekfest/What-We-Talk-About-When-We-Talk-About-Testing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ac3/29238b25-e63d-4181-83a6-565e7b293ac3/whatwetalkabout_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "00:51:38",
+    "VideoTitle": "What We Talk About When We Talk About Testing by Noel Rappin",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T18:36:50.6993284Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ac3/29238b25-e63d-4181-83a6-565e7b293ac3/whatwetalkabout_mid.mp4",
+    "Description": "&quot;Red. Green. Refactor&quot; is a great slogan for Test-Driven Development. It's less great as a guide to actual TDD practice. The slogan provides no guidance for two very important questions in a"
+  },
+  {
+    "VideoId": "7f803ef8-bf36-4581-96ee-a5fb00fc672c",
+    "DataApi": "/Entries(guid'7f803ef8-bf36-4581-96ee-a5fb00fc672c')/",
+    "VideoPageLink": "/Blogs/Geekfest/XRay-Transparency-for-the-Web",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4020/c6b21e82-49ef-404d-95b2-579f53ba4020/xray_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "00:48:09",
+    "VideoTitle": "XRay: Transparency for the Web by Marshall Shen",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T18:36:34.6152611Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4020/c6b21e82-49ef-404d-95b2-579f53ba4020/xray_mid.mp4",
+    "Description": "Today's Web servicesâ€“such as Google, Amazon, and Facebookâ€“leverage user data for varied purposes, including personalizing recommendations, targeting advertisements, and adjusting prices. At present, u"
+  },
+  {
+    "VideoId": "4003a710-3c0b-44aa-a4c4-a5fb00fbcee2",
+    "DataApi": "/Entries(guid'4003a710-3c0b-44aa-a4c4-a5fb00fbcee2')/",
+    "VideoPageLink": "/Blogs/Geekfest/Geekfest-Lightning-Talks-2015-04-07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/edf0/e3a770d7-0d38-47ef-8f7f-c05592baedf0/lightning20150407_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "00:43:12",
+    "VideoTitle": "Geekfest Lightning Talks! 2015-04-07",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T17:56:21.2047426Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/edf0/e3a770d7-0d38-47ef-8f7f-c05592baedf0/lightning20150407_mid.mp4",
+    "Description": "A set of lightning talks on various topics of interest to technologists. "
+  },
+  {
+    "VideoId": "b1a460d9-dd4e-4a19-8304-a5fb00fb3439",
+    "DataApi": "/Entries(guid'b1a460d9-dd4e-4a19-8304-a5fb00fb3439')/",
+    "VideoPageLink": "/Blogs/Geekfest/Audible-Algorithms",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e2b7/70490815-64ca-47fb-aacf-4ed3d3ebe2b7/audiblealgorithms_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "00:47:03",
+    "VideoTitle": "Audible Algorithms by Aaron Zimmerman",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T17:54:41.3616264Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e2b7/70490815-64ca-47fb-aacf-4ed3d3ebe2b7/audiblealgorithms_mid.mp4",
+    "Description": "What makes music, music? Composers have always sought new musical forms to give structure to their ideas but been limited by the feeble computing power of the human brain. What new musical structures "
+  },
+  {
+    "VideoId": "2cf280ec-3ce7-4a5b-b253-a5fb00fa94c7",
+    "DataApi": "/Entries(guid'2cf280ec-3ce7-4a5b-b253-a5fb00fa94c7')/",
+    "VideoPageLink": "/Blogs/Geekfest/Using-HTML-and-JavaScript-to-Build-Desktop-Applications",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bd6f/856da401-ab88-4e15-a038-46f158cebd6f/usinghtmlandjavascript_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "00:35:46",
+    "VideoTitle": "Using HTML and JavaScript to Build Desktop Applications by Jonathan Soeder",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T17:54:27.2630203Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bd6f/856da401-ab88-4e15-a038-46f158cebd6f/usinghtmlandjavascript_mid.mp4",
+    "Description": "In this talk, I will tell a story about I how discovered node-webkit. It opened up amazing new possibilities for me as a web developer to create desktop applications that I never would have tried a ye"
+  },
+  {
+    "VideoId": "3e92bf99-c626-49a9-afdf-a5fb00f9fea3",
+    "DataApi": "/Entries(guid'3e92bf99-c626-49a9-afdf-a5fb00f9fea3')/",
+    "VideoPageLink": "/Blogs/Geekfest/From-Developer-to-Manager",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/17ea/daf63686-1b12-4b51-91df-2545378a17ea/fromdevelopertomanager_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "00:58:49",
+    "VideoTitle": "From Developer to Manager: Finding Your Path by Chris Powers",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T17:54:13.3219035Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/17ea/daf63686-1b12-4b51-91df-2545378a17ea/fromdevelopertomanager_mid.mp4",
+    "Description": "We have all read blog articles from developers-turned-managers-turned-developers again decrying the shift while warning others not to &quot;sell out&quot; and stop writing code. The transition from so"
+  },
+  {
+    "VideoId": "81489c60-d1f4-4b7c-b2e7-a5fb00f92a08",
+    "DataApi": "/Entries(guid'81489c60-d1f4-4b7c-b2e7-a5fb00f92a08')/",
+    "VideoPageLink": "/Blogs/Geekfest/The-Primitives-of-High-Availability",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/783c/d9e7bec4-71fa-4d94-96c9-4ed15f40783c/PrimitivesofHighAvailability_960.jpg",
+    "ShowName": "Geekfest",
+    "VideoLength": "01:01:28",
+    "VideoTitle": "The Primitives of High-Availability by Paul Hinze",
+    "Author": "David Giard",
+    "UtcDateTimePublished": "2016-05-03T17:54:00.2514304Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/783c/d9e7bec4-71fa-4d94-96c9-4ed15f40783c/PrimitivesofHighAvailability_mid.mp4",
+    "Description": "Many of the greatest achievements in the history of computers are based on lies, or rather, the strategic sets of lies we generally call &quot;abstraction&quot;. Operating systems lie to programs abou"
+  }
+]

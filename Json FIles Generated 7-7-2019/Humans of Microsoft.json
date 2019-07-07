@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "9f3b9874-8c9a-48c4-b336-a7050153d20c",
+    "DataApi": "/Entries(guid'9f3b9874-8c9a-48c4-b336-a7050153d20c')/",
+    "VideoPageLink": "/Blogs/Humans-of-Microsoft/Humans-of-Microsoft-Jeffrey-Snover",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a20/13da6777-8241-4d56-882d-8ffb17d53a20/HOMJeffreySnover_960.jpg",
+    "ShowName": "Humans of Microsoft",
+    "VideoLength": "00:38:00",
+    "VideoTitle": "Humans of Microsoft: Jeffrey Snover",
+    "Author": "Rafat Sarosh",
+    "UtcDateTimePublished": "2017-01-25T18:43:08.2219108Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a20/13da6777-8241-4d56-882d-8ffb17d53a20/HOMJeffreySnover_mid.mp4",
+    "Description": "We are pleased to announce a new show â€œHumans of Microsoftâ€ and thanks to Jeffrey Snover to inaugurate our pilot. Jeffrey Snover, is a well-known figure of Microsoft. He is the inventor of PowerShell,"
+  }
+]

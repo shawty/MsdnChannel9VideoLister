@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "6fcdc4f1-2e62-4f2d-865c-a2c600008ef2",
+    "DataApi": "/Entries(guid'6fcdc4f1-2e62-4f2d-865c-a2c600008ef2')/",
+    "VideoPageLink": "/Series/Designing-Applications-for-Windows-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6d17/7eb873b4-c584-4876-813b-2346afb56d17/DesigningAppsForWindowsAzureM02_960.jpg",
+    "ShowName": "Designing Applications for Windows Azure",
+    "VideoLength": "00:48:59",
+    "VideoTitle": "Designing Applications for Windows Azure: (02) Reliability, Threats, and Mitigations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:18:17.1210402Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6d17/7eb873b4-c584-4876-813b-2346afb56d17/DesigningAppsForWindowsAzureM02_mid.mp4",
+    "Description": "Hear about the various threats to reliability. Learn about tactics and mitigation strategies for how to prepare for these threats, and explore how to design your applications with them in mind so that"
+  },
+  {
+    "VideoId": "c10a316e-9073-475a-b01f-a2c600012744",
+    "DataApi": "/Entries(guid'c10a316e-9073-475a-b01f-a2c600012744')/",
+    "VideoPageLink": "/Series/Designing-Applications-for-Windows-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/20d5/ad27441a-f36a-4102-82ea-a94e112a20d5/DesigningAppsForWindowsAzureM03_960.jpg",
+    "ShowName": "Designing Applications for Windows Azure",
+    "VideoLength": "00:55:31",
+    "VideoTitle": "Designing Applications for Windows Azure: (03) Modeling Applied",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:18:52.7569465Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/20d5/ad27441a-f36a-4102-82ea-a94e112a20d5/DesigningAppsForWindowsAzureM03_mid.mp4",
+    "Description": "Find out more about how to do capacity and availability modeling for your application. [01:44] - LifeCycle, Availability and Capacity Modeling[20:47] - Resiliency Modeling and AnalysisFull course outl"
+  },
+  {
+    "VideoId": "660242d0-93d0-446a-9b35-a2c600020572",
+    "DataApi": "/Entries(guid'660242d0-93d0-446a-9b35-a2c600020572')/",
+    "VideoPageLink": "/Series/Designing-Applications-for-Windows-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/26e9/1f55e29a-25e4-465c-9752-945d4e0526e9/DesigningAppsForWindowsAzureM04_960.jpg",
+    "ShowName": "Designing Applications for Windows Azure",
+    "VideoLength": "00:59:16",
+    "VideoTitle": "Designing Applications for Windows Azure: (04) Patterns for Resiliency and Availability",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:19:35.6054843Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/26e9/1f55e29a-25e4-465c-9752-945d4e0526e9/DesigningAppsForWindowsAzureM04_mid.mp4",
+    "Description": "Patterns for building cloud applications can help you with solutions for common problems encountered when developing cloud-hosted applications. Learn about patterns to specifically help you build resi"
+  },
+  {
+    "VideoId": "22ba415a-f00a-492e-b48a-a2c600024862",
+    "DataApi": "/Entries(guid'22ba415a-f00a-492e-b48a-a2c600024862')/",
+    "VideoPageLink": "/Series/Designing-Applications-for-Windows-Azure/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b8c0/88cc779e-ef7c-4548-93db-e29401a9b8c0/DesigningAppsForWindowsAzureM05_960.jpg",
+    "ShowName": "Designing Applications for Windows Azure",
+    "VideoLength": "01:01:14",
+    "VideoTitle": "Designing Applications for Windows Azure: (05) Patterns for Scalability",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:20:11.446804Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b8c0/88cc779e-ef7c-4548-93db-e29401a9b8c0/DesigningAppsForWindowsAzureM05_mid.mp4",
+    "Description": "Discover patterns to specifically help you build applications that can scale up to meet high demand. [03:28] - Scalability Problems[07:34] - Valet Key Pattern[20:09] - Sharding Pattern[36:08] - Materi"
+  }
+]

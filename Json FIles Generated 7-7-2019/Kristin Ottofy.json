@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "1bfcd09a-2cf2-4e29-9ba6-a636003c8c1d",
+    "DataApi": "/Entries(guid'1bfcd09a-2cf2-4e29-9ba6-a636003c8c1d')/",
+    "VideoPageLink": "/Blogs/kristinottofy/TiltSensor",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e32/b6f89da9-943c-4894-ade6-87443d9f4e32/TiltSensorBeerMe_960.jpg",
+    "ShowName": "Kristin Ottofy",
+    "VideoLength": "00:15:09",
+    "VideoTitle": "Introduction to Azure IoT - TiltSensor / Beer Me",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-07-02T18:51:33.3598344Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e32/b6f89da9-943c-4894-ade6-87443d9f4e32/TiltSensorBeerMe_mid.mp4",
+    "Description": "TiltSensor / Beer Me is an introductory IoT project that uses a Raspberry Pi 2 Model B, a breadboard, wires, 3 resistors, and 3 LEDs. The code is open sourced on GitHub and this video walks through ho"
+  },
+  {
+    "VideoId": "3c201437-124c-4b03-9e67-a6280112f210",
+    "DataApi": "/Entries(guid'3c201437-124c-4b03-9e67-a6280112f210')/",
+    "VideoPageLink": "/Blogs/kristinottofy/IntoxicatingVR-Atlanta",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f572/845b4003-f992-452b-82b1-35071638f572/IntoxicatingVRAtlanta_960.jpg",
+    "ShowName": "Kristin Ottofy",
+    "VideoLength": "00:02:52",
+    "VideoTitle": "IntoxicatingVR Atlanta",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-06-17T17:16:30.4460896Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f572/845b4003-f992-452b-82b1-35071638f572/IntoxicatingVRAtlanta_mid.mp4",
+    "Description": "IntoxicatingVR was an event held initially at the Microsoft Innovation Center (MIC) in Atlanta, Georgia on May 19, 2016. Ian Philpot, Microsoft Sr. Technical Evangelist, (@tripdubroot) was the masterm"
+  },
+  {
+    "VideoId": "764dcc6a-0f8a-42ae-84af-a5fe00f5ac3d",
+    "DataApi": "/Entries(guid'764dcc6a-0f8a-42ae-84af-a5fe00f5ac3d')/",
+    "VideoPageLink": "/Blogs/kristinottofy/Navlit",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ec6/66b13bd1-fd38-46fe-90fb-be807a775ec6/Navlit_960.jpg",
+    "ShowName": "Kristin Ottofy",
+    "VideoLength": "00:08:53",
+    "VideoTitle": "Navlit",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-05-06T15:43:12.6186818Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ec6/66b13bd1-fd38-46fe-90fb-be807a775ec6/Navlit_mid.mp4",
+    "Description": "Here's a video from the Navlit team demoing their web app that runs on Azure. These are the winners of the Best Microsoft Hack and second place overall at HackATL 2015! This application helps folks co"
+  },
+  {
+    "VideoId": "c61fbd70-a427-4838-8a39-a5f0011a1e09",
+    "DataApi": "/Entries(guid'c61fbd70-a427-4838-8a39-a5f0011a1e09')/",
+    "VideoPageLink": "/Blogs/kristinottofy/Sweet-Tweets-Part-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a828/85fdd652-60f5-4a9b-9311-9407f009a828/SweetTweetsPart3_960.jpg",
+    "ShowName": "Kristin Ottofy",
+    "VideoLength": "00:20:56",
+    "VideoTitle": "Sweet Tweets Part 3",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-04-27T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a828/85fdd652-60f5-4a9b-9311-9407f009a828/SweetTweetsPart3_mid.mp4",
+    "Description": "This is the third video in a three video series called Sweet Tweets! This is a web application that takes in an input, searches Twitter for tweets or users relating to that query, and sends the conten"
+  },
+  {
+    "VideoId": "ebd9aa1b-b9aa-4986-95ed-a5f001198b42",
+    "DataApi": "/Entries(guid'ebd9aa1b-b9aa-4986-95ed-a5f001198b42')/",
+    "VideoPageLink": "/Blogs/kristinottofy/Sweet-Tweets-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/197d/1930f26c-452c-4b46-8915-a9bf523f197d/SweetTweetsPart2_960.jpg",
+    "ShowName": "Kristin Ottofy",
+    "VideoLength": "00:22:51",
+    "VideoTitle": "Sweet Tweets Part 2",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-04-26T13:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/197d/1930f26c-452c-4b46-8915-a9bf523f197d/SweetTweetsPart2_mid.mp4",
+    "Description": "This is the second video in a three video series called Sweet Tweets! This is a web application that takes in an input, searches Twitter for tweets or users relating to that query, and sends the conte"
+  },
+  {
+    "VideoId": "dc4f3e47-79df-491e-9cd4-a5f001078ec3",
+    "DataApi": "/Entries(guid'dc4f3e47-79df-491e-9cd4-a5f001078ec3')/",
+    "VideoPageLink": "/Blogs/kristinottofy/Sweet-Tweets-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/11f1/85524313-8478-41d9-b784-e4b8401a11f1/SweetTweetsPart1_960.jpg",
+    "ShowName": "Kristin Ottofy",
+    "VideoLength": "00:15:12",
+    "VideoTitle": "Sweet Tweets Part 1",
+    "Author": "Kristin",
+    "UtcDateTimePublished": "2016-04-25T16:23:11.8291012Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/11f1/85524313-8478-41d9-b784-e4b8401a11f1/SweetTweetsPart1_mid.mp4",
+    "Description": "This is the first video in a three video series called Sweet Tweets! This is a web application that takes in an input, searches Twitter for tweets or users relating to that query, and sends the conten"
+  }
+]

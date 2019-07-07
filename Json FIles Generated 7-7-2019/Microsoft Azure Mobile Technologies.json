@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "1dc1c192-adf8-4647-bcfe-a3a90056e96d",
+    "DataApi": "/Entries(guid'1dc1c192-adf8-4647-bcfe-a3a90056e96d')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-1-Setting-Up-The-Backend-Infrastructure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e9ba/ae90328a-42ac-413c-bcc0-0b21ba28e9ba/Lesson1_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:38:32",
+    "VideoTitle": "Lesson 1: Setting Up The Backend Infrastructure",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:26:14.1428123Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e9ba/ae90328a-42ac-413c-bcc0-0b21ba28e9ba/Lesson1_mid.mp4",
+    "Description": "In this lesson, you will learn how to use Microsoft Azure Mobile Services and set up a common backend that is hosted on Microsoft Azure cloud platform, which can be used by various types of platforms "
+  },
+  {
+    "VideoId": "381ed3e0-0d92-4ff3-aa19-a3a9005753f5",
+    "DataApi": "/Entries(guid'381ed3e0-0d92-4ff3-aa19-a3a9005753f5')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-2-Setting-Up-Database-Triggers-Using-Node-Js",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5cd8/830b6abf-7aa6-4299-850f-ab5c8da75cd8/Lesson2_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:14:08",
+    "VideoTitle": "Lesson 2: Setting Up Database Triggers Using Node.Js",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:28:24.5074298Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5cd8/830b6abf-7aa6-4299-850f-ab5c8da75cd8/Lesson2_mid.mp4",
+    "Description": "In this lesson, you will learn how to set up triggers for the Data Manipulation Language (DML) operation, that is, insert triggers to add data from the table to the LOGS tab in Microsoft Azure. "
+  },
+  {
+    "VideoId": "8f416a0a-8fea-4208-a14d-a3a9005c2922",
+    "DataApi": "/Entries(guid'8f416a0a-8fea-4208-a14d-a3a9005c2922')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-3-Getting-Started-With-Authentication-In-Mobile-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f7e0/a584ab94-362d-4009-91ea-dc04441ef7e0/Lesson3_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:14:14",
+    "VideoTitle": "Lesson 3: Getting Started With Authentication In Mobile Services",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:28:46.112992Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f7e0/a584ab94-362d-4009-91ea-dc04441ef7e0/Lesson3_mid.mp4",
+    "Description": "In this lesson, you will learn how to authenticate users for your app, in Microsoft Azure Mobile Services. You also add authentication using an identity provider that is supported by Microsoft Azure M"
+  },
+  {
+    "VideoId": "287af109-988f-412c-bb84-a3a9005c97b7",
+    "DataApi": "/Entries(guid'287af109-988f-412c-bb84-a3a9005c97b7')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-4-Getting-Started-With-Push-Notification",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dfc3/aefc251b-d379-4ddd-a2e0-0ee74f03dfc3/Lesson4_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:33:36",
+    "VideoTitle": "Lesson 4: Getting Started With Push Notification",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:30:37.8388084Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dfc3/aefc251b-d379-4ddd-a2e0-0ee74f03dfc3/Lesson4_mid.mp4",
+    "Description": "In this lesson, you will learn how to configure your Android app, to send and receive push notifications using Microsoft Azure Mobile Services. "
+  },
+  {
+    "VideoId": "d3933f13-5cb4-4fb1-adf4-a3a9005d19cb",
+    "DataApi": "/Entries(guid'd3933f13-5cb4-4fb1-adf4-a3a9005d19cb')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-5-Configuring-And-Working-With-Source-Control",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6a1d/f8734777-ae53-4c1a-9cee-d97a13ef6a1d/Lesson5_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:14:23",
+    "VideoTitle": "Lesson 5: Configuring And Working With Source Control",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:31:02.9429655Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a1d/f8734777-ae53-4c1a-9cee-d97a13ef6a1d/Lesson5_mid.mp4",
+    "Description": "In this lesson, you will learn how to configure your mobile services to provide a Git repository to store the server-side scripts of the Mobile Service. These server-side script files of Mobile Servic"
+  },
+  {
+    "VideoId": "50faa4ad-de14-4350-a3ce-a3a9005d5adf",
+    "DataApi": "/Entries(guid'50faa4ad-de14-4350-a3ce-a3a9005d5adf')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-6-Configuring-And-Working-With-A-Scheduler",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d173/032d2f16-e9a0-4575-82a9-68aeebc2d173/Lesson6_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:14:49",
+    "VideoTitle": "Lesson 6: Configuring And Working With A Scheduler",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:31:18.6045261Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d173/032d2f16-e9a0-4575-82a9-68aeebc2d173/Lesson6_mid.mp4",
+    "Description": "In this case, the remote service is Twitter, and the tweets and replies are stored in a new table in Microsoft Azure. The job scheduler functionality sends these stored tweets to your app users as per"
+  },
+  {
+    "VideoId": "01dd0b73-f128-4056-857a-a3a9005d9d61",
+    "DataApi": "/Entries(guid'01dd0b73-f128-4056-857a-a3a9005d9d61')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Mobile-Technologies/Lesson-7-Connecting-MySQL-Virtual-Machine-To-Microsoft-Azure-Mobile-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6904/259faeb1-42fc-4d4b-bdc7-9e7e880c6904/Lesson7_960.jpg",
+    "ShowName": "Microsoft Azure Mobile Technologies",
+    "VideoLength": "00:21:55",
+    "VideoTitle": "Lesson 7: Connecting MySQL Virtual Machine To Microsoft Azure Mobile Services",
+    "Author": "manuelpremkumar",
+    "UtcDateTimePublished": "2014-09-18T08:31:47.3310722Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6904/259faeb1-42fc-4d4b-bdc7-9e7e880c6904/Lesson7_mid.mp4",
+    "Description": "In this lesson, you will learn how to deploy your app on Microsoft Azure. "
+  }
+]

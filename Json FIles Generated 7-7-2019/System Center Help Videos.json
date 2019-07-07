@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "51f54251-13f7-49e2-97c8-a32a01797080",
+    "DataApi": "/Entries(guid'51f54251-13f7-49e2-97c8-a32a01797080')/",
+    "VideoPageLink": "/blogs/System-Center-Help-Videos/How-to-write-a-good-Curah-title",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95ae/2dcc9101-d102-4e59-91ab-3d4e9d0a95ae/Curah03_960.jpg",
+    "ShowName": "System Center Help Videos",
+    "VideoLength": "00:02:04",
+    "VideoTitle": "How to write a good Curah! title",
+    "Author": "ErikKj",
+    "UtcDateTimePublished": "2014-05-13T23:28:19.0095189Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95ae/2dcc9101-d102-4e59-91ab-3d4e9d0a95ae/Curah03_mid.mp4",
+    "Description": "The Curah! team reveals some helpful guidelines when writing the titles for your curations. "
+  },
+  {
+    "VideoId": "3c5e4712-20d1-44c2-86a0-a31c0120d23f",
+    "DataApi": "/Entries(guid'3c5e4712-20d1-44c2-86a0-a31c0120d23f')/",
+    "VideoPageLink": "/blogs/System-Center-Help-Videos/What-makes-a-good-curation-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ca0/a01f57ba-c624-42ca-a0b2-b937c79d5ca0/Curah02_960.jpg",
+    "ShowName": "System Center Help Videos",
+    "VideoLength": "00:01:32",
+    "VideoTitle": "What makes a good curation?",
+    "Author": "ErikKj",
+    "UtcDateTimePublished": "2014-05-01T19:46:54.8235643Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ca0/a01f57ba-c624-42ca-a0b2-b937c79d5ca0/Curah02_mid.mp4",
+    "Description": "Here are a few tips from the Curah! team to help you create great curations. "
+  },
+  {
+    "VideoId": "a89f20d2-2275-4741-9ae1-a31e013bdb8b",
+    "DataApi": "/Entries(guid'a89f20d2-2275-4741-9ae1-a31e013bdb8b')/",
+    "VideoPageLink": "/blogs/System-Center-Help-Videos/Introduction-to-Curah-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a155/2ab23ebe-b566-4dfa-a3da-d935748ea155/Curah01_960.jpg",
+    "ShowName": "System Center Help Videos",
+    "VideoLength": "00:01:17",
+    "VideoTitle": "Introduction to Curah!",
+    "Author": "ErikKj",
+    "UtcDateTimePublished": "2014-05-01T19:43:58.8637678Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a155/2ab23ebe-b566-4dfa-a3da-d935748ea155/Curah01_mid.mp4",
+    "Description": "Searching for great technical information is tough â€“ as is finding the right place to contribute and show off great content. The new content service Curah! makes those tasks much easier. "
+  },
+  {
+    "VideoId": "175aac82-d66d-4a90-8cee-a2ca0123940a",
+    "DataApi": "/Entries(guid'175aac82-d66d-4a90-8cee-a2ca0123940a')/",
+    "VideoPageLink": "/blogs/System-Center-Help-Videos/Quickly-create-multiple-Hyper-V-hosts-in-Virtual-Machine-Manager",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f3d7/d1c3dcc9-c323-45fc-89a9-7aa8d20ef3d7/CreateMultipleHyperVHosts_960.jpg",
+    "ShowName": "System Center Help Videos",
+    "VideoLength": "00:02:10",
+    "VideoTitle": "Quickly create multiple Hyper-V hosts in Virtual Machine Manager",
+    "Author": "ErikKj",
+    "UtcDateTimePublished": "2014-02-06T20:58:35.1834435Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f3d7/d1c3dcc9-c323-45fc-89a9-7aa8d20ef3d7/CreateMultipleHyperVHosts_mid.mp4",
+    "Description": "Virtual Machine Manager lets you quickly create Hyper-V host by using physical computer profiles. "
+  }
+]

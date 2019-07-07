@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "17c65d43-7846-4944-8c3a-a68f016b3e3e",
+    "DataApi": "/Entries(guid'17c65d43-7846-4944-8c3a-a68f016b3e3e')/",
+    "VideoPageLink": "/Blogs/WindowsDev/Reach-more-customers-with-Windows-Store-for-Business",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b1e/6800dd11-87b7-4224-bec3-65d5d5e64b1e/ReachWindowsStoreBusiness_960.jpg",
+    "ShowName": "Windows Developer",
+    "VideoLength": "00:01:49",
+    "VideoTitle": "Reach more customers with Windows Store for Business",
+    "Author": "Seth Juarez",
+    "UtcDateTimePublished": "2016-09-28T22:11:35.1828385Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b1e/6800dd11-87b7-4224-bec3-65d5d5e64b1e/ReachWindowsStoreBusiness_mid.mp4",
+    "Description": "Windows Store for Business enables app developers to extend their reach to businesses and education institutions running Windows 10. Using a Windows Dev Center account, publish high value apps to the "
+  },
+  {
+    "VideoId": "856f2f45-ccc3-4425-9ce9-a680016c6db9",
+    "DataApi": "/Entries(guid'856f2f45-ccc3-4425-9ce9-a680016c6db9')/",
+    "VideoPageLink": "/Blogs/WindowsDev/Desktop-Bridge-Update-with-Windows-Developer-CVP-Kevin-Gallo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0a71/f023f614-4b91-43f8-88e9-756b918e0a71/DesktopBridgeUpdatewithKevinGallo_960.jpg",
+    "ShowName": "Windows Developer",
+    "VideoLength": "00:11:36",
+    "VideoTitle": "Desktop Bridge Update with Windows Developer CVP, Kevin Gallo ",
+    "Author": "Seth Juarez",
+    "UtcDateTimePublished": "2016-09-14T15:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0a71/f023f614-4b91-43f8-88e9-756b918e0a71/DesktopBridgeUpdatewithKevinGallo_mid.mp4",
+    "Description": "In this video Kevin Gallo discusses the latest improvements for the Desktop Bridge, including the first set of apps built using the Desktop App Converter becoming available in the Windows Store. In ad"
+  }
+]

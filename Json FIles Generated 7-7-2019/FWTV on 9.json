@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "38a2b123-7341-4d67-8d23-a60400259f22",
+    "DataApi": "/Entries(guid'38a2b123-7341-4d67-8d23-a60400259f22')/",
+    "VideoPageLink": "/Series/FWTV-on-9/Cognitive-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/287d/96f79563-c9d3-4236-a701-753296bd287d/FWTVonCh9002_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:07:52",
+    "VideoTitle": "Live from Build 2016: Cognitive Services",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-05-12T02:42:48.6424942Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/287d/96f79563-c9d3-4236-a701-753296bd287d/FWTVonCh9002_mid.mp4",
+    "Description": "In this video, Jennifer Marsman talks with Anna Roth about Microsoft Cognitive services. Learn a little about the underlying technology behind the emotion recognition APIs, hear some ideas about how t"
+  },
+  {
+    "VideoId": "db56de96-4e2d-4ffb-bca3-a60c00955054",
+    "DataApi": "/Entries(guid'db56de96-4e2d-4ffb-bca3-a60c00955054')/",
+    "VideoPageLink": "/Series/FWTV-on-9/Gaza-Sky-Geeks",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ed2a/d7baad07-14a5-43ba-8913-c94f9546ed2a/FWTVOn9Show003_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:00:00",
+    "VideoTitle": "Gaza Sky Geeks",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-05-20T12:34:23.7789067Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ed2a/d7baad07-14a5-43ba-8913-c94f9546ed2a/FWTVOn9Show003_mid.mp4",
+    "Description": "I caught up with Iliana Montauk at 1776 to talk about her work with Gaza Sky Geeks, the first startup accelerator in Gaza.  Gaza Sky Geeks websiteGaza Sky Geeks on TwitterIliana on Twitter"
+  },
+  {
+    "VideoId": "f73777fd-41f6-4531-9591-a60d00245df0",
+    "DataApi": "/Entries(guid'f73777fd-41f6-4531-9591-a60d00245df0')/",
+    "VideoPageLink": "/Series/FWTV-on-9/What-is-the-Microsoft-Reactor",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a1e6/c2bd7ae7-1b52-4f3d-9c2e-72b9ee6ba1e6/FWTVOnCh9004_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:03:04",
+    "VideoTitle": "What is the Microsoft Reactor?",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-05-21T03:18:08.9811928Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a1e6/c2bd7ae7-1b52-4f3d-9c2e-72b9ee6ba1e6/FWTVOnCh9004_mid.mp4",
+    "Description": "Something interesting is always brewing at the Microsoft Reactor in San Francisco.   FWTV checks it out. Links: Microsoft Reactor websiteMicrosoft Reactor on TwitterKenny Spade on TwitterFrank's World"
+  },
+  {
+    "VideoId": "7f4429e1-425e-4d6d-b70e-a61b0046da8b",
+    "DataApi": "/Entries(guid'7f4429e1-425e-4d6d-b70e-a61b0046da8b')/",
+    "VideoPageLink": "/Series/FWTV-on-9/Decoding-Brainwaves-with-Azure-Machine-Learning",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a67f/9a8f3c0f-4d6d-4f1e-b7f6-f2b7f4eda67f/FWTVon9Show006_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:10:06",
+    "VideoTitle": "Decoding Brainwaves with Azure Machine Learning",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-06-04T05:12:36.5845759Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a67f/9a8f3c0f-4d6d-4f1e-b7f6-f2b7f4eda67f/FWTVon9Show006_mid.mp4",
+    "Description": "I had the good fortune to meet Charis Loveland at the Machine Learning, Analytics, &amp; Data Science Conference in Redmond, WA.  Charis manages the team behind the Decoding Brain Signals machine lear"
+  },
+  {
+    "VideoId": "37cf168d-1fa3-4324-8b98-a61b00515866",
+    "DataApi": "/Entries(guid'37cf168d-1fa3-4324-8b98-a61b00515866')/",
+    "VideoPageLink": "/Series/FWTV-on-9/Getting-Started-in-the-Decoding-Brain-Signals-Competition",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f653/aef373b5-5e08-4b14-ae3c-f3156fdcf653/FWTVonCh9Show007_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:12:33",
+    "VideoTitle": "Getting Started in the Decoding Brain Signals Competition",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-06-04T05:37:56.8571058Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f653/aef373b5-5e08-4b14-ae3c-f3156fdcf653/FWTVonCh9Show007_mid.mp4",
+    "Description": "Get started with machine learning today and help advance neuroscience!   Sign up for the Decoding Brain Signals Competition at https://gallery.cortanaintelligence.com/Competition/Decoding-Brain-Signal"
+  },
+  {
+    "VideoId": "3f43b295-8ad8-4cac-b2f1-a63a011233cb",
+    "DataApi": "/Entries(guid'3f43b295-8ad8-4cac-b2f1-a63a011233cb')/",
+    "VideoPageLink": "/Series/FWTV-on-9/National-Maker-Faire",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aaa5/0c6a1f65-a3bb-47fc-9383-40723c3caaa5/FWOn9007_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:05:07",
+    "VideoTitle": "National Maker Faire",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-07-05T16:51:10.9634187Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aaa5/0c6a1f65-a3bb-47fc-9383-40723c3caaa5/FWOn9007_mid.mp4",
+    "Description": "The National Maker Faire took place in Washington, DC June 18-19, 2016 to celebrate a #NationOfMakers. And Frank's World TV was there. "
+  },
+  {
+    "VideoId": "75d7fcba-7ceb-445d-8ad3-a65700fa1f99",
+    "DataApi": "/Entries(guid'75d7fcba-7ceb-445d-8ad3-a65700fa1f99')/",
+    "VideoPageLink": "/Series/FWTV-on-9/Cortana-Intelligence-Competitions-a-New-Challenge",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a59e/d37497b9-9056-4a03-ac10-c8c62b0ba59e/FWTVon9Show008_960.jpg",
+    "ShowName": "FWTV on 9",
+    "VideoLength": "00:13:16",
+    "VideoTitle": "Cortana Intelligence Competitions: a New Challenge",
+    "Author": "Frank La Vigne",
+    "UtcDateTimePublished": "2016-08-03T15:36:21.7332044Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a59e/d37497b9-9056-4a03-ac10-c8c62b0ba59e/FWTVon9Show008_mid.mp4",
+    "Description": "Charis Loveland makes the trip to DC to talk about the results of the Decoding Brainwaves Competition and tells us about a new challenge.   Sign up for the Competition https://gallery.cortanaintellige"
+  }
+]

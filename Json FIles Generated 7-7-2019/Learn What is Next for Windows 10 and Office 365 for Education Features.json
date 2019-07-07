@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "9dac22e3-a8a2-47f0-9233-a7b6008a70b9",
+    "DataApi": "/Entries(guid'9dac22e3-a8a2-47f0-9233-a7b6008a70b9')/",
+    "VideoPageLink": "/Shows/Learn-What-is-Next-for-Windows-10-and-Office-365-for-Education-Features/The-Latest-Windows-10-and-Office-365-for-Education-features",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f180/e8306cc8-884f-47e7-a85a-794376b7f180/LatestWindwandO365Edu_960.jpg",
+    "ShowName": "Learn What is Next for Windows 10 and Office 365 for Education Features",
+    "VideoLength": "00:41:40",
+    "VideoTitle": "The Latest Windows 10 and Office 365 for Education features",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2017-07-20T12:23:01.0620085Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f180/e8306cc8-884f-47e7-a85a-794376b7f180/LatestWindwandO365Edu_mid.mp4",
+    "Description": "Learn about some of the enhanced safety and security features of Windows 10 and how to simplify device management using Intune for Education.   "
+  }
+]

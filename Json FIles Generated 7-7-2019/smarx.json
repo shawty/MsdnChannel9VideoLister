@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "3d438b62-82be-403a-aa83-9dea011bf83f",
+    "DataApi": "/Entries(guid'3d438b62-82be-403a-aa83-9dea011bf83f')/",
+    "VideoPageLink": "/Blogs/smarx/The-CIA-Pickup-a-Windows-Azure-Sample",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "82c84a00-21f4-4e64-923d-9dea011bfe62",
+    "DataApi": "/Entries(guid'82c84a00-21f4-4e64-923d-9dea011bfe62')/",
+    "VideoPageLink": "/Blogs/smarx/Windows-Azure-Tools-for-Visual-Studio",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "3e42ec3a-7650-4be1-8d9a-9dea011c03e6",
+    "DataApi": "/Entries(guid'3e42ec3a-7650-4be1-8d9a-9dea011c03e6')/",
+    "VideoPageLink": "/Blogs/smarx/Windows-Azure-Table-Storage",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "bd682134-f1e0-46c5-ad5f-9dea011c0aa6",
+    "DataApi": "/Entries(guid'bd682134-f1e0-46c5-ad5f-9dea011c0aa6')/",
+    "VideoPageLink": "/Blogs/smarx/Windows-Azure-Blob-Storage",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "bcd72b0b-66fa-40b6-ab1f-9dea011c11ea",
+    "DataApi": "/Entries(guid'bcd72b0b-66fa-40b6-ab1f-9dea011c11ea')/",
+    "VideoPageLink": "/Blogs/smarx/Windows-Azure-Hello-Cloud",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "09c9ca48-a99f-4147-860f-9dea011c26cf",
+    "DataApi": "/Entries(guid'09c9ca48-a99f-4147-860f-9dea011c26cf')/",
+    "VideoPageLink": "/Blogs/smarx/MIX07-video-player-sample-with-all-the-new-stuff",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1f2d/2fe52c9e-188d-4feb-adc4-4a83f44f1f2d/MIX07-video-player-sample-with-all-the-new-stuff_960.jpg",
+    "ShowName": "smarx",
+    "VideoLength": "00:15:47",
+    "VideoTitle": "MIX'07 video player sample - with all the new stuff",
+    "Author": "Steve Marx",
+    "UtcDateTimePublished": "2007-08-01T16:10:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1f2d/2fe52c9e-188d-4feb-adc4-4a83f44f1f2d/MIX07-video-player-sample-with-all-the-new-stuff_mid.mp4",
+    "Description": "I built my own MIX'07 video player last night and recorded a 15 minute screencast to give you an idea of what's possible with all the new releases that came out last week.\n\nSee the blog post at \nht"
+  },
+  {
+    "VideoId": "e1c138fc-ff7e-47a9-b01c-9dea011c2cae",
+    "DataApi": "/Entries(guid'e1c138fc-ff7e-47a9-b01c-9dea011c2cae')/",
+    "VideoPageLink": "/Blogs/smarx/smarxwear-ASPNET-AJAX-T-shirt-demo",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

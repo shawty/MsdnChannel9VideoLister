@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "288055e6-11f7-41ee-a1aa-a69b00502683",
+    "DataApi": "/Entries(guid'288055e6-11f7-41ee-a1aa-a69b00502683')/",
+    "VideoPageLink": "/Blogs/AzureRM-Management-from-any-Platform/AuzreRm-Management-From-any-Platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1a9b/045f5e7e-4870-46f0-80e1-177f54a71a9b/azuremgmtxplat_960.jpg",
+    "ShowName": "AzureRM Management from Any Platform",
+    "VideoLength": "00:24:18",
+    "VideoTitle": "AzureRm Management From any Platform",
+    "Author": "Jessica Deen",
+    "UtcDateTimePublished": "2016-10-10T16:16:58.3817541Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1a9b/045f5e7e-4870-46f0-80e1-177f54a71a9b/azuremgmtxplat_mid.mp4",
+    "Description": "Do you have an Azure subscription or are you interested in getting started with Azure but you don't use Windows as a primary OS? Come learn how to manage your Azure subscription from both Ubuntu and O"
+  }
+]

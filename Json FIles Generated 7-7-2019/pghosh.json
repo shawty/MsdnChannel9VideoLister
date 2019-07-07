@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6669037a-f772-4f02-8412-9deb00dd5b7e",
+    "DataApi": "/Entries(guid'6669037a-f772-4f02-8412-9deb00dd5b7e')/",
+    "VideoPageLink": "/Blogs/pghosh/The-NY-TimesSilverlight-Open-API-toolkit",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/9/8/3/5/7/4/NYTimesSLKitInterview_large_ch9.png",
+    "ShowName": "pghosh",
+    "VideoLength": "00:11:53",
+    "VideoTitle": "The NY Times/Silverlight Open API toolkit",
+    "Author": "pghosh",
+    "UtcDateTimePublished": "2009-06-25T17:36:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/9/8/3/5/7/4/NYTimesSLKitInterview_ch9.mp4",
+    "Description": "\nSince The New York Times has just recently released a set of open news content APIs (NY Times APIs) and accompanying Silverlight kit\n to the developer community at large we wanted the full story be"
+  }
+]

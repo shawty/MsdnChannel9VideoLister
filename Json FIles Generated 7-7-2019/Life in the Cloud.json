@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "3c56c063-48b4-4850-8d77-a4ff00183d75",
+    "DataApi": "/Entries(guid'3c56c063-48b4-4850-8d77-a4ff00183d75')/",
+    "VideoPageLink": "/Blogs/joeraio/Publishing-Your-First-Web-App-to-Microsoft-Azure-using-Git",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/91c5/2d4ce62d-bb21-4e36-a3b9-9de91c1891c5/PublishWebAppAzureGit_960.jpg",
+    "ShowName": "Life in the Cloud",
+    "VideoLength": "00:15:35",
+    "VideoTitle": "Publishing Your First Web App to Microsoft Azure using Git",
+    "Author": "Brian Sherwin",
+    "UtcDateTimePublished": "2015-08-25T02:18:52.4098287Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/91c5/2d4ce62d-bb21-4e36-a3b9-9de91c1891c5/PublishWebAppAzureGit_mid.mp4",
+    "Description": "This video will walk you through how to publish your first web app to Microsoft Azure using Git Version Control. Pre-requisites Githttp://www.git-scm.com/ Installing Git Version Control on your PC or "
+  },
+  {
+    "VideoId": "56ec78e3-4c75-4d89-a2bd-a4fb0146b3be",
+    "DataApi": "/Entries(guid'56ec78e3-4c75-4d89-a2bd-a4fb0146b3be')/",
+    "VideoPageLink": "/Blogs/joeraio/Deploying-VorlonJS-to-Azure-Web-App-for-Remote-Debugging",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e407/df802c86-8979-4626-9685-44d58f52e407/DeployVorlonJStoAzureWebAppV2_960.jpg",
+    "ShowName": "Life in the Cloud",
+    "VideoLength": "00:17:41",
+    "VideoTitle": "Deploying VorlonJS to Azure Web App for Remote Debugging",
+    "Author": "Joe Raio",
+    "UtcDateTimePublished": "2015-08-23T19:41:24.2916867Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e407/df802c86-8979-4626-9685-44d58f52e407/DeployVorlonJStoAzureWebAppV2_mid.mp4",
+    "Description": "This video will walk you through how to deploy VorlonJS to an Azure Web App using Git version control. The pre-requisites for this video are that you have an active Microsoft Azure account and node.js"
+  },
+  {
+    "VideoId": "4bad022a-6868-4b1f-8321-a4fa00d0a9e2",
+    "DataApi": "/Entries(guid'4bad022a-6868-4b1f-8321-a4fa00d0a9e2')/",
+    "VideoPageLink": "/Blogs/joeraio/Installing-Git-Version-Control-on-your-PC-or-MAC",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/99b5/9f2135c5-c858-428d-9550-39e5628899b5/InstallingGitonPCorMac_960.jpg",
+    "ShowName": "Life in the Cloud",
+    "VideoLength": "00:07:18",
+    "VideoTitle": "Installing Git Version Control on your PC or MAC",
+    "Author": "Brian Sherwin",
+    "UtcDateTimePublished": "2015-08-20T12:55:47.961328Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/99b5/9f2135c5-c858-428d-9550-39e5628899b5/InstallingGitonPCorMac_mid.mp4",
+    "Description": "This video will walk you through how to install and configure Git on your PC or MAC. Git is a free and open source distributed version control system designed to handle everything from small to very l"
+  },
+  {
+    "VideoId": "e5b6d5a4-3a3a-46f4-92fa-a4f901381332",
+    "DataApi": "/Entries(guid'e5b6d5a4-3a3a-46f4-92fa-a4f901381332')/",
+    "VideoPageLink": "/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/32e3/bbb72e85-b2f7-405b-bfd3-e8d335ad32e3/ActivatingAzurePass_960.jpg",
+    "ShowName": "Life in the Cloud",
+    "VideoLength": "00:10:46",
+    "VideoTitle": "Activating Microsoft Azure Subscription Using Azure Pass",
+    "Author": "Brian Sherwin",
+    "UtcDateTimePublished": "2015-08-19T19:38:44.9524834Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/32e3/bbb72e85-b2f7-405b-bfd3-e8d335ad32e3/ActivatingAzurePass_mid.mp4",
+    "Description": "This video will walk you through how to activate your Microsoft Azure Subscription using a supplied Azure Pass. You may have received an Azure pass from an event such as a hackathon or Microsoft prese"
+  },
+  {
+    "VideoId": "2d40e85d-cad1-4110-ac5d-a4f4014fa425",
+    "DataApi": "/Entries(guid'2d40e85d-cad1-4110-ac5d-a4f4014fa425')/",
+    "VideoPageLink": "/Blogs/joeraio/Installing-Visual-Studio-Code-on-PC-or-MAC",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e62a/a86de47c-41ef-4165-9b83-9cb4245ae62a/installingvscodeonpcandmac_960.jpg",
+    "ShowName": "Life in the Cloud",
+    "VideoLength": "00:04:55",
+    "VideoTitle": "Installing Visual Studio Code on PC or MAC",
+    "Author": "Brian Sherwin",
+    "UtcDateTimePublished": "2015-08-17T14:06:00.9642485Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e62a/a86de47c-41ef-4165-9b83-9cb4245ae62a/installingvscodeonpcandmac_mid.mp4",
+    "Description": "This video will show you how to get coding in no time using Visual Studio Code. This cross platform code editor is extremely powerful and works on PC, Mac or Linux. This video will walk you through th"
+  }
+]

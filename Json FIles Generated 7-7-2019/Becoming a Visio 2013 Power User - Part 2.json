@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "1ab8d70f-1ff7-4db7-88d3-a48801121e6c",
+    "DataApi": "/Entries(guid'1ab8d70f-1ff7-4db7-88d3-a48801121e6c')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User-Part-2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3fe7/1272b9af-e599-40e2-96ec-be4fe2083fe7/767BecomeVisio2013PwrUsrP2M02_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User - Part 2",
+    "VideoLength": "00:38:55",
+    "VideoTitle": "Becoming a Visio 2013 Power User - Part 2: (02) Data-Linked Diagrams and Data Visualization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-29T15:46:11.0040734Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3fe7/1272b9af-e599-40e2-96ec-be4fe2083fe7/767BecomeVisio2013PwrUsrP2M02_mid.mp4",
+    "Description": "Explore linking Visio diagrams to Excel and SharePoint lists. See a demonstration of the rich suite of data visualization capabilities in Visio. [04:01] - Linking to data in Excel[22:21] - Linking to "
+  },
+  {
+    "VideoId": "6090c705-a439-4c65-a050-a497011306a5",
+    "DataApi": "/Entries(guid'6090c705-a439-4c65-a050-a497011306a5')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User-Part-2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8539/83b11b88-2548-4615-96e2-0ffb9d3b8539/767BecomeVisio2013PwrUsrP2M03_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User - Part 2",
+    "VideoLength": "00:31:40",
+    "VideoTitle": "Becoming a Visio 2013 Power User - Part 2: (03) Visio Services and SharePoint 2013",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-05-13T19:29:31.6260582Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8539/83b11b88-2548-4615-96e2-0ffb9d3b8539/767BecomeVisio2013PwrUsrP2M03_mid.mp4",
+    "Description": "Now that you have created a data-linked diagram and have added helpful data graphics, share your diagram, which can be easily stored in Visio Services in SharePoint 2013. The diagram is then visible t"
+  }
+]

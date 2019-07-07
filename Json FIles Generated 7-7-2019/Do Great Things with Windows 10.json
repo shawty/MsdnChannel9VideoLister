@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "7bc90826-4a9c-41f6-905d-a51b007efc37",
+    "DataApi": "/Entries(guid'7bc90826-4a9c-41f6-905d-a51b007efc37')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/2--Be-More-Productive",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ba4e/9877cbf4-578c-427e-b0bd-d74e8968ba4e/BeMoreProductivewithMicrosoft10_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:14:45",
+    "VideoTitle": "Be More Productive",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:42:57.9811311Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ba4e/9877cbf4-578c-427e-b0bd-d74e8968ba4e/BeMoreProductivewithMicrosoft10_mid.mp4",
+    "Description": "Explore the cool features of Windows 10 that helps you to be more productive in your personal and work life.   "
+  },
+  {
+    "VideoId": "44c9d2eb-0dce-4923-b3de-a51b00803fac",
+    "DataApi": "/Entries(guid'44c9d2eb-0dce-4923-b3de-a51b00803fac')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/3--Great-Apps-Come-Standard-with-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/13f3/15d802af-da36-428b-bcbd-aed01a3213f3/GreatAppsComeStandardwithWindows10_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:09:53",
+    "VideoTitle": "Great Apps Come Standard with Windows 10",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:43:05.0272652Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/13f3/15d802af-da36-428b-bcbd-aed01a3213f3/GreatAppsComeStandardwithWindows10_mid.mp4",
+    "Description": "Explore the apps that comes preinstalled with Windows 10 like calendar, mail, Xbox app and more...     "
+  },
+  {
+    "VideoId": "d954b776-ba86-4699-8308-a51b00813ea1",
+    "DataApi": "/Entries(guid'd954b776-ba86-4699-8308-a51b00813ea1')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/4--Go-Beyond-Browsing-with-Microsoft-Edge",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be1b/a4b0cc1b-f520-460f-aa86-eabca51abe1b/GoBeyondBrowsinfwithMicrosoftEdge_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:07:51",
+    "VideoTitle": "Go Beyond Browsing with Microsoft Edge",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:43:13.5714968Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be1b/a4b0cc1b-f520-460f-aa86-eabca51abe1b/GoBeyondBrowsinfwithMicrosoftEdge_mid.mp4",
+    "Description": "Meet the brand new browser, Microsoft Edge and get to know the cool features that it brings.   "
+  },
+  {
+    "VideoId": "22eb5718-9ba0-463e-b69d-a51b0081e2b8",
+    "DataApi": "/Entries(guid'22eb5718-9ba0-463e-b69d-a51b0081e2b8')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/5--Reinvent-Productivity-with-Office-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dd5c/fc67721b-382f-4469-8415-2434a550dd5c/ReinventProductivitywithOfficeApps_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:05:01",
+    "VideoTitle": "Reinvent Productivity with Office Apps",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:43:20.2169162Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dd5c/fc67721b-382f-4469-8415-2434a550dd5c/ReinventProductivitywithOfficeApps_mid.mp4",
+    "Description": "Learn about the Office mobile apps like Word, Excel and PowerPoint that is available in Windows Store.     "
+  },
+  {
+    "VideoId": "607a4745-3cb8-43ad-8d36-a51b00829af2",
+    "DataApi": "/Entries(guid'607a4745-3cb8-43ad-8d36-a51b00829af2')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/6--From-Apps-to-Games--Entertainment-One-Unified-Store",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1dee/d216deee-815a-47cd-95da-e164ceea1dee/FromAppstoGamesEntertainmentOneUnifiedStore_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:08:13",
+    "VideoTitle": "From Apps to Games & Entertainment â€“ One Unified Store",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:43:30.8953603Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1dee/d216deee-815a-47cd-95da-e164ceea1dee/FromAppstoGamesEntertainmentOneUnifiedStore_mid.mp4",
+    "Description": "One unified application store at a glance â€“ find out more the apps for productivity, entertainment, education, and more...   "
+  },
+  {
+    "VideoId": "797bc56e-b821-46e9-bd5c-a51b0082ec34",
+    "DataApi": "/Entries(guid'797bc56e-b821-46e9-bd5c-a51b0082ec34')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/7--One-Place-for-Everything-in-Your-Life",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/01a8/ce16ccc4-9275-49a1-99bd-6a1f2eb201a8/OnePlaceforEverythinginYourLife_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:05:28",
+    "VideoTitle": "One Place for Everything in Your Life",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:43:47.2004226Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/01a8/ce16ccc4-9275-49a1-99bd-6a1f2eb201a8/OnePlaceforEverythinginYourLife_mid.mp4",
+    "Description": "Store, edit, and share on OneDrive, Microsoft's awesome online storage tool.     "
+  },
+  {
+    "VideoId": "1e9126d1-2ac2-40c0-b9a0-a51b00833996",
+    "DataApi": "/Entries(guid'1e9126d1-2ac2-40c0-b9a0-a51b00833996')/",
+    "VideoPageLink": "/Series/Do-Great-Things-with-Windows-10/8--Cortana-More-Than-an-Assistant-My-Digital-Friend",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/07ba/ece01b87-222d-4f44-a149-f6008b2007ba/CortanaMoreThanAnAssistantMyDigitalFriend_960.jpg",
+    "ShowName": "Do Great Things with Windows 10",
+    "VideoLength": "00:09:03",
+    "VideoTitle": "Cortana More Than an Assistant, My Digital Friend",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-09-29T08:43:55.9277733Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/07ba/ece01b87-222d-4f44-a149-f6008b2007ba/CortanaMoreThanAnAssistantMyDigitalFriend_mid.mp4",
+    "Description": "Meet Cortana, your personal, digital assistant. Learn how to set it up and use Cortana on your Windows 10 machine.   "
+  }
+]

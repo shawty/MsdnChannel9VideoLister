@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "57b9444c-be5b-4a93-a0cb-a3fd00e8df82",
+    "DataApi": "/Entries(guid'57b9444c-be5b-4a93-a0cb-a3fd00e8df82')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Websites/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7fbd/b844eebe-d85e-4958-8bcd-624ee6787fbd/Mod2_960.jpg",
+    "ShowName": "Hybrid Cloud Websites",
+    "VideoLength": "00:41:51",
+    "VideoTitle": "(Module 2) Microsoft Azure Building Blocks & Journey to Web Sites â€“ IaaS, PaaS and Other Goodies",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-16T04:02:28Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7fbd/b844eebe-d85e-4958-8bcd-624ee6787fbd/Mod2_mid.mp4",
+    "Description": "Introduces attendees to building blocks and journey to Web Sites. Focus is given to components related to Azure Websites, IaaS and PaaS components. [16:17] Components preview â€“ On-premise &amp; Azure "
+  },
+  {
+    "VideoId": "a1050a61-b1f8-4550-b92f-a3fd00e94a32",
+    "DataApi": "/Entries(guid'a1050a61-b1f8-4550-b92f-a3fd00e94a32')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Websites/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d357/71cafc58-2640-47ea-84f5-24a24cf5d357/Mod3_960.jpg",
+    "ShowName": "Hybrid Cloud Websites",
+    "VideoLength": "00:40:29",
+    "VideoTitle": "(Module 3) From On-Premise Towards Hybrid Data Center with Microsoft Azure IaaS",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-16T04:03:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d357/71cafc58-2640-47ea-84f5-24a24cf5d357/Mod3_mid.mp4",
+    "Description": "Presenters explain, describe and demonstrate how to start from full on premise, extend to hybrid and deploy app in to Azure IaaS. This module is focused on demo and practical part of implementation. ["
+  },
+  {
+    "VideoId": "43176771-50c5-4f75-8612-a3fd00e982fe",
+    "DataApi": "/Entries(guid'43176771-50c5-4f75-8612-a3fd00e982fe')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Websites/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a71e/7dc131a8-adb2-43a1-84cc-cdff9f54a71e/Mod4_960.jpg",
+    "ShowName": "Hybrid Cloud Websites",
+    "VideoLength": "00:25:30",
+    "VideoTitle": "(Module 4) From On-Premise and IaaS to Hybrid and Full PaaS with Microsoft Azure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-16T04:04:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a71e/7dc131a8-adb2-43a1-84cc-cdff9f54a71e/Mod4_mid.mp4",
+    "Description": "Presenters explain, describe and demonstrate how to start from full on premise, extend to hybrid and deploy app in to Azure PaaS. This module is focused on demo and practical part of implementation. ["
+  },
+  {
+    "VideoId": "30aa932a-29a9-4187-8709-a3fd00e9b852",
+    "DataApi": "/Entries(guid'30aa932a-29a9-4187-8709-a3fd00e9b852')/",
+    "VideoPageLink": "/Series/Hybrid-Cloud-Websites/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8355/111035f5-63ee-4227-8012-c2a919d58355/Mod5_960.jpg",
+    "ShowName": "Hybrid Cloud Websites",
+    "VideoLength": "00:08:41",
+    "VideoTitle": "(Module 5) Brief Recap and Next Steps",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-16T04:05:57Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8355/111035f5-63ee-4227-8012-c2a919d58355/Mod5_mid.mp4",
+    "Description": "Presenter's final thoughts on Microsoft Azure Hybrid Cloud Website and implementation options. It includes useful links, other related MVA content and next steps. This video is part of the Microsoft V"
+  }
+]

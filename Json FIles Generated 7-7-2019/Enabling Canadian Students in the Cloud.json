@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "eb9f6470-6183-4003-a6cb-a618011ed74e",
+    "DataApi": "/Entries(guid'eb9f6470-6183-4003-a6cb-a618011ed74e')/",
+    "VideoPageLink": "/Series/Enabling-Canadain-Students-in-the-Cloud/Enabling-Canadian-Students-in-the-Cloud-Steps-to-Setup-DreamSpark-and-Wordpress-on-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c04d/0bf27cae-009e-461c-bc82-393745cbc04d/AzureWalkthroughStudentContest_960.jpg",
+    "ShowName": "Enabling Canadian Students in the Cloud",
+    "VideoLength": "00:15:05",
+    "VideoTitle": "Enabling Canadian Students in the Cloud - Steps to Setup DreamSpark and Wordpress on Azure",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-06-03T03:34:33.6673547Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c04d/0bf27cae-009e-461c-bc82-393745cbc04d/AzureWalkthroughStudentContest_mid.mp4",
+    "Description": "Tina and Anthony walk through steps to help showcase your knowledge and passion to perspective employers to enable you to land your dream career.  Steps detailed in this video include: Setup of your D"
+  }
+]

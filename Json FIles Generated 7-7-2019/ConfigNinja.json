@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "0733754f-e5fb-4d21-9167-a356010bf05e",
+    "DataApi": "/Entries(guid'0733754f-e5fb-4d21-9167-a356010bf05e')/",
+    "VideoPageLink": "/Blogs/ConfigNinja/RebootPendingSCCM2012",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d7f/20c9bf30-6ca6-40c8-9d30-d8851b574d7f/RebootPendingImplementation_960.jpg",
+    "ShowName": "ConfigNinja",
+    "VideoLength": "00:19:03",
+    "VideoTitle": "Reboot Pending Report, How to create the report.",
+    "Author": "Santos Martinez",
+    "UtcDateTimePublished": "2014-06-26T17:31:16.4996887Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d7f/20c9bf30-6ca6-40c8-9d30-d8851b574d7f/RebootPendingImplementation_mid.mp4",
+    "Description": "A few days ago one of my peers ask me a very interesting question, how can I get a report that show reboot pending machines. I told him this was not an easy task to be performed in ConfigMgr 2012 due "
+  }
+]

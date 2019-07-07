@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "19d8753c-a4c1-4265-a932-a1ed002a0ac3",
+    "DataApi": "/Entries(guid'19d8753c-a4c1-4265-a932-a1ed002a0ac3')/",
+    "VideoPageLink": "/Series/Windows-Client-Troubleshooting-Start-Up-and-Resource-Consumption/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b271/aebc2a48-3ba1-4441-9fcb-2f037c55b271/TroubleshootM02_960.jpg",
+    "ShowName": "Windows Client: Troubleshooting Start Up and Resource Consumption",
+    "VideoLength": "00:14:07",
+    "VideoTitle": "Windows Client: Troubleshooting Start Up and Resource Consumption: (02) Windows Internals Light",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T05:17:51.1243006Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b271/aebc2a48-3ba1-4441-9fcb-2f037c55b271/TroubleshootM02_mid.mp4",
+    "Description": "This module will walk you through the deep technical fundamentals of understanding how the core system and management mechanisms work. Full course outline: Mod 01: Introduction Mod 02: Windows Interna"
+  },
+  {
+    "VideoId": "874308d6-cdb9-44df-b204-a1ed002a640d",
+    "DataApi": "/Entries(guid'874308d6-cdb9-44df-b204-a1ed002a640d')/",
+    "VideoPageLink": "/Series/Windows-Client-Troubleshooting-Start-Up-and-Resource-Consumption/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1301/6fc17acf-722d-4f7b-83bd-c983e2ef1301/TroubleshootM03_960.jpg",
+    "ShowName": "Windows Client: Troubleshooting Start Up and Resource Consumption",
+    "VideoLength": "00:12:32",
+    "VideoTitle": "Windows Client: Troubleshooting Start Up and Resource Consumption: (03) Utilizing Xperf",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T05:18:22.1855664Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1301/6fc17acf-722d-4f7b-83bd-c983e2ef1301/TroubleshootM03_mid.mp4",
+    "Description": "In this module you learn about how improving system performance through utilizing the XPerf tool for analysis and tracing boot start up and shutdown times. Full course outline: Mod 01: IntroductionMod"
+  },
+  {
+    "VideoId": "42889473-8670-4bf4-a402-a1ed002ad0bb",
+    "DataApi": "/Entries(guid'42889473-8670-4bf4-a402-a1ed002ad0bb')/",
+    "VideoPageLink": "/Series/Windows-Client-Troubleshooting-Start-Up-and-Resource-Consumption/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cef7/ec3a0658-4111-4221-9d0d-aeb3afa3cef7/TroubleshootM04_960.jpg",
+    "ShowName": "Windows Client: Troubleshooting Start Up and Resource Consumption",
+    "VideoLength": "00:18:37",
+    "VideoTitle": "Windows Client: Troubleshooting Start Up and Resource Consumption: (04) Troubleshooting Slow Start Up",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T05:18:36.841178Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cef7/ec3a0658-4111-4221-9d0d-aeb3afa3cef7/TroubleshootM04_mid.mp4",
+    "Description": "In this module you learn about resolving the typical issues responsible for causing slow boot times and how to resolve them. Full course outline: Mod 01: IntroductionMod 02: Windows Internals LightMod"
+  },
+  {
+    "VideoId": "75755b27-ba42-4c35-84ba-a1ed002b01f7",
+    "DataApi": "/Entries(guid'75755b27-ba42-4c35-84ba-a1ed002b01f7')/",
+    "VideoPageLink": "/Series/Windows-Client-Troubleshooting-Start-Up-and-Resource-Consumption/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de22/4d77a9ae-710f-43a2-9f39-82107e82de22/TroubleshootM05_960.jpg",
+    "ShowName": "Windows Client: Troubleshooting Start Up and Resource Consumption",
+    "VideoLength": "00:10:17",
+    "VideoTitle": "Windows Client: Troubleshooting Start Up and Resource Consumption: (05) Troubleshooting High CPU and Memory Disk",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T05:18:46.9154832Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de22/4d77a9ae-710f-43a2-9f39-82107e82de22/TroubleshootM05_mid.mp4",
+    "Description": "In this module you learn best practices and tips from the field in resolving High CPU, High Memory, and High Disk I/O usage. Full course outline: Mod 01: IntroductionMod 02: Windows Internals LightMod"
+  },
+  {
+    "VideoId": "c76e9f5b-7494-4f35-8a3b-a1ed002b385b",
+    "DataApi": "/Entries(guid'c76e9f5b-7494-4f35-8a3b-a1ed002b385b')/",
+    "VideoPageLink": "/Series/Windows-Client-Troubleshooting-Start-Up-and-Resource-Consumption/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9d64/33e87c52-51d5-4278-b7fe-d2f5b24d9d64/TroubleshootM06_960.jpg",
+    "ShowName": "Windows Client: Troubleshooting Start Up and Resource Consumption",
+    "VideoLength": "00:07:26",
+    "VideoTitle": "Windows Client: Troubleshooting Start Up and Resource Consumption: (06) Best Practices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T05:18:59.5693723Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9d64/33e87c52-51d5-4278-b7fe-d2f5b24d9d64/TroubleshootM06_mid.mp4",
+    "Description": "This module will go into deep technical focus on analyzing and pinpoint sources of High CPU usage from applications, and Group Policies. Full course outline: Mod 01: IntroductionMod 02: Windows Intern"
+  }
+]

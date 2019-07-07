@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "81607ae5-7f45-454d-9c28-a7830139ef6f",
+    "DataApi": "/Entries(guid'81607ae5-7f45-454d-9c28-a7830139ef6f')/",
+    "VideoPageLink": "/Shows/MicrosoftGraph/Use-Microsoft-Graph-Delta-Query-to-keep-data-up-to-date",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/51ac/91484938-d1e5-46a8-aa25-a3c6220f51ac/MSGraphDeltaQuery_960.jpg",
+    "ShowName": "Microsoft Graph",
+    "VideoLength": "00:08:17",
+    "VideoTitle": "Use Microsoft Graph Delta Query to keep data up to date",
+    "Author": "Jeff Sakowicz",
+    "UtcDateTimePublished": "2017-05-30T19:14:06.9695207Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/51ac/91484938-d1e5-46a8-aa25-a3c6220f51ac/MSGraphDeltaQuery_mid.mp4",
+    "Description": "Microsoft Graph Delta Query enables applications to discover newly created, updated, or deleted entities without performing a full read with every request. Watch this video to learn more about Delta Q"
+  }
+]

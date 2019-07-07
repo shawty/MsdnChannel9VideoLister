@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "1b901e72-f6e9-4f0d-ba5f-a4040147322a",
+    "DataApi": "/Entries(guid'1b901e72-f6e9-4f0d-ba5f-a4040147322a')/",
+    "VideoPageLink": "/Series/Transform-SharePoint-Customizations-to-SharePoint-App-Model/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d3d7/bd7231b9-94b1-4fef-ad1d-0442e56bd3d7/509TransformSPAppModelM02_960.jpg",
+    "ShowName": "Transform SharePoint Customizations to SharePoint App Model",
+    "VideoLength": "01:00:35",
+    "VideoTitle": "Transform SharePoint Customizations to SharePoint App Model: (02) Controlling Branding in SharePoint Using App Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:42:49.2816484Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d3d7/bd7231b9-94b1-4fef-ad1d-0442e56bd3d7/509TransformSPAppModelM02_mid.mp4",
+    "Description": "Take a look at various approachs to branding using the app model, with a heavy focus on the reasoning behind recommendations, plus alternate means to accomplish requirements.â€‹ [04:59] - Introduction[1"
+  },
+  {
+    "VideoId": "8d32c7ac-277f-4c02-9f87-a40401474dd9",
+    "DataApi": "/Entries(guid'8d32c7ac-277f-4c02-9f87-a40401474dd9')/",
+    "VideoPageLink": "/Series/Transform-SharePoint-Customizations-to-SharePoint-App-Model/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c233/6a66cd1c-50c3-4cdc-9b47-2b217173c233/509TransformSPAppModelM03_960.jpg",
+    "ShowName": "Transform SharePoint Customizations to SharePoint App Model",
+    "VideoLength": "00:53:33",
+    "VideoTitle": "Transform SharePoint Customizations to SharePoint App Model: (03) Site Collection and Site Provisioning with App Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:43:02.4806635Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c233/6a66cd1c-50c3-4cdc-9b47-2b217173c233/509TransformSPAppModelM03_mid.mp4",
+    "Description": "Focus on the patterns and concrete implementation for both site collection and subsite provisioning, since a core tenant of many of the recommended approaches have to do with artifact and configuratio"
+  },
+  {
+    "VideoId": "20fd2ec2-3a71-4669-b8a0-a4040147897f",
+    "DataApi": "/Entries(guid'20fd2ec2-3a71-4669-b8a0-a4040147897f')/",
+    "VideoPageLink": "/Series/Transform-SharePoint-Customizations-to-SharePoint-App-Model/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8040/84bd9e4d-43bc-4dd8-9f7d-07a382ae8040/509TransformSPAppModelM04_960.jpg",
+    "ShowName": "Transform SharePoint Customizations to SharePoint App Model",
+    "VideoLength": "00:49:58",
+    "VideoTitle": "Transform SharePoint Customizations to SharePoint App Model: (04) UX Components and Site Modifications Using Apps Techniques",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:43:36.3725055Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8040/84bd9e4d-43bc-4dd8-9f7d-07a382ae8040/509TransformSPAppModelM04_mid.mp4",
+    "Description": "Explore specific, typically implemented user experience customizations, which traditionally require deep customization to achieve. See how to utilize client-side rendering techniques to accomplish sim"
+  },
+  {
+    "VideoId": "1acb6151-7f56-4670-81df-a4040147e139",
+    "DataApi": "/Entries(guid'1acb6151-7f56-4670-81df-a4040147e139')/",
+    "VideoPageLink": "/Series/Transform-SharePoint-Customizations-to-SharePoint-App-Model/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7528/0a3d5a6f-0078-4f4b-af05-3f10256a7528/509TransformSPAppModelM05_960.jpg",
+    "ShowName": "Transform SharePoint Customizations to SharePoint App Model",
+    "VideoLength": "00:51:34",
+    "VideoTitle": "Transform SharePoint Customizations to SharePoint App Model: (05) User Profile and Personalization with App Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:43:39.9971702Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7528/0a3d5a6f-0078-4f4b-af05-3f10256a7528/509TransformSPAppModelM05_mid.mp4",
+    "Description": "Get the details on how to interact with the User Profile (central to many SharePoint implementations) using the CSOM endpoints (both read and write) and on how to build personalized experiences using "
+  },
+  {
+    "VideoId": "6357cefc-dba0-434b-860a-a4040147e6e4",
+    "DataApi": "/Entries(guid'6357cefc-dba0-434b-860a-a4040147e6e4')/",
+    "VideoPageLink": "/Series/Transform-SharePoint-Customizations-to-SharePoint-App-Model/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/125f/a370e009-5585-4b9e-9b0d-3b83dafe125f/509TransformSPAppModelM06_960.jpg",
+    "ShowName": "Transform SharePoint Customizations to SharePoint App Model",
+    "VideoLength": "00:52:18",
+    "VideoTitle": "Transform SharePoint Customizations to SharePoint App Model: (06) Practices for â€‹Converting Existing Sites to App Model Functionality",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:43:52.4917992Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/125f/a370e009-5585-4b9e-9b0d-3b83dafe125f/509TransformSPAppModelM06_mid.mp4",
+    "Description": "Dive deep into approaches, considerations, and typical pitfalls when moving existing implementations to the new app model. See call-outs of the types of tools available for you to analyze solutions, a"
+  }
+]

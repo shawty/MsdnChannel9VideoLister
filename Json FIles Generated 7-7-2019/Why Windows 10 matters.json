@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "3a9dc5c1-e107-4ec1-a920-a5c300829027",
+    "DataApi": "/Entries(guid'3a9dc5c1-e107-4ec1-a920-a5c300829027')/",
+    "VideoPageLink": "/Series/Why-Windows-10-matters/Why-Windows-10-matters",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e1b/221cba6b-4185-47d2-95ac-26e4086f5e1b/WhyWindows10Matters_960.jpg",
+    "ShowName": "Why Windows 10 matters",
+    "VideoLength": "00:12:55",
+    "VideoTitle": "Why Windows 10 matters",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-03-15T07:08:15.204046Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e1b/221cba6b-4185-47d2-95ac-26e4086f5e1b/WhyWindows10Matters_mid.mp4",
+    "Description": "Brief outline of the new feature which make Windows 10 special â€“ notably it's converged operating system and application platform. We also highlight it's new security features, new Windows application"
+  }
+]

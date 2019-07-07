@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "37de2901-2cf3-404d-af3b-a334012f5e09",
+    "DataApi": "/Entries(guid'37de2901-2cf3-404d-af3b-a334012f5e09')/",
+    "VideoPageLink": "/Series/Bing-Search-Engine-Optimization/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6ec7/0bfb4de9-ae02-4254-9cf3-cb6fafc76ec7/BingSEOM02_960.jpg",
+    "ShowName": "Bing Search Engine Optimization",
+    "VideoLength": "00:29:47",
+    "VideoTitle": "Bing Search Engine Optimization: (02) Importance of Keywords and Keyword Research",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-24T16:03:41.5895869Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6ec7/0bfb4de9-ae02-4254-9cf3-cb6fafc76ec7/BingSEOM02_mid.mp4",
+    "Description": "Get a brief review of best practices behind keyword research, including tools, tips, and theory behind optimizing for search demand. [01:29] - Keyword Research Terminology[08:35] - Fundamentals of key"
+  },
+  {
+    "VideoId": "2a812657-a671-4703-93ee-a334012f97da",
+    "DataApi": "/Entries(guid'2a812657-a671-4703-93ee-a334012f97da')/",
+    "VideoPageLink": "/Series/Bing-Search-Engine-Optimization/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de5d/0426716f-6a56-4613-b3fd-4a68da09de5d/BingSEOM03_960.jpg",
+    "ShowName": "Bing Search Engine Optimization",
+    "VideoLength": "00:28:26",
+    "VideoTitle": "Bing Search Engine Optimization: (03) On-Page Content Planning and Organization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-24T16:04:15.8335351Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de5d/0426716f-6a56-4613-b3fd-4a68da09de5d/BingSEOM03_mid.mp4",
+    "Description": "Learn how to utilize keyword research and content planning to adjust on-page elements for the best possible search experience and for indexing by engines. [01:05] - Content planning[10:23] - Introduct"
+  },
+  {
+    "VideoId": "e5162b57-c750-4607-9f3d-a334012fd1e8",
+    "DataApi": "/Entries(guid'e5162b57-c750-4607-9f3d-a334012fd1e8')/",
+    "VideoPageLink": "/Series/Bing-Search-Engine-Optimization/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3f7e/5e2db0cf-9a03-4edf-bb2c-f53720993f7e/BingSEOM04_960.jpg",
+    "ShowName": "Bing Search Engine Optimization",
+    "VideoLength": "00:49:49",
+    "VideoTitle": "Bing Search Engine Optimization: (04) Overview of Technical SEO Issues and Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-24T16:04:43.402396Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3f7e/5e2db0cf-9a03-4edf-bb2c-f53720993f7e/BingSEOM04_mid.mp4",
+    "Description": "Hear a discussion of technical SEO elements, website mechanics, site architecture, and utilization of Bing Webmaster Tools. [02:34] - Introduction to technical SEO[23:14] - Webmaster Tools[26:41] - Ov"
+  }
+]

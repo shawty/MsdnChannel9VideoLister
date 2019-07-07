@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "7c28b0a7-43c2-4602-9b62-a2ee010d4bb3",
+    "DataApi": "/Entries(guid'7c28b0a7-43c2-4602-9b62-a2ee010d4bb3')/",
+    "VideoPageLink": "/Series/Creating-Windows-Store-Apps-Using-Visual-Basic/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee66/44c43d1e-824a-446f-ac71-e1328dbcee66/CreatingWindowsStoreAppsUsingVBM02_960.jpg",
+    "ShowName": "Creating Windows Store Apps Using Visual Basic",
+    "VideoLength": "00:51:06",
+    "VideoTitle": "Creating Windows Store Apps Using Visual Basic: (02) Visual Studio and Windows Store Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T22:06:35.2252213Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee66/44c43d1e-824a-446f-ac71-e1328dbcee66/CreatingWindowsStoreAppsUsingVBM02_mid.mp4",
+    "Description": "Look at Visual Studio and at the templates used to create Windows 8.1 Store applications. Review basic solution structure, and hear an explanation of the code in the templates. [01:27] - Visual Studio"
+  },
+  {
+    "VideoId": "bf8b064b-c87e-4784-a8a5-a2ee010d8ba0",
+    "DataApi": "/Entries(guid'bf8b064b-c87e-4784-a8a5-a2ee010d8ba0')/",
+    "VideoPageLink": "/Series/Creating-Windows-Store-Apps-Using-Visual-Basic/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9509/78260697-5a56-421f-b42e-f488816c9509/CreatingWindowsStoreAppsUsingVBM03_960.jpg",
+    "ShowName": "Creating Windows Store Apps Using Visual Basic",
+    "VideoLength": "01:17:38",
+    "VideoTitle": "Creating Windows Store Apps Using Visual Basic: (03) Building AdventureWorks Sample",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T22:06:50.8973015Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9509/78260697-5a56-421f-b42e-f488816c9509/CreatingWindowsStoreAppsUsingVBM03_mid.mp4",
+    "Description": "See an application built - one that consumes and displays data from an AdventureWorks Web Service. Almost the entire module takes place within Visual Studio, developing and explaining code. [01:18] - "
+  },
+  {
+    "VideoId": "ed788e4d-bf7c-4739-9c8f-a2ee010dba37",
+    "DataApi": "/Entries(guid'ed788e4d-bf7c-4739-9c8f-a2ee010dba37')/",
+    "VideoPageLink": "/Series/Creating-Windows-Store-Apps-Using-Visual-Basic/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/59cc/b7085082-feae-4150-9f98-e450ed0f59cc/CreatingWindowsStoreAppsUsingVBM04_960.jpg",
+    "ShowName": "Creating Windows Store Apps Using Visual Basic",
+    "VideoLength": "00:29:39",
+    "VideoTitle": "Creating Windows Store Apps Using Visual Basic: (04) State Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T22:07:03.2095758Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/59cc/b7085082-feae-4150-9f98-e450ed0f59cc/CreatingWindowsStoreAppsUsingVBM04_mid.mp4",
+    "Description": "Explore the various states a Windows 8.1 Store application takes on. Learn how to store and restore both page and application state over the life cycle of an application. [01:14] - Application Life Cy"
+  },
+  {
+    "VideoId": "42effc01-ffab-41a0-acba-a2ee010e0eef",
+    "DataApi": "/Entries(guid'42effc01-ffab-41a0-acba-a2ee010e0eef')/",
+    "VideoPageLink": "/Series/Creating-Windows-Store-Apps-Using-Visual-Basic/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/601e/c694b14e-1cd9-4f5e-a467-fc3b2463601e/CreatingWindowsStoreAppsUsingVBM05_960.jpg",
+    "ShowName": "Creating Windows Store Apps Using Visual Basic",
+    "VideoLength": "00:42:15",
+    "VideoTitle": "Creating Windows Store Apps Using Visual Basic: (05) Client Storage Options",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T22:07:18.6048738Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/601e/c694b14e-1cd9-4f5e-a467-fc3b2463601e/CreatingWindowsStoreAppsUsingVBM05_mid.mp4",
+    "Description": "Data storage on the client machine differs somewhat from a traditional Windows desktop application. This module shows what options are available and specifically covers the use of SQLite. [01:03] - Lo"
+  },
+  {
+    "VideoId": "fdd8c852-0397-4c17-8b8e-a2ee010e4f60",
+    "DataApi": "/Entries(guid'fdd8c852-0397-4c17-8b8e-a2ee010e4f60')/",
+    "VideoPageLink": "/Series/Creating-Windows-Store-Apps-Using-Visual-Basic/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/97d3/555e05ca-1fb7-4755-afb6-f0f266fe97d3/CreatingWindowsStoreAppsUsingVBM06_960.jpg",
+    "ShowName": "Creating Windows Store Apps Using Visual Basic",
+    "VideoLength": "00:38:59",
+    "VideoTitle": "Creating Windows Store Apps Using Visual Basic: (06) App Bars, Flyouts, and Other UI Considerations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T22:07:34.4032965Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/97d3/555e05ca-1fb7-4755-afb6-f0f266fe97d3/CreatingWindowsStoreAppsUsingVBM06_mid.mp4",
+    "Description": "Examine the interactive UI experience, including the guidelines around and usage of message boxes and flyouts. In addition, take a look at issues related to &quot;touch-based&quot; interaction. [01:04"
+  }
+]

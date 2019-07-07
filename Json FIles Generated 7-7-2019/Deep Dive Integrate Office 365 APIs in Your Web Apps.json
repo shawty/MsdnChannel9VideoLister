@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "bc0a0a3e-6833-424a-b9ca-a3ca017b9f20",
+    "DataApi": "/Entries(guid'bc0a0a3e-6833-424a-b9ca-a3ca017b9f20')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Web-Apps/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e7a6/253af930-76fe-4165-8306-138033b4e7a6/DeepDiveO365APIWebAppsM02_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Web Apps",
+    "VideoLength": "00:49:23",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Web Apps: (02) Deep Dive into Office 365 APIs for Calendar, Mail, and Contacts Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:51:57.4722116Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e7a6/253af930-76fe-4165-8306-138033b4e7a6/DeepDiveO365APIWebAppsM02_mid.mp4",
+    "Description": "Explore scenarios available when using the Calendar, Mail, and Contacts service in the Office 365 APIs. [03:10] - Overview[06:31] - Connected Services[27:51] - Paging Support[32:13] - CRUD Support[35:"
+  },
+  {
+    "VideoId": "094255da-0de1-4d11-af85-a3ca017bbe01",
+    "DataApi": "/Entries(guid'094255da-0de1-4d11-af85-a3ca017bbe01')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Web-Apps/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1beb/c25ad744-d947-43fd-a402-425cfa6d1beb/DeepDiveO365APIWebAppsM03_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Web Apps",
+    "VideoLength": "00:53:36",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Web Apps: (03) Deep Dive into Office 365 APIs for OneDrive for Business Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:52:00.5213347Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1beb/c25ad744-d947-43fd-a402-425cfa6d1beb/DeepDiveO365APIWebAppsM03_mid.mp4",
+    "Description": "Get the details on scenarios available when using the OneDrive for Business service in the Office 365 APIs. [01:50] - Overview[05:28] - File Operations with SharePointClient[30:14] - File Operations w"
+  },
+  {
+    "VideoId": "f7b24801-c910-4941-8807-a3ca017c4375",
+    "DataApi": "/Entries(guid'f7b24801-c910-4941-8807-a3ca017c4375')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Web-Apps/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/07f0/3e070363-8fe7-4129-981a-7f62f6da07f0/DeepDiveO365APIWebAppsM04_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Web Apps",
+    "VideoLength": "00:42:40",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Web Apps: (04) Deep Dive into Office 365 APIs for SharePoint Sites Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:53:16.4305327Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/07f0/3e070363-8fe7-4129-981a-7f62f6da07f0/DeepDiveO365APIWebAppsM04_mid.mp4",
+    "Description": "Look at scenarios available when using the SharePoint Sites service in the Office 365 APIs. [02:06] - Overview[04:00] - File Operations with SharePointClient[28:00] - List Operations with REST"
+  },
+  {
+    "VideoId": "17b8ffa1-b289-4f0e-b8de-a3ca017e25ac",
+    "DataApi": "/Entries(guid'17b8ffa1-b289-4f0e-b8de-a3ca017e25ac')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Web-Apps/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/813e/15569c27-e098-49ad-8d3e-41c83944813e/DeepDiveO365APIWebAppsM05_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Web Apps",
+    "VideoLength": "00:53:19",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Web Apps: (05) Deep Dive into Yammer APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:53:23.8420592Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/813e/15569c27-e098-49ad-8d3e-41c83944813e/DeepDiveO365APIWebAppsM05_mid.mp4",
+    "Description": "Examine scenarios available when using the Yammer service. [02:59] - Overview[24:35] - Rest API[37:10] - OpenGraph Protocol[45:44] - Embedding"
+  },
+  {
+    "VideoId": "69e23480-0395-4719-b6ae-a3ca017e7a88",
+    "DataApi": "/Entries(guid'69e23480-0395-4719-b6ae-a3ca017e7a88')/",
+    "VideoPageLink": "/Series/Deep-Dive-Integrate-Office-365-APIs-in-Your-Web-Apps/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e31c/fd29ee54-c217-4fc2-a807-05210b0ae31c/DeepDiveO365APIWebAppsM07_960.jpg",
+    "ShowName": "Deep Dive: Integrate Office 365 APIs in Your Web Apps",
+    "VideoLength": "00:51:38",
+    "VideoTitle": "Deep Dive: Integrate Office 365 APIs in Your Web Apps: (07) Deep Dive into OneNote APIs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-22T01:53:50.0737015Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e31c/fd29ee54-c217-4fc2-a807-05210b0ae31c/DeepDiveO365APIWebAppsM07_mid.mp4",
+    "Description": "Get the latest on scenarios available when using the OneNote service. [03:36] - OneNote API Scenarios[10:24] - OneNote API Scenarios[15:09] - Get Started with the OneNote Service[34:47] - Deep Dive in"
+  }
+]

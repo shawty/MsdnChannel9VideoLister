@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "c02db336-871b-4a50-9b28-a760003ba540",
+    "DataApi": "/Entries(guid'c02db336-871b-4a50-9b28-a760003ba540')/",
+    "VideoPageLink": "/Blogs/Design-and-Develop-for-Surface-Dial/Add-Custom-Menu-Items",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/31a2/ab0211f7-b709-4c95-ab97-a70fa5ed31a2/AddCustomMenuItem_960.jpg",
+    "ShowName": "Design and Develop for Surface Dial",
+    "VideoLength": "00:14:14",
+    "VideoTitle": "Add Custom Menu Items",
+    "Author": "DXSurfaceDial",
+    "UtcDateTimePublished": "2017-04-25T06:09:45.9524202Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/31a2/ab0211f7-b709-4c95-ab97-a70fa5ed31a2/AddCustomMenuItem_mid.mp4",
+    "Description": "Today we are going to add a custom menu item to the Dial. Hands-on materials and samples can be found at GitHub here: https://github.com/DXSurfaceDial/Surface-Dial-Design-and-Development. "
+  },
+  {
+    "VideoId": "d88f0ad2-aaad-4b07-bd40-a747013d1dc0",
+    "DataApi": "/Entries(guid'd88f0ad2-aaad-4b07-bd40-a747013d1dc0')/",
+    "VideoPageLink": "/Blogs/Design-and-Develop-for-Surface-Dial/Introducing-Surface-Dial-with-Ink-Input",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e725/a411bc1c-e20a-408c-8572-37eeceffe725/IntroducingSurfaceDialwithInkInput_960.jpg",
+    "ShowName": "Design and Develop for Surface Dial",
+    "VideoLength": "00:15:36",
+    "VideoTitle": "Introducing Surface Dial with Ink Input",
+    "Author": "DXSurfaceDial",
+    "UtcDateTimePublished": "2017-04-05T21:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e725/a411bc1c-e20a-408c-8572-37eeceffe725/IntroducingSurfaceDialwithInkInput_mid.mp4",
+    "Description": "In this video, we are going to introduce Surface Dial with Ink input. Hands-on materials and samples can be found at the GitHub here: https://github.com/DXSurfaceDial/Surface-Dial-Design-and-Developme"
+  }
+]

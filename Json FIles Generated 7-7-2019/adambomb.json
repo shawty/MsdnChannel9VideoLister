@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "0eaf6527-8bc0-46cf-876d-9dec00098657",
+    "DataApi": "/Entries(guid'0eaf6527-8bc0-46cf-876d-9dec00098657')/",
+    "VideoPageLink": "/Blogs/adambomb/Network-Access-Protection-with-MSIT",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dbbd/f3d5402a-c1de-4222-8f1a-82f10928dbbd/Network-Access-Protection-with-MSIT_960.jpg",
+    "ShowName": "adambomb",
+    "VideoLength": "00:33:17",
+    "VideoTitle": "Network Access Protection with MSIT",
+    "Author": "adambomb",
+    "UtcDateTimePublished": "2007-10-10T21:35:28Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dbbd/f3d5402a-c1de-4222-8f1a-82f10928dbbd/Network-Access-Protection-with-MSIT_mid.mp4",
+    "Description": "After months of cajoling, Adam was finally able to convince Jeff Sigman from the NAP team and Brent Atkison from MSIT to sit still for 30 minutes to talk about why we created NAP, and how we went abou"
+  }
+]

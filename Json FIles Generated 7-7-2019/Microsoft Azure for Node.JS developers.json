@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "9a88e2c1-cb7f-4aa5-8a98-a57c00b6315c",
+    "DataApi": "/Entries(guid'9a88e2c1-cb7f-4aa5-8a98-a57c00b6315c')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-for-NodeJS-developers/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4009/acf63bc1-80e1-4056-ac8c-5faaaa124009/02_960.jpg",
+    "ShowName": "Microsoft Azure for Node.JS developers",
+    "VideoLength": "00:59:05",
+    "VideoTitle": "02 | Storage and database options in Azure for Node.JS app",
+    "Author": "Oleg Leus",
+    "UtcDateTimePublished": "2015-12-28T16:28:04.721832Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4009/acf63bc1-80e1-4056-ac8c-5faaaa124009/02_mid.mp4",
+    "Description": "In this session we will talk about Azure services available for data storage. We will look into relational data services, unstructured binary data storage services (like images, audio, video, etc.), a"
+  },
+  {
+    "VideoId": "f657b1f3-685c-44cb-af51-a57c00b6674f",
+    "DataApi": "/Entries(guid'f657b1f3-685c-44cb-af51-a57c00b6674f')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-for-NodeJS-developers/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b8d3/46f3fff7-0b15-4a17-b144-b8789af4b8d3/03_960.jpg",
+    "ShowName": "Microsoft Azure for Node.JS developers",
+    "VideoLength": "00:56:37",
+    "VideoTitle": "03 | Deployment of Node.JS app on Azure",
+    "Author": "Oleg Leus",
+    "UtcDateTimePublished": "2015-12-28T16:28:05.3863614Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b8d3/46f3fff7-0b15-4a17-b144-b8789af4b8d3/03_mid.mp4",
+    "Description": "During this demo we'll deep dive into existing ways of how to deploy Node.Js application on Azure Web Apps. We will consider all available ways to publish it and discuss their advantages and disadvant"
+  },
+  {
+    "VideoId": "4e451495-1eac-497d-87cf-a57c00b6a8f4",
+    "DataApi": "/Entries(guid'4e451495-1eac-497d-87cf-a57c00b6a8f4')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-for-NodeJS-developers/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1974/b7812588-d855-4356-bf8e-b13cc3ec1974/04_960.jpg",
+    "ShowName": "Microsoft Azure for Node.JS developers",
+    "VideoLength": "00:47:43",
+    "VideoTitle": "04 | Tips & tricks of building elastic Node.JS application in Azure and optimizing its performance",
+    "Author": "Oleg Leus",
+    "UtcDateTimePublished": "2015-12-28T16:28:07.965908Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1974/b7812588-d855-4356-bf8e-b13cc3ec1974/04.mp4",
+    "Description": "In the first part of this session we will talk about recommended Azure practices, as well as patterns of development of elastic and scalable applications using Node.JS. In the second part, we will pre"
+  }
+]

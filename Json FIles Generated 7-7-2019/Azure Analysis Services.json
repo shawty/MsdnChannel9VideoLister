@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "cf52ba74-0513-4d2a-a69f-a6a5004e979e",
+    "DataApi": "/Entries(guid'cf52ba74-0513-4d2a-a69f-a6a5004e979e')/",
+    "VideoPageLink": "/series/Azure-Analysis-Services/AzureAnalysisServicesAutomation",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/44cb5c3b-2404-444e-b386-4121e7c4f548.jpg",
+    "ShowName": "Azure Analysis Services",
+    "VideoLength": "00:05:49",
+    "VideoTitle": "Automating deployment",
+    "Author": "Azure",
+    "UtcDateTimePublished": "2016-10-25T13:56:49.9021349Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/32d7/313511db-3718-453c-941b-78615ace32d7/aasAutomation_mid.mp4",
+    "Description": "This is a short video showing the automation capabilities in Azure Analysis Services for integration with Dev Ops processes and improved Application Lifecycle Management. "
+  },
+  {
+    "VideoId": "53bdb2be-5f8a-43be-8a37-a6a50035a284",
+    "DataApi": "/Entries(guid'53bdb2be-5f8a-43be-8a37-a6a50035a284')/",
+    "VideoPageLink": "/series/Azure-Analysis-Services/AzureAnalysisServicesGettingStarted",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/1b668bbc-fe41-4bc4-b395-4c029bff47fb.jpg",
+    "ShowName": "Azure Analysis Services",
+    "VideoLength": "00:05:52",
+    "VideoTitle": "Getting started",
+    "Author": "Azure",
+    "UtcDateTimePublished": "2016-10-25T13:57:01.0365439Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/85a4/87a8a132-a5d1-44a9-a533-3ae5191d85a4/aasGettingStarted_mid.mp4",
+    "Description": "High level overview of Microsoft's Azure Analysis Services, which is part of Microsoft's overall BI offerings to help organizations gain insights from their data. "
+  },
+  {
+    "VideoId": "04540185-95ca-4a30-8494-a6a50041f37b",
+    "DataApi": "/Entries(guid'04540185-95ca-4a30-8494-a6a50041f37b')/",
+    "VideoPageLink": "/series/Azure-Analysis-Services/AzureAnalysisServicesMovingModels",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/352b8ccf-bdb9-405c-b15e-97cae63ec502.jpg",
+    "ShowName": "Azure Analysis Services",
+    "VideoLength": "00:03:41",
+    "VideoTitle": "Moving from on premises to the cloud",
+    "Author": "Azure",
+    "UtcDateTimePublished": "2016-10-25T13:57:10.7605434Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6cc1/f3bc296f-33e1-42f2-9a5a-11ada88e6cc1/aasMovingModels_mid.mp4",
+    "Description": "How to move an existing SQL Server 2016 Analysis Services semantic model from on-premises to cloud, so you do not need to manage the underlying infrastructure in order to maximize performance, reliabi"
+  },
+  {
+    "VideoId": "a47cf72d-795f-4283-9e49-a7750128e5f1",
+    "DataApi": "/Entries(guid'a47cf72d-795f-4283-9e49-a7750128e5f1')/",
+    "VideoPageLink": "/series/Azure-Analysis-Services/Azure-Analysis-Services-overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d6dd/a1cda46b-ef03-4cea-8f11-68da23c5d6dd/AzureASoverview_960.jpg",
+    "ShowName": "Azure Analysis Services",
+    "VideoLength": "00:10:58",
+    "VideoTitle": "Azure Analysis Services overview",
+    "Author": "Colin Murphy",
+    "UtcDateTimePublished": "2017-05-16T18:26:13.8803617Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d6dd/a1cda46b-ef03-4cea-8f11-68da23c5d6dd/AzureASoverview_mid.mp4",
+    "Description": "Based on the proven analytics engine in SQL Server Analysis Services, Azure Analysis Services is an enterprise grade OLAP engine and BI modeling platform, offered as a fully managed platform-as-a-serv"
+  }
+]

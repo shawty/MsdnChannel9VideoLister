@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "9dad5fd2-50e3-4ac7-aa7d-a1ff016a302f",
+    "DataApi": "/Entries(guid'9dad5fd2-50e3-4ac7-aa7d-a1ff016a302f')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a0ce/c5a123af-e7a9-4b23-bf6d-b268e7b8a0ce/WS2012R2M02_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "01:31:06",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (02) Server Virtualization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:19:33.8307056Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a0ce/c5a123af-e7a9-4b23-bf6d-b268e7b8a0ce/WS2012R2M02_mid.mp4",
+    "Description": "In this session you will receive an introduction to Windows Server 2012 R2 and learn more about scalability, performance, security, multi-tenancy, and flexible infrastructure. Additionally it goes int"
+  },
+  {
+    "VideoId": "e8c4f876-f805-4d6f-95ba-a1ff016a8cdc",
+    "DataApi": "/Entries(guid'e8c4f876-f805-4d6f-95ba-a1ff016a8cdc')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5357/08d1e507-0da3-4e6f-986c-cf06b7705357/WS2012R2M03_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "01:16:36",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (03) Cloud Optimized Networking",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:20:06.454686Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5357/08d1e507-0da3-4e6f-986c-cf06b7705357/WS2012R2M03_mid.mp4",
+    "Description": "With services spanning multiple sites and multiple clouds, having the ability to create an infrastructure that enables VMs to move seamlessly between clouds is becoming increasingly important. Get rea"
+  },
+  {
+    "VideoId": "e61849bc-2088-44a5-9208-a1ff016ad5e9",
+    "DataApi": "/Entries(guid'e61849bc-2088-44a5-9208-a1ff016ad5e9')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d8d6/322bd3fa-cb70-4ceb-84fc-aa480de5d8d6/WS2012R2M04_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "01:32:21",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (04) Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:20:49.4250829Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d8d6/322bd3fa-cb70-4ceb-84fc-aa480de5d8d6/WS2012R2M04_mid.mp4",
+    "Description": "This module explores how Windows Server 2012 R2 Preview helps you build highly available and reliable storage solutions with cost-effective hardware. Receive an overview of the greater variety of choi"
+  },
+  {
+    "VideoId": "42e3259a-e8ae-4e37-a327-a1ff016b34ad",
+    "DataApi": "/Entries(guid'42e3259a-e8ae-4e37-a327-a1ff016b34ad')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c0f/406d18f6-d47a-42f0-9564-3d9749909c0f/WS2012R2M05_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "01:20:32",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (05) Server Management and Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:21:36.0439389Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c0f/406d18f6-d47a-42f0-9564-3d9749909c0f/WS2012R2M05_mid.mp4",
+    "Description": "Windows Server 2012 R2 Preview is a great operating system for many servers and the devices that connect them whether physical or virtual, on-premises or off-premises. View a cloud-optimized operating"
+  },
+  {
+    "VideoId": "8a31ccf5-d66f-4785-bd9c-a1ff016b844c",
+    "DataApi": "/Entries(guid'8a31ccf5-d66f-4785-bd9c-a1ff016b844c')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/817c/66105086-4ec8-4f93-a095-af06e7f1817c/WS2012R2M06_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "01:17:33",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (06) VDI",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:22:09.8782631Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/817c/66105086-4ec8-4f93-a095-af06e7f1817c/WS2012R2M06_mid.mp4",
+    "Description": "This module reviews how to manage challenges across multiple devices, apps and data enabling users to work in any location. Learn more on unifying your environment and how to deliver a unified applica"
+  },
+  {
+    "VideoId": "a7fc7135-1467-4951-a7e0-a1ff016bf735",
+    "DataApi": "/Entries(guid'a7fc7135-1467-4951-a7e0-a1ff016bf735')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e1c7/aa6eeb81-d58d-40f6-ab07-5b09092be1c7/WS2012R2M07_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "01:10:22",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (07) Access and Information Protection",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:23:10.5582675Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e1c7/aa6eeb81-d58d-40f6-ab07-5b09092be1c7/WS2012R2M07_mid.mp4",
+    "Description": "The explosion in use and number of consumer devices and ubiquitous information access is changing the way that people perceive their technology, in addition to how that technology shapes their persona"
+  },
+  {
+    "VideoId": "5b6b1eb5-575c-4e6d-aecc-a1ff016c414b",
+    "DataApi": "/Entries(guid'5b6b1eb5-575c-4e6d-aecc-a1ff016c414b')/",
+    "VideoPageLink": "/Series/NewInWS2012R2/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/757b/0516efe0-d0f8-4f87-a728-64122906757b/WS2012R2M08_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows Server 2012 R2",
+    "VideoLength": "00:34:00",
+    "VideoTitle": "What's New in Windows Server 2012 R2: (08) Web Application and Platform",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-20T20:23:56.3198634Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/757b/0516efe0-d0f8-4f87-a728-64122906757b/WS2012R2M08_mid.mp4",
+    "Description": "Windows Server 2012 R2 Preview and System Center 2012 R2 Preview offer a great foundation for our customers to deliver private and hybrid cloud services to their constituents. Learn more about how to "
+  }
+]

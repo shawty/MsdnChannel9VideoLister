@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "668eea28-3a7c-4e56-96e1-9efe00feee9b",
+    "DataApi": "/Entries(guid'668eea28-3a7c-4e56-96e1-9efe00feee9b')/",
+    "VideoPageLink": "/Blogs/Server-Side/Understanding-Windows-Azure-AppFabric-Queues",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee9b/668eea28-3a7c-4e56-96e1-9efe00feee9b/ServiceBusQueues_512_ch9.jpg",
+    "ShowName": "Server Side",
+    "VideoLength": "00:40:16",
+    "VideoTitle": "Understanding Windows Azure AppFabric Queues",
+    "Author": "Michael Washam",
+    "UtcDateTimePublished": "2011-06-10T21:08:34Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee9b/668eea28-3a7c-4e56-96e1-9efe00feee9b/ServiceBusQueues_low_ch9.mp4",
+    "Description": " Interview with Principal Technical Lead Clemens Vasters and Principal Development Manager Murali Krishnaprasad (MK) regarding the May 2011 CTP release of Windows Azure AppFabric. We discuss new techn"
+  }
+]

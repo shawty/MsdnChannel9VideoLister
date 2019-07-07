@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "3041dc5c-8e21-4c9a-9fd5-a54500ad6e3a",
+    "DataApi": "/Entries(guid'3041dc5c-8e21-4c9a-9fd5-a54500ad6e3a')/",
+    "VideoPageLink": "/Series/CMR-Fundamentals-for-SMEs/Campaign-Management-for-Start-up-Businesses",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c739/03f381eb-6922-4aae-a392-b67d41c5c739/CampaignManagementforStartUpBusinesses_960.jpg",
+    "ShowName": "CRM Fundamentals for SME's",
+    "VideoLength": "00:25:34",
+    "VideoTitle": "Campaign Management for Start-up Businesses",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-04T10:54:23.2079416Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c739/03f381eb-6922-4aae-a392-b67d41c5c739/CampaignManagementforStartUpBusinesses_mid.mp4",
+    "Description": "Wynand explains that campaign management is even more important for SMEs than it is for larger corporations. The importance of nurturing is highlighted and the use of technology is also brought in. "
+  },
+  {
+    "VideoId": "84d3c1cf-a8c3-4cf2-9b56-a54500acc879",
+    "DataApi": "/Entries(guid'84d3c1cf-a8c3-4cf2-9b56-a54500acc879')/",
+    "VideoPageLink": "/Series/CMR-Fundamentals-for-SMEs/The-Four-Stages-of-CRM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5fa8/8db847cd-b302-47f3-b050-06fb4a745fa8/TheFourStagesofCRM_960.jpg",
+    "ShowName": "CRM Fundamentals for SME's",
+    "VideoLength": "00:28:10",
+    "VideoTitle": "The Four Stages of CRM",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-04T10:54:25.5915532Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5fa8/8db847cd-b302-47f3-b050-06fb4a745fa8/TheFourStagesofCRM_mid.mp4",
+    "Description": "Wynand provides an exposition of the four stages of the CRM process and how sales and marketing need to tie together   "
+  },
+  {
+    "VideoId": "e9862d00-73bc-42b7-9764-a54500ac0428",
+    "DataApi": "/Entries(guid'e9862d00-73bc-42b7-9764-a54500ac0428')/",
+    "VideoPageLink": "/Series/CMR-Fundamentals-for-SMEs/Introduction-to-CRM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9962/88749d7b-0a44-4e19-9db7-c3d7845e9962/IntroductiontoCRM_960.jpg",
+    "ShowName": "CRM Fundamentals for SME's",
+    "VideoLength": "00:18:10",
+    "VideoTitle": "Introduction to CRM",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-04T10:54:29.3555913Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9962/88749d7b-0a44-4e19-9db7-c3d7845e9962/IntroductiontoCRM_mid.mp4",
+    "Description": "Wynand provides a definition of CRM and explains why it is so important for small businesses.     "
+  }
+]

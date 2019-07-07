@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "e36cddba-b07e-4f39-b19b-a3d8013bcb45",
+    "DataApi": "/Entries(guid'e36cddba-b07e-4f39-b19b-a3d8013bcb45')/",
+    "VideoPageLink": "/Series/Modernizing-Your-Datacenter/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f4e0/1d2db16b-32f5-433c-acd9-e2bd817af4e0/ModernizingYourDatacenterM02_960.jpg",
+    "ShowName": "Modernizing Your Datacenter",
+    "VideoLength": "00:47:20",
+    "VideoTitle": "Modernizing Your Datacenter: (02) Windows Server 2012 R2 Server Management Tools, Simply Amazing!",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T23:22:43.3481402Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f4e0/1d2db16b-32f5-433c-acd9-e2bd817af4e0/ModernizingYourDatacenterM02_mid.mp4",
+    "Description": "Learn more about the Windows Server 2012 R2 management tools, including the available server interface choices, PowerShell, and Desired State Configuration. [17:30] - Server Manager[14:37] - Server In"
+  },
+  {
+    "VideoId": "dd5fa51f-95fc-4289-b581-a3d8013c05b4",
+    "DataApi": "/Entries(guid'dd5fa51f-95fc-4289-b581-a3d8013c05b4')/",
+    "VideoPageLink": "/Series/Modernizing-Your-Datacenter/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ff6e/334f31d4-88de-4622-a630-404d9550ff6e/ModernizingYourDatacenterM03_960.jpg",
+    "ShowName": "Modernizing Your Datacenter",
+    "VideoLength": "00:46:52",
+    "VideoTitle": "Modernizing Your Datacenter: (03) Windows Server 2012 R2 Hyper-V, Storage, and Networkingâ€¦ Oh My",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T23:23:02.2122863Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ff6e/334f31d4-88de-4622-a630-404d9550ff6e/ModernizingYourDatacenterM03_mid.mp4",
+    "Description": "See lots of helpful demos, and explore storage and networking improvements in Windows Server. Take a look at the enhancements of server virtualization via Hyper-V technology as an integral part of thi"
+  },
+  {
+    "VideoId": "72298278-b8c1-4569-9d1b-a3d8013c42f3",
+    "DataApi": "/Entries(guid'72298278-b8c1-4569-9d1b-a3d8013c42f3')/",
+    "VideoPageLink": "/Series/Modernizing-Your-Datacenter/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9dd6/adbd8b86-1457-4816-b486-6fd6ab299dd6/ModernizingYourDatacenterM04_960.jpg",
+    "ShowName": "Modernizing Your Datacenter",
+    "VideoLength": "00:49:58",
+    "VideoTitle": "Modernizing Your Datacenter: (04) Microsoft Azure â€“ Hybrid Connectivity: Look at the Cloud in a New Way",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T23:23:21.3476781Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9dd6/adbd8b86-1457-4816-b486-6fd6ab299dd6/ModernizingYourDatacenterM04_mid.mp4",
+    "Description": "Check out Microsoft Azure and how to make hybrid cloud a reality, and learn more about Microsoft Azure IaaS, Azure Storage, Azure Costs, and more. [00:56] - Microsoft Azure IaaS[40:02] - Azure Storage"
+  },
+  {
+    "VideoId": "b0338d44-05dc-4e30-90ff-a3d8013c8ac4",
+    "DataApi": "/Entries(guid'b0338d44-05dc-4e30-90ff-a3d8013c8ac4')/",
+    "VideoPageLink": "/Series/Modernizing-Your-Datacenter/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0265/c76eabf1-43a1-4608-acc8-f2c553100265/ModernizingYourDatacenterM05_960.jpg",
+    "ShowName": "Modernizing Your Datacenter",
+    "VideoLength": "00:18:11",
+    "VideoTitle": "Modernizing Your Datacenter: (05) Migration Tools in Another Word: Free",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-03T23:23:43.3656344Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0265/c76eabf1-43a1-4608-acc8-f2c553100265/ModernizingYourDatacenterM05_mid.mp4",
+    "Description": "Learn how to target your destination, and discover more about the available migration tools. Review the four major steps for planning a migration project, and find out what you need to update your dat"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a0a9f2b0-02f8-48ae-8728-9dec000bad26",
+    "DataApi": "/Entries(guid'a0a9f2b0-02f8-48ae-8728-9dec000bad26')/",
+    "VideoPageLink": "/Blogs/HilaryPike/Your-way-Your-play-XNA-Modify-a-2D-Game-in-10-minutes",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/280e/aae47c19-5caf-4da2-b369-854e0e04280e/Your-way-Your-play-XNA-Modify-a-2D-Game-in-10-min_960.jpg",
+    "ShowName": "HilaryPike",
+    "VideoLength": "00:11:14",
+    "VideoTitle": "Your way, Your play, XNA: Modify a 2D Game in 10 minutes",
+    "Author": "Hilary Pike",
+    "UtcDateTimePublished": "2007-11-13T16:54:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/280e/aae47c19-5caf-4da2-b369-854e0e04280e/Your-way-Your-play-XNA-Modify-a-2D-Game-in-10-min_mid.mp4",
+    "Description": "\nIntroduction to Gaming:  Modify your first 2D Game using XNA Games Studio Express. \nI walk you through some of the key gaming concepts and then add in Collision Detection and Score Keeping to the g"
+  }
+]

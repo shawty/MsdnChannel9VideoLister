@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "eca1c7c8-1092-42ff-9971-a2d8013ff46c",
+    "DataApi": "/Entries(guid'eca1c7c8-1092-42ff-9971-a2d8013ff46c')/",
+    "VideoPageLink": "/Series/SQL-Server-in-Windows-Azure-Virtual-Machines/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/69d9/77cab2d6-bafc-4875-bac1-2ef4ea0e69d9/SQLServerInAzureVMsM02_960.jpg",
+    "ShowName": "SQL Server in Windows Azure Virtual Machines",
+    "VideoLength": "00:33:54",
+    "VideoTitle": "SQL Server in Windows Azure Virtual Machines: (02) SQL Server in Azure VM Performance Tuning",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T22:20:56.3303668Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/69d9/77cab2d6-bafc-4875-bac1-2ef4ea0e69d9/SQLServerInAzureVMsM02_mid.mp4",
+    "Description": "Explore the performance characteristics of running SQL Server in Windows Azure VM (infrastructure as a service [IaaS]). Find out what level of performance you can expect from the system and what you c"
+  },
+  {
+    "VideoId": "5ba5f662-6a41-4dcb-bab5-a2d801403bd7",
+    "DataApi": "/Entries(guid'5ba5f662-6a41-4dcb-bab5-a2d801403bd7')/",
+    "VideoPageLink": "/Series/SQL-Server-in-Windows-Azure-Virtual-Machines/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dcde/c3b3cbb5-dc99-4923-b4ed-4737e97adcde/SQLServerInAzureVMsM03_960.jpg",
+    "ShowName": "SQL Server in Windows Azure Virtual Machines",
+    "VideoLength": "00:46:30",
+    "VideoTitle": "SQL Server in Windows Azure Virtual Machines: (03) Data Warehouse Workload in Azure VM",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T22:21:08.9442761Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dcde/c3b3cbb5-dc99-4923-b4ed-4737e97adcde/SQLServerInAzureVMsM03_mid.mp4",
+    "Description": "Discover how to run your data warehouse applications in Azure VM using pre-configured and optimized data warehouse images based on Fast Track DW architecture in Azure VM. [01:57] - A Quick Lap Around "
+  },
+  {
+    "VideoId": "b575f0f5-d659-4bb8-b418-a2d801408e44",
+    "DataApi": "/Entries(guid'b575f0f5-d659-4bb8-b418-a2d801408e44')/",
+    "VideoPageLink": "/Series/SQL-Server-in-Windows-Azure-Virtual-Machines/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75eb/918c3710-35c3-44ad-aa68-a91d43fd75eb/SQLServerInAzureVMsM04_960.jpg",
+    "ShowName": "SQL Server in Windows Azure Virtual Machines",
+    "VideoLength": "00:45:48",
+    "VideoTitle": "SQL Server in Windows Azure Virtual Machines: (04) Business Intelligence Workload in Azure VM",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T22:21:26.9102653Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75eb/918c3710-35c3-44ad-aa68-a91d43fd75eb/SQLServerInAzureVMsM04_mid.mp4",
+    "Description": "Learn how to run your business intelligence (BI) applications in Azure VM. See how to use the SQL Server VM images for corporate business intelligence scenarios that involve Analysis Services and Repo"
+  }
+]

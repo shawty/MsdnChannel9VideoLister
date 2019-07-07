@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "288b27f8-acb5-47f3-9f83-a42d015be824",
+    "DataApi": "/Entries(guid'288b27f8-acb5-47f3-9f83-a42d015be824')/",
+    "VideoPageLink": "/Series/CDirectX-Game-Development-Blending-and-Models/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e8d/705566fe-320e-4ae3-902a-59061b754e8d/384GameDevBlendingModelsM02_960.jpg",
+    "ShowName": "C++/DirectX Game Development: Blending and Models",
+    "VideoLength": "00:55:09",
+    "VideoTitle": "C++/DirectX Game Development: Blending and Models: (02) Blending/Transparency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-28T21:47:18.369342Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e8d/705566fe-320e-4ae3-902a-59061b754e8d/384GameDevBlendingModelsM02_mid.mp4",
+    "Description": "Learn how to implement techniques, like alpha clipping, global fog, and transparency/blending. [01:55] - Adding A Face/Quad class[11:25] - Placing A Face[18:40] - Creating A Transparent Clip Pixel Sha"
+  },
+  {
+    "VideoId": "fcb6a055-4513-4f2c-8691-a42d015c109c",
+    "DataApi": "/Entries(guid'fcb6a055-4513-4f2c-8691-a42d015c109c')/",
+    "VideoPageLink": "/Series/CDirectX-Game-Development-Blending-and-Models/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de1c/f188210d-8f00-4c86-ba2f-de290320de1c/384GameDevBlendingModelsM03_960.jpg",
+    "ShowName": "C++/DirectX Game Development: Blending and Models",
+    "VideoLength": "00:34:08",
+    "VideoTitle": "C++/DirectX Game Development: Blending and Models: (03) Creating Models and the OBJ Format",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-28T21:47:34.7708528Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de1c/f188210d-8f00-4c86-ba2f-de290320de1c/384GameDevBlendingModelsM03_mid.mp4",
+    "Description": "Take a deep dive into how the open source OBJ and VBO file formats represent models and why this is important. And hear how to create them from a third-party program like Maya, or by hand if you are f"
+  },
+  {
+    "VideoId": "fd248107-86fe-4a22-a7e9-a42d015c3897",
+    "DataApi": "/Entries(guid'fd248107-86fe-4a22-a7e9-a42d015c3897')/",
+    "VideoPageLink": "/Series/CDirectX-Game-Development-Blending-and-Models/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5c5a/c95e6600-85b8-4395-8c3c-b3ad98c65c5a/384GameDevBlendingModelsM04_960.jpg",
+    "ShowName": "C++/DirectX Game Development: Blending and Models",
+    "VideoLength": "00:39:55",
+    "VideoTitle": "C++/DirectX Game Development: Blending and Models: (04) Using the Model Importer",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-28T21:47:46.9437977Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5c5a/c95e6600-85b8-4395-8c3c-b3ad98c65c5a/384GameDevBlendingModelsM04_mid.mp4",
+    "Description": "Look at the new model loader provided by Microsoft (utilized in the demo) and how you can use it to import third-party models from other software or handmade models from a text file. Plus, get a wrap-"
+  }
+]

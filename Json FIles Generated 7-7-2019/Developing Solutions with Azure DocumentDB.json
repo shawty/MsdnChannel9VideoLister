@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "ddef05e2-2915-475c-a8e7-a47b0180901c",
+    "DataApi": "/Entries(guid'ddef05e2-2915-475c-a8e7-a47b0180901c')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e240/abd26b83-136a-44a5-bde6-f437b142e240/630DevSolutionsWithDocDBM02_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "00:28:11",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (02) Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:16:21.8092828Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e240/abd26b83-136a-44a5-bde6-f437b142e240/630DevSolutionsWithDocDBM02_mid.mp4",
+    "Description": "Although there is not much to manage with a database-as-a-service, DocumentDB does offer you some control and insights into your databases and data. Explore some of these levers and knobs. [01:01] - S"
+  },
+  {
+    "VideoId": "63d4e0f5-d614-4dbb-ac4b-a47b0180d196",
+    "DataApi": "/Entries(guid'63d4e0f5-d614-4dbb-ac4b-a47b0180d196')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de04/c93e1edc-f377-4d18-af8f-12ef0ecfde04/630DevSolutionsWithDocDBM03_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "00:33:38",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (03) SQL Query",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:16:32.8972032Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de04/c93e1edc-f377-4d18-af8f-12ef0ecfde04/630DevSolutionsWithDocDBM03_mid.mp4",
+    "Description": "Take a deep look into the SQL query grammar. Instead of inventing a new proprietary query language, the DocumentDB team chose to go with an old favorite, SQL, as in Structured Query Language (turns ou"
+  },
+  {
+    "VideoId": "3023a5e8-f664-41a1-9dae-a47b01812a62",
+    "DataApi": "/Entries(guid'3023a5e8-f664-41a1-9dae-a47b01812a62')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/460e/154a727c-6f3b-43b6-ab4b-7bbc6711460e/630DevSolutionsWithDocDBM04_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "00:33:33",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (04) Optimization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:16:42.6026852Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/460e/154a727c-6f3b-43b6-ab4b-7bbc6711460e/630DevSolutionsWithDocDBM04_mid.mp4",
+    "Description": "You know how to get started and how to begin building an app. Now, check out some of the things you can do to get the best out of DocumentDB. [01:47] - Performance Concepts[14:04] - Designing for Perf"
+  },
+  {
+    "VideoId": "c7e4af33-20d9-423d-8dec-a47b018159ea",
+    "DataApi": "/Entries(guid'c7e4af33-20d9-423d-8dec-a47b018159ea')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb05/d299c668-079d-4bb8-a501-387ef5abbb05/630DevSolutionsWithDocDBM05_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "00:38:21",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (05) Sharding",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:16:56.3391789Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb05/d299c668-079d-4bb8-a501-387ef5abbb05/630DevSolutionsWithDocDBM05_mid.mp4",
+    "Description": "Walk through some standard approaches for partitioning data, and see demos of a few of the common code patterns. â€‹In a truly scaled-out system, your data is spread out across a number of different par"
+  },
+  {
+    "VideoId": "05225efc-a4a3-4ce7-8bcd-a47b018181df",
+    "DataApi": "/Entries(guid'05225efc-a4a3-4ce7-8bcd-a47b018181df')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f59f/42b631ee-e38b-4fa7-ad97-41dfd1f1f59f/630DevSolutionsWithDocDBM06_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "00:28:45",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (06) Server-Side Programming",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:17:07.1639494Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f59f/42b631ee-e38b-4fa7-ad97-41dfd1f1f59f/630DevSolutionsWithDocDBM06_mid.mp4",
+    "Description": "Server-side programming with stored procedures, triggers, and user-defined functions is a really powerful capability of DocumentDB. Explore ways to build and execute these, and see some pre-built samp"
+  },
+  {
+    "VideoId": "d125db6d-0a7b-45db-8a67-a47b0181ab62",
+    "DataApi": "/Entries(guid'd125db6d-0a7b-45db-8a67-a47b0181ab62')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/82a7/0fc29bd2-abbf-4429-bd20-1465753782a7/630DevSolutionsWithDocDBM07_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "00:45:42",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (07) Build a Web Application",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:17:18.1054239Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/82a7/0fc29bd2-abbf-4429-bd20-1465753782a7/630DevSolutionsWithDocDBM07_mid.mp4",
+    "Description": "Follow along with a step-by-step walkthrough of building an ASP.NET MVC application using DocumentDB and Azure Websites. [00:55] - Build a web app with Document DB"
+  },
+  {
+    "VideoId": "3ed06af0-9e52-4971-9df5-a47b0181d672",
+    "DataApi": "/Entries(guid'3ed06af0-9e52-4971-9df5-a47b0181d672')/",
+    "VideoPageLink": "/Series/Developing-Solutions-with-Azure-DocumentDB/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/82de/625ba8ec-4ded-4393-b853-41eb3e1982de/630DevSolutionsWithDocDBM08_960.jpg",
+    "ShowName": "Developing Solutions with Azure DocumentDB",
+    "VideoLength": "01:00:47",
+    "VideoTitle": "Developing Solutions with Azure DocumentDB: (08) Building a Mobile Application",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-16T15:17:27.7717802Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/82de/625ba8ec-4ded-4393-b853-41eb3e1982de/630DevSolutionsWithDocDBM08_mid.mp4",
+    "Description": "Use Azure Mobile Services and DocumentDB together to build a cross-platform mobile application in just a few, easy-to-follow steps. [00:59] - Build a Mobile App with Azure Mobile Apps and DocumentDB"
+  }
+]

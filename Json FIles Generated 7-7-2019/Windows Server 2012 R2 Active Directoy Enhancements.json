@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "b926b900-6d57-456d-b867-a3b10177cf60",
+    "DataApi": "/Entries(guid'b926b900-6d57-456d-b867-a3b10177cf60')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Active-Directoy-Enhancements/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f38b/70462891-7204-4d43-8d6f-0f6c533af38b/Mod2_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Active Directoy Enhancements",
+    "VideoLength": "00:21:11",
+    "VideoTitle": "(Module 2) ADAC Enhancements",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:16:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f38b/70462891-7204-4d43-8d6f-0f6c533af38b/Mod2_mid.mp4",
+    "Description": "In this module we will spend time with ADAC as the user interface tool built on top of Windows PowerShell. We will work through the enhanced features of the Recycle bin and updates to Password policie"
+  },
+  {
+    "VideoId": "463b88e3-f259-4add-a7f2-a3b1017803c4",
+    "DataApi": "/Entries(guid'463b88e3-f259-4add-a7f2-a3b1017803c4')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Active-Directoy-Enhancements/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/77ce/49107d2f-10c4-4f9f-ab66-50ca930e77ce/Mod3_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Active Directoy Enhancements",
+    "VideoLength": "00:23:18",
+    "VideoTitle": "(Module 3) AD and PowerShell",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:16:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/77ce/49107d2f-10c4-4f9f-ab66-50ca930e77ce/Mod3_mid.mp4",
+    "Description": "In Windows Server 2012 R2, IT Proâ€™s can not only leverage the robustness &amp; automation of PowerShell for Active Directory, they can also learn from GUI activities to build out scripts for repeatabl"
+  },
+  {
+    "VideoId": "36fc4e30-ad6b-4a61-bb09-a3b10178323d",
+    "DataApi": "/Entries(guid'36fc4e30-ad6b-4a61-bb09-a3b10178323d')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Active-Directoy-Enhancements/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f38a/8d54d066-8de7-4272-9f4a-d7525f0bf38a/Mod4_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Active Directoy Enhancements",
+    "VideoLength": "00:12:40",
+    "VideoTitle": "(Module 4) Cloning Domain Controllers",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:16:05Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f38a/8d54d066-8de7-4272-9f4a-d7525f0bf38a/Mod4_mid.mp4",
+    "Description": "Virtualization of Domain Controllers provide greater support for public and private clouds, hybrid environments where portions of AD DS exist on-premises and in the cloud, and AD DS infrastructures th"
+  },
+  {
+    "VideoId": "c6840af1-33c7-40da-8572-a3b101785f8a",
+    "DataApi": "/Entries(guid'c6840af1-33c7-40da-8572-a3b101785f8a')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Active-Directoy-Enhancements/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/79ce/e095b559-b129-4cb5-a829-e97abd0879ce/Mod5_960.jpg",
+    "ShowName": "Windows Server 2012 R2: Active Directoy Enhancements",
+    "VideoLength": "00:04:11",
+    "VideoTitle": "(Module 5) Closing",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-14T11:16:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/79ce/e095b559-b129-4cb5-a829-e97abd0879ce/Mod5_mid.mp4",
+    "Description": "In summary, the new features starts to support IT Prosâ€™ who are moving towards private, public and hybrid cloud environments, ensuring the consistent deployment of Active Directory Domain Services.Thi"
+  }
+]

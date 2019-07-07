@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "786e8bea-d7f0-4742-929a-a2f301153ce1",
+    "DataApi": "/Entries(guid'786e8bea-d7f0-4742-929a-a2f301153ce1')/",
+    "VideoPageLink": "/Series/Microsoft-Dynamics-AX-2012-R3-Training/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e898/7aa2bd97-3b64-474f-9ca8-b7bf8af7e898/WarehouseManagementAX2012R3_960.jpg",
+    "ShowName": "Microsoft Dynamics AX 2012 R3 Training",
+    "VideoLength": "00:12:45",
+    "VideoTitle": "Microsoft Dynamics AX 2012 R3 Training: (02) Warehouse Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-19T21:13:13.2386852Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e898/7aa2bd97-3b64-474f-9ca8-b7bf8af7e898/WarehouseManagementAX2012R3_mid.mp4",
+    "Description": "If you're responsible for the setup and administration of warehouse management functionality in your company, this video can help. Get an introduction to warehouse management flow and concepts in Micr"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "e47b9974-9b3f-4117-a648-a36401644483",
+    "DataApi": "/Entries(guid'e47b9974-9b3f-4117-a648-a36401644483')/",
+    "VideoPageLink": "/Series/MDOP-App-V-Infrastructure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7b69/e725061c-6a1e-42e2-9bbe-a70e86947b69/MDOPAPPVM02_960.jpg",
+    "ShowName": "MDOP App-V Infrastructure",
+    "VideoLength": "00:37:07",
+    "VideoTitle": "MDOP App-V Infrastructure: (02) Server Features and Roles Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T02:18:54.4971583Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7b69/e725061c-6a1e-42e2-9bbe-a70e86947b69/MDOPAPPVM02_mid.mp4",
+    "Description": "Find out more about Management Service, Publishing Service, Reporting Service, and Content Servers. [00:40] - Management Service[03:27] - Walk Through - Setup and Operation of Management Server[11:17]"
+  },
+  {
+    "VideoId": "f1771add-6895-4350-9897-a36401647f3e",
+    "DataApi": "/Entries(guid'f1771add-6895-4350-9897-a36401647f3e')/",
+    "VideoPageLink": "/Series/MDOP-App-V-Infrastructure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e0cf/980fcfd7-08a6-403c-9038-8f70c07ce0cf/MDOPAPPVM03_960.jpg",
+    "ShowName": "MDOP App-V Infrastructure",
+    "VideoLength": "00:17:09",
+    "VideoTitle": "MDOP App-V Infrastructure: (03) Client Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T02:19:01.7661214Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e0cf/980fcfd7-08a6-403c-9038-8f70c07ce0cf/MDOPAPPVM03_mid.mp4",
+    "Description": "Discover more about client configuration management. [00:36] - Client Management[05:54] - Walk Through - PowerShell and PoliciesFull course outline: Mod 01: Server Features and Roles Part 1Mod 02: Ser"
+  },
+  {
+    "VideoId": "4dc06c8b-8aea-45d8-98fa-a3640164ba67",
+    "DataApi": "/Entries(guid'4dc06c8b-8aea-45d8-98fa-a3640164ba67')/",
+    "VideoPageLink": "/Series/MDOP-App-V-Infrastructure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d351/183c80ee-29ca-4bc1-b6fa-ea9556e1d351/MDOPAPPVM04_960.jpg",
+    "ShowName": "MDOP App-V Infrastructure",
+    "VideoLength": "00:21:36",
+    "VideoTitle": "MDOP App-V Infrastructure: (04) Package and Connection Group Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T02:19:12.2914612Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d351/183c80ee-29ca-4bc1-b6fa-ea9556e1d351/MDOPAPPVM04_mid.mp4",
+    "Description": "Learn more about package entitlements, connection groups, and advanced configuration. [01:43] - Package Management[06:11] - Walk Through - Package Management[18:56] - ResourcesFull course outline: Mod"
+  }
+]

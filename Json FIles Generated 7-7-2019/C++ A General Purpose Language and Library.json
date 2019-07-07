@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "e1ade9e1-586f-400c-90b7-a280002ecf05",
+    "DataApi": "/Entries(guid'e1ade9e1-586f-400c-90b7-a280002ecf05')/",
+    "VideoPageLink": "/Series/cplusplus-language-library/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9262/51e0b996-e843-4a85-9660-0abaf0b69262/CLanguageLibraryM02_960.jpg",
+    "ShowName": "C++ A General Purpose Language and Library",
+    "VideoLength": "00:50:14",
+    "VideoTitle": "C++ A General Purpose Language and Library: (02) Fundamentals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:39:04.5414313Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9262/51e0b996-e843-4a85-9660-0abaf0b69262/CLanguageLibraryM02_mid.mp4",
+    "Description": "Types, functions, flow of control, operators, and strings are the pieces of which every C&#43;&#43; application is made. [01:34] - Flow of Control[16:14] - Operators[35:04] - ConstFull course outline:"
+  },
+  {
+    "VideoId": "b0f0fb2c-48f6-479c-b486-a280002f0cdf",
+    "DataApi": "/Entries(guid'b0f0fb2c-48f6-479c-b486-a280002f0cdf')/",
+    "VideoPageLink": "/Series/cplusplus-language-library/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f5f/e09b5087-2934-4c89-a614-25ec330f8f5f/CLanguageLibraryM03_960.jpg",
+    "ShowName": "C++ A General Purpose Language and Library",
+    "VideoLength": "00:36:45",
+    "VideoTitle": "C++ A General Purpose Language and Library: (03) The C++ Object Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:39:52.3617585Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f5f/e09b5087-2934-4c89-a614-25ec330f8f5f/CLanguageLibraryM03_mid.mp4",
+    "Description": "Defining and using classes and objects is the power of C&#43;&#43;. This module shows how and why you do it, and it introduces a number of best practices. [01:06] - Objects[07:11] - Classes[10:22] - I"
+  },
+  {
+    "VideoId": "d14cef90-a093-4b6d-8ae0-a280002f5206",
+    "DataApi": "/Entries(guid'd14cef90-a093-4b6d-8ae0-a280002f5206')/",
+    "VideoPageLink": "/Series/cplusplus-language-library/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c85a/268b4faf-0b0e-4189-baa5-4a7763f2c85a/CLanguageLibraryM04_960.jpg",
+    "ShowName": "C++ A General Purpose Language and Library",
+    "VideoLength": "00:38:23",
+    "VideoTitle": "C++ A General Purpose Language and Library: (04) Pointers and Indirection",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:40:29.2225805Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c85a/268b4faf-0b0e-4189-baa5-4a7763f2c85a/CLanguageLibraryM04_mid.mp4",
+    "Description": "Pointers and references bring power (and complexity) to your application. This module covers dereferencing; passing arguments by value, reference, and address; and memory management. [00:00:54] - Refe"
+  },
+  {
+    "VideoId": "72050ef8-b4bd-4954-99e9-a280002fb341",
+    "DataApi": "/Entries(guid'72050ef8-b4bd-4954-99e9-a280002fb341')/",
+    "VideoPageLink": "/Series/cplusplus-language-library/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/96fb/3f245d20-de67-4f6e-ac99-a845318696fb/CLanguageLibraryM05_960.jpg",
+    "ShowName": "C++ A General Purpose Language and Library",
+    "VideoLength": "00:48:47",
+    "VideoTitle": "C++ A General Purpose Language and Library: (05) RAII â€“ Resource Acquisition Is Initialization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:40:52.6858686Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/96fb/3f245d20-de67-4f6e-ac99-a845318696fb/CLanguageLibraryM05_mid.mp4",
+    "Description": "A huge strength of C&#43;&#43; over other languages is deterministic destruction: knowing when resources will be freed. You can use this to make your coding easier and your applications safer. [00:02:"
+  },
+  {
+    "VideoId": "f046159a-15d6-4be1-b2f3-a280002ffce2",
+    "DataApi": "/Entries(guid'f046159a-15d6-4be1-b2f3-a280002ffce2')/",
+    "VideoPageLink": "/Series/cplusplus-language-library/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9bbe/ae3b34c0-348a-4292-b044-a2ad415f9bbe/CLanguageLibraryM06_960.jpg",
+    "ShowName": "C++ A General Purpose Language and Library",
+    "VideoLength": "00:43:28",
+    "VideoTitle": "C++ A General Purpose Language and Library: (06) The C++ Standard Library, or STL",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:41:48.7063923Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9bbe/ae3b34c0-348a-4292-b044-a2ad415f9bbe/CLanguageLibraryM06_mid.mp4",
+    "Description": "The C&#43;&#43; standard defines a library as well as the language syntax. A lot of the functionality you need is implemented in this library. This module introduces the library and lambdas, a languag"
+  },
+  {
+    "VideoId": "360b93df-8410-45ab-9283-a28000303bb1",
+    "DataApi": "/Entries(guid'360b93df-8410-45ab-9283-a28000303bb1')/",
+    "VideoPageLink": "/Series/cplusplus-language-library/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/67c1/8bea3c61-3d3d-44b3-b64f-7f51074467c1/CLanguageLibraryM07_960.jpg",
+    "ShowName": "C++ A General Purpose Language and Library",
+    "VideoLength": "00:32:28",
+    "VideoTitle": "C++ A General Purpose Language and Library: (07) Next Steps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:42:51.136359Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/67c1/8bea3c61-3d3d-44b3-b64f-7f51074467c1/CLanguageLibraryM07_mid.mp4",
+    "Description": "After you know the basics of C&#43;&#43;, there is so much more you can do! See what kinds of applications you can build in C&#43;&#43; and what advanced C&#43;&#43; topics you should explore later. ["
+  }
+]

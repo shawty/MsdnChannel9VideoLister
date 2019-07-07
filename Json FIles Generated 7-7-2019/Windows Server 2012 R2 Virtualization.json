@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "8d2b7e02-a1ad-4c29-a715-a2800038e87d",
+    "DataApi": "/Entries(guid'8d2b7e02-a1ad-4c29-a715-a2800038e87d')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Virtualization/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eacb/8f4c0cfd-50b3-4178-89c6-b0091581eacb/WinSvr2012R2VirtualizationM01_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Virtualization",
+    "VideoLength": "01:26:08",
+    "VideoTitle": "Windows Server 2012 R2 Virtualization: (01) Scalability and Performance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:43:32.8783515Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eacb/8f4c0cfd-50b3-4178-89c6-b0091581eacb/WinSvr2012R2VirtualizationM01_mid.mp4",
+    "Description": "In this module you will learn how virtualization in Windows Server 2012 R2 can bring mission critical high performance through the increased scale numbers, and key features of integration with hardwar"
+  },
+  {
+    "VideoId": "56e35c3b-9fc2-4981-ad0b-a2800039a50f",
+    "DataApi": "/Entries(guid'56e35c3b-9fc2-4981-ad0b-a2800039a50f')/",
+    "VideoPageLink": "/Series/Windows-Server-2012-R2-Virtualization/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b901/7d58fbbe-02a0-407b-bd7d-a4c9228db901/WinSvr2012R2VirtualizationM03_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Virtualization",
+    "VideoLength": "01:07:21",
+    "VideoTitle": "Windows Server 2012 R2 Virtualization: (03) High Availability and Resiliency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-24T20:43:44.1273483Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b901/7d58fbbe-02a0-407b-bd7d-a4c9228db901/WinSvr2012R2VirtualizationM03_mid.mp4",
+    "Description": "This module will cover high availability and resiliency features that are important for continued performance for businesses and provide robust and reliable application level flexibility, while simpli"
+  }
+]

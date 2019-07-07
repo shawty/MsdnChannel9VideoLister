@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "edfc002a-71c2-468a-a290-a5a2006c9133",
+    "DataApi": "/Entries(guid'edfc002a-71c2-468a-a290-a5a2006c9133')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/s01e06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ab3a/4ab83ed5-1ae4-4220-a244-0cad2518ab3a/sdfs_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "00:25:07",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: Game Development Competitions",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-02-04T18:10:15.6742275Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ab3a/4ab83ed5-1ae4-4220-a244-0cad2518ab3a/sdfs_mid.mp4",
+    "Description": "Dare to compete? This episode, Mickey MacDonalad (@ScruffyFurn) rants about community involvement, new year resolutions and game development competitions. He is also joined by the winners of the Coden"
+  },
+  {
+    "VideoId": "c7b24fa2-7e83-4906-a28e-a48e0142b427",
+    "DataApi": "/Entries(guid'c7b24fa2-7e83-4906-a28e-a48e0142b427')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/s01e05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/acda/76394a90-f635-4416-b48e-0f261492acda/S01E05_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "00:42:11",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: Code Management for the Game Developer",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-05-07T15:49:15.1200315Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/acda/76394a90-f635-4416-b48e-0f261492acda/S01E05_mid.mp4",
+    "Description": "Do you struggle with managing all the complex components of your project? Do you find yourself asking simple questions like â€œWhere should I put this patched code?â€ and â€œWhatâ€™s my next task?â€ Well, the"
+  },
+  {
+    "VideoId": "04f223a6-18f9-4ebc-911e-a43b0156e171",
+    "DataApi": "/Entries(guid'04f223a6-18f9-4ebc-911e-a43b0156e171')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/s01e04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c85/8f5eb88e-ee76-4b1e-926b-7abc98b59c85/S01E04_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "00:36:25",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: PyGame for the Aspiring Game Developer",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-04-02T20:16:43.2103612Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c85/8f5eb88e-ee76-4b1e-926b-7abc98b59c85/S01E04_mid.mp4",
+    "Description": "Is the programming language a blocker for you joining a project? Want to learn more about building games with Python? On this episode, @ScruffyFurn (Mickey MacDonald) continues his rant around the ide"
+  },
+  {
+    "VideoId": "2031b2b8-67dc-4bb7-aee2-a44800fa642d",
+    "DataApi": "/Entries(guid'2031b2b8-67dc-4bb7-aee2-a44800fa642d')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/s01e03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2b51/5ed5d519-915d-4413-8c60-80624cdf2b51/S01E03_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "00:38:13",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: IoT for the Game Developer",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2015-04-02T18:34:52.3442375Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2b51/5ed5d519-915d-4413-8c60-80624cdf2b51/S01E03_mid.mp4",
+    "Description": "IoT and Game Dev? While it might not come to mind immediately when thinking about game development, the internet of things could be the next emerging space for game devs. In this episode, ScruffyFurn "
+  },
+  {
+    "VideoId": "9dd669d0-778c-40a9-a573-a3e9012be3ef",
+    "DataApi": "/Entries(guid'9dd669d0-778c-40a9-a573-a3e9012be3ef')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/S01E02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4c1d/72c32809-20f6-471f-8d87-3718ec874c1d/S01E02_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "01:05:25",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: Cloud Intro for the Indie Developer [S01E02]",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2014-11-23T03:54:35.533463Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4c1d/72c32809-20f6-471f-8d87-3718ec874c1d/S01E02_mid.mp4",
+    "Description": "The AAA game producers are using the Cloud for some heavy lifting computations (AI, dynamic scene generation, etc), and though he doesn't expect Indie devs to go crazy like that, ScruffyFurn (Mickey M"
+  },
+  {
+    "VideoId": "80c4715e-5a4e-4aa5-bd24-a3ce0151a32f",
+    "DataApi": "/Entries(guid'80c4715e-5a4e-4aa5-bd24-a3ce0151a32f')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/s01e01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6986/6c82f4f9-f173-493b-9f82-008092b46986/S01E02_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "00:46:36",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: MonoGame for the XNA Developer [S01E01]",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2014-10-30T03:52:42.6009531Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6986/6c82f4f9-f173-493b-9f82-008092b46986/S01E02_mid.mp4",
+    "Description": "When XNA was put into &quot;stasis&quot;, a huge hole was created in the game development tool space. In this episode, ScruffyFurn (Mickey MacDonald) rants about his beloved XNA and introduces us to M"
+  },
+  {
+    "VideoId": "da047f5e-d8ff-4f10-a1f1-a3b10121d3e9",
+    "DataApi": "/Entries(guid'da047f5e-d8ff-4f10-a1f1-a3b10121d3e9')/",
+    "VideoPageLink": "/Shows/gamedevscruffyfurn/s01e00",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/33de/0a07f866-7afd-4148-8401-eca6c51b33de/S01E00_960.jpg",
+    "ShowName": "#GameDev w/ @ScruffyFurn",
+    "VideoLength": "00:58:52",
+    "VideoTitle": "#GameDev w/ @ScruffyFurn: Visual Studio Tools for the Unity Developer [S01E00]",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2014-09-25T22:48:53.8184713Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/33de/0a07f866-7afd-4148-8401-eca6c51b33de/S01E00_mid.mp4",
+    "Description": "[SERIES PILOT] Tips and tricks to help game developers find success in the Gaming industry. In this series pilot, ScruffyFurn (Mickey MacDonald) rants about IDEs (integrated development environments) "
+  }
+]

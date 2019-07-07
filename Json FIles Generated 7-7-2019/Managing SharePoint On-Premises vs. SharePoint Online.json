@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "3de7020d-9703-4539-8a8f-a467016ec5cd",
+    "DataApi": "/Entries(guid'3de7020d-9703-4539-8a8f-a467016ec5cd')/",
+    "VideoPageLink": "/Series/Managing-SharePoint-On-Premises-vs-SharePoint-Online/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac0b/930f8e38-aa98-4e36-8a0a-569ca27fac0b/756MgingSPOnPremVsOnlineM02_960.jpg",
+    "ShowName": "Managing SharePoint On-Premises vs. SharePoint Online",
+    "VideoLength": "00:14:49",
+    "VideoTitle": "Managing SharePoint On-Premises vs. SharePoint Online: (02) A Changing Admin Interface",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T19:40:41.3230832Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac0b/930f8e38-aa98-4e36-8a0a-569ca27fac0b/756MgingSPOnPremVsOnlineM02_mid.mp4",
+    "Description": "Review the new Office 365 administrative experience and console, and explore an outline of some of the changes in admin roles and responsibilities in the transition to the cloud. Plus, check out key d"
+  },
+  {
+    "VideoId": "a1a87fa2-f8ad-45e6-8611-a467016ef509",
+    "DataApi": "/Entries(guid'a1a87fa2-f8ad-45e6-8611-a467016ef509')/",
+    "VideoPageLink": "/Series/Managing-SharePoint-On-Premises-vs-SharePoint-Online/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/28e9/91171f38-38ec-4b5f-a1f0-ea49fb0228e9/756MgingSPOnPremVsOnlineM03_960.jpg",
+    "ShowName": "Managing SharePoint On-Premises vs. SharePoint Online",
+    "VideoLength": "00:23:38",
+    "VideoTitle": "Managing SharePoint On-Premises vs. SharePoint Online: (03) Basic Admin Capabilities",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T19:40:53.5629712Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/28e9/91171f38-38ec-4b5f-a1f0-ea49fb0228e9/756MgingSPOnPremVsOnlineM03_mid.mp4",
+    "Description": "Take a look at the SharePoint Online management platform and common admin tasks, and get guidance on how to extend governance activities to the cloud. See some of the governance limitations of the Sha"
+  },
+  {
+    "VideoId": "6684602a-041b-4dcd-b4ab-a467016f2457",
+    "DataApi": "/Entries(guid'6684602a-041b-4dcd-b4ab-a467016f2457')/",
+    "VideoPageLink": "/Series/Managing-SharePoint-On-Premises-vs-SharePoint-Online/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b123/5762725d-3b42-4cb0-90bd-13a828b2b123/756MgingSPOnPremVsOnlineM04_960.jpg",
+    "ShowName": "Managing SharePoint On-Premises vs. SharePoint Online",
+    "VideoLength": "00:18:38",
+    "VideoTitle": "Managing SharePoint On-Premises vs. SharePoint Online: (04) Solving Common Problems",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T19:41:03.7987415Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b123/5762725d-3b42-4cb0-90bd-13a828b2b123/756MgingSPOnPremVsOnlineM04_mid.mp4",
+    "Description": "Walk through the top five SharePoint management issues, and learn how to mitigate and resolve them using the SharePoint Online admin console. "
+  },
+  {
+    "VideoId": "ee2987a8-ab0a-414b-9184-a467016f50a9",
+    "DataApi": "/Entries(guid'ee2987a8-ab0a-414b-9184-a467016f50a9')/",
+    "VideoPageLink": "/Series/Managing-SharePoint-On-Premises-vs-SharePoint-Online/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c996/5836aee4-4bad-4914-88b9-c5647581c996/756MgingSPOnPremVsOnlineM05_960.jpg",
+    "ShowName": "Managing SharePoint On-Premises vs. SharePoint Online",
+    "VideoLength": "00:20:13",
+    "VideoTitle": "Managing SharePoint On-Premises vs. SharePoint Online: (05) Making the Cloud Transition",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-27T19:41:17.624278Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c996/5836aee4-4bad-4914-88b9-c5647581c996/756MgingSPOnPremVsOnlineM05_mid.mp4",
+    "Description": "Work through &quot;big-picture&quot; management considerations as you adopt the SharePoint Online platform, including advice on where to go to get the latest news and updates. Look at SharePoint gover"
+  }
+]

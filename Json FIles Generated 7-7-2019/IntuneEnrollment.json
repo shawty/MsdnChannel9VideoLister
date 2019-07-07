@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "212b48a3-4c2a-418f-95f3-a7050001041c",
+    "DataApi": "/Entries(guid'212b48a3-4c2a-418f-95f3-a7050001041c')/",
+    "VideoPageLink": "/Series/IntuneEnrollment/Windows-Enrollment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f6f1/aaac9569-4049-4710-89f3-c9039a2ff6f1/IntuneWindowsEnrollment_960.jpg",
+    "ShowName": "IntuneEnrollment",
+    "VideoLength": "00:01:08",
+    "VideoTitle": "Windows Enrollment",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2017-01-24T00:19:18.9770573Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f6f1/aaac9569-4049-4710-89f3-c9039a2ff6f1/IntuneWindowsEnrollment_high.mp4",
+    "Description": "Learn how to enroll your Windows device "
+  },
+  {
+    "VideoId": "d6cd76ef-1b69-46f2-9629-a7050000ce9a",
+    "DataApi": "/Entries(guid'd6cd76ef-1b69-46f2-9629-a7050000ce9a')/",
+    "VideoPageLink": "/Series/IntuneEnrollment/iOS-Enrollment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a576/5d494e9e-6db2-44d5-899e-7014825ca576/IntuneiOSEnrollment_960.jpg",
+    "ShowName": "IntuneEnrollment",
+    "VideoLength": "00:02:48",
+    "VideoTitle": "iOS Enrollment",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2017-01-24T00:19:43.3740087Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a576/5d494e9e-6db2-44d5-899e-7014825ca576/IntuneiOSEnrollment_high.mp4",
+    "Description": "Learn how to enroll your iOS device "
+  },
+  {
+    "VideoId": "5c5f1891-38cf-48bc-8fba-a7050000afd0",
+    "DataApi": "/Entries(guid'5c5f1891-38cf-48bc-8fba-a7050000afd0')/",
+    "VideoPageLink": "/Series/IntuneEnrollment/Android-Enrollment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d003/f8f004cf-d0c5-407b-9c09-6477e1ded003/IntuneAndroid_960.jpg",
+    "ShowName": "IntuneEnrollment",
+    "VideoLength": "00:02:38",
+    "VideoTitle": "Android Enrollment",
+    "Author": "Simon May",
+    "UtcDateTimePublished": "2017-01-24T00:22:00.470452Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d003/f8f004cf-d0c5-407b-9c09-6477e1ded003/IntuneAndroid_high.mp4",
+    "Description": "Learn how to enroll your Android device "
+  }
+]

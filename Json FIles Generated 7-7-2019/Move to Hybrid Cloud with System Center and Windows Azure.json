@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "2d8d891f-e026-48a4-80e6-a1f7011cdd62",
+    "DataApi": "/Entries(guid'2d8d891f-e026-48a4-80e6-a1f7011cdd62')/",
+    "VideoPageLink": "/Series/hybridcloud/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/922f/ec52be43-3ed1-4366-ba9c-e4cb5335922f/HybridCloudM02_960.jpg",
+    "ShowName": "Move to Hybrid Cloud with System Center and Windows Azure",
+    "VideoLength": "01:31:18",
+    "VideoTitle": "Move to Hybrid Cloud with System Center and Windows Azure: (02) Connecting System Center to the Public Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-12T00:14:58.6836702Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/922f/ec52be43-3ed1-4366-ba9c-e4cb5335922f/HybridCloudM02_mid.mp4",
+    "Description": "This session goes into what App Controller does. It also addresses management and deployment in hybrid scenarios and monitoring Windows Azure. [07:58] - What does App Controller do?[41:39] - Managemen"
+  },
+  {
+    "VideoId": "5ac362d0-9a1d-4697-9517-a1f7011deaf9",
+    "DataApi": "/Entries(guid'5ac362d0-9a1d-4697-9517-a1f7011deaf9')/",
+    "VideoPageLink": "/Series/hybridcloud/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c71b/11c4464c-f730-4a68-b8c5-f6b73768c71b/HybridCloudM03_960.jpg",
+    "ShowName": "Move to Hybrid Cloud with System Center and Windows Azure",
+    "VideoLength": "01:31:24",
+    "VideoTitle": "Move to Hybrid Cloud with System Center and Windows Azure: (03) Service Delivery and Automation in the Hybrid Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-12T00:15:38.7360108Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c71b/11c4464c-f730-4a68-b8c5-f6b73768c71b/HybridCloudM03_mid.mp4",
+    "Description": "In this section you will receive a quick intro to Windows Azure VMs and connecting to Windows Azure from Orchestrator, with PowerShell and developing Windows Azure-integrated Runbooks as well as learn"
+  },
+  {
+    "VideoId": "c6740428-16bf-46d8-a112-a1f7011e8075",
+    "DataApi": "/Entries(guid'c6740428-16bf-46d8-a112-a1f7011e8075')/",
+    "VideoPageLink": "/Series/hybridcloud/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7f36/f745b15d-2fff-476e-891d-8134d49f7f36/HybridCloudM04_960.jpg",
+    "ShowName": "Move to Hybrid Cloud with System Center and Windows Azure",
+    "VideoLength": "01:37:33",
+    "VideoTitle": "Move to Hybrid Cloud with System Center and Windows Azure: (04) ITIL-integrated Self-Service in the Hybrid Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-12T00:16:39.3221306Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7f36/f745b15d-2fff-476e-891d-8134d49f7f36/HybridCloudM04_mid.mp4",
+    "Description": "This modules is on customizing Service Catalog Presentation, connecting Azure-integrated Runbooks into the Self-Service Portal. In addition it focuses on the impact of Azure IaaS on Lifecycle Manageme"
+  }
+]

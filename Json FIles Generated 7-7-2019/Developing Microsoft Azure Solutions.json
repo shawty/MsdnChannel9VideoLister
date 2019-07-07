@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "9140c4a5-6c4b-4f33-a06d-a41801323dfe",
+    "DataApi": "/Entries(guid'9140c4a5-6c4b-4f33-a06d-a41801323dfe')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-Azure-Solutions/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c2a2/40146b66-cc04-4a1f-b24f-b3af51f8c2a2/461DevelopingMSAzureSolutionsM02_960.jpg",
+    "ShowName": "Developing Microsoft Azure Solutions",
+    "VideoLength": "00:59:47",
+    "VideoTitle": "Developing Microsoft Azure Solutions: (02) Azure Cloud Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-07T17:01:02.0461772Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c2a2/40146b66-cc04-4a1f-b24f-b3af51f8c2a2/461DevelopingMSAzureSolutionsM02_mid.mp4",
+    "Description": "Imagine a highly available and infinitely scalable platform to host your next big breakout web app! Review the rich platform that Azure Cloud Services provides, letting you focus on your application l"
+  },
+  {
+    "VideoId": "31adf9ca-02a6-4787-a72b-a418013290aa",
+    "DataApi": "/Entries(guid'31adf9ca-02a6-4787-a72b-a418013290aa')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-Azure-Solutions/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/45a8/97bfab26-92ef-408a-8d02-e5a2f36a45a8/461DevelopingMSAzureSolutionsM03_960.jpg",
+    "ShowName": "Developing Microsoft Azure Solutions",
+    "VideoLength": "00:49:18",
+    "VideoTitle": "Developing Microsoft Azure Solutions: (03) Azure Virtual Machines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-07T17:01:17.7230415Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/45a8/97bfab26-92ef-408a-8d02-e5a2f36a45a8/461DevelopingMSAzureSolutionsM03_mid.mp4",
+    "Description": "If you have a new idea or need to test an application, deploy a Linux or Windows instance in minutes on the shared Azure Virtual Machines compute platform. Review the various options for OS images and"
+  },
+  {
+    "VideoId": "a4d9cb7a-34b5-41b3-a4fb-a41801329906",
+    "DataApi": "/Entries(guid'a4d9cb7a-34b5-41b3-a4fb-a41801329906')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-Azure-Solutions/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4643/efa91a6a-86f9-45b3-970c-e71995204643/461DevelopingMSAzureSolutionsM04_960.jpg",
+    "ShowName": "Developing Microsoft Azure Solutions",
+    "VideoLength": "00:46:49",
+    "VideoTitle": "Developing Microsoft Azure Solutions: (04) Azure SQL Database",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-07T17:01:31.298252Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4643/efa91a6a-86f9-45b3-970c-e71995204643/461DevelopingMSAzureSolutionsM04_mid.mp4",
+    "Description": "Take a deep look into the relational database-as-a-service option available in Azure: SQL Database. See demos of many of the features unique to this database service.â€‹ [01:47] - Azure SQL Database Arc"
+  },
+  {
+    "VideoId": "d74bdc4e-5958-4ad1-9d08-a4180132c509",
+    "DataApi": "/Entries(guid'd74bdc4e-5958-4ad1-9d08-a4180132c509')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-Azure-Solutions/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f286/91aa6741-0265-4a5c-b975-7f6e9387f286/461DevelopingMSAzureSolutionsM05_960.jpg",
+    "ShowName": "Developing Microsoft Azure Solutions",
+    "VideoLength": "00:57:55",
+    "VideoTitle": "Developing Microsoft Azure Solutions: (05) Azure Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-07T17:01:46.1542448Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f286/91aa6741-0265-4a5c-b975-7f6e9387f286/461DevelopingMSAzureSolutionsM05_mid.mp4",
+    "Description": "Azure Storage is often the most used but least understood service in the platform. Explore, through demos, the Blob, Queue, and Table services and how they can be used with the REST endpoint or throug"
+  },
+  {
+    "VideoId": "a6abb54f-19ce-46cc-924c-a4180132f894",
+    "DataApi": "/Entries(guid'a6abb54f-19ce-46cc-924c-a4180132f894')/",
+    "VideoPageLink": "/Series/Developing-Microsoft-Azure-Solutions/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d70/ab1adddc-865d-47a4-a59a-75d60b9d7d70/461DevelopingMSAzureSolutionsM06_960.jpg",
+    "ShowName": "Developing Microsoft Azure Solutions",
+    "VideoLength": "01:00:38",
+    "VideoTitle": "Developing Microsoft Azure Solutions: (06) Application Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-01-07T17:01:59.4209343Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d70/ab1adddc-865d-47a4-a59a-75d60b9d7d70/461DevelopingMSAzureSolutionsM06_mid.mp4",
+    "Description": "Learn about the necessary services you can use to connect application components and to finalize your application for production. See demos of Azure Active Directory, Service Bus, and Redis Cache.â€‹ [0"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "7a0e39e3-333b-4c29-a168-a4a70170710d",
+    "DataApi": "/Entries(guid'7a0e39e3-333b-4c29-a168-a4a70170710d')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/Introducing-Win2D-DirectX-Powered-Drawing-in-C",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "7a07773c-7f2f-4b40-9635-a4a701711301",
+    "DataApi": "/Entries(guid'7a07773c-7f2f-4b40-9635-a4a701711301')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/Game-Developers-Get-the-Most-Out-of-Windows-10",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "f4f25072-c82e-48d6-a5b0-a4a70171b9b6",
+    "DataApi": "/Entries(guid'f4f25072-c82e-48d6-a5b0-a4a70171b9b6')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/Building-Universal-Windows-Games-with-Unity",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "16bdca7e-5031-4f3b-95d5-a4a70175b898",
+    "DataApi": "/Entries(guid'16bdca7e-5031-4f3b-95d5-a4a70175b898')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/A-Studio-in-the-Palm-of-Your-Hand-Developing-Audio-and-Video-Creation-Apps-for-Windows-10",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "d947a73b-89cf-471a-913f-a4a701767a53",
+    "DataApi": "/Entries(guid'd947a73b-89cf-471a-913f-a4a701767a53')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/Whats-New-in-Direct2D-and-DirectWrite-for-Windows-10",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "357008b7-8e8f-4c10-85a0-a4a701772f77",
+    "DataApi": "/Entries(guid'357008b7-8e8f-4c10-85a0-a4a701772f77')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/ANGLE-Running-OpenGL-ES-20-Graphics-Code-on-Windows",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "1710ba5c-adcb-4f16-bb65-a4a70177defa",
+    "DataApi": "/Entries(guid'1710ba5c-adcb-4f16-bb65-a4a70177defa')/",
+    "VideoPageLink": "/Blogs/Best-of-Build-2015-Game-Dev/Abiola-from-Gamsole",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

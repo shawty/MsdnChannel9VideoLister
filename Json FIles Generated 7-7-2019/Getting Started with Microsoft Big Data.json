@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "da8efda8-0282-4744-a276-a2440154002f",
+    "DataApi": "/Entries(guid'da8efda8-0282-4744-a276-a2440154002f')/",
+    "VideoPageLink": "/Series/Get-Started-MS-Big-Data/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/48da/0adedb89-d340-4790-b355-b11a096a48da/GetStartedMicrosoftBigDataM02_960.jpg",
+    "ShowName": "Getting Started with Microsoft Big Data",
+    "VideoLength": "00:33:56",
+    "VideoTitle": "Getting Started with Microsoft Big Data: (02) Introduction to Map Reduce",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-26T03:30:18.4851689Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/48da/0adedb89-d340-4790-b355-b11a096a48da/GetStartedMicrosoftBigDataM02_mid.mp4",
+    "Description": "In this module, you will learn the essentials of Map Reduce with Hadoop. You will see how to create a Map Reduce job using C# to process data and then run the job on an HDInsight cluster. [00:49] - Un"
+  },
+  {
+    "VideoId": "1f5a4a4a-8534-42e0-84ac-a24401544aa4",
+    "DataApi": "/Entries(guid'1f5a4a4a-8534-42e0-84ac-a24401544aa4')/",
+    "VideoPageLink": "/Series/Get-Started-MS-Big-Data/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6402/3a3e0ee1-7920-4d3c-93d9-3fbb28ef6402/GetStartedMicrosoftBigDataM03_960.jpg",
+    "ShowName": "Getting Started with Microsoft Big Data",
+    "VideoLength": "00:45:19",
+    "VideoTitle": "Getting Started with Microsoft Big Data: (03) Introduction to Hive and HiveQL",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-26T03:30:35.6951877Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6402/3a3e0ee1-7920-4d3c-93d9-3fbb28ef6402/GetStartedMicrosoftBigDataM03_mid.mp4",
+    "Description": "In this module, you will learn how to leverage your SQL skills by using Hive and HiveQL to create tables and views and run queries on top of Hadoop data using an HDInsight cluster. [00:38] - Hive Arch"
+  },
+  {
+    "VideoId": "d6421f5f-f267-40d3-b278-a244015493d5",
+    "DataApi": "/Entries(guid'd6421f5f-f267-40d3-b278-a244015493d5')/",
+    "VideoPageLink": "/Series/Get-Started-MS-Big-Data/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc6f/5da950d9-3950-4325-8a34-056a9176fc6f/GetStartedMicrosoftBigDataM04_960.jpg",
+    "ShowName": "Getting Started with Microsoft Big Data",
+    "VideoLength": "00:32:28",
+    "VideoTitle": "Getting Started with Microsoft Big Data: (04) Developing Big Data Applications with .NET",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-26T03:30:53.8615593Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc6f/5da950d9-3950-4325-8a34-056a9176fc6f/GetStartedMicrosoftBigDataM04_mid.mp4",
+    "Description": "In this module, you will learn how to use .NET Language Integrated Query (LINQ) to author Hive queries against Hadoop data. You'll also learn how to create streaming data applications using the .NET R"
+  },
+  {
+    "VideoId": "9cdd3c87-1193-476d-b5e2-a2440154da1e",
+    "DataApi": "/Entries(guid'9cdd3c87-1193-476d-b5e2-a2440154da1e')/",
+    "VideoPageLink": "/Series/Get-Started-MS-Big-Data/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/19b7/8a7cdbcb-0fd7-4ed4-afc0-ccc8622519b7/GetStartedMicrosoftBigDataM05_960.jpg",
+    "ShowName": "Getting Started with Microsoft Big Data",
+    "VideoLength": "00:34:48",
+    "VideoTitle": "Getting Started with Microsoft Big Data: (05) Operationalize your Big Data Pipeline",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-26T03:31:36.1539064Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/19b7/8a7cdbcb-0fd7-4ed4-afc0-ccc8622519b7/GetStartedMicrosoftBigDataM05_mid.mp4",
+    "Description": "In this module, you will learn how to use the Microsoft .NET SDK for Hadoop for performing Hadoop-based tasks. You'll learn how to automate cluster creation, running a map-reduce job and deleting a cl"
+  }
+]

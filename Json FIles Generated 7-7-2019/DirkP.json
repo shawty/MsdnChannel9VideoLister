@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "25b8c3cf-5453-4e74-a483-9dec0013b3a6",
+    "DataApi": "/Entries(guid'25b8c3cf-5453-4e74-a483-9dec0013b3a6')/",
+    "VideoPageLink": "/Blogs/DirkP/CeBIT-2008-Mobile-Anwendungen-mit-Visual-Studio",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b40f/fad0cf4a-166f-448a-a25d-44d25294b40f/CeBIT-2008-Mobile-Anwendungen-mit-Visual-Studio_960.jpg",
+    "ShowName": "DirkP",
+    "VideoLength": "00:23:46",
+    "VideoTitle": "CeBIT 2008 - Mobile Anwendungen mit Visual Studio",
+    "Author": "DirkP",
+    "UtcDateTimePublished": "2008-03-11T07:29:44Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b40f/fad0cf4a-166f-448a-a25d-44d25294b40f/CeBIT-2008-Mobile-Anwendungen-mit-Visual-Studio_mid.mp4",
+    "Description": "Mobile Device Entwicklung mit Visual Studio \nEs ist noch gar nicht so lange her, da hätten wir am PC von der Leistung geträumt, die moderne Telefone heute ganz selbstverständlich bereitstellen. Und d"
+  },
+  {
+    "VideoId": "5bf0f66a-6757-4a1a-9e67-9dec0013b692",
+    "DataApi": "/Entries(guid'5bf0f66a-6757-4a1a-9e67-9dec0013b692')/",
+    "VideoPageLink": "/Blogs/DirkP/CeBIT-2008-ASPNET-und-AJAX",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a4ea/593cb610-7ca8-4402-a6ff-89bd53c0a4ea/CeBIT-2008-ASPNET-und-AJAX_960.jpg",
+    "ShowName": "DirkP",
+    "VideoLength": "00:23:28",
+    "VideoTitle": "CeBIT 2008 - ASP.NET und AJAX",
+    "Author": "DirkP",
+    "UtcDateTimePublished": "2008-03-09T10:19:43Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a4ea/593cb610-7ca8-4402-a6ff-89bd53c0a4ea/CeBIT-2008-ASPNET-und-AJAX_mid.mp4",
+    "Description": "ASP.NET und AJAX \nIn diesem Vortrag erfahren Sie, welche Möglichkeiten Ihnen Visual Studio bietet, ASP.NET-Webseiten ganz im Trend von Web 2.0 zu entwickeln. Werfen Sie zusammen mit Tom Wendel einen "
+  },
+  {
+    "VideoId": "72c171c0-007f-4324-8721-9dec0013b980",
+    "DataApi": "/Entries(guid'72c171c0-007f-4324-8721-9dec0013b980')/",
+    "VideoPageLink": "/Blogs/DirkP/Einf252hrung-in-XNA",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6a56/2cfb0909-ce68-49dd-a6cd-ca86ced76a56/Einf252hrung-in-XNA_960.jpg",
+    "ShowName": "DirkP",
+    "VideoLength": "00:21:45",
+    "VideoTitle": "Einf&#252;hrung in XNA",
+    "Author": "DirkP",
+    "UtcDateTimePublished": "2008-03-09T10:09:47Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a56/2cfb0909-ce68-49dd-a6cd-ca86ced76a56/Einf252hrung-in-XNA_mid.mp4",
+    "Description": "Spieleentwicklung mit XNA â€“ von â€žOpening the Xboxâ€œ bis â€žSpieleentwicklung für Jedermannâ€œ\n\nMit XNA hat Microsoft Ende 2006 im Bereich der Spieleentwicklertechnologien ein neues Kapitel aufgeschlagen."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "720ead96-cafd-443a-8b33-a7c200f7fe21",
+    "DataApi": "/Entries(guid'720ead96-cafd-443a-8b33-a7c200f7fe21')/",
+    "VideoPageLink": "/Shows/Azure-for-Node-Developers/Welcome-to-the-Azure-for-Nodejs-Developer-Center",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/20c2/6f0340a0-07fb-401b-b4a8-231f5d3520c2/AzureNodeDevCenterWelcome_960.jpg",
+    "ShowName": "Azure for Node.js Developers",
+    "VideoLength": "00:03:24",
+    "VideoTitle": "Welcome to the Azure for Node.js Developer Center",
+    "Author": "burkeholland",
+    "UtcDateTimePublished": "2017-08-01T15:32:22.59909Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/20c2/6f0340a0-07fb-401b-b4a8-231f5d3520c2/AzureNodeDevCenterWelcome_mid.mp4",
+    "Description": "Welcome to the Azure for Node.js Developer Center.  Listen to John Papa, Simona Cotin, and Burke Holland give you a quick description of what resources are available and visit the Azure for Node.js de"
+  }
+]

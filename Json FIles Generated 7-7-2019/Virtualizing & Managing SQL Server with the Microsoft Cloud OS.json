@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "07e6ce4a-0b8e-4901-9601-a36501787857",
+    "DataApi": "/Entries(guid'07e6ce4a-0b8e-4901-9601-a36501787857')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-SQL-Server-with-the-Microsoft-Cloud-OS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4246/6f7f57f3-9e61-4b0e-9732-0b9313b84246/VirtualizingSQLServerCloudOSM02_960.jpg",
+    "ShowName": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS",
+    "VideoLength": "00:21:08",
+    "VideoTitle": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS: (02) Storage & Networking",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-12T02:30:49.810782Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4246/6f7f57f3-9e61-4b0e-9732-0b9313b84246/VirtualizingSQLServerCloudOSM02_mid.mp4",
+    "Description": "In this module you will learn more about Windows Server 2012 R2 Hyper-V features, and a number of advanced storage and networking capabilities and integration points that accelerate performance in the"
+  },
+  {
+    "VideoId": "4fccaf5f-b274-406d-be25-a3650178b1c9",
+    "DataApi": "/Entries(guid'4fccaf5f-b274-406d-be25-a3650178b1c9')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-SQL-Server-with-the-Microsoft-Cloud-OS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f9a/94054298-8dc0-4295-a6f5-b4158fb69f9a/VirtualizingSQLServerCloudOSM03_960.jpg",
+    "ShowName": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS",
+    "VideoLength": "00:38:10",
+    "VideoTitle": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS: (03) Flexibility & Resiliency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-12T02:30:59.8831335Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f9a/94054298-8dc0-4295-a6f5-b4158fb69f9a/VirtualizingSQLServerCloudOSM03_mid.mp4",
+    "Description": "In this module you will learn that to maintain optimal use of physical resources and be able to easily add new virtual machines, IT must be able to move virtual machines whenever necessary without dis"
+  },
+  {
+    "VideoId": "4a305ec1-e68d-49ab-92ec-a3650178ea88",
+    "DataApi": "/Entries(guid'4a305ec1-e68d-49ab-92ec-a3650178ea88')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-SQL-Server-with-the-Microsoft-Cloud-OS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/797d/70413af2-ad95-4c2d-ad7c-16e0fb3c797d/VirtualizingSQLServerCloudOSM04_960.jpg",
+    "ShowName": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS",
+    "VideoLength": "00:20:46",
+    "VideoTitle": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS: (04) SQL Server Support on Hyper-V & Hybrid Infrastructure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-12T02:31:10.5857063Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/797d/70413af2-ad95-4c2d-ad7c-16e0fb3c797d/VirtualizingSQLServerCloudOSM04_mid.mp4",
+    "Description": "In this module you will learn more about the support provide for SQL server. We will also cover how on DBAs you can choose to deploy SQL databases directly onto Windows Azure SQL Database - a cloud-ba"
+  },
+  {
+    "VideoId": "29d11611-af2d-4ebe-8f27-a36501792c81",
+    "DataApi": "/Entries(guid'29d11611-af2d-4ebe-8f27-a36501792c81')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-SQL-Server-with-the-Microsoft-Cloud-OS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3fff/473c25d0-d949-4fa7-bbba-196508873fff/VirtualizingSQLServerCloudOSM05_960.jpg",
+    "ShowName": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS",
+    "VideoLength": "01:19:55",
+    "VideoTitle": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS: (05) Comprehensive Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-12T02:31:22.5885244Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3fff/473c25d0-d949-4fa7-bbba-196508873fff/VirtualizingSQLServerCloudOSM05_mid.mp4",
+    "Description": "In this module we will cover the key System Center components that play a part in managing the datacenter. We will cover topics for Operations Manager; Infrastructure &amp; application monitoring &amp"
+  },
+  {
+    "VideoId": "631d4eb7-e1f7-44e1-ae5d-a36501796e0d",
+    "DataApi": "/Entries(guid'631d4eb7-e1f7-44e1-ae5d-a36501796e0d')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-SQL-Server-with-the-Microsoft-Cloud-OS/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bdac/c2836e15-b86a-4da5-a894-3350d9e4bdac/VirtualizingSQLServerCloudOSM06_960.jpg",
+    "ShowName": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS",
+    "VideoLength": "00:15:27",
+    "VideoTitle": "Virtualizing & Managing SQL Server with the Microsoft Cloud OS: (06) Delivering SQL Server as a Service & Summary",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-12T02:31:31.1887569Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bdac/c2836e15-b86a-4da5-a894-3350d9e4bdac/VirtualizingSQLServerCloudOSM06_mid.mp4",
+    "Description": "In this final module we will learn more about Self-Service Requests. How through System Center Service Manager, DBAs, application owners, or development/test teams can request new SQL Server services "
+  }
+]

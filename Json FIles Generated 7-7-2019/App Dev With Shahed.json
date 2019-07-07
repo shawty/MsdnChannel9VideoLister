@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "23c3eba2-756f-4455-9a65-a4e601319731",
+    "DataApi": "/Entries(guid'23c3eba2-756f-4455-9a65-a4e601319731')/",
+    "VideoPageLink": "/Blogs/App-Dev-With-Shahed/Windows-10-on-Surface-Pro-3-Quick-Look",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b3ba/52691344-c5f5-441d-94a0-9841c011b3ba/win10SurfacePro3_960.jpg",
+    "ShowName": "App Dev With Shahed",
+    "VideoLength": "00:02:50",
+    "VideoTitle": "Windows 10 on Surface Pro 3: Quick Look",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2015-07-31T18:42:43.8845328Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b3ba/52691344-c5f5-441d-94a0-9841c011b3ba/win10SurfacePro3_mid.mp4",
+    "Description": "A very quick look at Windows 10 and a few of its features: Microsoft Edge, the web browser with improved F12 dev toolsCortana, your personal assistant with an available SDK for Windows devsApp windows"
+  }
+]

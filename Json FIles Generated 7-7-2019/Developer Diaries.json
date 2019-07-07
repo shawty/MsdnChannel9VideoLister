@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "fb44abb8-cc97-4247-8856-a1a4014fcccf",
+    "DataApi": "/Entries(guid'fb44abb8-cc97-4247-8856-a1a4014fcccf')/",
+    "VideoPageLink": "/Series/Developer-Diaries/Scott-Davis-talks-about-developing-QONQR-for-Windows-8-and-Windows-Phone",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6307/c0b63620-0bed-4cc7-98d9-621ba92f6307/DevDiaryDavis_960.jpg",
+    "ShowName": "Developer Diaries",
+    "VideoLength": "00:14:47",
+    "VideoTitle": "Scott Davis talks about developing QONQR for Windows 8 and Windows Phone",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-04-19T18:11:51.4349323Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6307/c0b63620-0bed-4cc7-98d9-621ba92f6307/DevDiaryDavis_mid.mp4",
+    "Description": "Scott Davis came by to open up about his experiences developing applications and tell us how he got started. Scott is well versed in developing games for both Windows 8 and Windows Phone. Check him an"
+  },
+  {
+    "VideoId": "c957c86c-bbb4-41bb-943a-a1b201337fc6",
+    "DataApi": "/Entries(guid'c957c86c-bbb4-41bb-943a-a1b201337fc6')/",
+    "VideoPageLink": "/Series/Developer-Diaries/Developer-Diaries-Erin-Strange-from-MigrationMobi",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e175/2c6d53b8-179f-42a9-9a81-bcc8199fe175/DevDiaryErinStrange_960.jpg",
+    "ShowName": "Developer Diaries",
+    "VideoLength": "00:16:04",
+    "VideoTitle": "Developer Diaries: Erin Strange from Migration.Mobi",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-05-10T03:33:58.4976591Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e175/2c6d53b8-179f-42a9-9a81-bcc8199fe175/DevDiaryErinStrange_mid.mp4",
+    "Description": "In this latest episode, Erin Strange stopped by to talk about developing some super high profile apps. Erin is the creative director at Migration.Mobi and here she talks about what it's like developin"
+  },
+  {
+    "VideoId": "423cd36d-ae9e-49e7-924b-a1bf013c350b",
+    "DataApi": "/Entries(guid'423cd36d-ae9e-49e7-924b-a1bf013c350b')/",
+    "VideoPageLink": "/Series/Developer-Diaries/Developer-DIaries-Jing-Chan-gets-over-1-Million-Facebook-likes",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d94/2a97c2e9-9562-4e81-a500-428fee234d94/JingChan_960.jpg",
+    "ShowName": "Developer Diaries",
+    "VideoLength": "00:14:35",
+    "VideoTitle": "Developer Diaries: Jing Chan gets over 1 Million Facebook \"likes\"",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-05-17T16:53:34.4866577Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d94/2a97c2e9-9562-4e81-a500-428fee234d94/JingChan_mid.mp4",
+    "Description": "Jing Chan talks about his personal history as a developer and his experience creating CamWow. "
+  },
+  {
+    "VideoId": "9aaa02c4-325f-4d97-9060-a1c7014b2c9e",
+    "DataApi": "/Entries(guid'9aaa02c4-325f-4d97-9060-a1c7014b2c9e')/",
+    "VideoPageLink": "/Series/Developer-Diaries/Developer-Diaries-Blake-Miller-talks-Bodeefit-and-Thing-Big-Partners",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/05d6/d670fee4-f3d5-4fe2-9596-3c6d6cd405d6/DevDiaryBlakeMiller_960.jpg",
+    "ShowName": "Developer Diaries",
+    "VideoLength": "00:11:57",
+    "VideoTitle": "Developer Diaries: Blake Miller talks Bodeefit and Think Big Partners",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-05-30T19:25:41.3342558Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/05d6/d670fee4-f3d5-4fe2-9596-3c6d6cd405d6/DevDiaryBlakeMiller_mid.mp4",
+    "Description": "Blake Miller, co-founder of Bodeefit, talks about his experience working with different UI's, app building, and start-ups. "
+  },
+  {
+    "VideoId": "6dd76eaf-42e5-4705-9184-a235015564f0",
+    "DataApi": "/Entries(guid'6dd76eaf-42e5-4705-9184-a235015564f0')/",
+    "VideoPageLink": "/Series/Developer-Diaries/Dev-Diary-Paul-Baldwin-CEO-of-Joybits",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3783/572dbc21-d539-4ca5-aa78-d8d26c043783/DevDiaryBaldwin_960.jpg",
+    "ShowName": "Developer Diaries",
+    "VideoLength": "00:12:08",
+    "VideoTitle": "Dev Diary: Paul Baldwin, CEO of Joybits",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-09-11T18:43:24.1098162Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3783/572dbc21-d539-4ca5-aa78-d8d26c043783/DevDiaryBaldwin_mid.mp4",
+    "Description": "Paul Baldwin has a rich and exciting history in the gaming industry and in mobile games. He has been there from the beginning and worked on franchises we all know and love like Tomb Raider and Doodle "
+  },
+  {
+    "VideoId": "995efdd6-b87a-4599-b44e-a24a01339468",
+    "DataApi": "/Entries(guid'995efdd6-b87a-4599-b44e-a24a01339468')/",
+    "VideoPageLink": "/Series/Developer-Diaries/Dev-Diary-Azhar-Salahuddin",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6d0d/237e2106-25e2-4b34-9d96-b212fe8f6d0d/DiaryAzhar_960.jpg",
+    "ShowName": "Developer Diaries",
+    "VideoLength": "00:16:50",
+    "VideoTitle": "Dev Diary: Azhar Salahuddin",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2013-10-08T21:52:02.2288995Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6d0d/237e2106-25e2-4b34-9d96-b212fe8f6d0d/DiaryAzhar_mid.mp4",
+    "Description": "We had the pleasure of sitting down with Azhar Salahuddin to discuss his history as a developer. Azhar currently works for Aspect Technology Solutions which creates some of the most popular apps on Wi"
+  }
+]

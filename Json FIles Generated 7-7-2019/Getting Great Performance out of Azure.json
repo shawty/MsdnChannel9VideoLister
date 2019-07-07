@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "e8c437df-f74f-4f2a-98b1-a403013cfcb1",
+    "DataApi": "/Entries(guid'e8c437df-f74f-4f2a-98b1-a403013cfcb1')/",
+    "VideoPageLink": "/Series/Getting-Great-Performance-out-of-Azure/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d0ac/7969a39b-22a4-4848-a3c1-185de8a2d0ac/Mod2_960.jpg",
+    "ShowName": "Getting Great Performance out of Azure",
+    "VideoLength": "00:23:04",
+    "VideoTitle": "(Module 2) Planning for Performance",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T12:02:29Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d0ac/7969a39b-22a4-4848-a3c1-185de8a2d0ac/Mod2_mid.mp4",
+    "Description": "There are often multiple ways to achieve the same goal in Azure but which one would give the best result? In this module we'll work through some common architecture choices and learn how to build for "
+  },
+  {
+    "VideoId": "df40215a-bcf6-42fb-af4d-a403013d7295",
+    "DataApi": "/Entries(guid'df40215a-bcf6-42fb-af4d-a403013d7295')/",
+    "VideoPageLink": "/Series/Getting-Great-Performance-out-of-Azure/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3366/1738e15d-6e59-405b-991a-d9faec4b3366/Mod3_960.jpg",
+    "ShowName": "Getting Great Performance out of Azure",
+    "VideoLength": "00:27:10",
+    "VideoTitle": "(Module 3) Building in Scale",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T12:03:36Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3366/1738e15d-6e59-405b-991a-d9faec4b3366/Mod3_mid.mp4",
+    "Description": "In this module we learn how to add power on demand so our service can adapt to changes in load across every tier.This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program de"
+  },
+  {
+    "VideoId": "63b08393-fc8a-4218-948e-a403013e06fa",
+    "DataApi": "/Entries(guid'63b08393-fc8a-4218-948e-a403013e06fa')/",
+    "VideoPageLink": "/Series/Getting-Great-Performance-out-of-Azure/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/99e2/39c59405-87bb-48f9-a171-591e5fbe99e2/Mod4_960.jpg",
+    "ShowName": "Getting Great Performance out of Azure",
+    "VideoLength": "00:23:27",
+    "VideoTitle": "(Module 4) Monitoring Your Service",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-12-19T12:04:14Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/99e2/39c59405-87bb-48f9-a171-591e5fbe99e2/Mod4_mid.mp4",
+    "Description": "How well is your service really running? Is it scaling as it should? In this module we'll explore how to keep track of service performance and availability and how to get alerted to any issues that ma"
+  }
+]

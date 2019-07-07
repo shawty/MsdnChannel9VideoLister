@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "6db412e7-8927-47cc-8995-9fea003cb504",
+    "DataApi": "/Entries(guid'6db412e7-8927-47cc-8995-9fea003cb504')/",
+    "VideoPageLink": "/Series/KinectQuickstart/Setting-up-your-Development-Environment",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/6db412e7-8927-47cc-8995-9fea003cb504_960.jpg",
+    "ShowName": "Kinect for Windows Quickstart Series",
+    "VideoLength": "00:13:36",
+    "VideoTitle": "Setting up your Development Environment",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-02-01T13:39:51.0391497Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/96b3/d758e693-7294-4528-91e0-f18430b596b3/SettingUpYourDevelopmentEnvironmenthighch9_mid.mp4",
+    "Description": "In setting up your development environment we'll discuss the following topics: The basics of using the Managed APIThe key developer resources to use in your application like the KinectWpfViewers that "
+  },
+  {
+    "VideoId": "9f79c23c-03c4-47d1-8986-9fea003cd369",
+    "DataApi": "/Entries(guid'9f79c23c-03c4-47d1-8986-9fea003cd369')/",
+    "VideoPageLink": "/Series/KinectQuickstart/Camera-Fundamentals",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/9f79c23c-03c4-47d1-8986-9fea003cd369_960.jpg",
+    "ShowName": "Kinect for Windows Quickstart Series",
+    "VideoLength": "00:14:42",
+    "VideoTitle": "Camera Fundamentals",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-02-01T13:41:07.6402409Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bef3/305911f2-6dc4-4c6f-86a5-8efad6acbef3/CameraFundamentalshighch9_mid.mp4",
+    "Description": "In the Camera Fundamentals Quickstart video, youâ€™ll learn: How to leverage the AllFramesReady event to synchronize data between the color, depth, and skeletal framesThe supported resolutions for the c"
+  },
+  {
+    "VideoId": "2d3efed0-2603-4be9-9460-9fea003d11fe",
+    "DataApi": "/Entries(guid'2d3efed0-2603-4be9-9460-9fea003d11fe')/",
+    "VideoPageLink": "/Series/KinectQuickstart/Working-with-Depth-Data",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/2d3efed0-2603-4be9-9460-9fea003d11fe_960.jpg",
+    "ShowName": "Kinect for Windows Quickstart Series",
+    "VideoLength": "00:19:02",
+    "VideoTitle": "Working with Depth Data",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-02-01T13:43:07.2788442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d7c2/ba01bfb6-0625-494e-b7c4-625df7d5d7c2/WorkingWithDepthDatahighch9_mid.mp4",
+    "Description": "In the working with depth data Quickstart video, we'll cover: An overview of how depth data represents the distance and player for every pixelAn overview of Default and Near Mode and what features are"
+  },
+  {
+    "VideoId": "c2943395-cca6-4601-a493-9fea003de017",
+    "DataApi": "/Entries(guid'c2943395-cca6-4601-a493-9fea003de017')/",
+    "VideoPageLink": "/Series/KinectQuickstart/Skeletal-Tracking-Fundamentals",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/c2943395-cca6-4601-a493-9fea003de017_960.jpg",
+    "ShowName": "Kinect for Windows Quickstart Series",
+    "VideoLength": "00:15:49",
+    "VideoTitle": "Skeletal Tracking Fundamentals",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-02-01T13:46:21.6081352Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6dcc/6db46486-e819-4915-aab1-0145a4476dcc/SkeletalTrackingFundamentalshighch9_mid.mp4",
+    "Description": "In the skeletal tracking Quickstart series video, we'll discuss: How skeleton data retrieves joint information for 20 joints (head, hands, hip center, etc)How skeletal tracking works and how you can c"
+  },
+  {
+    "VideoId": "31122a95-1fdf-4bdc-984b-9fea0040cd26",
+    "DataApi": "/Entries(guid'31122a95-1fdf-4bdc-984b-9fea0040cd26')/",
+    "VideoPageLink": "/Series/KinectQuickstart/Audio-Fundamentals",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/31122a95-1fdf-4bdc-984b-9fea0040cd26_960.jpg",
+    "ShowName": "Kinect for Windows Quickstart Series",
+    "VideoLength": "00:14:51",
+    "VideoTitle": "Audio Fundamentals",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2012-02-01T13:48:39.6201681Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a5cb/2b5c680f-a206-43e7-83bd-1f08144ea5cb/KinectAudioFundamentalshighch9_mid.mp4",
+    "Description": "In the final installment of the Kinect for Windows Quickstart series, weâ€™ll discuss how you can leverage the audio features of Kinect in your application, including: How to use your Kinect to determin"
+  }
+]

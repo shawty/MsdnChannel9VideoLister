@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "26c9b7e8-6f9f-4210-a342-a4810058a29f",
+    "DataApi": "/Entries(guid'26c9b7e8-6f9f-4210-a342-a4810058a29f')/",
+    "VideoPageLink": "/Series/Docker-for-NET-Developers/Whiteboard-How-an-ASPNET-app-becomes-a-container",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/55d4/807df613-6535-4b0a-bd9e-cbf34b4155d4/DockerWhiteboard_960.jpg",
+    "ShowName": "Docker for .NET Developers",
+    "VideoLength": "00:07:00",
+    "VideoTitle": "Whiteboard - How an ASP.NET app becomes a container",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2015-04-29T18:14:51.8099388Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/55d4/807df613-6535-4b0a-bd9e-cbf34b4155d4/DockerWhiteboard_mid.mp4",
+    "Description": "In this video, Dan goes to the whiteboard to demystify how you can take an ASP.NET app, build a Docker image based on that app, and create a container based on that image.   More information Visual St"
+  },
+  {
+    "VideoId": "a623b177-864c-412b-91d9-a481005bd4fd",
+    "DataApi": "/Entries(guid'a623b177-864c-412b-91d9-a481005bd4fd')/",
+    "VideoPageLink": "/Series/Docker-for-NET-Developers/Deploy-your-ASPNET-5-App-to-a-Docker-Container-in-five-minutes",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/171d/01bf9b0c-2063-4283-9c91-aa46691e171d/VisualStudioDocker_960.jpg",
+    "ShowName": "Docker for .NET Developers",
+    "VideoLength": "00:04:44",
+    "VideoTitle": "Deploy your ASP.NET 5 App to a Docker Container in five minutes",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2015-04-29T18:15:43.5151362Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/171d/01bf9b0c-2063-4283-9c91-aa46691e171d/VisualStudioDocker_mid.mp4",
+    "Description": "In this video, we'll take a quick lap around the Visual Studio Tools for Docker Preview extension to build an ASP.NET website, provision an Azure virtual machine with the Docker extension, auto-config"
+  },
+  {
+    "VideoId": "893bc371-e8b3-423c-b232-a481010bd8e8",
+    "DataApi": "/Entries(guid'893bc371-e8b3-423c-b232-a481010bd8e8')/",
+    "VideoPageLink": "/Series/Docker-for-NET-Developers/ASPNET-and-Docker-Deploying-from-the-Command-Line",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aba6/c4d46d15-f73d-4dcd-bff3-403c406daba6/DockerCommandLine_960.jpg",
+    "ShowName": "Docker for .NET Developers",
+    "VideoLength": "00:13:40",
+    "VideoTitle": "ASP.NET and Docker - Deploying from the Command Line",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2015-04-29T18:16:08.033162Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aba6/c4d46d15-f73d-4dcd-bff3-403c406daba6/DockerCommandLine_mid.mp4",
+    "Description": "I this video, we'll walk through the basics of using the Docker command line, to list containers, view logs, and more. You'll learn how to edit Visual Studio settings to just build an image, how to ru"
+  },
+  {
+    "VideoId": "a5ff27f4-d47c-468a-b406-a48100644a98",
+    "DataApi": "/Entries(guid'a5ff27f4-d47c-468a-b406-a48100644a98')/",
+    "VideoPageLink": "/Series/Docker-for-NET-Developers/Dockerfile-basics-Building-a-basic-Dockerfile-for-a-console-application",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9709/5b0c15ca-853f-4336-937b-05166e359709/DockerfileBasics_960.jpg",
+    "ShowName": "Docker for .NET Developers",
+    "VideoLength": "00:06:09",
+    "VideoTitle": "Dockerfile basics - Building a basic Dockerfile for a console application",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2015-04-29T18:22:20.066991Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9709/5b0c15ca-853f-4336-937b-05166e359709/DockerfileBasics_mid.mp4",
+    "Description": "In this video, we'll go through the Dockerfile basics including what a Dockerfile is and common commands like FROM, RUN, ADD, ENTRYPOINT, and more. We'll build a simple Dockerfile that uses apt-get to"
+  },
+  {
+    "VideoId": "7eb85a0d-23eb-422e-a6c9-a4810109a71c",
+    "DataApi": "/Entries(guid'7eb85a0d-23eb-422e-a6c9-a4810109a71c')/",
+    "VideoPageLink": "/Series/Docker-for-NET-Developers/Building-an-ASPNET-Console-app-in-a-Docker-Container",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4517/77c2dc09-e147-4f84-9721-420c45214517/DockerConsoleApp_960.jpg",
+    "ShowName": "Docker for .NET Developers",
+    "VideoLength": "00:07:00",
+    "VideoTitle": "Building an ASP.NET Console app in a Docker Container",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2015-04-29T18:22:31.574025Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4517/77c2dc09-e147-4f84-9721-420c45214517/DockerConsoleApp_mid.mp4",
+    "Description": "In this demo, we'll build upon our last demo where we built a custom dockerfile and show how you can build a simple console application. In the demo, we'll show how you can capture Trace output to the"
+  },
+  {
+    "VideoId": "49683af8-64c9-413e-a76e-a481006a54c5",
+    "DataApi": "/Entries(guid'49683af8-64c9-413e-a76e-a481006a54c5')/",
+    "VideoPageLink": "/Series/Docker-for-NET-Developers/Multi-container-ASPNET-5-apps-with-Nginx-and-Redis",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/83df/a9271941-5507-47f2-b435-0c6f5e2483df/DockerNginxAndRedis_960.jpg",
+    "ShowName": "Docker for .NET Developers",
+    "VideoLength": "00:18:33",
+    "VideoTitle": "Multi-container ASP.NET 5 apps with Nginx and Redis",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2015-04-29T18:22:37.873994Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/83df/a9271941-5507-47f2-b435-0c6f5e2483df/DockerNginxAndRedis_mid.mp4",
+    "Description": "In this video, we'll show how you can easily use instrastruture apps like Nginx and Redis using containers images that are already available in the Docker Hub. We'll show a basic example of how you ca"
+  }
+]

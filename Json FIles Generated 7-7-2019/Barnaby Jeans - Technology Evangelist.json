@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "db8a97c5-d1ad-4257-bae3-9e100102ea2f",
+    "DataApi": "/Entries(guid'db8a97c5-d1ad-4257-bae3-9e100102ea2f')/",
+    "VideoPageLink": "/Blogs/bjeans/Walking-for-a-cure",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "df755b08-d93e-4d02-8889-9e100102e21b",
+    "DataApi": "/Entries(guid'df755b08-d93e-4d02-8889-9e100102e21b')/",
+    "VideoPageLink": "/Blogs/bjeans/Day-1-at-the-Toronto-Grand-Prix",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "d1a9c1e6-5e78-41c1-b020-9e100102da49",
+    "DataApi": "/Entries(guid'd1a9c1e6-5e78-41c1-b020-9e100102da49')/",
+    "VideoPageLink": "/Blogs/bjeans/Windows-Vista-Whats-in-it-for-Photographers",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ece14835-69ef-4881-9a26-9e100102d375",
+    "DataApi": "/Entries(guid'ece14835-69ef-4881-9a26-9e100102d375')/",
+    "VideoPageLink": "/Blogs/bjeans/Excerpt-Whats-in-your-closet",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "f7aa3771-7166-42e8-8fe2-9e100102cca9",
+    "DataApi": "/Entries(guid'f7aa3771-7166-42e8-8fe2-9e100102cca9')/",
+    "VideoPageLink": "/Blogs/bjeans/Geeks-on-Peaks-Mt-Logan-and-Live-Search-Maps",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "a987c25a-a41d-4f8e-9ae0-9e100102c679",
+    "DataApi": "/Entries(guid'a987c25a-a41d-4f8e-9ae0-9e100102c679')/",
+    "VideoPageLink": "/Blogs/bjeans/Technorati-Claim-post",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

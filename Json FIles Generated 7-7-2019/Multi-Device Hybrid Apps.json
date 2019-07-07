@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "11a09edb-80cb-47c0-a2a7-a38d0145db15",
+    "DataApi": "/Entries(guid'11a09edb-80cb-47c0-a2a7-a38d0145db15')/",
+    "VideoPageLink": "/Series/Multi-Device-Hybrid-Apps/Installing-the-Multi-Device-Hybrid-Apps-for-Visual-Studio",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f809/0efd9672-4d0f-4c2c-884f-0471b7d5f809/GetStartedWithMultiDeviceHybridAppsInstaller_960.jpg",
+    "ShowName": "Multi-Device Hybrid Apps",
+    "VideoLength": "00:02:52",
+    "VideoTitle": "Installing the Multi-Device Hybrid Apps for Visual Studio",
+    "Author": "Dmitry Lyalin",
+    "UtcDateTimePublished": "2014-08-20T20:17:19.6036887Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f809/0efd9672-4d0f-4c2c-884f-0471b7d5f809/GetStartedWithMultiDeviceHybridAppsInstaller_mid.mp4",
+    "Description": "See a quick overview of how to install the Multi-Device Hybrid Apps extension that enables Visual Studio 2013 developers to build Android, iOS, and Windows apps using Visual Studio and the Apache Cord"
+  }
+]

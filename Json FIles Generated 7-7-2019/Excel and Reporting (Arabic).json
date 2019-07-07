@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "7528abd4-919b-4722-81cd-a545009a1b5b",
+    "DataApi": "/Entries(guid'7528abd4-919b-4722-81cd-a545009a1b5b')/",
+    "VideoPageLink": "/Series/Excel-and-Reporting-Arabic/Building-Your-Dashboard-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/151d/47aedc7a-6f37-4600-a050-2e10f02c151d/BuildingyourDashboard_960.jpg",
+    "ShowName": "Excel and Reporting (Arabic)",
+    "VideoLength": "00:53:19",
+    "VideoTitle": "Building Your Dashboard (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-04T10:49:53.050489Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/151d/47aedc7a-6f37-4600-a050-2e10f02c151d/BuildingyourDashboard_mid.mp4",
+    "Description": "Dive into analysis by creating your reports and dashboard using pivot tables, pivot charts and slicers. "
+  }
+]

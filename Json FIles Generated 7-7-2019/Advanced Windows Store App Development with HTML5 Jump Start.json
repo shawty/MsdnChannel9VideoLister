@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "73233ac7-54bd-498a-b926-a17800298a8c",
+    "DataApi": "/Entries(guid'73233ac7-54bd-498a-b926-a17800298a8c')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-with-HTML5-Jump-Start/Advanced-Windows-Store-App-Development-with-HTML5-02-Hardware-and-Sensors",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f01b/04728156-a59e-42f2-a4ca-e3f254e1f01b/AdvWin8HTML02_512.jpg",
+    "ShowName": "Advanced Windows Store App Development with HTML5 Jump Start",
+    "VideoLength": "00:56:31",
+    "VideoTitle": "Advanced Windows Store App Development with HTML5: (02) Hardware and Sensors",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-05T16:58:57.3922201Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f01b/04728156-a59e-42f2-a4ca-e3f254e1f01b/AdvWin8HTML02_mid.mp4",
+    "Description": "The easy way to capture media is with camera capture UI, the powerful way is with media capture. This segment demos capturing media from the camera and microphone, discovering device capabilities and "
+  },
+  {
+    "VideoId": "67f21e9f-f9d9-4b78-b93c-a1780029dbcb",
+    "DataApi": "/Entries(guid'67f21e9f-f9d9-4b78-b93c-a1780029dbcb')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-with-HTML5-Jump-Start/Advanced-Windows-Store-App-Development-with-HTML5-03-Printing-and-PlayTo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1762/4a906161-22ea-4abd-91fb-6131fa961762/AdvWin8HTML03_512.jpg",
+    "ShowName": "Advanced Windows Store App Development with HTML5 Jump Start",
+    "VideoLength": "01:19:13",
+    "VideoTitle": "Advanced Windows Store App Development with HTML5: (03) Printing and PlayTo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-05T16:59:07.8516339Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1762/4a906161-22ea-4abd-91fb-6131fa961762/AdvWin8HTML03_mid.mp4",
+    "Description": "There are two ways to set up your push service, the hard way and the easy way. The instructors provide an overview on how to implement the printing and PlayTo contracts and how to understand the push "
+  },
+  {
+    "VideoId": "2da9ab7e-c797-423e-8389-a178002a3795",
+    "DataApi": "/Entries(guid'2da9ab7e-c797-423e-8389-a178002a3795')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-with-HTML5-Jump-Start/Advanced-Windows-Store-App-Development-with-HTML5-04-Animations-Custom-Controls-and-Globalization",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1c9a/c2ed9e6e-464c-4907-b92d-400ab84c1c9a/AdvWin8HTML04_512.jpg",
+    "ShowName": "Advanced Windows Store App Development with HTML5 Jump Start",
+    "VideoLength": "01:19:04",
+    "VideoTitle": "Advanced Windows Store App Development with HTML5: (04) Animations, Custom Controls, and Globalization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-05T16:59:18.4297595Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1c9a/c2ed9e6e-464c-4907-b92d-400ab84c1c9a/AdvWin8HTML04_mid.mp4",
+    "Description": "Learn more about the 5 &quot;y&quot;s of good UI responsiveness. This session will review how to facilitate good UI responsiveness for a fast and fluid experience, how to implement animations and tran"
+  },
+  {
+    "VideoId": "cefe0e12-4d6d-436a-8e19-a178002a8229",
+    "DataApi": "/Entries(guid'cefe0e12-4d6d-436a-8e19-a178002a8229')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-with-HTML5-Jump-Start/Advanced-Windows-Store-App-Development-with-HTML5-05-Data-Files-and-Encryption",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75a2/3c3eca90-7517-400f-8920-3fb2104375a2/AdvWin8HTML05_512.jpg",
+    "ShowName": "Advanced Windows Store App Development with HTML5 Jump Start",
+    "VideoLength": "00:46:05",
+    "VideoTitle": "Advanced Windows Store App Development with HTML5: (05) Data, Files and Encryption",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-05T16:59:28.6172513Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75a2/3c3eca90-7517-400f-8920-3fb2104375a2/AdvWin8HTML05_mid.mp4",
+    "Description": "The key message of this module is file access and what Windows 8 can do to protect data. The demos will go over designing and implementing data caching, saving and retrieving files from the file syste"
+  },
+  {
+    "VideoId": "29da0e29-5fca-46df-b1f6-a178002af5c1",
+    "DataApi": "/Entries(guid'29da0e29-5fca-46df-b1f6-a178002af5c1')/",
+    "VideoPageLink": "/Series/Advanced-Windows-Store-App-Development-with-HTML5-Jump-Start/Advanced-Windows-Store-App-Development-with-HTML5-06-App-Deployment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7309/045008d2-b5a9-450e-a075-c55d8ece7309/AdvWin8HTML06_512.jpg",
+    "ShowName": "Advanced Windows Store App Development with HTML5 Jump Start",
+    "VideoLength": "01:20:29",
+    "VideoTitle": "Advanced Windows Store App Development with HTML5: (06) App Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-05T16:59:39.2672315Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7309/045008d2-b5a9-450e-a075-c55d8ece7309/AdvWin8HTML06_mid.mp4",
+    "Description": "This session will provide some pointers to help you write a test plan with Microsoft Test Manager so you do not test in production. The instructors will provide an overview of adding trial functionali"
+  }
+]

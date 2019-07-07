@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "a4ec7ea0-4526-4a52-8bc2-a48801165233",
+    "DataApi": "/Entries(guid'a4ec7ea0-4526-4a52-8bc2-a48801165233')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User-Part-3/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cd7f/7f591c79-d498-4173-b11a-fa0e25b7cd7f/797BecomingVisio2013PwrUsrP3M02_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User - Part 3",
+    "VideoLength": "00:53:20",
+    "VideoTitle": "Becoming a Visio 2013 Power User - Part 3: (02) Working with Shapes, Pages, and Documents",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-29T15:47:10.7816743Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cd7f/7f591c79-d498-4173-b11a-fa0e25b7cd7f/797BecomingVisio2013PwrUsrP3M02_mid.mp4",
+    "Description": "See the many ways in which Visio can be programmed to do your bidding. As a first step toward customizing Visio, walk through dozens of code samples that affect shapes, pages, and documents. [02:04] -"
+  },
+  {
+    "VideoId": "75020f9a-1bb1-4dde-b506-a4880116806a",
+    "DataApi": "/Entries(guid'75020f9a-1bb1-4dde-b506-a4880116806a')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User-Part-3/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eb35/46243fa2-22a2-408b-9683-892c85faeb35/797BecomingVisio2013PwrUsrP3M03_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User - Part 3",
+    "VideoLength": "00:31:53",
+    "VideoTitle": "Becoming a Visio 2013 Power User - Part 3: (03) Managing Events and Interacting with Other Office Applications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-29T15:47:21.3906245Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eb35/46243fa2-22a2-408b-9683-892c85faeb35/797BecomingVisio2013PwrUsrP3M03_mid.mp4",
+    "Description": "See code that reacts to the appearance of new shapes, to shapes being deleted, to the user changing pages, and to many more events. In addition, see examples of Visio code that controls Excel (and vic"
+  },
+  {
+    "VideoId": "02f30d29-eb90-498e-9dca-a4880116b523",
+    "DataApi": "/Entries(guid'02f30d29-eb90-498e-9dca-a4880116b523')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User-Part-3/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/85ad/46f536d9-d96d-48b4-b883-e93d239c85ad/797BecomingVisio2013PwrUsrP3M04_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User - Part 3",
+    "VideoLength": "00:20:51",
+    "VideoTitle": "Becoming a Visio 2013 Power User - Part 3: (04) Two Examples",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-29T15:47:31.7571254Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/85ad/46f536d9-d96d-48b4-b883-e93d239c85ad/797BecomingVisio2013PwrUsrP3M04_mid.mp4",
+    "Description": "In this final module, see a demo of two Visio add-ins that feature many of the programming capabilities you've learned about in this course.â€‹ [02:19] - TaskMap[10:55] - A custom Process mapping applic"
+  }
+]

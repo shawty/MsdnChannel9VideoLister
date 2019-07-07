@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "cbd4d844-a47c-42eb-8bd9-a3bf01335061",
+    "DataApi": "/Entries(guid'cbd4d844-a47c-42eb-8bd9-a3bf01335061')/",
+    "VideoPageLink": "/Series/Migrating-to-Exchange-Online/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e084/8d4f7c3f-03d0-417b-9a2b-ba265b0fe084/MigratingToExchangeOnlineM02_960.jpg",
+    "ShowName": "Migrating to Exchange Online",
+    "VideoLength": "00:27:52",
+    "VideoTitle": "Migrating to Exchange Online: (02) Planning to Migrate",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:55:20.6589776Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e084/8d4f7c3f-03d0-417b-9a2b-ba265b0fe084/MigratingToExchangeOnlineM02_mid.mp4",
+    "Description": "Plan an Exchange Online solution that is right for your organization. Exchange Server 2013 can connect an existing Exchange Server organization to Exchange Online, and you can use federated delegation"
+  },
+  {
+    "VideoId": "85a6ba1c-0914-461a-a5e2-a3bf01338ab9",
+    "DataApi": "/Entries(guid'85a6ba1c-0914-461a-a5e2-a3bf01338ab9')/",
+    "VideoPageLink": "/Series/Migrating-to-Exchange-Online/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3f84/2a4dc45c-5572-479b-ad1c-dc392a1f3f84/MigratingToExchangeOnlineM03_960.jpg",
+    "ShowName": "Migrating to Exchange Online",
+    "VideoLength": "00:10:55",
+    "VideoTitle": "Migrating to Exchange Online: (03) Cutover Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:55:52.7109154Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3f84/2a4dc45c-5572-479b-ad1c-dc392a1f3f84/MigratingToExchangeOnlineM03_mid.mp4",
+    "Description": "Explore why the cutover migration process might work for you, along with how to prepare for a cutover migration, create a migration endpoint, create a cutover migration batch, and configure Microsoft "
+  },
+  {
+    "VideoId": "9238515a-f442-47c1-b2a8-a3bf0133c482",
+    "DataApi": "/Entries(guid'9238515a-f442-47c1-b2a8-a3bf0133c482')/",
+    "VideoPageLink": "/Series/Migrating-to-Exchange-Online/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/11a0/9323884e-93a3-4603-a8f4-61c652ff11a0/MigratingToExchangeOnlineM04_960.jpg",
+    "ShowName": "Migrating to Exchange Online",
+    "VideoLength": "00:22:52",
+    "VideoTitle": "Migrating to Exchange Online: (04) Hybrid Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-09T22:56:42.3146282Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/11a0/9323884e-93a3-4603-a8f4-61c652ff11a0/MigratingToExchangeOnlineM04_mid.mp4",
+    "Description": "Plan for a hybrid migration by taking into account Azure Active Directory Sync, Microsoft Federation Gateway, ADFS, and federated delegation. Delve into the migration process, including Azure AD Sync,"
+  },
+  {
+    "VideoId": "b4ecd95f-c8b3-46eb-a25d-a3bf01344675",
+    "DataApi": "/Entries(guid'b4ecd95f-c8b3-46eb-a25d-a3bf01344675')/",
+    "VideoPageLink": "/Series/Migrating-to-Exchange-Online/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7a4a/e4a54c45-e239-46aa-ae3c-cd23084d7a4a/MigratingToExchangeOnlineM05_960.jpg",
+    "ShowName": "Migrating to Exchange Online",
+    "VideoLength": "01:27:42",
+    "VideoTitle": "Migrating to Exchange Online: (05) Hybrid Deployment Demo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-10T16:04:16.6051185Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7a4a/e4a54c45-e239-46aa-ae3c-cd23084d7a4a/MigratingToExchangeOnlineM05_mid.mp4",
+    "Description": "Watch, and learn, how to deploy Exchange Online in a hybrid environment. [01:15] - Add Domian to Office 365[08:11] - ADFS/Single Sign-on[31:06] - Azure AD Sync[1:02:34] - Hybrid Configuration Wizard[1"
+  }
+]

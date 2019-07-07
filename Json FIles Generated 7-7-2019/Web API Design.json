@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "73d32535-1694-435d-af28-a437002f86f7",
+    "DataApi": "/Entries(guid'73d32535-1694-435d-af28-a437002f86f7')/",
+    "VideoPageLink": "/Series/Web-API-Design/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c17/f03704ff-c184-44fb-8298-06849f608c17/359WebAPIDesignM02_960.jpg",
+    "ShowName": "Web API Design",
+    "VideoLength": "00:58:46",
+    "VideoTitle": "Web API Design: (02) Basic Design",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-06T17:08:59.5016874Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c17/f03704ff-c184-44fb-8298-06849f608c17/359WebAPIDesignM02_mid.mp4",
+    "Description": "Gain a greater understanding of resources and HTTP verbs, content negotiation, and tools for testing services.â€‹ [04:52] - Defining the Resource[12:20] - Verbs and Web API[38:46] - Content Negotiation["
+  },
+  {
+    "VideoId": "48325c11-87a0-4877-88b0-a437002fb45e",
+    "DataApi": "/Entries(guid'48325c11-87a0-4877-88b0-a437002fb45e')/",
+    "VideoPageLink": "/Series/Web-API-Design/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1384/589ded4a-9587-4f47-9cb1-27a55b401384/359WebAPIDesignM03_960.jpg",
+    "ShowName": "Web API Design",
+    "VideoLength": "00:46:56",
+    "VideoTitle": "Web API Design: (03) Configuration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-06T17:09:07.272902Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1384/589ded4a-9587-4f47-9cb1-27a55b401384/359WebAPIDesignM03_mid.mp4",
+    "Description": "Learn about using media formatters for custom content type, changing the behavior of serializers, and working with routes and attributes. [08:11] - Media Formatters[15:29] - Camel Case and Serializers"
+  },
+  {
+    "VideoId": "177baa66-3789-41af-8d90-a437002fe0dd",
+    "DataApi": "/Entries(guid'177baa66-3789-41af-8d90-a437002fe0dd')/",
+    "VideoPageLink": "/Series/Web-API-Design/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/afc5/8f4586a3-6c51-404a-a78a-f387d755afc5/359WebAPIDesignM04_960.jpg",
+    "ShowName": "Web API Design",
+    "VideoLength": "00:52:03",
+    "VideoTitle": "Web API Design: (04) Validation and Error Handling",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-06T17:09:14.9548161Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/afc5/8f4586a3-6c51-404a-a78a-f387d755afc5/359WebAPIDesignM04_mid.mp4",
+    "Description": "Discover standard ways to manage errors and status codes, using built-in model validation in ASP.NET, taking advantage of helpers, exception filters, and global exception handling. [06:37] - Status Co"
+  },
+  {
+    "VideoId": "0f8e0154-5ae9-4566-977b-a4370030045c",
+    "DataApi": "/Entries(guid'0f8e0154-5ae9-4566-977b-a4370030045c')/",
+    "VideoPageLink": "/Series/Web-API-Design/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/58f4/98af1ec7-ac38-4454-bed7-1fa5b39058f4/359WebAPIDesignM05_960.jpg",
+    "ShowName": "Web API Design",
+    "VideoLength": "00:52:37",
+    "VideoTitle": "Web API Design: (05) Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-06T17:09:22.8285136Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/58f4/98af1ec7-ac38-4454-bed7-1fa5b39058f4/359WebAPIDesignM05_mid.mp4",
+    "Description": "Get details on authentication, token-based authentication, authorization filters, role-based authorization, and preventing cross-site request forgeryâ€‹. [03:23] - Authentication in the Host[13:44] - Au"
+  },
+  {
+    "VideoId": "b821a58d-9c62-405d-ba06-a43700302d3e",
+    "DataApi": "/Entries(guid'b821a58d-9c62-405d-ba06-a43700302d3e')/",
+    "VideoPageLink": "/Series/Web-API-Design/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bbff/5060d951-99bc-4c27-b16b-8242bba9bbff/359WebAPIDesignM06_960.jpg",
+    "ShowName": "Web API Design",
+    "VideoLength": "00:43:40",
+    "VideoTitle": "Web API Design: (06) â€‹Advanced Design",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-06T17:09:29.4310621Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bbff/5060d951-99bc-4c27-b16b-8242bba9bbff/359WebAPIDesignM06_mid.mp4",
+    "Description": "Learn about building parameters, using type converters, model-binding, methods to version the API, and wrapping the service in Azure API servicesâ€‹. [01:45] - Parameter Binding[09:08] - Type Converters"
+  }
+]

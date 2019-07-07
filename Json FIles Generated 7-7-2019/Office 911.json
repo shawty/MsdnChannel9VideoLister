@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "bb2f20e2-1f8a-423c-b06e-9f750002f44a",
+    "DataApi": "/Entries(guid'bb2f20e2-1f8a-423c-b06e-9f750002f44a')/",
+    "VideoPageLink": "/Series/Office/Office-Show-911-The-shortcut-to-keyboard-shortcuts",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f44a/bb2f20e2-1f8a-423c-b06e-9f750002f44a/OffKey_512_ch9.jpg",
+    "ShowName": "Office 911",
+    "VideoLength": "00:03:05",
+    "VideoTitle": "Office Show 911: The shortcut to keyboard shortcuts",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2011-10-11T21:02:04.018756Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f44a/bb2f20e2-1f8a-423c-b06e-9f750002f44a/OffKey_low_ch9.mp4",
+    "Description": "We know  you dev types like to work fast. In Office, there are ways to do just about everything without a mouse or a touch pad slowing you down. (Try hitting ALT to see the keys for everything on the "
+  },
+  {
+    "VideoId": "bb30dfa8-fd93-49c6-bcef-9fce014227a0",
+    "DataApi": "/Entries(guid'bb30dfa8-fd93-49c6-bcef-9fce014227a0')/",
+    "VideoPageLink": "/Series/Office/Office-911-Dont-panic-build-your-skills",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/27a0/bb30dfa8-fd93-49c6-bcef-9fce014227a0/911excel_512_ch9.jpg",
+    "ShowName": "Office 911",
+    "VideoLength": "00:03:35",
+    "VideoTitle": "Office 911: Don't panic, build your skills",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-01-04T09:04:24Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/27a0/bb30dfa8-fd93-49c6-bcef-9fce014227a0/911excel_med_ch9.mp4",
+    "Description": "All the boss asked for was a report in Excel, but the panicked worker gave him a heart attack instead. If only she'd seen this episode of the Office Show first, then she'd know about the Excel Skills "
+  },
+  {
+    "VideoId": "9d18aefd-a166-48b0-8f79-9fcf0139789d",
+    "DataApi": "/Entries(guid'9d18aefd-a166-48b0-8f79-9fcf0139789d')/",
+    "VideoPageLink": "/Series/Office/Office-911-Get-your-Office-Game-on",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/789d/9d18aefd-a166-48b0-8f79-9fcf0139789d/911Game_512_ch9.jpg",
+    "ShowName": "Office 911",
+    "VideoLength": "00:02:53",
+    "VideoTitle": "Office 911: Get your Office Game on",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-03-27T18:00:48.8567193Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/789d/9d18aefd-a166-48b0-8f79-9fcf0139789d/911Game_med_ch9.mp4",
+    "Description": "Of course not all hardcore gamers have difficulties sitting through training. But in this Office Show episode, the Office 911 team encounters one who finds himself pwned by ordinary training approache"
+  },
+  {
+    "VideoId": "c1710592-b69b-446a-88ae-a037011b43a5",
+    "DataApi": "/Entries(guid'c1710592-b69b-446a-88ae-a037011b43a5')/",
+    "VideoPageLink": "/Series/Office/Office-365-Goes-to-the-Movies",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f27b/756e7d6e-d1c6-4e83-946f-242ef5f9f27b/365movies_512.jpg",
+    "ShowName": "Office 911",
+    "VideoLength": "00:06:16",
+    "VideoTitle": "Office 365 Goes to the Movies",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-04-19T16:16:07.6787643Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f27b/756e7d6e-d1c6-4e83-946f-242ef5f9f27b/365movies_mid.mp4",
+    "Description": "Think of how movies would be different if they'd only had Office 365. How can mobsters keep tabs on enemy families? Presence in Lync. How can the beleaguered sheriff keep law and order in the Old West"
+  },
+  {
+    "VideoId": "40bbea9d-2b38-4aa5-8878-a06801277b77",
+    "DataApi": "/Entries(guid'40bbea9d-2b38-4aa5-8878-a06801277b77')/",
+    "VideoPageLink": "/Series/Office/Office-911-Unify-Domains",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_512.jpg",
+    "ShowName": "Office 911",
+    "VideoLength": "00:02:50",
+    "VideoTitle": "Office 911: Unify Domains with Office 365",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-06-06T20:06:01.9695777Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_mid.mp4",
+    "Description": "If you've got a bazillion different domains from all kinds of services, Office 365 has a better way to bring it all together and give your customers an easy way to interact with you. "
+  },
+  {
+    "VideoId": "7cae164a-79a8-499d-8e69-a0a7010f0a17",
+    "DataApi": "/Entries(guid'7cae164a-79a8-499d-8e69-a0a7010f0a17')/",
+    "VideoPageLink": "/Series/Office/Office-911-One-Note",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/539e/63a24585-b36e-4750-9880-69e36185539e/Off911OneNote_512.jpg",
+    "ShowName": "Office 911",
+    "VideoLength": "00:02:51",
+    "VideoTitle": "Office 911: One Note",
+    "Author": "Laura Foy",
+    "UtcDateTimePublished": "2012-08-13T19:02:28Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/539e/63a24585-b36e-4750-9880-69e36185539e/Off911OneNote_mid.mp4",
+    "Description": "Tablets, phones, Office or no Office, OneNote Web App can be just the thing for pulling together a big student team project. Check out www. office.com/onenote for more info and links to download the i"
+  }
+]

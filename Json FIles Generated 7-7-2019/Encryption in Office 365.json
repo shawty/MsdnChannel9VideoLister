@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "65188333-16ef-4461-96f9-a3c3013d2b84",
+    "DataApi": "/Entries(guid'65188333-16ef-4461-96f9-a3c3013d2b84')/",
+    "VideoPageLink": "/Series/Encryption-in-Office-365/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d655/fc8351e8-06a2-41f1-953a-1888e533d655/EncryptionInO365M02_960.jpg",
+    "ShowName": "Encryption in Office 365",
+    "VideoLength": "00:11:16",
+    "VideoTitle": "Encryption in Office 365: (02) Information Rights Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:40:47.3615303Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d655/fc8351e8-06a2-41f1-953a-1888e533d655/EncryptionInO365M02_mid.mp4",
+    "Description": "Get the details on Information Rights Management, which encrypts content and restricts usage for users within their own organizations or trusted partners. Information Rights Management is not restrict"
+  },
+  {
+    "VideoId": "f73128ee-318e-478b-bf6a-a3c30147b791",
+    "DataApi": "/Entries(guid'f73128ee-318e-478b-bf6a-a3c30147b791')/",
+    "VideoPageLink": "/Series/Encryption-in-Office-365/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aad1/f8a5c74d-8286-4828-94f0-d1222124aad1/EncryptionInO365M03_960.jpg",
+    "ShowName": "Encryption in Office 365",
+    "VideoLength": "00:20:45",
+    "VideoTitle": "Encryption in Office 365: (03) Office 365 Message Encryption",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:41:15.0340451Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aad1/f8a5c74d-8286-4828-94f0-d1222124aad1/EncryptionInO365M03_mid.mp4",
+    "Description": "Find out more about Office 365 Message Encryption (based off the B2C model), which can be used to encrypt messages and content sent to any email address, independent of mail server and email client us"
+  },
+  {
+    "VideoId": "d118e38e-44df-4dd3-bd9d-a3c30147ed12",
+    "DataApi": "/Entries(guid'd118e38e-44df-4dd3-bd9d-a3c30147ed12')/",
+    "VideoPageLink": "/Series/Encryption-in-Office-365/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0fb/eef807c7-2b56-4045-9033-53eb9e00b0fb/EncryptionInO365M04_960.jpg",
+    "ShowName": "Encryption in Office 365",
+    "VideoLength": "00:06:56",
+    "VideoTitle": "Encryption in Office 365: (04) S/MIME",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-13T23:41:37.3488433Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0fb/eef807c7-2b56-4045-9033-53eb9e00b0fb/EncryptionInO365M04_mid.mp4",
+    "Description": "Examine S/MIME, a standards-based encryption method used by government organizations, universities, and other organizations. S/MIME requires the management and distribution of public keys. Full course"
+  }
+]

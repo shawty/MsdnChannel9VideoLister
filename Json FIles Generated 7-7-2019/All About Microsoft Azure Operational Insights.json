@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "ca440d61-59aa-464e-80c7-a465015c906f",
+    "DataApi": "/Entries(guid'ca440d61-59aa-464e-80c7-a465015c906f')/",
+    "VideoPageLink": "/Series/All-About-Microsoft-Azure-Operational-Insights/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ba63/2fe47566-93f5-47a7-881b-4774e32dba63/704AzureOperationalInsightsM02_960.jpg",
+    "ShowName": "All About Microsoft Azure Operational Insights",
+    "VideoLength": "00:20:51",
+    "VideoTitle": "All About Microsoft Azure Operational Insights: (02) Deployment Options",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T00:33:49.9840519Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ba63/2fe47566-93f5-47a7-881b-4774e32dba63/704AzureOperationalInsightsM02_mid.mp4",
+    "Description": "Find out what the considerations are when deploying Operational Insights. "
+  },
+  {
+    "VideoId": "3d7143f8-82b4-4510-872f-a465015cb8dc",
+    "DataApi": "/Entries(guid'3d7143f8-82b4-4510-872f-a465015cb8dc')/",
+    "VideoPageLink": "/Series/All-About-Microsoft-Azure-Operational-Insights/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/93f2/90c4b1a6-139a-40a6-b967-0c99e41b93f2/704AzureOperationalInsightsM03_960.jpg",
+    "ShowName": "All About Microsoft Azure Operational Insights",
+    "VideoLength": "00:34:48",
+    "VideoTitle": "All About Microsoft Azure Operational Insights: (03) Using Operational Insights",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T00:34:23.214091Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/93f2/90c4b1a6-139a-40a6-b967-0c99e41b93f2/704AzureOperationalInsightsM03_mid.mp4",
+    "Description": "Learn how the Intelligence Pack works, and get a deep dive tutorial on Operational Insights troubleshooting, focused on IT Admins. "
+  },
+  {
+    "VideoId": "637946e8-b481-4c82-9ded-a465015cfc76",
+    "DataApi": "/Entries(guid'637946e8-b481-4c82-9ded-a465015cfc76')/",
+    "VideoPageLink": "/Series/All-About-Microsoft-Azure-Operational-Insights/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aa03/27455bfa-0b99-43e3-9451-32286f29aa03/704AzureOperationalInsightsM04_960.jpg",
+    "ShowName": "All About Microsoft Azure Operational Insights",
+    "VideoLength": "00:10:41",
+    "VideoTitle": "All About Microsoft Azure Operational Insights: (04) Security Analytics for the IT Security Admin",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T00:34:33.2301579Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aa03/27455bfa-0b99-43e3-9451-32286f29aa03/704AzureOperationalInsightsM04_mid.mp4",
+    "Description": "Take a look at security analytics for IT Security Adminâ€‹s.â€‹ "
+  },
+  {
+    "VideoId": "be8a6298-8c5b-4061-ab58-a465015d1e4e",
+    "DataApi": "/Entries(guid'be8a6298-8c5b-4061-ab58-a465015d1e4e')/",
+    "VideoPageLink": "/Series/All-About-Microsoft-Azure-Operational-Insights/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5ec7/81611b35-fdd5-45cd-9c93-df4ef40d5ec7/704AzureOperationalInsightsM05_960.jpg",
+    "ShowName": "All About Microsoft Azure Operational Insights",
+    "VideoLength": "00:19:09",
+    "VideoTitle": "All About Microsoft Azure Operational Insights: (05) Troubleshooting Operational Insights",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T00:34:45.1453151Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5ec7/81611b35-fdd5-45cd-9c93-df4ef40d5ec7/704AzureOperationalInsightsM05_mid.mp4",
+    "Description": "Learn about the common mistakes people make while running Operational Insights and how to troubleshoot these issues. "
+  }
+]

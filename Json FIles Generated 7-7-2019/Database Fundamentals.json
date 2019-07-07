@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "320307c4-dc1c-4ad2-8d7f-a242015ee8d9",
+    "DataApi": "/Entries(guid'320307c4-dc1c-4ad2-8d7f-a242015ee8d9')/",
+    "VideoPageLink": "/Series/dbfundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/647c/7c7e117b-51ac-4f10-8bbb-6c165348647c/DBFundamentalsM02_960.jpg",
+    "ShowName": "Database Fundamentals",
+    "VideoLength": "00:44:12",
+    "VideoTitle": "Database Fundamentals: (02) Relational Concepts",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-23T23:43:33.8402704Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/647c/7c7e117b-51ac-4f10-8bbb-6c165348647c/DBFundamentalsM02_mid.mp4",
+    "Description": "In this module you'll learn about normalization, referential integrity, and constraints. [01:42] - Normalization[17:30] - Referential Integrity[22:45] - ConstraintsFull course outline: Mod 01: Introdu"
+  },
+  {
+    "VideoId": "17b633fc-0653-4af2-99e7-a242015f2fb9",
+    "DataApi": "/Entries(guid'17b633fc-0653-4af2-99e7-a242015f2fb9')/",
+    "VideoPageLink": "/Series/dbfundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9eb2/be2066fc-d151-4559-8b8f-efb019d69eb2/DBFundamentalsM03_960.jpg",
+    "ShowName": "Database Fundamentals",
+    "VideoLength": "00:47:51",
+    "VideoTitle": "Database Fundamentals: (03) Creating Databases and Database Objects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-23T23:43:44.8345261Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9eb2/be2066fc-d151-4559-8b8f-efb019d69eb2/DBFundamentalsM03_mid.mp4",
+    "Description": "This module describes data types, database objects, DDL statements, and creating scripts. [02:35] - Data Types[13:26] - Database Objects[37:47] - DDL StatementsFull course outline: Mod 01: Introducing"
+  },
+  {
+    "VideoId": "cf53fed3-93b8-4951-834a-a242015fb6a6",
+    "DataApi": "/Entries(guid'cf53fed3-93b8-4951-834a-a242015fb6a6')/",
+    "VideoPageLink": "/Series/dbfundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee71/2bdbfe4d-d558-450c-8293-bd91f0c9ee71/DBFundamentalsM04_960.jpg",
+    "ShowName": "Database Fundamentals",
+    "VideoLength": "00:50:54",
+    "VideoTitle": "Database Fundamentals: (04) Using DML Statements",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-23T23:43:58.0350101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee71/2bdbfe4d-d558-450c-8293-bd91f0c9ee71/DBFundamentalsM04_mid.mp4",
+    "Description": "This module covers DML statements, using the SELECT statement; using INSERT, UPDATE, and DELETE to manage data; and indexes and triggers. [02:52] - Introducing DML statements[39:01] - Modifying data u"
+  },
+  {
+    "VideoId": "37b4539d-af2b-482a-ace7-a242015ff55b",
+    "DataApi": "/Entries(guid'37b4539d-af2b-482a-ace7-a242015ff55b')/",
+    "VideoPageLink": "/Series/dbfundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9aec/979cb16e-bd7a-46e2-8ac2-85bab8c69aec/DBFundamentalsM05_960.jpg",
+    "ShowName": "Database Fundamentals",
+    "VideoLength": "00:36:49",
+    "VideoTitle": "Database Fundamentals: (05) SQL Server Administration Fundamentals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-23T23:44:11.8169603Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9aec/979cb16e-bd7a-46e2-8ac2-85bab8c69aec/DBFundamentalsM05_mid.mp4",
+    "Description": "In this module you'll find out about SQL Server security; securing database and objects; and performing database backups and database restores. [02:04] - Understanding SQL Server Security[06:57] - Sec"
+  }
+]

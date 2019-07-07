@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "22a537f8-0b31-4b95-85d6-a43c01718509",
+    "DataApi": "/Entries(guid'22a537f8-0b31-4b95-85d6-a43c01718509')/",
+    "VideoPageLink": "/Series/Virtualizing-Linux-Workloads-in-Windows-Server-2012-R2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d2d/96b0c292-12ae-45d1-8128-b95e9b722d2d/700VirtLinuxFreeBSDWinServ2012M02_960.jpg",
+    "ShowName": "Virtualizing Linux Workloads in Windows Server 2012 R2",
+    "VideoLength": "00:30:37",
+    "VideoTitle": "Virtualizing Linux Workloads in Windows Server 2012 R2: (02) Linux Integration Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-11T23:50:39.5073555Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d2d/96b0c292-12ae-45d1-8128-b95e9b722d2d/700VirtLinuxFreeBSDWinServ2012M02_mid.mp4",
+    "Description": "Understand what Linux Integrations Services are, and learn about the features they provide. "
+  },
+  {
+    "VideoId": "6f2d1b33-047a-4c58-bd1a-a43c0171b21c",
+    "DataApi": "/Entries(guid'6f2d1b33-047a-4c58-bd1a-a43c0171b21c')/",
+    "VideoPageLink": "/Series/Virtualizing-Linux-Workloads-in-Windows-Server-2012-R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a429/fb1416cc-942a-4cbd-a760-367cb055a429/700VirtLinuxFreeBSDWinServ2012M03_960.jpg",
+    "ShowName": "Virtualizing Linux Workloads in Windows Server 2012 R2",
+    "VideoLength": "00:09:17",
+    "VideoTitle": "Virtualizing Linux Workloads in Windows Server 2012 R2: (03) FreeBSD Integration Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-11T23:50:50.465914Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a429/fb1416cc-942a-4cbd-a760-367cb055a429/700VirtLinuxFreeBSDWinServ2012M03_mid.mp4",
+    "Description": "Get a look at FreeBSD Integration Services, and explore the features they provide. "
+  }
+]

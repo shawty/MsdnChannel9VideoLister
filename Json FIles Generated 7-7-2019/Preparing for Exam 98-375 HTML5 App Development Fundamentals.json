@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c3fbc1c4-631b-46c5-85d5-a3ab0153aa8c",
+    "DataApi": "/Entries(guid'c3fbc1c4-631b-46c5-85d5-a3ab0153aa8c')/",
+    "VideoPageLink": "/Series/Preparing-for-Exam-98-375-HTML5-App-Development-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ec70/f5d2be95-5375-444e-884d-8840667dec70/HTML5AppDevFundM02_960.jpg",
+    "ShowName": "Preparing for Exam 98-375: HTML5 App Development Fundamentals",
+    "VideoLength": "00:41:44",
+    "VideoTitle": "Preparing for Exam 98-375: HTML5 App Development Fundamentals: (02) Build the User Interface",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-20T19:46:32.4758527Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ec70/f5d2be95-5375-444e-884d-8840667dec70/HTML5AppDevFundM02_mid.mp4",
+    "Description": "Learn about the concepts of Hypertext Markup Language (HTML) used to create the user interface of an HTML5 application. [09:49] - Displaying Text[21:54] - Displaying Graphics[25:06] - Playing Media[27"
+  },
+  {
+    "VideoId": "383e707d-8fc5-4a27-8ea5-a3ab0153e67d",
+    "DataApi": "/Entries(guid'383e707d-8fc5-4a27-8ea5-a3ab0153e67d')/",
+    "VideoPageLink": "/Series/Preparing-for-Exam-98-375-HTML5-App-Development-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6b42/3ac208b6-ff82-426c-b675-18ad65406b42/HTML5AppDevFundM03_960.jpg",
+    "ShowName": "Preparing for Exam 98-375: HTML5 App Development Fundamentals",
+    "VideoLength": "00:44:09",
+    "VideoTitle": "Preparing for Exam 98-375: HTML5 App Development Fundamentals: (03) Format the User Interface",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-20T19:46:59.1156392Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6b42/3ac208b6-ff82-426c-b675-18ad65406b42/HTML5AppDevFundM03_mid.mp4",
+    "Description": "Get the details on Cascading Style Sheets (CSS), used to format the user interface of an HTML5 application. [02:20] - CSS Syntax[05:02] - Demo: Creating Inline CSS, Embedded CSS, and Linking a Style S"
+  },
+  {
+    "VideoId": "853cde9d-28c9-4f7f-988d-a3ab01541c04",
+    "DataApi": "/Entries(guid'853cde9d-28c9-4f7f-988d-a3ab01541c04')/",
+    "VideoPageLink": "/Series/Preparing-for-Exam-98-375-HTML5-App-Development-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/55a8/09659d22-9914-4c10-9380-188371e855a8/HTML5AppDevFundM04_960.jpg",
+    "ShowName": "Preparing for Exam 98-375: HTML5 App Development Fundamentals",
+    "VideoLength": "00:43:52",
+    "VideoTitle": "Preparing for Exam 98-375: HTML5 App Development Fundamentals: (04) Code by Using JavaScript",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-20T19:47:16.0819151Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/55a8/09659d22-9914-4c10-9380-188371e855a8/HTML5AppDevFundM04_mid.mp4",
+    "Description": "Learn to make your HTML application interactive using JavaScript. [02:40] - JavaScript Fundatmentals[13:42] - Update UI Elements[22:53] - Create and Use Functions[31:35] - Manipulate Graphics[38:31] -"
+  },
+  {
+    "VideoId": "f0bd310e-5dc6-432c-9898-a3ab0154558e",
+    "DataApi": "/Entries(guid'f0bd310e-5dc6-432c-9898-a3ab0154558e')/",
+    "VideoPageLink": "/Series/Preparing-for-Exam-98-375-HTML5-App-Development-Fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9215/d975bcce-6dde-4d7d-9290-143c15289215/HTML5AppDevFundM05_960.jpg",
+    "ShowName": "Preparing for Exam 98-375: HTML5 App Development Fundamentals",
+    "VideoLength": "00:18:38",
+    "VideoTitle": "Preparing for Exam 98-375: HTML5 App Development Fundamentals: (05) Manage the App Life Cycle",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-20T19:47:33.4237361Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9215/d975bcce-6dde-4d7d-9290-143c15289215/HTML5AppDevFundM05_mid.mp4",
+    "Description": "Manage your application state, and get the basics on packaging your application for distribution. [01:59] - Manage the State of an App[07:19] - Package your App to Deploy to a Store[16:27] - Identify "
+  },
+  {
+    "VideoId": "f18f0ddf-db22-4197-80d0-a3ab01548dde",
+    "DataApi": "/Entries(guid'f18f0ddf-db22-4197-80d0-a3ab01548dde')/",
+    "VideoPageLink": "/Series/Preparing-for-Exam-98-375-HTML5-App-Development-Fundamentals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/64b4/b6841123-b44c-4f98-82ab-dd1f3a5d64b4/HTML5AppDevFundM06_960.jpg",
+    "ShowName": "Preparing for Exam 98-375: HTML5 App Development Fundamentals",
+    "VideoLength": "00:10:32",
+    "VideoTitle": "Preparing for Exam 98-375: HTML5 App Development Fundamentals: (06) Summarize and Prepare for the Exam",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-20T19:47:52.1838052Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/64b4/b6841123-b44c-4f98-82ab-dd1f3a5d64b4/HTML5AppDevFundM06_mid.mp4",
+    "Description": "Review the topics covered in this course, and get additional tips to prepare for the exam. [03:30] - Assembling the Pieces[05:43] - Exam Preparation TipsFull course outline: Mod 01: Identify Exam Expe"
+  }
+]

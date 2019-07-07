@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "3238750e-013b-4caf-85c0-a60c015ef66d",
+    "DataApi": "/Entries(guid'3238750e-013b-4caf-85c0-a60c015ef66d')/",
+    "VideoPageLink": "/Blogs/GameDevWithShahed/unity5jumpstart01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44b2/4c83ed35-ade6-4dab-badf-51ba6ddc44b2/unity5jumpstart01_960.jpg",
+    "ShowName": "Game Dev With Shahed",
+    "VideoLength": "00:29:03",
+    "VideoTitle": "Unity 5 Jumpstart Part 1: Player Selection + Scores",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2016-05-20T22:04:04.7133975Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44b2/4c83ed35-ade6-4dab-badf-51ba6ddc44b2/unity5jumpstart01_mid.mp4",
+    "Description": "Index Page: http://WakeUpAndCode.com/unity Project Files: Before: http://wakeupandcode.com/u5/UFO%20Game.00.zipAfter: http://wakeupandcode.com/u5/UFO%20Game.01.zip"
+  },
+  {
+    "VideoId": "ea02b3e1-b608-4d0d-91ca-a5e60154f82b",
+    "DataApi": "/Entries(guid'ea02b3e1-b608-4d0d-91ca-a5e60154f82b')/",
+    "VideoPageLink": "/Blogs/GameDevWithShahed/build2016-xbox",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/20e8/6a1019ec-1fe9-4a46-9cbf-6a0c265120e8/build2016xbox_960.jpg",
+    "ShowName": "Game Dev With Shahed",
+    "VideoLength": "00:12:55",
+    "VideoTitle": "What's New From Build 2016: Xbox One Dev Mode",
+    "Author": "DaveVoyles",
+    "UtcDateTimePublished": "2016-04-15T10:55:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/20e8/6a1019ec-1fe9-4a46-9cbf-6a0c265120e8/build2016xbox_mid.mp4",
+    "Description": "@ShahedC @DaveVoyles Do you dream about publishing your own games on a major game console? Get caught up with the latest Xbox news from Build 2016 and hear about the different ways you can publish you"
+  },
+  {
+    "VideoId": "381e669c-8215-4cca-ac8b-a5e90040f244",
+    "DataApi": "/Entries(guid'381e669c-8215-4cca-ac8b-a5e90040f244')/",
+    "VideoPageLink": "/Blogs/GameDevWithShahed/unity5jumpstart",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ebe/8e950eac-2106-4292-bc45-3eb533a98ebe/unity5kickoff_960.jpg",
+    "ShowName": "Game Dev With Shahed",
+    "VideoLength": "00:06:47",
+    "VideoTitle": "Unity 5 Jumpstart: Kickoff",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2016-04-15T04:37:03.3214127Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ebe/8e950eac-2106-4292-bc45-3eb533a98ebe/unity5kickoff_mid.mp4",
+    "Description": "Blog post: http://WakeUpAndCode.com/unity5jumpstart Download PPTX: http://wakeupandcode.com/public_downloads/MSP-Unity-00-kickoff.pptx   "
+  },
+  {
+    "VideoId": "52aef214-16e4-415e-8b63-a5e60172ae8e",
+    "DataApi": "/Entries(guid'52aef214-16e4-415e-8b63-a5e60172ae8e')/",
+    "VideoPageLink": "/Blogs/GameDevWithShahed/xbox-geargauntlet",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7725/cc4c999f-fb02-4dd6-959d-8cf08a6d7725/xboxgeargauntlet2_960.jpg",
+    "ShowName": "Game Dev With Shahed",
+    "VideoLength": "00:06:29",
+    "VideoTitle": "Xbox Q&A: Gear Gauntlet on Xbox One",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2016-04-13T19:19:43.8149516Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7725/cc4c999f-fb02-4dd6-959d-8cf08a6d7725/xboxgeargauntlet2_mid.mp4",
+    "Description": "Blog Post: http://WakeUpAndCode.com/xbox-geargauntlet "
+  },
+  {
+    "VideoId": "4d860553-6146-4d8c-bd78-a526003ea801",
+    "DataApi": "/Entries(guid'4d860553-6146-4d8c-bd78-a526003ea801')/",
+    "VideoPageLink": "/Blogs/GameDevWithShahed/Publish-a-Windows-10-Game-with-Unity-5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7245/0200c76e-8918-4ccb-8f28-a851163e7245/unity5win10_960.jpg",
+    "ShowName": "Game Dev With Shahed",
+    "VideoLength": "00:14:49",
+    "VideoTitle": "Publish a Windows 10 Game with Unity 5",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2015-10-03T04:03:52.6315786Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7245/0200c76e-8918-4ccb-8f28-a851163e7245/unity5win10_mid.mp4",
+    "Description": "Unity recently announced support for Windows 10, starting with Unity 5.2. To help developers export their games and publish to the new Universal Windows Platform for Windows 10, I put together a quick"
+  },
+  {
+    "VideoId": "547dd89d-1d2d-4ce7-88eb-a508015b9d2f",
+    "DataApi": "/Entries(guid'547dd89d-1d2d-4ce7-88eb-a508015b9d2f')/",
+    "VideoPageLink": "/Blogs/GameDevWithShahed/Publish-a-Windows-10-Game-with-Construct-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/703f/a98501b5-11b3-40b4-b341-57cee9fc703f/win10construct2_960.jpg",
+    "ShowName": "Game Dev With Shahed",
+    "VideoLength": "00:17:32",
+    "VideoTitle": "Publish a Windows 10 Game with Construct 2",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2015-09-04T06:54:56.9781236Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/703f/a98501b5-11b3-40b4-b341-57cee9fc703f/win10construct2_mid.mp4",
+    "Description": "Scirra recently announced support for Windows 10, in their game development tool Construct 2. To help developers export their games and publish to the new Universal Windows Platform for Windows 10, I "
+  }
+]

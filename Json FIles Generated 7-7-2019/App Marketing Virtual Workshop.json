@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "fb2b84b5-9872-4240-aa3a-a27c01689fdb",
+    "DataApi": "/Entries(guid'fb2b84b5-9872-4240-aa3a-a27c01689fdb')/",
+    "VideoPageLink": "/Series/App-Marketing-Virtual-Workshop/Part-2-App-Store-Optimization",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9dfc/9660e502-c9e9-4e3e-8760-dbfc38129dfc/AppVirtWorkshopPrt2_960.jpg",
+    "ShowName": "App Marketing Virtual Workshop",
+    "VideoLength": "00:23:11",
+    "VideoTitle": "Part 2 - App Store Optimization",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2013-11-21T01:01:53Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9dfc/9660e502-c9e9-4e3e-8760-dbfc38129dfc/AppVirtWorkshopPrt2_mid.mp4",
+    "Description": " Speaker: Chris Bernard, Partner Evangelist, Microsoft CorpMore about Chris Congrats! Your app is writtenâ€¦now what? This session will uncover handy app store optimization tips and tricks to get your a"
+  },
+  {
+    "VideoId": "3f806bb8-3150-4727-8db8-a27c016992ee",
+    "DataApi": "/Entries(guid'3f806bb8-3150-4727-8db8-a27c016992ee')/",
+    "VideoPageLink": "/Series/App-Marketing-Virtual-Workshop/Part-3-Promoting-Your-Published-App",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0eae/ad8f6bbd-329f-4578-81a5-b8d4aa7d0eae/AppVirtWorkshopPrt3_960.jpg",
+    "ShowName": "App Marketing Virtual Workshop",
+    "VideoLength": "00:27:52",
+    "VideoTitle": "Part 3 - Promoting Your Published App",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2013-11-21T01:02:58Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0eae/ad8f6bbd-329f-4578-81a5-b8d4aa7d0eae/AppVirtWorkshopPrt3_mid.mp4",
+    "Description": " Speaker: Ryan Joy, Partner Evangelist, Microsoft Corp More about Ryan Your app is in the Windows Store; now itâ€™s time to get it downloaded! Aside from making your app the best it can be, weâ€™ll discus"
+  },
+  {
+    "VideoId": "4fac567c-8f34-4ea9-b6d4-a27c016a6710",
+    "DataApi": "/Entries(guid'4fac567c-8f34-4ea9-b6d4-a27c016a6710')/",
+    "VideoPageLink": "/Series/App-Marketing-Virtual-Workshop/Part-4-App-Marketing-101-Real-World-Examples",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e630/35761f6d-0cb8-4a93-bff3-4284aef1e630/AppVirtWorkshopPrt4_960.jpg",
+    "ShowName": "App Marketing Virtual Workshop",
+    "VideoLength": "00:31:50",
+    "VideoTitle": "Part 4 - App Marketing 101: Real World Examples",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2013-11-21T01:03:51Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e630/35761f6d-0cb8-4a93-bff3-4284aef1e630/AppVirtWorkshopPrt4_mid.mp4",
+    "Description": "  Speaker: Paul DeCarlo,Technical Evangelist, Microsoft CorpMore about Paul Not everyone has the marketing budgets of Netflix and Disney. Check out how this developer applied some basic marketing logi"
+  },
+  {
+    "VideoId": "455df526-af0a-4df5-819b-a27c016b49ff",
+    "DataApi": "/Entries(guid'455df526-af0a-4df5-819b-a27c016b49ff')/",
+    "VideoPageLink": "/Series/App-Marketing-Virtual-Workshop/Part-5-App-Marketing-101-Checklist--Additional-Resources",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/03cc/ed49260f-df96-48a3-bbd9-ae08f87d03cc/AppVirtWorkshopPrt5_960.jpg",
+    "ShowName": "App Marketing Virtual Workshop",
+    "VideoLength": "00:06:14",
+    "VideoTitle": "Part 5 - App Marketing 101 Checklist & Additional Resources",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2013-11-21T01:04:40Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/03cc/ed49260f-df96-48a3-bbd9-ae08f87d03cc/AppVirtWorkshopPrt5_mid.mp4",
+    "Description": " Speaker: Ryan Joy, Partner Evangelist, Microsoft Corp More about Ryan The workshop comes to an end, but we leave you with a handy App Marketing 101 Checklist, as well as some additional resources to "
+  }
+]

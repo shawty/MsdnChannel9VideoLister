@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "55e558ff-7e44-41c2-aec2-a4aa014cc143",
+    "DataApi": "/Entries(guid'55e558ff-7e44-41c2-aec2-a4aa014cc143')/",
+    "VideoPageLink": "/Blogs/TS2/Microsoft-Azure-Preview-Portal-Customization",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0607/44427405-3c4a-43ce-bdf6-472195ef0607/AzurePPCustom_960.jpg",
+    "ShowName": "TS2",
+    "VideoLength": "00:05:08",
+    "VideoTitle": "Microsoft Azure Preview Portal Customization",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2015-06-02T12:19:21.900751Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0607/44427405-3c4a-43ce-bdf6-472195ef0607/AzurePPCustom_mid.mp4",
+    "Description": "In this brief screencast, I take you through the basics of customizing the Microsoft Azure Preview Portal.  For more Azure videos take a look here: http://Azure.msts2.com   "
+  },
+  {
+    "VideoId": "f886076d-a4e3-4ffb-b4cc-a4aa014c9047",
+    "DataApi": "/Entries(guid'f886076d-a4e3-4ffb-b4cc-a4aa014c9047')/",
+    "VideoPageLink": "/Blogs/TS2/Microsoft-Azure-Preview-Portal-Quick-tour",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6e1d/337533c0-ee9e-4492-8504-470977b46e1d/AzurePPOverview_960.jpg",
+    "ShowName": "TS2",
+    "VideoLength": "00:06:19",
+    "VideoTitle": "Microsoft Azure Preview Portal Quick tour",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2015-06-02T12:18:48.3111938Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6e1d/337533c0-ee9e-4492-8504-470977b46e1d/AzurePPOverview_mid.mp4",
+    "Description": "In this brief screencast, I take you through the basics of the Microsoft Azure Preview Portal.  For more Azure videos take a look here: http://Azure.msts2.com "
+  },
+  {
+    "VideoId": "dfee99ff-63d8-4fc6-9d20-a44301257ce0",
+    "DataApi": "/Entries(guid'dfee99ff-63d8-4fc6-9d20-a44301257ce0')/",
+    "VideoPageLink": "/Blogs/TS2/Uploading-A-Windows-Server-2012-R2-Standard-Server-Image-to-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1910/3d4029a8-ab4e-4148-8ca0-1e0d65201910/azupload_960.jpg",
+    "ShowName": "TS2",
+    "VideoLength": "00:07:30",
+    "VideoTitle": "Uploading A Windows Server 2012 R2 Standard Server Image to Azure",
+    "Author": "matthester",
+    "UtcDateTimePublished": "2015-06-01T20:05:16.0002849Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1910/3d4029a8-ab4e-4148-8ca0-1e0d65201910/azupload_mid.mp4",
+    "Description": "In this Azure in 5 Minutes video I take a quick look at uploading an image of Windows Server 2012 R2 Standard Server to Azure.  What is great about this process is while I show how to upload a Windows"
+  }
+]

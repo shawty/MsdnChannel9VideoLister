@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "a696cd5f-ecc5-48d3-9c49-a3c501479c54",
+    "DataApi": "/Entries(guid'a696cd5f-ecc5-48d3-9c49-a3c501479c54')/",
+    "VideoPageLink": "/Series/Developing-2D-Games-with-HTML5/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cc1e/21ade4ad-9619-48bf-a95a-b61dd2b5cc1e/Dev2DGamesWithHTML5M02_960.jpg",
+    "ShowName": "Developing 2D Games with HTML5",
+    "VideoLength": "01:10:50",
+    "VideoTitle": "Developing 2D Games with HTML5: (02) Creating the Map and Player Character",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-16T16:32:32.3831235Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cc1e/21ade4ad-9619-48bf-a95a-b61dd2b5cc1e/Dev2DGamesWithHTML5M02_mid.mp4",
+    "Description": "Get the details on input and character control, and work with displaying the direction pad on-screen. Full course outline: Mod 01: Getting StartedMod 02: Creating the Map and Player CharacterMod 03: A"
+  },
+  {
+    "VideoId": "87474d9b-8cf3-42fa-8706-a3c5014808f2",
+    "DataApi": "/Entries(guid'87474d9b-8cf3-42fa-8706-a3c5014808f2')/",
+    "VideoPageLink": "/Series/Developing-2D-Games-with-HTML5/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5db3/33b6a7b7-551f-463a-98ec-17fdc3445db3/Dev2DGamesWithHTML5M03_960.jpg",
+    "ShowName": "Developing 2D Games with HTML5",
+    "VideoLength": "00:41:32",
+    "VideoTitle": "Developing 2D Games with HTML5: (03) Adding Collisions and Status Screen",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-16T16:33:13.7432997Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5db3/33b6a7b7-551f-463a-98ec-17fdc3445db3/Dev2DGamesWithHTML5M03_mid.mp4",
+    "Description": "Explore collision detection, and see a simple collision detection system for a player character. Full course outline: Mod 01: Getting StartedMod 02: Creating the Map and Player CharacterMod 03: Adding"
+  },
+  {
+    "VideoId": "04d38c12-7c1e-45d6-aa99-a3c50148401e",
+    "DataApi": "/Entries(guid'04d38c12-7c1e-45d6-aa99-a3c50148401e')/",
+    "VideoPageLink": "/Series/Developing-2D-Games-with-HTML5/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/139d/787ec2ec-e4da-4767-9f78-3aa9077c139d/Dev2DGamesWithHTML5M04_960.jpg",
+    "ShowName": "Developing 2D Games with HTML5",
+    "VideoLength": "00:35:37",
+    "VideoTitle": "Developing 2D Games with HTML5: (04) Adding an Inventory System",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-16T16:34:13.2405042Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/139d/787ec2ec-e4da-4767-9f78-3aa9077c139d/Dev2DGamesWithHTML5M04_mid.mp4",
+    "Description": "Learn about game mechanics, and set up a simple status system. Get details on inventory systems, and learn how to build one. Full course outline: Mod 01: Getting StartedMod 02: Creating the Map and Pl"
+  },
+  {
+    "VideoId": "f65f685f-02de-463f-84be-a3c501487abf",
+    "DataApi": "/Entries(guid'f65f685f-02de-463f-84be-a3c501487abf')/",
+    "VideoPageLink": "/Series/Developing-2D-Games-with-HTML5/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2957/d7576da4-80a2-4e72-b5f6-bf7841ee2957/Dev2DGamesWithHTML5M05_960.jpg",
+    "ShowName": "Developing 2D Games with HTML5",
+    "VideoLength": "00:41:55",
+    "VideoTitle": "Developing 2D Games with HTML5: (05) Interacting with NPCs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-16T16:34:48.4153457Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2957/d7576da4-80a2-4e72-b5f6-bf7841ee2957/Dev2DGamesWithHTML5M05_mid.mp4",
+    "Description": "Learn how to interact with NPCs and create NPCs that talk. Full course outline: Mod 01: Getting StartedMod 02: Creating the Map and Player CharacterMod 03: Adding Collisions and Status ScreenMod 04: A"
+  },
+  {
+    "VideoId": "4eb7338f-a93b-448d-92ec-a3c50148bd03",
+    "DataApi": "/Entries(guid'4eb7338f-a93b-448d-92ec-a3c50148bd03')/",
+    "VideoPageLink": "/Series/Developing-2D-Games-with-HTML5/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb0c/956e20ba-b32f-45fc-b62d-f99ef806bb0c/Dev2DGamesWithHTML5M06_960.jpg",
+    "ShowName": "Developing 2D Games with HTML5",
+    "VideoLength": "00:43:54",
+    "VideoTitle": "Developing 2D Games with HTML5: (06) Battle System",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-16T16:35:09.3809428Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb0c/956e20ba-b32f-45fc-b62d-f99ef806bb0c/Dev2DGamesWithHTML5M06_mid.mp4",
+    "Description": "Examine turn-based battle systems. Full course outline: Mod 01: Getting StartedMod 02: Creating the Map and Player CharacterMod 03: Adding Collisions and Status ScreenMod 04: Adding an Inventory Syste"
+  },
+  {
+    "VideoId": "1853f5a3-20b5-4074-846e-a3c501490027",
+    "DataApi": "/Entries(guid'1853f5a3-20b5-4074-846e-a3c501490027')/",
+    "VideoPageLink": "/Series/Developing-2D-Games-with-HTML5/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2dbd/a440a818-eff6-4e87-ade3-03d2aab22dbd/Dev2DGamesWithHTML5M07_960.jpg",
+    "ShowName": "Developing 2D Games with HTML5",
+    "VideoLength": "00:15:57",
+    "VideoTitle": "Developing 2D Games with HTML5: (07) Polishing and Extending your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-16T16:35:46.1480302Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2dbd/a440a818-eff6-4e87-ade3-03d2aab22dbd/Dev2DGamesWithHTML5M07_mid.mp4",
+    "Description": "Check out the &quot;in-game store&quot; concept, and work with an NPC-based store for in-game items. Full course outline: Mod 01: Getting StartedMod 02: Creating the Map and Player CharacterMod 03: Ad"
+  }
+]

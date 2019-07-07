@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "427f378c-a82b-469a-ba69-a3ce00031ef7",
+    "DataApi": "/Entries(guid'427f378c-a82b-469a-ba69-a3ce00031ef7')/",
+    "VideoPageLink": "/Series/Dev-Test-Scenarios-in-the-DevOps-World/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2862/3f4554e5-31a2-4630-b52d-fa69b9ed2862/DevTestScenariosDevOpsWorldM03_960.jpg",
+    "ShowName": "Dev/Test Scenarios in the DevOps World",
+    "VideoLength": "00:43:34",
+    "VideoTitle": "Dev/Test Scenarios in the DevOps World: (03) Debugging Auzure Workloads",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:38:49.8865737Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2862/3f4554e5-31a2-4630-b52d-fa69b9ed2862/DevTestScenariosDevOpsWorldM03_mid.mp4",
+    "Description": "Look into quality enablement, remote debugging in Azure, and IntellliTrace. And hear about diagnostic logging options, web monitoring in Azure, and testing. [02:55] - Remote Debugging[12:47] - Intelli"
+  },
+  {
+    "VideoId": "fe6d8a0f-0335-4abd-8dfd-a3ce0002fd3e",
+    "DataApi": "/Entries(guid'fe6d8a0f-0335-4abd-8dfd-a3ce0002fd3e')/",
+    "VideoPageLink": "/Series/Dev-Test-Scenarios-in-the-DevOps-World/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c1ce/8947ed5a-0b16-41de-b6ca-e0cb5b1cc1ce/DevTestScenariosDevOpsWorldM02_960.jpg",
+    "ShowName": "Dev/Test Scenarios in the DevOps World",
+    "VideoLength": "01:01:12",
+    "VideoTitle": "Dev/Test Scenarios in the DevOps World: (02) Development with Visual Studio Online and Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:38:52.661528Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c1ce/8947ed5a-0b16-41de-b6ca-e0cb5b1cc1ce/DevTestScenariosDevOpsWorldM02_mid.mp4",
+    "Description": "Get a look at version control, along with GIT versus TFSVC, tracking changes, and common structures for code organization. Hear about Monaco and what it does, plus explore virtual machines in Azure. ["
+  },
+  {
+    "VideoId": "8a62edd7-a93a-4af0-a2f8-a3ce00036831",
+    "DataApi": "/Entries(guid'8a62edd7-a93a-4af0-a2f8-a3ce00036831')/",
+    "VideoPageLink": "/Series/Dev-Test-Scenarios-in-the-DevOps-World/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5879/ca2c4065-1f20-4025-95ce-8c4c97855879/DevTestScenariosDevOpsWorldM04_960.jpg",
+    "ShowName": "Dev/Test Scenarios in the DevOps World",
+    "VideoLength": "00:49:22",
+    "VideoTitle": "Dev/Test Scenarios in the DevOps World: (04) Build, Test, Deploy",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:39:12.9409165Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5879/ca2c4065-1f20-4025-95ce-8c4c97855879/DevTestScenariosDevOpsWorldM04_mid.mp4",
+    "Description": "Learn about continuous deployment, deploying across environments, and Visual Studio integration and Team Explorer. And explore the whys and hows of custom build servers. [01:02] - Continuous Integrati"
+  },
+  {
+    "VideoId": "2d31f120-1582-44b2-a34b-a3ce0003adfd",
+    "DataApi": "/Entries(guid'2d31f120-1582-44b2-a34b-a3ce0003adfd')/",
+    "VideoPageLink": "/Series/Dev-Test-Scenarios-in-the-DevOps-World/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8520/6f2764b3-c054-4984-9fe6-96bd4b988520/DevTestScenariosDevOpsWorldM05_960.jpg",
+    "ShowName": "Dev/Test Scenarios in the DevOps World",
+    "VideoLength": "00:43:50",
+    "VideoTitle": "Dev/Test Scenarios in the DevOps World: (05) Testers' Role in the DevOps World",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:39:36.7898615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8520/6f2764b3-c054-4984-9fe6-96bd4b988520/DevTestScenariosDevOpsWorldM05_mid.mp4",
+    "Description": "Walk through how testers ensure that business value is delivered, as part of the new continual delivery world, and learn how to keep the customer viewpoint front and center in the development process."
+  },
+  {
+    "VideoId": "2be103b5-ca53-4f59-b126-a3ce0003e711",
+    "DataApi": "/Entries(guid'2be103b5-ca53-4f59-b126-a3ce0003e711')/",
+    "VideoPageLink": "/Series/Dev-Test-Scenarios-in-the-DevOps-World/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d55a/27c68e88-3053-4b42-89ac-8133ea52d55a/DevTestScenariosDevOpsWorldM06_960.jpg",
+    "ShowName": "Dev/Test Scenarios in the DevOps World",
+    "VideoLength": "00:52:56",
+    "VideoTitle": "Dev/Test Scenarios in the DevOps World: (06) Load Testing Deep Dive",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-24T16:40:00.7200842Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d55a/27c68e88-3053-4b42-89ac-8133ea52d55a/DevTestScenariosDevOpsWorldM06_mid.mp4",
+    "Description": "Focus on the question, &quot;Will my application be available and performant at load?&quot; Start with web test creation, load test creation, and take that effort to the cloud, and then get a deep div"
+  }
+]

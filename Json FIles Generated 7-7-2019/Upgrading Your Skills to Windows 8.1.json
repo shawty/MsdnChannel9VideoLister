@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "2740714f-d6e0-415d-9551-a3f2014b1dd7",
+    "DataApi": "/Entries(guid'2740714f-d6e0-415d-9551-a3f2014b1dd7')/",
+    "VideoPageLink": "/Series/Upgrading-Your-Skills-to-Windows-81/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b227/b233a2db-4ee5-4d72-9a14-e320e1e4b227/552UpgradingYourSkillsWin81M02_960.jpg",
+    "ShowName": "Upgrading Your Skills to Windows 8.1",
+    "VideoLength": "00:50:51",
+    "VideoTitle": "Upgrading Your Skills to Windows 8.1: (02) Installing & Upgrading to Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:46:30.5843983Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b227/b233a2db-4ee5-4d72-9a14-e320e1e4b227/552UpgradingYourSkillsWin81M02_mid.mp4",
+    "Description": "Explore planning considerations for a deploying Windows 8.1 in an enterprise, including the pathways to upgrading your organization from Windows XP, Windows Vista, and Windows 7. See some of the key W"
+  },
+  {
+    "VideoId": "9c45ac89-8f0f-43a0-ab57-a3f2014b548e",
+    "DataApi": "/Entries(guid'9c45ac89-8f0f-43a0-ab57-a3f2014b548e')/",
+    "VideoPageLink": "/Series/Upgrading-Your-Skills-to-Windows-81/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a8f6/2ca96dde-7859-4bc7-8763-01582d68a8f6/552UpgradingYourSkillsWin81M03_960.jpg",
+    "ShowName": "Upgrading Your Skills to Windows 8.1",
+    "VideoLength": "00:54:13",
+    "VideoTitle": "Upgrading Your Skills to Windows 8.1: (03) Configuring & Managing Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:47:41.5261878Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a8f6/2ca96dde-7859-4bc7-8763-01582d68a8f6/552UpgradingYourSkillsWin81M03_mid.mp4",
+    "Description": "Get an overview of local and remote management tools for administrative events, logs, and resources. Also, see how PowerShell is used to configure and manage Windows 8.1 using PowerShell cmdlets and t"
+  },
+  {
+    "VideoId": "07c62347-61b8-41f8-a5e6-a3f2014b68bc",
+    "DataApi": "/Entries(guid'07c62347-61b8-41f8-a5e6-a3f2014b68bc')/",
+    "VideoPageLink": "/Series/Upgrading-Your-Skills-to-Windows-81/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2fce/441d66fa-24ea-4f37-b35b-7cb680ff2fce/552UpgradingYourSkillsWin81M04_960.jpg",
+    "ShowName": "Upgrading Your Skills to Windows 8.1",
+    "VideoLength": "00:34:26",
+    "VideoTitle": "Upgrading Your Skills to Windows 8.1: (04) Implementing an Application Strategy for Windows 8.1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:48:05.5665877Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2fce/441d66fa-24ea-4f37-b35b-7cb680ff2fce/552UpgradingYourSkillsWin81M04_mid.mp4",
+    "Description": "Check out application deployment for Windows 8.1. See how to implement application restrictions for an enterprise using Software Restriction Policies (SRP). [02:33] - Application Deployment Options in"
+  },
+  {
+    "VideoId": "3f011482-e982-4fb2-a001-a3f2014bbd5d",
+    "DataApi": "/Entries(guid'3f011482-e982-4fb2-a001-a3f2014bbd5d')/",
+    "VideoPageLink": "/Series/Upgrading-Your-Skills-to-Windows-81/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d13c/ce83e02c-af72-4c3b-bdd7-049465e7d13c/552UpgradingYourSkillsWin81M06_960.jpg",
+    "ShowName": "Upgrading Your Skills to Windows 8.1",
+    "VideoLength": "00:40:59",
+    "VideoTitle": "Upgrading Your Skills to Windows 8.1: (06) Securing Windows 8.1 Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:48:37.7576706Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d13c/ce83e02c-af72-4c3b-bdd7-049465e7d13c/552UpgradingYourSkillsWin81M06_mid.mp4",
+    "Description": "Get an overview of Windows 8.1 authentication and authorization processes, such as biometrics, virtual smartcards, and picture passwords. See how to enable and manage firewalls and how to configure ad"
+  },
+  {
+    "VideoId": "d945da14-3bfa-4787-9087-a3f2014b9810",
+    "DataApi": "/Entries(guid'd945da14-3bfa-4787-9087-a3f2014b9810')/",
+    "VideoPageLink": "/Series/Upgrading-Your-Skills-to-Windows-81/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b304/ef42066c-e5d4-42f5-bce8-a02518dfb304/552UpgradingYourSkillsWin81M05_960.jpg",
+    "ShowName": "Upgrading Your Skills to Windows 8.1",
+    "VideoLength": "00:52:20",
+    "VideoTitle": "Upgrading Your Skills to Windows 8.1: (05) Managing Devices & Resource Access",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-30T19:48:41.6619322Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b304/ef42066c-e5d4-42f5-bce8-a02518dfb304/552UpgradingYourSkillsWin81M05_mid.mp4",
+    "Description": "Find out about Windows 8.1 bring your own device (BYOD) scenarios for enterprises. And hear how to manage non-domain member devices using new features, such as Workplace Join and Work Folders. [00:48]"
+  }
+]

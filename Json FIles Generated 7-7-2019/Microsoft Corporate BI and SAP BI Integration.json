@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "0fde783d-d68e-425d-86dd-a32a01047f65",
+    "DataApi": "/Entries(guid'0fde783d-d68e-425d-86dd-a32a01047f65')/",
+    "VideoPageLink": "/Series/Microsoft-Corporate-BI-and-SAP-BI-Integration/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/21e8/f44d7909-0a96-49c8-ac6b-3b1b393721e8/MSCorpBIandSAPBIIntegrationM02_960.jpg",
+    "ShowName": "Microsoft Corporate BI and SAP BI Integration",
+    "VideoLength": "00:50:08",
+    "VideoTitle": "Microsoft Corporate BI and SAP BI Integration: (02) Microsoft SAP BI Interoperability and Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-13T20:37:49.7263537Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/21e8/f44d7909-0a96-49c8-ac6b-3b1b393721e8/MSCorpBIandSAPBIIntegrationM02_mid.mp4",
+    "Description": "Hear a discussion of the Excel Power Query add-in with new Power BI connectivity to SAP BusinessObjects BI. [02:55] - Microsoft/SAP Parnership[03:57] - Innovating for success[06:21] - Customer Need[15"
+  },
+  {
+    "VideoId": "78ae40f3-1fcc-42fa-b082-a32a0104c4c7",
+    "DataApi": "/Entries(guid'78ae40f3-1fcc-42fa-b082-a32a0104c4c7')/",
+    "VideoPageLink": "/Series/Microsoft-Corporate-BI-and-SAP-BI-Integration/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5723/8e64d956-fc38-46e9-a893-44e7ba165723/MSCorpBIandSAPBIIntegrationM03_960.jpg",
+    "ShowName": "Microsoft Corporate BI and SAP BI Integration",
+    "VideoLength": "01:13:03",
+    "VideoTitle": "Microsoft Corporate BI and SAP BI Integration: (03) Self-Service BI for Global Business Users",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-13T20:38:05.8278428Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5723/8e64d956-fc38-46e9-a893-44e7ba165723/MSCorpBIandSAPBIIntegrationM03_mid.mp4",
+    "Description": "Benefit from seven years of Microsoft IT experiences of delivering BI to the masses (more than 40,000 users, 100 applications, and 5 years in production), data as a service, and governance from Micros"
+  }
+]

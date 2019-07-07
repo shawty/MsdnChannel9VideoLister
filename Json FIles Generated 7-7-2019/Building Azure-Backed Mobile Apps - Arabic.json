@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "d07e0582-afb7-44a5-9679-a4fb00a3a687",
+    "DataApi": "/Entries(guid'd07e0582-afb7-44a5-9679-a4fb00a3a687')/",
+    "VideoPageLink": "/Series/Building-Azure-Backed-Mobile-Apps-Arabic/MVVM-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a03e/4aa245da-e5fe-423c-8351-7bdb5029a03e/MVVMArabic_960.jpg",
+    "ShowName": "Building Azure-Backed Mobile Apps - Arabic",
+    "VideoLength": "00:35:13",
+    "VideoTitle": "MVVM - Arabic",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-08-21T12:36:17.1566642Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a03e/4aa245da-e5fe-423c-8351-7bdb5029a03e/MVVMArabic_mid.mp4",
+    "Description": "This module shows how to structure your code using MVVM design pattern and getting started with Portable Class Libraries. "
+  }
+]

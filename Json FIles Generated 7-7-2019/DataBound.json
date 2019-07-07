@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "53d49271-64dd-4276-becb-9ef501621f94",
+    "DataApi": "/Entries(guid'53d49271-64dd-4276-becb-9ef501621f94')/",
+    "VideoPageLink": "/Shows/DataBound/DataBound-Episode-1-Developing-Custom-PowerPivot-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1f94/53d49271-64dd-4276-becb-9ef501621f94/databoundepisode001_512_ch9.jpg",
+    "ShowName": "DataBound",
+    "VideoLength": "00:24:02",
+    "VideoTitle": "DataBound Episode 1 - Developing Custom PowerPivot Apps",
+    "Author": "Roger Doherty",
+    "UtcDateTimePublished": "2011-06-02T15:07:25Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1f94/53d49271-64dd-4276-becb-9ef501621f94/databoundepisode001_low_ch9.mp4",
+    "Description": " Join Roger as he covers database and BI development on the SQL Server Information Platform. You can follow and interact with the show @SQLServer. In the DataBound premier, Roger is joined by Aaron an"
+  }
+]

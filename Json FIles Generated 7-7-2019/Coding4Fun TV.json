@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "621726aa-50d8-4286-b7d4-9deb00235f8b",
+    "DataApi": "/Entries(guid'621726aa-50d8-4286-b7d4-9deb00235f8b')/",
+    "VideoPageLink": "/coding4fun/tv/The-Coding4Fun-Show-WPF-MediaKit-with-Jeremiah-Morrill",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8/8/8/9/9/4/C4FShowE4Morrill_512_ch9.png",
+    "ShowName": "Coding4Fun TV",
+    "VideoLength": "00:14:37",
+    "VideoTitle": "The Coding4Fun Show: WPF MediaKit with Jeremiah Morrill",
+    "Author": "Brian Peek",
+    "UtcDateTimePublished": "2009-10-19T12:49:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8/8/8/9/9/4/C4FShowE4Morrill_ch9.mp4",
+    "Description": "In this episode of the\nCoding4Fun Show,\nBrian Peek interviews \nJeremiah Morrill who has written \nWPF MediaKit, an amazing library to quickly build DirectShow and MediaFoundation media player contr"
+  },
+  {
+    "VideoId": "203334c1-858e-4395-8366-9deb002364ca",
+    "DataApi": "/Entries(guid'203334c1-858e-4395-8366-9deb002364ca')/",
+    "VideoPageLink": "/coding4fun/tv/The-Coding4Fun-Show-Advanced-Rendering-with-Silverlight-Rick-Barraza",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/2/6/3/2/9/4/C4FShowE3Barraza_512_ch9.png",
+    "ShowName": "Coding4Fun TV",
+    "VideoLength": "00:23:36",
+    "VideoTitle": "The Coding4Fun Show: Advanced Rendering with Silverlight, Rick Barraza",
+    "Author": "Brian Peek",
+    "UtcDateTimePublished": "2009-09-18T17:27:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/2/6/3/2/9/4/C4FShowE3Barraza_ch9.mp4",
+    "Description": "In this episode of the\n\nCoding4Fun Show, \nBrian Peek interviews \nRick Barraza of \nCynergy Systems, who has put together several very unique applications and accompanying tutorials demonstrating a"
+  },
+  {
+    "VideoId": "4e65b5e0-af01-4eb1-bcb0-9deb0177ece3",
+    "DataApi": "/Entries(guid'4e65b5e0-af01-4eb1-bcb0-9deb0177ece3')/",
+    "VideoPageLink": "/coding4fun/tv/The-Coding4Fun-Show-MEF-Utility-Runner-with-Arian-Kulp",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/5/9/0/8/4/C4FShowE2Kulp_large_ch9.png",
+    "ShowName": "Coding4Fun TV",
+    "VideoLength": "00:23:30",
+    "VideoTitle": "The Coding4Fun Show: MEF Utility Runner with Arian Kulp",
+    "Author": "Brian Peek",
+    "UtcDateTimePublished": "2009-07-27T02:18:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/5/9/0/8/4/C4FShowE2Kulp_ch9.mp4",
+    "Description": "In this episode of the Coding4Fun Show, I interview\nArian Kulp, creator of the\nMEF Utility Runner, a unified host for system tray utility applications.  Learn a bit about MEF and how it can be lever"
+  },
+  {
+    "VideoId": "e21ba71b-31c9-4a3c-a431-9deb00dd311a",
+    "DataApi": "/Entries(guid'e21ba71b-31c9-4a3c-a431-9deb00dd311a')/",
+    "VideoPageLink": "/coding4fun/tv/The-Coding4Fun-Show-Physics-Helper-for-Silverlight-by-Andy-Beaulieu",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/1/9/5/2/7/4/C4FShowE1Beaulieu_large_ch9.png",
+    "ShowName": "Coding4Fun TV",
+    "VideoLength": "00:17:22",
+    "VideoTitle": "The Coding4Fun Show: Physics Helper for Silverlight by Andy Beaulieu",
+    "Author": "Brian Peek",
+    "UtcDateTimePublished": "2009-06-09T01:33:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/1/9/5/2/7/4/C4FShowE1Beaulieu_ch9.mp4",
+    "Description": "The \nCoding4Fun Show is a new series dedicated to interviewing people creating fun and interesting projects with a bit of &quot;how to&quot; mixed in.\n\nIn this first episode, I interview \nAndy Bea"
+  }
+]

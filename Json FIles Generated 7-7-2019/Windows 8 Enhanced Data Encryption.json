@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "16f9b416-319d-4ee6-af13-a1f6014f2380",
+    "DataApi": "/Entries(guid'16f9b416-319d-4ee6-af13-a1f6014f2380')/",
+    "VideoPageLink": "/Series/Win8DataEncryption/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9a4c/08a24e6b-7a1b-4652-b4cc-3947115b9a4c/Win8DataEncryptM02_960.jpg",
+    "ShowName": "Windows 8 Enhanced Data Encryption",
+    "VideoLength": "00:08:57",
+    "VideoTitle": "Windows 8 Enhanced Data Encryption: (02) Windows 8 Bitlocker",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-09T21:58:54.7188286Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9a4c/08a24e6b-7a1b-4652-b4cc-3947115b9a4c/Win8DataEncryptM02_mid.mp4",
+    "Description": "In this module you will learn how Bitlocker can protect the integrity of the start up process and provide a robust protective layer when combined with a TPM hardware component. Full course outline: Mo"
+  },
+  {
+    "VideoId": "f35f7afb-46b8-4a24-857f-a1f6014f78e7",
+    "DataApi": "/Entries(guid'f35f7afb-46b8-4a24-857f-a1f6014f78e7')/",
+    "VideoPageLink": "/Series/Win8DataEncryption/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1d7c/7fa60d65-8a0d-4858-b320-8823c4d51d7c/Win8DataEncryptM03_960.jpg",
+    "ShowName": "Windows 8 Enhanced Data Encryption",
+    "VideoLength": "00:07:29",
+    "VideoTitle": "Windows 8 Enhanced Data Encryption: (03) BitLocker ToGo",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-09T21:59:17.9277647Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1d7c/7fa60d65-8a0d-4858-b320-8823c4d51d7c/Win8DataEncryptM03_mid.mp4",
+    "Description": "In this module you will learn how BitLocker To Go can be used to encrypt data on removable data drives. Full course outline: Mod 01: Introduction to Windows Enhanced Data Encryption Mod 02: Windows 8 "
+  },
+  {
+    "VideoId": "fb44fcf3-4063-4e58-ab3d-a1f6014fb258",
+    "DataApi": "/Entries(guid'fb44fcf3-4063-4e58-ab3d-a1f6014fb258')/",
+    "VideoPageLink": "/Series/Win8DataEncryption/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/289e/e2d0f9d8-6b7f-4c08-90ee-a7d9a61d289e/Win8DataEncryptM04_960.jpg",
+    "ShowName": "Windows 8 Enhanced Data Encryption",
+    "VideoLength": "00:07:22",
+    "VideoTitle": "Windows 8 Enhanced Data Encryption: (04) Windows 8 Encrypted File System",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-09T21:59:32.6986714Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/289e/e2d0f9d8-6b7f-4c08-90ee-a7d9a61d289e/Win8DataEncryptM04_mid.mp4",
+    "Description": "In this module you will learn how Microsoft Windows Encrypting File System (EFS) enables users to encrypt individual files, folders, or entire data drives, and best practices from Microsoft Field Engi"
+  },
+  {
+    "VideoId": "a29c90f4-52c5-4e8c-97b4-a1f6014ff367",
+    "DataApi": "/Entries(guid'a29c90f4-52c5-4e8c-97b4-a1f6014ff367')/",
+    "VideoPageLink": "/Series/Win8DataEncryption/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/407d/dfc3888a-4f33-46ff-a162-d7e37e45407d/Win8DataEncryptM05_960.jpg",
+    "ShowName": "Windows 8 Enhanced Data Encryption",
+    "VideoLength": "00:04:11",
+    "VideoTitle": "Windows 8 Enhanced Data Encryption: (05) Windows 8 Data Encryption Enhancements",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-09T21:59:48.8827695Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/407d/dfc3888a-4f33-46ff-a162-d7e37e45407d/Win8DataEncryptM05_mid.mp4",
+    "Description": "In this module you will learn about the enhancements made to BitLocker in Windows 8 such as pre-provisioning, PIN &amp; password change, Network Unlock etc. Full course outline: Mod 01: Introduction t"
+  },
+  {
+    "VideoId": "28080910-b797-4983-8a0e-a1f601503d2b",
+    "DataApi": "/Entries(guid'28080910-b797-4983-8a0e-a1f601503d2b')/",
+    "VideoPageLink": "/Series/Win8DataEncryption/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9631/4c566eba-afbb-4483-b56b-365bd77c9631/Win8DataEncryptM06_960.jpg",
+    "ShowName": "Windows 8 Enhanced Data Encryption",
+    "VideoLength": "00:04:19",
+    "VideoTitle": "Windows 8 Enhanced Data Encryption: (06) Troubleshooting Windows Data Encryption",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-09T22:00:03.0336036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9631/4c566eba-afbb-4483-b56b-365bd77c9631/Win8DataEncryptM06_mid.mp4",
+    "Description": " In this module you will learn about field best practices used by Microsoft's Premier Field Engineers such as Repair-bde, Network Unlock etc. Full course outline: Mod 01: Introduction to Windows Enhan"
+  }
+]

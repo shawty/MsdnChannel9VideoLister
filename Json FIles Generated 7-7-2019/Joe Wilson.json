@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "9acc7f4c-51ac-4359-aab8-9e1000efb3a2",
+    "DataApi": "/Entries(guid'9acc7f4c-51ac-4359-aab8-9e1000efb3a2')/",
+    "VideoPageLink": "/Blogs/joewil/20th-High-School-Reunion-aka-We-Should-all-Have-Viking-Names",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "e27fa919-16e8-4cdf-80b8-9e1000efad20",
+    "DataApi": "/Entries(guid'e27fa919-16e8-4cdf-80b8-9e1000efad20')/",
+    "VideoPageLink": "/Blogs/joewil/Education-Schmeducation",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

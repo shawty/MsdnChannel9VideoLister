@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "cd91ded7-0839-4bcd-9cd0-a404014bf82e",
+    "DataApi": "/Entries(guid'cd91ded7-0839-4bcd-9cd0-a404014bf82e')/",
+    "VideoPageLink": "/Series/PHP-for-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ad20/b9dfe2af-7656-4747-a5bf-104ebd63ad20/677PHPforAzureM02_960.jpg",
+    "ShowName": "PHP for Azure",
+    "VideoLength": "00:51:44",
+    "VideoTitle": "PHP for Azure: (02) From Static to Dynamics",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:44:32.1635436Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ad20/b9dfe2af-7656-4747-a5bf-104ebd63ad20/677PHPforAzureM02_mid.mp4",
+    "Description": "Learn how to go from a few basic HTML pages to a working PHP site, all using query strings and a couple of lines of PHP. [06:26] - Includes[19:13] - Partials[29:03] - Query String and Templates"
+  },
+  {
+    "VideoId": "ffe6dcc2-50ce-4584-ac2b-a404014c85f9",
+    "DataApi": "/Entries(guid'ffe6dcc2-50ce-4584-ac2b-a404014c85f9')/",
+    "VideoPageLink": "/Series/PHP-for-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b8a0/07a6b0b7-edad-456c-9f3f-700524b7b8a0/677PHPforAzureM03_960.jpg",
+    "ShowName": "PHP for Azure",
+    "VideoLength": "00:41:23",
+    "VideoTitle": "PHP for Azure: (03) Forms, Sessions, & Cookies",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:44:44.4215369Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b8a0/07a6b0b7-edad-456c-9f3f-700524b7b8a0/677PHPforAzureM03_mid.mp4",
+    "Description": "Now that your site is built, learn how to process form input. Plus, explore saving variables on the server-side with sessions and on the client-side with cookies. [01:50] - Basic Form[08:52] - Form Va"
+  },
+  {
+    "VideoId": "5168661e-c1c1-48ac-afe5-a404014cb0aa",
+    "DataApi": "/Entries(guid'5168661e-c1c1-48ac-afe5-a404014cb0aa')/",
+    "VideoPageLink": "/Series/PHP-for-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/53a0/27e01457-c9dc-4f31-8caa-c06ae51a53a0/677PHPforAzureM04_960.jpg",
+    "ShowName": "PHP for Azure",
+    "VideoLength": "00:50:48",
+    "VideoTitle": "PHP for Azure: (04) PHP and MySQL",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:44:54.5680572Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/53a0/27e01457-c9dc-4f31-8caa-c06ae51a53a0/677PHPforAzureM04_mid.mp4",
+    "Description": "Dive into how to connect PHP to databases so that it's even more useful and powerful, and then connect the sample website to a database. [02:41] - Databases with PHP[05:51] - phpMyAdmin[33:12] - Inser"
+  },
+  {
+    "VideoId": "2db8b8b3-9c25-478f-b97c-a404014cbc66",
+    "DataApi": "/Entries(guid'2db8b8b3-9c25-478f-b97c-a404014cbc66')/",
+    "VideoPageLink": "/Series/PHP-for-Azure/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/37df/14b71ee0-6b47-4ce4-a860-a8f2417c37df/677PHPforAzureM05_960.jpg",
+    "ShowName": "PHP for Azure",
+    "VideoLength": "00:53:20",
+    "VideoTitle": "PHP for Azure: (05) Creating an API",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:45:09.4687337Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/37df/14b71ee0-6b47-4ce4-a860-a8f2417c37df/677PHPforAzureM05_mid.mp4",
+    "Description": "Explore using PHP to query the database and to send data back to the client as JSON, CSV, or whatever else, since the modern web is all about separating view from data. [01:42] - About APIs[11:15] - H"
+  },
+  {
+    "VideoId": "bce5c2f8-4790-45ee-b167-a404014cf9a2",
+    "DataApi": "/Entries(guid'bce5c2f8-4790-45ee-b167-a404014cf9a2')/",
+    "VideoPageLink": "/Series/PHP-for-Azure/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f51d/a12fcab6-97a5-4ebb-ab51-08d4a30af51d/677PHPforAzureM06_960.jpg",
+    "ShowName": "PHP for Azure",
+    "VideoLength": "00:57:22",
+    "VideoTitle": "PHP for Azure: (06) Deploying to Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-18T17:45:26.1690908Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f51d/a12fcab6-97a5-4ebb-ab51-08d4a30af51d/677PHPforAzureM06_mid.mp4",
+    "Description": "Now that you're feeling like a PHP superstar, see just how quickly and easily you can get your site out in the world with Azure. [01:55] - Support for PHP[08:54] - Azure SDK for PHP[12:22] - Creating "
+  }
+]

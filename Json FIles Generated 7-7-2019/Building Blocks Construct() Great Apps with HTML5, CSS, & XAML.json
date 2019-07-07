@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5ee217a3-7e8d-4015-a200-a30701751ed9",
+    "DataApi": "/Entries(guid'5ee217a3-7e8d-4015-a200-a30701751ed9')/",
+    "VideoPageLink": "/Series/Building-Blocks-Construct-Great-Apps-with-HTML5-CSS-XAML/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/803e/215c0714-b89c-4d9d-94a3-6199cb86803e/BuildingBlocksConstructM02_960.jpg",
+    "ShowName": "Building Blocks: Construct() Great Apps with HTML5, CSS, & XAML",
+    "VideoLength": "00:56:37",
+    "VideoTitle": "Building Blocks - Construct() Great Apps with HTML5, CSS, & XAML: (02) Marketing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:50:00.4885149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/803e/215c0714-b89c-4d9d-94a3-6199cb86803e/BuildingBlocksConstructM02_mid.mp4",
+    "Description": "Getting your app out there is the first step, but users have to find it before they can download it. Learn how to spread the word and drive adoption. [01:35] - Development Process[09:29] - Who are you"
+  },
+  {
+    "VideoId": "3b143cf9-14b1-48c5-9462-a307017566b1",
+    "DataApi": "/Entries(guid'3b143cf9-14b1-48c5-9462-a307017566b1')/",
+    "VideoPageLink": "/Series/Building-Blocks-Construct-Great-Apps-with-HTML5-CSS-XAML/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b4b/15bfb009-ecb6-42d8-854a-493e9fd59b4b/BuildingBlocksConstructM03_960.jpg",
+    "ShowName": "Building Blocks: Construct() Great Apps with HTML5, CSS, & XAML",
+    "VideoLength": "00:54:22",
+    "VideoTitle": "Building Blocks - Construct() Great Apps with HTML5, CSS, & XAML: (03) Assets",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:50:12.1956168Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b4b/15bfb009-ecb6-42d8-854a-493e9fd59b4b/BuildingBlocksConstructM03_mid.mp4",
+    "Description": "When the design is done and the implementation begins, you need to generate visual assets to be used in your app. Explore some common scenarios in two different design tools. [01:54] - Assets[17:46] -"
+  },
+  {
+    "VideoId": "e87c4a4f-12f8-489a-a664-a3070175a8c2",
+    "DataApi": "/Entries(guid'e87c4a4f-12f8-489a-a664-a3070175a8c2')/",
+    "VideoPageLink": "/Series/Building-Blocks-Construct-Great-Apps-with-HTML5-CSS-XAML/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ffb0/1b548f65-cbdd-497f-bd77-b862b92effb0/BuildingBlocksConstructM04_960.jpg",
+    "ShowName": "Building Blocks: Construct() Great Apps with HTML5, CSS, & XAML",
+    "VideoLength": "00:55:37",
+    "VideoTitle": "Building Blocks - Construct() Great Apps with HTML5, CSS, & XAML: (04) Layout",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:50:21.9290345Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ffb0/1b548f65-cbdd-497f-bd77-b862b92effb0/BuildingBlocksConstructM04_mid.mp4",
+    "Description": "Getting information on screens of varying size and orientation in a way the user understands and enjoys is not always an easy task. Learn and compare how to build various common layouts using both XAM"
+  },
+  {
+    "VideoId": "2fd11d62-2a16-4b12-9847-a3070175efa3",
+    "DataApi": "/Entries(guid'2fd11d62-2a16-4b12-9847-a3070175efa3')/",
+    "VideoPageLink": "/Series/Building-Blocks-Construct-Great-Apps-with-HTML5-CSS-XAML/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5656/9f089cc4-4134-4ae2-adaa-f2144a925656/BuildingBlocksConstructM05_960.jpg",
+    "ShowName": "Building Blocks: Construct() Great Apps with HTML5, CSS, & XAML",
+    "VideoLength": "00:52:09",
+    "VideoTitle": "Building Blocks - Construct() Great Apps with HTML5, CSS, & XAML: (05) Style",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:52:12.6904994Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5656/9f089cc4-4134-4ae2-adaa-f2144a925656/BuildingBlocksConstructM05_mid.mp4",
+    "Description": "Styling your app adds flavor and interest and helps create a unified design. Learn about FrameworkElement properties in XAML and CSS properties in HTML. [01:00] - Styling XAML[22:48] - Styling HTML[42"
+  },
+  {
+    "VideoId": "f47c2f9a-5f30-4218-83b0-a30701763332",
+    "DataApi": "/Entries(guid'f47c2f9a-5f30-4218-83b0-a30701763332')/",
+    "VideoPageLink": "/Series/Building-Blocks-Construct-Great-Apps-with-HTML5-CSS-XAML/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3af8/04a14092-b5f6-4ab7-8323-60f6b9d13af8/BuildingBlocksConstructM06_960.jpg",
+    "ShowName": "Building Blocks: Construct() Great Apps with HTML5, CSS, & XAML",
+    "VideoLength": "00:47:23",
+    "VideoTitle": "Building Blocks - Construct() Great Apps with HTML5, CSS, & XAML: (06) Patterns and Frameworks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-09T16:52:33.4198038Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3af8/04a14092-b5f6-4ab7-8323-60f6b9d13af8/BuildingBlocksConstructM06_mid.mp4",
+    "Description": "Explore what makes a game engaging. See some common strategies for writing your code and some libraries that are widely available and can help greatly in your overall app architecture and implementati"
+  }
+]

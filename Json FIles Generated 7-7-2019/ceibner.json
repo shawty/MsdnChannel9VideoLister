@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "39e3729b-5f18-41b9-b0bd-9deb0170ce86",
+    "DataApi": "/Entries(guid'39e3729b-5f18-41b9-b0bd-9deb0170ce86')/",
+    "VideoPageLink": "/Blogs/ceibner/Dynamics-CRM-Event-Management-Accelerator",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/5/3/0/6/4/CRMAcceleratorEventsManagement_large_ch9.png",
+    "ShowName": "ceibner",
+    "VideoLength": "00:32:36",
+    "VideoTitle": "Dynamics CRM Event Management Accelerator",
+    "Author": "Catherine Eibner",
+    "UtcDateTimePublished": "2009-03-10T23:05:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/5/3/0/6/4/CRMAcceleratorEventsManagement_ch9.mp4",
+    "Description": "This week the lovely Nina Vines who is the CRM Technical Specialist from our Australian Dynamics team joined me to record the first in our series of webcasts on the new Dynamics CRM accelerators. We d"
+  },
+  {
+    "VideoId": "d8a0edc9-403e-4213-9773-9deb0170d20e",
+    "DataApi": "/Entries(guid'd8a0edc9-403e-4213-9773-9deb0170d20e')/",
+    "VideoPageLink": "/Blogs/ceibner/Integrate-NAV--Virtual-Earth",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/5/5/2/0/6/4/NAVVEIntegration_large_ch9.png",
+    "ShowName": "ceibner",
+    "VideoLength": "00:22:35",
+    "VideoTitle": "Integrate NAV & Virtual Earth",
+    "Author": "Catherine Eibner",
+    "UtcDateTimePublished": "2009-03-10T02:33:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/5/5/2/0/6/4/NAVVEIntegration_ch9.mp4",
+    "Description": "\nYesterday I tracked down our local NAV Escalation Engineer (AKA NAV Guru) Johan Emilsson to get him to share his Dynamics NAV &amp; Virtual Earth integration.\n \nHe recently designed a Solution to "
+  }
+]

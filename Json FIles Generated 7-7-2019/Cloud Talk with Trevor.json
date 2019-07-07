@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "e284e459-d179-4934-b6e0-a5da005b6b5d",
+    "DataApi": "/Entries(guid'e284e459-d179-4934-b6e0-a5da005b6b5d')/",
+    "VideoPageLink": "/Blogs/trevor-cloud/azure-portal-dashboards",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d63/5476033e-ab5f-40e7-a11c-6c1a47053d63/BuildCustomDashboardsAzurePortal_960.jpg",
+    "ShowName": "Cloud Talk with Trevor",
+    "VideoLength": "00:07:03",
+    "VideoTitle": "Build Custom Dashboards in the Microsoft Azure Portal",
+    "Author": "Larry Larsen",
+    "UtcDateTimePublished": "2016-03-31T05:43:22.4047671Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d63/5476033e-ab5f-40e7-a11c-6c1a47053d63/BuildCustomDashboardsAzurePortal_mid.mp4",
+    "Description": "Have you been wishing for the ability to create custom dashboards in the Microsoft Azure Portal? Well, today is your lucky day, because the Microsoft Azure Portal team has been working hard, over the "
+  }
+]

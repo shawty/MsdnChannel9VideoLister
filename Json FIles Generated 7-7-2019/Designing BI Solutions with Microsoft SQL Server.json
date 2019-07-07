@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "904be16f-6b68-487a-8684-a3e4013e2835",
+    "DataApi": "/Entries(guid'904be16f-6b68-487a-8684-a3e4013e2835')/",
+    "VideoPageLink": "/Series/Designing-BI-Solutions-with-Microsoft-SQL-Server/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f348/37cc998a-576c-4f76-8779-c23e221df348/466DesignBISolutionWithMSSQLServerM02_960.jpg",
+    "ShowName": "Designing BI Solutions with Microsoft SQL Server",
+    "VideoLength": "00:43:53",
+    "VideoTitle": "Designing BI Solutions with Microsoft SQL Server: (02) Designing a BI Infrastructure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T23:38:51.5130642Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f348/37cc998a-576c-4f76-8779-c23e221df348/466DesignBISolutionWithMSSQLServerM02_mid.mp4",
+    "Description": "Explore design considerations for BI solutions and performance considerations. Find out how to design highly available BI solutions, define an appropriate disaster recovery approach, and learn to desi"
+  },
+  {
+    "VideoId": "02a8dfbc-349c-442b-b9c4-a3e4013e50dd",
+    "DataApi": "/Entries(guid'02a8dfbc-349c-442b-b9c4-a3e4013e50dd')/",
+    "VideoPageLink": "/Series/Designing-BI-Solutions-with-Microsoft-SQL-Server/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f675/9ec9ce01-502f-41e7-b2b7-46c3ea7af675/466DesignBISolutionWithMSSQLServerM03_960.jpg",
+    "ShowName": "Designing BI Solutions with Microsoft SQL Server",
+    "VideoLength": "00:58:18",
+    "VideoTitle": "Designing BI Solutions with Microsoft SQL Server: (03) Design a Data Warehouse",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T23:39:16.4978626Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f675/9ec9ce01-502f-41e7-b2b7-46c3ea7af675/466DesignBISolutionWithMSSQLServerM03_mid.mp4",
+    "Description": "Learn to describe an enterprise data warehouse, design a data warehouse schema, and design for partitioning. Hear how to describe relational performance considerations, handle slowly changing data, an"
+  },
+  {
+    "VideoId": "05a7183f-154a-489e-a04d-a3e4013e8f61",
+    "DataApi": "/Entries(guid'05a7183f-154a-489e-a04d-a3e4013e8f61')/",
+    "VideoPageLink": "/Series/Designing-BI-Solutions-with-Microsoft-SQL-Server/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e5f/a2948238-c14a-4f26-b00f-b3a35cb73e5f/466DesignBISolutionWithMSSQLServerM04_960.jpg",
+    "ShowName": "Designing BI Solutions with Microsoft SQL Server",
+    "VideoLength": "00:41:20",
+    "VideoTitle": "Designing BI Solutions with Microsoft SQL Server: (04) Design an ETL Solution",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T23:39:24.4561096Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e5f/a2948238-c14a-4f26-b00f-b3a35cb73e5f/466DesignBISolutionWithMSSQLServerM04_mid.mp4",
+    "Description": "Get the details on designing a data-acquisition strategy, and learn how to determine SSIS deployment models, optimize data-load processing, define logging, and securely deploy SSIS packages. [01:54] -"
+  },
+  {
+    "VideoId": "c3582812-ac02-4551-b1dc-a3e4013ebedd",
+    "DataApi": "/Entries(guid'c3582812-ac02-4551-b1dc-a3e4013ebedd')/",
+    "VideoPageLink": "/Series/Designing-BI-Solutions-with-Microsoft-SQL-Server/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e4c9/10daf3fe-cfcb-411f-9fa8-3ff633a1e4c9/466DesignBISolutionWithMSSQLServerM05_960.jpg",
+    "ShowName": "Designing BI Solutions with Microsoft SQL Server",
+    "VideoLength": "00:40:42",
+    "VideoTitle": "Designing BI Solutions with Microsoft SQL Server: (05) Design BI Data Models",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T23:40:04.3849948Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e4c9/10daf3fe-cfcb-411f-9fa8-3ff633a1e4c9/466DesignBISolutionWithMSSQLServerM05_mid.mp4",
+    "Description": "Take a look at how to choose between tabular or multidimensional models, and design partitioning, aggregations, and a processing approach. [01:36] - Tabular or Multi-Dimensional models[08:28] - Design"
+  },
+  {
+    "VideoId": "6d30e8f1-de44-4985-9ac8-a3e4013ee737",
+    "DataApi": "/Entries(guid'6d30e8f1-de44-4985-9ac8-a3e4013ee737')/",
+    "VideoPageLink": "/Series/Designing-BI-Solutions-with-Microsoft-SQL-Server/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e138/79e032ea-e3ae-43b7-8280-616d015ee138/466DesignBISolutionWithMSSQLServerM06_960.jpg",
+    "ShowName": "Designing BI Solutions with Microsoft SQL Server",
+    "VideoLength": "00:27:52",
+    "VideoTitle": "Designing BI Solutions with Microsoft SQL Server: (06) Designing Reporting Services Solutions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T23:40:09.8790101Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e138/79e032ea-e3ae-43b7-8280-616d015ee138/466DesignBISolutionWithMSSQLServerM06_mid.mp4",
+    "Description": "Learn to design appropriate data query parameters, balance queryâ€based processing versus filter-based processing, and manage data sets through the use of stored procedures. [00:49] - Selecting an Arch"
+  }
+]

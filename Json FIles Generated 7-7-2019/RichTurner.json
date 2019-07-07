@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a82336a5-d731-41be-a0a4-9dea011cafb1",
+    "DataApi": "/Entries(guid'a82336a5-d731-41be-a0a4-9dea011cafb1')/",
+    "VideoPageLink": "/Blogs/RichTurner/Windows-CardSpace-Simple-Demo-Walkthrough",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/07fa/1a23f7ad-6cce-4e7b-8741-f3fc5e1a07fa/CardspaceIntro_512.jpg",
+    "ShowName": "RichTurner",
+    "VideoLength": "00:20:41",
+    "VideoTitle": "Windows CardSpace Simple Demo Walkthrough",
+    "Author": "RichTurner",
+    "UtcDateTimePublished": "2007-03-16T16:48:13Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/07fa/1a23f7ad-6cce-4e7b-8741-f3fc5e1a07fa/CardspaceIntro_mid.mp4",
+    "Description": "\nWindows CardSpace is a new feature of Microsoft Windows that helps you better manage and control your personal information and helps shield you from many forms of phishing attack as well as some com"
+  }
+]

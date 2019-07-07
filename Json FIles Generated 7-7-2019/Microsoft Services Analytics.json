@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "18c12e5a-8cdb-4699-8bef-a69e00c7033a",
+    "DataApi": "/Entries(guid'18c12e5a-8cdb-4699-8bef-a69e00c7033a')/",
+    "VideoPageLink": "/Blogs/Microsoft-Services-Analytics/Advanced-Analytics-Projects-What-Could-Go-Wrong",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e7ed/a1329c1b-a716-4903-9682-dcd45d42e7ed/AAWrongAAProject_960.jpg",
+    "ShowName": "Microsoft Services Analytics",
+    "VideoLength": "00:17:16",
+    "VideoTitle": "Advanced Analytics Projects - What Could Go Wrong?",
+    "Author": "Eric Charran",
+    "UtcDateTimePublished": "2016-10-14T11:51:00.6423657Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e7ed/a1329c1b-a716-4903-9682-dcd45d42e7ed/AAWrongAAProject_mid.mp4",
+    "Description": "As a follow up to the original session Implementing Successful Advanced Analytics Projects, this session is focused on helping organizations avoid common projects showstoppers, pitfalls and causes beh"
+  },
+  {
+    "VideoId": "abb5b992-381b-4ed7-91f0-a610016dea60",
+    "DataApi": "/Entries(guid'abb5b992-381b-4ed7-91f0-a610016dea60')/",
+    "VideoPageLink": "/Blogs/Microsoft-Services-Analytics/Implementing-Successful-Advanced-Analytics-Projects",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/515c/2a6915a2-81e9-4abd-b44b-2c7a502a515c/AdvancedAnalyticsDataInsightsProjects_960.jpg",
+    "ShowName": "Microsoft Services Analytics",
+    "VideoLength": "00:31:12",
+    "VideoTitle": "Implementing Successful Advanced Analytics Projects",
+    "Author": "Eric Charran",
+    "UtcDateTimePublished": "2016-05-25T15:47:04.9184647Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/515c/2a6915a2-81e9-4abd-b44b-2c7a502a515c/AdvancedAnalyticsDataInsightsProjects_mid.mp4",
+    "Description": "This presentation illustrates how Microsoft Services implements advanced analytics solutions at customers.  The video reviews the current state of advanced analytics solutions and architectures and di"
+  }
+]

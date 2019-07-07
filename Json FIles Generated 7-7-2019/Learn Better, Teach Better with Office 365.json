@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "8d8f99d5-52c7-400c-8a8a-a31500b4ed72",
+    "DataApi": "/Entries(guid'8d8f99d5-52c7-400c-8a8a-a31500b4ed72')/",
+    "VideoPageLink": "/Series/Learn-Better-Teach-Better-with-Office-365/Learn-anytime-anywhere-anydevice",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ebf/c43f62b1-6814-4854-953a-a7673d7e8ebf/Learnanytimeanywhereanydevice_960.jpg",
+    "ShowName": "Learn Better, Teach Better with Office 365",
+    "VideoLength": "00:46:38",
+    "VideoTitle": "Learn anytime, anywhere,  anydevice",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-28T09:00:58Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ebf/c43f62b1-6814-4854-953a-a7673d7e8ebf/Learnanytimeanywhereanydevice_mid.mp4",
+    "Description": "Core theme: Show the power of O365 and the broad selection of clients to be super mobile in their learning/teaching approaches. Show all the mobility things we have, including the competitive platform"
+  },
+  {
+    "VideoId": "7a3784db-24bf-41c4-8f91-a31500b36f4a",
+    "DataApi": "/Entries(guid'7a3784db-24bf-41c4-8f91-a31500b36f4a')/",
+    "VideoPageLink": "/Series/Learn-Better-Teach-Better-with-Office-365/Turbocharge-your-teaching-with-technology",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5211/eb29bcab-c0a3-4a13-a8f9-9a0775a45211/Turbochargeyourtechingwithtechnology_960.jpg",
+    "ShowName": "Learn Better, Teach Better with Office 365",
+    "VideoLength": "00:45:43",
+    "VideoTitle": "Turbocharge your teaching with technology",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-28T09:02:09Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5211/eb29bcab-c0a3-4a13-a8f9-9a0775a45211/Turbochargeyourtechingwithtechnology_mid.mp4",
+    "Description": "Core theme: Focus on how O365 allows teachers to teach differently and better; show special scenarios incl. products like Sharepoint, Lync, Yammer, OneDrive, etc. Use examples from PiL guides. O365 wi"
+  },
+  {
+    "VideoId": "7f25d38c-bbcd-4069-9e11-a31500b6c498",
+    "DataApi": "/Entries(guid'7f25d38c-bbcd-4069-9e11-a31500b6c498')/",
+    "VideoPageLink": "/Series/Learn-Better-Teach-Better-with-Office-365/So-what-s-next-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0a7b/565b6e3c-25ab-44c8-adfc-4e73e5a40a7b/Sowhatsnext_960.jpg",
+    "ShowName": "Learn Better, Teach Better with Office 365",
+    "VideoLength": "00:31:49",
+    "VideoTitle": "So, whatâ€™s next?",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-30T08:03:09.5035696Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0a7b/565b6e3c-25ab-44c8-adfc-4e73e5a40a7b/Sowhatsnext_mid.mp4",
+    "Description": "Core theme: Summary module that focuses on what seminar participants can do next, where to go as a next step, incl. a little bit of purchasing info, free downloads, Dreamspark, PiL network, employabil"
+  },
+  {
+    "VideoId": "b1d4ac0e-a02d-489c-bb4b-a31500b0d085",
+    "DataApi": "/Entries(guid'b1d4ac0e-a02d-489c-bb4b-a31500b0d085')/",
+    "VideoPageLink": "/Series/Learn-Better-Teach-Better-with-Office-365/Learn-to-create-creating-to-learn",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee08/f0bb63a1-5449-42b4-ae84-ba549184ee08/Learntocreatecreatingtolearn_960.jpg",
+    "ShowName": "Learn Better, Teach Better with Office 365",
+    "VideoLength": "00:47:28",
+    "VideoTitle": "Learn to create, creating to learn",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-30T08:03:24.6052704Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee08/f0bb63a1-5449-42b4-ae84-ba549184ee08/Learntocreatecreatingtolearn_mid.mp4",
+    "Description": "Core theme: Highlight the O365 content creation capabilities, especially in contrast to the many &quot;consumption first&quot; alternative solutions that confine the learner to a watching, downloading"
+  },
+  {
+    "VideoId": "a385b46e-3d08-4dbe-b448-a31500af8134",
+    "DataApi": "/Entries(guid'a385b46e-3d08-4dbe-b448-a31500af8134')/",
+    "VideoPageLink": "/Series/Learn-Better-Teach-Better-with-Office-365/The-new-world-for-Learning",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8762/254228a2-17d1-4a4c-8780-ffb4f0928762/TheNewWorldforLearning_960.jpg",
+    "ShowName": "Learn Better, Teach Better with Office 365",
+    "VideoLength": "00:45:52",
+    "VideoTitle": "The new world for Learning",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-05-06T08:24:16.2269252Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8762/254228a2-17d1-4a4c-8780-ffb4f0928762/TheNewWorldforLearning_mid.mp4",
+    "Description": "Core theme: Intro module to set the scene of changes happening in learning and education. The pace of change is accelerating and the challenges and options can be overwhelming, especially for educator"
+  }
+]

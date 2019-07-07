@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "a91ee771-b26c-45a3-95e1-a3640130969b",
+    "DataApi": "/Entries(guid'a91ee771-b26c-45a3-95e1-a3640130969b')/",
+    "VideoPageLink": "/Series/Virtualizing-and-Managing-SharePoint-with-the-Microsoft-Cloud-OS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b21a/cb806200-a08c-4dac-8f23-bfb66ab0b21a/VirtualizingManagingSharePointMSCloudOSM02_960.jpg",
+    "ShowName": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS",
+    "VideoLength": "00:23:48",
+    "VideoTitle": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS: (02) Storage & Networking",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:14:58.3840698Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b21a/cb806200-a08c-4dac-8f23-bfb66ab0b21a/VirtualizingManagingSharePointMSCloudOSM02_mid.mp4",
+    "Description": "Explore Storage Spaces, a technology in Windows and Windows Server that enables you to virtualize storage by grouping industry-standard disks into storage pools. Get details on storage layouts, storag"
+  },
+  {
+    "VideoId": "e5179378-c1d1-4335-a350-a3640130ceaf",
+    "DataApi": "/Entries(guid'e5179378-c1d1-4335-a350-a3640130ceaf')/",
+    "VideoPageLink": "/Series/Virtualizing-and-Managing-SharePoint-with-the-Microsoft-Cloud-OS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/15b2/3cc06ff0-cff9-4944-870a-8ed9c96115b2/VirtualizingManagingSharePointMSCloudOSM03_960.jpg",
+    "ShowName": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS",
+    "VideoLength": "00:29:53",
+    "VideoTitle": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS: (03) Flexibility & Resiliency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:15:22.2067941Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/15b2/3cc06ff0-cff9-4944-870a-8ed9c96115b2/VirtualizingManagingSharePointMSCloudOSM03_mid.mp4",
+    "Description": "Hear about the accelerated performance and flexibility for SharePoint VM migration, and learn about Live Migration and Live Migration with compression. [00:50] - Flexibility and ResiliencyFull course "
+  },
+  {
+    "VideoId": "b83374e0-e731-4a76-ae3f-a3640131000b",
+    "DataApi": "/Entries(guid'b83374e0-e731-4a76-ae3f-a3640131000b')/",
+    "VideoPageLink": "/Series/Virtualizing-and-Managing-SharePoint-with-the-Microsoft-Cloud-OS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a614/9fe91491-5e08-4eee-86ff-b2fe7f2aa614/VirtualizingManagingSharePointMSCloudOSM04_960.jpg",
+    "ShowName": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS",
+    "VideoLength": "00:18:32",
+    "VideoTitle": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS: (04) SharePoint Support on Hyper-V & Hybrid Infrastructure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:15:35.8968066Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a614/9fe91491-5e08-4eee-86ff-b2fe7f2aa614/VirtualizingManagingSharePointMSCloudOSM04_mid.mp4",
+    "Description": "Explore SharePoint versions that are supported virtualized on Hyper-V, VMM (which provides the IT administrators the ability to manage the hypervisor hosts, along with the VMs and services on top), an"
+  },
+  {
+    "VideoId": "f4662206-a1d3-4b0b-83c2-a36401313477",
+    "DataApi": "/Entries(guid'f4662206-a1d3-4b0b-83c2-a36401313477')/",
+    "VideoPageLink": "/Series/Virtualizing-and-Managing-SharePoint-with-the-Microsoft-Cloud-OS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/04f3/55ec9ec7-d08e-4acc-a1b8-b6f70b5f04f3/VirtualizingManagingSharePointMSCloudOSM05_960.jpg",
+    "ShowName": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS",
+    "VideoLength": "00:59:15",
+    "VideoTitle": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS: (05) Comprehensive Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:15:46.7291095Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/04f3/55ec9ec7-d08e-4acc-a1b8-b6f70b5f04f3/VirtualizingManagingSharePointMSCloudOSM05_mid.mp4",
+    "Description": "Learn more about Microsoft's Comprehensive Management and how it provides many tools that help you to monitor the overall health status of the SharePoint 2013 environment. Explore System Center Operat"
+  },
+  {
+    "VideoId": "cb1cbebf-3391-4e8c-974b-a36401316423",
+    "DataApi": "/Entries(guid'cb1cbebf-3391-4e8c-974b-a36401316423')/",
+    "VideoPageLink": "/Series/Virtualizing-and-Managing-SharePoint-with-the-Microsoft-Cloud-OS/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/45d1/31445668-3ce5-4962-8d6f-170f955445d1/VirtualizingManagingSharePointMSCloudOSM06_960.jpg",
+    "ShowName": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS",
+    "VideoLength": "00:32:14",
+    "VideoTitle": "Virtualizing and Managing SharePoint with the Microsoft Cloud OS: (06) Delivering SharePoint as a Service & Summary",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:15:57.1982911Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/45d1/31445668-3ce5-4962-8d6f-170f955445d1/VirtualizingManagingSharePointMSCloudOSM06_mid.mp4",
+    "Description": "Hear how the Service Template enables the deployment of multiple tiers to represent the levels of separation in a production SharePoint deployment. And get information on consuming virtualized SharePo"
+  }
+]

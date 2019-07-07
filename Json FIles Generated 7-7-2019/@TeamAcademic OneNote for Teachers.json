@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "37cb469e-a5d3-42e7-908e-a60100fb4280",
+    "DataApi": "/Entries(guid'37cb469e-a5d3-42e7-908e-a60100fb4280')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-2-OneNote-Layout-and-Format",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c6b/177cc035-fdc2-47ae-8ef7-02c96c619c6b/layoutandformat_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:04:53",
+    "VideoTitle": "Section 2: OneNote Layout and Format",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:21:46.7781231Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c6b/177cc035-fdc2-47ae-8ef7-02c96c619c6b/layoutandformat_mid.mp4",
+    "Description": "@TeamAcademic. Learn the layout of OneNote and the tools format. "
+  },
+  {
+    "VideoId": "1a45f136-3917-4547-a31f-a60800e3eed6",
+    "DataApi": "/Entries(guid'1a45f136-3917-4547-a31f-a60800e3eed6')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-3-OneNote-Content-Generation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c178/7e2b9742-ccdb-41da-a8ae-1945fb81c178/contentgeneration_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:05:45",
+    "VideoTitle": "Section 3: OneNote Content Generation",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:21:50.9295187Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c178/7e2b9742-ccdb-41da-a8ae-1945fb81c178/contentgeneration_mid.mp4",
+    "Description": "@TeamAcademic. Learn how to extract content online or create your own. "
+  },
+  {
+    "VideoId": "288dead8-4756-4434-a46b-a60800e59add",
+    "DataApi": "/Entries(guid'288dead8-4756-4434-a46b-a60800e59add')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-4-OneNote-Search-and-Interface-Features",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e8d/fa5aec7e-b8e8-4227-9e81-1f3aa9357e8d/searchandinterfacefeatures_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:06:56",
+    "VideoTitle": "Section 4: OneNote Search and Interface Features",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:21:54.3565367Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e8d/fa5aec7e-b8e8-4227-9e81-1f3aa9357e8d/searchandinterfacefeatures_mid.mp4",
+    "Description": "@TeamAcademic. Learn how to use the OneNote search bar and other interface features. "
+  },
+  {
+    "VideoId": "49e53806-e439-411d-984b-a60800e7c147",
+    "DataApi": "/Entries(guid'49e53806-e439-411d-984b-a60800e7c147')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-5-OneNote-Templates-and-Tables",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f21/65bc4727-f0f4-44ec-9a37-4fe0eef09f21/templatesandtables_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:01:42",
+    "VideoTitle": "Section 5: OneNote Templates and Tables",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:21:57.4843396Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f21/65bc4727-f0f4-44ec-9a37-4fe0eef09f21/templatesandtables_mid.mp4",
+    "Description": "@TeamAcademic. Learn how to make use of the OneNote templates or create your own. Also learn how to utilize tables to tap into the power of Excel in OneNote.  "
+  },
+  {
+    "VideoId": "35ffe4ea-7a06-4511-b29d-a60800ec7e05",
+    "DataApi": "/Entries(guid'35ffe4ea-7a06-4511-b29d-a60800ec7e05')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-6-OneNote-Handwriting-Capabilities",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9360/29de9877-8b6e-43e1-a7eb-823498199360/handwritingcapabilities_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:02:10",
+    "VideoTitle": "Section 6: OneNote Handwriting Capabilities",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:22:06.8155193Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9360/29de9877-8b6e-43e1-a7eb-823498199360/handwritingcapabilities_mid.mp4",
+    "Description": "@TeamAcademic. Learn how to make use of OneNote's handwriting capabilities with the stylus and use the 'Ink to Text' and 'Ink to Math' features. "
+  },
+  {
+    "VideoId": "720391ea-684f-4a50-9687-a60800edd19e",
+    "DataApi": "/Entries(guid'720391ea-684f-4a50-9687-a60800edd19e')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-7-Sharing-the-OneNote-Notebook",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6a31/2d311994-a883-4509-a768-624c4bae6a31/sharingthenotebook_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:02:03",
+    "VideoTitle": "Section 7: Sharing the OneNote Notebook",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:22:13.2709727Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a31/2d311994-a883-4509-a768-624c4bae6a31/sharingthenotebook_mid.mp4",
+    "Description": "@TeamAcademic. Learn how to share your OneNote with others for futher collaboration.  "
+  },
+  {
+    "VideoId": "7bcc95af-6ff1-49a4-bc5a-a60800efe6bc",
+    "DataApi": "/Entries(guid'7bcc95af-6ff1-49a4-bc5a-a60800efe6bc')/",
+    "VideoPageLink": "/Series/TeamAcademic-OneNote-for-Teachers/Section-8-OneNote-Practical-Applications",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db9e/2f837302-6522-49e7-9c6b-d648275cdb9e/practicalapplications_960.jpg",
+    "ShowName": "@TeamAcademic: OneNote for Teachers",
+    "VideoLength": "00:03:48",
+    "VideoTitle": "Section 8: OneNote Practical Applications",
+    "Author": "Stephen Howell",
+    "UtcDateTimePublished": "2016-05-17T08:22:16.2963103Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db9e/2f837302-6522-49e7-9c6b-d648275cdb9e/practicalapplications_mid.mp4",
+    "Description": "@TeamAcademic. See examples of how OneNote can be applied practically in education and references to further online resources for continued learning. "
+  }
+]

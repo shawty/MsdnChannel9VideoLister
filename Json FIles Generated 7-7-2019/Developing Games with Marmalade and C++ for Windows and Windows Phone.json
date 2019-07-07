@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "f7d132c1-e64c-4d7b-8a30-a4510131526f",
+    "DataApi": "/Entries(guid'f7d132c1-e64c-4d7b-8a30-a4510131526f')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Marmalade-and-C-for-Windows-and-Windows-Phone/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca57/afb56b3f-9221-4c67-80fc-b12352f3ca57/394DevGamesMarmaladeWindowsM02_960.jpg",
+    "ShowName": "Developing Games with Marmalade and C++ for Windows and Windows Phone",
+    "VideoLength": "01:03:20",
+    "VideoTitle": "Developing Games with Marmalade and C++ for Windows and Windows Phone: (02) Building the Gameplay",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-05T17:49:15.793413Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca57/afb56b3f-9221-4c67-80fc-b12352f3ca57/394DevGamesMarmaladeWindowsM02_mid.mp4",
+    "Description": "See the game you'll be building throughout the session, using Marmalade C&#43;&#43;, and explore how to build and deploy the game onto Windows devices. "
+  },
+  {
+    "VideoId": "fc0c09fb-eae3-4a05-8231-a4510131868b",
+    "DataApi": "/Entries(guid'fc0c09fb-eae3-4a05-8231-a4510131868b')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Marmalade-and-C-for-Windows-and-Windows-Phone/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fed0/7cbfd949-1e6f-4de8-941b-da98d9f3fed0/394DevGamesMarmaladeWindowsM03_960.jpg",
+    "ShowName": "Developing Games with Marmalade and C++ for Windows and Windows Phone",
+    "VideoLength": "00:29:58",
+    "VideoTitle": "Developing Games with Marmalade and C++ for Windows and Windows Phone: (03) Cloud Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-05T17:49:28.0604604Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fed0/7cbfd949-1e6f-4de8-941b-da98d9f3fed0/394DevGamesMarmaladeWindowsM03_mid.mp4",
+    "Description": "See how easy is to create a single cloud backend to your game and to include features, such as a leaderboard. Explore and sign up for GameSparks. "
+  },
+  {
+    "VideoId": "5e30df77-240a-46c5-b2eb-a4510131af62",
+    "DataApi": "/Entries(guid'5e30df77-240a-46c5-b2eb-a4510131af62')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Marmalade-and-C-for-Windows-and-Windows-Phone/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0302/dd846bc6-41bc-41f2-901f-d160ec050302/394DevGamesMarmaladeWindowsM04_960.jpg",
+    "ShowName": "Developing Games with Marmalade and C++ for Windows and Windows Phone",
+    "VideoLength": "00:19:17",
+    "VideoTitle": "Developing Games with Marmalade and C++ for Windows and Windows Phone: (04) Monetization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-05T17:49:59.7943076Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0302/dd846bc6-41bc-41f2-901f-d160ec050302/394DevGamesMarmaladeWindowsM04_mid.mp4",
+    "Description": "Look at best practices for monetization, engagement, and retention of players of your games, and check out ways to enhance game sales. "
+  },
+  {
+    "VideoId": "fd8eb6ef-bcf8-4d43-a00f-a4510131dd60",
+    "DataApi": "/Entries(guid'fd8eb6ef-bcf8-4d43-a00f-a4510131dd60')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Marmalade-and-C-for-Windows-and-Windows-Phone/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bed/3a757857-74cd-4171-8273-df9221d52bed/394DevGamesMarmaladeWindowsM05_960.jpg",
+    "ShowName": "Developing Games with Marmalade and C++ for Windows and Windows Phone",
+    "VideoLength": "00:24:03",
+    "VideoTitle": "Developing Games with Marmalade and C++ for Windows and Windows Phone: (05) Creating Marmalade Extensions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-05T17:50:14.7385536Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bed/3a757857-74cd-4171-8273-df9221d52bed/394DevGamesMarmaladeWindowsM05_mid.mp4",
+    "Description": "See demos on how to build Marmalade extensions for both Windows Phone and Windows 8. "
+  },
+  {
+    "VideoId": "729edf23-9016-4e23-accb-a45101320b10",
+    "DataApi": "/Entries(guid'729edf23-9016-4e23-accb-a45101320b10')/",
+    "VideoPageLink": "/Series/Developing-Games-with-Marmalade-and-C-for-Windows-and-Windows-Phone/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a6f/2ba4a14c-dca6-4aef-b3f5-d556039f3a6f/394DevGamesMarmaladeWindowsM06_960.jpg",
+    "ShowName": "Developing Games with Marmalade and C++ for Windows and Windows Phone",
+    "VideoLength": "00:21:46",
+    "VideoTitle": "Developing Games with Marmalade and C++ for Windows and Windows Phone: (06) Packaging and Finishing Touches",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-05T17:50:32.6485224Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a6f/2ba4a14c-dca6-4aef-b3f5-d556039f3a6f/394DevGamesMarmaladeWindowsM06_mid.mp4",
+    "Description": "Revisit the best practices from Module 4, and implement those key features into the game using extensions and Marmalade SDKs. Package and publish the game to Windows 8 and Windows Phone stores. "
+  }
+]

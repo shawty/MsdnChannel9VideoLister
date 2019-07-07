@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "b243982e-3d68-4b3d-9ff9-a4550149ebd4",
+    "DataApi": "/Entries(guid'b243982e-3d68-4b3d-9ff9-a4550149ebd4')/",
+    "VideoPageLink": "/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f815/6492e743-988a-47a9-af54-b3648a3df815/645PracticalPerformanceTipsHTML5M02_960.jpg",
+    "ShowName": "Practical Performance Tips to Make Your HTML/JavaScript Faster",
+    "VideoLength": "00:47:20",
+    "VideoTitle": "Practical Performance Tips to Make Your HTML/JavaScript Faster: (02) Tools and Measurement",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T20:03:34.1342291Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f815/6492e743-988a-47a9-af54-b3648a3df815/645PracticalPerformanceTipsHTML5M02_mid.mp4",
+    "Description": "Check out tools that can help monitor and measure your JavaScript/HTML performance. [00:58] - Tools[33:51] - How to Measure"
+  },
+  {
+    "VideoId": "096c49f9-ae57-47cc-9f45-a455014a198d",
+    "DataApi": "/Entries(guid'096c49f9-ae57-47cc-9f45-a455014a198d')/",
+    "VideoPageLink": "/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/662e/3e000514-5202-40ad-aab3-edb3f9b8662e/645PracticalPerformanceTipsHTML5M03_960.jpg",
+    "ShowName": "Practical Performance Tips to Make Your HTML/JavaScript Faster",
+    "VideoLength": "00:41:25",
+    "VideoTitle": "Practical Performance Tips to Make Your HTML/JavaScript Faster: (03) Strategies and Principles: Network Requests, Bytes Downloaded",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T20:03:43.0619185Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/662e/3e000514-5202-40ad-aab3-edb3f9b8662e/645PracticalPerformanceTipsHTML5M03_mid.mp4",
+    "Description": "Explore the strategies and principles on how to quickly respond to network requests, along with techniques for minimizing downloaded bytes. [01:42] - Quickly Respond to Network Requests[15:28] - Minim"
+  },
+  {
+    "VideoId": "f6a3d834-8895-40fa-a8c2-a455014a4321",
+    "DataApi": "/Entries(guid'f6a3d834-8895-40fa-a8c2-a455014a4321')/",
+    "VideoPageLink": "/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/59cf/8e5f2cc1-bc06-433e-b8c5-33a55aac59cf/645PracticalPerformanceTipsHTML5M04_960.jpg",
+    "ShowName": "Practical Performance Tips to Make Your HTML/JavaScript Faster",
+    "VideoLength": "00:49:54",
+    "VideoTitle": "Practical Performance Tips to Make Your HTML/JavaScript Faster: (04) Strategies and Principles: Media Usage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T20:03:51.8655078Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/59cf/8e5f2cc1-bc06-433e-b8c5-33a55aac59cf/645PracticalPerformanceTipsHTML5M04_mid.mp4",
+    "Description": "Get tips and tricks on optimizing media usage and how to take advantage of CSS3. [01:49] - Optimize Media Usage[37:51] - Use CSS3"
+  },
+  {
+    "VideoId": "632d9af7-2d24-48d6-88d8-a455014a6d57",
+    "DataApi": "/Entries(guid'632d9af7-2d24-48d6-88d8-a455014a6d57')/",
+    "VideoPageLink": "/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b670/d08e81fd-2230-4691-9b37-d1284877b670/645PracticalPerformanceTipsHTML5M05_960.jpg",
+    "ShowName": "Practical Performance Tips to Make Your HTML/JavaScript Faster",
+    "VideoLength": "00:44:45",
+    "VideoTitle": "Practical Performance Tips to Make Your HTML/JavaScript Faster: (05) Strategies and Principles: Memory, Markup, Execution",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T20:04:01.5968953Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b670/d08e81fd-2230-4691-9b37-d1284877b670/645PracticalPerformanceTipsHTML5M05_mid.mp4",
+    "Description": "Continue to examine how to manage the memory usage, how to structure the markup efficiently, and how to optimize execution. [00:54] - Memory Usage: Stay Lean[07:03] - Efficiently Structure Markup[39:1"
+  },
+  {
+    "VideoId": "f02b81b5-c0c1-43b8-a5f2-a455014a9954",
+    "DataApi": "/Entries(guid'f02b81b5-c0c1-43b8-a5f2-a455014a9954')/",
+    "VideoPageLink": "/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c5b/eaedd1ae-3e22-4a0f-9182-ba89a0f88c5b/645PracticalPerformanceTipsHTML5M06_960.jpg",
+    "ShowName": "Practical Performance Tips to Make Your HTML/JavaScript Faster",
+    "VideoLength": "00:53:00",
+    "VideoTitle": "Practical Performance Tips to Make Your HTML/JavaScript Faster: (06) Write Fast JavaScript",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T20:04:12.1239451Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c5b/eaedd1ae-3e22-4a0f-9182-ba89a0f88c5b/645PracticalPerformanceTipsHTML5M06_mid.mp4",
+    "Description": "Get tips on writing good and fast JavaScript, including initializing JavaScript on demand and working efficiently with JSON, .innerHTML, numbers, arrays, and DOM objects. [01:47] - JSON Always Faster "
+  },
+  {
+    "VideoId": "dddcd95d-5361-42af-bcee-a455014acb2e",
+    "DataApi": "/Entries(guid'dddcd95d-5361-42af-bcee-a455014acb2e')/",
+    "VideoPageLink": "/Series/Practical-Performance-Tips-to-Make-Your-HTMLJavaScript-Faster/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/806b/e6ac65e2-882f-4b8e-832f-65ef4032806b/645PracticalPerformanceTipsHTML5M07_960.jpg",
+    "ShowName": "Practical Performance Tips to Make Your HTML/JavaScript Faster",
+    "VideoLength": "00:50:26",
+    "VideoTitle": "Practical Performance Tips to Make Your HTML/JavaScript Faster: (07) Case Study: Casual Game Performance Tuning",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T20:04:22.3524868Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/806b/e6ac65e2-882f-4b8e-832f-65ef4032806b/645PracticalPerformanceTipsHTML5M07_mid.mp4",
+    "Description": "Watch a casual game demo to see, step by step, how to improve startup time, UI responsiveness, and memory efficiency, based on the strategies, principles, and best practices from the previous modules."
+  }
+]

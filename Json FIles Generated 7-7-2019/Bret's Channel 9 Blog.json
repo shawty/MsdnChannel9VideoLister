@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "3077c8f6-118d-4462-b2ed-a5ef01672878",
+    "DataApi": "/Entries(guid'3077c8f6-118d-4462-b2ed-a5ef01672878')/",
+    "VideoPageLink": "/Blogs/BretStateham/Intel-Edison-Azure-IoT-Kit-Starter-Walkthrough",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/076b/2570d482-7b44-4932-80b9-610ffc17076b/IntelEdisonAzureIoTStarterKit_960.jpg",
+    "ShowName": "Bret's Channel 9 Blog",
+    "VideoLength": "00:09:57",
+    "VideoTitle": "Intel Edison Azure IoT Kit Starter Walkthrough",
+    "Author": "Bret Stateham",
+    "UtcDateTimePublished": "2016-04-21T22:10:10.6322865Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/076b/2570d482-7b44-4932-80b9-610ffc17076b/IntelEdisonAzureIoTStarterKit_mid.mp4",
+    "Description": "This video gives you a very fast paced walkthrough of the Azure IoT Starter Kit for the Intel Edison.  Specifically, this walks through the &quot;Using Microsoft Azure IoT Services to Identify Tempera"
+  },
+  {
+    "VideoId": "efb56b8f-402b-4165-9bd3-a5d30106ce04",
+    "DataApi": "/Entries(guid'efb56b8f-402b-4165-9bd3-a5d30106ce04')/",
+    "VideoPageLink": "/Blogs/BretStateham/SpaceAppsIntro",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/23b8/c52bd811-94e1-45ba-90e2-126cc33023b8/nsappsintro_960.jpg",
+    "ShowName": "Bret's Channel 9 Blog",
+    "VideoLength": "00:19:07",
+    "VideoTitle": "NASA Space Apps Challenge 2016 Introduction",
+    "Author": "Sam stokes",
+    "UtcDateTimePublished": "2016-03-24T23:34:31.3615482Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/23b8/c52bd811-94e1-45ba-90e2-126cc33023b8/nsappsintro_mid.mp4",
+    "Description": "Will you be attending a NASA Space Apps Challenge 2016 event?  If so, Microsoft has a ton of great resources to help you with your hacks.  In this introductory video, we show you how the power of Micr"
+  },
+  {
+    "VideoId": "c52056c6-6630-4f2c-8ccc-a5d3010579e4",
+    "DataApi": "/Entries(guid'c52056c6-6630-4f2c-8ccc-a5d3010579e4')/",
+    "VideoPageLink": "/Blogs/BretStateham/SpaceAppsTeaser",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5949/80bad684-d70f-4a14-b403-f7cc71235949/nsappsteaser_960.jpg",
+    "ShowName": "Bret's Channel 9 Blog",
+    "VideoLength": "00:02:07",
+    "VideoTitle": "NASA Space Apps Challenge 2016 Teaser",
+    "Author": "Sam stokes",
+    "UtcDateTimePublished": "2016-03-24T23:33:49.5517347Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5949/80bad684-d70f-4a14-b403-f7cc71235949/nsappsteaser_mid.mp4",
+    "Description": "The setting is planet Earth (Pasadena, CA, to be exact.) Microsoft Sr. Technical Evangelist, Bret Stateham, thinks he's simply presenting technical resources for this year's NASA Space Apps Challenge."
+  },
+  {
+    "VideoId": "c1eeb5fa-31b4-4a74-b9be-a5b80160b09e",
+    "DataApi": "/Entries(guid'c1eeb5fa-31b4-4a74-b9be-a5b80160b09e')/",
+    "VideoPageLink": "/Blogs/BretStateham/Signing-up-for-Power-BI",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/682d/a8e0ff84-1ba3-4752-a64d-6f38dcf2682d/PowerBISignup_960.jpg",
+    "ShowName": "Bret's Channel 9 Blog",
+    "VideoLength": "00:12:56",
+    "VideoTitle": "Signing up for Power BI",
+    "Author": "Bret Stateham",
+    "UtcDateTimePublished": "2016-02-26T22:34:37.2903006Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/682d/a8e0ff84-1ba3-4752-a64d-6f38dcf2682d/PowerBISignup_mid.mp4",
+    "Description": "In this quick video I'll show you how to get signed up for Power BI using either your Work Email address, an existing Office 365 account, or by signing up for a free Office 365 trial. You can access t"
+  },
+  {
+    "VideoId": "6b6d82ad-b7dd-453a-8cdb-a5b1017524da",
+    "DataApi": "/Entries(guid'6b6d82ad-b7dd-453a-8cdb-a5b1017524da')/",
+    "VideoPageLink": "/Blogs/BretStateham/Power-BI--Alteryx-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/75c2/7a0d3372-7184-48b8-a19f-8df6a6ef75c2/PowerBIAndAlteryx_960.jpg",
+    "ShowName": "Bret's Channel 9 Blog",
+    "VideoLength": "00:30:01",
+    "VideoTitle": "Power BI & Alteryx Overview",
+    "Author": "Bret Stateham",
+    "UtcDateTimePublished": "2016-02-20T00:53:31.9914672Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/75c2/7a0d3372-7184-48b8-a19f-8df6a6ef75c2/PowerBIAndAlteryx_mid.mp4",
+    "Description": "This is a recording of a presention I did for the Alteryx User Group meeting here in Southern California.  It is basically an overview of the Power BI service, Power BI Desktop and Power BI mobile app"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "7384788b-1859-4549-8d65-a52a014a2c49",
+    "DataApi": "/Entries(guid'7384788b-1859-4549-8d65-a52a014a2c49')/",
+    "VideoPageLink": "/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/2--Visual-Studio-Online-Build-to-Enable-DevOps-Practices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0951/c7a36bdc-97d3-4bea-b185-31bdfaa60951/Mod2Introduction_960.jpg",
+    "ShowName": "Zero to Continuous Deployment of Dockerized App for Dev-Test in Azure",
+    "VideoLength": "00:14:22",
+    "VideoTitle": "2 | Visual Studio Online Build to Enable DevOps Practices",
+    "Author": "Aleksandar Dordevic",
+    "UtcDateTimePublished": "2015-10-07T22:10:27.6946665Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0951/c7a36bdc-97d3-4bea-b185-31bdfaa60951/Mod2Introduction_mid.mp4",
+    "Description": "Visual Studio Online Build to Enable DevOps Practices "
+  },
+  {
+    "VideoId": "57b1ea92-6e5b-467b-a4c8-a52a014a6b77",
+    "DataApi": "/Entries(guid'57b1ea92-6e5b-467b-a4c8-a52a014a6b77')/",
+    "VideoPageLink": "/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/3--Infrastructure-as-Code--Containers",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/34f9/90e5dfe7-2cde-4688-bdf2-6af3fe0034f9/Mod3Containers_960.jpg",
+    "ShowName": "Zero to Continuous Deployment of Dockerized App for Dev-Test in Azure",
+    "VideoLength": "00:45:34",
+    "VideoTitle": "3 | Infrastructure as Code â€“ Containers ",
+    "Author": "Aleksandar Dordevic",
+    "UtcDateTimePublished": "2015-10-07T22:10:19.2479274Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/34f9/90e5dfe7-2cde-4688-bdf2-6af3fe0034f9/Mod3Containers_mid.mp4",
+    "Description": "Infrastructure as Code â€“ Containers  "
+  },
+  {
+    "VideoId": "9a94da31-200b-4899-ac9b-a52a014aac49",
+    "DataApi": "/Entries(guid'9a94da31-200b-4899-ac9b-a52a014aac49')/",
+    "VideoPageLink": "/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/4--Infrastructure-as-Code--Azure-Resource-Manager-ARM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/71d1/ded9b7cb-4e3e-4489-93c7-132c35b371d1/Mod4InfrastructureasCode_960.jpg",
+    "ShowName": "Zero to Continuous Deployment of Dockerized App for Dev-Test in Azure",
+    "VideoLength": "00:14:52",
+    "VideoTitle": "4 | Infrastructure as Code â€“ Azure Resource Manager (ARM)",
+    "Author": "Aleksandar Dordevic",
+    "UtcDateTimePublished": "2015-10-07T22:10:10.2677863Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/71d1/ded9b7cb-4e3e-4489-93c7-132c35b371d1/Mod4InfrastructureasCode_mid.mp4",
+    "Description": "Infrastructure as Code â€“ Azure Resource Manager (ARM) "
+  },
+  {
+    "VideoId": "84488aa8-bb37-4063-8a59-a52a014affca",
+    "DataApi": "/Entries(guid'84488aa8-bb37-4063-8a59-a52a014affca')/",
+    "VideoPageLink": "/Shows/Zero-to-Continuous-Deployment-of-Dockerized-App-for-Dev-Test-in-Azure/5--Continuous-Deployment--Azure-Automation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/90a7/0ac81d67-b71f-407a-85b6-5776779990a7/Mod5ContinuousDeployment_960.jpg",
+    "ShowName": "Zero to Continuous Deployment of Dockerized App for Dev-Test in Azure",
+    "VideoLength": "00:18:57",
+    "VideoTitle": "5 | Continuous Deployment â€“ Azure Automation",
+    "Author": "Joe Breslin",
+    "UtcDateTimePublished": "2015-10-07T22:09:59.8927938Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/90a7/0ac81d67-b71f-407a-85b6-5776779990a7/Mod5ContinuousDeployment_mid.mp4",
+    "Description": "Continuous Deployment â€“ Azure Automation "
+  }
+]

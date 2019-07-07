@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "d57a6999-ab66-4ccd-9b7e-a37e0134aed0",
+    "DataApi": "/Entries(guid'd57a6999-ab66-4ccd-9b7e-a37e0134aed0')/",
+    "VideoPageLink": "/Series/Application-Insights-on-Azure-Preview-Portal/Application-Insights-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8b8e/e924e562-d966-4f38-8410-b19ed0a28b8e/AppInsightsIntro_960.jpg",
+    "ShowName": "Application Insights on Azure Preview Portal",
+    "VideoLength": "00:03:14",
+    "VideoTitle": "Application Insights Introduction",
+    "Author": "Darshan Desai",
+    "UtcDateTimePublished": "2014-08-05T19:38:07.8322164Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8b8e/e924e562-d966-4f38-8410-b19ed0a28b8e/AppInsightsIntro_mid.mp4",
+    "Description": "Application Insights helps you track availability, performance, and success of your applications. Peter Provost, Principal Group Program Manager at Microsoft, gives you an introduction and explains wh"
+  },
+  {
+    "VideoId": "0d13d98d-8d4f-47dc-976e-a37e0137c5ef",
+    "DataApi": "/Entries(guid'0d13d98d-8d4f-47dc-976e-a37e0137c5ef')/",
+    "VideoPageLink": "/Series/Application-Insights-on-Azure-Preview-Portal/Monitoring-Availability-with-Application-Insights",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/33d6/bcb9e859-d05e-4d14-9c98-c6a20e0433d6/AIAvailability2_960.jpg",
+    "ShowName": "Application Insights on Azure Preview Portal",
+    "VideoLength": "00:02:08",
+    "VideoTitle": "Monitoring Availability with Application Insights",
+    "Author": "Darshan Desai",
+    "UtcDateTimePublished": "2014-08-05T19:39:05.9896901Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/33d6/bcb9e859-d05e-4d14-9c98-c6a20e0433d6/AIAvailability2_mid.mp4",
+    "Description": "Vlad Joanovic, Principal Program Manager at Microsoft, shows you how to monitor the availability of your web sites and services using Application Insights in the Azure Preview Portal. "
+  },
+  {
+    "VideoId": "e9a3c9ac-3442-4408-923e-a37e0137ee17",
+    "DataApi": "/Entries(guid'e9a3c9ac-3442-4408-923e-a37e0137ee17')/",
+    "VideoPageLink": "/Series/Application-Insights-on-Azure-Preview-Portal/Monitoring-Performance-with-Application-Insights",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1fc3/eeca96f8-ce80-4ffb-999f-ccd8f1831fc3/AIPerformance_960.jpg",
+    "ShowName": "Application Insights on Azure Preview Portal",
+    "VideoLength": "00:02:33",
+    "VideoTitle": "Monitoring Performance with Application Insights",
+    "Author": "Darshan Desai",
+    "UtcDateTimePublished": "2014-08-05T19:39:18.7756049Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1fc3/eeca96f8-ce80-4ffb-999f-ccd8f1831fc3/AIPerformance_mid.mp4",
+    "Description": "Vlad Joanovic, Principal Program Manager at Microsoft, shows you how to monitor the performance of your web sites and services using Application Insights in the Azure Preview Portal. "
+  },
+  {
+    "VideoId": "74a0eceb-28f7-49a3-9183-a37e01384ab3",
+    "DataApi": "/Entries(guid'74a0eceb-28f7-49a3-9183-a37e01384ab3')/",
+    "VideoPageLink": "/Series/Application-Insights-on-Azure-Preview-Portal/Tracking-Usage-with-Application-Insights",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a788/3865b958-f8d1-4d17-a52a-d4e17231a788/AIUsage_960.jpg",
+    "ShowName": "Application Insights on Azure Preview Portal",
+    "VideoLength": "00:03:04",
+    "VideoTitle": "Tracking Usage with Application Insights",
+    "Author": "Darshan Desai",
+    "UtcDateTimePublished": "2014-08-05T19:39:40.5888666Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a788/3865b958-f8d1-4d17-a52a-d4e17231a788/AIUsage_mid.mp4",
+    "Description": "Bret Grinslade, Principal Program Manager at Microsoft, shows you how to use Application Insights to track the usage and measure success of your application. "
+  }
+]

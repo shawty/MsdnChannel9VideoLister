@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "8b0685ac-5f55-43cc-8764-9efe00713a32",
+    "DataApi": "/Entries(guid'8b0685ac-5f55-43cc-8764-9efe00713a32')/",
+    "VideoPageLink": "/Series/KinectSDKQuickstarts/Getting-Started",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a32/8b0685ac-5f55-43cc-8764-9efe00713a32/SettingUpDevEnvironment_512_ch9.jpg",
+    "ShowName": "Kinect for Windows SDK Beta 2 Quickstarts",
+    "VideoLength": "00:06:50",
+    "VideoTitle": "Setting Up Your Development Environment (Beta 2 SDK)",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2011-06-16T17:11:58Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a32/8b0685ac-5f55-43cc-8764-9efe00713a32/SettingUpDevEnvironment_low_ch9.mp4",
+    "Description": "Update: Kinect for Window SDK v1 Quickstart Series now Available (Feb 1st)Please use the newly updated Kinect for Windows SDK Quickstart series. The content below will only work with the Beta 2 versio"
+  },
+  {
+    "VideoId": "11c93a95-1599-4c55-b7f0-9efd005e0c65",
+    "DataApi": "/Entries(guid'11c93a95-1599-4c55-b7f0-9efd005e0c65')/",
+    "VideoPageLink": "/Series/KinectSDKQuickstarts/Skeletal-Tracking-Fundamentals",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0c65/11c93a95-1599-4c55-b7f0-9efd005e0c65/SkeletalTrackingFundamentals_512_ch9.jpg",
+    "ShowName": "Kinect for Windows SDK Beta 2 Quickstarts",
+    "VideoLength": "00:12:16",
+    "VideoTitle": "Skeletal Tracking Fundamentals (Beta 2 SDK)",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2011-06-16T17:13:16Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0c65/11c93a95-1599-4c55-b7f0-9efd005e0c65/SkeletalTrackingFundamentals_low_ch9.mp4",
+    "Description": "Update: Kinect for Window SDK v1 Quickstart Series now Available (Feb 1st)Please use the newly updated Kinect for Windows SDK Quickstart series. The content below will only work with the Beta 2 versio"
+  },
+  {
+    "VideoId": "4ef78782-0c27-406f-89d8-9efc0065168e",
+    "DataApi": "/Entries(guid'4ef78782-0c27-406f-89d8-9efc0065168e')/",
+    "VideoPageLink": "/Series/KinectSDKQuickstarts/Camera-Fundamentals",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/168e/4ef78782-0c27-406f-89d8-9efc0065168e/CameraFundamentals_512_ch9.jpg",
+    "ShowName": "Kinect for Windows SDK Beta 2 Quickstarts",
+    "VideoLength": "00:15:36",
+    "VideoTitle": "Camera Fundamentals (Beta 2 SDK)",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2011-06-16T17:14:38Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/168e/4ef78782-0c27-406f-89d8-9efc0065168e/CameraFundamentals_low_ch9.mp4",
+    "Description": "Update: Kinect for Window SDK v1 Quickstart Series now Available (Feb 1st)Please use the newly updated Kinect for Windows SDK Quickstart series. The content below will only work with the Beta 2 versio"
+  },
+  {
+    "VideoId": "6e71e1a9-a948-44b0-908f-9efd005862a9",
+    "DataApi": "/Entries(guid'6e71e1a9-a948-44b0-908f-9efd005862a9')/",
+    "VideoPageLink": "/Series/KinectSDKQuickstarts/Working-with-Depth-Data",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/62a9/6e71e1a9-a948-44b0-908f-9efd005862a9/KinectDepth1_512_ch9.jpg",
+    "ShowName": "Kinect for Windows SDK Beta 2 Quickstarts",
+    "VideoLength": "00:16:57",
+    "VideoTitle": "Working with Depth Data (Beta 2 SDK)",
+    "Author": "Dan Fernandez",
+    "UtcDateTimePublished": "2011-06-16T17:15:36Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/62a9/6e71e1a9-a948-44b0-908f-9efd005862a9/KinectDepth1_low_ch9.mp4",
+    "Description": "Update: Kinect for Window SDK v1 Quickstart Series now Available (Feb 1st)Please use the newly updated Kinect for Windows SDK Quickstart series. The content below will only work with the Beta 2 versio"
+  },
+  {
+    "VideoId": "8f11529e-2170-4d75-a6da-9f0000573858",
+    "DataApi": "/Entries(guid'8f11529e-2170-4d75-a6da-9f0000573858')/",
+    "VideoPageLink": "/Series/KinectSDKQuickstarts/Audio-Fundamentals",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3858/8f11529e-2170-4d75-a6da-9f0000573858/AudioFundamentals_512_ch9.jpg",
+    "ShowName": "Kinect for Windows SDK Beta 2 Quickstarts",
+    "VideoLength": "00:11:48",
+    "VideoTitle": "Audio Fundamentals (Beta 2 SDK)",
+    "Author": "Clint Rutkas",
+    "UtcDateTimePublished": "2011-06-16T17:15:43Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3858/8f11529e-2170-4d75-a6da-9f0000573858/AudioFundamentals_low_ch9.mp4",
+    "Description": "Update: Kinect for Window SDK v1 Quickstart Series now Available (Feb 1st)Please use the newly updated Kinect for Windows SDK Quickstart series. The content below will only work with the Beta 2 versio"
+  }
+]

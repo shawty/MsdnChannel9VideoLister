@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "96ced80b-bb91-4ea3-a31a-a3fe00e00b67",
+    "DataApi": "/Entries(guid'96ced80b-bb91-4ea3-a31a-a3fe00e00b67')/",
+    "VideoPageLink": "/Series/UK-Education/StorSimple-UK-Education",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2de9/fcb972d8-b580-4425-81e6-d82f00e92de9/StorSimpleUKDec14_960.jpg",
+    "ShowName": "UK Education",
+    "VideoLength": "00:38:56",
+    "VideoTitle": "StorSimple UK Education",
+    "Author": "MarkSMcManus",
+    "UtcDateTimePublished": "2015-02-02T19:22:34.9812338Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2de9/fcb972d8-b580-4425-81e6-d82f00e92de9/StorSimpleUKDec14_mid.mp4",
+    "Description": "Cloud Integrated Storage  - Webinar This webinar was run in December 2014 for UK Education Customers. Cloud Integrated Storage provides on premise SAN like storage for fast access to local store. It a"
+  }
+]

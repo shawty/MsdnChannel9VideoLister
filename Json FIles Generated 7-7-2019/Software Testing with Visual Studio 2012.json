@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "7afd668a-3dc7-4944-91f8-a1dc01765deb",
+    "DataApi": "/Entries(guid'7afd668a-3dc7-4944-91f8-a1dc01765deb')/",
+    "VideoPageLink": "/Series/Software-Testing-with-Visual-Studio-2012/Software-Testing-with-Visual-Studio-2012-02-Create-and-Configure-Test-Plans-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0ee1/1cb40628-f625-4432-83b5-c2330d8a0ee1/ALM497M02_960.jpg",
+    "ShowName": "Software Testing with Visual Studio 2012",
+    "VideoLength": "01:00:35",
+    "VideoTitle": "Software Testing with Visual Studio 2012: (02) Create and Configure Test Plans, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T17:37:03.8366767Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0ee1/1cb40628-f625-4432-83b5-c2330d8a0ee1/ALM497M02_mid.mp4",
+    "Description": "In part two you'll gain an insight to creating test suites and how to configure them. [04:23] - Define configurations [21:49] - Create test suites [51:43] - Configure test suites Full course outline: "
+  },
+  {
+    "VideoId": "5a63a2fa-6cee-4ec3-b940-a1dc017695a2",
+    "DataApi": "/Entries(guid'5a63a2fa-6cee-4ec3-b940-a1dc017695a2')/",
+    "VideoPageLink": "/Series/Software-Testing-with-Visual-Studio-2012/Software-Testing-with-Visual-Studio-2012-03a-Manage-Test-Cases-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0892/cce45ccb-a5af-415e-8138-609f156a0892/ALM497M03a_960.jpg",
+    "ShowName": "Software Testing with Visual Studio 2012",
+    "VideoLength": "00:29:55",
+    "VideoTitle": "Software Testing with Visual Studio 2012: (03a) Manage Test Cases, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T17:38:04.6212519Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0892/cce45ccb-a5af-415e-8138-609f156a0892/ALM497M03a_mid.mp4",
+    "Description": "This session is broken down into two parts. Part one will cover creating test cases and steps. [01:09] - Create test cases [19:06] - Create test steps Full course outline: Mod 01: Create and Configure"
+  },
+  {
+    "VideoId": "a05738b5-4e94-4fad-b853-a1dc0176ccc2",
+    "DataApi": "/Entries(guid'a05738b5-4e94-4fad-b853-a1dc0176ccc2')/",
+    "VideoPageLink": "/Series/Software-Testing-with-Visual-Studio-2012/Software-Testing-with-Visual-Studio-2012-03b-Manage-Test-Cases-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a32c/3afd06d4-4e4e-42ca-8a0d-befa346da32c/ALM497M03b_960.jpg",
+    "ShowName": "Software Testing with Visual Studio 2012",
+    "VideoLength": "00:47:17",
+    "VideoTitle": "Software Testing with Visual Studio 2012: (03b) Manage Test Cases, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T17:38:41.9008481Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a32c/3afd06d4-4e4e-42ca-8a0d-befa346da32c/ALM497M03b_mid.mp4",
+    "Description": "Part 2 of this session provides an overview on defining parameters, managing steps and requirements. [01:12] - Define parameters [28:07] - Manage shared steps [46:03] - Manage requirements Full course"
+  },
+  {
+    "VideoId": "85077a85-c0ad-44da-950b-a1dc0176fea0",
+    "DataApi": "/Entries(guid'85077a85-c0ad-44da-950b-a1dc0176fea0')/",
+    "VideoPageLink": "/Series/Software-Testing-with-Visual-Studio-2012/Software-Testing-with-Visual-Studio-2012-04a-Manage-Test-Execution-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0a1/d8ced2d0-42dc-4d75-8adb-befec99eb0a1/ALM497M04a_960.jpg",
+    "ShowName": "Software Testing with Visual Studio 2012",
+    "VideoLength": "00:32:55",
+    "VideoTitle": "Software Testing with Visual Studio 2012: (04a) Manage Test Execution, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T17:39:01.9741515Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0a1/d8ced2d0-42dc-4d75-8adb-befec99eb0a1/ALM497M04a_mid.mp4",
+    "Description": "This module is broken down into two parts. Part one provides an overview running tests and how to perform exploratory testing. [01:54] - Run tests [14:31] - Perform exploratory testing Full course out"
+  },
+  {
+    "VideoId": "11149343-b0d2-46ff-a678-a1dc01773fd9",
+    "DataApi": "/Entries(guid'11149343-b0d2-46ff-a678-a1dc01773fd9')/",
+    "VideoPageLink": "/Series/Software-Testing-with-Visual-Studio-2012/Software-Testing-with-Visual-Studio-2012-04b-Manage-Test-Execution-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e741/4a4198cd-7c42-48cb-b2c7-cd7bc967e741/ALM497M04b_960.jpg",
+    "ShowName": "Software Testing with Visual Studio 2012",
+    "VideoLength": "01:19:03",
+    "VideoTitle": "Software Testing with Visual Studio 2012: (04b) Manage Test Execution, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T17:39:46.875346Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e741/4a4198cd-7c42-48cb-b2c7-cd7bc967e741/ALM497M04b_mid.mp4",
+    "Description": "In part two of this module you'll get the details on how to manage bugs, use lab center, analyze recommended tests, perform analysis and manage work items. [01:25] - Manage bugs [13:26] - Use Lab Cent"
+  }
+]

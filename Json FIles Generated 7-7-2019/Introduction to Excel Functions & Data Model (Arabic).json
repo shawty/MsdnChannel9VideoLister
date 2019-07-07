@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "983cc023-44bf-43ed-9c3d-a6ce00bf0dbc",
+    "DataApi": "/Entries(guid'983cc023-44bf-43ed-9c3d-a6ce00bf0dbc')/",
+    "VideoPageLink": "/Series/Introduction-to-Excel-Functions--Data-Model-Arabic/Excel-Built-in-Functions-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f1d/938efde7-fbfb-4516-bb05-90cc862a9f1d/ExcelBuiltinFunctions_960.jpg",
+    "ShowName": "Introduction to Excel Functions & Data Model (Arabic)",
+    "VideoLength": "00:25:39",
+    "VideoTitle": "Excel Built-in Functions (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-12-13T07:55:03.0089639Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f1d/938efde7-fbfb-4516-bb05-90cc862a9f1d/ExcelBuiltinFunctions_mid.mp4",
+    "Description": "Walk through Excel functions and practice them. "
+  }
+]

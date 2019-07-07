@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "a2263a7a-2cbd-4348-957b-a2c50172672a",
+    "DataApi": "/Entries(guid'a2263a7a-2cbd-4348-957b-a2c50172672a')/",
+    "VideoPageLink": "/Series/Windows-To-Go/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e443/3239dd0d-d064-40db-bf36-8f5abdc0e443/WindowsToGoM02_960.jpg",
+    "ShowName": "Windows To Go",
+    "VideoLength": "00:53:45",
+    "VideoTitle": "Windows To Go: (02) Deploying and Managing Windows To Go",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:17:11.3232774Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e443/3239dd0d-d064-40db-bf36-8f5abdc0e443/WindowsToGoM02_mid.mp4",
+    "Description": "In this module you will see an overview of how users self-provisioning Windows To Go using the Creator tool. Also, you'll see scenarios that include IT provisioning for central deployment and rich use"
+  }
+]

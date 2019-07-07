@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "c410cf9f-15aa-4615-bd1f-a2a7013404fa",
+    "DataApi": "/Entries(guid'c410cf9f-15aa-4615-bd1f-a2a7013404fa')/",
+    "VideoPageLink": "/Series/Windows-XP-to-Windows-8-1-Migration/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b142/c328cf4c-24fb-4831-8f21-fe270913b142/MVAWinXpWin8Mod2_960.jpg",
+    "ShowName": "Windows XP to Windows 8.1 Migration",
+    "VideoLength": "00:34:02",
+    "VideoTitle": "(Module 2) Migrating User Files and Settings",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-01-03T22:31:59Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b142/c328cf4c-24fb-4831-8f21-fe270913b142/MVAWinXpWin8Mod2_mid.mp4",
+    "Description": "This course will explain the purpose and requirements of the User State Migration Tool (USMT) and give you a greater understanding of how the different migration tools work. This video is part of the "
+  },
+  {
+    "VideoId": "62466ebc-0fb3-430b-b667-a2a70134abe2",
+    "DataApi": "/Entries(guid'62466ebc-0fb3-430b-b667-a2a70134abe2')/",
+    "VideoPageLink": "/Series/Windows-XP-to-Windows-8-1-Migration/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/57ee/e9e617eb-4686-4c41-b50e-2639b0e257ee/MVAWinXpWin8Mod3_960.jpg",
+    "ShowName": "Windows XP to Windows 8.1 Migration",
+    "VideoLength": "00:17:48",
+    "VideoTitle": "(Module 3) Hard Link Migration of User Files and Settings",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-01-03T22:32:34Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/57ee/e9e617eb-4686-4c41-b50e-2639b0e257ee/MVAWinXpWin8Mod3_mid.mp4",
+    "Description": "This module expands on the information regarding USMT hard link migration provided in module 2. You will leave this course with a greater understanding of how hard link migration works. This video is "
+  },
+  {
+    "VideoId": "a6622548-9e11-4587-b5c9-a2a70135988b",
+    "DataApi": "/Entries(guid'a6622548-9e11-4587-b5c9-a2a70135988b')/",
+    "VideoPageLink": "/Series/Windows-XP-to-Windows-8-1-Migration/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ba5a/9c6173e5-4913-4ef0-abe9-a6a1f928ba5a/MVAWinXpWin8Mod4_960.jpg",
+    "ShowName": "Windows XP to Windows 8.1 Migration",
+    "VideoLength": "00:16:08",
+    "VideoTitle": "(Module 4) Installing Windows 8.1 on a Windows XP Machine",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-01-03T22:33:19Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ba5a/9c6173e5-4913-4ef0-abe9-a6a1f928ba5a/MVAWinXpWin8Mod4_mid.mp4",
+    "Description": "This course will walk through how to perform a Windows 8.1 installation on a Windows XP machine, the different methods of installation, and review the different files and folders created in the proces"
+  },
+  {
+    "VideoId": "1bd22b0a-e333-4d57-ab6e-a2a70136096e",
+    "DataApi": "/Entries(guid'1bd22b0a-e333-4d57-ab6e-a2a70136096e')/",
+    "VideoPageLink": "/Series/Windows-XP-to-Windows-8-1-Migration/Module-5-Using-the-Microsoft-Deployment-Toolkit",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/edff/15a8bf0c-9497-421c-857a-fec30fc1edff/Mod5MDT_960.jpg",
+    "ShowName": "Windows XP to Windows 8.1 Migration",
+    "VideoLength": "00:26:47",
+    "VideoTitle": "(Module 5) Using the Microsoft Deployment Toolkit",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-01-03T22:34:23Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/edff/15a8bf0c-9497-421c-857a-fec30fc1edff/Mod5MDT_mid.mp4",
+    "Description": "This course will describe the components in the 2013 Microsoft Deployment Toolkit, walk through how to prepare the toolkit for deployment, and how to create a deployment task sequence. This video is p"
+  },
+  {
+    "VideoId": "32dc9f82-4b12-4ba4-8e29-a2a701366446",
+    "DataApi": "/Entries(guid'32dc9f82-4b12-4ba4-8e29-a2a701366446')/",
+    "VideoPageLink": "/Series/Windows-XP-to-Windows-8-1-Migration/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c84/e5a08edb-b96d-4982-b195-592d32ed9c84/MVAWinXpWin8Mod6_960.jpg",
+    "ShowName": "Windows XP to Windows 8.1 Migration",
+    "VideoLength": "00:23:48",
+    "VideoTitle": "(Module 6) Deployment Using System Center Configuration Manager",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-01-03T22:35:40Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c84/e5a08edb-b96d-4982-b195-592d32ed9c84/MVAWinXpWin8Mod6_mid.mp4",
+    "Description": "This course will describe the components in the 2013 Microsoft Deployment Toolkit, walk through how to prepare the toolkit for deployment, and how to create a deployment task sequence. This video is p"
+  },
+  {
+    "VideoId": "ac1aefb9-fcf2-4eef-810c-a2a70136da3c",
+    "DataApi": "/Entries(guid'ac1aefb9-fcf2-4eef-810c-a2a70136da3c')/",
+    "VideoPageLink": "/Series/Windows-XP-to-Windows-8-1-Migration/Mod7",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e117/928d4de9-626d-439a-820b-a28a1f5ae117/MVAWinXpWin8Mod7_960.jpg",
+    "ShowName": "Windows XP to Windows 8.1 Migration",
+    "VideoLength": "00:18:39",
+    "VideoTitle": "(Module 7) Creating a Windows 8.1 Image",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-01-03T22:36:23Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e117/928d4de9-626d-439a-820b-a28a1f5ae117/MVAWinXpWin8Mod7_mid.mp4",
+    "Description": "This module describes the methods of creating a Windows 8.1 image and presents various tools available for image manipulation. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a f"
+  }
+]

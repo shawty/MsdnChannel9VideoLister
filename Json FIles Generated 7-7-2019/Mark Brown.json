@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "bb6f822a-eb16-4fc3-9736-9deb0013fac0",
+    "DataApi": "/Entries(guid'bb6f822a-eb16-4fc3-9736-9deb0013fac0')/",
+    "VideoPageLink": "/Blogs/Mark+Brown/Cannon-PI-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/3/9/7/8/6/4/TitleSequence_large_ch9.png",
+    "ShowName": "Mark Brown",
+    "VideoLength": "00:01:13",
+    "VideoTitle": "Cannon PI - Introduction",
+    "Author": "Mark Brown",
+    "UtcDateTimePublished": "2009-05-15T06:07:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/3/9/7/8/6/4/TitleSequence_ch9.mp4",
+    "Description": "\nThere comes a time only maybe once in our lives where a true hero for the web developer emerges. They are daring problem solvers but may be a little rough around the edges, drive fast cars from the "
+  },
+  {
+    "VideoId": "61c29647-f7f8-4494-b10e-9deb00140014",
+    "DataApi": "/Entries(guid'61c29647-f7f8-4494-b10e-9deb00140014')/",
+    "VideoPageLink": "/Blogs/Mark+Brown/Multi-Channel-Virtual-Earth-Viewer",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/4/5/6/4/3/4/PDC180VEViewer_large_ch9.jpg",
+    "ShowName": "Mark Brown",
+    "VideoLength": "00:02:56",
+    "VideoTitle": "Multi-Channel Virtual Earth Viewer",
+    "Author": "Mark Brown",
+    "UtcDateTimePublished": "2008-10-28T03:53:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/4/5/6/4/3/4/PDC180VEViewer_ch9.mp4",
+    "Description": "At the PDC Showoff tonight the ACE Lab at Carlton University in Canada led by Jon Wade, submitted a video that showed an incredible multi-channel version of the Virtual Earth control that provides\n a"
+  },
+  {
+    "VideoId": "a52240ff-349a-486f-804c-9dec001620c1",
+    "DataApi": "/Entries(guid'a52240ff-349a-486f-804c-9dec001620c1')/",
+    "VideoPageLink": "/Blogs/Mark+Brown/Behind-The-Maps-Flying-the-UltraCam",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/previewImages/320/51f04788-9232-409d-a215-6a19d2c86e77.jpg",
+    "ShowName": "Mark Brown",
+    "VideoLength": "00:52:16",
+    "VideoTitle": "Behind The Maps - Flying the UltraCam",
+    "Author": "Mark Brown",
+    "UtcDateTimePublished": "2008-08-07T16:51:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/8/4/0/0/2/4/BTM02_ch9.mp4",
+    "Description": "In this second episode of Behind The Maps we go to Philadelphia to see the UltraCam in action. One of our partners,\nKeystone Aerial Surveys, shows us the next step in the process where the UltraCam i"
+  },
+  {
+    "VideoId": "51ae303c-b146-404a-a133-9dec00162843",
+    "DataApi": "/Entries(guid'51ae303c-b146-404a-a133-9dec00162843')/",
+    "VideoPageLink": "/Blogs/Mark+Brown/Virtual-Earth-ASPNET-Control-CTP-Release",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/previewImages/320/3a3749e5-55b9-46e8-9466-81b16b548e61.jpg",
+    "ShowName": "Mark Brown",
+    "VideoLength": "00:10:21",
+    "VideoTitle": "Virtual Earth ASP.NET Control - CTP Release",
+    "Author": "Mark Brown",
+    "UtcDateTimePublished": "2008-07-28T18:28:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/1/2/7/7/1/4/veaspnetctp_ch9.mp4",
+    "Description": "Finally at long last we have released the Virtual Earth ASP.NET control (CTP Release). I spent a few minutes with Angus Logan from the Windows Live Platform Team to show off the control and give a qui"
+  },
+  {
+    "VideoId": "0573fdfd-e74f-4973-8658-9dec00163067",
+    "DataApi": "/Entries(guid'0573fdfd-e74f-4973-8658-9dec00163067')/",
+    "VideoPageLink": "/Blogs/Mark+Brown/Behind-The-Maps-UltraCam",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/previewImages/320/6961e687-0974-47dc-bf9a-7be74b42fac0.jpg",
+    "ShowName": "Mark Brown",
+    "VideoLength": "00:41:28",
+    "VideoTitle": "Behind The Maps - UltraCam",
+    "Author": "Mark Brown",
+    "UtcDateTimePublished": "2008-07-05T23:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/4/6/3/1/4/BTM01_ch9.mp4",
+    "Description": "Welcome to the inaugural episode of a new video series called, &quot;Behind The Maps&quot;. In this series we'll explore all of the technology that makes up\nVirtual Earth and meet the scientists and "
+  }
+]

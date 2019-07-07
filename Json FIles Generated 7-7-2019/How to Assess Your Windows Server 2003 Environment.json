@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "e646392e-827a-49dd-b48d-a3c50177bb4f",
+    "DataApi": "/Entries(guid'e646392e-827a-49dd-b48d-a3c50177bb4f')/",
+    "VideoPageLink": "/Series/How-to-Assess-Your-Windows-Server-2003-Environment/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c2b7/83b44d96-4ee5-46da-b2ca-50857a13c2b7/Mod2AssessWS2003_960.jpg",
+    "ShowName": "How to Assess Your Windows Server 2003 Environment",
+    "VideoLength": "00:17:07",
+    "VideoTitle": "(Module 2) Assessing your Windows Server 2003 Environment",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-16T01:31:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c2b7/83b44d96-4ee5-46da-b2ca-50857a13c2b7/Mod2AssessWS2003_mid.mp4",
+    "Description": "This module reviews what tools are available to run your assessment. You'll learn how to interpret scan results using prepared dashboards, with close attention to system health and application cloud r"
+  },
+  {
+    "VideoId": "3fb71bac-7e0d-44fa-8215-a3c5017815c0",
+    "DataApi": "/Entries(guid'3fb71bac-7e0d-44fa-8215-a3c5017815c0')/",
+    "VideoPageLink": "/Series/How-to-Assess-Your-Windows-Server-2003-Environment/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/65e0/78dd1f06-5987-45b5-87ba-cab48ba465e0/Mod3NextSteps_960.jpg",
+    "ShowName": "How to Assess Your Windows Server 2003 Environment",
+    "VideoLength": "00:07:28",
+    "VideoTitle": "(Module 3) Next Steps â€“ Planning Your Migration ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-10-16T01:31:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/65e0/78dd1f06-5987-45b5-87ba-cab48ba465e0/Mod3NextSteps_mid.mp4",
+    "Description": "Now that you have your assessment data, what are the important takeaways and next steps?This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learn"
+  }
+]

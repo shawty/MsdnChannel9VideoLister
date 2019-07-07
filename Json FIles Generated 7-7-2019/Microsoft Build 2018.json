@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "4fa01f7e-63b1-47cb-a028-a8c601631950",
+    "DataApi": "/Entries(guid'4fa01f7e-63b1-47cb-a028-a8c601631950')/",
+    "VideoPageLink": "/Shows/Microsoft-Build-2018/Microsoft-Build-Seattle-Sights",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/4fa01f7e-63b1-47cb-a028-a8c601631950_960.jpg",
+    "ShowName": "Microsoft Build 2018",
+    "VideoLength": "00:03:39",
+    "VideoTitle": "Microsoft Build 2018: Seattle Sights",
+    "Author": "Golnaz",
+    "UtcDateTimePublished": "2018-04-27T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/389a/8045145c-3b6b-499b-8000-3246d48c389a/02ThingsToSeeChristinaJamesFINAL_mid.mp4",
+    "Description": "Make sure to see all the great sights around Seattle when you're here for Microsoft Build. Let James and Christina take you around to some of their favorites. Pike Place Market85 Pike Street #500, Sea"
+  },
+  {
+    "VideoId": "cb2fc751-234c-4d94-845d-a8c501842cef",
+    "DataApi": "/Entries(guid'cb2fc751-234c-4d94-845d-a8c501842cef')/",
+    "VideoPageLink": "/Shows/Microsoft-Build-2018/Microsoft-Build-Seattle-Eats",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/cb2fc751-234c-4d94-845d-a8c501842cef_960.jpg",
+    "ShowName": "Microsoft Build 2018",
+    "VideoLength": "00:02:22",
+    "VideoTitle": "Microsoft Build 2018: Seattle Eats",
+    "Author": "Golnaz",
+    "UtcDateTimePublished": "2018-04-20T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b39a/a28b5b78-9317-49f9-a4be-fbb93649b39a/01ThingsToEatChristinaBryanFINAL_mid.mp4",
+    "Description": "Microsoft Build is going to be incredible, and your brain will have a lot of information to digest--let's make sure your stomach does some of the work too. Christina and Bryan take you around the beau"
+  },
+  {
+    "VideoId": "bd0b8d7c-5515-409d-9098-a8bd016267b9",
+    "DataApi": "/Entries(guid'bd0b8d7c-5515-409d-9098-a8bd016267b9')/",
+    "VideoPageLink": "/Shows/Microsoft-Build-2018/FiveThings-about-Microsoft-Build-2018",
+    "VideoPageThumb": "https://rev9.blob.core.windows.net/thumbnail/bd0b8d7c-5515-409d-9098-a8bd016267b9_960.jpg",
+    "ShowName": "Microsoft Build 2018",
+    "VideoLength": "00:00:38",
+    "VideoTitle": "#FiveThings about Microsoft Build 2018",
+    "Author": "burkeholland",
+    "UtcDateTimePublished": "2018-04-13T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6d6a/6a26ed7a-c70c-4674-b511-cdff48df6d6a/FiveThingsBuild2018promo_mid.mp4",
+    "Description": "Here are #FiveThings about Microsoft Build 2018 from Burke Holland! We will see you at Microsoft Build 2018. Register now! "
+  }
+]

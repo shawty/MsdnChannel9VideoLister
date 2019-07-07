@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "132d4d5e-1cf5-48b6-a9ff-a4a50133de09",
+    "DataApi": "/Entries(guid'132d4d5e-1cf5-48b6-a9ff-a4a50133de09')/",
+    "VideoPageLink": "/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e083/cffaa317-3b41-4015-9b52-69dff2a1e083/Mod2_960.jpg",
+    "ShowName": "System Center Configuration Manager: Deploying Software and Operating Systems",
+    "VideoLength": "00:41:28",
+    "VideoTitle": "(Module 2) Application Management",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-05-27T20:02:05Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e083/cffaa317-3b41-4015-9b52-69dff2a1e083/Mod2_mid.mp4",
+    "Description": "Building on Module 1 and the Infrastructure deployments, this module will build the process manage, deploy and update your application repositories. This video is part of the Microsoft Virtual Academy"
+  },
+  {
+    "VideoId": "2e827f93-a0f5-4e9c-9e98-a4a50134364a",
+    "DataApi": "/Entries(guid'2e827f93-a0f5-4e9c-9e98-a4a50134364a')/",
+    "VideoPageLink": "/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3cd1/f3d815d2-abcf-4b4b-94ff-7c4cd3563cd1/Mod3_960.jpg",
+    "ShowName": "System Center Configuration Manager: Deploying Software and Operating Systems",
+    "VideoLength": "00:18:44",
+    "VideoTitle": "(Module 3) Software Updates",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-05-27T20:03:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3cd1/f3d815d2-abcf-4b4b-94ff-7c4cd3563cd1/Mod3_mid.mp4",
+    "Description": "Ensuring you have healthy clients within your enterprise, Software Updates within Configuration Manager allows Administrators to have a full view on managed clients and their state. This video is part"
+  },
+  {
+    "VideoId": "5de54ec8-d6c8-461a-ab78-a4a50134a2c7",
+    "DataApi": "/Entries(guid'5de54ec8-d6c8-461a-ab78-a4a50134a2c7')/",
+    "VideoPageLink": "/Series/System-Center-Configuration-Manager-Deploying-Software-and-Operating-Systems/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f146/95f61aa9-2775-4668-9938-c9730b8ef146/Mod4_960.jpg",
+    "ShowName": "System Center Configuration Manager: Deploying Software and Operating Systems",
+    "VideoLength": "00:40:32",
+    "VideoTitle": "(Module 4) Operating System Deployment",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-05-27T20:04:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f146/95f61aa9-2775-4668-9938-c9730b8ef146/Mod4_mid.mp4",
+    "Description": "Closing off this course will be Module 4 focussing on OSD, and utilising all the components we have covered in the previous three modules. This video is part of the Microsoft Virtual Academy (MVA). Th"
+  }
+]

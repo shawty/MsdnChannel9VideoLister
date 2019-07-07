@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "484c4f7c-c831-44df-9e19-a3d90157b10c",
+    "DataApi": "/Entries(guid'484c4f7c-c831-44df-9e19-a3d90157b10c')/",
+    "VideoPageLink": "/Series/Last-Stop-Getting-Your-Windows-App-to-Market/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3b14/251daa89-4b19-4aeb-b120-ba6127753b14/LastStopGettingWinAppToMarketM02_960.jpg",
+    "ShowName": "Last Stop: Getting Your Windows App to Market",
+    "VideoLength": "00:43:04",
+    "VideoTitle": "Last Stop: Getting Your Windows App to Market: (02) Common Certification Blockers 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-05T03:09:52.993149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3b14/251daa89-4b19-4aeb-b120-ba6127753b14/LastStopGettingWinAppToMarketM02_mid.mp4",
+    "Description": "Hear a rapid-fire discussion on 10 different Windows Store app topics, ranging from implementing search, to roaming settings, to Live Tiles. [01:08] - Implementing Search[16:54] - Implementing Share[2"
+  }
+]

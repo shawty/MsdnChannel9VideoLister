@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "de6a12ab-9881-42fc-8387-a4650182154b",
+    "DataApi": "/Entries(guid'de6a12ab-9881-42fc-8387-a4650182154b')/",
+    "VideoPageLink": "/Series/Developer-Productivity-Whats-New-in-C-6/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9c99/8d2c37c6-ebca-4934-8aaf-96728e289c99/726DevProdWhatsNewCsharp6M02_960.jpg",
+    "ShowName": "Developer Productivity: What's New in C# 6",
+    "VideoLength": "00:44:14",
+    "VideoTitle": "Developer Productivity: What's New in C# 6: (02) Data Transfer Object Support",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T17:16:22.0743115Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9c99/8d2c37c6-ebca-4934-8aaf-96728e289c99/726DevProdWhatsNewCsharp6M02_mid.mp4",
+    "Description": "Learn about Readonly Properties and Dictionary Initializers, features in C# which make it easier to create Data Transfer Object types concisely and correctly, as we do so with the purpose of transferr"
+  },
+  {
+    "VideoId": "8c756ee3-3c82-4958-b83b-a46501823e0c",
+    "DataApi": "/Entries(guid'8c756ee3-3c82-4958-b83b-a46501823e0c')/",
+    "VideoPageLink": "/Series/Developer-Productivity-Whats-New-in-C-6/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5bce/ff6a8e34-8cfb-4b26-be56-21599d505bce/726DevProdWhatsNewCsharp6M03_960.jpg",
+    "ShowName": "Developer Productivity: What's New in C# 6",
+    "VideoLength": "00:59:06",
+    "VideoTitle": "Developer Productivity: What's New in C# 6: (03) String Handling",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T17:16:33.3686318Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5bce/ff6a8e34-8cfb-4b26-be56-21599d505bce/726DevProdWhatsNewCsharp6M03_mid.mp4",
+    "Description": "Learn about â€‹Nameof and String interpolation features, which make it easier to work with mixed symbols and strings in modern programs. [04:30] - NameOf[20:05] - String interpolation"
+  },
+  {
+    "VideoId": "c0eee49e-00dd-49af-a322-a465018271d3",
+    "DataApi": "/Entries(guid'c0eee49e-00dd-49af-a322-a465018271d3')/",
+    "VideoPageLink": "/Series/Developer-Productivity-Whats-New-in-C-6/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c9e1/a6444384-99cc-4355-92e5-3fbb4463c9e1/726DevProdWhatsNewCsharp6M04_960.jpg",
+    "ShowName": "Developer Productivity: What's New in C# 6",
+    "VideoLength": "00:48:01",
+    "VideoTitle": "Developer Productivity: What's New in C# 6: (04) Exceptions and Error Handling",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T17:16:44.1432586Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c9e1/a6444384-99cc-4355-92e5-3fbb4463c9e1/726DevProdWhatsNewCsharp6M04_mid.mp4",
+    "Description": "Get the details on Exception Filters and on Await in Catch and Finally features, which give us more robust idioms when we encounter problems. [08:53] - Exception Filters[30:37] - Await in Catch and Fi"
+  },
+  {
+    "VideoId": "9ac0d4a0-c449-4394-9978-a4650182a3bd",
+    "DataApi": "/Entries(guid'9ac0d4a0-c449-4394-9978-a4650182a3bd')/",
+    "VideoPageLink": "/Series/Developer-Productivity-Whats-New-in-C-6/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3fd7/0f6756a2-d49c-408b-acd4-3e7f733b3fd7/726DevProdWhatsNewCsharp6M05_960.jpg",
+    "ShowName": "Developer Productivity: What's New in C# 6",
+    "VideoLength": "00:51:29",
+    "VideoTitle": "Developer Productivity: What's New in C# 6: (05) Adopting C# 6",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T17:16:55.3817355Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3fd7/0f6756a2-d49c-408b-acd4-3e7f733b3fd7/726DevProdWhatsNewCsharp6M05_mid.mp4",
+    "Description": "Find out how to put the features into practice, and see some of the idioms that make null conditionals amazingly useful. Explore how features interrelate with each other, and look at some improvements"
+  }
+]

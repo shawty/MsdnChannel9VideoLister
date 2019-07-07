@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "1edc86a3-4094-4db7-901b-9deb0170dd02",
+    "DataApi": "/Entries(guid'1edc86a3-4094-4db7-901b-9deb0170dd02')/",
+    "VideoPageLink": "/Shows/TCSWeekly/ep005",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/5/3/7/5/4/TCSWeekly005_large_ch9.jpg",
+    "ShowName": "TCSWeekly",
+    "VideoLength": "00:04:38",
+    "VideoTitle": "TCSWeekly 005 - a UX Pattern Explorer and more Designer-ready content",
+    "Author": "Adam Kinney",
+    "UtcDateTimePublished": "2009-02-21T17:34:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/5/3/7/5/4/TCSWeekly5_ch9.mp4",
+    "Description": "This turned out to be a pretty design-centric episode.  Quince the new UX Design Pattern Explorer launched, Illustrator to XAML plug-in is ready to be tested, Alex Knight a XAML Designer is featured a"
+  },
+  {
+    "VideoId": "a1a0ded0-3eb9-4961-ac10-9deb0170e285",
+    "DataApi": "/Entries(guid'a1a0ded0-3eb9-4961-ac10-9deb0170e285')/",
+    "VideoPageLink": "/Shows/TCSWeekly/ep004",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/4/5/3/7/5/4/TCSWeekly4_large_ch9.jpg",
+    "ShowName": "TCSWeekly",
+    "VideoLength": "00:04:38",
+    "VideoTitle": "TCSWeekly 004 - amazing visuals and one monster MVVM article",
+    "Author": "Adam Kinney",
+    "UtcDateTimePublished": "2009-02-21T17:18:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/4/5/3/7/5/4/TCSWeekly004_ch9.mp4",
+    "Description": "\nThis episode includes amazing visuals in both blu and Descry, one beefy MVVM article and the announcement that there will be no more Betas for Windows 7, next stop Release Candidate!\n\nStories cove"
+  },
+  {
+    "VideoId": "4530f5ca-9253-40c9-9903-9deb0170e790",
+    "DataApi": "/Entries(guid'4530f5ca-9253-40c9-9903-9deb0170e790')/",
+    "VideoPageLink": "/Shows/TCSWeekly/TCSWeekly003",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/4/0/6/5/5/4/TCSWeekly003_large_ch9.jpg",
+    "ShowName": "TCSWeekly",
+    "VideoLength": "00:05:15",
+    "VideoTitle": "TCSWeekly 003 - Silverlight, Moonlight, Kaxaml, Facebook, Multi-touch",
+    "Author": "Adam Kinney",
+    "UtcDateTimePublished": "2009-01-30T03:20:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/4/0/6/5/5/4/TCSWeekly003_ch9.mp4",
+    "Description": "\nStories mentioned in this episode: \n\nPresidential Inauguration in Silverlight and Moonlight\nNew Version of Kaxaml with Support for Silverlight 2\nMVVM, WPF UI Design Pattern\nSilverlight Facebook"
+  },
+  {
+    "VideoId": "1aac4679-5efb-4226-9a5c-9deb0170eda3",
+    "DataApi": "/Entries(guid'1aac4679-5efb-4226-9a5c-9deb0170eda3')/",
+    "VideoPageLink": "/Shows/TCSWeekly/TCSWeekly002",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/4/0/2/4/5/4/TCSWeekly002_large_ch9.jpg",
+    "ShowName": "TCSWeekly",
+    "VideoLength": "00:03:47",
+    "VideoTitle": "TCSWeekly 002 - Obama, Silverlight 3, 3D Models and Virtual Earth",
+    "Author": "Adam Kinney",
+    "UtcDateTimePublished": "2009-01-20T20:05:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/4/0/2/4/5/4/TCSWeekly002_ch9.mp4",
+    "Description": "The biggest news from last week in the Microsoft Client World is tied to the biggest news of January, possibly of the year 2009.  If you haven't already heard it echoed on twitter and blogs, last week"
+  },
+  {
+    "VideoId": "a42ec95d-51cc-403b-985a-9deb0170f23d",
+    "DataApi": "/Entries(guid'a42ec95d-51cc-403b-985a-9deb0170f23d')/",
+    "VideoPageLink": "/Shows/TCSWeekly/TCSWeekly001",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/0/1/4/3/5/4/TCSWeekly001_large_ch9.jpg",
+    "ShowName": "TCSWeekly",
+    "VideoLength": "00:04:20",
+    "VideoTitle": "TCSWeekly 001",
+    "Author": "Adam Kinney",
+    "UtcDateTimePublished": "2009-01-15T10:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/0/1/4/3/5/4/TCSWeekly001_ch9.mp4",
+    "Description": "TCSWeekly is a new weekly show on Channel 9 that covers the top news, tutorials and demos in the Microsoft Client world.\n\n&quot;TCS&quot; comes from its long form sibling \nThe Continuum Show and &q"
+  }
+]

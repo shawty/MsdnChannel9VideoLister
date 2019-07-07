@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "6824bdfb-4f09-4b9e-a710-a399014f22a6",
+    "DataApi": "/Entries(guid'6824bdfb-4f09-4b9e-a710-a399014f22a6')/",
+    "VideoPageLink": "/Series/Building-Responsive-UI-with-Bootstrap/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0043/d9683977-c182-4828-97d9-df2b75c40043/BuildResponsiveUIBootstrapM02_960.jpg",
+    "ShowName": "Building Responsive UI with Bootstrap",
+    "VideoLength": "00:54:01",
+    "VideoTitle": "Building Responsive UI with Bootstrap: (02) Bootstrap Components",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-02T15:10:49.7008128Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0043/d9683977-c182-4828-97d9-df2b75c40043/BuildResponsiveUIBootstrapM02_mid.mp4",
+    "Description": "Bootstrap introduces several components and objects that can be used when designing a page. Get a look at the available objects and how to use them to create pages. [08:04] - Grouping[25:04] - Objects"
+  },
+  {
+    "VideoId": "6073ca80-1e93-4bf3-bc43-a399014f7944",
+    "DataApi": "/Entries(guid'6073ca80-1e93-4bf3-bc43-a399014f7944')/",
+    "VideoPageLink": "/Series/Building-Responsive-UI-with-Bootstrap/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b670/c96bd8e0-4ff9-4bf4-948c-5676e0eeb670/BuildResponsiveUIBootstrapM03_960.jpg",
+    "ShowName": "Building Responsive UI with Bootstrap",
+    "VideoLength": "00:58:17",
+    "VideoTitle": "Building Responsive UI with Bootstrap: (03) Page Design",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-02T15:11:10.4197288Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b670/c96bd8e0-4ff9-4bf4-948c-5676e0eeb670/BuildResponsiveUIBootstrapM03_mid.mp4",
+    "Description": "Dig deeper into designing pages using Bootstrap, including how to create forms using the different input controls made available via Bootstrap and how to best display data for your users. [06:03] - Bo"
+  },
+  {
+    "VideoId": "4f80d1d5-5192-41d8-b5f5-a399014fb462",
+    "DataApi": "/Entries(guid'4f80d1d5-5192-41d8-b5f5-a399014fb462')/",
+    "VideoPageLink": "/Series/Building-Responsive-UI-with-Bootstrap/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c9c9/dc7d6541-d4ab-452b-8726-e90abaa5c9c9/BuildResponsiveUIBootstrapM04_960.jpg",
+    "ShowName": "Building Responsive UI with Bootstrap",
+    "VideoLength": "00:51:59",
+    "VideoTitle": "Building Responsive UI with Bootstrap: (04) Visual Studio and ASP.NET Integration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-02T15:11:31.3055764Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c9c9/dc7d6541-d4ab-452b-8726-e90abaa5c9c9/BuildResponsiveUIBootstrapM04_mid.mp4",
+    "Description": "Visual Studio 2013 includes Bootstrap and uses it by default with new projects. Find out how to take advantage of the features in Visual Studio, how to customize them, and how to implement Bootstrap w"
+  },
+  {
+    "VideoId": "90c4cc7d-63e9-48de-84f5-a399014ff3fd",
+    "DataApi": "/Entries(guid'90c4cc7d-63e9-48de-84f5-a399014ff3fd')/",
+    "VideoPageLink": "/Series/Building-Responsive-UI-with-Bootstrap/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/09cc/1a6abfbf-9db6-4368-ba91-d6d6fc6c09cc/BuildResponsiveUIBootstrapM05_960.jpg",
+    "ShowName": "Building Responsive UI with Bootstrap",
+    "VideoLength": "00:44:46",
+    "VideoTitle": "Building Responsive UI with Bootstrap: (05) JavaScript Functions",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-02T15:12:00.4778744Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/09cc/1a6abfbf-9db6-4368-ba91-d6d6fc6c09cc/BuildResponsiveUIBootstrapM05_mid.mp4",
+    "Description": "Bootstrap is more than simply a collection of stylesheets and classes. Join the experts for a walk through of the available functions in Bootstrap to display dialog boxes and to further enhance pages."
+  },
+  {
+    "VideoId": "ca749cbb-69d5-42fc-8097-a399015034da",
+    "DataApi": "/Entries(guid'ca749cbb-69d5-42fc-8097-a399015034da')/",
+    "VideoPageLink": "/Series/Building-Responsive-UI-with-Bootstrap/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a3c3/89d6d692-3306-4a0f-998d-4a0be7d2a3c3/BuildResponsiveUIBootstrapM06_960.jpg",
+    "ShowName": "Building Responsive UI with Bootstrap",
+    "VideoLength": "00:47:45",
+    "VideoTitle": "Building Responsive UI with Bootstrap: (06) Using Bootstrap with LESS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-02T15:12:28.6134843Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a3c3/89d6d692-3306-4a0f-998d-4a0be7d2a3c3/BuildResponsiveUIBootstrapM06_mid.mp4",
+    "Description": "CSS can be a bit challenging to use, especially as your page becomes more complex. Bootstrap uses LESS, which makes it easier to design and layout your page, and reduce the amount of markup required. "
+  },
+  {
+    "VideoId": "9f492462-d0a0-47a7-b5b2-a399015076bb",
+    "DataApi": "/Entries(guid'9f492462-d0a0-47a7-b5b2-a399015076bb')/",
+    "VideoPageLink": "/Series/Building-Responsive-UI-with-Bootstrap/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d94/1e853ec9-b0f5-4c00-b9d5-1c0a9a712d94/BuildResponsiveUIBootstrapM07_960.jpg",
+    "ShowName": "Building Responsive UI with Bootstrap",
+    "VideoLength": "00:51:55",
+    "VideoTitle": "Building Responsive UI with Bootstrap: (07) Bootstrap in the Real World",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-02T15:12:50.8984837Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d94/1e853ec9-b0f5-4c00-b9d5-1c0a9a712d94/BuildResponsiveUIBootstrapM07_mid.mp4",
+    "Description": "Hear a discussion on how best to use Bootstrap in real-world scenarios, and explore how to use CDNs, how to use Bootstrap with different types of sites, and how to make your sites look like they weren"
+  }
+]

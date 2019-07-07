@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "7b58f6dd-9102-4a61-b021-a2c1015fdd07",
+    "DataApi": "/Entries(guid'7b58f6dd-9102-4a61-b021-a2c1015fdd07')/",
+    "VideoPageLink": "/Series/Software-Testing-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/93b6/a1d34292-55f9-4dad-af49-ca95cdda93b6/SoftwareTestingFundamentalsM02_960.jpg",
+    "ShowName": "Software Testing Fundamentals",
+    "VideoLength": "00:42:16",
+    "VideoTitle": "Software Testing Fundamentals: (02) Testing Methodologies",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-04T00:05:49.6391264Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/93b6/a1d34292-55f9-4dad-af49-ca95cdda93b6/SoftwareTestingFundamentalsM02_mid.mp4",
+    "Description": "Explore the fundamentals of Waterfall and Agile testing methodologies and aligned testing techniques. Full course outline: Mod 01: Testing FundamentalsMod 02: Testing MethodologiesMod 03: Creating Sof"
+  },
+  {
+    "VideoId": "3fc31095-1ddd-42d1-8196-a2c101602111",
+    "DataApi": "/Entries(guid'3fc31095-1ddd-42d1-8196-a2c101602111')/",
+    "VideoPageLink": "/Series/Software-Testing-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1693/48dd18b9-4553-4aba-a3b9-978d75141693/SoftwareTestingFundamentalsM03_960.jpg",
+    "ShowName": "Software Testing Fundamentals",
+    "VideoLength": "00:36:28",
+    "VideoTitle": "Software Testing Fundamentals: (03) Creating Software Tests",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-04T00:06:13.6322458Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1693/48dd18b9-4553-4aba-a3b9-978d75141693/SoftwareTestingFundamentalsM03_mid.mp4",
+    "Description": "Find out how to create a software test, leveraging the methodologies and techniques from the Testing Methodologies module. [02:28] - User Centric Testing / Software Testability[12:37] - Creating Test "
+  },
+  {
+    "VideoId": "c9d47a20-a5e8-46a0-b1c0-a2c1016058ab",
+    "DataApi": "/Entries(guid'c9d47a20-a5e8-46a0-b1c0-a2c1016058ab')/",
+    "VideoPageLink": "/Series/Software-Testing-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f677/7d1b9a48-61c4-4e3a-8785-10645156f677/SoftwareTestingFundamentalsM04_960.jpg",
+    "ShowName": "Software Testing Fundamentals",
+    "VideoLength": "00:35:53",
+    "VideoTitle": "Software Testing Fundamentals: (04) Managing Software Test Projects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-04T00:06:29.7245177Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f677/7d1b9a48-61c4-4e3a-8785-10645156f677/SoftwareTestingFundamentalsM04_mid.mp4",
+    "Description": "Learn how to manage a software testing project. [02:03] - Testing Milestones[09:46] - The Agile Process[19:07] - Working with Destributed Teams[26:41] - Test ReportsFull course outline: Mod 01: Testin"
+  },
+  {
+    "VideoId": "a081ef9e-fb90-46eb-89b0-a2c101609d6d",
+    "DataApi": "/Entries(guid'a081ef9e-fb90-46eb-89b0-a2c101609d6d')/",
+    "VideoPageLink": "/Series/Software-Testing-Fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3778/e39e841f-a757-4d7b-a32e-c3efa4943778/SoftwareTestingFundamentalsM05_960.jpg",
+    "ShowName": "Software Testing Fundamentals",
+    "VideoLength": "00:33:54",
+    "VideoTitle": "Software Testing Fundamentals: (05) Working with Bugs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-04T00:06:51.2297703Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3778/e39e841f-a757-4d7b-a32e-c3efa4943778/SoftwareTestingFundamentalsM05_mid.mp4",
+    "Description": "Discover fundamental insights on working and managing bugs during a software test project. [01:50] - Detecting Software Defects[08:21] - Logging Bugs[17:52] - Managing BugsFull course outline: Mod 01:"
+  },
+  {
+    "VideoId": "17df1aab-283a-47ab-bf70-a2c10160e0cd",
+    "DataApi": "/Entries(guid'17df1aab-283a-47ab-bf70-a2c10160e0cd')/",
+    "VideoPageLink": "/Series/Software-Testing-Fundamentals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6839/e5f95977-1ba0-47c2-bfe4-86cda35f6839/SoftwareTestingFundamentalsM06_960.jpg",
+    "ShowName": "Software Testing Fundamentals",
+    "VideoLength": "00:27:56",
+    "VideoTitle": "Software Testing Fundamentals: (06) Automating Software Tests",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-04T00:07:02.6275832Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6839/e5f95977-1ba0-47c2-bfe4-86cda35f6839/SoftwareTestingFundamentalsM06_mid.mp4",
+    "Description": "Gain a basic understanding of how to automate software tests. [02:18] - Test Automation[08:48] - Test Automation Strategies[12:19] - Writing Automation Tests[17:56] - Managing Test ScriptsFull course "
+  }
+]

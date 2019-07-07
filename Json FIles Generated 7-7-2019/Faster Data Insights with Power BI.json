@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "0db7c100-5b36-42a3-98b2-a2d701691395",
+    "DataApi": "/Entries(guid'0db7c100-5b36-42a3-98b2-a2d701691395')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9571/11b61b81-8cce-46c5-8478-be8437819571/FasterDataInsightsWithPowerBIM02_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:54:50",
+    "VideoTitle": "Faster Data Insights with Power BI: (02) Drilldown on Data Discovery Using Power Query",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:19:44.7276065Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9571/11b61b81-8cce-46c5-8478-be8437819571/FasterDataInsightsWithPowerBIM02_mid.mp4",
+    "Description": "Find out the details on data discovery with Power Query. Full course outline: Mod 01: Introduction to Power BIMod 02: Drilldown on Data Discovery Using Power QueryMod 03: The Data Stewardship Experien"
+  },
+  {
+    "VideoId": "6653d278-b9de-4e26-b2f0-a2d70169518d",
+    "DataApi": "/Entries(guid'6653d278-b9de-4e26-b2f0-a2d70169518d')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9026/ff6be69b-699d-4af7-a273-ad4e39069026/FasterDataInsightsWithPowerBIM03_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:49:30",
+    "VideoTitle": "Faster Data Insights with Power BI: (03) The Data Stewardship Experience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:20:24.1658066Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9026/ff6be69b-699d-4af7-a273-ad4e39069026/FasterDataInsightsWithPowerBIM03_mid.mp4",
+    "Description": "Take a closer look at data stewardship. [05:34] - Information Management Challenges[14:46] - Self Service Information Management and Data Stewardship[17:45] - SSIM in Power BI[26:27] - DemoFull course"
+  },
+  {
+    "VideoId": "43f95f8d-5ff2-4122-a773-a2d7016994cf",
+    "DataApi": "/Entries(guid'43f95f8d-5ff2-4122-a773-a2d7016994cf')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4711/0a45ada1-0105-4a5d-b658-84726c764711/FasterDataInsightsWithPowerBIM04_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:49:18",
+    "VideoTitle": "Faster Data Insights with Power BI: (04) Building Stellar Data Visualizations Using Power View",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:20:49.792619Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4711/0a45ada1-0105-4a5d-b658-84726c764711/FasterDataInsightsWithPowerBIM04_mid.mp4",
+    "Description": "Use Power View to build stellar data visualizations. Full course outline: Mod 01: Introduction to Power BIMod 02: Drilldown on Data Discovery Using Power QueryMod 03: The Data Stewardship ExperienceMo"
+  },
+  {
+    "VideoId": "7d52197d-96fc-4d9b-80b0-a2d70169d0bb",
+    "DataApi": "/Entries(guid'7d52197d-96fc-4d9b-80b0-a2d70169d0bb')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cd36/8ed2c4ca-c470-4417-9a41-c771b832cd36/FasterDataInsightsWithPowerBIM05_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:41:51",
+    "VideoTitle": "Faster Data Insights with Power BI: (05) Building 3D Visualizations Using Power Map",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:21:14.2794085Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cd36/8ed2c4ca-c470-4417-9a41-c771b832cd36/FasterDataInsightsWithPowerBIM05_mid.mp4",
+    "Description": "Learn how Power Map can help you create 3D visualizations. [06:50] - Excel Demo[30:10] - Excel Starting a ProjectFull course outline: Mod 01: Introduction to Power BIMod 02: Drilldown on Data Discover"
+  },
+  {
+    "VideoId": "41fe94d7-db0a-4f6f-9e63-a2d70169f547",
+    "DataApi": "/Entries(guid'41fe94d7-db0a-4f6f-9e63-a2d70169f547')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ecd9/29f250c7-166b-4cd4-8fb6-0705ea4becd9/FasterDataInsightsWithPowerBIM06_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:34:12",
+    "VideoTitle": "Faster Data Insights with Power BI: (06) Understanding Power BI Sites and Mobile BI",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:21:59.7307164Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ecd9/29f250c7-166b-4cd4-8fb6-0705ea4becd9/FasterDataInsightsWithPowerBIM06_mid.mp4",
+    "Description": "Gain a greater understanding of Power BI sites and mobile BI. Full course outline: Mod 01: Introduction to Power BIMod 02: Drilldown on Data Discovery Using Power QueryMod 03: The Data Stewardship Exp"
+  },
+  {
+    "VideoId": "68b7caeb-a67b-4cca-8a01-a2d7016ff82a",
+    "DataApi": "/Entries(guid'68b7caeb-a67b-4cca-8a01-a2d7016ff82a')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a167/031f7dd8-50f4-4fc2-8247-d9dc0359a167/FasterDataInsightsWithPowerBIM07_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:46:41",
+    "VideoTitle": "Faster Data Insights with Power BI: (07) Working with Natural Language Querying Using Q&A",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:22:11.0317124Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a167/031f7dd8-50f4-4fc2-8247-d9dc0359a167/FasterDataInsightsWithPowerBIM07_mid.mp4",
+    "Description": "Learn more about working with natural language querying using Q&amp;A. [05:03] - Q&#43;A[19:00] - Build Models in Q&#43;A[22:20] - Synonyms[32:40] - Return Great Answers in Q&#43;AFull course outline:"
+  },
+  {
+    "VideoId": "9f9724e0-0f74-435f-a24c-a2d701704130",
+    "DataApi": "/Entries(guid'9f9724e0-0f74-435f-a24c-a2d701704130')/",
+    "VideoPageLink": "/Series/Faster-Data-Insights-with-Power-BI/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a5a2/c5232e04-e19f-44fd-88e9-6ee51759a5a2/FasterDataInsightsWithPowerBIM08_960.jpg",
+    "ShowName": "Faster Data Insights with Power BI",
+    "VideoLength": "00:40:49",
+    "VideoTitle": "Faster Data Insights with Power BI: (08) Handling Data Management Gateway",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-20T17:22:48.2872489Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a5a2/c5232e04-e19f-44fd-88e9-6ee51759a5a2/FasterDataInsightsWithPowerBIM08_mid.mp4",
+    "Description": "Get the details on handling Data Management Gateway. Full course outline: Mod 01: Introduction to Power BIMod 02: Drilldown on Data Discovery Using Power QueryMod 03: The Data Stewardship ExperienceMo"
+  }
+]

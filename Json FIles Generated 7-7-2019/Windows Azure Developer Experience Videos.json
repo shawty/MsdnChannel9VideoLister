@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "0eb8aee4-97f7-430e-9877-9fb30164ef4c",
+    "DataApi": "/Entries(guid'0eb8aee4-97f7-430e-9877-9fb30164ef4c')/",
+    "VideoPageLink": "/Blogs/Windows-Azure-Developer-Experience-Videos/Nodejs-Windows-Azure-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ef4c/0eb8aee4-97f7-430e-9877-9fb30164ef4c/NodejsWindowsAzureIntro_512_ch9.jpg",
+    "ShowName": "Windows Azure Developer Experience Videos",
+    "VideoLength": "00:04:57",
+    "VideoTitle": "Node.js Windows Azure Introduction",
+    "Author": "bgold",
+    "UtcDateTimePublished": "2011-12-10T05:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ef4c/0eb8aee4-97f7-430e-9877-9fb30164ef4c/NodejsWindowsAzureIntro_med_ch9.mp4",
+    "Description": "Learn how to build and deploy a simple application to Windows Azure using Node.js. "
+  },
+  {
+    "VideoId": "efde2c45-2ac4-4fa5-a157-9fb3016483b5",
+    "DataApi": "/Entries(guid'efde2c45-2ac4-4fa5-a157-9fb3016483b5')/",
+    "VideoPageLink": "/Blogs/Windows-Azure-Developer-Experience-Videos/Other-Windows-Azure-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/83b5/efde2c45-2ac4-4fa5-a157-9fb3016483b5/OtherWindowsAzureIntro_512_ch9.jpg",
+    "ShowName": "Windows Azure Developer Experience Videos",
+    "VideoLength": "00:05:46",
+    "VideoTitle": "\"Other\" Windows Azure Introduction",
+    "Author": "bgold",
+    "UtcDateTimePublished": "2011-12-10T05:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/83b5/efde2c45-2ac4-4fa5-a157-9fb3016483b5/OtherWindowsAzureIntro_med_ch9.mp4",
+    "Description": "Learn how to build and deploy almost anything to Windows Azure. This video uses a Python web application as an example. "
+  },
+  {
+    "VideoId": "51bc2530-e703-4604-be3b-9fb30164445b",
+    "DataApi": "/Entries(guid'51bc2530-e703-4604-be3b-9fb30164445b')/",
+    "VideoPageLink": "/Blogs/Windows-Azure-Developer-Experience-Videos/Java-Windows-Azure-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/445b/51bc2530-e703-4604-be3b-9fb30164445b/JavaWindowsAzureIntro_512_ch9.jpg",
+    "ShowName": "Windows Azure Developer Experience Videos",
+    "VideoLength": "00:05:35",
+    "VideoTitle": "Java Windows Azure Introduction",
+    "Author": "bgold",
+    "UtcDateTimePublished": "2011-12-10T05:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/445b/51bc2530-e703-4604-be3b-9fb30164445b/JavaWindowsAzureIntro_med_ch9.mp4",
+    "Description": "Learn how to build and deploy a simple application to Windows Azure using Java. "
+  },
+  {
+    "VideoId": "edca6d4e-1518-4d6b-a004-9fb301641bd7",
+    "DataApi": "/Entries(guid'edca6d4e-1518-4d6b-a004-9fb301641bd7')/",
+    "VideoPageLink": "/Blogs/Windows-Azure-Developer-Experience-Videos/PHP-Windows-Azure-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1bd7/edca6d4e-1518-4d6b-a004-9fb301641bd7/PHPWindowsAzureIntro_512_ch9.jpg",
+    "ShowName": "Windows Azure Developer Experience Videos",
+    "VideoLength": "00:04:48",
+    "VideoTitle": "PHP Windows Azure Introduction",
+    "Author": "bgold",
+    "UtcDateTimePublished": "2011-12-10T05:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1bd7/edca6d4e-1518-4d6b-a004-9fb301641bd7/PHPWindowsAzureIntro_med_ch9.mp4",
+    "Description": "Learn how to build and deploy a simple application to Windows Azure using PHP. "
+  },
+  {
+    "VideoId": "bf52c8b9-7343-48a2-a8ed-9fb30163411f",
+    "DataApi": "/Entries(guid'bf52c8b9-7343-48a2-a8ed-9fb30163411f')/",
+    "VideoPageLink": "/Blogs/Windows-Azure-Developer-Experience-Videos/NET-Windows-Azure-Introduction",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/411f/bf52c8b9-7343-48a2-a8ed-9fb30163411f/DotNetWindowsAzureIntro_512_ch9.jpg",
+    "ShowName": "Windows Azure Developer Experience Videos",
+    "VideoLength": "00:04:32",
+    "VideoTitle": ".NET Windows Azure Introduction",
+    "Author": "bgold",
+    "UtcDateTimePublished": "2011-12-10T05:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/411f/bf52c8b9-7343-48a2-a8ed-9fb30163411f/DotNetWindowsAzureIntro_med_ch9.mp4",
+    "Description": "Learn how to build and deploy a simple application to Windows Azure using .NET. "
+  }
+]

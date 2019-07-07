@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c8d43f36-e8c2-4b34-bd89-a2b20120f735",
+    "DataApi": "/Entries(guid'c8d43f36-e8c2-4b34-bd89-a2b20120f735')/",
+    "VideoPageLink": "/Series/MSDN-Subscriptions/Vous-nen-croirez-pas-vos-yeux-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d0c0/2da4bde1-282b-4537-ae66-a817f98fd0c0/msdn3_960.jpg",
+    "ShowName": "MSDN Subscriptions",
+    "VideoLength": "00:00:57",
+    "VideoTitle": "Vous n'en croirez pas vos yeux !",
+    "Author": "christelfer",
+    "UtcDateTimePublished": "2014-01-13T17:43:41.3714507Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d0c0/2da4bde1-282b-4537-ae66-a817f98fd0c0/msdn3_mid.mp4",
+    "Description": "Les abonnements MSDN fournissent le meilleur environnement au monde pour l'innovation, en vous permettant d'obtenir ce dont vous avez besoin quand vous en avez besoin. Vous pouvez créer des applicatio"
+  },
+  {
+    "VideoId": "125223aa-4bed-4f23-b183-a3090146d0f0",
+    "DataApi": "/Entries(guid'125223aa-4bed-4f23-b183-a3090146d0f0')/",
+    "VideoPageLink": "/Series/MSDN-Subscriptions/Activate-MSDN-Azure-Benefits",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3ddc/c597b241-b60d-46c0-9d7e-1fa98a523ddc/Azureactivatevid1_960.jpg",
+    "ShowName": "MSDN Subscriptions",
+    "VideoLength": "00:01:08",
+    "VideoTitle": "Activate MSDN Azure Benefits",
+    "Author": "christelfer",
+    "UtcDateTimePublished": "2014-04-10T20:21:03.5692896Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3ddc/c597b241-b60d-46c0-9d7e-1fa98a523ddc/Azureactivatevid1_mid.mp4",
+    "Description": "MSDN subscribers â€“ did you know that depending on your subscription level, you have $50 to $150 worth of Azure credits per month? That is a maximum of $1800 per year that you can use to build developm"
+  },
+  {
+    "VideoId": "21663c29-d257-49ca-949a-a326016e0a11",
+    "DataApi": "/Entries(guid'21663c29-d257-49ca-949a-a326016e0a11')/",
+    "VideoPageLink": "/Series/MSDN-Subscriptions/MSDN-Subscribers-How-to-Spin-up-a-VM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f86b/a9e5b9f4-73e6-48cc-820a-7f8f16d0f86b/AzureVM_960.jpg",
+    "ShowName": "MSDN Subscriptions",
+    "VideoLength": "00:01:36",
+    "VideoTitle": "MSDN Subscribers How to Spin up a VM",
+    "Author": "christelfer",
+    "UtcDateTimePublished": "2014-05-09T22:40:39.7026599Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f86b/a9e5b9f4-73e6-48cc-820a-7f8f16d0f86b/AzureVM_mid.mp4",
+    "Description": "What developer couldn't use an extra machine? As an MSDN subscriber â€“ you can use your Azure monthly credits to spin up a virtual machine in minutes.  To get started, sign in to the Azure Management P"
+  }
+]

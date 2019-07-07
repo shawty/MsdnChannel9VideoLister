@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "a4526b19-b5d4-4c8f-b06b-9dea011c6b5e",
+    "DataApi": "/Entries(guid'a4526b19-b5d4-4c8f-b06b-9dea011c6b5e')/",
+    "VideoPageLink": "/Blogs/compumaster/Xml-Editor-Creating-Code-Snippets",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "b4140617-e6b4-47f7-b9ef-9dea011c74ec",
+    "DataApi": "/Entries(guid'b4140617-e6b4-47f7-b9ef-9dea011c74ec')/",
+    "VideoPageLink": "/Blogs/compumaster/Xml-Editor-Xml-and-Schemas",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "e2ff2ee9-7957-472e-8669-9dea011c7ad9",
+    "DataApi": "/Entries(guid'e2ff2ee9-7957-472e-8669-9dea011c7ad9')/",
+    "VideoPageLink": "/Blogs/compumaster/Xml-Editor-Creating-Schemas-from-DTD",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "d06ab4ca-5990-447e-9c49-9dea011c80ab",
+    "DataApi": "/Entries(guid'd06ab4ca-5990-447e-9c49-9dea011c80ab')/",
+    "VideoPageLink": "/Blogs/compumaster/Xml-Editor-Formatting-Layout-of-Xml-Document",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "fd9b861e-aed8-40b2-b0de-9dea011c84e4",
+    "DataApi": "/Entries(guid'fd9b861e-aed8-40b2-b0de-9dea011c84e4')/",
+    "VideoPageLink": "/Blogs/compumaster/LINQ-to-XML-API-and-VB-90",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

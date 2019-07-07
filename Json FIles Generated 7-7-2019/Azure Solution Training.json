@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "288ffa72-26bd-4c08-aa92-a4590094a9d8",
+    "DataApi": "/Entries(guid'288ffa72-26bd-4c08-aa92-a4590094a9d8')/",
+    "VideoPageLink": "/Series/Azure-Solutions-Training/StorSimple",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/41cb/5c96cf6d-e3d8-4146-b100-23d7cfc641cb/StroSimple_960.jpg",
+    "ShowName": "Azure Solution Training",
+    "VideoLength": "00:42:02",
+    "VideoTitle": "StorSimple",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2015-03-17T11:16:59.8791097Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/41cb/5c96cf6d-e3d8-4146-b100-23d7cfc641cb/StroSimple_mid.mp4",
+    "Description": "How to position Azure Capabilities in the Storage Space based on Pitch Perfect. "
+  },
+  {
+    "VideoId": "caaa15a8-db20-4e72-a49e-a45900942be1",
+    "DataApi": "/Entries(guid'caaa15a8-db20-4e72-a49e-a45900942be1')/",
+    "VideoPageLink": "/Series/Azure-Solutions-Training/Mobile-Application",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/45f7/d3b2a06a-2b49-4e7c-a354-d7e1541f45f7/MobileApplication_960.jpg",
+    "ShowName": "Azure Solution Training",
+    "VideoLength": "00:37:09",
+    "VideoTitle": "Mobile Application",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2015-03-17T11:17:22.4303136Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/45f7/d3b2a06a-2b49-4e7c-a354-d7e1541f45f7/MobileApplication_mid.mp4",
+    "Description": "How do you position Azure Capabilities in the Mobile Space based on Pitch Perfect. "
+  },
+  {
+    "VideoId": "6b24bf89-25b8-477a-888e-a45900959438",
+    "DataApi": "/Entries(guid'6b24bf89-25b8-477a-888e-a45900959438')/",
+    "VideoPageLink": "/Series/Azure-Solutions-Training/EMS-Hybrid-Identity",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8053/a3ff793b-217a-4ee1-8ec8-6d2cf6228053/EMSHybridIdentity_960.jpg",
+    "ShowName": "Azure Solution Training",
+    "VideoLength": "00:44:01",
+    "VideoTitle": "EMS - Hybrid Identity",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2015-03-17T11:17:37.5179699Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8053/a3ff793b-217a-4ee1-8ec8-6d2cf6228053/EMSHybridIdentity_mid.mp4",
+    "Description": "Hybrid Identity: How to position Azure Capabilities in the Enterprise Identity Management Space based on Pitch Perfect. "
+  }
+]

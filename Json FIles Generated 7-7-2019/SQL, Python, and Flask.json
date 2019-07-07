@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "0044f635-581f-4b86-ad36-a455015111cf",
+    "DataApi": "/Entries(guid'0044f635-581f-4b86-ad36-a455015111cf')/",
+    "VideoPageLink": "/Series/SQL-Python-and-Flask/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e540/51fc7e51-0b98-497d-b432-d38f3849e540/645SQLPythonFlaskM02_960.jpg",
+    "ShowName": "SQL, Python, and Flask",
+    "VideoLength": "00:51:03",
+    "VideoTitle": "SQL, Python, and Flask: (02) Designing Python Classes",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T17:45:18.0011795Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e540/51fc7e51-0b98-497d-b432-d38f3849e540/645SQLPythonFlaskM02_mid.mp4",
+    "Description": "Continue to dig into classes in Python, and see how constructors allow you to ensure that your objects are set up the right way and how you can use methods and properties to introduce functionality. P"
+  },
+  {
+    "VideoId": "16015890-e298-44e5-b16f-a455015154bc",
+    "DataApi": "/Entries(guid'16015890-e298-44e5-b16f-a455015154bc')/",
+    "VideoPageLink": "/Series/SQL-Python-and-Flask/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7512/f72ed47e-195e-411d-93b2-44d7dc597512/645SQLPythonFlaskM03_960.jpg",
+    "ShowName": "SQL, Python, and Flask",
+    "VideoLength": "00:51:55",
+    "VideoTitle": "SQL, Python, and Flask: (03) Introduction to Relational Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T17:45:28.9214238Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7512/f72ed47e-195e-411d-93b2-44d7dc597512/645SQLPythonFlaskM03_mid.mp4",
+    "Description": "Explore the concept of a relational database, and see how to create and configure SQL databases. Although key-value pair databases can work for simple applications and caching, they don't offer the sc"
+  },
+  {
+    "VideoId": "3e08da4e-6a74-45d8-97b6-a45501517ea6",
+    "DataApi": "/Entries(guid'3e08da4e-6a74-45d8-97b6-a45501517ea6')/",
+    "VideoPageLink": "/Series/SQL-Python-and-Flask/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f2d3/ccb7d1c9-ea68-4d65-ad95-d7d5fd59f2d3/645SQLPythonFlaskM04_960.jpg",
+    "ShowName": "SQL, Python, and Flask",
+    "VideoLength": "00:57:57",
+    "VideoTitle": "SQL, Python, and Flask: (04) Connecting to Relational Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T17:45:40.7006202Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f2d3/ccb7d1c9-ea68-4d65-ad95-d7d5fd59f2d3/645SQLPythonFlaskM04_mid.mp4",
+    "Description": "After creating the back end, turn your attention to the front end and examine how to connect to the newly created database. See the code needed to connect to SQL Server, along with how to best organiz"
+  },
+  {
+    "VideoId": "b8c61345-712c-4251-849c-a4550151a78b",
+    "DataApi": "/Entries(guid'b8c61345-712c-4251-849c-a4550151a78b')/",
+    "VideoPageLink": "/Series/SQL-Python-and-Flask/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c42b/81c7791a-889e-4545-875d-8c0d5072c42b/645SQLPythonFlaskM05_960.jpg",
+    "ShowName": "SQL, Python, and Flask",
+    "VideoLength": "00:26:01",
+    "VideoTitle": "SQL, Python, and Flask: (05) Layouts Using Jinja",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T17:45:52.405151Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c42b/81c7791a-889e-4545-875d-8c0d5072c42b/645SQLPythonFlaskM05_mid.mp4",
+    "Description": "Since one key to a successful web application is a consistent look and feel, see how to use Jinja template engine layouts to create consistency throughout your applications. [04:55] - Why use Layouts?"
+  },
+  {
+    "VideoId": "95cf2e37-b946-45ae-97ea-a4550151d21c",
+    "DataApi": "/Entries(guid'95cf2e37-b946-45ae-97ea-a4550151d21c')/",
+    "VideoPageLink": "/Series/SQL-Python-and-Flask/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3456/675d3300-a306-4906-bd85-a939eaef3456/645SQLPythonFlaskM06_960.jpg",
+    "ShowName": "SQL, Python, and Flask",
+    "VideoLength": "00:49:09",
+    "VideoTitle": "SQL, Python, and Flask: (06) Introduction to Bootstrap",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-09T17:46:04.3348397Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3456/675d3300-a306-4906-bd85-a939eaef3456/645SQLPythonFlaskM06_mid.mp4",
+    "Description": "Designing pages for multiple types of devices can be a challenge. Wrap up the course by addressing this issue with Bootstrap, plus take a look at core classes and the grid system. [03:26] - Theme Supp"
+  }
+]

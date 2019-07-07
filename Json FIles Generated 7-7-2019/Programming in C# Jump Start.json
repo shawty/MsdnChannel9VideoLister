@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "060f5656-4323-487e-b8e4-a183014a14ae",
+    "DataApi": "/Entries(guid'060f5656-4323-487e-b8e4-a183014a14ae')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-02-Complex-Types-Object-Interfaces-and-Inheritance",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7b6c/df768b31-e5a3-49c6-8fd8-b6b504d77b6c/CSharpJS02_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "01:02:18",
+    "VideoTitle": "Programming in C#: (02) Complex Types, Object Interfaces and Inheritance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:23:22.6087966Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7b6c/df768b31-e5a3-49c6-8fd8-b6b504d77b6c/CSharpJS02_mid.mp4",
+    "Description": "In this segment the instructors go over constructing complex types and what defines the template for an object, and how reference and value imply memory strategies. They also cover object interfaces a"
+  },
+  {
+    "VideoId": "9aac1467-5018-47c7-bda1-a183014a843a",
+    "DataApi": "/Entries(guid'9aac1467-5018-47c7-bda1-a183014a843a')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-03-Controlling-Programmatic-Flow-and-Manipulating-Types-and-Strings",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ffee/9e52ed65-fdde-4643-b70a-5c36efa1ffee/CSharpJS03_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "00:46:37",
+    "VideoTitle": "Programming in C#: (03) Controlling Programmatic Flow, and Manipulating Types and Strings",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:23:42.7638171Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ffee/9e52ed65-fdde-4643-b70a-5c36efa1ffee/CSharpJS03_mid.mp4",
+    "Description": "This session provides an overview of controlling programmatic flow and manipulating types and strings. Don't miss this session which also includes several rich demos. [01:01] - Controlling Programmati"
+  },
+  {
+    "VideoId": "4b248460-6e43-422e-b2f0-a183014afe6e",
+    "DataApi": "/Entries(guid'4b248460-6e43-422e-b2f0-a183014afe6e')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-04-Code-Reflection-and-Working-with-Garbage-Collection",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/41a5/c47e2cd3-d712-470c-82ec-37a258a741a5/CSharpJS04_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "00:49:37",
+    "VideoTitle": "Programming in C#: (04) Code Reflection and Working with Garbage Collection",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:24:02.3662876Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/41a5/c47e2cd3-d712-470c-82ec-37a258a741a5/CSharpJS04_mid.mp4",
+    "Description": "This module introduces the user to code reflection and information, what this means and how to get data and create instances. It will provide an overview of garbage collection and how it works as an a"
+  },
+  {
+    "VideoId": "0b46fb84-9682-4342-b04b-a183014b407a",
+    "DataApi": "/Entries(guid'0b46fb84-9682-4342-b04b-a183014b407a')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-05-Type-and-Value-Validation-and-Encryption-Techniques",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8940/9504bda4-51a6-4791-b72f-bc036e098940/CSharpJS05_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "01:02:46",
+    "VideoTitle": "Programming in C#: (05) Type and Value Validation, and Encryption Techniques",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:24:14.1079203Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8940/9504bda4-51a6-4791-b72f-bc036e098940/CSharpJS05_mid.mp4",
+    "Description": "In advanced C#, you can prevent overflow, incorrect results and undesirable side-effects by validation. Let Jerry and Daren show you how to prevent security intrusions via various encryption technique"
+  },
+  {
+    "VideoId": "68b67e89-3b95-4719-a364-a183014b9a75",
+    "DataApi": "/Entries(guid'68b67e89-3b95-4719-a364-a183014b9a75')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-06-Splitting-Assemblies-WinMD-Diagnostics-and-Instrumentation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/df61/d094592b-97b9-4bf7-8a09-8e0c56d0df61/CSharpJS06_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "00:56:36",
+    "VideoTitle": "Programming in C#: (06) Splitting Assemblies, WinMD, Diagnostics and Instrumentation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:24:27.8194125Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/df61/d094592b-97b9-4bf7-8a09-8e0c56d0df61/CSharpJS06_mid.mp4",
+    "Description": "This segment provides an overview of assemblies, and how and why to share them. With all technologies it is important to measure and run diagnostics, get ready for all the demos showing you how. [01:0"
+  },
+  {
+    "VideoId": "3756cd41-49c9-4a7a-87e5-a183014bfed1",
+    "DataApi": "/Entries(guid'3756cd41-49c9-4a7a-87e5-a183014bfed1')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-07-Interacting-with-the-File-System-and-Leveraging-Web-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/73a3/eaeb9a94-30d1-4b13-a9d4-2322e80d73a3/CSharpJS07_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "00:45:51",
+    "VideoTitle": "Programming in C#: (07) Interacting with the File System, and Leveraging Web Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:24:48.1544313Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/73a3/eaeb9a94-30d1-4b13-a9d4-2322e80d73a3/CSharpJS07_mid.mp4",
+    "Description": "Why read or write to the file system? This session provides an overview about interacting with the file system and leveraging web services. [01:26] - Interacting with the File System [13:03] - How to "
+  },
+  {
+    "VideoId": "7419cf90-cf1f-44de-ab83-a183014c8ed9",
+    "DataApi": "/Entries(guid'7419cf90-cf1f-44de-ab83-a183014c8ed9')/",
+    "VideoPageLink": "/Series/Programming-in-C-Jump-Start/Programming-in-C-08-Using-LINQ-to-Objects-and-XML-and-Serialization",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9867/84459ce8-ab55-4266-848f-fd642c6e9867/CSharpJS08_512.jpg",
+    "ShowName": "Programming in C# Jump Start",
+    "VideoLength": "00:52:42",
+    "VideoTitle": "Programming in C#: (08) Using LINQ to Objects and XML, and Serialization",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-19T17:25:01.8194127Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9867/84459ce8-ab55-4266-848f-fd642c6e9867/CSharpJS08_mid.mp4",
+    "Description": "This module introduces the user on how to access databases using Language Integrated Query (LINQ). It also provides an overview of fundamentals of serialization. [02:06] - ASYNC and AWAIT [07:51] - Wh"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "b13db1c2-1d75-4a68-bbe0-a3e1017ae333",
+    "DataApi": "/Entries(guid'b13db1c2-1d75-4a68-bbe0-a3e1017ae333')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/896a/9a6cd8cd-b893-4306-953d-0cfed021896a/612BecomingAVisioPowerUserM02_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User",
+    "VideoLength": "00:32:56",
+    "VideoTitle": "Becoming a Visio 2013 Power User: (02) Advanced Hyperlinking in Visio",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-13T16:29:41.0868608Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/896a/9a6cd8cd-b893-4306-953d-0cfed021896a/612BecomingAVisioPowerUserM02_mid.mp4",
+    "Description": "Examine how to enhance the value of a Visio diagram by creating hyperlinks to external locations, with an in-depth look at and demonstrations of some of the more subtle but incredibly powerful feature"
+  },
+  {
+    "VideoId": "83b67324-0b57-49b3-9a01-a3e1017b1e03",
+    "DataApi": "/Entries(guid'83b67324-0b57-49b3-9a01-a3e1017b1e03')/",
+    "VideoPageLink": "/Series/Becoming-a-Visio-2013-Power-User/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d6b1/a8e9b157-954c-482a-9748-84e66d00d6b1/612BecomingAVisioPowerUserM03_960.jpg",
+    "ShowName": "Becoming a Visio 2013 Power User",
+    "VideoLength": "01:00:51",
+    "VideoTitle": "Becoming a Visio 2013 Power User: (03) Adding Structure to Diagrams with Containers and Lists",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-13T16:29:59.6790366Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d6b1/a8e9b157-954c-482a-9748-84e66d00d6b1/612BecomingAVisioPowerUserM03_mid.mp4",
+    "Description": "â€‹Take a look at the use of containers and lists within Visio diagrams, specifically, what a Visio container is, how a Visio list is different from a container, and how to use both in your diagrams. Ex"
+  }
+]

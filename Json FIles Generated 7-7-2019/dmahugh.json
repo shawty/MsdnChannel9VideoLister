@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "cb2991a9-7f76-4ac5-90f4-9dea0116d204",
+    "DataApi": "/Entries(guid'cb2991a9-7f76-4ac5-90f4-9dea0116d204')/",
+    "VideoPageLink": "/Blogs/dmahugh/Package-Explorer-for-Open-XML",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ff4312cc-3dd9-4590-8e38-9dea0116d5f6",
+    "DataApi": "/Entries(guid'ff4312cc-3dd9-4590-8e38-9dea0116d5f6')/",
+    "VideoPageLink": "/Blogs/dmahugh/Open-source-Open-XML-API-for-Java",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "e31e6ed3-0d61-46fd-930e-9dea0116d9f1",
+    "DataApi": "/Entries(guid'e31e6ed3-0d61-46fd-930e-9dea0116d9f1')/",
+    "VideoPageLink": "/Blogs/dmahugh/Introduction-to-Office-Open-XML-Code-Snippets",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "dbaa9882-d44c-44f3-aaef-9dea0116e61c",
+    "DataApi": "/Entries(guid'dbaa9882-d44c-44f3-aaef-9dea0116e61c')/",
+    "VideoPageLink": "/Blogs/dmahugh/XML-Mapping-with-Word-and-SharePoint-part-2",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "9e092a74-b24a-4e65-b2c6-9dea0116f08f",
+    "DataApi": "/Entries(guid'9e092a74-b24a-4e65-b2c6-9dea0116f08f')/",
+    "VideoPageLink": "/Blogs/dmahugh/XML-Mapping-with-Word-2007-and-Sharepoint",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "dd4ac14a-356b-4896-b856-9dea0116fbd4",
+    "DataApi": "/Entries(guid'dd4ac14a-356b-4896-b856-9dea0116fbd4')/",
+    "VideoPageLink": "/Blogs/dmahugh/CoCreate-integrates-CAD-and-Sharepoint",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "d8ce8a27-d4b8-48de-b0ea-9dea01170018",
+    "DataApi": "/Entries(guid'd8ce8a27-d4b8-48de-b0ea-9dea01170018')/",
+    "VideoPageLink": "/Blogs/dmahugh/Document-Building-Blocks-Overview",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "ac9a6055-990d-43a6-adaa-a1e8001ae69d",
+    "DataApi": "/Entries(guid'ac9a6055-990d-43a6-adaa-a1e8001ae69d')/",
+    "VideoPageLink": "/Series/sysinternals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e369/d2690cfc-1686-4b8d-8f96-51374d60e369/SysInternalsM02_960.jpg",
+    "ShowName": "Utilizing SysInternals Tools for Windows Client",
+    "VideoLength": "00:07:11",
+    "VideoTitle": "Utilizing SysInternals Tools for Windows Client: (02) Windows Internals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T02:12:10.5069275Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e369/d2690cfc-1686-4b8d-8f96-51374d60e369/SysInternalsM02_mid.mp4",
+    "Description": "This module will delve into the technical concepts of User and Kernel Mode, Virtual Address space, Virtual Memory and Thread priorities. Full course outline: Mod 01: Introduction Mod 02: Windows Inter"
+  },
+  {
+    "VideoId": "8576ebb1-73d4-4a19-b847-a1e8001b3fb8",
+    "DataApi": "/Entries(guid'8576ebb1-73d4-4a19-b847-a1e8001b3fb8')/",
+    "VideoPageLink": "/Series/sysinternals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/782f/b27b0ddd-98cf-4c47-9553-8b6ffeac782f/SysInternalsM03_960.jpg",
+    "ShowName": "Utilizing SysInternals Tools for Windows Client",
+    "VideoLength": "00:15:08",
+    "VideoTitle": "Utilizing SysInternals Tools for Windows Client: (03) ProcessExplorer",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T02:12:44.5154677Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/782f/b27b0ddd-98cf-4c47-9553-8b6ffeac782f/SysInternalsM03_mid.mp4",
+    "Description": "This module will dive deeper into using SysInternals Tools by covering the many facets in ProcessExplorer and the benefits available to administrators. Full course outline: Mod 01: Introduction Mod 02"
+  },
+  {
+    "VideoId": "3b4945c0-e4ee-4ba0-9e9d-a1e8001c49a6",
+    "DataApi": "/Entries(guid'3b4945c0-e4ee-4ba0-9e9d-a1e8001c49a6')/",
+    "VideoPageLink": "/Series/sysinternals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a286/003b75b2-3da0-4b29-b32b-0d96ae0ba286/SysInternalsM04_960.jpg",
+    "ShowName": "Utilizing SysInternals Tools for Windows Client",
+    "VideoLength": "00:18:28",
+    "VideoTitle": "Utilizing SysInternals Tools for Windows Client: (04) ProcessMonitor",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T02:13:07.2085932Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a286/003b75b2-3da0-4b29-b32b-0d96ae0ba286/SysInternalsM04_mid.mp4",
+    "Description": "This module will dive further into using SystInternals Tools through ProcessMonitor, an advanced monitoring tool for Windows that shows real-time information around windows registry, processes, thread"
+  },
+  {
+    "VideoId": "8b82292b-6a6f-4853-8c47-a1e8001c8225",
+    "DataApi": "/Entries(guid'8b82292b-6a6f-4853-8c47-a1e8001c8225')/",
+    "VideoPageLink": "/Series/sysinternals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5252/3cdc0187-85af-4a9f-b923-4f25915a5252/SysInternalsM05_960.jpg",
+    "ShowName": "Utilizing SysInternals Tools for Windows Client",
+    "VideoLength": "00:17:41",
+    "VideoTitle": "Utilizing SysInternals Tools for Windows Client: (05) PsTools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T02:13:38.6095196Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5252/3cdc0187-85af-4a9f-b923-4f25915a5252/SysInternalsM05_mid.mp4",
+    "Description": "This module will cover the command line set of tools under PsTools, such as PsExec, PsInfo, PsInfo, PsKill, PsService, and PsShutdown. Full course outline: Mod 01: Introduction Mod 02: Windows Interna"
+  },
+  {
+    "VideoId": "581c025b-6c3f-4c57-a37e-a1e8001cbac1",
+    "DataApi": "/Entries(guid'581c025b-6c3f-4c57-a37e-a1e8001cbac1')/",
+    "VideoPageLink": "/Series/sysinternals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5d97/03f38cfe-1e6a-4d7e-9f2b-33e098525d97/SysInternalsM06_960.jpg",
+    "ShowName": "Utilizing SysInternals Tools for Windows Client",
+    "VideoLength": "00:08:07",
+    "VideoTitle": "Utilizing SysInternals Tools for Windows Client: (06) AutoRuns",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T02:13:58.4523619Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5d97/03f38cfe-1e6a-4d7e-9f2b-33e098525d97/SysInternalsM06_mid.mp4",
+    "Description": "In this module you will learn about the AutoRuns utility, which shows auto-starting locations, what programs are configured to run during system bootup or login, and shows you the entries in the order"
+  },
+  {
+    "VideoId": "6a9f1be0-e9a6-4787-b51c-a1e8001d11df",
+    "DataApi": "/Entries(guid'6a9f1be0-e9a6-4787-b51c-a1e8001d11df')/",
+    "VideoPageLink": "/Series/sysinternals/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac22/303b4468-0272-4587-a761-ed38fa78ac22/SysInternalsM07_960.jpg",
+    "ShowName": "Utilizing SysInternals Tools for Windows Client",
+    "VideoLength": "00:07:41",
+    "VideoTitle": "Utilizing SysInternals Tools for Windows Client: (07) Other Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-30T02:14:22.1531127Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac22/303b4468-0272-4587-a761-ed38fa78ac22/SysInternalsM07_mid.mp4",
+    "Description": "This module rounds of the course by covering other useful tools for IT Pros such as Disk2VHD, Strings, Zoomit, BgInfo, Rootkit-Revealear, ADInsight, and Streams. Full course outline: Mod 01: Introduct"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "74b89904-a3f8-485c-8059-a20401612cbe",
+    "DataApi": "/Entries(guid'74b89904-a3f8-485c-8059-a20401612cbe')/",
+    "VideoPageLink": "/Series/SysCtr2012R2/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d2e8/0bcdae20-6f18-4bad-babd-abfb7f0ed2e8/SysCtr2012R2M02_960.jpg",
+    "ShowName": "Whatâ€™s New in System Center 2012 R2",
+    "VideoLength": "01:27:02",
+    "VideoTitle": "What's New in System Center 2012 R2: (02) Infrastructure Provisioning",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T15:13:13.3365543Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d2e8/0bcdae20-6f18-4bad-babd-abfb7f0ed2e8/SysCtr2012R2M02_mid.mp4",
+    "Description": "This modules provides an overview of on deploy compute, storage, and networking. It also reviews day to day operations and how to construct the Private Cloud. [06:22] - Deploy Compute, Storage and Net"
+  },
+  {
+    "VideoId": "48e2bb1e-1b34-482c-814a-a20401620e9c",
+    "DataApi": "/Entries(guid'48e2bb1e-1b34-482c-814a-a20401620e9c')/",
+    "VideoPageLink": "/Series/SysCtr2012R2/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a9d2/6c8434f9-72d2-4daa-ab9f-a51098aba9d2/SysCtr2012R2M04_960.jpg",
+    "ShowName": "Whatâ€™s New in System Center 2012 R2",
+    "VideoLength": "00:37:29",
+    "VideoTitle": "What's New in System Center 2012 R2: (04) Application Performance Monitoring",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T15:13:42.4318585Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a9d2/6c8434f9-72d2-4daa-ab9f-a51098aba9d2/SysCtr2012R2M04_mid.mp4",
+    "Description": "This session goes into how to manage and monitor applications from anywhere. It also provides application insight and diagnostics, and a deeper analysis and reporting. [08:23] - Managing and Monitorin"
+  },
+  {
+    "VideoId": "094440fb-bcc0-4374-944b-a20401619329",
+    "DataApi": "/Entries(guid'094440fb-bcc0-4374-944b-a20401619329')/",
+    "VideoPageLink": "/Series/SysCtr2012R2/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d7c4/2f0979a5-bb8d-4edc-ad27-c0349307d7c4/SysCtr2012R2M03_960.jpg",
+    "ShowName": "Whatâ€™s New in System Center 2012 R2",
+    "VideoLength": "00:49:45",
+    "VideoTitle": "What's New in System Center 2012 R2: (03) Infrastructure Monitoring",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T15:13:47.1944706Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d7c4/2f0979a5-bb8d-4edc-ad27-c0349307d7c4/SysCtr2012R2M03_mid.mp4",
+    "Description": "Once the infrastructure is in place it is key to know how to monitor both the Private, Hybrid and Public Cloud. This session shows how to do it with System Center Advisor. [08:36] - Private Cloud Moni"
+  },
+  {
+    "VideoId": "5ce44396-1e46-4938-b1df-a204016259b6",
+    "DataApi": "/Entries(guid'5ce44396-1e46-4938-b1df-a204016259b6')/",
+    "VideoPageLink": "/Series/SysCtr2012R2/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db57/c063b434-8f81-4b47-be08-b30ad8d2db57/SysCtr2012R2M05_960.jpg",
+    "ShowName": "Whatâ€™s New in System Center 2012 R2",
+    "VideoLength": "00:53:16",
+    "VideoTitle": "What's New in System Center 2012 R2: (05) Automation and Self-Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T15:13:59.9721762Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db57/c063b434-8f81-4b47-be08-b30ad8d2db57/SysCtr2012R2M05_mid.mp4",
+    "Description": "In this modules your will receive and overview of self-service for the Cloud tenant, system automation, process automation and integration. Review all the resources built into the cloud infrastructure"
+  },
+  {
+    "VideoId": "1497f39a-1dc1-4b51-b685-a2040162b010",
+    "DataApi": "/Entries(guid'1497f39a-1dc1-4b51-b685-a2040162b010')/",
+    "VideoPageLink": "/Series/SysCtr2012R2/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/acba/3b927e55-fd47-411b-adb5-e0d95613acba/SysCtr2012R2M06_960.jpg",
+    "ShowName": "Whatâ€™s New in System Center 2012 R2",
+    "VideoLength": "00:44:19",
+    "VideoTitle": "What's New in System Center 2012 R2: (06) IT Service Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T15:14:14.9242254Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/acba/3b927e55-fd47-411b-adb5-e0d95613acba/SysCtr2012R2M06_mid.mp4",
+    "Description": "This section is all about SLA insights and analysis, standardized service delivery and manage multiple processes. In addition you will learn about OLA insights and analysis. [09:22] - SLA Insights and"
+  },
+  {
+    "VideoId": "4d309a6e-2170-4306-903d-a20401630b5e",
+    "DataApi": "/Entries(guid'4d309a6e-2170-4306-903d-a20401630b5e')/",
+    "VideoPageLink": "/Series/SysCtr2012R2/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b87/2dd19abc-0c76-40a6-b90d-d1abfbfb9b87/SysCtr2012R2M07_960.jpg",
+    "ShowName": "Whatâ€™s New in System Center 2012 R2",
+    "VideoLength": "01:02:07",
+    "VideoTitle": "What's New in System Center 2012 R2: (07) Windows Azure Pack",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-07-24T15:14:30.2470508Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b87/2dd19abc-0c76-40a6-b90d-d1abfbfb9b87/SysCtr2012R2M07_mid.mp4",
+    "Description": "Get ready to look inside the Windows Azure Pack. Learn about Infrastructure as a Service (IaaS), IaaS in System Center and the Service Management Portal, Virtual Machine Role and the next steps to the"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "7db81616-2131-4f9d-b63e-a4cd007d2faa",
+    "DataApi": "/Entries(guid'7db81616-2131-4f9d-b63e-a4cd007d2faa')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Databases/Module-2-SQL-Database-Management-Fundamentals",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/13e1/7f47e196-6dea-47ca-9eb6-8784f1a613e1/SQLDBManagementFundamentals_960.jpg",
+    "ShowName": "Getting started with Microsoft Databases in Hybridcloud",
+    "VideoLength": "00:36:18",
+    "VideoTitle": "Module 2 - SQL Database Management Fundamentals",
+    "Author": "APAC Online Learning",
+    "UtcDateTimePublished": "2015-07-08T02:50:05.5161162Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/13e1/7f47e196-6dea-47ca-9eb6-8784f1a613e1/SQLDBManagementFundamentals_mid.mp4",
+    "Description": "This Module discuss about the common basic database management matters that deals with how to manage databases. The course is a primer to get familiar with the roles and responsibilities of a DBA in t"
+  },
+  {
+    "VideoId": "da66585e-bea5-48af-8b27-a4cd007e27ba",
+    "DataApi": "/Entries(guid'da66585e-bea5-48af-8b27-a4cd007e27ba')/",
+    "VideoPageLink": "/Series/Getting-Started-with-Microsoft-Databases/Module-3-Basic-T-SQL-Concepts",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d67/6e230b7a-d269-43a5-b7fe-9a01983b7d67/BasicTSQLConcepts_960.jpg",
+    "ShowName": "Getting started with Microsoft Databases in Hybridcloud",
+    "VideoLength": "00:55:15",
+    "VideoTitle": "Module 3 - Basic T-SQL Concepts",
+    "Author": "APAC Online Learning",
+    "UtcDateTimePublished": "2015-07-08T02:50:32.6496092Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d67/6e230b7a-d269-43a5-b7fe-9a01983b7d67/BasicTSQLConcepts_mid.mp4",
+    "Description": "This Module discuss about the fundamentals of Microsoft's version of the Structured Query Language known as Transact-SQL which is used in Microsoft's relational database management system (RDBMS) call"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "23e69646-d921-4405-9e54-a708013a2327",
+    "DataApi": "/Entries(guid'23e69646-d921-4405-9e54-a708013a2327')/",
+    "VideoPageLink": "/Blogs/MVP-Program/MVP-Award-program-updates-February-2017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ee37/808a2250-860e-458d-8fb6-00b6f08fee37/MVPAwardProgramUpdatesFeb2017_960.jpg",
+    "ShowName": "MVP Program",
+    "VideoLength": "00:22:55",
+    "VideoTitle": "MVP Award program updates â€“ February, 2017",
+    "Author": "Seth Juarez",
+    "UtcDateTimePublished": "2017-02-01T16:45:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ee37/808a2250-860e-458d-8fb6-00b6f08fee37/MVPAwardProgramUpdatesFeb2017_mid.mp4",
+    "Description": "Learn more about the continuous evolution of the MVP Award program and the improvements we are announcing to bring more agility and enable new learning opportunities to all MVPs. "
+  }
+]

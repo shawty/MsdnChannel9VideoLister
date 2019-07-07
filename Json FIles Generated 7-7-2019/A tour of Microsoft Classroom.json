@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "3b3b4ad6-bb64-4bb5-b787-a75f0060d67d",
+    "DataApi": "/Entries(guid'3b3b4ad6-bb64-4bb5-b787-a75f0060d67d')/",
+    "VideoPageLink": "/Shows/A-tour-of-Microsoft-Classroom/A-tour-of-Microsoft-Classroom",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2900/eb472a63-7489-4bc4-b745-c9fb22c72900/ATourofMSClassroom_960.jpg",
+    "ShowName": "A tour of Microsoft Classroom",
+    "VideoLength": "00:39:55",
+    "VideoTitle": "A tour of Microsoft Classroom",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2017-04-24T09:37:30.1716091Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2900/eb472a63-7489-4bc4-b745-c9fb22c72900/ATourofMSClassroom_mid.mp4",
+    "Description": "In this session we will take you on a tour of Microsoft Classroom to see how these features work. "
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "ea2bc347-e626-4335-aba5-a46d01252f2d",
+    "DataApi": "/Entries(guid'ea2bc347-e626-4335-aba5-a46d01252f2d')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/624e/ae972db7-9ead-4c59-bdbe-c2fc68aa624e/758YammerAdminAndPowerUserM02_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:10:21",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (02) Basic Navigation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:15:36.2895523Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/624e/ae972db7-9ead-4c59-bdbe-c2fc68aa624e/758YammerAdminAndPowerUserM02_mid.mp4",
+    "Description": "Explore the Yammer user interface, along with co-editing and other cool features. Navigate to Yammer from Office 365, and see how organizations are using the platform to drive ROI. [03:43] - Demo: Bas"
+  },
+  {
+    "VideoId": "4bc3bd0e-499f-4346-a850-a46d012559a9",
+    "DataApi": "/Entries(guid'4bc3bd0e-499f-4346-a850-a46d012559a9')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e96/6b31ae12-b371-4067-b9e2-0f089f0d5e96/758YammerAdminAndPowerUserM03_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:10:22",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (03) Setup and Activation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:15:46.6550337Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e96/6b31ae12-b371-4067-b9e2-0f089f0d5e96/758YammerAdminAndPowerUserM03_mid.mp4",
+    "Description": "Move from free to enterprise, take a look at the activation process, and learn to add users. [03:44] - Demo: Starting the domain process"
+  },
+  {
+    "VideoId": "7cf8e54c-2dc3-4e42-be91-a46d01258ff4",
+    "DataApi": "/Entries(guid'7cf8e54c-2dc3-4e42-be91-a46d01258ff4')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8cf0/9248da01-77c3-4760-b840-93f32e138cf0/758YammerAdminAndPowerUserM04_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:20:46",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (04) Admin 101",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:15:57.3852315Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8cf0/9248da01-77c3-4760-b840-93f32e138cf0/758YammerAdminAndPowerUserM04_mid.mp4",
+    "Description": "Explore moderating, usage policy, and announcements. [04:00] - Demo: Managing Users[07:47] - Demo: Creating an External Network[13:44] - Demo: Daily Maintenance"
+  },
+  {
+    "VideoId": "29760720-b50f-4b4d-8473-a46d0125bf27",
+    "DataApi": "/Entries(guid'29760720-b50f-4b4d-8473-a46d0125bf27')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d6a/14965975-c6a3-4390-95d1-d318c1b52d6a/758YammerAdminAndPowerUserM05_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:14:27",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (05) Understanding Roles",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:16:09.0080361Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d6a/14965975-c6a3-4390-95d1-d318c1b52d6a/758YammerAdminAndPowerUserM05_mid.mp4",
+    "Description": "Look at the roles of the end user, Group Admin, Network Admin, and Verified Admin. [00:09] - Understanding Roles"
+  },
+  {
+    "VideoId": "89086866-5777-48e9-80a9-a46d0125f309",
+    "DataApi": "/Entries(guid'89086866-5777-48e9-80a9-a46d0125f309')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f6d7/ef68a3d1-49e8-496d-96e8-129ffe3bf6d7/758YammerAdminAndPowerUserM06_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:22:22",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (06) Administration Deep Dive",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:16:19.08097Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f6d7/ef68a3d1-49e8-496d-96e8-129ffe3bf6d7/758YammerAdminAndPowerUserM06_mid.mp4",
+    "Description": "Examine the Success Center, design and configuration, user management, and content and security. [03:15] - Demo: Group Admin Visibility[09:38] - Demo: Network Admin Visibility[14:22] - Demo: Verified "
+  },
+  {
+    "VideoId": "2405632f-d0e8-4950-9aef-a46d01262411",
+    "DataApi": "/Entries(guid'2405632f-d0e8-4950-9aef-a46d01262411')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/31de/7a85d187-e7a1-420c-bcc8-dc6b6a6931de/758YammerAdminAndPowerUserM07_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:29:48",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (07) Power User Hints and Tips",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:16:29.2444711Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/31de/7a85d187-e7a1-420c-bcc8-dc6b6a6931de/758YammerAdminAndPowerUserM07_mid.mp4",
+    "Description": "Check out the top 10 productivity tools in Yammer. [03:37] - Demo: Using Bookmarks[06:07] - Demo: Sharing and RedirectinG[09:16] - Demo: Creating an Announcement[13:20] - Demo: Creating a Poll[16:27] "
+  },
+  {
+    "VideoId": "8ecaea8e-ff1d-434a-b163-a46d01267a54",
+    "DataApi": "/Entries(guid'8ecaea8e-ff1d-434a-b163-a46d01267a54')/",
+    "VideoPageLink": "/Series/Yammer-Administration-and-Power-User-Best-Practices/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f47/6d59337a-b8cf-4524-a07d-b2ff0cfa9f47/758YammerAdminAndPowerUserM08_960.jpg",
+    "ShowName": "Yammer Administration and Power User Best Practices",
+    "VideoLength": "00:10:31",
+    "VideoTitle": "Yammer Administration and Power User Best Practices: (08) Future Planning",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-01T21:16:40.6241944Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f47/6d59337a-b8cf-4524-a07d-b2ff0cfa9f47/758YammerAdminAndPowerUserM08_mid.mp4",
+    "Description": "Take a look at the Office 365 health dashboard and the roadmap. Get the details Yammer support and the Yammer community. [00:09] - Office 365 Roadmap site and relevant links"
+  }
+]

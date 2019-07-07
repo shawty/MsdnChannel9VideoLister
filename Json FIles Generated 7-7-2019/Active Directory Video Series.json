@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "a311690c-4bac-49e9-84bc-a53e0043a01d",
+    "DataApi": "/Entries(guid'a311690c-4bac-49e9-84bc-a53e0043a01d')/",
+    "VideoPageLink": "/Series/Active-Directory-Video-Series/Domain-Controller-Promotion-and-Demotion",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "55bbd954-0aeb-4447-a485-a53e0045789b",
+    "DataApi": "/Entries(guid'55bbd954-0aeb-4447-a485-a53e0045789b')/",
+    "VideoPageLink": "/Series/Active-Directory-Video-Series/AD-Tombstone-Value--What-it-is-and-How-to-Change-it",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

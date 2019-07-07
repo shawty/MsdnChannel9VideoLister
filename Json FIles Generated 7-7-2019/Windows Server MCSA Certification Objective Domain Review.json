@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "0675fbac-1f73-4430-8df5-a339015290e2",
+    "DataApi": "/Entries(guid'0675fbac-1f73-4430-8df5-a339015290e2')/",
+    "VideoPageLink": "/Series/Windows-Server-MCSA-Certification-Objective-Domain-Review/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c853/ca1f89cf-f7c7-4713-9bf1-f091b10dc853/WinSrvrMCSADomainReviewExam411_960.jpg",
+    "ShowName": "Windows Server MCSA Certification Objective Domain Review",
+    "VideoLength": "00:41:49",
+    "VideoTitle": "Windows Server MCSA Certification Objective Domain Review: (02) Exam 70-411: Administering Windows Server 2012",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-29T15:26:42.0166435Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c853/ca1f89cf-f7c7-4713-9bf1-f091b10dc853/WinSrvrMCSADomainReviewExam411_mid.mp4",
+    "Description": "Review the Domain Objectives of the 70-411 exam. Full course outline: Mod 01: Exam 70-410: Installing and Configuring Windows Server 2012Mod 02: Exam 70-411: Administering Windows Server 2012Mod 03: E"
+  },
+  {
+    "VideoId": "ad3fa6df-2d99-4afe-8658-a3390152d41f",
+    "DataApi": "/Entries(guid'ad3fa6df-2d99-4afe-8658-a3390152d41f')/",
+    "VideoPageLink": "/Series/Windows-Server-MCSA-Certification-Objective-Domain-Review/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb9a/343c78f0-6f97-47a0-b06a-0ea09c7ffb9a/WinSrvrMCSADomainReviewExam412_960.jpg",
+    "ShowName": "Windows Server MCSA Certification Objective Domain Review",
+    "VideoLength": "00:40:12",
+    "VideoTitle": "Windows Server MCSA Certification Objective Domain Review: (03) Exam 70-412: Configuring Advanced Windows Server 2012 Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-29T15:27:06.6706553Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb9a/343c78f0-6f97-47a0-b06a-0ea09c7ffb9a/WinSrvrMCSADomainReviewExam412_mid.mp4",
+    "Description": "Review the Domain Objectives of the 70-412 exam. Full course outline: Mod 01: Exam 70-410: Installing and Configuring Windows Server 2012Mod 02: Exam 70-411: Administering Windows Server 2012Mod 03: E"
+  }
+]

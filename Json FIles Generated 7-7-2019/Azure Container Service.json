@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "c4a4aeff-97bb-407f-9ba0-a71b0013bcfd",
+    "DataApi": "/Entries(guid'c4a4aeff-97bb-407f-9ba0-a71b0013bcfd')/",
+    "VideoPageLink": "/Shows/Azure-Container-Service/How-to-link-containers-on-ACS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/58a4/40cf70dc-867e-4090-b0f1-666a5abb58a4/acsdockerdemo_960.jpg",
+    "ShowName": "Azure Container Service",
+    "VideoLength": "00:16:32",
+    "VideoTitle": "How to link containers on ACS",
+    "Author": "Jessica Deen",
+    "UtcDateTimePublished": "2017-02-22T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/58a4/40cf70dc-867e-4090-b0f1-666a5abb58a4/acsdockerdemo_mid.mp4",
+    "Description": "Check out my latest video on how to get started securely sharing data between multiple containers using Docker Swarm on Azure Container service. In this video we review the following: - Legacy Contain"
+  },
+  {
+    "VideoId": "f15a592e-b343-4a8f-931e-a7000183c508",
+    "DataApi": "/Entries(guid'f15a592e-b343-4a8f-931e-a7000183c508')/",
+    "VideoPageLink": "/Shows/Azure-Container-Service/Azure-Container-Service-How-to-change-your-public-key",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6ba7/2d5527d6-94c3-4789-9482-c2d00e066ba7/ACSsshvideo_960.jpg",
+    "ShowName": "Azure Container Service",
+    "VideoLength": "00:05:23",
+    "VideoTitle": "Azure Container Service - How to change your public key",
+    "Author": "Jessica Deen",
+    "UtcDateTimePublished": "2017-01-19T23:51:47.8060801Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6ba7/2d5527d6-94c3-4789-9482-c2d00e066ba7/ACSsshvideo_mid.mp4",
+    "Description": "Hi guys! I thought I'd do a quick how-to video on changing your public key in the event you forget your private key passphrase, or you simply lose your private key altogether. Feel free to leave comme"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "fabb5041-751e-4301-8fd6-9dea0119a8da",
+    "DataApi": "/Entries(guid'fabb5041-751e-4301-8fd6-9dea0119a8da')/",
+    "VideoPageLink": "/Blogs/ErnieBooth/WPFE-Video-Boot-Camp-Microsoft-Expression-and-Visual-Studio-2005--Ernie-Booth",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "17fdefde-515c-4ee0-be15-9dea0119ada6",
+    "DataApi": "/Entries(guid'17fdefde-515c-4ee0-be15-9dea0119ada6')/",
+    "VideoPageLink": "/Blogs/ErnieBooth/WPFE-Video-Boot-Camp-XAML-Basics-Ernie-Booth",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "c4bdbb71-dd89-4f59-94e7-9dea0119b159",
+    "DataApi": "/Entries(guid'c4bdbb71-dd89-4f59-94e7-9dea0119b159')/",
+    "VideoPageLink": "/Blogs/ErnieBooth/Peer-To-Peer-in-Windows-Vista",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

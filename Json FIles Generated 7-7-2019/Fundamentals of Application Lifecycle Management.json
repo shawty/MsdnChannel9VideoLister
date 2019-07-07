@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "0ca2c061-5c73-4dc2-875d-a46f0171b992",
+    "DataApi": "/Entries(guid'0ca2c061-5c73-4dc2-875d-a46f0171b992')/",
+    "VideoPageLink": "/Series/Fundamentals-of-Application-Lifecycle-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c4bf/3ef619d1-4750-4b9d-9841-2a584f13c4bf/735FundamentalsOfALM02_960.jpg",
+    "ShowName": "Fundamentals of Application Lifecycle Management",
+    "VideoLength": "01:03:02",
+    "VideoTitle": "Fundamentals of Application Lifecycle Management: (02) DevOps: Enabling Continuous Delivery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-04T01:16:56.335067Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c4bf/3ef619d1-4750-4b9d-9841-2a584f13c4bf/735FundamentalsOfALM02_mid.mp4",
+    "Description": "Start with DevOps (and DevTest), since as this is the core discipline that drives fast feedback, quality, and quick cycle times. Pay homage to the leaders of this space, and then dive into continuous "
+  },
+  {
+    "VideoId": "4de3bef8-cefe-4961-9477-a46f0171e89f",
+    "DataApi": "/Entries(guid'4de3bef8-cefe-4961-9477-a46f0171e89f')/",
+    "VideoPageLink": "/Series/Fundamentals-of-Application-Lifecycle-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7913/7282669f-d590-47ce-9b87-c83fd86e7913/735FundamentalsOfALM03_960.jpg",
+    "ShowName": "Fundamentals of Application Lifecycle Management",
+    "VideoLength": "01:07:33",
+    "VideoTitle": "Fundamentals of Application Lifecycle Management: (03) Quality: Building Better Software from the Get Go",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-04T01:17:06.7711936Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7913/7282669f-d590-47ce-9b87-c83fd86e7913/735FundamentalsOfALM03_mid.mp4",
+    "Description": "Walk through quality, with a focus on practices, principles, and even quality gates. Get a look at some of the best tools in the marketplace, backed up with the core techniques and philosophies that m"
+  },
+  {
+    "VideoId": "b2d763c5-7f28-4600-a52f-a46f01721329",
+    "DataApi": "/Entries(guid'b2d763c5-7f28-4600-a52f-a46f01721329')/",
+    "VideoPageLink": "/Series/Fundamentals-of-Application-Lifecycle-Management/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95d0/0bb637dd-9b7d-4ba0-b536-8f45a06195d0/735FundamentalsOfALM04_960.jpg",
+    "ShowName": "Fundamentals of Application Lifecycle Management",
+    "VideoLength": "00:57:59",
+    "VideoTitle": "Fundamentals of Application Lifecycle Management: (04) Visibility: Managing Software Through Transparency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-04T01:17:18.6755931Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95d0/0bb637dd-9b7d-4ba0-b536-8f45a06195d0/735FundamentalsOfALM04_mid.mp4",
+    "Description": "Wrap with end-to-end visibility and transparency, which supports team cohesion and trust and provides the feedback loop necessary for not just building the right thing but also for building the right "
+  }
+]

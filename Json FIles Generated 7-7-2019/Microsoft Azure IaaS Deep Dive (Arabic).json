@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "a41cc994-d66e-4440-86e6-a4a400834780",
+    "DataApi": "/Entries(guid'a41cc994-d66e-4440-86e6-a4a400834780')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Closer-look-on-Azure-Virtual-Machines-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2a82/6ccb8849-62e6-4058-a746-5931d18f2a82/CloserlookonAzureVirtuslMachines_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Deep Dive (Arabic)",
+    "VideoLength": "00:39:10",
+    "VideoTitle": "Closer look on Azure Virtual Machines (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-07-02T15:01:42.9900056Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2a82/6ccb8849-62e6-4058-a746-5931d18f2a82/CloserlookonAzureVirtuslMachines_mid.mp4",
+    "Description": "This module walkthrough creating multiple virtual machines in the same cloud service and how to apply load balancing for performance purpose using load-balanced set &amp; fault tolerance using availab"
+  },
+  {
+    "VideoId": "f4f69dd9-5295-4ef6-a0f4-a4a4008391d6",
+    "DataApi": "/Entries(guid'f4f69dd9-5295-4ef6-a0f4-a4a4008391d6')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Storage-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0e01/7e0ed7f0-a7fd-4f85-894f-c68e29e00e01/Storage_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Deep Dive (Arabic)",
+    "VideoLength": "00:49:51",
+    "VideoTitle": "Storage (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-07-02T15:01:55.1123752Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0e01/7e0ed7f0-a7fd-4f85-894f-c68e29e00e01/Storage_mid.mp4",
+    "Description": "This module explains Azure storage concepts and walkthrough creating storage account, container and blob. The second part of the module walkthrough how to attach/detach disks to virtual machines in ad"
+  },
+  {
+    "VideoId": "b5f8d22d-9be5-40cb-ae63-a4a4008430d8",
+    "DataApi": "/Entries(guid'b5f8d22d-9be5-40cb-ae63-a4a4008430d8')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Virtual-Networks-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0473/8bd63f21-cf38-487e-a2ba-1bf00be20473/VirtualNetworks_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Deep Dive (Arabic)",
+    "VideoLength": "00:31:04",
+    "VideoTitle": "Virtual Networks (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-07-02T15:02:04.2937581Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0473/8bd63f21-cf38-487e-a2ba-1bf00be20473/VirtualNetworks_mid.mp4",
+    "Description": "This module covers the fundamentals of Azure Virtual Networks including communication scenarios, name resolution and traffic manager. "
+  },
+  {
+    "VideoId": "3017c1b0-ea99-4378-aa65-a4a40084f617",
+    "DataApi": "/Entries(guid'3017c1b0-ea99-4378-aa65-a4a40084f617')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Closer-look-on-Virtual-Networks-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a53/b478d66f-b50e-473e-9617-f3db71085a53/CloserLookonVirtualNetworks_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Deep Dive (Arabic)",
+    "VideoLength": "00:39:15",
+    "VideoTitle": "Closer look on Virtual Networks (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-07-02T15:02:15.1068859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a53/b478d66f-b50e-473e-9617-f3db71085a53/CloserLookonVirtualNetworks_mid.mp4",
+    "Description": "This module walkthrough creating private virtual network fully contained in the cloud and in the second part, it walkthrough creating cross-premises network whether site-to-site or point-to-site. "
+  },
+  {
+    "VideoId": "01519b53-7c15-4b34-8e2d-a4a40085670b",
+    "DataApi": "/Entries(guid'01519b53-7c15-4b34-8e2d-a4a40085670b')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Deep-Dive-Arabic/Migrating-Hyper-V-with-PowerShell-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae3f/010840fe-a6d7-41e9-a72b-e211b179ae3f/MigratingHyperVwithPowerShell_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Deep Dive (Arabic)",
+    "VideoLength": "00:19:31",
+    "VideoTitle": "Migrating Hyper-V with PowerShell (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-07-02T15:02:24.3167819Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae3f/010840fe-a6d7-41e9-a72b-e211b179ae3f/MigratingHyperVwithPowerShell_mid.mp4",
+    "Description": "This module walkthrough accessing Azure account using PowerShell and how to migrate local VHDs to Azure blobs in order to attach it as a disk in your virtual machine. "
+  }
+]

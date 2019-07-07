@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "b2bb4fed-87a0-4581-b8af-a3a201363aa8",
+    "DataApi": "/Entries(guid'b2bb4fed-87a0-4581-b8af-a3a201363aa8')/",
+    "VideoPageLink": "/Series/Open-Source-Questions-Answered/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4950/080fe852-d0a6-4a7f-a125-d13fa27b4950/OpenSourceQuestionsAnsweredM02_960.jpg",
+    "ShowName": "Open Source Questions Answered",
+    "VideoLength": "00:20:43",
+    "VideoTitle": "Open Source Questions Answered: (02) Grokking OSS Culture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T16:56:32.7933537Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4950/080fe852-d0a6-4a7f-a125-d13fa27b4950/OpenSourceQuestionsAnsweredM02_mid.mp4",
+    "Description": "Phil Haack of GitHub talks about the culture of OSS, how projects work, and how to get involved. Full course outline: Mod 01: An Introduction: What's So Great About OSS?Mod 02: Grokking OSS CultureMod"
+  },
+  {
+    "VideoId": "d78d7353-757f-4bcb-824f-a3a201366eaa",
+    "DataApi": "/Entries(guid'd78d7353-757f-4bcb-824f-a3a201366eaa')/",
+    "VideoPageLink": "/Series/Open-Source-Questions-Answered/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7518/1942fb9d-7c78-4877-903c-95e5475f7518/OpenSourceQuestionsAnsweredM03_960.jpg",
+    "ShowName": "Open Source Questions Answered",
+    "VideoLength": "00:26:41",
+    "VideoTitle": "Open Source Questions Answered: (03) Working the Open Source Way",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T16:56:58.0904132Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7518/1942fb9d-7c78-4877-903c-95e5475f7518/OpenSourceQuestionsAnsweredM03_mid.mp4",
+    "Description": "MVP Keith Dahlby discusses his own projects on GitHub and how to best incorporate your new ideas into existing projects. Full course outline: Mod 01: An Introduction: What's So Great About OSS?Mod 02:"
+  },
+  {
+    "VideoId": "7242086b-ed23-400b-8daf-a3a20136af7e",
+    "DataApi": "/Entries(guid'7242086b-ed23-400b-8daf-a3a20136af7e')/",
+    "VideoPageLink": "/Series/Open-Source-Questions-Answered/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dfb0/6abc1c6e-669f-4dfe-9395-d57c7f1fdfb0/OpenSourceQuestionsAnsweredM04_960.jpg",
+    "ShowName": "Open Source Questions Answered",
+    "VideoLength": "00:31:29",
+    "VideoTitle": "Open Source Questions Answered: (04) Legal Concerns",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T16:57:19.9034026Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dfb0/6abc1c6e-669f-4dfe-9395-d57c7f1fdfb0/OpenSourceQuestionsAnsweredM04_mid.mp4",
+    "Description": "Cliff Allen, Senior Attorney with Microsoft Law and Corporate Affairs, discusses licensing and potential legal issues with OSS. Full course outline: Mod 01: An Introduction: What's So Great About OSS?"
+  },
+  {
+    "VideoId": "9f597928-027a-48d3-ac0e-a3a20136e741",
+    "DataApi": "/Entries(guid'9f597928-027a-48d3-ac0e-a3a20136e741')/",
+    "VideoPageLink": "/Series/Open-Source-Questions-Answered/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7b75/d7a52904-b841-4f92-bef1-18a0bcee7b75/OpenSourceQuestionsAnsweredM05_960.jpg",
+    "ShowName": "Open Source Questions Answered",
+    "VideoLength": "00:24:35",
+    "VideoTitle": "Open Source Questions Answered: (05) The History of ASP.NET and Open Source",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T16:57:43.8800315Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7b75/d7a52904-b841-4f92-bef1-18a0bcee7b75/OpenSourceQuestionsAnsweredM05_mid.mp4",
+    "Description": "Scott Hunter, Principal Program Manager with Microsoft, discusses ASP.NET's evolution with OSS. Full course outline: Mod 01: An Introduction: What's So Great About OSS?Mod 02: Grokking OSS CultureMod "
+  },
+  {
+    "VideoId": "c59d725b-b7fc-407e-bab1-a3a201371f6e",
+    "DataApi": "/Entries(guid'c59d725b-b7fc-407e-bab1-a3a201371f6e')/",
+    "VideoPageLink": "/Series/Open-Source-Questions-Answered/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e15a/1ead5b1a-d655-421e-aacf-fd7602e0e15a/OpenSourceQuestionsAnsweredM06_960.jpg",
+    "ShowName": "Open Source Questions Answered",
+    "VideoLength": "00:25:50",
+    "VideoTitle": "Open Source Questions Answered: (06) .NET and Open Source",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T16:58:05.2764935Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e15a/1ead5b1a-d655-421e-aacf-fd7602e0e15a/OpenSourceQuestionsAnsweredM06_mid.mp4",
+    "Description": "Jay Schmelzer, Partner Director with Microsoft, discusses the .NET Foundation. Full course outline: Mod 01: An Introduction: What's So Great About OSS?Mod 02: Grokking OSS CultureMod 03: Working the O"
+  },
+  {
+    "VideoId": "4674076a-b5a5-4132-95a5-a3a201375598",
+    "DataApi": "/Entries(guid'4674076a-b5a5-4132-95a5-a3a201375598')/",
+    "VideoPageLink": "/Series/Open-Source-Questions-Answered/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/175f/359a575c-fb92-4d6b-a048-e3f56c8e175f/OpenSourceQuestionsAnsweredM07_960.jpg",
+    "ShowName": "Open Source Questions Answered",
+    "VideoLength": "00:15:48",
+    "VideoTitle": "Open Source Questions Answered: (07) Microsoft Open Tech",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-11T17:00:02.307786Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/175f/359a575c-fb92-4d6b-a048-e3f56c8e175f/OpenSourceQuestionsAnsweredM07_mid.mp4",
+    "Description": "Gianugo Rabellino, Senior Director of Open Source Communities with Microsoft Open Tech, discusses Microsoft and the OSS community. Full course outline: Mod 01: An Introduction: What's So Great About O"
+  }
+]

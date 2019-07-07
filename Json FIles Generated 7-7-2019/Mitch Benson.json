@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "e827640f-4380-4983-a04c-9e1000eebb5f",
+    "DataApi": "/Entries(guid'e827640f-4380-4983-a04c-9e1000eebb5f')/",
+    "VideoPageLink": "/Blogs/mitchb/Technology-that-Empowers-Texting-for-Democracy",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "df14ee56-1d56-412c-bc85-9e1000eeb429",
+    "DataApi": "/Entries(guid'df14ee56-1d56-412c-bc85-9e1000eeb429')/",
+    "VideoPageLink": "/Blogs/mitchb/Whats-Wrong-with-the-Train-the-Teacher-Paradigm",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "c946d279-c6d8-47a7-85d7-9e1000eeabdc",
+    "DataApi": "/Entries(guid'c946d279-c6d8-47a7-85d7-9e1000eeabdc')/",
+    "VideoPageLink": "/Blogs/mitchb/Building-an-Equitable-Society",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "0b5c9f3a-f443-4781-adaa-9e1000eea397",
+    "DataApi": "/Entries(guid'0b5c9f3a-f443-4781-adaa-9e1000eea397')/",
+    "VideoPageLink": "/Blogs/mitchb/Hello-ROI-and-the-Technology-Leaders-Role",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

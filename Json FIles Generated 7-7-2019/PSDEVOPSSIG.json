@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "92792d16-7f03-4a7b-aa82-a69f00ff61a7",
+    "DataApi": "/Entries(guid'92792d16-7f03-4a7b-aa82-a69f00ff61a7')/",
+    "VideoPageLink": "/Blogs/PSDEVOPSSIG/PSDEVOPSSIGEventLability-Demo-w-Iain-Brigton",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d380/8a428192-bf2d-4f3a-a0d5-0820ea23d380/PSDEVOPSSIGLability_960.jpg",
+    "ShowName": "PSDEVOPSSIG",
+    "VideoLength": "01:51:58",
+    "VideoTitle": "PSDEVOPSSIG Event â€“ Lability Demo w/ Iain Brighton",
+    "Author": "BobbyReed",
+    "UtcDateTimePublished": "2016-10-14T18:25:04.3898554Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d380/8a428192-bf2d-4f3a-a0d5-0820ea23d380/PSDEVOPSSIGLability_mid.mp4",
+    "Description": "PSDEVOPSSIG Event â€“ Lability Demo w/ Iain Brighton What is Lability?               As the name suggests, Lability is a Lab Builder for Hyper-V, with Azure and VCenter connectors planned for future dev"
+  }
+]

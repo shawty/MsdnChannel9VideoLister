@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d1768d15-b4db-47c5-9509-a62c015e5296",
+    "DataApi": "/Entries(guid'd1768d15-b4db-47c5-9509-a62c015e5296')/",
+    "VideoPageLink": "/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-AlwaysOn",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7985/2c77d94b-a889-443e-902e-8968522c7985/SQLServer2016TKAlwaysOn_960.jpg",
+    "ShowName": "SQL Server 2016 Training Kit",
+    "VideoLength": "00:07:04",
+    "VideoTitle": "Always On in SQL Server 2016 ",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2016-06-22T02:00:42.7778326Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7985/2c77d94b-a889-443e-902e-8968522c7985/SQLServer2016TKAlwaysOn_mid.mp4",
+    "Description": "Scott Klein and Joey D'Antoni discuss and demo the enhancements in Always On Availability Groups in SQL Server 2016. "
+  },
+  {
+    "VideoId": "1f200624-a6cd-4421-93e2-a62c015e9765",
+    "DataApi": "/Entries(guid'1f200624-a6cd-4421-93e2-a62c015e9765')/",
+    "VideoPageLink": "/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-BI",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f551/1e4b9142-77a7-4a0e-93b8-a8a45a5ff551/SQLServer2016TKBUI_960.jpg",
+    "ShowName": "SQL Server 2016 Training Kit",
+    "VideoLength": "00:06:16",
+    "VideoTitle": "BI enhancements in SQL Server 2016",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2016-06-22T01:56:11.6258644Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f551/1e4b9142-77a7-4a0e-93b8-a8a45a5ff551/SQLServer2016TKBUI_mid.mp4",
+    "Description": "Scott Klein and Joey D'Antoni discuss and demo the enhancements in SSRS, SSIS, and SSAS in SQL Server 2016. "
+  },
+  {
+    "VideoId": "ab88ece1-db55-4cbc-b592-a62c015ec63d",
+    "DataApi": "/Entries(guid'ab88ece1-db55-4cbc-b592-a62c015ec63d')/",
+    "VideoPageLink": "/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-Developer-Enhancements",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/50dc/e976731a-51cd-4867-ac57-8929f1d150dc/SQLServer2016TKDeveloper_960.jpg",
+    "ShowName": "SQL Server 2016 Training Kit",
+    "VideoLength": "00:08:37",
+    "VideoTitle": "Developer Enhancements in SQL Server 2016",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2016-06-22T01:50:55.8671075Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/50dc/e976731a-51cd-4867-ac57-8929f1d150dc/SQLServer2016TKDeveloper_mid.mp4",
+    "Description": "Scott Klein and Joey D'Antoni discuss and demo the developer enhancements in SQL Server 2016. "
+  },
+  {
+    "VideoId": "1a04e9e8-d51e-43a1-82ee-a62c015ef74a",
+    "DataApi": "/Entries(guid'1a04e9e8-d51e-43a1-82ee-a62c015ef74a')/",
+    "VideoPageLink": "/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-Security",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b3fc/2b277d38-f03a-4e7e-ac4c-049a5284b3fc/SQLServer2016TKSecurity_960.jpg",
+    "ShowName": "SQL Server 2016 Training Kit",
+    "VideoLength": "00:07:30",
+    "VideoTitle": "Security in SQL Server 2016",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2016-06-22T01:46:42.653907Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b3fc/2b277d38-f03a-4e7e-ac4c-049a5284b3fc/SQLServer2016TKSecurity_mid.mp4",
+    "Description": "Scott Klein and Joey D'Antoni discuss and demo the security features and enhancements in SQL Server 2016. "
+  },
+  {
+    "VideoId": "9cfdfe6c-468a-4db9-a82d-a62c015f2ee4",
+    "DataApi": "/Entries(guid'9cfdfe6c-468a-4db9-a82d-a62c015f2ee4')/",
+    "VideoPageLink": "/Blogs/SQL-Server-2016-Training-Kit/SQL-Server-2016-DBA-Enhancements",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb9e/14fa43f6-7102-423c-bc47-ad6e73d4fb9e/SQLServer2016TKDBAEnhancements_960.jpg",
+    "ShowName": "SQL Server 2016 Training Kit",
+    "VideoLength": "00:07:58",
+    "VideoTitle": "DBA Enhancements in SQL Server 2016 ",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2016-06-22T01:40:14.2154531Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb9e/14fa43f6-7102-423c-bc47-ad6e73d4fb9e/SQLServer2016TKDBAEnhancements_mid.mp4",
+    "Description": "Scott Klein and Joey D'Antoni discuss and demo the DBA enhancements in SQL Server 2016. "
+  }
+]

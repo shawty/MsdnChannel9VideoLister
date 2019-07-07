@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "2199d686-8038-437c-a8c5-a36401477d27",
+    "DataApi": "/Entries(guid'2199d686-8038-437c-a8c5-a36401477d27')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-Exchange-with-the-Microsoft-Cloud-OS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a325/320929ba-e34a-4020-8b8e-389fab07a325/VirtualizingManagingExchangeMSCloudOSM02_960.jpg",
+    "ShowName": "Virtualizing & Managing Exchange with the Microsoft Cloud OS",
+    "VideoLength": "00:22:12",
+    "VideoTitle": "Virtualizing & Managing Exchange with the Microsoft Cloud OS: (02) Storage & Networking",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:16:19.8882276Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a325/320929ba-e34a-4020-8b8e-389fab07a325/VirtualizingManagingExchangeMSCloudOSM02_mid.mp4",
+    "Description": "Discover greater performance and flexibility for Exchange Server virtual machines (VMs). Explore Virtual Fibre Channel, connecting an Exchange VM directly to FC SAN to drive high levels of native stor"
+  },
+  {
+    "VideoId": "76c3bcee-c969-4d60-9469-a3640147bb4c",
+    "DataApi": "/Entries(guid'76c3bcee-c969-4d60-9469-a3640147bb4c')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-Exchange-with-the-Microsoft-Cloud-OS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4ec6/0af6713c-f0a6-4968-89ac-1bee27464ec6/VirtualizingManagingExchangeMSCloudOSM03_960.jpg",
+    "ShowName": "Virtualizing & Managing Exchange with the Microsoft Cloud OS",
+    "VideoLength": "00:29:28",
+    "VideoTitle": "Virtualizing & Managing Exchange with the Microsoft Cloud OS: (03) Flexibility & Resiliency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:16:40.1930908Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4ec6/0af6713c-f0a6-4968-89ac-1bee27464ec6/VirtualizingManagingExchangeMSCloudOSM03_mid.mp4",
+    "Description": "Find out more about Live Migration and how Hyper-V Live Migration moves running virtual machines from one physical server to another with no impact on availability to users. Look at Exchange Database "
+  },
+  {
+    "VideoId": "649b1bdf-118e-4474-aeea-a3640147f047",
+    "DataApi": "/Entries(guid'649b1bdf-118e-4474-aeea-a3640147f047')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-Exchange-with-the-Microsoft-Cloud-OS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cc85/db38c159-25b4-475e-9bf2-5ef029c1cc85/VirtualizingManagingExchangeMSCloudOSM04_960.jpg",
+    "ShowName": "Virtualizing & Managing Exchange with the Microsoft Cloud OS",
+    "VideoLength": "01:03:29",
+    "VideoTitle": "Virtualizing & Managing Exchange with the Microsoft Cloud OS: (04) Exchange Support on Hyper-V & Comprehensive Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:17:04.2672152Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cc85/db38c159-25b4-475e-9bf2-5ef029c1cc85/VirtualizingManagingExchangeMSCloudOSM04_mid.mp4",
+    "Description": "Get the details on Virtual Machine Manager, which provides the IT administrators the ability to manage the hypervisor hosts, and find out about private clouds, self-service, and comprehensive manageme"
+  },
+  {
+    "VideoId": "a42afcd4-30b0-42fa-a71f-a3640148267e",
+    "DataApi": "/Entries(guid'a42afcd4-30b0-42fa-a71f-a3640148267e')/",
+    "VideoPageLink": "/Series/Virtualizing-Managing-Exchange-with-the-Microsoft-Cloud-OS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/814b/1331ff68-0b1c-486c-b219-f95c6f55814b/VirtualizingManagingExchangeMSCloudOSM05_960.jpg",
+    "ShowName": "Virtualizing & Managing Exchange with the Microsoft Cloud OS",
+    "VideoLength": "00:27:45",
+    "VideoTitle": "Virtualizing & Managing Exchange with the Microsoft Cloud OS: (05) Delivering Exchange as a Service & Summary",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-07-11T01:17:14.9852125Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/814b/1331ff68-0b1c-486c-b219-f95c6f55814b/VirtualizingManagingExchangeMSCloudOSM05_mid.mp4",
+    "Description": "Learn about System Center Virtual Machine Manager and how it can be used to design and construct service templates to automate Exchange deployment. See how Service Template for Exchange is valuable fo"
+  }
+]

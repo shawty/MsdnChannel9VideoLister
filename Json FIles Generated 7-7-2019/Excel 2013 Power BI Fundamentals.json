@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "92393aec-d2f3-4cfd-9539-a3d9014dee53",
+    "DataApi": "/Entries(guid'92393aec-d2f3-4cfd-9539-a3d9014dee53')/",
+    "VideoPageLink": "/Series/Excel-2013-Power-BI-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1a7a/c1c48ad6-da37-482f-8cd4-c661463e1a7a/Excel2013PwrBIFundamentalsM02_960.jpg",
+    "ShowName": "Excel 2013 Power BI Fundamentals",
+    "VideoLength": "00:44:17",
+    "VideoTitle": "Excel 2013 Power BI Fundamentals: (02) Preparing a PowerPivot Data Model for Power View Reporting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-04T22:27:59.5490349Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1a7a/c1c48ad6-da37-482f-8cd4-c661463e1a7a/Excel2013PwrBIFundamentalsM02_mid.mp4",
+    "Description": "Prepare the PowerPivot workbook created in the first module for Power View reporting, define reporting properties, and remove explicit measures. Configure the data model to access external images by U"
+  },
+  {
+    "VideoId": "371de62a-4a76-42ff-804d-a3d9014e27a4",
+    "DataApi": "/Entries(guid'371de62a-4a76-42ff-804d-a3d9014e27a4')/",
+    "VideoPageLink": "/Series/Excel-2013-Power-BI-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/226e/e122a3fe-5c89-46b5-bcc0-f83c99e5226e/Excel2013PwrBIFundamentalsM03_960.jpg",
+    "ShowName": "Excel 2013 Power BI Fundamentals",
+    "VideoLength": "00:40:07",
+    "VideoTitle": "Excel 2013 Power BI Fundamentals: (03) Exploring Power View",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-04T22:28:18.6475513Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/226e/e122a3fe-5c89-46b5-bcc0-f83c99e5226e/Excel2013PwrBIFundamentalsM03_mid.mp4",
+    "Description": "Explore the Power View environment in an Excel 2013 workbook by creating various views and connecting to Bing Maps. [02:17] - Creating Power View Sheets[19:04] - Interacting with the Data Regions[28:5"
+  },
+  {
+    "VideoId": "b396e6a0-57cb-481a-8900-a3d9014e5dd3",
+    "DataApi": "/Entries(guid'b396e6a0-57cb-481a-8900-a3d9014e5dd3')/",
+    "VideoPageLink": "/Series/Excel-2013-Power-BI-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b7ae/91e3f826-3b4a-4ff1-8896-ff99e91cb7ae/Excel2013PwrBIFundamentalsM04_960.jpg",
+    "ShowName": "Excel 2013 Power BI Fundamentals",
+    "VideoLength": "00:36:53",
+    "VideoTitle": "Excel 2013 Power BI Fundamentals: (04) Exploring Power Map",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-04T22:28:42.4596121Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b7ae/91e3f826-3b4a-4ff1-8896-ff99e91cb7ae/Excel2013PwrBIFundamentalsM04_mid.mp4",
+    "Description": "Use Power Map to produce a tour, consisting of four scenes, to spatially and temporarally present revenue data for the Tailspin Toys operations. Then, embed a video of the tour into a PowerPoint prese"
+  }
+]

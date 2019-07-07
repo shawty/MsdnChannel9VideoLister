@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "4f9d18bc-f0ea-47a4-ab82-9deb0189a649",
+    "DataApi": "/Entries(guid'4f9d18bc-f0ea-47a4-ab82-9deb0189a649')/",
+    "VideoPageLink": "/Blogs/Philo589/InfoPath-and-SharePoint",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f2e/03b3c62d-e7ce-4868-9e61-19ad11a68f2e/InfoPath-and-SharePoint_960.jpg",
+    "ShowName": "Philo589",
+    "VideoLength": "00:08:42",
+    "VideoTitle": "InfoPath and SharePoint",
+    "Author": "Philo",
+    "UtcDateTimePublished": "2007-09-28T04:59:18Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f2e/03b3c62d-e7ce-4868-9e61-19ad11a68f2e/InfoPath-and-SharePoint_mid.mp4",
+    "Description": "After some concerns that connecting InfoPath to a database table was going too far for non-IT power users, I'm following up showing InfoPath integration with SharePoint - no database necessary.\n\n\nA"
+  },
+  {
+    "VideoId": "de28a40b-60ca-4233-b63e-9deb0189ab82",
+    "DataApi": "/Entries(guid'de28a40b-60ca-4233-b63e-9deb0189ab82')/",
+    "VideoPageLink": "/Blogs/Philo589/Overview-of-Analysis-Services-whats-in-it-for-me",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a3fa/56cf078e-446f-470e-85b3-56807412a3fa/Overview-of-Analysis-Services-whats-in-it-for-me_960.jpg",
+    "ShowName": "Philo589",
+    "VideoLength": "00:09:02",
+    "VideoTitle": "Overview of Analysis Services - what's in it for me?",
+    "Author": "Philo",
+    "UtcDateTimePublished": "2007-09-24T17:27:59Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a3fa/56cf078e-446f-470e-85b3-56807412a3fa/Overview-of-Analysis-Services-whats-in-it-for-me_mid.mp4",
+    "Description": "SQL Server Analysis Services is a very powerful tool, which was introduced with SQL Server 2000. In SQL Server 2005 it is far more powerful, but still underappreciated by a lot of developers. This is "
+  },
+  {
+    "VideoId": "c6b0eb13-d7fe-4651-a311-9deb0189af65",
+    "DataApi": "/Entries(guid'c6b0eb13-d7fe-4651-a311-9deb0189af65')/",
+    "VideoPageLink": "/Blogs/Philo589/Using-InfoPath-to-design-database-forms",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a463/fccc94cf-2b80-4536-a5ac-5cb6350da463/Using-InfoPath-to-design-database-forms_960.jpg",
+    "ShowName": "Philo589",
+    "VideoLength": "00:08:07",
+    "VideoTitle": "Using InfoPath to design database forms",
+    "Author": "Philo",
+    "UtcDateTimePublished": "2007-09-20T15:33:31Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a463/fccc94cf-2b80-4536-a5ac-5cb6350da463/Using-InfoPath-to-design-database-forms_mid.mp4",
+    "Description": "\nMicrosoft introduced InfoPath \nin 2003, yet it seems to have escaped the notice of a lot of folks. In this short screencast I show how easy it is to connect InfoPath to a database for basic CRUD op"
+  }
+]

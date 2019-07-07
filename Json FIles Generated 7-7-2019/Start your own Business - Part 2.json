@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c6ee77b8-3bb0-4498-a0ff-a3bc00cbf10f",
+    "DataApi": "/Entries(guid'c6ee77b8-3bb0-4498-a0ff-a3bc00cbf10f')/",
+    "VideoPageLink": "/Series/Start-your-own-Business-Part-2/What-should-technology-start-ups-think-about-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b63a/1380e9e8-a007-4da5-995b-64859657b63a/Whatshouldtechnologystartupsthinkabout_960.jpg",
+    "ShowName": "Start your own Business - Part 2",
+    "VideoLength": "00:29:19",
+    "VideoTitle": "What should technology start-ups think about? ",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2014-10-16T10:12:18.3488103Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b63a/1380e9e8-a007-4da5-995b-64859657b63a/Whatshouldtechnologystartupsthinkabout_mid.mp4",
+    "Description": "Starting a technology business is different to starting any other business, as one of the critical requirements is to ensure you stay ahead of innovation in your business. Technology start-ups however"
+  },
+  {
+    "VideoId": "c921cea6-d956-4397-b820-a3bc00cb9216",
+    "DataApi": "/Entries(guid'c921cea6-d956-4397-b820-a3bc00cb9216')/",
+    "VideoPageLink": "/Series/Start-your-own-Business-Part-2/Where-can-I-access-information-about-starting-a-business-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0e83/bf7b6b1e-392c-4b75-ae4e-053390810e83/Wherecaniaccessinformationaboutstartingabusiness_960.jpg",
+    "ShowName": "Start your own Business - Part 2",
+    "VideoLength": "00:19:29",
+    "VideoTitle": "Where can I access information about starting a business?",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2014-10-16T10:13:29.4215444Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0e83/bf7b6b1e-392c-4b75-ae4e-053390810e83/Wherecaniaccessinformationaboutstartingabusiness_mid.mp4",
+    "Description": "So many entrepreneurs are unsure where to start when looking for information to start their own businesses. The information could be overwhelming and daunting at the same time if you don't know where "
+  },
+  {
+    "VideoId": "8dbeffc6-d28f-46b8-9a79-a3b900d9ee6b",
+    "DataApi": "/Entries(guid'8dbeffc6-d28f-46b8-9a79-a3b900d9ee6b')/",
+    "VideoPageLink": "/Series/Start-your-own-Business-Part-2/How-do-I-make-social-media-work-for-my-business-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8c27/3f049db9-4177-4f50-89b9-cea527788c27/HowdoImakesocialmediaworkforbusiness_960.jpg",
+    "ShowName": "Start your own Business - Part 2",
+    "VideoLength": "00:28:24",
+    "VideoTitle": "How do I make social media work for my business? ",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2014-10-16T10:13:50.4336705Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8c27/3f049db9-4177-4f50-89b9-cea527788c27/HowdoImakesocialmediaworkforbusiness_mid.mp4",
+    "Description": "Small business owners who want to grow their businesses often wonder about the best ways to use social media to improve their business's chance of success. Social media is a complex area, and often us"
+  },
+  {
+    "VideoId": "5e375716-bcfb-4894-ad69-a3b900d944fc",
+    "DataApi": "/Entries(guid'5e375716-bcfb-4894-ad69-a3b900d944fc')/",
+    "VideoPageLink": "/Series/Start-your-own-Business-Part-2/How-can-technology-help-me-Is-it-expensive-",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de28/fd3da3e6-b6b2-428c-a5a7-25b0e9fdde28/Howcantechnologyhelpmeandisitexpensive_960.jpg",
+    "ShowName": "Start your own Business - Part 2",
+    "VideoLength": "00:23:43",
+    "VideoTitle": "How can technology help me? Is it expensive? ",
+    "Author": "nanka",
+    "UtcDateTimePublished": "2014-10-16T10:15:14.1206743Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de28/fd3da3e6-b6b2-428c-a5a7-25b0e9fdde28/Howcantechnologyhelpmeandisitexpensive_mid.mp4",
+    "Description": "Many small business owners are alarmed at the thought of having to embrace technology as a core tool in their businesses. They often wonder whether technology will be of assistance in their business, "
+  }
+]

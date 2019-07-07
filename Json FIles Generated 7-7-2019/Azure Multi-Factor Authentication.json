@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "73f7442c-9487-44bd-9815-a3ff0003c430",
+    "DataApi": "/Entries(guid'73f7442c-9487-44bd-9815-a3ff0003c430')/",
+    "VideoPageLink": "/Series/Azure-Multi-Factor-Authentication/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d1e8/361b00d8-de30-4c42-aa03-06ddf1dcd1e8/444AzureMFAM02_960.jpg",
+    "ShowName": "Azure Multi-Factor Authentication",
+    "VideoLength": "00:03:55",
+    "VideoTitle": "Azure Multi-Factor Authentication: (02) â€‹How to Set Up Azure MFA Service",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:09:55.9536579Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d1e8/361b00d8-de30-4c42-aa03-06ddf1dcd1e8/444AzureMFAM02_mid.mp4",
+    "Description": "Create an MSA/Azure subscription, learn how to access the management portal, and hear how to create an MFA provider. Plus, find out how to add multiple administrators. "
+  },
+  {
+    "VideoId": "dce62350-db61-499a-a738-a3ff0004308b",
+    "DataApi": "/Entries(guid'dce62350-db61-499a-a738-a3ff0004308b')/",
+    "VideoPageLink": "/Series/Azure-Multi-Factor-Authentication/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0194/21167c41-2518-4f8b-8b9e-b0024ad70194/444AzureMFAM03_960.jpg",
+    "ShowName": "Azure Multi-Factor Authentication",
+    "VideoLength": "00:09:24",
+    "VideoTitle": "Azure Multi-Factor Authentication: (03) General Overview of Azure MFA Management Portal",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:10:20.4662801Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0194/21167c41-2518-4f8b-8b9e-b0024ad70194/444AzureMFAM03_mid.mp4",
+    "Description": "Gain an understanding of key aspects of Management Portal, including settings, caching, downloading MFA Server, reporting, and other key operations. "
+  },
+  {
+    "VideoId": "5fda7cd1-736a-4ee0-aa6f-a3ff0004563c",
+    "DataApi": "/Entries(guid'5fda7cd1-736a-4ee0-aa6f-a3ff0004563c')/",
+    "VideoPageLink": "/Series/Azure-Multi-Factor-Authentication/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a4d7/09f219f4-0eec-41e2-a754-c74c3e3ba4d7/444AzureMFAM04_960.jpg",
+    "ShowName": "Azure Multi-Factor Authentication",
+    "VideoLength": "00:12:05",
+    "VideoTitle": "Azure Multi-Factor Authentication: (04) Overview of Azure MFA Server Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:11:56.8638115Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a4d7/09f219f4-0eec-41e2-a754-c74c3e3ba4d7/444AzureMFAM04_mid.mp4",
+    "Description": "Take a look at installation, a user section overview, enabling Radius, IIS, LDAP, and Windows,  plus other key operations. "
+  },
+  {
+    "VideoId": "444d8b78-565f-4be7-bc8f-a3ff00047b82",
+    "DataApi": "/Entries(guid'444d8b78-565f-4be7-bc8f-a3ff00047b82')/",
+    "VideoPageLink": "/Series/Azure-Multi-Factor-Authentication/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e20c/757d7e48-4971-4fcc-94bd-52ca2358e20c/444AzureMFAM05_960.jpg",
+    "ShowName": "Azure Multi-Factor Authentication",
+    "VideoLength": "00:12:19",
+    "VideoTitle": "Azure Multi-Factor Authentication: (05) How to Upgrade to Latest Azure MFA Server Version",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:13:29.7369392Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e20c/757d7e48-4971-4fcc-94bd-52ca2358e20c/444AzureMFAM05_mid.mp4",
+    "Description": "Learn some important considerations for upgrading, the MFA Server upgrade process, the user portal, and the phone app upgrade. "
+  }
+]

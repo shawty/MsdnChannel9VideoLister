@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "ae9fc3c3-41df-4b1c-8710-a497000883d6",
+    "DataApi": "/Entries(guid'ae9fc3c3-41df-4b1c-8710-a497000883d6')/",
+    "VideoPageLink": "/blogs/Marron/Time-Travel-Debugging-for-JavaScriptHTML",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f484/ae5049fe-fc5d-42d6-b8c2-be3d64fbf484/TimeTravelDebugger_960.jpg",
+    "ShowName": "Marron",
+    "VideoLength": "00:19:28",
+    "VideoTitle": "Time-Travel Debugging for JavaScript/HTML Applications",
+    "Author": "marron",
+    "UtcDateTimePublished": "2015-05-13T16:43:10.2681869Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f484/ae5049fe-fc5d-42d6-b8c2-be3d64fbf484/TimeTravelDebugger_mid.mp4",
+    "Description": "Have you ever set a breakpoint a few statements too late, or accidentally stepped over the function call that you wanted to step into, and wished that you could just reverse-execute the program in the"
+  }
+]

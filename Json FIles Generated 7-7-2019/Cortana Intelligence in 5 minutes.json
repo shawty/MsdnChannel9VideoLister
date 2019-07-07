@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "67613a64-8d4f-4b4a-9de7-a6e1016a9142",
+    "DataApi": "/Entries(guid'67613a64-8d4f-4b4a-9de7-a6e1016a9142')/",
+    "VideoPageLink": "/Blogs/Cortana-Intelligence-in-5-minutes/Create-and-Run-a-Bot-in-6-Minutes",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2f17/fde2fa04-eaeb-421d-958c-a44419ca2f17/BotIn5Minutes_960.jpg",
+    "ShowName": "Cortana Intelligence in 5 minutes",
+    "VideoLength": "00:06:07",
+    "VideoTitle": "Create and Run a Bot in 6 Minutes",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-12-20T03:15:04.7904913Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2f17/fde2fa04-eaeb-421d-958c-a44419ca2f17/BotIn5Minutes_mid.mp4",
+    "Description": "Do you want to create and run your first bot with the Microsoft Bot Framework? This quick video will walk you through the steps. I was hoping to accomplish this in 5 minutes but it took 6 minutes. Sor"
+  }
+]

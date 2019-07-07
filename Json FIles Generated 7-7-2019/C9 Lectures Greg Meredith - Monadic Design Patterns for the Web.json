@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "608d8b03-fe2a-48b3-8826-9e3001885a81",
+    "DataApi": "/Entries(guid'608d8b03-fe2a-48b3-8826-9e3001885a81')/",
+    "VideoPageLink": "/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web-2-of-n",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/4c4a6375-3322-43cd-a3ce-72eba522e1eb.jpg",
+    "ShowName": "C9 Lectures: Greg Meredith - Monadic Design Patterns for the Web",
+    "VideoLength": "00:38:40",
+    "VideoTitle": "C9 Lectures: Greg Meredith - Monadic Design Patterns for the Web - 2 of n",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2010-12-14T19:17:24Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5a81/608d8b03-fe2a-48b3-8826-9e3001885a81/C9LecturesGregMeredithMonadicDesignPatternsp2_low_ch9.mp4",
+    "Description": "Greg Meredith, a mathematician and computer scientist, has graciously agreed to do a C9 lecture series covering monadic design principles applied to web development. You've met Greg before in a Whiteb"
+  },
+  {
+    "VideoId": "c1aed8e2-0f6c-430b-9299-9e3001883d19",
+    "DataApi": "/Entries(guid'c1aed8e2-0f6c-430b-9299-9e3001883d19')/",
+    "VideoPageLink": "/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web-3-of-n",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/d4c929df-e1b1-4ab6-8249-9a5b855e6442.png",
+    "ShowName": "C9 Lectures: Greg Meredith - Monadic Design Patterns for the Web",
+    "VideoLength": "00:37:25",
+    "VideoTitle": "C9 Lectures: Greg Meredith - Monadic Design Patterns for the Web 3 of n",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-01-06T21:30:03Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3d19/c1aed8e2-0f6c-430b-9299-9e3001883d19/C9LecturesGregMeredithMonadicDesignPatternsp3_low_ch9.mp4",
+    "Description": "Greg Meredith, a mathematician and computer scientist, has graciously agreed to do a C9 lecture series covering monadic design principles applied to web development. You've met Greg before in a Whiteb"
+  },
+  {
+    "VideoId": "306290c6-26e4-444b-b112-9f1a01515dc8",
+    "DataApi": "/Entries(guid'306290c6-26e4-444b-b112-9f1a01515dc8')/",
+    "VideoPageLink": "/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web-4-of-n",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5dc8/306290c6-26e4-444b-b112-9f1a01515dc8/C9LecturesMonadicDPWp4_512_ch9.jpg",
+    "ShowName": "C9 Lectures: Greg Meredith - Monadic Design Patterns for the Web",
+    "VideoLength": "00:41:27",
+    "VideoTitle": "C9 Lectures: Greg Meredith - Monadic Design Patterns for the Web 4 of 4",
+    "Author": "Charles",
+    "UtcDateTimePublished": "2011-07-26T18:51:39Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5dc8/306290c6-26e4-444b-b112-9f1a01515dc8/C9LecturesMonadicDPWp4_low_ch9.mp4",
+    "Description": "Greg Meredith, a mathematician and computer scientist, has graciously agreed to do a C9 lecture series covering monadic design principles applied to web development. You've met Greg before in a Whiteb"
+  }
+]

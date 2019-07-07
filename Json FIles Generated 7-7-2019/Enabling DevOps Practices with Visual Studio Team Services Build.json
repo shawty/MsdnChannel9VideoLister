@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "20629273-6251-4fbe-8ede-a4fb00e68831",
+    "DataApi": "/Entries(guid'20629273-6251-4fbe-8ede-a4fb00e68831')/",
+    "VideoPageLink": "/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Module-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eb1c/f7aa1dd7-f868-4ce8-93dd-ea6963e8eb1c/mod2devopsvisualstudio_960.jpg",
+    "ShowName": "Enabling DevOps Practices with Visual Studio Team Services Build",
+    "VideoLength": "00:19:05",
+    "VideoTitle": "Mod 2: â€‹Build Fundamentals and Continuous Integration (CI)",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2015-08-21T22:33:26.956265Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eb1c/f7aa1dd7-f868-4ce8-93dd-ea6963e8eb1c/mod2devopsvisualstudio_mid.mp4",
+    "Description": "Learn the core of the latest build system. Use the sample application to walk through the fundamental aspects, including connecting to source code repositories. "
+  },
+  {
+    "VideoId": "53e8b3f9-3c8c-45dc-b023-a4fb00e6dd7d",
+    "DataApi": "/Entries(guid'53e8b3f9-3c8c-45dc-b023-a4fb00e6dd7d')/",
+    "VideoPageLink": "/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Module-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db2a/c443dfba-0617-4683-acec-f5bb4ddedb2a/mod3devopsvisualstudio_960.jpg",
+    "ShowName": "Enabling DevOps Practices with Visual Studio Team Services Build",
+    "VideoLength": "00:23:18",
+    "VideoTitle": "Mod 3: Creating and Managing Build Agents",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2015-08-21T22:32:27.5774717Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db2a/c443dfba-0617-4683-acec-f5bb4ddedb2a/mod3devopsvisualstudio_mid.mp4",
+    "Description": "Understand what's going on under the hood with build pools containing hosted (or your own) build controllers. See how to create your own pool, and add Windows and Linux-based virtual machines. "
+  },
+  {
+    "VideoId": "ad2d0082-d0aa-4989-b775-a4fb00e8558d",
+    "DataApi": "/Entries(guid'ad2d0082-d0aa-4989-b775-a4fb00e8558d')/",
+    "VideoPageLink": "/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Mod-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d548/35c599b0-acdc-4209-981c-4e04350fd548/mod4devopsvisualstudio_960.jpg",
+    "ShowName": "Enabling DevOps Practices with Visual Studio Team Services Build",
+    "VideoLength": "00:23:01",
+    "VideoTitle": "Mod 4: Automated Testing ",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2015-08-21T22:31:56.7361589Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d548/35c599b0-acdc-4209-981c-4e04350fd548/mod4devopsvisualstudio_mid.mp4",
+    "Description": "See how to easily enable a large array of automated tests of various types, including unit, integration, load tests, and even SonarQube, to help analyze technical debt. "
+  },
+  {
+    "VideoId": "373eb4df-6773-42f9-974b-a4fb00e8fbb0",
+    "DataApi": "/Entries(guid'373eb4df-6773-42f9-974b-a4fb00e8fbb0')/",
+    "VideoPageLink": "/Shows/Enabling-DevOps-Practices-with-Visual-Studio-Online-Build/Mod-5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dc07/59418856-90e3-4a28-9d42-37bc0c48dc07/mod5devopsvisualstudio_960.jpg",
+    "ShowName": "Enabling DevOps Practices with Visual Studio Team Services Build",
+    "VideoLength": "00:29:04",
+    "VideoTitle": "Mod 5: â€‹Continuous Delivery",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2015-08-21T22:31:13.6241036Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dc07/59418856-90e3-4a28-9d42-37bc0c48dc07/mod5devopsvisualstudio_mid.mp4",
+    "Description": "See how to setup a continuous deployment pipeline to Microsoft Azure using Visual Studio Online build. â€‹  "
+  }
+]

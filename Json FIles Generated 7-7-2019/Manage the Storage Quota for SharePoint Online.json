@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "94c651f3-72c1-428d-badd-a3e10001c039",
+    "DataApi": "/Entries(guid'94c651f3-72c1-428d-badd-a3e10001c039')/",
+    "VideoPageLink": "/Series/Manage-the-Storage-Quota-for-SharePoint-Online/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/45e8/a82933cb-a99b-4d6b-b730-8a9e9d6745e8/606ManageStorageQuotaSharePointOnlineM01_960.jpg",
+    "ShowName": "Manage the Storage Quota for SharePoint Online",
+    "VideoLength": "00:43:43",
+    "VideoTitle": "Manage the Storage Quota for SharePoint Online: (01) Managing Storage and Server Resource Quotas",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-12T20:18:30.5826936Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/45e8/a82933cb-a99b-4d6b-b730-8a9e9d6745e8/606ManageStorageQuotaSharePointOnlineM01_mid.mp4",
+    "Description": "Get an overview of site collections, and learn how to buy and set storage quotas. Explore available server resources, and see how to set the server resource quota for a site collection. [02:20] - Site"
+  }
+]

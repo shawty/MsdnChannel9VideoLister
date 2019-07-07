@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "8ab5b8bd-d0bf-4754-9d41-a6cf00cf8288",
+    "DataApi": "/Entries(guid'8ab5b8bd-d0bf-4754-9d41-a6cf00cf8288')/",
+    "VideoPageLink": "/Blogs/Beyond-Hello-World/Parsing-Akamai-logs-using-Azure-HD-Insight-Spark-Cluster",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8473/7adf0f98-3d93-4312-9e9f-8078fd698473/AkamaiAzureHDInsightSparkCluster_960.jpg",
+    "ShowName": "Beyond Hello World",
+    "VideoLength": "00:53:43",
+    "VideoTitle": "Parsing Akamai logs using Azure HD Insight Spark Cluster.",
+    "Author": "Rafat Sarosh",
+    "UtcDateTimePublished": "2016-12-02T23:20:03.608952Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8473/7adf0f98-3d93-4312-9e9f-8078fd698473/AkamaiAzureHDInsightSparkCluster_mid.mp4",
+    "Description": "You have seen many videos on Hadoop/Spark cluster, where a ubiquitous example for map reduce is used of counting the words &quot;Banana&quot; from a clean text files. But, in real-life your log files "
+  }
+]

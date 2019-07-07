@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "b1c6499b-6f1b-4cd0-b1a8-a3e101679fad",
+    "DataApi": "/Entries(guid'b1c6499b-6f1b-4cd0-b1a8-a3e101679fad')/",
+    "VideoPageLink": "/Series/Access-OWA-in-Office-365/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/25d0/31a28e18-15d9-4245-80cc-8b5b4d0825d0/610AccessOWAinO365M01_960.jpg",
+    "ShowName": "Access OWA in Office 365",
+    "VideoLength": "00:41:10",
+    "VideoTitle": "Access OWA in Office 365: (01) Accessing OWA for Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-13T16:27:56.4264213Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/25d0/31a28e18-15d9-4245-80cc-8b5b4d0825d0/610AccessOWAinO365M01_mid.mp4",
+    "Description": "See how to manage notifications, navigation, and settings, create Outlook mail, set up your calendar, schedule appointments and meetings, track contacts, and schedule tasks. See how to use OWA in offl"
+  }
+]

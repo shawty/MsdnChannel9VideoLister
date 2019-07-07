@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "c26e3e31-ffa0-428b-a1f2-9dea00c63a3a",
+    "DataApi": "/Entries(guid'c26e3e31-ffa0-428b-a1f2-9dea00c63a3a')/",
+    "VideoPageLink": "/Blogs/chewy/Singapore-Sumo-Robot-How-To-Video-4-Understanding-Your-Robots-Code-Methods",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "804c3c85-c5ad-4b8d-9383-9dea00c63d48",
+    "DataApi": "/Entries(guid'804c3c85-c5ad-4b8d-9383-9dea00c63d48')/",
+    "VideoPageLink": "/Blogs/chewy/Singapore-Sumo-Robot-How-To-Video-2-Understanding-Your-Robots-Inputs-and-Outputs",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "dc66a81a-4964-4447-947f-9dea00c64047",
+    "DataApi": "/Entries(guid'dc66a81a-4964-4447-947f-9dea00c64047')/",
+    "VideoPageLink": "/Blogs/chewy/Singapore-Sumo-Robot-How-To-Video-3-Building-Your-First-Robot",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "b3f960d3-5949-4a95-b3c3-9dea00c64568",
+    "DataApi": "/Entries(guid'b3f960d3-5949-4a95-b3c3-9dea00c64568')/",
+    "VideoPageLink": "/Blogs/chewy/Singapore-Sumo-Robot-How-To-1-Getting-the-Robotics-Bits",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "0caa41cc-7975-435d-8e0f-9dea00c6305f",
+    "DataApi": "/Entries(guid'0caa41cc-7975-435d-8e0f-9dea00c6305f')/",
+    "VideoPageLink": "/Blogs/chewy/First-on-Office-2007-in-Singapore-Maybe-Even-APAC-Vincent-Oh-Gives-Us-a-Quick-Tour",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "44b5a32a-b592-44ab-93be-9dea00c6481d",
+    "DataApi": "/Entries(guid'44b5a32a-b592-44ab-93be-9dea00c6481d')/",
+    "VideoPageLink": "/Blogs/chewy/With-Photos-Many-Wrongs-Can-Make-a-Right-using-MSR-GroupShot",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6b33b555-c1d1-4820-abfb-9dea00c64b06",
+    "DataApi": "/Entries(guid'6b33b555-c1d1-4820-abfb-9dea00c64b06')/",
+    "VideoPageLink": "/Blogs/chewy/Developer-Support-with-Singapores-Online-Community",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

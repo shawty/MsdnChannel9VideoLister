@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "090ffeed-5f7f-4e0b-87f4-a44c013d57e0",
+    "DataApi": "/Entries(guid'090ffeed-5f7f-4e0b-87f4-a44c013d57e0')/",
+    "VideoPageLink": "/Series/Cloud-Enable-a-Windows-Presentation-Foundation-LOB-App/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d600/4e55c12c-aef5-4a50-8634-ed1abfefd600/660CloudEnableLOBAppM02_960.jpg",
+    "ShowName": "Cloud-Enable a Windows Presentation Foundation LOB App",
+    "VideoLength": "00:52:39",
+    "VideoTitle": "Cloud-Enable a Windows Presentation Foundation LOB App: (02) Moving Data to the Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:18:48.4657481Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d600/4e55c12c-aef5-4a50-8634-ed1abfefd600/660CloudEnableLOBAppM02_mid.mp4",
+    "Description": "Since data migration is often one of the first steps in moving your enterprise LOB apps to the cloud, explore the data storage options available in Azure. Plus, move the SQL Database used by the â€œExpe"
+  },
+  {
+    "VideoId": "d53f0246-7113-481f-a1c4-a44c013d86c4",
+    "DataApi": "/Entries(guid'd53f0246-7113-481f-a1c4-a44c013d86c4')/",
+    "VideoPageLink": "/Series/Cloud-Enable-a-Windows-Presentation-Foundation-LOB-App/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d13a/de1cf96b-a2ba-4412-8d4d-216ba048d13a/660CloudEnableLOBAppM03_960.jpg",
+    "ShowName": "Cloud-Enable a Windows Presentation Foundation LOB App",
+    "VideoLength": "00:45:26",
+    "VideoTitle": "Cloud-Enable a Windows Presentation Foundation LOB App: (03) Moving Services to the Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:19:03.2540454Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d13a/de1cf96b-a2ba-4412-8d4d-216ba048d13a/660CloudEnableLOBAppM03_mid.mp4",
+    "Description": "Moving the backend services, such as WCF services, used by your enterprise LOB apps to the cloud is a powerful way to extend the reach of your services and the applications that consume them. Take a l"
+  },
+  {
+    "VideoId": "6be6e11f-e411-404b-80fc-a44c013db471",
+    "DataApi": "/Entries(guid'6be6e11f-e411-404b-80fc-a44c013db471')/",
+    "VideoPageLink": "/Series/Cloud-Enable-a-Windows-Presentation-Foundation-LOB-App/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3052/097c4b7a-ca9d-47ba-b78c-fd1399703052/660CloudEnableLOBAppM04_960.jpg",
+    "ShowName": "Cloud-Enable a Windows Presentation Foundation LOB App",
+    "VideoLength": "00:43:55",
+    "VideoTitle": "Cloud-Enable a Windows Presentation Foundation LOB App: (04) Securing Cloud Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:19:13.1898376Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3052/097c4b7a-ca9d-47ba-b78c-fd1399703052/660CloudEnableLOBAppM04_mid.mp4",
+    "Description": "After your enterprise services are running in the cloud, security becomes a top concern. Explore use of Azure Active Directory to secure both the â€œExpensesâ€ enterprise LOB app and the WCF Service host"
+  },
+  {
+    "VideoId": "a7f849ac-950e-4d88-adcf-a44c013e2618",
+    "DataApi": "/Entries(guid'a7f849ac-950e-4d88-adcf-a44c013e2618')/",
+    "VideoPageLink": "/Series/Cloud-Enable-a-Windows-Presentation-Foundation-LOB-App/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/88e3/a05c537a-3ea5-4129-8a44-4b4c168888e3/660CloudEnableLOBAppM05_960.jpg",
+    "ShowName": "Cloud-Enable a Windows Presentation Foundation LOB App",
+    "VideoLength": "00:51:10",
+    "VideoTitle": "Cloud-Enable a Windows Presentation Foundation LOB App: (05) Integrating and Extending Cloud Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:19:52.166158Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/88e3/a05c537a-3ea5-4129-8a44-4b4c168888e3/660CloudEnableLOBAppM05_mid.mp4",
+    "Description": "Review options for integrating your Azure-hosted websites with on-premises resources using Azure Hybrid Connections, along with options for extending those services using Web API and Azure Mobile Serv"
+  }
+]

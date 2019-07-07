@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "ff8bf835-e4b1-4dbd-ac7c-a3bd011d64c9",
+    "DataApi": "/Entries(guid'ff8bf835-e4b1-4dbd-ac7c-a3bd011d64c9')/",
+    "VideoPageLink": "/Series/Creating-Games-with-Project-Spark/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/577c/2e627176-1e3e-4df8-b495-fc58c0aa577c/CreatingGamesProjectSparkM02_960.jpg",
+    "ShowName": "Creating Games with Project Spark",
+    "VideoLength": "00:37:25",
+    "VideoTitle": "Creating Games with Project Spark: (02) Your First Adventure (Crossroads)",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T22:24:36.6555616Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/577c/2e627176-1e3e-4df8-b495-fc58c0aa577c/CreatingGamesProjectSparkM02_mid.mp4",
+    "Description": "Check out Project Spark and the Play tab, so you can play featured games and see the in-game challenges. Create a game using Crossroads, the built-in adventure tutorial game. Full course outline: Mod "
+  },
+  {
+    "VideoId": "d7459d5f-6131-48f0-b0a7-a3bd011d9c0d",
+    "DataApi": "/Entries(guid'd7459d5f-6131-48f0-b0a7-a3bd011d9c0d')/",
+    "VideoPageLink": "/Series/Creating-Games-with-Project-Spark/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e11a/6a13cac2-cfab-42b7-95f1-21bce5ede11a/CreatingGamesProjectSparkM03_960.jpg",
+    "ShowName": "Creating Games with Project Spark",
+    "VideoLength": "00:51:41",
+    "VideoTitle": "Creating Games with Project Spark: (03) Using the Tutorials",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T22:25:25.121542Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e11a/6a13cac2-cfab-42b7-95f1-21bce5ede11a/CreatingGamesProjectSparkM03_mid.mp4",
+    "Description": "Project Spark comes with a step-by-step tutorial system. Follow along, as we create a game and create a hero, program an adversary, landscape a world, use props, and set goals. Full course outline: Mo"
+  },
+  {
+    "VideoId": "d189adea-19a1-40a3-9627-a3bd011df98a",
+    "DataApi": "/Entries(guid'd189adea-19a1-40a3-9627-a3bd011df98a')/",
+    "VideoPageLink": "/Series/Creating-Games-with-Project-Spark/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1236/7565c846-77b1-4ba5-aa12-bbe7c5141236/CreatingGamesProjectSparkM04_960.jpg",
+    "ShowName": "Creating Games with Project Spark",
+    "VideoLength": "00:13:17",
+    "VideoTitle": "Creating Games with Project Spark: (04) Digging Deeper on Worlds and Characters",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T22:25:47.4187488Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1236/7565c846-77b1-4ba5-aa12-bbe7c5141236/CreatingGamesProjectSparkM04_mid.mp4",
+    "Description": "After you've mastered the interface of Project Spark, learn more Kode, the language that controls characters and objects in Project Spark. Find out how to work with brains and make a Goblin that think"
+  },
+  {
+    "VideoId": "dfb30410-49ef-4bd5-95f2-a3bd011e3e72",
+    "DataApi": "/Entries(guid'dfb30410-49ef-4bd5-95f2-a3bd011e3e72')/",
+    "VideoPageLink": "/Series/Creating-Games-with-Project-Spark/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e8ae/ccb29040-80e4-4087-9d0d-c9d63ab6e8ae/CreatingGamesProjectSparkM05_960.jpg",
+    "ShowName": "Creating Games with Project Spark",
+    "VideoLength": "00:10:05",
+    "VideoTitle": "Creating Games with Project Spark: (05) Publishing your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T22:26:15.0905357Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e8ae/ccb29040-80e4-4087-9d0d-c9d63ab6e8ae/CreatingGamesProjectSparkM05_mid.mp4",
+    "Description": "Now that you know how to create an amazing game in Project Spark, save it and share it with your friends. Walk through saving, naming, and sharing your worlds. Full course outline: Mod 01: The Project"
+  },
+  {
+    "VideoId": "fbc456ce-5c79-41a5-b214-a3bd011e9223",
+    "DataApi": "/Entries(guid'fbc456ce-5c79-41a5-b214-a3bd011e9223')/",
+    "VideoPageLink": "/Series/Creating-Games-with-Project-Spark/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0017/7c7fdb77-31d1-40d3-8682-2135a9c70017/CreatingGamesProjectSparkM06_960.jpg",
+    "ShowName": "Creating Games with Project Spark",
+    "VideoLength": "00:15:37",
+    "VideoTitle": "Creating Games with Project Spark: (06) The Marketplace",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-07T22:26:38.2963942Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0017/7c7fdb77-31d1-40d3-8682-2135a9c70017/CreatingGamesProjectSparkM06_mid.mp4",
+    "Description": "After you start creating more complex worlds, you may want to unlock or buy extra characters, props, and assemblies in the Project Spark marketplace. Learn how to earn credits and buy tokens to redeem"
+  }
+]

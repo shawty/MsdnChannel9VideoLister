@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "f5c23c59-35fc-4620-a27b-a2ed011b207f",
+    "DataApi": "/Entries(guid'f5c23c59-35fc-4620-a27b-a2ed011b207f')/",
+    "VideoPageLink": "/Blogs/sxsw/Charise-Flynn-COO-of-Dwolla",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1c94/f3ba96c5-da95-49bf-9833-d65d9a061c94/SXSWChariseFlynn_960.jpg",
+    "ShowName": "South by Southwest",
+    "VideoLength": "00:05:46",
+    "VideoTitle": "Charise Flynn COO of Dwolla",
+    "Author": "Scott Hanselman",
+    "UtcDateTimePublished": "2014-03-17T17:30:48.6020798Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1c94/f3ba96c5-da95-49bf-9833-d65d9a061c94/SXSWChariseFlynn_mid.mp4",
+    "Description": "Charise talks about Dwolla's innovative payment network, updated app for Windows 8.1 and how developers will soon be able to take better advantage of Dwolla on Windows 8 and Windows Phone. https://app"
+  },
+  {
+    "VideoId": "570db8e4-2d4d-4695-8f95-a2ed011b8951",
+    "DataApi": "/Entries(guid'570db8e4-2d4d-4695-8f95-a2ed011b8951')/",
+    "VideoPageLink": "/Blogs/sxsw/Rodney-Williams-Founder-and-CEO-of-Lisnr",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc92/9da04d44-4c77-40da-82a7-3cc929d5bc92/SXSWRodneyWilliams_960.jpg",
+    "ShowName": "South by Southwest",
+    "VideoLength": "00:05:12",
+    "VideoTitle": "Rodney Williams Founder and CEO of Lisnr",
+    "Author": "Scott Hanselman",
+    "UtcDateTimePublished": "2014-03-17T17:30:41.2267051Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc92/9da04d44-4c77-40da-82a7-3cc929d5bc92/SXSWRodneyWilliams_mid.mp4",
+    "Description": "Rodney talks about the unique audio capabilities of Lisnr and how they'll soon be available on Windows 8. "
+  },
+  {
+    "VideoId": "50e78012-c16c-4b77-a21b-a2ed011c87fb",
+    "DataApi": "/Entries(guid'50e78012-c16c-4b77-a21b-a2ed011c87fb')/",
+    "VideoPageLink": "/Blogs/sxsw/Chris-Bergman-Founder-and-CEO-of-ChoreMonster",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/67f2/ab08877f-be60-4873-8b48-bc68fb6f67f2/SXSWChrisBergman_960.jpg",
+    "ShowName": "South by Southwest",
+    "VideoLength": "00:04:32",
+    "VideoTitle": "Chris Bergman Founder and CEO of ChoreMonster",
+    "Author": "Scott Hanselman",
+    "UtcDateTimePublished": "2014-03-17T17:30:37.996873Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/67f2/ab08877f-be60-4873-8b48-bc68fb6f67f2/SXSWChrisBergman_mid.mp4",
+    "Description": "What if your kids begged you to do their chores? Chris Bergman talks about bringing his award winning chore application to Windows 8.1 https://apps.microsoft.com/windows/en-us/app/choremonster/f1c0b03"
+  },
+  {
+    "VideoId": "813787f4-ff17-45ae-afa7-a2ed011ef333",
+    "DataApi": "/Entries(guid'813787f4-ff17-45ae-afa7-a2ed011ef333')/",
+    "VideoPageLink": "/Blogs/sxsw/Michael-Forte-Founder-and-CEO-of-Phriz-be",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/55e9/da3f19f0-8913-4f83-bb6d-3873b98f55e9/SXSWMichaelForte_960.jpg",
+    "ShowName": "South by Southwest",
+    "VideoLength": "00:04:01",
+    "VideoTitle": "Michael Forte Founder and CEO of Phriz.be",
+    "Author": "Scott Hanselman",
+    "UtcDateTimePublished": "2014-03-17T17:30:04.451582Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/55e9/da3f19f0-8913-4f83-bb6d-3873b98f55e9/SXSWMichaelForte_mid.mp4",
+    "Description": "Michael talks about a mobile-first sharing platform that allows you to see nearby users or devices and easily connect to share photos and how Phriz.be creates unique user experiences for Windows 8.1 a"
+  }
+]

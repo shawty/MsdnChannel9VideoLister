@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "da9125aa-bf92-44ce-9b96-a39000092f62",
+    "DataApi": "/Entries(guid'da9125aa-bf92-44ce-9b96-a39000092f62')/",
+    "VideoPageLink": "/Series/Implementing-Exchange-Server-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d4a4/10b76db7-6bc2-4713-86ac-229dd303d4a4/ImplementingExchangeServer2013M02_960.jpg",
+    "ShowName": "Implementing Exchange Server 2013",
+    "VideoLength": "01:16:27",
+    "VideoTitle": "Implementing Exchange Server 2013: (02) Plan It the Right Way: Exchange Server 2013 Sizing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:58:40.5365449Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d4a4/10b76db7-6bc2-4713-86ac-229dd303d4a4/ImplementingExchangeServer2013M02_mid.mp4",
+    "Description": "Review the performance impact of the architectural changes and major new features in Exchange Server 2013, and discuss the recommended methodology for sizing. Optimize performance, and see how the Exc"
+  },
+  {
+    "VideoId": "57d6b61c-a2bf-4766-bd6b-a39000096ff6",
+    "DataApi": "/Entries(guid'57d6b61c-a2bf-4766-bd6b-a39000096ff6')/",
+    "VideoPageLink": "/Series/Implementing-Exchange-Server-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e9a/69a9e566-9367-4fc4-91ed-7030893a7e9a/ImplementingExchangeServer2013M03_960.jpg",
+    "ShowName": "Implementing Exchange Server 2013",
+    "VideoLength": "00:53:08",
+    "VideoTitle": "Implementing Exchange Server 2013: (03) Exchange Server 2013 Virtualization Best Practices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:58:56.5082828Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e9a/69a9e566-9367-4fc4-91ed-7030893a7e9a/ImplementingExchangeServer2013M03_mid.mp4",
+    "Description": "Explore the support policy and best practices for running Exchange Server 2013 in a hardware virtualized environment, including sizing guidelines, support boundaries, use of hypervisor technology, ser"
+  },
+  {
+    "VideoId": "b2b4202e-9c54-436a-ab6e-a3900009a945",
+    "DataApi": "/Entries(guid'b2b4202e-9c54-436a-ab6e-a3900009a945')/",
+    "VideoPageLink": "/Series/Implementing-Exchange-Server-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cc97/9e090908-8862-4612-a803-79dd35a3cc97/ImplementingExchangeServer2013M04_960.jpg",
+    "ShowName": "Implementing Exchange Server 2013",
+    "VideoLength": "00:58:58",
+    "VideoTitle": "Implementing Exchange Server 2013: (04) Exchange Architecture: High Availability and Site Resilience",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:59:12.7046201Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cc97/9e090908-8862-4612-a803-79dd35a3cc97/ImplementingExchangeServer2013M04_mid.mp4",
+    "Description": "Get details on the many new enhancements for high availability (HA) and site resilience that Exchange Server 2013 SP1 offers. Take a look at updated features, including Auto Reseed, database availabil"
+  },
+  {
+    "VideoId": "eea10257-90b8-430d-8121-a3900009e3fc",
+    "DataApi": "/Entries(guid'eea10257-90b8-430d-8121-a3900009e3fc')/",
+    "VideoPageLink": "/Series/Implementing-Exchange-Server-2013/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/91ea/415aff56-3ad3-4b08-83b7-64f3438891ea/ImplementingExchangeServer2013M05_960.jpg",
+    "ShowName": "Implementing Exchange Server 2013",
+    "VideoLength": "01:02:08",
+    "VideoTitle": "Implementing Exchange Server 2013: (05) Outlook Connectivity",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-08-23T17:59:34.9209541Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/91ea/415aff56-3ad3-4b08-83b7-64f3438891ea/ImplementingExchangeServer2013M05_mid.mp4",
+    "Description": "Gain a deeper understanding of the way Outlook connects to Exchange, with RPC/HTTP or MAPI/HTTP. On-premises and Office 365 customers can better understand how we are evolving the underlying technolog"
+  }
+]

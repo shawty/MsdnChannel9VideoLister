@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "b87e02e1-f43c-4d87-ab35-a76f007d658a",
+    "DataApi": "/Entries(guid'b87e02e1-f43c-4d87-ab35-a76f007d658a')/",
+    "VideoPageLink": "/Shows/Ecosystem--Entrepreneurship-Development-Model/Part-2--Entrepreneurship-Development-Model-and-Entrepreneurial-Skills",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/37e4/b0d9058e-3e6d-4df9-808f-e84ef47c37e4/Part2EntrepDevModel_960.jpg",
+    "ShowName": "Ecosystem | Entrepreneurship Development Model",
+    "VideoLength": "00:26:46",
+    "VideoTitle": "Part 2 â€“ Entrepreneurship Development Model and Entrepreneurial Skills",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2017-05-12T06:51:28.6290531Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/37e4/b0d9058e-3e6d-4df9-808f-e84ef47c37e4/Part2EntrepDevModel_mid.mp4",
+    "Description": "The Entrepreneurship development model, what are the required entrepreneurial skills to develop? "
+  },
+  {
+    "VideoId": "fe92ee92-5f5e-4bf5-a839-a76f007dab09",
+    "DataApi": "/Entries(guid'fe92ee92-5f5e-4bf5-a839-a76f007dab09')/",
+    "VideoPageLink": "/Shows/Ecosystem--Entrepreneurship-Development-Model/Part-3--Entrepreneurship-Development-Model-and-Business-Skills",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/aaf4/0526bd6a-178b-4994-90fc-ff47135eaaf4/Part3EntrepDevModel_960.jpg",
+    "ShowName": "Ecosystem | Entrepreneurship Development Model",
+    "VideoLength": "00:28:08",
+    "VideoTitle": "Part 3 â€“ Entrepreneurship Development Model and Business Skills",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2017-05-12T06:51:25.3852141Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/aaf4/0526bd6a-178b-4994-90fc-ff47135eaaf4/Part3EntrepDevModel_mid.mp4",
+    "Description": "The Entrepreneurship development model, what are the required business  skills to develop? "
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "72b5abbb-0e27-4407-8937-a3f7015b1693",
+    "DataApi": "/Entries(guid'72b5abbb-0e27-4407-8937-a3f7015b1693')/",
+    "VideoPageLink": "/Series/Customizing-ASPNET-Authentication-with-Identity/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c9b7/8bfdb967-cf07-40ef-8849-2cae6e50c9b7/358CustomizingASPNETAuthIdentityM02_960.jpg",
+    "ShowName": "Customizing ASP.NET Authentication with Identity",
+    "VideoLength": "00:52:43",
+    "VideoTitle": "Customizing ASP.NET Authentication with Identity: (02) Locally Authenticated Users",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:47:44.5440707Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c9b7/8bfdb967-cf07-40ef-8849-2cae6e50c9b7/358CustomizingASPNETAuthIdentityM02_mid.mp4",
+    "Description": "Find out how to configure a web application to use database-backed authentication/authorization, and customize the database to support custom tables and profile data. Walk through extending the Identi"
+  },
+  {
+    "VideoId": "23efc3f9-6b90-4035-857b-a3f7015b43a1",
+    "DataApi": "/Entries(guid'23efc3f9-6b90-4035-857b-a3f7015b43a1')/",
+    "VideoPageLink": "/Series/Customizing-ASPNET-Authentication-with-Identity/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/261f/bc9493e6-af8b-48b2-b929-41675ed1261f/358CustomizingASPNETAuthIdentityM03_960.jpg",
+    "ShowName": "Customizing ASP.NET Authentication with Identity",
+    "VideoLength": "00:45:55",
+    "VideoTitle": "Customizing ASP.NET Authentication with Identity: (03) OAuth and Social Providers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:48:03.6801364Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/261f/bc9493e6-af8b-48b2-b929-41675ed1261f/358CustomizingASPNETAuthIdentityM03_mid.mp4",
+    "Description": "Learn what external authentication is for ASP.NET Identity, including OAuth and integrating Facebook and other social providers. Plus, see an example of accessing Facebook data. [01:24] - What is oAut"
+  },
+  {
+    "VideoId": "4ddbe931-8621-4422-9a12-a3f7015b4107",
+    "DataApi": "/Entries(guid'4ddbe931-8621-4422-9a12-a3f7015b4107')/",
+    "VideoPageLink": "/Series/Customizing-ASPNET-Authentication-with-Identity/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/07f3/fc88b398-ba04-44ba-a8a9-e2db7fe507f3/358CustomizingASPNETAuthIdentityM04_960.jpg",
+    "ShowName": "Customizing ASP.NET Authentication with Identity",
+    "VideoLength": "00:38:38",
+    "VideoTitle": "Customizing ASP.NET Authentication with Identity: (04) Two-Factor Authentication",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:49:05.9506762Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/07f3/fc88b398-ba04-44ba-a8a9-e2db7fe507f3/358CustomizingASPNETAuthIdentityM04_mid.mp4",
+    "Description": "Find out about two-factor authentication, which uses more than just a login and password to help keep unauthorized users off your user accounts. See how easy it is to integrate SMS messages with valid"
+  },
+  {
+    "VideoId": "4b52b5d0-46ad-4c10-bfec-a3f7015b6c5f",
+    "DataApi": "/Entries(guid'4b52b5d0-46ad-4c10-bfec-a3f7015b6c5f')/",
+    "VideoPageLink": "/Series/Customizing-ASPNET-Authentication-with-Identity/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c423/95684664-6dc5-4bb2-9713-5cebc32dc423/358CustomizingASPNETAuthIdentityM05_960.jpg",
+    "ShowName": "Customizing ASP.NET Authentication with Identity",
+    "VideoLength": "00:43:12",
+    "VideoTitle": "Customizing ASP.NET Authentication with Identity: (05) Migrating Membership to Identity",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:49:37.2736546Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c423/95684664-6dc5-4bb2-9713-5cebc32dc423/358CustomizingASPNETAuthIdentityM05_mid.mp4",
+    "Description": "Check out how ASP.NET Identity brings many great features to the table that may be worth the upgrade. Learn the process to upgrade your web apps (even going back to .NET 2.0 membership), and hear when"
+  },
+  {
+    "VideoId": "c25b429e-734e-4707-aad8-a3f7015bae81",
+    "DataApi": "/Entries(guid'c25b429e-734e-4707-aad8-a3f7015bae81')/",
+    "VideoPageLink": "/Series/Customizing-ASPNET-Authentication-with-Identity/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2fcd/64016db0-b2ea-45e6-b3dd-5786b1f02fcd/358CustomizingASPNETAuthIdentityM06_960.jpg",
+    "ShowName": "Customizing ASP.NET Authentication with Identity",
+    "VideoLength": "00:53:22",
+    "VideoTitle": "Customizing ASP.NET Authentication with Identity: (06) Identity Tips & Recommendations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-05T17:49:53.8961888Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2fcd/64016db0-b2ea-45e6-b3dd-5786b1f02fcd/358CustomizingASPNETAuthIdentityM06_mid.mp4",
+    "Description": "Walk through some tips to help secure your web apps and to provide better identity features, including email verification, password resetting, and sign out everywhere. â€‹ [01:15] - Recommendations &amp"
+  }
+]

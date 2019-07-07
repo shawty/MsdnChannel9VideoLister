@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "3ef39d7a-0857-4638-98aa-a1b8016b2503",
+    "DataApi": "/Entries(guid'3ef39d7a-0857-4638-98aa-a1b8016b2503')/",
+    "VideoPageLink": "/Blogs/CdnWindows8/TrendHunter-Magazine",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9860/5ceefc3c-8f09-4c87-b6f7-9269fe399860/TrendHunterMagazine_960.jpg",
+    "ShowName": "Windows 8 Experiences in Canada",
+    "VideoLength": "00:02:17",
+    "VideoTitle": "TrendHunter Magazine",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2013-05-09T01:04:08.264417Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9860/5ceefc3c-8f09-4c87-b6f7-9269fe399860/TrendHunterMagazine_mid.mp4",
+    "Description": "See and hear how Trendhunter Magazine designed and developed Trendhunter in the Windows Store. "
+  },
+  {
+    "VideoId": "0e42dff7-2b54-4291-9731-a1b80168b26c",
+    "DataApi": "/Entries(guid'0e42dff7-2b54-4291-9731-a1b80168b26c')/",
+    "VideoPageLink": "/Blogs/CdnWindows8/HuffingtonPost",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d83/4610fa26-f913-4186-abaf-62e0b2432d83/HuffingtonPost_960.jpg",
+    "ShowName": "Windows 8 Experiences in Canada",
+    "VideoLength": "00:01:59",
+    "VideoTitle": "Huffington Post",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2013-05-09T01:02:55.6875107Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d83/4610fa26-f913-4186-abaf-62e0b2432d83/HuffingtonPost_mid.mp4",
+    "Description": "See and hear how AOL Canada designed and developed Huffington Post in the Windows Store. "
+  },
+  {
+    "VideoId": "9bab80a2-8cbc-49dc-8889-a1b801644560",
+    "DataApi": "/Entries(guid'9bab80a2-8cbc-49dc-8889-a1b801644560')/",
+    "VideoPageLink": "/Blogs/CdnWindows8/SadCat",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e43f/be94c223-a7af-4aa5-93d2-3fc2673de43f/SadCat_960.jpg",
+    "ShowName": "Windows 8 Experiences in Canada",
+    "VideoLength": "00:02:34",
+    "VideoTitle": "Sad Cat",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2013-05-08T22:04:48.6648295Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e43f/be94c223-a7af-4aa5-93d2-3fc2673de43f/SadCat_mid.mp4",
+    "Description": "See and hear how Sad Cat Software designed and developed Train Titan, Violet Storm, and others games in the Windows Store. "
+  }
+]

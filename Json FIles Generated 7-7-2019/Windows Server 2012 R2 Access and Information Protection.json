@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "28bc8788-6404-46a0-a30b-a243000ebdcf",
+    "DataApi": "/Entries(guid'28bc8788-6404-46a0-a30b-a243000ebdcf')/",
+    "VideoPageLink": "/Series/ws2012r2accessinfoprot/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b5dd/aec3bd6a-8048-4033-b99b-eb667fe0b5dd/WS2012R2AccessAndInfoProtM02_960.jpg",
+    "ShowName": "Windows Server 2012 R2 Access and Information Protection",
+    "VideoLength": "00:29:30",
+    "VideoTitle": "Windows Server 2012 R2 Access and Information Protection: (02) Feature Implementation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-24T23:47:40.1875409Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b5dd/aec3bd6a-8048-4033-b99b-eb667fe0b5dd/WS2012R2AccessAndInfoProtM02_mid.mp4",
+    "Description": "How do I implement the new features of Access and Information Protection in Windows Server 2012 R2? Full course outline: Mod 01: End-User Experience Mod 02: Feature Implementation "
+  }
+]

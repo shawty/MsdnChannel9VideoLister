@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "cef176df-98eb-4276-9c73-a43d01641096",
+    "DataApi": "/Entries(guid'cef176df-98eb-4276-9c73-a43d01641096')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/691c/966c1dab-2ed2-4de9-b33e-b8f8010f691c/690CloudDevCampM02_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "00:51:32",
+    "VideoTitle": "Cloud DevCamp: (02) The Cloud for Modern Business",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-13T21:06:33.3112156Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/691c/966c1dab-2ed2-4de9-b33e-b8f8010f691c/690CloudDevCampM02_mid.mp4",
+    "Description": "Get an overview of Azure products and features. "
+  },
+  {
+    "VideoId": "0741f7bb-9f62-462e-967d-a43d01643298",
+    "DataApi": "/Entries(guid'0741f7bb-9f62-462e-967d-a43d01643298')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6aea/756f3496-5d52-49c3-aed3-aa7571d96aea/690CloudDevCampM03_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "01:00:42",
+    "VideoTitle": "Cloud DevCamp: (03) Azure IaaS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-13T21:06:43.5425809Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6aea/756f3496-5d52-49c3-aed3-aa7571d96aea/690CloudDevCampM03_mid.mp4",
+    "Description": "See a high-level overview of Azure infrastructure as a service (IaaS), including essential concepts and tools for people who are new to Azure. Explore virtual machines and virtual networks. "
+  },
+  {
+    "VideoId": "9912abde-1b25-4dbb-8bd5-a43d0164560e",
+    "DataApi": "/Entries(guid'9912abde-1b25-4dbb-8bd5-a43d0164560e')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/90b9/d0061fac-565b-4aec-aade-57b9730290b9/690CloudDevCampM04_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "01:13:27",
+    "VideoTitle": "Cloud DevCamp: (04) Azure PaaS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-13T21:06:53.9843544Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/90b9/d0061fac-565b-4aec-aade-57b9730290b9/690CloudDevCampM04_mid.mp4",
+    "Description": "Take a look at how to design and deploy cloud solutions on Azure, and get an introduction to platform as a service (PaaS) and Azure Resource Manager. Explore the partnership between developers/indepen"
+  },
+  {
+    "VideoId": "4ca83f40-079f-428a-9e70-a43d0164787d",
+    "DataApi": "/Entries(guid'4ca83f40-079f-428a-9e70-a43d0164787d')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be38/c15edcd2-4d34-428f-98b5-6d21a812be38/690CloudDevCampM05_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "00:49:08",
+    "VideoTitle": "Cloud DevCamp: (05) Azure Web",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-13T21:07:05.5006362Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be38/c15edcd2-4d34-428f-98b5-6d21a812be38/690CloudDevCampM05_mid.mp4",
+    "Description": "Learn the fastest way to build for the cloud. Take a look at site creation, language support, deployment, backup, hybrid connections, Redis Cache, and more. "
+  },
+  {
+    "VideoId": "b7ba458f-b1c5-404f-ac88-a43d0164a4ab",
+    "DataApi": "/Entries(guid'b7ba458f-b1c5-404f-ac88-a43d0164a4ab')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e52e/23b13bda-a27c-43d6-aec7-9b040b31e52e/690CloudDevCampM06_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "01:01:25",
+    "VideoTitle": "Cloud DevCamp: (06) Azure Data & Conclusion",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-13T21:07:23.507579Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e52e/23b13bda-a27c-43d6-aec7-9b040b31e52e/690CloudDevCampM06_mid.mp4",
+    "Description": "Focus on the Microsoft relational database PaaS offering, and gain a deeper understanding of the concepts and benefits of SQL Database. "
+  },
+  {
+    "VideoId": "c89c4c8e-0aa4-4ad8-b3b8-a454014a81b4",
+    "DataApi": "/Entries(guid'c89c4c8e-0aa4-4ad8-b3b8-a454014a81b4')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/592d/71fc49ff-3464-46fa-848a-d1ce3ef8592d/690CloudDevCampM07_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "00:44:27",
+    "VideoTitle": "Cloud DevCamp: (07) Azure and Open Source: What You Need to Know",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-08T18:46:54.87122Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/592d/71fc49ff-3464-46fa-848a-d1ce3ef8592d/690CloudDevCampM07_mid.mp4",
+    "Description": "Get a broad look at the open source offerings that Azure provides, including Linux and Node.js, along with the ability to run NoSQL databases, such as MongoDB. "
+  },
+  {
+    "VideoId": "f4cccd36-bea4-4991-ad37-a482010ff83a",
+    "DataApi": "/Entries(guid'f4cccd36-bea4-4991-ad37-a482010ff83a')/",
+    "VideoPageLink": "/Series/Cloud-DevCamp/08",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f728/ac08ef6a-470a-451d-8e65-80379b63f728/692DataOnAzureTechOverviewM01_960.jpg",
+    "ShowName": "Cloud DevCamp",
+    "VideoLength": "00:45:54",
+    "VideoTitle": "Cloud DevCamp: (08) Data on Azure: A Technology Overview",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-04-22T20:24:02.104103Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f728/ac08ef6a-470a-451d-8e65-80379b63f728/692DataOnAzureTechOverviewM01_mid.mp4",
+    "Description": "Get an overview of Azure and the many ways it provides to work with data, including running an ordinary DBMS in an Azure Virtual Machine, using the managed relational service provided by SQL Database,"
+  }
+]

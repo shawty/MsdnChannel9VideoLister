@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "df4982e4-7322-4f8b-a8ef-a4060135fc17",
+    "DataApi": "/Entries(guid'df4982e4-7322-4f8b-a8ef-a4060135fc17')/",
+    "VideoPageLink": "/Series/Whats-New-with-ASPNET-5/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95bb/dfa38300-e257-4bef-8d16-9db3d79e95bb/566WhatsNewWithASPNET5M02_960.jpg",
+    "ShowName": "What's New with ASP.NET 5",
+    "VideoLength": "00:52:18",
+    "VideoTitle": "What's New with ASP.NET 5: (02) ASP.NET MVC + Web API Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:09:08.3984138Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95bb/dfa38300-e257-4bef-8d16-9db3d79e95bb/566WhatsNewWithASPNET5M02_mid.mp4",
+    "Description": "Get started with ASP.NET 5, as you learn how to set up your development machine and explore the new ASP.NET 5 project structure. Dive into building ASP.NET 5 applications by configuring middleware and"
+  },
+  {
+    "VideoId": "3f7f96f7-128e-4ae2-acc0-a4060136251c",
+    "DataApi": "/Entries(guid'3f7f96f7-128e-4ae2-acc0-a4060136251c')/",
+    "VideoPageLink": "/Series/Whats-New-with-ASPNET-5/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/54f9/f71b4b31-c809-4da4-99b2-f2f758ef54f9/566WhatsNewWithASPNET5M03_960.jpg",
+    "ShowName": "What's New with ASP.NET 5",
+    "VideoLength": "00:45:01",
+    "VideoTitle": "What's New with ASP.NET 5: (03) ASP.NET MVC + Web API Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:09:11.1241607Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/54f9/f71b4b31-c809-4da4-99b2-f2f758ef54f9/566WhatsNewWithASPNET5M03_mid.mp4",
+    "Description": "Get an introduction to ASP.NET MVC 6 for building web UI and web APIs, and learn how to set up MVC 6 and leverage dependency injection across your MVC application. See how you can render HTML views an"
+  },
+  {
+    "VideoId": "c0d7ee80-047d-4d16-8443-a406013604bb",
+    "DataApi": "/Entries(guid'c0d7ee80-047d-4d16-8443-a406013604bb')/",
+    "VideoPageLink": "/Series/Whats-New-with-ASPNET-5/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/789b/26e8679e-8099-4aa0-9b79-0e8431db789b/566WhatsNewWithASPNET5M04_960.jpg",
+    "ShowName": "What's New with ASP.NET 5",
+    "VideoLength": "00:57:20",
+    "VideoTitle": "What's New with ASP.NET 5: (04) Visual Studio Tooling for ASP.NET 5",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:09:22.1401982Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/789b/26e8679e-8099-4aa0-9b79-0e8431db789b/566WhatsNewWithASPNET5M04_mid.mp4",
+    "Description": "One of the goals in building Visual Studio support from the ground up is to ensure that it works well in scenarios where other tools are being used. Focus on some of the new features in the Visual Stu"
+  },
+  {
+    "VideoId": "6ce49a26-0594-4733-9ca1-a40601366ddd",
+    "DataApi": "/Entries(guid'6ce49a26-0594-4733-9ca1-a40601366ddd')/",
+    "VideoPageLink": "/Series/Whats-New-with-ASPNET-5/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d06/86f06ee4-738f-47b1-b22a-cba39b1f3d06/566WhatsNewWithASPNET5M05_960.jpg",
+    "ShowName": "What's New with ASP.NET 5",
+    "VideoLength": "00:46:04",
+    "VideoTitle": "What's New with ASP.NET 5: (05) ASP.NET 5 Internals Deep Dive",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:10:14.879567Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d06/86f06ee4-738f-47b1-b22a-cba39b1f3d06/566WhatsNewWithASPNET5M05_mid.mp4",
+    "Description": "See how â€‹ASP.NET 5 under the hood is made of very simple tools designed to get you up and running quickly. Hear an interview with an engineer from the team to learn where the pieces live and how they "
+  },
+  {
+    "VideoId": "abc18a36-5716-45ac-9487-a40601371d62",
+    "DataApi": "/Entries(guid'abc18a36-5716-45ac-9487-a40601371d62')/",
+    "VideoPageLink": "/Series/Whats-New-with-ASPNET-5/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/32bb/8de27d8a-93cb-40a1-aaef-268f0de632bb/566WhatsNewWithASPNET5M06_960.jpg",
+    "ShowName": "What's New with ASP.NET 5",
+    "VideoLength": "00:50:25",
+    "VideoTitle": "What's New with ASP.NET 5: (06) Entity Framework 7",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-20T22:10:29.9041727Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/32bb/8de27d8a-93cb-40a1-aaef-268f0de632bb/566WhatsNewWithASPNET5M06_mid.mp4",
+    "Description": "Entity Framework 7 (EF7) is a lightweight and extensible version of Entity Framework that enables new platforms and new data stores. Explore how EF7 achieves those goals, and see helpful demos of EF7 "
+  }
+]

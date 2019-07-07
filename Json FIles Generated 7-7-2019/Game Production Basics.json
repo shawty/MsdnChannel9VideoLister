@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "9711ead5-2ea5-44f0-91fd-a3db0126269a",
+    "DataApi": "/Entries(guid'9711ead5-2ea5-44f0-91fd-a3db0126269a')/",
+    "VideoPageLink": "/Series/Game-Production-Basics/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f05a/4b17f646-25ad-406b-ac59-3a279426f05a/GameProductionBasicsM02_960.jpg",
+    "ShowName": "Game Production Basics",
+    "VideoLength": "00:42:30",
+    "VideoTitle": "Game Production Basics: (02) What Do You Need to Make a Game?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T18:47:29.9772898Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f05a/4b17f646-25ad-406b-ac59-3a279426f05a/GameProductionBasicsM02_mid.mp4",
+    "Description": "Learn exactly what you need to make your game go from idea to reality (for example, what you need to make a game like Halo and how that differs from what you need to make a game like Minecraft). Check"
+  },
+  {
+    "VideoId": "9533b4a7-eda0-424f-a1a7-a3db01266999",
+    "DataApi": "/Entries(guid'9533b4a7-eda0-424f-a1a7-a3db01266999')/",
+    "VideoPageLink": "/Series/Game-Production-Basics/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d9f2/d1a0c267-7f85-46e0-86fd-2d8325d0d9f2/GameProductionBasicsM03_960.jpg",
+    "ShowName": "Game Production Basics",
+    "VideoLength": "00:47:39",
+    "VideoTitle": "Game Production Basics: (03) Game Assets",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T18:48:06.6512136Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d9f2/d1a0c267-7f85-46e0-86fd-2d8325d0d9f2/GameProductionBasicsM03_mid.mp4",
+    "Description": "Find out what game assets are, and hear how characters, objects, levels, and sounds get into a video game. Explore the different ways that game assets, including 3D assets, 2D assets, textures, and so"
+  },
+  {
+    "VideoId": "5d0e535f-96d2-4008-947c-a3db0126a173",
+    "DataApi": "/Entries(guid'5d0e535f-96d2-4008-947c-a3db0126a173')/",
+    "VideoPageLink": "/Series/Game-Production-Basics/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5f75/cf8f19d5-28eb-4dc2-85b7-419a5f275f75/GameProductionBasicsM04_960.jpg",
+    "ShowName": "Game Production Basics",
+    "VideoLength": "00:26:21",
+    "VideoTitle": "Game Production Basics: (04) Business Models",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T18:49:00.9814092Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5f75/cf8f19d5-28eb-4dc2-85b7-419a5f275f75/GameProductionBasicsM04_mid.mp4",
+    "Description": "Get answers to questions about how games actually make money, how free games make more money than paid ones, and what Freemium is. Get an overview of some of the common business models used in games t"
+  },
+  {
+    "VideoId": "6ef0b216-a8ba-4c5b-ac83-a3db0126f698",
+    "DataApi": "/Entries(guid'6ef0b216-a8ba-4c5b-ac83-a3db0126f698')/",
+    "VideoPageLink": "/Series/Game-Production-Basics/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4dd5/b38e747e-d341-4aae-b6e1-440348c24dd5/GameProductionBasicsM05_960.jpg",
+    "ShowName": "Game Production Basics",
+    "VideoLength": "00:16:45",
+    "VideoTitle": "Game Production Basics: (05) Where Can I Go from Here?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-07T18:49:21.4716853Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4dd5/b38e747e-d341-4aae-b6e1-440348c24dd5/GameProductionBasicsM05_mid.mp4",
+    "Description": "Learn where you can go from here and what can you do to continue learning about game development. Explore ways to develop a critical eye for games, and hear  recommendations on blogs and tutorials to "
+  }
+]

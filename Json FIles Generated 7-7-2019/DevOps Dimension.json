@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "f6e10f41-7896-4ed9-85c4-a698010730ec",
+    "DataApi": "/Entries(guid'f6e10f41-7896-4ed9-85c4-a698010730ec')/",
+    "VideoPageLink": "/Shows/DevOps-Dimension/13--The-Release-Pipeline-Model-Transform-IT-Ops-with-DevOps-Practices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0612/63d65213-61ac-4c5e-b276-a8af92d60612/13DevOpsDimension_960.jpg",
+    "ShowName": "DevOps Dimension",
+    "VideoLength": "01:00:14",
+    "VideoTitle": "13 | The Release Pipeline Model: Transform IT Ops with DevOps Practices",
+    "Author": "Erika Vilches",
+    "UtcDateTimePublished": "2016-10-11T14:42:03.482603Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0612/63d65213-61ac-4c5e-b276-a8af92d60612/13DevOpsDimension_mid.mp4",
+    "Description": "Hear how to transform your IT operations through applying DevOps practices. Join Oguz Pastirmaci in his discussion with Chef Software Principal Engineer Steven Murawski and Microsoft Principal Program"
+  },
+  {
+    "VideoId": "595bfe74-7e83-429c-88c8-a60901058c97",
+    "DataApi": "/Entries(guid'595bfe74-7e83-429c-88c8-a60901058c97')/",
+    "VideoPageLink": "/Shows/DevOps-Dimension/12--Claire-Agutter-ITSM-Zone-Director",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b90/761cf28f-6e19-4fa8-8bdb-72b7ad6c9b90/ClaireAgutter_960.jpg",
+    "ShowName": "DevOps Dimension",
+    "VideoLength": "00:09:54",
+    "VideoTitle": "12 | Claire Agutter, ITSM Zone, Director",
+    "Author": "Oguz Pastirmaci",
+    "UtcDateTimePublished": "2016-05-20T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b90/761cf28f-6e19-4fa8-8bdb-72b7ad6c9b90/ClaireAgutter_mid.mp4",
+    "Description": "In the heart of the London financial district, Oguz and Claire Agutter discuss how many of the financial institutions have made great investments in implementing ITIL framework and fundamental process"
+  },
+  {
+    "VideoId": "795110c7-880b-4365-9947-a609000ca098",
+    "DataApi": "/Entries(guid'795110c7-880b-4365-9947-a609000ca098')/",
+    "VideoPageLink": "/Shows/DevOps-Dimension/11--Kris-Saxton-Automation-Logic-Founder",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a147/1e6df32e-ccb1-45f7-afca-48ea08d2a147/KrisSaxton_960.jpg",
+    "ShowName": "DevOps Dimension",
+    "VideoLength": "00:12:47",
+    "VideoTitle": "11 | Kris Saxton, Automation Logic, Founder",
+    "Author": "Oguz Pastirmaci",
+    "UtcDateTimePublished": "2016-05-18T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a147/1e6df32e-ccb1-45f7-afca-48ea08d2a147/KrisSaxton_mid.mp4",
+    "Description": "At DevOps Days London, Oguz Pastirmaci interviews Kris Saxton. Kris delivered a session called Bimodal IT and Other Snakeoil which discusses what Bimodal IT is and critiques this flawed strategic appr"
+  },
+  {
+    "VideoId": "16c1e601-eda3-4af1-8d02-a6040117eb24",
+    "DataApi": "/Entries(guid'16c1e601-eda3-4af1-8d02-a6040117eb24')/",
+    "VideoPageLink": "/Shows/DevOps-Dimension/10--Gene-Kim-Interview-at-DevOps-Days-London",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3dc7/8fef117d-a578-4551-aa25-152daa6f3dc7/GeneKim_960.jpg",
+    "ShowName": "DevOps Dimension",
+    "VideoLength": "00:14:10",
+    "VideoTitle": "10 | Gene Kim Interview at DevOps Days London",
+    "Author": "Thiago Almeida",
+    "UtcDateTimePublished": "2016-05-16T16:38:09.9205943Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3dc7/8fef117d-a578-4551-aa25-152daa6f3dc7/GeneKim_mid.mp4",
+    "Description": "In this episode of DevOps Dimension, Oguz Pastirmaci and Thiago Almeida interview DevOps Days London speaker, Gene Kim. Gene discusses IT operations and how companies and enterprises can successfully "
+  },
+  {
+    "VideoId": "b35dccd6-210a-420c-9a58-a602017bbc8d",
+    "DataApi": "/Entries(guid'b35dccd6-210a-420c-9a58-a602017bbc8d')/",
+    "VideoPageLink": "/Shows/DevOps-Dimension/9--DevOps--Deployment-Automation-Best-Practices",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a8b7/619b3e71-9f7b-49e8-b49b-36426494a8b7/DeploymentAutomation_960.jpg",
+    "ShowName": "DevOps Dimension",
+    "VideoLength": "00:27:11",
+    "VideoTitle": "9 | DevOps & Deployment Automation Best Practices with Octopus Deploy",
+    "Author": "David Tesar",
+    "UtcDateTimePublished": "2016-05-12T19:55:46.3644429Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a8b7/619b3e71-9f7b-49e8-b49b-36426494a8b7/DeploymentAutomation_mid.mp4",
+    "Description": "It is often thought that deployment automation is difficult and takes time away from working on features but the benefits can outweigh the costs in the long run. Damian Brady, Solution Architect at Oc"
+  },
+  {
+    "VideoId": "69c8e160-3d30-4f9d-9ccc-a5fc0169895a",
+    "DataApi": "/Entries(guid'69c8e160-3d30-4f9d-9ccc-a5fc0169895a')/",
+    "VideoPageLink": "/Shows/DevOps-Dimension/8--Docker-Best-Practices--Industry-Future",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0965/ab803f34-ce9f-423d-aa98-fbb1e8640965/Docker_960.jpg",
+    "ShowName": "DevOps Dimension",
+    "VideoLength": "00:36:52",
+    "VideoTitle": "8 | Docker Best Practices & Industry Future",
+    "Author": "David Tesar",
+    "UtcDateTimePublished": "2016-05-06T22:04:15.1100764Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0965/ab803f34-ce9f-423d-aa98-fbb1e8640965/Docker_mid.mp4",
+    "Description": "Learn straight from Patrick Chanezon at Docker about containerization best practices, how Docker relates to the DevOps movement, and insights on where the future in the Docker/containerization space i"
+  }
+]

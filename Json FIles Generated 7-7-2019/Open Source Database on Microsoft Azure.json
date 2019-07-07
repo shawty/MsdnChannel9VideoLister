@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "16fa50da-809b-4818-b213-a445000678ee",
+    "DataApi": "/Entries(guid'16fa50da-809b-4818-b213-a445000678ee')/",
+    "VideoPageLink": "/Series/Open-Source-Database-on-Microsoft-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b0f0/5f82187f-1b85-4233-98e5-1095e706b0f0/707OpenSourceDatabaseOnAzureM02_960.jpg",
+    "ShowName": "Open Source Database on Microsoft Azure",
+    "VideoLength": "00:43:35",
+    "VideoTitle": "Open Source Database on Microsoft Azure: (02) Storage & Performance Considerations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-20T17:13:00.252307Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b0f0/5f82187f-1b85-4233-98e5-1095e706b0f0/707OpenSourceDatabaseOnAzureM02_mid.mp4",
+    "Description": "Explore how storage in Azure works and how to design your data disk architecture for VMs. Plus, compare the performances of different VMs. "
+  },
+  {
+    "VideoId": "50c2d58b-d2f6-48cc-a419-a4450006a6de",
+    "DataApi": "/Entries(guid'50c2d58b-d2f6-48cc-a419-a4450006a6de')/",
+    "VideoPageLink": "/Series/Open-Source-Database-on-Microsoft-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db72/8a7c8c65-e15e-43ee-b515-3cc5c570db72/707OpenSourceDatabaseOnAzureM03_960.jpg",
+    "ShowName": "Open Source Database on Microsoft Azure",
+    "VideoLength": "00:30:52",
+    "VideoTitle": "Open Source Database on Microsoft Azure: (03) Database Reliability and Availability",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-20T17:13:12.5154246Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db72/8a7c8c65-e15e-43ee-b515-3cc5c570db72/707OpenSourceDatabaseOnAzureM03_mid.mp4",
+    "Description": "Look at Azure availability and reliability options, and learn how you can leverage Azure storage to achieve geo-redundancy. Explore network options to achieve your availability goals. "
+  },
+  {
+    "VideoId": "d0db2930-19db-41c3-a943-a4450006cf4b",
+    "DataApi": "/Entries(guid'd0db2930-19db-41c3-a943-a4450006cf4b')/",
+    "VideoPageLink": "/Series/Open-Source-Database-on-Microsoft-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6feb/76fb7a66-0957-4a64-91e2-c7c281416feb/707OpenSourceDatabaseOnAzureM04_960.jpg",
+    "ShowName": "Open Source Database on Microsoft Azure",
+    "VideoLength": "00:37:27",
+    "VideoTitle": "Open Source Database on Microsoft Azure: (04) Managing & Monitoring in Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-20T17:13:26.6913637Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6feb/76fb7a66-0957-4a64-91e2-c7c281416feb/707OpenSourceDatabaseOnAzureM04_mid.mp4",
+    "Description": "â€‹Find out how to monitor the solution that you have deployed, and explore available tools for efficiently deploying and configuring your database system. "
+  }
+]

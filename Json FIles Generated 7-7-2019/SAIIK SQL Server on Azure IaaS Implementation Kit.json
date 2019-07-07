@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "684fb853-a2d9-4735-8d54-a61700877f19",
+    "DataApi": "/Entries(guid'684fb853-a2d9-4735-8d54-a61700877f19')/",
+    "VideoPageLink": "/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-HASQL2014Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cdcb/8c35f5db-55e1-4ee8-87b8-5a857a2ccdcb/SAIIK2HASQLinAzure_960.jpg",
+    "ShowName": "SAIIK: SQL Server on Azure IaaS Implementation Kit",
+    "VideoLength": "00:43:05",
+    "VideoTitle": "SAIIK: High Availability with SQL Server in Azure",
+    "Author": "Brian",
+    "UtcDateTimePublished": "2016-05-31T11:07:08.7878461Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cdcb/8c35f5db-55e1-4ee8-87b8-5a857a2ccdcb/SAIIK2HASQLinAzure_mid.mp4",
+    "Description": "Hello, and welcome to the SAIIK!  That's short for &quot;SQL Server on Azure IaaS Implementation Kit&quot; Brian Hitney, Keith Mayer, Bart Czernicki, and Peter Laudati are Technical Architects on the "
+  },
+  {
+    "VideoId": "05e71e7c-5e09-40aa-ba6b-a6170088572f",
+    "DataApi": "/Entries(guid'05e71e7c-5e09-40aa-ba6b-a6170088572f')/",
+    "VideoPageLink": "/Series/SAIIK-SQL-Server-on-Azure-IaaS-Implementation-Kit/SAIIK-HowToSQLHAAzure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9691/bea646e6-bc07-4b7e-8686-b1e8f8479691/SAIIK3HowToHASQL_960.jpg",
+    "ShowName": "SAIIK: SQL Server on Azure IaaS Implementation Kit",
+    "VideoLength": "00:41:05",
+    "VideoTitle": "SAIIK: How To Implement High Availability with SQL Server in Azure",
+    "Author": "Brian",
+    "UtcDateTimePublished": "2016-05-31T21:25:45.2625252Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9691/bea646e6-bc07-4b7e-8686-b1e8f8479691/SAIIK3HowToHASQL_mid.mp4",
+    "Description": "Hello, and welcome to the SAIIK!  That's short for &quot;SQL Server on Azure IaaS Implementation Kit&quot; Brian Hitney, Keith Mayer, Bart Czernicki, and Peter Laudati are Technical Architects with th"
+  }
+]

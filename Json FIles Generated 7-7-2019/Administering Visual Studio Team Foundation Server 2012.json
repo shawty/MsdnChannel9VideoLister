@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "2475c268-2ab9-4907-a0f4-a1dd01142ef1",
+    "DataApi": "/Entries(guid'2475c268-2ab9-4907-a0f4-a1dd01142ef1')/",
+    "VideoPageLink": "/Series/Administering-Visual-Studio-Team-Foundation-Server-2012/Administering-Visual-Studio-Team-Foundation-Server-2012-02-Install-and-Configure-Team-Foundation-Ser",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/68b6/0c63e2f9-b3a1-4549-82fb-a9519fff68b6/ALM496M02_960.jpg",
+    "ShowName": "Administering Visual Studio Team Foundation Server 2012",
+    "VideoLength": "01:02:39",
+    "VideoTitle": "Administering Visual Studio Team Foundation Server 2012: (02) Install and Configure Team Foundation Server, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T18:25:25.0286933Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/68b6/0c63e2f9-b3a1-4549-82fb-a9519fff68b6/ALM496M02_mid.mp4",
+    "Description": "Part two of installing and configuring Team Foundation Server goes into details on lab management and how to configure multiple build agents and controllers. Additionally this session provides an over"
+  },
+  {
+    "VideoId": "4bafe455-67bd-4cab-a468-a1dd011476bd",
+    "DataApi": "/Entries(guid'4bafe455-67bd-4cab-a468-a1dd011476bd')/",
+    "VideoPageLink": "/Series/Administering-Visual-Studio-Team-Foundation-Server-2012/Administering-Visual-Studio-Team-Foundation-Server-2012-03a-Manage-Team-Foundation-Server-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/73df/3d9a4734-af65-424b-a5f6-8930f18c73df/ALM496M03a_960.jpg",
+    "ShowName": "Administering Visual Studio Team Foundation Server 2012",
+    "VideoLength": "01:01:30",
+    "VideoTitle": "Administering Visual Studio Team Foundation Server 2012: (03a) Manage Team Foundation Server, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T18:25:56.6247831Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/73df/3d9a4734-af65-424b-a5f6-8930f18c73df/ALM496M03a_mid.mp4",
+    "Description": "Once you have installed and configured Team Foundation Server you will need to create a framework to manage team project collections. It is also key to configure for backup and recovery model and moni"
+  },
+  {
+    "VideoId": "f719a840-bb94-41f6-8b8f-a1dd0114ae4b",
+    "DataApi": "/Entries(guid'f719a840-bb94-41f6-8b8f-a1dd0114ae4b')/",
+    "VideoPageLink": "/Series/Administering-Visual-Studio-Team-Foundation-Server-2012/Administering-Visual-Studio-Team-Foundation-Server-2012-03b-Manage-Team-Foundation-Server-Part-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0ebb/8b7a0501-c642-4f16-8c02-af351e9f0ebb/ALM496M03b_960.jpg",
+    "ShowName": "Administering Visual Studio Team Foundation Server 2012",
+    "VideoLength": "00:53:06",
+    "VideoTitle": "Administering Visual Studio Team Foundation Server 2012: (03b) Manage Team Foundation Server, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T18:26:28.995668Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0ebb/8b7a0501-c642-4f16-8c02-af351e9f0ebb/ALM496M03b_mid.mp4",
+    "Description": "This module goes into how to best operate lab management, manage security and manage reporting for Team Foundation Server. [01:38] - Operate Lab Management [15:29] - Manage security [41:39] - Manage r"
+  },
+  {
+    "VideoId": "277153eb-f921-44e3-b463-a1dd0114df4b",
+    "DataApi": "/Entries(guid'277153eb-f921-44e3-b463-a1dd0114df4b')/",
+    "VideoPageLink": "/Series/Administering-Visual-Studio-Team-Foundation-Server-2012/Administering-Visual-Studio-Team-Foundation-Server-2012-04-Customize-Team-Foundation-Server-for-Team",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8a35/9103c880-9ea9-4e21-91ce-bb4004e28a35/ALM496M04_960.jpg",
+    "ShowName": "Administering Visual Studio Team Foundation Server 2012",
+    "VideoLength": "01:30:24",
+    "VideoTitle": "Administering Visual Studio Team Foundation Server 2012: (04) Customize Team Foundation Server for Team Use",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T18:27:02.2632505Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8a35/9103c880-9ea9-4e21-91ce-bb4004e28a35/ALM496M04_mid.mp4",
+    "Description": "This session will cover how to configure a team build definition, manage build execution, modify a process template, and configure a team project among many thing. Watch this session to how to best cr"
+  },
+  {
+    "VideoId": "ecd9aa3c-ff70-449d-aa4a-a1dd01150f39",
+    "DataApi": "/Entries(guid'ecd9aa3c-ff70-449d-aa4a-a1dd01150f39')/",
+    "VideoPageLink": "/Series/Administering-Visual-Studio-Team-Foundation-Server-2012/Administering-Visual-Studio-Team-Foundation-Server-2012-05-Administer-Version-Control",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/70f0/09b0999a-0cfd-489b-8380-bd0c835b70f0/ALM496M05_960.jpg",
+    "ShowName": "Administering Visual Studio Team Foundation Server 2012",
+    "VideoLength": "00:54:45",
+    "VideoTitle": "Administering Visual Studio Team Foundation Server 2012: (05) Administer Version Control",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-06-15T18:27:46.5598343Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/70f0/09b0999a-0cfd-489b-8380-bd0c835b70f0/ALM496M05_mid.mp4",
+    "Description": "In this module you will learn how to create and manage workspaces, configure version control proxy and configure team project version control settings. [05:29] - Create and manage workspaces [28:08] -"
+  }
+]

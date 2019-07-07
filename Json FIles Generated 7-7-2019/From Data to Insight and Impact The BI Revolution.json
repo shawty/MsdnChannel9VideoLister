@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "a781d16a-2156-4bad-bf8e-a3ac0161b7da",
+    "DataApi": "/Entries(guid'a781d16a-2156-4bad-bf8e-a3ac0161b7da')/",
+    "VideoPageLink": "/Series/From-Data-to-Insight-and-Impact-The-BI-Revolution/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0d51/35c771e1-f940-4926-b305-1f7fa8150d51/FromDataToInsightAndImpactM02_960.jpg",
+    "ShowName": "From Data to Insight and Impact: The BI Revolution",
+    "VideoLength": "00:16:49",
+    "VideoTitle": "From Data to Insight and Impact: The BI Revolution: (02) Getting Any Type of Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:46:55.5878974Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0d51/35c771e1-f940-4926-b305-1f7fa8150d51/FromDataToInsightAndImpactM02_mid.mp4",
+    "Description": "Learn how to use Power Query to import data from internal (or external) sources into Excel. Full course outline: Mod 01: The BI Revolution: Spend Less Time Struggling with Data and More Time Driving I"
+  },
+  {
+    "VideoId": "642a653e-d170-4c7a-9cea-a3ac0161f20b",
+    "DataApi": "/Entries(guid'642a653e-d170-4c7a-9cea-a3ac0161f20b')/",
+    "VideoPageLink": "/Series/From-Data-to-Insight-and-Impact-The-BI-Revolution/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7d26/b334c2aa-5820-4641-b3c0-cd1cd08d7d26/FromDataToInsightAndImpactM03_960.jpg",
+    "ShowName": "From Data to Insight and Impact: The BI Revolution",
+    "VideoLength": "00:21:14",
+    "VideoTitle": "From Data to Insight and Impact: The BI Revolution: (03) Shaping Any Type of Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:47:15.4986189Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7d26/b334c2aa-5820-4641-b3c0-cd1cd08d7d26/FromDataToInsightAndImpactM03_mid.mp4",
+    "Description": "After importing your data with Power Query, you need to make sense of it. Learn how to use Power Pivot to easily mash up data, add formulas, and calculations. (Power Pivot is designed to be used by no"
+  },
+  {
+    "VideoId": "293ad68f-de7f-4aa9-bb2d-a3ac016224b5",
+    "DataApi": "/Entries(guid'293ad68f-de7f-4aa9-bb2d-a3ac016224b5')/",
+    "VideoPageLink": "/Series/From-Data-to-Insight-and-Impact-The-BI-Revolution/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca76/67686e05-3803-4573-960e-cfb1cd1eca76/FromDataToInsightAndImpactM04_960.jpg",
+    "ShowName": "From Data to Insight and Impact: The BI Revolution",
+    "VideoLength": "00:20:11",
+    "VideoTitle": "From Data to Insight and Impact: The BI Revolution: (04) Turning Your Data into a Visual Story",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:47:35.1785895Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca76/67686e05-3803-4573-960e-cfb1cd1eca76/FromDataToInsightAndImpactM04_mid.mp4",
+    "Description": "Now that you have imported your data with Power Query and shaped it with Power Pivot, make it visual and interactive. Learn how to change the way your interactive, visual data is presented. Full cours"
+  },
+  {
+    "VideoId": "ea3c5a7c-629c-4e31-a250-a3ac01625499",
+    "DataApi": "/Entries(guid'ea3c5a7c-629c-4e31-a250-a3ac01625499')/",
+    "VideoPageLink": "/Series/From-Data-to-Insight-and-Impact-The-BI-Revolution/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d0e6/ae5b37b6-d1e1-49d7-ae14-92b17aa0d0e6/FromDataToInsightAndImpactM05_960.jpg",
+    "ShowName": "From Data to Insight and Impact: The BI Revolution",
+    "VideoLength": "00:14:26",
+    "VideoTitle": "From Data to Insight and Impact: The BI Revolution: (05) Data Exploration for Everyone",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-09-21T18:47:55.2723876Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d0e6/ae5b37b6-d1e1-49d7-ae14-92b17aa0d0e6/FromDataToInsightAndImpactM05_mid.mp4",
+    "Description": "To securely share your insights and explore data with your peers and business partners, learn how to use features, such as Power Q&amp;A, in which you can type questions and then receive answers in th"
+  }
+]

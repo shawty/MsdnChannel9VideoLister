@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "ee614714-700d-4a7d-902f-a3ae011bf1e1",
+    "DataApi": "/Entries(guid'ee614714-700d-4a7d-902f-a3ae011bf1e1')/",
+    "VideoPageLink": "/Series/Deploying-a-Configuration-Manager-2012-R2-Hierarchy/-Module-2-Extending-the-AD-Schema-for-Configuration-Manager-R2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1fe1/4dfea98d-40e1-4faa-9081-4e683cb51fe1/Mod2_960.jpg",
+    "ShowName": "Deploying a Configuration Manager 2012 R2 Hierarchy",
+    "VideoLength": "00:14:27",
+    "VideoTitle": "(Module 2) Extending the AD Schema for Configuration Manager R2",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-23T16:47:28Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1fe1/4dfea98d-40e1-4faa-9081-4e683cb51fe1/Mod2_mid.mp4",
+    "Description": "Find out how to extend the schema and what is involved in doing so. This is an important prerequisite in deploying a Configuration Manager hierarchy.  This video is part of the Microsoft Virtual Acade"
+  },
+  {
+    "VideoId": "b857e127-0e72-4806-ae25-a3ae011c6261",
+    "DataApi": "/Entries(guid'b857e127-0e72-4806-ae25-a3ae011c6261')/",
+    "VideoPageLink": "/Series/Deploying-a-Configuration-Manager-2012-R2-Hierarchy/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1734/31abb125-6911-4aa0-b1e3-f1151f3f1734/Mod3_960.jpg",
+    "ShowName": "Deploying a Configuration Manager 2012 R2 Hierarchy",
+    "VideoLength": "00:21:21",
+    "VideoTitle": "(Module 3) Installing a Configuration Manager Central Administration Site",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-23T16:48:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1734/31abb125-6911-4aa0-b1e3-f1151f3f1734/Mod3_mid.mp4",
+    "Description": "Walk through the process of deploying a central administration site, which is necessary in an environment with more than 100,000 clients or in one that requires the creation of multiple primary sites "
+  },
+  {
+    "VideoId": "767d8ff9-cb2b-4f09-bb25-a3ae011f0c43",
+    "DataApi": "/Entries(guid'767d8ff9-cb2b-4f09-bb25-a3ae011f0c43')/",
+    "VideoPageLink": "/Series/Deploying-a-Configuration-Manager-2012-R2-Hierarchy/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5d4a/c0064481-4c01-413c-97d9-872594a15d4a/Mod4_960.jpg",
+    "ShowName": "Deploying a Configuration Manager 2012 R2 Hierarchy",
+    "VideoLength": "00:10:55",
+    "VideoTitle": "(Module 4) Deploying a Configuration Manager Primary Site",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-23T16:48:52Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5d4a/c0064481-4c01-413c-97d9-872594a15d4a/Mod4_mid.mp4",
+    "Description": "Learn how to implement and connect your new primary site in Configuration Manager 2012 R2, and get the details for this point of management for end devices on your network. This video is part of the M"
+  },
+  {
+    "VideoId": "c57c5ccf-ebef-49ff-ae69-a3ae011f76f4",
+    "DataApi": "/Entries(guid'c57c5ccf-ebef-49ff-ae69-a3ae011f76f4')/",
+    "VideoPageLink": "/Series/Deploying-a-Configuration-Manager-2012-R2-Hierarchy/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2751/9d601ef7-ceec-496c-9658-0528e00a2751/Mod5_960.jpg",
+    "ShowName": "Deploying a Configuration Manager 2012 R2 Hierarchy",
+    "VideoLength": "00:08:34",
+    "VideoTitle": "(Module 5) Deploying a Configuration Manager Secondary Site",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-23T16:49:56Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2751/9d601ef7-ceec-496c-9658-0528e00a2751/Mod5_mid.mp4",
+    "Description": "Find out why, in certain circumstances, secondary sites are still deployed in some Configuration Manager 2012 R2 environments, and see how to do so. This video is part of the Microsoft Virtual Academy"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "54b8b08b-718a-4a49-a93e-a24c01828e7d",
+    "DataApi": "/Entries(guid'54b8b08b-718a-4a49-a93e-a24c01828e7d')/",
+    "VideoPageLink": "/Series/Big-Data-Analytics/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ae92/bb59f71f-ac74-4f78-8037-97fd6925ae92/BigDataAnalyticsM02_960.jpg",
+    "ShowName": "Big Data Analytics",
+    "VideoLength": "00:20:50",
+    "VideoTitle": "Big Data Analytics: (02) Data Visualizations with Power View and Power Map",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-04T23:03:12.5231836Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ae92/bb59f71f-ac74-4f78-8037-97fd6925ae92/BigDataAnalyticsM02_mid.mp4",
+    "Description": "This module explains how to use Microsoft Excel Power View and Power Map add-ins to visualize data mash-ups from a PowerPivot model to create charts and map-based analysis. [01:36] - Excel Power View "
+  },
+  {
+    "VideoId": "68226ed5-07b1-4678-b69b-a24c0182d332",
+    "DataApi": "/Entries(guid'68226ed5-07b1-4678-b69b-a24c0182d332')/",
+    "VideoPageLink": "/Series/Big-Data-Analytics/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/261f/06abc409-b3fa-44f3-bbb7-1f5be7ed261f/BigDataAnalyticsM03_960.jpg",
+    "ShowName": "Big Data Analytics",
+    "VideoLength": "00:34:28",
+    "VideoTitle": "Big Data Analytics: (03) Using SQOOP and Windows Azure Reporting Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-04T23:03:26.7316427Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/261f/06abc409-b3fa-44f3-bbb7-1f5be7ed261f/BigDataAnalyticsM03_mid.mp4",
+    "Description": "In this module, you will find out how to use SQOOP to perform high-speed data transfers from a Hive table on an HDInsight cluster to a Windows Azure SQL database. You will then see how create and depl"
+  },
+  {
+    "VideoId": "db859666-ddf4-4881-ab51-a24c01830c34",
+    "DataApi": "/Entries(guid'db859666-ddf4-4881-ab51-a24c01830c34')/",
+    "VideoPageLink": "/Series/Big-Data-Analytics/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7577/1a696a87-4de1-435a-be96-cb1079f17577/BigDataAnalyticsM04_960.jpg",
+    "ShowName": "Big Data Analytics",
+    "VideoLength": "00:47:19",
+    "VideoTitle": "Big Data Analytics: (04) Data Mining and Predictive Analytics Including Mahout",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-04T23:03:35.0925078Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7577/1a696a87-4de1-435a-be96-cb1079f17577/BigDataAnalyticsM04_mid.mp4",
+    "Description": "This module shows how to use the Microsoft Excel Data Mining add-in along with SQL Server Analysis Services to perform key influencers and categorization data mining techniques. You'll learn how to in"
+  },
+  {
+    "VideoId": "dc0f65c4-1b57-45d5-8dd1-a24c0183ab81",
+    "DataApi": "/Entries(guid'dc0f65c4-1b57-45d5-8dd1-a24c0183ab81')/",
+    "VideoPageLink": "/Series/Big-Data-Analytics/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8abe/fb97059e-1b98-4d68-8613-d202aead8abe/BigDataAnalyticsM05_960.jpg",
+    "ShowName": "Big Data Analytics",
+    "VideoLength": "00:30:18",
+    "VideoTitle": "Big Data Analytics: (05) Working with Windows Azure Tables and MongoDB",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-04T23:03:49.5166372Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8abe/fb97059e-1b98-4d68-8613-d202aead8abe/BigDataAnalyticsM05_mid.mp4",
+    "Description": "In this module, you will learn how to use Windows Azure tables and MongoDB as NoSQL technologies for your Big Data solutions. You'll see how to create a .Net application for accessing Azure tables. Yo"
+  }
+]

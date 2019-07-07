@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "d0099a4c-a800-4736-991b-a6e301285b51",
+    "DataApi": "/Entries(guid'd0099a4c-a800-4736-991b-a6e301285b51')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-2-ADF-Process",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c2cd/71294499-2fdf-4e7e-aafb-c8842fe2c2cd/OperationalizeADF2_960.jpg",
+    "ShowName": "Operationalizing Solutions with Azure Data Factory",
+    "VideoLength": "00:13:23",
+    "VideoTitle": "Operationalizing Solutions with Azure Data Factory - Session 2 - ADF Process",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-12-21T23:29:26.3556774Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c2cd/71294499-2fdf-4e7e-aafb-c8842fe2c2cd/OperationalizeADF2_mid.mp4",
+    "Description": "This video, presented by Ryan Swanstrom. is part of the series Operationalizing Solutions with Azure Data Factory. This video provides an overview of the ADF process. This video series assumes some le"
+  },
+  {
+    "VideoId": "d7715819-fffe-4630-9c29-a6e30139b5f0",
+    "DataApi": "/Entries(guid'd7715819-fffe-4630-9c29-a6e30139b5f0')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-3-Basic-ADF-Demo",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "cf67f820-65e3-4ced-89cc-a6e3013be2b4",
+    "DataApi": "/Entries(guid'cf67f820-65e3-4ced-89cc-a6e3013be2b4')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-4-ML-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/555d/9b2f3e3c-79af-4b34-b95c-8553c05e555d/OperationalizeADF4_960.jpg",
+    "ShowName": "Operationalizing Solutions with Azure Data Factory",
+    "VideoLength": "00:10:27",
+    "VideoTitle": "Operationalizing Solutions with Azure Data Factory - Session 4 - ML Overview",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-12-21T23:30:23.7334753Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/555d/9b2f3e3c-79af-4b34-b95c-8553c05e555d/OperationalizeADF4_mid.mp4",
+    "Description": "This video, presented by Ryan Swanstrom. is part of the series Operationalizing Solutions with Azure Data Factory. This video provides an introduction to machine learning with a description of linear "
+  },
+  {
+    "VideoId": "caca5c82-c7a3-4385-9717-a6e30164bd40",
+    "DataApi": "/Entries(guid'caca5c82-c7a3-4385-9717-a6e30164bd40')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-5-Azure-ML-Model-Building",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0ed7/7079936e-be8b-4d2c-9cf4-5b402a1c0ed7/OperationalizeADF4_960.jpg",
+    "ShowName": "Operationalizing Solutions with Azure Data Factory",
+    "VideoLength": "00:15:27",
+    "VideoTitle": "Operationalizing Solutions with Azure Data Factory - Session 5 - Azure ML Model Building",
+    "Author": "Ryan Swanstrom",
+    "UtcDateTimePublished": "2016-12-21T23:30:47.2979023Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0ed7/7079936e-be8b-4d2c-9cf4-5b402a1c0ed7/OperationalizeADF4_mid.mp4",
+    "Description": "This video, presented by Ryan Swanstrom. is part of the series Operationalizing Solutions with Azure Data Factory. This video covers a demo of creating a linear model in Azure ML. This video series as"
+  },
+  {
+    "VideoId": "5204b5cb-0236-4d65-b2c3-a6e301669c5b",
+    "DataApi": "/Entries(guid'5204b5cb-0236-4d65-b2c3-a6e301669c5b')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-6-Producing-An-API-from-Azure-ML",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/258b/4e3b85b7-e318-475e-9cdb-ea27128c258b/OperationalizeADF6_960.jpg",
+    "ShowName": "Operationalizing Solutions with Azure Data Factory",
+    "VideoLength": "00:07:56",
+    "VideoTitle": "Operationalizing Solutions with Azure Data Factory - Session 6 - Producing An API from Azure ML",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-12-21T23:30:59.7747149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/258b/4e3b85b7-e318-475e-9cdb-ea27128c258b/OperationalizeADF6_mid.mp4",
+    "Description": "This video, presented by Ryan Swanstrom. is part of the series Operationalizing Solutions with Azure Data Factory. This video covers creating an API from an Azure ML model. It is simple and straight-f"
+  },
+  {
+    "VideoId": "a42af9a1-b9a6-4e1c-9451-a6e30167d7c8",
+    "DataApi": "/Entries(guid'a42af9a1-b9a6-4e1c-9451-a6e30167d7c8')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-7-Call-Azure-ML-from-ADF",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bf3/2a54445c-10ad-4f0c-800c-0b5b56462bf3/OperationalizeADF7_960.jpg",
+    "ShowName": "Operationalizing Solutions with Azure Data Factory",
+    "VideoLength": "00:17:00",
+    "VideoTitle": "Operationalizing Solutions with Azure Data Factory - Session 7 - Call Azure ML from ADF",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-12-21T23:31:09.4275667Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bf3/2a54445c-10ad-4f0c-800c-0b5b56462bf3/OperationalizeADF7_mid.mp4",
+    "Description": "This video, presented by Ryan Swanstrom. is part of the series Operationalizing Solutions with Azure Data Factory. This video covers calling an Azure ML API from an ADF Pipeline. This video series ass"
+  },
+  {
+    "VideoId": "7bf77955-21c5-45f4-ad25-a6e301685845",
+    "DataApi": "/Entries(guid'7bf77955-21c5-45f4-ad25-a6e301685845')/",
+    "VideoPageLink": "/Series/Operationalizing-Solutions-with-Azure-Data-Factory/Operationalizing-Solutions-with-Azure-Data-Factory-Session-8-Conclusion",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/344e/7250b676-988b-4c9d-a161-8cd76151344e/OperationalizeADF8_960.jpg",
+    "ShowName": "Operationalizing Solutions with Azure Data Factory",
+    "VideoLength": "00:02:27",
+    "VideoTitle": "Operationalizing Solutions with Azure Data Factory - Session 8 - Conclusion",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2016-12-21T23:31:18.5204953Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/344e/7250b676-988b-4c9d-a161-8cd76151344e/OperationalizeADF8_mid.mp4",
+    "Description": "This video, presented by Ryan Swanstrom. is part of the series Operationalizing Solutions with Azure Data Factory. This video concludes the series. This video series assumes some level of knowledge an"
+  }
+]

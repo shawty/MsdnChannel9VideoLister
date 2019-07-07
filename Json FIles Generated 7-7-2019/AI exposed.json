@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d865bb1f-0f7f-4bfa-9d96-a77100ece443",
+    "DataApi": "/Entries(guid'd865bb1f-0f7f-4bfa-9d96-a77100ece443')/",
+    "VideoPageLink": "/Blogs/AIExposed/Getting-started-with-Azure-Search",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b25e/145c5db1-42d7-46eb-a4bd-dc268391b25e/170509AzureSearchLiam_960.jpg",
+    "ShowName": "AI exposed",
+    "VideoLength": "00:35:20",
+    "VideoTitle": "Getting started with Azure Search",
+    "Author": "Justin Scott",
+    "UtcDateTimePublished": "2017-05-12T16:09:11.8937807Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b25e/145c5db1-42d7-46eb-a4bd-dc268391b25e/170509AzureSearchLiam_mid.mp4",
+    "Description": "In this episode Justin Scott talks with Azure Search Principle Program Manager, Liam Cavanaugh. We discuss topics such as text analytics, and ML capabilities customers can leverage for their search ne"
+  },
+  {
+    "VideoId": "09ce22af-7c6e-4c8c-bdf7-a76500edc68d",
+    "DataApi": "/Entries(guid'09ce22af-7c6e-4c8c-bdf7-a76500edc68d')/",
+    "VideoPageLink": "/Blogs/AIExposed/Machine-Learning-Used-For-Reducing-Diseases",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/07e3/526ab2af-1cfe-4f31-a701-98835d3607e3/ep4Reducingcdiff_960.jpg",
+    "ShowName": "AI exposed",
+    "VideoLength": "01:06:46",
+    "VideoTitle": "Machine Learning Used For Reducing Diseases",
+    "Author": "Justin Scott",
+    "UtcDateTimePublished": "2017-04-30T17:38:47.789542Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/07e3/526ab2af-1cfe-4f31-a701-98835d3607e3/ep4Reducingcdiff_mid.mp4",
+    "Description": "In this episode, Justin Scott sat with a Microsoft data scientist from the Data and Decision Sciences Group (DDSG), Ernst Henle, to discuss a machine learning project that Ernst has been working on fo"
+  },
+  {
+    "VideoId": "04c44d20-38d6-4c35-aa55-a76000fc7f90",
+    "DataApi": "/Entries(guid'04c44d20-38d6-4c35-aa55-a76000fc7f90')/",
+    "VideoPageLink": "/Blogs/AIExposed/Exposing-Hive",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db0e/534b016d-0284-4620-8f13-2f618a39db0e/Ep3AIexposedHive_960.jpg",
+    "ShowName": "AI exposed",
+    "VideoLength": "00:32:31",
+    "VideoTitle": "Exposing Hive!",
+    "Author": "Justin Scott",
+    "UtcDateTimePublished": "2017-04-25T17:40:47.7902023Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db0e/534b016d-0284-4620-8f13-2f618a39db0e/Ep3AIexposedHive_mid.mp4",
+    "Description": "In this episode #3, Justin Scott talks with Microsoft Senior Program Manager, Ashish Thapliyal about the some of the cool stuff going on within Hive, a popular tool used for querying unstructured data"
+  },
+  {
+    "VideoId": "4850e4c6-889e-454b-a0fc-a75800dba2e8",
+    "DataApi": "/Entries(guid'4850e4c6-889e-454b-a0fc-a75800dba2e8')/",
+    "VideoPageLink": "/Blogs/AIExposed/R-is-now-in-SQL-Server",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b16a/876425f9-97fa-4acc-842b-01b8ef9ab16a/aiexposedEpisode002_960.jpg",
+    "ShowName": "AI exposed",
+    "VideoLength": "00:12:55",
+    "VideoTitle": "R is now in SQL Server!",
+    "Author": "Justin Scott",
+    "UtcDateTimePublished": "2017-04-17T18:49:35.8418082Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b16a/876425f9-97fa-4acc-842b-01b8ef9ab16a/aiexposedEpisode002_mid.mp4",
+    "Description": "In episode #2, Justin Scott has a brief talk with Microsoft Senior data consultant, Brian Raymer about the new capability of running R scripts from within SQL Server. "
+  },
+  {
+    "VideoId": "e7efd839-183b-4bee-859b-a755000d3ceb",
+    "DataApi": "/Entries(guid'e7efd839-183b-4bee-859b-a755000d3ceb')/",
+    "VideoPageLink": "/Blogs/AIExposed/AIwithOnlineCollege",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a28d/6eaed93b-785f-437c-a068-f20c732ea28d/AIexposed001_960.jpg",
+    "ShowName": "AI exposed",
+    "VideoLength": "00:25:37",
+    "VideoTitle": "AI with an Online College",
+    "Author": "Justin Scott",
+    "UtcDateTimePublished": "2017-04-14T13:22:27.4847074Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a28d/6eaed93b-785f-437c-a068-f20c732ea28d/AIexposed001_mid.mp4",
+    "Description": "In this audio show, Justin Scott sits with one of our Microsoft data scientists, TJ Olojede, and discusses a project he was involved with for an online college. This show looks to discuss the overview"
+  }
+]

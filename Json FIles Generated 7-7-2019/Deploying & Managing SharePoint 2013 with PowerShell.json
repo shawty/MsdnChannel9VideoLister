@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "b8ec7500-a650-4820-a978-a3ff0008c070",
+    "DataApi": "/Entries(guid'b8ec7500-a650-4820-a978-a3ff0008c070')/",
+    "VideoPageLink": "/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44e3/b1b10727-07a5-4a59-bb6f-b8dffb4a44e3/462DeployManageSP2013PowerShellM02_960.jpg",
+    "ShowName": "Deploying & Managing SharePoint 2013 with PowerShell",
+    "VideoLength": "00:53:18",
+    "VideoTitle": "Deploying & Managing SharePoint 2013 with PowerShell: (02) Creating Objects Using PowerShell",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:13:55.7425514Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44e3/b1b10727-07a5-4a59-bb6f-b8dffb4a44e3/462DeployManageSP2013PowerShellM02_mid.mp4",
+    "Description": "See how to use PowerShell to create the following SharePoint objects: Web App with parameters, Site Collection, State Service Application, Managed Metadata Service (MMS), and User Profile Service (UPS"
+  },
+  {
+    "VideoId": "55844296-b48f-4488-9312-a3ff00092ab8",
+    "DataApi": "/Entries(guid'55844296-b48f-4488-9312-a3ff00092ab8')/",
+    "VideoPageLink": "/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ea5/ed66ed3a-9f68-4d51-a0bc-15e968de1ea5/462DeployManageSP2013PowerShellM03_960.jpg",
+    "ShowName": "Deploying & Managing SharePoint 2013 with PowerShell",
+    "VideoLength": "00:25:59",
+    "VideoTitle": "Deploying & Managing SharePoint 2013 with PowerShell: (03) Search",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:15:20.5085038Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ea5/ed66ed3a-9f68-4d51-a0bc-15e968de1ea5/462DeployManageSP2013PowerShellM03_mid.mp4",
+    "Description": "Examine how to create a search service application (SSA) in SharePoint 2013 using PowerShell, along with how to modify search topologies. Review best practices for organizing search result content. [0"
+  },
+  {
+    "VideoId": "fa5bbc87-c5a0-4739-b5cc-a3ff0009546e",
+    "DataApi": "/Entries(guid'fa5bbc87-c5a0-4739-b5cc-a3ff0009546e')/",
+    "VideoPageLink": "/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d71e/e119f846-ecfc-4a50-be88-77e3a760d71e/462DeployManageSP2013PowerShellM04_960.jpg",
+    "ShowName": "Deploying & Managing SharePoint 2013 with PowerShell",
+    "VideoLength": "00:16:09",
+    "VideoTitle": "Deploying & Managing SharePoint 2013 with PowerShell: (04) Content Mangement",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:15:28.7613506Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d71e/e119f846-ecfc-4a50-be88-77e3a760d71e/462DeployManageSP2013PowerShellM04_mid.mp4",
+    "Description": "Take a look at how to use PowerShell to manage SharePoint content, including adding a content database to a web app, moving a site collection to a different database, â€‹and adding a site collection to "
+  },
+  {
+    "VideoId": "a24121b9-59bd-4334-ab98-a3ff00093f2c",
+    "DataApi": "/Entries(guid'a24121b9-59bd-4334-ab98-a3ff00093f2c')/",
+    "VideoPageLink": "/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9b32/3cd53c2b-5a8d-4151-bba2-15c3ad469b32/462DeployManageSP2013PowerShellM05_960.jpg",
+    "ShowName": "Deploying & Managing SharePoint 2013 with PowerShell",
+    "VideoLength": "00:13:01",
+    "VideoTitle": "Deploying & Managing SharePoint 2013 with PowerShell: (05) Troubleshooting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:16:04.468356Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9b32/3cd53c2b-5a8d-4151-bba2-15c3ad469b32/462DeployManageSP2013PowerShellM05_mid.mp4",
+    "Description": "Explore how PowerShell can be used to help troubleshoot issues that you may experience with SharePoint 2013, including retrieving the error associated with a correlation ID, viewing and filtering diag"
+  },
+  {
+    "VideoId": "302f281f-0e99-4c73-9a20-a3ff000984e3",
+    "DataApi": "/Entries(guid'302f281f-0e99-4c73-9a20-a3ff000984e3')/",
+    "VideoPageLink": "/Series/Deploying--Managing-SharePoint-2013-with-PowerShell/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7289/a9a2202c-cafa-4545-a2ae-189238277289/462DeployManageSP2013PowerShellM06_960.jpg",
+    "ShowName": "Deploying & Managing SharePoint 2013 with PowerShell",
+    "VideoLength": "00:13:47",
+    "VideoTitle": "Deploying & Managing SharePoint 2013 with PowerShell: (06) Backups, Restores, and Other Resources",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-12T22:17:09.118542Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7289/a9a2202c-cafa-4545-a2ae-189238277289/462DeployManageSP2013PowerShellM06_mid.mp4",
+    "Description": "Find out how PowerShell can be used to â€‹create a backup of an entire SharePoint farm, in addition to specific components or farm configuration. Examine how to use PowerShell to manage the restore proc"
+  }
+]

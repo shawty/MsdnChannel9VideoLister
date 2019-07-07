@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "020c2ad9-750f-4245-aee3-a4d801634156",
+    "DataApi": "/Entries(guid'020c2ad9-750f-4245-aee3-a4d801634156')/",
+    "VideoPageLink": "/Shows/msftazure/Azure-PowerShell--Managing-Azure-DNS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6cd5/c3ae4625-f5ac-4da7-98ee-3c43cb0c6cd5/AzurePowerShellManagingAzureDNS_960.jpg",
+    "ShowName": "Microsoft Azure",
+    "VideoLength": "00:05:29",
+    "VideoTitle": "Azure PowerShell :: Managing Azure DNS",
+    "Author": "Trevor Sullivan",
+    "UtcDateTimePublished": "2015-07-17T22:36:52.8994294Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6cd5/c3ae4625-f5ac-4da7-98ee-3c43cb0c6cd5/AzurePowerShellManagingAzureDNS_mid.mp4",
+    "Description": "During this video, we'll explore the Azure Resource Manager (ARM) PowerShell module, enabling us to manage the Microsoft Azure DNS Service! We'll start by authenticating to Azure, selecting the approp"
+  },
+  {
+    "VideoId": "353b636e-3bd7-47b4-85da-a4d700ebd19c",
+    "DataApi": "/Entries(guid'353b636e-3bd7-47b4-85da-a4d700ebd19c')/",
+    "VideoPageLink": "/Shows/msftazure/Azure-PowerShell--Managing-Blob-Storage",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5deb/8be9c0b7-014a-4a44-ae4e-2ed36f425deb/AzurePowerShellManagingBlobStorage_960.jpg",
+    "ShowName": "Microsoft Azure",
+    "VideoLength": "00:10:01",
+    "VideoTitle": "Azure PowerShell :: Managing Blob Storage",
+    "Author": "Trevor Sullivan",
+    "UtcDateTimePublished": "2015-07-16T17:25:53.2567735Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5deb/8be9c0b7-014a-4a44-ae4e-2ed36f425deb/AzurePowerShellManagingBlobStorage_mid.mp4",
+    "Description": "Come join Microsoft Windows PowerShell MVP Trevor Sullivan, and explore the management of Microsoft Azure Blob Storage using the Azure Resource Manager (ARM) PowerShell module! Topics will include cre"
+  },
+  {
+    "VideoId": "a87d3cdd-92f9-4012-8530-a4d60173ce2f",
+    "DataApi": "/Entries(guid'a87d3cdd-92f9-4012-8530-a4d60173ce2f')/",
+    "VideoPageLink": "/Shows/msftazure/Red-Gate-Azure-Storage-Explorer-Free-Tool",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bad7/22b556e9-1f1d-44a7-943d-8f418237bad7/RedGateAzureStorageExplorerFree_960.jpg",
+    "ShowName": "Microsoft Azure",
+    "VideoLength": "00:03:53",
+    "VideoTitle": "Red Gate Azure Storage Explorer [Free Tool]",
+    "Author": "Trevor Sullivan",
+    "UtcDateTimePublished": "2015-07-15T22:54:25.4586813Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bad7/22b556e9-1f1d-44a7-943d-8f418237bad7/RedGateAzureStorageExplorerFree_mid.mp4",
+    "Description": "During this short video, we will explore the free Microsoft Azure Storage Explorer from Red Gate Software! We can use this Storage Explorer to connect to an Azure Storage Account, create and remove Bl"
+  }
+]

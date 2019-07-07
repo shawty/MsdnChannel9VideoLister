@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "9d4bda86-caef-41b9-a614-a1530129ebb0",
+    "DataApi": "/Entries(guid'9d4bda86-caef-41b9-a614-a1530129ebb0')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-02-Hyper-V-Infrastructure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6a8d/2f27b41f-9c4d-4e35-adc9-8f20ec116a8d/IntroHyperVJS02_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "01:03:00",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (02) Hyper-V Infrastructure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:35:25.652065Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a8d/2f27b41f-9c4d-4e35-adc9-8f20ec116a8d/IntroHyperVJS02_mid.mp4",
+    "Description": "This important session covers key considerations regarding infrastructure and is essential for IT organizations exploring options with the Microsoft Virtualization Platform. Symon and Jeff focus on Se"
+  },
+  {
+    "VideoId": "f26c9aa0-7fb0-4c39-9a11-a153012a2dc1",
+    "DataApi": "/Entries(guid'f26c9aa0-7fb0-4c39-9a11-a153012a2dc1')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-03-Hyper-V-Networking",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d7a/424064b0-92e6-41d1-91bb-586e35ed4d7a/IntroHyperVJS03_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "00:51:15",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (03) Hyper-V Networking",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:35:41.0973994Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d7a/424064b0-92e6-41d1-91bb-586e35ed4d7a/IntroHyperVJS03_mid.mp4",
+    "Description": "This module discusses networking topics as they relate to Hyper-V. Topics include Virtual Networks, Software Defined Networking, Hyper-V Extensible Switch, Network Teaming and Guest Network Load Balan"
+  },
+  {
+    "VideoId": "41654a6b-f476-4c01-954e-a153012a60c8",
+    "DataApi": "/Entries(guid'41654a6b-f476-4c01-954e-a153012a60c8')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-04-Hyper-V-Storage",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c843/0c3ea5e8-519f-400c-bd78-d38f9930c843/IntroHyperVJS04_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "01:04:36",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (04) Hyper-V Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:36:01.0618961Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c843/0c3ea5e8-519f-400c-bd78-d38f9930c843/IntroHyperVJS04_mid.mp4",
+    "Description": "During this module, Symon and Jeff help students understand how to increase performance through Storage Considerations. They will cover topics like Creating VHDs, Storage options, iSCSI, Virtual Fibre"
+  },
+  {
+    "VideoId": "e2ffc954-a0c4-481f-b0ec-a153012ab32b",
+    "DataApi": "/Entries(guid'e2ffc954-a0c4-481f-b0ec-a153012ab32b')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-05-Hyper-V-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/971a/72a75245-10ec-4718-a0f0-fcdbee51971a/IntroHyperVJS05_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "00:52:35",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (05) Hyper-V Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:36:20.0187342Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/971a/72a75245-10ec-4718-a0f0-fcdbee51971a/IntroHyperVJS05_mid.mp4",
+    "Description": "One of the strengths of Hyper-V is the variety of powerful and integrated management tools available to IT organizations. During this session, Symon and Jeff demonstrate Hyper-V Manager, Moving to Win"
+  },
+  {
+    "VideoId": "597ec181-0987-4433-864c-a153012b30fe",
+    "DataApi": "/Entries(guid'597ec181-0987-4433-864c-a153012b30fe')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-06-Hyper-V-High-Availability-and-Live-Migration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/06a2/d424a44c-3eec-4273-909f-8764eea506a2/IntroHyperVJS06_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "01:23:36",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (06) Hyper-V High Availability and Live Migration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:36:32.8947323Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/06a2/d424a44c-3eec-4273-909f-8764eea506a2/IntroHyperVJS06_mid.mp4",
+    "Description": "During this key session, Symon and Jeff walk the audience though high-availability and redundancy with Hyper-V. They cover High Availability Planning, Cluster Deployment, Hyper-V Optimization on a Clu"
+  },
+  {
+    "VideoId": "a085a104-bc16-4335-b265-a153012b6ab1",
+    "DataApi": "/Entries(guid'a085a104-bc16-4335-b265-a153012b6ab1')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-07-Integration-with-System-Center-2012-Virtual-Machine-Manager",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6483/6ea2dc80-4129-4029-a56b-752460416483/IntroHyperVJS07_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "00:42:25",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (07) Integration with System Center 2012 Virtual Machine Manager",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:36:53.5045312Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6483/6ea2dc80-4129-4029-a56b-752460416483/IntroHyperVJS07_mid.mp4",
+    "Description": "In this module, students experience how Microsoft's tight integration between Hyper-V and System Center 2012 Virtual Machine Manager (VMM) simplifies and empowers IT Pros (this session is totally upda"
+  },
+  {
+    "VideoId": "d39447eb-d8d5-41aa-9e7b-a153012b9e37",
+    "DataApi": "/Entries(guid'd39447eb-d8d5-41aa-9e7b-a153012b9e37')/",
+    "VideoPageLink": "/Series/Introduction-to-Hyper-V-Jump-Start/Introduction-to-Hyper-V-Jump-Start-08-Integration-with-Other-System-Center-2012-Components",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e9d1/ff93666c-a096-454e-99da-0c05ff3ce9d1/IntroHyperVJS08_512.jpg",
+    "ShowName": "Introduction to Hyper-V Jump Start",
+    "VideoLength": "00:41:24",
+    "VideoTitle": "Introduction to Hyper-V Jump Start: (08) Integration with Other System Center 2012 Components",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-01-30T01:37:02.3602569Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e9d1/ff93666c-a096-454e-99da-0c05ff3ce9d1/IntroHyperVJS08_mid.mp4",
+    "Description": "Each component of System Center 2012 SP1 is extremely powerful and provides key layers of control to IT organizations. This session walks through how Hyper-V integrates with App Controller, Configurat"
+  }
+]

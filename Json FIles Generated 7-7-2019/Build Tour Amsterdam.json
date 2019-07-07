@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "cd535172-1770-4391-8e7d-a61000aa363b",
+    "DataApi": "/Entries(guid'cd535172-1770-4391-8e7d-a61000aa363b')/",
+    "VideoPageLink": "/Series/Build-Tour-Amsterdam/Session-Project-Centennial--Session--Azure--IoT",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7fff/75248387-5214-4687-86a2-d73457347fff/CENTEN_960.jpg",
+    "ShowName": "Build Tour Amsterdam",
+    "VideoLength": "00:42:52",
+    "VideoTitle": "Session: Project Centennial & Session : Azure & IoT",
+    "Author": "Microsoft Nederland",
+    "UtcDateTimePublished": "2016-05-26T11:46:57.3146175Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7fff/75248387-5214-4687-86a2-d73457347fff/CENTEN_mid.mp4",
+    "Description": "Project Centennial is een &quot;bridge for Windows 10&quot; die het ontwikkelaars mogelijk maakt klassieke Windows applicaties (CWA) te converteren naar AppX, het formaat gebruikt door de Windows Stor"
+  },
+  {
+    "VideoId": "a38375f1-d046-42eb-806b-a61000a90496",
+    "DataApi": "/Entries(guid'a38375f1-d046-42eb-806b-a61000a90496')/",
+    "VideoPageLink": "/Series/Build-Tour-Amsterdam/Keynote-BuildAmsterdam",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0c4e/c94483b0-a3b2-46a3-821f-cc71c34f0c4e/BTKey_960.jpg",
+    "ShowName": "Build Tour Amsterdam",
+    "VideoLength": "01:56:51",
+    "VideoTitle": "Keynote //Build/Amsterdam ",
+    "Author": "Microsoft Nederland",
+    "UtcDateTimePublished": "2016-05-26T11:52:54.9415174Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0c4e/c94483b0-a3b2-46a3-821f-cc71c34f0c4e/BTKey_mid.mp4",
+    "Description": "Na een welkom van Caroline Phillips presenteert Kevin de mogelijkheden van het Microsoft Developer Platform. Van Cloud tot Desktop, van Web tot Universal App, van Xbox tot HoloLens.   Sprekers,Carolin"
+  },
+  {
+    "VideoId": "00129aae-7e33-491f-a65f-a61000a94955",
+    "DataApi": "/Entries(guid'00129aae-7e33-491f-a65f-a61000a94955')/",
+    "VideoPageLink": "/Series/Build-Tour-Amsterdam/Session-Xamarin--Session--Web-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/96c2/8cf12942-afa4-488d-ab34-39c25b4c96c2/XAMARIN_960.jpg",
+    "ShowName": "Build Tour Amsterdam",
+    "VideoLength": "01:15:48",
+    "VideoTitle": "Session: Xamarin & Session : Web Apps ",
+    "Author": "Microsoft Nederland",
+    "UtcDateTimePublished": "2016-05-26T11:59:24.5038447Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/96c2/8cf12942-afa4-488d-ab34-39c25b4c96c2/XAMARIN_mid.mp4",
+    "Description": "De eerste deel van deze video gaat over cross platform apps ontwikkelen met Xamarin. Deel 2 gaat dieper in op de motivatie voor het bouwen van WebApps, met voorbeelden en demo's.   "
+  },
+  {
+    "VideoId": "200bcc14-1a26-4bd6-9b2e-a61000a9b6d0",
+    "DataApi": "/Entries(guid'200bcc14-1a26-4bd6-9b2e-a61000a9b6d0')/",
+    "VideoPageLink": "/Series/Build-Tour-Amsterdam/Session-UWP-Building-Engaging-Experience--Session--Enriching-your-Apps",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6cb5/277c1b03-2d36-4bbe-aaf8-17e8c82e6cb5/UWP_960.jpg",
+    "ShowName": "Build Tour Amsterdam",
+    "VideoLength": "00:44:50",
+    "VideoTitle": " Session: UWP - Building Engaging Experience & Session : Enriching your Apps",
+    "Author": "Microsoft Nederland",
+    "UtcDateTimePublished": "2016-05-26T12:00:48.7425692Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6cb5/277c1b03-2d36-4bbe-aaf8-17e8c82e6cb5/UWP_mid.mp4",
+    "Description": "Het Universal Windows Platform maakt het mogelijk met dezelfde codebase verschillende ervaringen aan te bieden. Van PC tot Xbox. "
+  },
+  {
+    "VideoId": "6230b252-3c85-4a6f-8994-a61300999728",
+    "DataApi": "/Entries(guid'6230b252-3c85-4a6f-8994-a61300999728')/",
+    "VideoPageLink": "/Series/Build-Tour-Amsterdam/Heads-or-Tails",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8715/ebeb3fa0-53b2-48fa-b8cd-37c590788715/QT_960.jpg",
+    "ShowName": "Build Tour Amsterdam",
+    "VideoLength": "00:15:56",
+    "VideoTitle": "Heads or Tails",
+    "Author": "Microsoft Nederland",
+    "UtcDateTimePublished": "2016-05-27T09:59:31.6759178Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8715/ebeb3fa0-53b2-48fa-b8cd-37c590788715/QT_mid.mp4",
+    "Description": "Quiz time! Het publiek beantwoord de vragen met &quot;heads or Tails&quot;. Schoot Han Solo eerst? of hoeveel Actieve Windows Apparaten zijn er? Just fun! "
+  }
+]

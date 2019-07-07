@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "f648a92a-6f94-429e-8089-a2c7001a0bad",
+    "DataApi": "/Entries(guid'f648a92a-6f94-429e-8089-a2c7001a0bad')/",
+    "VideoPageLink": "/Series/Windows-Azure-IT-Pro-IaaS/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e232/574f84cd-c481-4538-9e11-638c0fa6e232/WindowsAzureITProIaaSM02_960.jpg",
+    "ShowName": "Windows Azure IT Pro IaaS",
+    "VideoLength": "00:47:55",
+    "VideoTitle": "Windows Azure IT Pro IaaS: (02) More Virtual Machines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-07T22:39:40.375618Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e232/574f84cd-c481-4538-9e11-638c0fa6e232/WindowsAzureITProIaaSM02_mid.mp4",
+    "Description": "Get in-depth information on Hyper-V comparisons; caching, creating, and configuring VMs; licensing and activation; Access Control lists; and more. [01:16] - Endpoints[35:60] - Availability &amp; Group"
+  },
+  {
+    "VideoId": "70cbf0c7-80ec-4ecd-9324-a2c7001a594c",
+    "DataApi": "/Entries(guid'70cbf0c7-80ec-4ecd-9324-a2c7001a594c')/",
+    "VideoPageLink": "/Series/Windows-Azure-IT-Pro-IaaS/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d44c/93b41cd3-a253-4eb4-9b34-2c1f90cad44c/WindowsAzureITProIaaSM03_960.jpg",
+    "ShowName": "Windows Azure IT Pro IaaS",
+    "VideoLength": "00:49:13",
+    "VideoTitle": "Windows Azure IT Pro IaaS: (03) Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-07T22:40:36.2642832Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d44c/93b41cd3-a253-4eb4-9b34-2c1f90cad44c/WindowsAzureITProIaaSM03_mid.mp4",
+    "Description": "Learn about storage accounts, blobs and containers, uploading files, copying between accounts, backup and recovery, and more. [05:32] - Storage Concepts[12:21] - Disks and VHDsFull course outline: Mod"
+  },
+  {
+    "VideoId": "dc1f0486-bf31-4105-8514-a2c7001a99a0",
+    "DataApi": "/Entries(guid'dc1f0486-bf31-4105-8514-a2c7001a99a0')/",
+    "VideoPageLink": "/Series/Windows-Azure-IT-Pro-IaaS/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac6a/6e85bbae-0cc6-450b-aac7-4769bf29ac6a/WindowsAzureITProIaaSM04_960.jpg",
+    "ShowName": "Windows Azure IT Pro IaaS",
+    "VideoLength": "00:48:41",
+    "VideoTitle": "Windows Azure IT Pro IaaS: (04) Virtual Basic Networks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-07T22:41:25.1011158Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac6a/6e85bbae-0cc6-450b-aac7-4769bf29ac6a/WindowsAzureITProIaaSM04_mid.mp4",
+    "Description": "Learn the basics of virtual networking and DNS in Windows Azure. [00:59] - Virtual Network Communication Basics[18:14] - Windows Azure Name Resolution[37:02] - Traffic ManagerFull course outline: Mod "
+  },
+  {
+    "VideoId": "e6f1c3ed-be70-448c-aa6f-a2c7001ad3e4",
+    "DataApi": "/Entries(guid'e6f1c3ed-be70-448c-aa6f-a2c7001ad3e4')/",
+    "VideoPageLink": "/Series/Windows-Azure-IT-Pro-IaaS/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c20b/869ef256-f61d-4463-ab5d-c4229909c20b/WindowsAzureITProIaaSM05_960.jpg",
+    "ShowName": "Windows Azure IT Pro IaaS",
+    "VideoLength": "00:51:21",
+    "VideoTitle": "Windows Azure IT Pro IaaS: (05) Creating Virtual Networks and Cross-Premises Connectivity",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-07T22:41:49.9137187Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c20b/869ef256-f61d-4463-ab5d-c4229909c20b/WindowsAzureITProIaaSM05_mid.mp4",
+    "Description": "This module covers cross-premises networking and related concepts. [00:46] - Virtual Network Settings[19:07] - Cross-Premises SettingsFull course outline: Mod 01: Virtual Machine FundamentalsMod 02: M"
+  },
+  {
+    "VideoId": "b7690b04-a3e6-4168-8b60-a2c7001afb14",
+    "DataApi": "/Entries(guid'b7690b04-a3e6-4168-8b60-a2c7001afb14')/",
+    "VideoPageLink": "/Series/Windows-Azure-IT-Pro-IaaS/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b466/87411e81-f9e7-496a-9ceb-7748ee5fb466/WindowsAzureITProIaaSM06_960.jpg",
+    "ShowName": "Windows Azure IT Pro IaaS",
+    "VideoLength": "00:51:12",
+    "VideoTitle": "Windows Azure IT Pro IaaS: (06) Active Directory in VMs",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-07T22:42:24.5451623Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b466/87411e81-f9e7-496a-9ceb-7748ee5fb466/WindowsAzureITProIaaSM06_mid.mp4",
+    "Description": "Find out details on Active Directory and copying VMs between Hyper-V and Windows Azure. Full course outline: Mod 01: Virtual Machine FundamentalsMod 02: More Virtual MachinesMod 03: StorageMod 04: Vir"
+  }
+]

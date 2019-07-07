@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "5a97d9c9-892e-4089-bcc0-9deb01888dcd",
+    "DataApi": "/Entries(guid'5a97d9c9-892e-4089-bcc0-9deb01888dcd')/",
+    "VideoPageLink": "/Blogs/nigel.watling/Online-Banking-with-Windows-CardSpace",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "10990c2a-b62c-4db8-b7af-9dea0162b300",
+    "DataApi": "/Entries(guid'10990c2a-b62c-4db8-b7af-9dea0162b300')/",
+    "VideoPageLink": "/Blogs/nigel.watling/Windows-CardSpace-in-One-Minute",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6536d76e-71ab-48b2-9175-9dea0162c31d",
+    "DataApi": "/Entries(guid'6536d76e-71ab-48b2-9175-9dea0162c31d')/",
+    "VideoPageLink": "/Blogs/nigel.watling/quotInfoCardquot-simple-demo",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "3ccf599f-4a0a-43b0-9195-a2c501769166",
+    "DataApi": "/Entries(guid'3ccf599f-4a0a-43b0-9195-a2c501769166')/",
+    "VideoPageLink": "/Series/Windows-Azure-SQL-Database/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bbe/18c96da5-b5eb-447c-906c-68b168b92bbe/WindowsAzureSQLDatabaseM02_960.jpg",
+    "ShowName": "Windows Azure SQL Database",
+    "VideoLength": "00:56:05",
+    "VideoTitle": "Windows Azure SQL Database: (02) SQL Database Fundamentals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:17:38.3027547Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bbe/18c96da5-b5eb-447c-906c-68b168b92bbe/WindowsAzureSQLDatabaseM02_mid.mp4",
+    "Description": "Find out how to create databases against SQLDB using both the portal and T-SQL. See how to configure the SQLDB firewall mechanism. The session also shows how to use both the online database manager to"
+  },
+  {
+    "VideoId": "a92f7977-a037-4736-a633-a2c50176da2f",
+    "DataApi": "/Entries(guid'a92f7977-a037-4736-a633-a2c50176da2f')/",
+    "VideoPageLink": "/Series/Windows-Azure-SQL-Database/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f9ad/5ab33a41-69d6-45bc-b913-5885daaaf9ad/WindowsAzureSQLDatabaseM03_960.jpg",
+    "ShowName": "Windows Azure SQL Database",
+    "VideoLength": "00:35:21",
+    "VideoTitle": "Windows Azure SQL Database: (03) Migration and Maintenance",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:18:34.0748829Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f9ad/5ab33a41-69d6-45bc-b913-5885daaaf9ad/WindowsAzureSQLDatabaseM03_mid.mp4",
+    "Description": "Get guidance for customers looking at migrating a workload to Windows Azure, and see demos of the various tools that can be used to analyze and resolve compatibility issues. The session also highlight"
+  },
+  {
+    "VideoId": "b2009653-81e6-47b2-aea7-a2c50177180e",
+    "DataApi": "/Entries(guid'b2009653-81e6-47b2-aea7-a2c50177180e')/",
+    "VideoPageLink": "/Series/Windows-Azure-SQL-Database/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc1a/fbb9af72-9fe1-474c-9bc4-903f824dbc1a/WindowsAzureSQLDatabaseM04_960.jpg",
+    "ShowName": "Windows Azure SQL Database",
+    "VideoLength": "00:21:40",
+    "VideoTitle": "Windows Azure SQL Database: (04) Windows Azure SQL Database Premium SKU",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T00:19:03.3862992Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc1a/fbb9af72-9fe1-474c-9bc4-903f824dbc1a/WindowsAzureSQLDatabaseM04_mid.mp4",
+    "Description": "Learn about the capabilities and features provided by the forthcoming Premium SKU of SQL database. We discuss the ability to reserve capacity using the premium SKU and contrast this with the &quot;sha"
+  },
+  {
+    "VideoId": "5fc2efc3-a338-46ac-a29c-a2c501775dc1",
+    "DataApi": "/Entries(guid'5fc2efc3-a338-46ac-a29c-a2c501775dc1')/",
+    "VideoPageLink": "/Series/Windows-Azure-SQL-Database/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/15c9/5d4dbba3-8b2b-4fe1-ae2f-213ae23515c9/WindowsAzureSQLDatabaseM05_960.jpg",
+    "ShowName": "Windows Azure SQL Database",
+    "VideoLength": "00:29:52",
+    "VideoTitle": "Windows Azure SQL Database: (05) Developing for SQL Database",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-02-03T02:27:32.7512498Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/15c9/5d4dbba3-8b2b-4fe1-ae2f-213ae23515c9/WindowsAzureSQLDatabaseM05_mid.mp4",
+    "Description": "Gain best practice guidance for working with SQL database as a developer, including connection management, resource management, and dealing with the resource governor. Full course outline: Mod 01: Int"
+  }
+]

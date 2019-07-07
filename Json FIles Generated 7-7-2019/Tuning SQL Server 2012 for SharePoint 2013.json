@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "20bcd3c6-39a8-44f3-855b-a187011f1808",
+    "DataApi": "/Entries(guid'20bcd3c6-39a8-44f3-855b-a187011f1808')/",
+    "VideoPageLink": "/Series/Tuning-SQL-Server-2012-for-SharePoint-2013/Tuning-SQL-Server-2012-for-SharePoint-2013-02-Best-Practices-for-SQL-Server-Database-Settings",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0688/02713e73-9827-46d0-aa27-c0b493fe0688/SQL4SPSJS02_512.jpg",
+    "ShowName": "Tuning SQL Server 2012 for SharePoint 2013",
+    "VideoLength": "00:51:17",
+    "VideoTitle": "Tuning SQL Server 2012 for SharePoint 2013: (02) Best Practices for SQL Server Database Settings",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-21T02:29:37.5884505Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0688/02713e73-9827-46d0-aa27-c0b493fe0688/SQL4SPSJS02_mid.mp4",
+    "Description": "Get ready to understand model and Tempdb database settings, database file placement, and how to determine the number of content databases. This module goes over how to modify model database to reflect"
+  },
+  {
+    "VideoId": "c9ae6d2a-fe24-4754-acef-a187011f6c4a",
+    "DataApi": "/Entries(guid'c9ae6d2a-fe24-4754-acef-a187011f6c4a')/",
+    "VideoPageLink": "/Series/Tuning-SQL-Server-2012-for-SharePoint-2013/Tuning-SQL-Server-2012-for-SharePoint-2013-03-Server-Settings-for-SQL-Server",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/39a3/d285be7b-333e-4999-98ef-e887e85739a3/SQL4SPSJS03_512.jpg",
+    "ShowName": "Tuning SQL Server 2012 for SharePoint 2013",
+    "VideoLength": "00:35:43",
+    "VideoTitle": "Tuning SQL Server 2012 for SharePoint 2013: (03) Server Settings for SQL Server",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-21T02:29:48.0228986Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/39a3/d285be7b-333e-4999-98ef-e887e85739a3/SQL4SPSJS03_mid.mp4",
+    "Description": "In this segment you will learn how to modify memory settings to control memory usage by SQL Server, how to change default file locations, how to leave MAXDOP at 1 for SharePoint and how to verify oper"
+  },
+  {
+    "VideoId": "3da17663-41fd-4280-9f8e-a187011fafe2",
+    "DataApi": "/Entries(guid'3da17663-41fd-4280-9f8e-a187011fafe2')/",
+    "VideoPageLink": "/Series/Tuning-SQL-Server-2012-for-SharePoint-2013/Tuning-SQL-Server-2012-for-SharePoint-2013-04-SQL-Server-and-SharePoint-Availability",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4abc/bea650f9-d628-428a-9697-e30139bb4abc/SQL4SPSJS04_512.jpg",
+    "ShowName": "Tuning SQL Server 2012 for SharePoint 2013",
+    "VideoLength": "00:47:23",
+    "VideoTitle": "Tuning SQL Server 2012 for SharePoint 2013: (04) SQL Server and SharePoint Availability",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-03-21T02:30:00.5230148Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4abc/bea650f9-d628-428a-9697-e30139bb4abc/SQL4SPSJS04_mid.mp4",
+    "Description": "This module will show you how to avoid ginormous T-Logs by performing regular T-Log backups, how to have multiple copies of your backups, how to configure AlwaysOn for high availability and verify int"
+  }
+]

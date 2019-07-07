@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "441e4153-8b3a-4505-baaf-a4d500f2ca28",
+    "DataApi": "/Entries(guid'441e4153-8b3a-4505-baaf-a4d500f2ca28')/",
+    "VideoPageLink": "/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/Edge-Cloud--United-Data-Technologies",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/99ce/0f850c70-2eb7-4af5-a611-96602cec99ce/edgecloudWPC2015_960.jpg",
+    "ShowName": "Microsoft Service Provider Operational Readiness Kit",
+    "VideoLength": "00:03:23",
+    "VideoTitle": "Edge Cloud / United Data Technologies",
+    "Author": "jasonpe",
+    "UtcDateTimePublished": "2015-07-14T15:28:36.7660566Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/99ce/0f850c70-2eb7-4af5-a611-96602cec99ce/edgecloudWPC2015_mid.mp4",
+    "Description": "Edge Cloud / United Data Technologies case study video from WPC 2015 Contact edgecloud@Microsoft.com for more information how Managed Service Providers can provide Hybrid Cloud services to their custo"
+  },
+  {
+    "VideoId": "dd073106-a77e-4067-adb1-a38a0141eba7",
+    "DataApi": "/Entries(guid'dd073106-a77e-4067-adb1-a38a0141eba7')/",
+    "VideoPageLink": "/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/ORK-Demonstration-version-2-5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/823d/e7d1ce6f-ccad-46c0-9c5c-acfa9d68823d/orkdemo25_960.jpg",
+    "ShowName": "Microsoft Service Provider Operational Readiness Kit",
+    "VideoLength": "00:14:24",
+    "VideoTitle": "ORK Demonstration version 2.5",
+    "Author": "jasonpe",
+    "UtcDateTimePublished": "2014-08-17T19:48:50.0270948Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/823d/e7d1ce6f-ccad-46c0-9c5c-acfa9d68823d/orkdemo25_mid.mp4",
+    "Description": "This is the latest demonstration video for the Service Provider Operational Readiness Kit version 2.5 "
+  },
+  {
+    "VideoId": "f693d1fc-7c15-4eea-bbb4-a2be01086409",
+    "DataApi": "/Entries(guid'f693d1fc-7c15-4eea-bbb4-a2be01086409')/",
+    "VideoPageLink": "/Blogs/Microsoft-Service-Provider-Operational-Readiness-Kit/orktool",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7ba5/45f7ecb4-84dd-47d6-97c1-df63ff967ba5/orktoolchannel9_960.jpg",
+    "ShowName": "Microsoft Service Provider Operational Readiness Kit",
+    "VideoLength": "00:12:38",
+    "VideoTitle": "ORK Tool: Create New Deployment",
+    "Author": "jasonpe",
+    "UtcDateTimePublished": "2014-01-25T16:40:09.9262896Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7ba5/45f7ecb4-84dd-47d6-97c1-df63ff967ba5/orktoolchannel9_mid.mp4",
+    "Description": "This video demonstrates how to create a new deployment using the Service Provider Operational Readiness Kit. "
+  }
+]

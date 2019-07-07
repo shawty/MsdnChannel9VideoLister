@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "7502ef8e-9d5e-4fa2-ad29-a5b400c93658",
+    "DataApi": "/Entries(guid'7502ef8e-9d5e-4fa2-ad29-a5b400c93658')/",
+    "VideoPageLink": "/Series/Financial-management-and-accounting-for-SMEs/Using-Management-Accounts-to-make-informed-Business-Decisions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/af67/1383b796-8191-436c-9b83-fd77bf6daf67/UsingManagementAccounts_960.jpg",
+    "ShowName": "Financial management and accounting for SMEs",
+    "VideoLength": "00:14:06",
+    "VideoTitle": "Using Management Accounts to make informed Business Decisions.",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T14:46:18.1962504Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/af67/1383b796-8191-436c-9b83-fd77bf6daf67/UsingManagementAccounts_mid.mp4",
+    "Description": "Dana delves into the detail of income statements and balance sheets used to make business decisions. "
+  },
+  {
+    "VideoId": "0d0befa6-9594-4c16-9d1a-a5b400c90921",
+    "DataApi": "/Entries(guid'0d0befa6-9594-4c16-9d1a-a5b400c90921')/",
+    "VideoPageLink": "/Series/Financial-management-and-accounting-for-SMEs/Making-Business-Decisions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/99d9/3393180d-bbc6-4099-b958-1317906a99d9/BusinessDecisions_960.jpg",
+    "ShowName": "Financial management and accounting for SMEs",
+    "VideoLength": "00:22:49",
+    "VideoTitle": "Making Business Decisions.",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T14:46:21.2614199Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/99d9/3393180d-bbc6-4099-b958-1317906a99d9/BusinessDecisions_mid.mp4",
+    "Description": "Dana discusses the various kinds of business decisions that are made, when taken from the point of view of the investor, manager, and lenders.   "
+  },
+  {
+    "VideoId": "a67be6e9-033c-489f-9332-a5b400c8dbda",
+    "DataApi": "/Entries(guid'a67be6e9-033c-489f-9332-a5b400c8dbda')/",
+    "VideoPageLink": "/Series/Financial-management-and-accounting-for-SMEs/What-are-Management-Accounts",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a8ad/6db7b12e-bce1-4249-abe8-28ee16d0a8ad/WhatAreManageAcc_960.jpg",
+    "ShowName": "Financial management and accounting for SMEs",
+    "VideoLength": "00:26:58",
+    "VideoTitle": "What are Management Accounts?",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2016-02-22T14:46:25.0891637Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a8ad/6db7b12e-bce1-4249-abe8-28ee16d0a8ad/WhatAreManageAcc_mid.mp4",
+    "Description": "Dana provides an introduction to management accounts, discussing the various statements and sheets that comprise these accounts.   "
+  }
+]

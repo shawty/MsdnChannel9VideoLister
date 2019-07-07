@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "012251ac-0ba4-4076-9f04-a70d0171b089",
+    "DataApi": "/Entries(guid'012251ac-0ba4-4076-9f04-a70d0171b089')/",
+    "VideoPageLink": "/Blogs/PFE-Dynamics-Podcast/Episode-29-December-Update-for-Dynamics-365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e328/d428514e-2726-4afc-983a-05413c7be328/CRM2016SP2_960.jpg",
+    "ShowName": "PFE Dynamics Podcast",
+    "VideoLength": "00:39:05",
+    "VideoTitle": "Episode 29: December Update for Dynamics 365",
+    "Author": "lefsaeater",
+    "UtcDateTimePublished": "2017-02-01T23:43:27.6967806Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e328/d428514e-2726-4afc-983a-05413c7be328/CRM2016SP2.mp4",
+    "Description": "On February 1, 2017, Greg Nichols and Ryan Anderson from the Microsoft CRM Premier Field Engineering Team will provide information about: The release of Microsoft Dynamics CRM 2016 Update 2.0New featu"
+  },
+  {
+    "VideoId": "a008ed4a-b136-4d91-a447-a652011df3fc",
+    "DataApi": "/Entries(guid'a008ed4a-b136-4d91-a447-a652011df3fc')/",
+    "VideoPageLink": "/Blogs/PFE-Dynamics-Podcast/Episode-28-Microsoft-Dynamics-CRM-2015-Update-12",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/224c/9cd6b773-ed33-4740-83d3-89eead93224c/Episode28CRM2015u12_960.jpg",
+    "ShowName": "PFE Dynamics Podcast",
+    "VideoLength": "00:27:41",
+    "VideoTitle": "Episode 28: Microsoft Dynamics CRM 2015 Update 1.2",
+    "Author": "lefsaeater",
+    "UtcDateTimePublished": "2016-08-02T21:44:03.7549018Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/224c/9cd6b773-ed33-4740-83d3-89eead93224c/Episode28CRM2015u12_mid.mp4",
+    "Description": "On July 29, 2016, Greg Nichols and Ryan Anderson from the Microsoft CRM Premier Field Engineering Team will provide information about: The release of Microsoft Dynamics CRM 2015 Update 1.2New fixes ma"
+  },
+  {
+    "VideoId": "9a9d2aa5-4d3e-4525-a8c6-a6510162137a",
+    "DataApi": "/Entries(guid'9a9d2aa5-4d3e-4525-a8c6-a6510162137a')/",
+    "VideoPageLink": "/Blogs/PFE-Dynamics-Podcast/Episode-27-Microsoft-Dynamics-CRM-2016-Update-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f1c7/74895496-4c1b-47f9-a353-da9cf6c8f1c7/PFEDynamicsCRM2016u10_960.jpg",
+    "ShowName": "PFE Dynamics Podcast",
+    "VideoLength": "00:43:26",
+    "VideoTitle": "Episode 27: Microsoft Dynamics CRM 2016 Update 1.0",
+    "Author": "lefsaeater",
+    "UtcDateTimePublished": "2016-08-01T20:23:31.608639Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f1c7/74895496-4c1b-47f9-a353-da9cf6c8f1c7/PFEDynamicsCRM2016u10_mid.mp4",
+    "Description": "On Monday, June 27th 2016, Greg Nichols and Ryan Anderson from the Microsoft CRM Premier Field Engineering Team provided information about: The release of Microsoft Dynamics CRM 2016 Update 1.0New fix"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "c6262cc9-fbe7-4525-bad2-a3fc01800d29",
+    "DataApi": "/Entries(guid'c6262cc9-fbe7-4525-bad2-a3fc01800d29')/",
+    "VideoPageLink": "/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d567/b008fc56-b5c8-458c-be05-add252aed567/360CreatingGamesWithMonoGameM02_960.jpg",
+    "ShowName": "Creating Windows Phone and Windows Store Games with MonoGame",
+    "VideoLength": "01:13:12",
+    "VideoTitle": "Creating Windows Phone and Windows Store Games with MonoGame: (02) Creating a Windows Phone Game with MonoGame, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T17:17:11.4801001Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d567/b008fc56-b5c8-458c-be05-add252aed567/360CreatingGamesWithMonoGameM02_mid.mp4",
+    "Description": "In this first of a two-part session, develop the basics of a MonoGame game for Windows Phone, with the goal of learning key concepts, such as implementing gameplay, rendering graphics, and handing inp"
+  },
+  {
+    "VideoId": "981a43d2-4525-4ea8-bf20-a3fc0180177a",
+    "DataApi": "/Entries(guid'981a43d2-4525-4ea8-bf20-a3fc0180177a')/",
+    "VideoPageLink": "/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8d8d/52141afb-3b3d-42b1-b2da-7d2e707d8d8d/360CreatingGamesWithMonoGameM03_960.jpg",
+    "ShowName": "Creating Windows Phone and Windows Store Games with MonoGame",
+    "VideoLength": "01:01:07",
+    "VideoTitle": "Creating Windows Phone and Windows Store Games with MonoGame: (03) Creating a Windows Phone Game with MonoGame, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T17:17:25.6731999Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8d8d/52141afb-3b3d-42b1-b2da-7d2e707d8d8d/360CreatingGamesWithMonoGameM03_mid.mp4",
+    "Description": "â€‹In this second of a two-part session, develop a complete MonoGame game for Windows Phone, expanding on the gameplay and graphics from the first session, adding the user interface, sound effects, and "
+  },
+  {
+    "VideoId": "64814787-6769-43a8-9f3d-a3fc01806bb2",
+    "DataApi": "/Entries(guid'64814787-6769-43a8-9f3d-a3fc01806bb2')/",
+    "VideoPageLink": "/Series/Creating-Windows-Phone-and-Windows-Store-Games-with-MonoGame/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d085/52257e8c-b078-49ee-bc77-fd58cbc6d085/360CreatingGamesWithMonoGameM04_960.jpg",
+    "ShowName": "Creating Windows Phone and Windows Store Games with MonoGame",
+    "VideoLength": "00:36:19",
+    "VideoTitle": "Creating Windows Phone and Windows Store Games with MonoGame: (04) Porting MonoGame Games to Windows Store",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-10T17:18:16.4376121Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d085/52257e8c-b078-49ee-bc77-fd58cbc6d085/360CreatingGamesWithMonoGameM04_mid.mp4",
+    "Description": "Port the newly developed game to the Windows Store for use on PCs and tablets, with the goal of gaining familiarity with issues in porting games, including code sharing, multiple input forms, and diff"
+  }
+]

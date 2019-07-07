@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "4be55353-a253-4eca-aff2-a3e001884c69",
+    "DataApi": "/Entries(guid'4be55353-a253-4eca-aff2-a3e001884c69')/",
+    "VideoPageLink": "/Series/Migrate-to-a-Different-Office-365-Plan/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74d3/3fb2836a-fd9f-4767-bcee-dcd8f65174d3/603MigrateToADifferentO365PlanM01_960.jpg",
+    "ShowName": "Migrate to a Different Office 365 Plan",
+    "VideoLength": "00:21:59",
+    "VideoTitle": "Migrate to a Different Office 365 Plan: (01) How to Switch Office 365 Plans",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-12T20:17:48.5127327Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74d3/3fb2836a-fd9f-4767-bcee-dcd8f65174d3/603MigrateToADifferentO365PlanM01_mid.mp4",
+    "Description": "â€‹Examine the available Office 365 plans, and see where to locate them on the Office 365 admin pages. Take a look at the Switch Plan wizard, and learn when to uninstall your old version of Office and i"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "76c14dfc-e961-4763-9e7a-a33001417291",
+    "DataApi": "/Entries(guid'76c14dfc-e961-4763-9e7a-a33001417291')/",
+    "VideoPageLink": "/Series/HR-and-Payroll-in-Microsoft-Dynamics-GP-2013/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7356/9cdcb7b9-ef19-4614-ba46-35a0f8cf7356/HRPayrollInDynamicsGP2013M02_960.jpg",
+    "ShowName": "HR and Payroll in Microsoft Dynamics GP 2013",
+    "VideoLength": "00:51:32",
+    "VideoTitle": "HR and Payroll in Microsoft Dynamics GP 2013: (02) Employee Setup for HR and Payroll",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-19T22:19:30.2222252Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7356/9cdcb7b9-ef19-4614-ba46-35a0f8cf7356/HRPayrollInDynamicsGP2013M02_mid.mp4",
+    "Description": "This module focuses on the employee related setups that must be completed in HR and Payroll. Topics discussed include Payroll Employee setups, HR Employee Setups, Position Control, Payroll Extensions,"
+  },
+  {
+    "VideoId": "476a29cf-c356-48e2-aa0f-a3300141b622",
+    "DataApi": "/Entries(guid'476a29cf-c356-48e2-aa0f-a3300141b622')/",
+    "VideoPageLink": "/Series/HR-and-Payroll-in-Microsoft-Dynamics-GP-2013/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3769/34d6596a-9566-4a28-8755-b7a1709b3769/HRPayrollInDynamicsGP2013M03_960.jpg",
+    "ShowName": "HR and Payroll in Microsoft Dynamics GP 2013",
+    "VideoLength": "00:30:59",
+    "VideoTitle": "HR and Payroll in Microsoft Dynamics GP 2013: (03) Process Payroll",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-19T22:19:50.5488439Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3769/34d6596a-9566-4a28-8755-b7a1709b3769/HRPayrollInDynamicsGP2013M03_mid.mp4",
+    "Description": "This module discusses the Pre-Posting reports, default setups, and building, calculating, printing, and posting checks. It also discusses how to generate an ACH file, and how to void checks if necessa"
+  },
+  {
+    "VideoId": "ffe22a6c-96df-4a3c-a0ab-a3300141be35",
+    "DataApi": "/Entries(guid'ffe22a6c-96df-4a3c-a0ab-a3300141be35')/",
+    "VideoPageLink": "/Series/HR-and-Payroll-in-Microsoft-Dynamics-GP-2013/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fabf/f925c183-1707-453d-8bd6-b44fd138fabf/HRPayrollInDynamicsGP2013M04_960.jpg",
+    "ShowName": "HR and Payroll in Microsoft Dynamics GP 2013",
+    "VideoLength": "00:23:47",
+    "VideoTitle": "HR and Payroll in Microsoft Dynamics GP 2013: (04) HR and Payroll Utilities, Year-End, and Reporting",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-19T22:19:59.0459301Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fabf/f925c183-1707-453d-8bd6-b44fd138fabf/HRPayrollInDynamicsGP2013M04_mid.mp4",
+    "Description": "This module focuses on utilities such as the reconcile, the Payroll year-end process, and reporting capabilities in HR and Payroll. [00:31] - Reconcile[03:29] - Modify Payroll Code Names[07:05] - Payr"
+  }
+]

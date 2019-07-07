@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d6ff43a5-b1e7-4c41-ac87-9deb001cdf9a",
+    "DataApi": "/Entries(guid'd6ff43a5-b1e7-4c41-ac87-9deb001cdf9a')/",
+    "VideoPageLink": "/Blogs/cbinder/Assemblies-mit-Team-Build-2010-automatisch-Versionieren",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/7/6/1/6/3/5/TeamBuild2010AssembliesVersionieren_512_ch9.png",
+    "ShowName": "cbinder",
+    "VideoLength": "00:12:03",
+    "VideoTitle": "Assemblies mit Team Build 2010 automatisch Versionieren",
+    "Author": "Christian Binder",
+    "UtcDateTimePublished": "2010-03-10T12:09:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/7/6/1/6/3/5/TeamBuild2010AssembliesVersionieren_ch9.mp4",
+    "Description": "Eine der häufigsten Anforderungen von Teams ist die automatische Versionierung von Assemblies durch Team Build. Also in der Eigenschaften des Assemblies eine entsprechende File Version zu haben, durch"
+  },
+  {
+    "VideoId": "3904ea9f-00f5-41c7-b457-9deb001cdbb9",
+    "DataApi": "/Entries(guid'3904ea9f-00f5-41c7-b457-9deb001cdbb9')/",
+    "VideoPageLink": "/Blogs/cbinder/VS-2010-Coded-UI-Tests-Nutzen-und-Erweitern",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/9/6/1/6/3/5/CodedUITestErweiternGrundlagen_512_ch9.png",
+    "ShowName": "cbinder",
+    "VideoLength": "00:08:29",
+    "VideoTitle": "VS 2010 Coded UI Tests Nutzen und Erweitern",
+    "Author": "Christian Binder",
+    "UtcDateTimePublished": "2010-03-10T11:58:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/9/6/1/6/3/5/CodedUITestErweiternGrundlagen_ch9.mp4",
+    "Description": "Da in vielen Szenarien die Notwendigkeit besteht, den Coded UI Test zu erweitern, möchte ich hier kurz die Grundlagen beschreiben, welche die ersten Schritte erleichtern sollen. Mehr dazu hier\n in me"
+  },
+  {
+    "VideoId": "003b6503-4816-4147-941a-9deb017497f7",
+    "DataApi": "/Entries(guid'003b6503-4816-4147-941a-9deb017497f7')/",
+    "VideoPageLink": "/Blogs/cbinder/Demo-VSTS-2008-Database-Edition-General-Distribution-Release",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/7/8/1/3/6/4/VSTS2008DBProGDR_large_ch9.png",
+    "ShowName": "cbinder",
+    "VideoLength": "00:18:32",
+    "VideoTitle": "Demo: VSTS 2008 Database Edition General Distribution Release",
+    "Author": "Christian Binder",
+    "UtcDateTimePublished": "2009-04-01T06:49:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/7/8/1/3/6/4/VSTS2008DBProGDR_ch9.mp4",
+    "Description": " \nFrank Maar stellt in dieser Demo kompakt die VSTS 2008 Database Edition General Distribution Releases (kurz GDR) vor. Das Demo ist Teil eines Webcasts, den ich mit Frank zusammen gemacht habe, wobe"
+  },
+  {
+    "VideoId": "a324b0ff-68f0-44fa-883c-9deb01749f08",
+    "DataApi": "/Entries(guid'a324b0ff-68f0-44fa-883c-9deb01749f08')/",
+    "VideoPageLink": "/Blogs/cbinder/VSTS-2010-CTP-Architecture-Explorer",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/5/1/3/9/5/4/VSTS2010CTPArchitectureExplorerCbinder_large_ch9.png",
+    "ShowName": "cbinder",
+    "VideoLength": "00:17:07",
+    "VideoTitle": "VSTS 2010 CTP Architecture Explorer",
+    "Author": "Christian Binder",
+    "UtcDateTimePublished": "2009-03-02T15:08:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/5/1/3/9/5/4/VSTS2010CTPArchitectureExplorerCbinder_ch9.mp4",
+    "Description": "Der Architecture Explorer hilft bestehende Solutions zu analysieren und visualisieren. Wer Lust hat, zu sehen, was mit den CTP bits geht, für den gibts dieses Video. In der Demo schauen wir uns kurz e"
+  },
+  {
+    "VideoId": "6b6a990e-b9b8-43ec-9871-9deb01749b7b",
+    "DataApi": "/Entries(guid'6b6a990e-b9b8-43ec-9871-9deb01749b7b')/",
+    "VideoPageLink": "/Blogs/cbinder/VSTS2010-CTP-Camano-und-UICoded-Test",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/6/1/3/9/5/4/VSTS2010CTPCamanoUICodedTestCbinder_large_ch9.png",
+    "ShowName": "cbinder",
+    "VideoLength": "00:18:21",
+    "VideoTitle": "VSTS2010 CTP Camano und UICoded Test",
+    "Author": "Christian Binder",
+    "UtcDateTimePublished": "2009-03-02T13:31:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/6/1/3/9/5/4/VSTS2010CTPCamanoUICodedTestCbinder_ch9.mp4",
+    "Description": "Im diesem Video seht Ihr Camano, den Manual Testrunner und einen CodeUI Test. Das Demo ist Teil eines Webcasts, wer sich die ganze Story ansehen möchte, kann sich die Webcasts\n ansehen.\n\nhttps://bl"
+  }
+]

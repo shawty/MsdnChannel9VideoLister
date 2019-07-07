@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5cd3663a-9520-4451-b0fd-a501003400ce",
+    "DataApi": "/Entries(guid'5cd3663a-9520-4451-b0fd-a501003400ce')/",
+    "VideoPageLink": "/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-2-Activating-Azure-RMS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0f21/7bb35396-bc28-41ac-acef-c87cef3e0f21/mod2azurerms_960.jpg",
+    "ShowName": "Azure Rights Management Services Core Skills",
+    "VideoLength": "00:24:15",
+    "VideoTitle": "Mod 2: Activating Azure RMS",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-28T21:42:51.736163Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0f21/7bb35396-bc28-41ac-acef-c87cef3e0f21/mod2azurerms_mid.mp4",
+    "Description": "Walk with Simon and Carol through the basics of how RMS works, including the popular Bring Your Own Device (BYOD) option. See a demo on how to activate Azure RMS, and learn to enable RMS for apps. "
+  },
+  {
+    "VideoId": "3112234a-e364-4e57-948c-a50100343c8d",
+    "DataApi": "/Entries(guid'3112234a-e364-4e57-948c-a50100343c8d')/",
+    "VideoPageLink": "/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/74a1/5c87ca31-83b2-4542-9c52-a15e1afa74a1/mod3azurerms_960.jpg",
+    "ShowName": "Azure Rights Management Services Core Skills",
+    "VideoLength": "00:23:26",
+    "VideoTitle": "Mod 3: Protecting the Files Your Users Share",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-28T21:42:15.9756944Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/74a1/5c87ca31-83b2-4542-9c52-a15e1afa74a1/mod3azurerms_mid.mp4",
+    "Description": "Go deeper into what can be protected and how (native versus generic), and see example workflows and use cases. Learn how the growing ecosystem is embracing RMS and how to protect your enterprise data."
+  },
+  {
+    "VideoId": "9e47e98a-8d63-439f-b567-a50100347ad4",
+    "DataApi": "/Entries(guid'9e47e98a-8d63-439f-b567-a50100347ad4')/",
+    "VideoPageLink": "/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e2d9/3f3d9ff2-f18f-4cd2-8fa7-8ae20c78e2d9/mod4azurerms_960.jpg",
+    "ShowName": "Azure Rights Management Services Core Skills",
+    "VideoLength": "00:21:56",
+    "VideoTitle": "Mod 4: Tracking and Revoking Usage of Protected Files",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-28T21:41:55.0412002Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e2d9/3f3d9ff2-f18f-4cd2-8fa7-8ae20c78e2d9/mod4azurerms_mid.mp4",
+    "Description": "â€‹Focus on the new document tracking feature for end users, and see why knowledge of use licenses is essential to understanding revocation. Explore info for admins about logging and reporting.   "
+  },
+  {
+    "VideoId": "c3c3c8a0-d4ce-4154-9b06-a5010034b2df",
+    "DataApi": "/Entries(guid'c3c3c8a0-d4ce-4154-9b06-a5010034b2df')/",
+    "VideoPageLink": "/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cfce/ce670353-54d9-4cae-a5f0-f9f3961dcfce/mod5azurerms_960.jpg",
+    "ShowName": "Azure Rights Management Services Core Skills",
+    "VideoLength": "00:23:16",
+    "VideoTitle": "Mod 5: Building and Managing Templates",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-28T21:41:37.2435729Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cfce/ce670353-54d9-4cae-a5f0-f9f3961dcfce/mod5azurerms_mid.mp4",
+    "Description": "Examine the Azure RMS templates that make administering RMS easier for both admins and end users. Take a look at default templates, and see tips and tricks for creating your own templates. "
+  },
+  {
+    "VideoId": "cf300ebb-f5d6-496d-98fb-a5010034f856",
+    "DataApi": "/Entries(guid'cf300ebb-f5d6-496d-98fb-a5010034f856')/",
+    "VideoPageLink": "/Shows/Azure-Rights-Management-Services-Core-Skills/Mod-6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6142/3c88dcb9-3486-42bb-8dd3-0650a97e6142/mod6modazurerms_960.jpg",
+    "ShowName": "Azure Rights Management Services Core Skills",
+    "VideoLength": "00:26:42",
+    "VideoTitle": " Mod 6: Integrating with On-Premises Services",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-28T21:40:58.6089445Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6142/3c88dcb9-3486-42bb-8dd3-0650a97e6142/mod6modazurerms_mid.mp4",
+    "Description": "Take a look at the RMS connector, which lets on-premises servers benefit from Azure RMS. Explore architecture and deployment steps; see a demo on configuring File Classification Infrastructure (FCI). "
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "c45247c0-7288-45bf-8e54-a3e90182b9fd",
+    "DataApi": "/Entries(guid'c45247c0-7288-45bf-8e54-a3e90182b9fd')/",
+    "VideoPageLink": "/Series/Solving-Office-365-Client-Deployment-Scenarios/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/94ed/e9817afe-42c7-4e94-b68e-1ba2333194ed/649SolvingO365ClientDeploymentScenariosM02_960.jpg",
+    "ShowName": "Solving Office 365 Client Deployment Scenarios",
+    "VideoLength": "00:15:47",
+    "VideoTitle": "Solving Office 365 Client Deployment Scenarios: (02) Multi-Language Deployment Considerations for Office 365 ProPlusâ€‹",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:04:10.0591837Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/94ed/e9817afe-42c7-4e94-b68e-1ba2333194ed/649SolvingO365ClientDeploymentScenariosM02_mid.mp4",
+    "Description": "See demos which examine language packs, language interface packs, and Proofing Tools. Review the importance of understanding Shell Context or Shell Transform, and explore planning strategies for multi"
+  },
+  {
+    "VideoId": "6d2da63c-15ac-42f7-837a-a3e90182cf10",
+    "DataApi": "/Entries(guid'6d2da63c-15ac-42f7-837a-a3e90182cf10')/",
+    "VideoPageLink": "/Series/Solving-Office-365-Client-Deployment-Scenarios/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cb02/2ffc646d-89b7-44ba-8216-5d908c34cb02/649SolvingO365ClientDeploymentScenariosM03_960.jpg",
+    "ShowName": "Solving Office 365 Client Deployment Scenarios",
+    "VideoLength": "00:38:46",
+    "VideoTitle": "Solving Office 365 Client Deployment Scenarios: (03) Office 365 ProPlus with Azure Rights Management Services for IRM/Encryption",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:04:42.3652402Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cb02/2ffc646d-89b7-44ba-8216-5d908c34cb02/649SolvingO365ClientDeploymentScenariosM03_mid.mp4",
+    "Description": "Take a look at Azure Rights Management for Office 365 and Office 365 message encryption. Focus on configuring Office 365 message encryption, branding Office 365 message encryption, and allowing users "
+  },
+  {
+    "VideoId": "c1a5eea8-5f52-438e-b57a-a3e90182f943",
+    "DataApi": "/Entries(guid'c1a5eea8-5f52-438e-b57a-a3e90182f943')/",
+    "VideoPageLink": "/Series/Solving-Office-365-Client-Deployment-Scenarios/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5974/0e77aab3-47d3-4e42-8618-cf8b380c5974/649SolvingO365ClientDeploymentScenariosM04_960.jpg",
+    "ShowName": "Solving Office 365 Client Deployment Scenarios",
+    "VideoLength": "00:30:24",
+    "VideoTitle": "Solving Office 365 Client Deployment Scenarios: (04) Controlling Access to Office 365 ProPlus and Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:04:59.4649788Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5974/0e77aab3-47d3-4e42-8618-cf8b380c5974/649SolvingO365ClientDeploymentScenariosM04_mid.mp4",
+    "Description": "Find out how to control access to Office 365 ProPlus and Services through ADFS policies. See how to manage access with Microsoft Intune and how to control access with the Office 365 Portal. [00:43] - "
+  },
+  {
+    "VideoId": "314e873f-981b-4590-af4f-a3e9018381fa",
+    "DataApi": "/Entries(guid'314e873f-981b-4590-af4f-a3e9018381fa')/",
+    "VideoPageLink": "/Series/Solving-Office-365-Client-Deployment-Scenarios/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/90dd/87d4c7b0-bb95-425e-b1ba-a5f5c28690dd/649SolvingO365ClientDeploymentScenariosM05_960.jpg",
+    "ShowName": "Solving Office 365 Client Deployment Scenarios",
+    "VideoLength": "00:32:18",
+    "VideoTitle": "Solving Office 365 Client Deployment Scenarios: (05) Troubleshooting Office 365 and Exchange Migration Common Gotchas",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:05:23.4578283Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/90dd/87d4c7b0-bb95-425e-b1ba-a5f5c28690dd/649SolvingO365ClientDeploymentScenariosM05_mid.mp4",
+    "Description": "â€‹Examine the Exchange Autodiscover process to troubleshoot common gotchas in Office 365 and during Exchange migration, and see how to solve Exchange Autodiscover service problems following an Exchange"
+  },
+  {
+    "VideoId": "9dc7d932-3542-4ba3-9b17-a3e90183a4ae",
+    "DataApi": "/Entries(guid'9dc7d932-3542-4ba3-9b17-a3e90183a4ae')/",
+    "VideoPageLink": "/Series/Solving-Office-365-Client-Deployment-Scenarios/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a3cd/900dab4a-10b7-4952-8b9c-d0e00903a3cd/649SolvingO365ClientDeploymentScenariosM06_960.jpg",
+    "ShowName": "Solving Office 365 Client Deployment Scenarios",
+    "VideoLength": "00:35:39",
+    "VideoTitle": "Solving Office 365 Client Deployment Scenarios: (06) New Office 365 ProPlus Customizations via Group Policy or XML",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:05:44.15669Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a3cd/900dab4a-10b7-4952-8b9c-d0e00903a3cd/649SolvingO365ClientDeploymentScenariosM06_mid.mp4",
+    "Description": "Check out demos on how new Office 365 ProPlus customizations can be made using both Group Policy and XML, plus see how to obtain and review the new security baselines and reference material. Examine G"
+  },
+  {
+    "VideoId": "9e1bae64-6a68-46a9-ac9e-a3e90183e0f5",
+    "DataApi": "/Entries(guid'9e1bae64-6a68-46a9-ac9e-a3e90183e0f5')/",
+    "VideoPageLink": "/Series/Solving-Office-365-Client-Deployment-Scenarios/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e405/cbb73ccd-870e-4740-b00a-7ec92127e405/649SolvingO365ClientDeploymentScenariosM07_960.jpg",
+    "ShowName": "Solving Office 365 Client Deployment Scenarios",
+    "VideoLength": "00:11:12",
+    "VideoTitle": "Solving Office 365 Client Deployment Scenarios: (07) New Updating and Repair Command-Line Options for Office 365 ProPlus",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-21T18:06:16.4711835Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e405/cbb73ccd-870e-4740-b00a-7ec92127e405/649SolvingO365ClientDeploymentScenariosM07_mid.mp4",
+    "Description": "Get an introduction to the new Updating and Repair command-line options for Office 365 ProPlus, including new executable names following February 2014 system updates. See a demo on where to find these"
+  }
+]

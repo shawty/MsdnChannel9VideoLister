@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "8fd6f1d6-fc01-4224-abd9-a70b01523fea",
+    "DataApi": "/Entries(guid'8fd6f1d6-fc01-4224-abd9-a70b01523fea')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1702",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/93b8/b90c5220-15d2-4936-85d2-925bd4ce93b8/Imagine1702_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:03:46",
+    "VideoTitle": "Last Chance to Bring Your Ideas to Imagine Cup",
+    "Author": "Crystal Thune",
+    "UtcDateTimePublished": "2017-02-01T14:34:53.1864052Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/93b8/b90c5220-15d2-4936-85d2-925bd4ce93b8/Imagine1702_mid.mp4",
+    "Description": "Time is running out to enter the 2017 U.S. Imagine Cup! Sabrina of Nerdy and Quirky explains why you, yes you, may be ready to compete in the Imagine Cup, Microsoft's premier student technology compet"
+  },
+  {
+    "VideoId": "423dde97-0d2e-449b-9ce6-a6eb01335ccd",
+    "DataApi": "/Entries(guid'423dde97-0d2e-449b-9ce6-a6eb01335ccd')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1701",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/100e/a8ac8d82-0252-41fc-8173-f8cd41f4100e/3KeystoStudentStartupSuccess_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:04:00",
+    "VideoTitle": "3 Keys to Student Startup Success",
+    "Author": "Crystal Thune",
+    "UtcDateTimePublished": "2016-12-29T20:00:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/100e/a8ac8d82-0252-41fc-8173-f8cd41f4100e/3KeystoStudentStartupSuccess_mid.mp4",
+    "Description": "Is your idea ready for the next level? Sabrina of Nerdy and Quirky shares three keys to startup success and how Imagine Cup, Microsoft's premier student technology competition, can help you get there."
+  },
+  {
+    "VideoId": "d77cbfb4-f202-4cec-aff6-a5d2005d0293",
+    "DataApi": "/Entries(guid'd77cbfb4-f202-4cec-aff6-a5d2005d0293')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1605",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5272/58b9314b-bda0-4fc4-9734-244cbf6f5272/ImagineThisEp5_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:06:45",
+    "VideoTitle": "#ImagineThis: Episode #005 - Get Ready for the US Imagine Cup Finals! ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2016-03-23T19:25:22Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5272/58b9314b-bda0-4fc4-9734-244cbf6f5272/ImagineThisEp5_mid.mp4",
+    "Description": "The  US Imagine Cup Finals are almost upon us and your #ImagineThis hosts, Kat Harris and Gavin Bauman are ready to roll!  Get prepped for the big event and learn how you can watch it live and online "
+  },
+  {
+    "VideoId": "867a0460-d0d7-4f23-84de-a5cd017a627c",
+    "DataApi": "/Entries(guid'867a0460-d0d7-4f23-84de-a5cd017a627c')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1604",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b1e0/98141f6c-c772-47cb-b699-54a18cb5b1e0/ImagineThisEp4_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:09:58",
+    "VideoTitle": "#ImagineThis: Episode #004 - Can You Predict the Future? ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2016-03-18T19:30:43Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b1e0/98141f6c-c772-47cb-b699-54a18cb5b1e0/ImagineThisEp4_mid.mp4",
+    "Description": "Is it possible to accurately predict the future such as our US Imagine Cup winners? That's the question we hope to answer as we take a look at how data science and more specifically Azure Machine Lear"
+  },
+  {
+    "VideoId": "d89da193-2ffa-4bdd-bf7f-a5920189944a",
+    "DataApi": "/Entries(guid'd89da193-2ffa-4bdd-bf7f-a5920189944a')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1603",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/70d3/97770680-8acd-44a3-9234-4997d11470d3/ImagineThisEp3_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:13:32",
+    "VideoTitle": "#ImagineThis: Episode #003 - Technology Solves Problems",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2016-01-20T15:00:09Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/70d3/97770680-8acd-44a3-9234-4997d11470d3/ImagineThisEp3_mid.mp4",
+    "Description": "How can technology help solve todayâ€™s problems? Join Kat Harris and Gavin Bauman for todayâ€™s #ImagineThis episode and learn how a couple of Harvard Med students got inspired to change the medical indu"
+  },
+  {
+    "VideoId": "2422f564-3287-421d-9c54-a56800f27133",
+    "DataApi": "/Entries(guid'2422f564-3287-421d-9c54-a56800f27133')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1602",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c159/f6ec756c-aea1-4054-aaef-89efb22ac159/ImagineThisEp2_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:11:27",
+    "VideoTitle": "#ImagineThis: Episode #002 - Design Your Own Destiny",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-12-08T19:00:05Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c159/f6ec756c-aea1-4054-aaef-89efb22ac159/ImagineThisEp2_mid.mp4",
+    "Description": "In todayâ€™s episode of #ImagineThis Kat Harris and Gavin Bauman discuss ways in which you can design your own destiny and make your future into anything you want. Check out this weekâ€™s Feet on the Stre"
+  },
+  {
+    "VideoId": "f3b4617e-c35d-46f1-889e-a5480181db1b",
+    "DataApi": "/Entries(guid'f3b4617e-c35d-46f1-889e-a5480181db1b')/",
+    "VideoPageLink": "/Shows/ImagineThis/Imagine1601",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a0dd/cff77e9d-b2cd-4073-a5c5-5bc42176a0dd/ImagineThisEp1v2_960.jpg",
+    "ShowName": "#ImagineThis",
+    "VideoLength": "00:13:27",
+    "VideoTitle": "#ImagineThis: Episode #001 - Innovate",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-11-07T01:00:35Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a0dd/cff77e9d-b2cd-4073-a5c5-5bc42176a0dd/ImagineThisEp1v2_mid.mp4",
+    "Description": "Kat Harris and Gavin Bauman kick off a new series today that will hopefully inspire and provide valuable information for student tech lovers. Todayâ€™s topic of discussion?  How do you bring innovation "
+  }
+]

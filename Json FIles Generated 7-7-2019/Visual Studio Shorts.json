@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "0a9a5238-9ea7-4da7-bd4f-a5610107e7f0",
+    "DataApi": "/Entries(guid'0a9a5238-9ea7-4da7-bd4f-a5610107e7f0')/",
+    "VideoPageLink": "/Blogs/Visual-Studio-Shorts/Adjusting-Windows-layouts-in-Visual-Studio-2015",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bed7/dcde6308-501f-45bd-9e38-8751369ebed7/vswindowlayout_960.jpg",
+    "ShowName": "Visual Studio Shorts",
+    "VideoLength": "00:05:51",
+    "VideoTitle": "Adjusting Windows layouts in Visual Studio 2015",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2015-12-07T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bed7/dcde6308-501f-45bd-9e38-8751369ebed7/vswindowlayout_mid.mp4",
+    "Description": "Knowing your tool is essential to being productive but who has time to watch long videos?  Get up to speed quick with short video lessons and get on to coding.  Check out the other videos at the video"
+  },
+  {
+    "VideoId": "0ded476f-33b1-42b1-bba2-a56100e491a9",
+    "DataApi": "/Entries(guid'0ded476f-33b1-42b1-bba2-a56100e491a9')/",
+    "VideoPageLink": "/Blogs/Visual-Studio-Shorts/Installing-and-Using-Visual-Studio-2015-Extensions",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d5ca/ca1fb2c1-6f76-414b-aa4c-375fb893d5ca/vsextensions_960.jpg",
+    "ShowName": "Visual Studio Shorts",
+    "VideoLength": "00:02:57",
+    "VideoTitle": "Installing and Using Visual Studio 2015 Extensions",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2015-12-01T14:23:36.3926876Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d5ca/ca1fb2c1-6f76-414b-aa4c-375fb893d5ca/vsextensions_mid.mp4",
+    "Description": "Knowing your tool is essential to being productive but who has time to watch long videos?  Get up to speed quick with short video lessons and get on to coding.  Check out the other videos at the video"
+  },
+  {
+    "VideoId": "fe30eed7-11a8-451f-b3db-a523002306f7",
+    "DataApi": "/Entries(guid'fe30eed7-11a8-451f-b3db-a523002306f7')/",
+    "VideoPageLink": "/Blogs/Visual-Studio-Shorts/Project-Templates-in-Visual-Studio-2015",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0d5b/acc0289e-aa86-4399-a854-416127b10d5b/vsprojecttemplates_960.jpg",
+    "ShowName": "Visual Studio Shorts",
+    "VideoLength": "00:03:59",
+    "VideoTitle": "Project Templates in Visual Studio 2015",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2015-11-16T16:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0d5b/acc0289e-aa86-4399-a854-416127b10d5b/vsprojecttemplates_mid.mp4",
+    "Description": "Knowing your tool is essential to being productive but who has time to watch long videos?  Get up to speed quick with short video lessons and get on to coding.  Check out the other videos at the video"
+  },
+  {
+    "VideoId": "2fe63cb1-14c9-4572-a6c9-a5230021b3f1",
+    "DataApi": "/Entries(guid'2fe63cb1-14c9-4572-a6c9-a5230021b3f1')/",
+    "VideoPageLink": "/Blogs/Visual-Studio-Shorts/A-Whirlwind-Tour-of-Visual-Studio-2015-Community",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bbbb/165fd813-e348-446e-95a4-343d60fbbbbb/vstour_960.jpg",
+    "ShowName": "Visual Studio Shorts",
+    "VideoLength": "00:05:16",
+    "VideoTitle": "A Whirlwind Tour of Visual Studio 2015 Community",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2015-11-09T14:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bbbb/165fd813-e348-446e-95a4-343d60fbbbbb/vstour_mid.mp4",
+    "Description": "Knowing your tool is essential to being productive but who has time to watch long videos?  Get up to speed quick with short video lessons and get on to coding.  Check out the other videos at the video"
+  },
+  {
+    "VideoId": "e6e0187d-ae03-439d-8fb5-a52300207cf7",
+    "DataApi": "/Entries(guid'e6e0187d-ae03-439d-8fb5-a52300207cf7')/",
+    "VideoPageLink": "/Blogs/Visual-Studio-Shorts/Installing-Visual-Studio-2015-Community",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/45f5/6d673b27-3eda-4cb1-acc2-92db4f6e45f5/vsinstall_960.jpg",
+    "ShowName": "Visual Studio Shorts",
+    "VideoLength": "00:03:56",
+    "VideoTitle": "Installing Visual Studio 2015 Community ",
+    "Author": "jsturtevant",
+    "UtcDateTimePublished": "2015-11-02T17:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/45f5/6d673b27-3eda-4cb1-acc2-92db4f6e45f5/vsinstall_mid.mp4",
+    "Description": "Knowing your tool is essential to being productive but who has time to watch long videos?  Get up to speed quick with short video lessons and get on to coding.  Check out the other videos at the video"
+  }
+]

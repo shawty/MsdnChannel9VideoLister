@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "33032427-b666-405b-a242-a4690139073f",
+    "DataApi": "/Entries(guid'33032427-b666-405b-a242-a4690139073f')/",
+    "VideoPageLink": "/Series/Java-on-Microsoft-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c245/8f941233-1c6b-4e4c-9475-18c916f1c245/755JavaOnMicrosoftAzureM02_960.jpg",
+    "ShowName": "Java on Microsoft Azure",
+    "VideoLength": "00:37:24",
+    "VideoTitle": "Java on Microsoft Azure: (02) Access Control, Storage, and Tables",
+    "Author": "Brian Benz",
+    "UtcDateTimePublished": "2015-03-29T16:11:02.5241414Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c245/8f941233-1c6b-4e4c-9475-18c916f1c245/755JavaOnMicrosoftAzureM02_mid.mp4",
+    "Description": "Explore a sample application we've put together to showcase services and APIs that Java developers can use to build applications on Azure. See how the sample app uses services via the Azure SDK for Ja"
+  },
+  {
+    "VideoId": "af971d40-2448-4dc8-a2a1-a46901393127",
+    "DataApi": "/Entries(guid'af971d40-2448-4dc8-a2a1-a46901393127')/",
+    "VideoPageLink": "/Series/Java-on-Microsoft-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/40ed/17f09ebc-cf13-49b5-a00a-97d417ac40ed/755JavaOnMicrosoftAzureM03_960.jpg",
+    "ShowName": "Java on Microsoft Azure",
+    "VideoLength": "00:36:28",
+    "VideoTitle": "Java on Microsoft Azure: (03) SQL Azure, Service Bus, Media Services",
+    "Author": "Brian Benz",
+    "UtcDateTimePublished": "2015-03-29T16:11:12.8971888Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/40ed/17f09ebc-cf13-49b5-a00a-97d417ac40ed/755JavaOnMicrosoftAzureM03_mid.mp4",
+    "Description": "Continue to look at examples from the sample application that links Azure and the Azure SDK for Java to implement media services for video encoding and streaming, and service bus to manage uploading a"
+  },
+  {
+    "VideoId": "783271be-3e4b-414b-81b0-a46901395ba6",
+    "DataApi": "/Entries(guid'783271be-3e4b-414b-81b0-a46901395ba6')/",
+    "VideoPageLink": "/Series/Java-on-Microsoft-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bd4/02ffd40d-98d0-44a8-a83e-eeaa7db02bd4/755JavaOnMicrosoftAzureM04_960.jpg",
+    "ShowName": "Java on Microsoft Azure",
+    "VideoLength": "00:49:11",
+    "VideoTitle": "Java on Microsoft Azure: (04) Options for Deploying the Application",
+    "Author": "Brian Benz",
+    "UtcDateTimePublished": "2015-03-29T16:11:31.3971995Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bd4/02ffd40d-98d0-44a8-a83e-eeaa7db02bd4/755JavaOnMicrosoftAzureM04_mid.mp4",
+    "Description": "Explore ways to deploy applications to Azure from Windows, Mac, and Linux, using the Azure Toolkit for Eclipse, including options for local Azure emulation and publishing to Cloud Services. Get an int"
+  },
+  {
+    "VideoId": "58cb132e-861a-40c6-a214-a469013981f4",
+    "DataApi": "/Entries(guid'58cb132e-861a-40c6-a214-a469013981f4')/",
+    "VideoPageLink": "/Series/Java-on-Microsoft-Azure/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e5cf/dc408231-89d3-4013-b6df-6f980e20e5cf/755JavaOnMicrosoftAzureM05_960.jpg",
+    "ShowName": "Java on Microsoft Azure",
+    "VideoLength": "00:41:12",
+    "VideoTitle": "Java on Microsoft Azure: (05) Java Websites on Azure",
+    "Author": "Brian Benz",
+    "UtcDateTimePublished": "2015-03-29T16:11:57.534787Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e5cf/dc408231-89d3-4013-b6df-6f980e20e5cf/755JavaOnMicrosoftAzureM05_mid.mp4",
+    "Description": "Check out Azure Websites with Chris Risner, as he explains how to create a website and activate Java, along with how to deploy Java apps on Azure Websites. Look at options for scaling and managing dem"
+  },
+  {
+    "VideoId": "9474cbd4-c3d1-4f56-a421-a4690139a90e",
+    "DataApi": "/Entries(guid'9474cbd4-c3d1-4f56-a421-a4690139a90e')/",
+    "VideoPageLink": "/Series/Java-on-Microsoft-Azure/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7df1/fe2f184b-2853-4642-801e-f48f1dbe7df1/755JavaOnMicrosoftAzureM06_960.jpg",
+    "ShowName": "Java on Microsoft Azure",
+    "VideoLength": "00:29:39",
+    "VideoTitle": "Java on Microsoft Azure: (06) Options for Continuous Integration and DevOps on Azure",
+    "Author": "Brian Benz",
+    "UtcDateTimePublished": "2015-03-29T16:12:10.3837513Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7df1/fe2f184b-2853-4642-801e-f48f1dbe7df1/755JavaOnMicrosoftAzureM06_mid.mp4",
+    "Description": "Take a look at options for working with popular Java-based CI and DevOps tools on Azure, along with some of the tools we've developed to integrate Azure into the development cycle, including the Jenki"
+  }
+]

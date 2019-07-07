@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "8925896a-6e41-4524-adb2-a10701588e8d",
+    "DataApi": "/Entries(guid'8925896a-6e41-4524-adb2-a10701588e8d')/",
+    "VideoPageLink": "/Series/Windows-Azure-Service-Bus-Tutorials/Windows-Azure-SDK-Visual-Studio-Tooling-Updates-for-Service-Bus",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4716/6d2f5810-67ab-4602-9500-373c6cf64716/ServiceBusVSToolingUpdates_512.jpg",
+    "ShowName": "Windows Azure Service Bus",
+    "VideoLength": "00:13:35",
+    "VideoTitle": "Windows Azure SDK Visual Studio Tooling Updates for Service Bus",
+    "Author": "Abhishek Lal",
+    "UtcDateTimePublished": "2012-11-15T20:33:27.9605506Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4716/6d2f5810-67ab-4602-9500-373c6cf64716/ServiceBusVSToolingUpdates_mid.mp4",
+    "Description": "The Azure SDK 1.8 release delivers key visual studio tooling enhancements for Service Bus. We have added several new capabilities allowing you to develop and debug your applications. This is an overvi"
+  },
+  {
+    "VideoId": "83556ab3-4923-494e-9dff-a200013ef038",
+    "DataApi": "/Entries(guid'83556ab3-4923-494e-9dff-a200013ef038')/",
+    "VideoPageLink": "/Series/Windows-Azure-Service-Bus-Tutorials/Notifications-Hubs-with-iOS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/66bc/c50c82bd-e75a-437b-ba14-26c9106d66bc/NotificationHubsWithIOS_960.jpg",
+    "ShowName": "Windows Azure Service Bus",
+    "VideoLength": "00:11:53",
+    "VideoTitle": "Notifications Hubs with iOS",
+    "Author": "Chris Risner",
+    "UtcDateTimePublished": "2013-07-24T17:46:05.3726219Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/66bc/c50c82bd-e75a-437b-ba14-26c9106d66bc/NotificationHubsWithIOS_mid.mp4",
+    "Description": "In this video, Chris Risner walks you through using Windows Azure's Service Bus Notification Hubs feature to enable push notifications to iOS applications.  Notification Hubs give you a way to deliver"
+  }
+]

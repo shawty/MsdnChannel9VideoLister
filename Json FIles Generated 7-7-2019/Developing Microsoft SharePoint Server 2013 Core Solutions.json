@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "1185493a-64cf-4709-865d-a26f01336dba",
+    "DataApi": "/Entries(guid'1185493a-64cf-4709-865d-a26f01336dba')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-2013-Core-Solutions/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c9c5/4ee03add-062c-4d24-b600-41bd3d86c9c5/DevSharePointCoreSolutionsM02_960.jpg",
+    "ShowName": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+    "VideoLength": "01:02:12",
+    "VideoTitle": "Developing Microsoft SharePoint Server 2013 Core Solutions: (02) Managing Custom Components",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-08T00:52:44.7067853Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c9c5/4ee03add-062c-4d24-b600-41bd3d86c9c5/DevSharePointCoreSolutionsM02_mid.mp4",
+    "Description": "In this module, you'll learn how to define custom lists and list definitions and custom sites and site definitions. [06:32] - Component View[42:30] - Defining Custom Lists[53:34] - Defining Custom Sit"
+  },
+  {
+    "VideoId": "daedefbd-4b69-4415-8b8f-a26f0133b339",
+    "DataApi": "/Entries(guid'daedefbd-4b69-4415-8b8f-a26f0133b339')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-2013-Core-Solutions/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a1ec/8e84117c-fd36-426c-b0dc-aebee931a1ec/DevSharePointCoreSolutionsM03_960.jpg",
+    "ShowName": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+    "VideoLength": "00:56:11",
+    "VideoTitle": "Developing Microsoft SharePoint Server 2013 Core Solutions: (03) Working with SharePoint Objects using Client Side Object Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-08T00:53:29.7593038Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a1ec/8e84117c-fd36-426c-b0dc-aebee931a1ec/DevSharePointCoreSolutionsM03_mid.mp4",
+    "Description": "This module teaches you to use the Client-Side Object Model for JavaScript and the REST API with JavaScript. [02:17] - Client Side Object Model for JavaScript[28:50] - REST API with JavaScriptFull cou"
+  },
+  {
+    "VideoId": "69501a54-276c-44c8-b460-a26f0133ff5b",
+    "DataApi": "/Entries(guid'69501a54-276c-44c8-b460-a26f0133ff5b')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-2013-Core-Solutions/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5b3a/89533227-95d9-49ae-823b-7cb80ef45b3a/DevSharePointCoreSolutionsM04_960.jpg",
+    "ShowName": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+    "VideoLength": "00:53:38",
+    "VideoTitle": "Developing Microsoft SharePoint Server 2013 Core Solutions: (04) Developing SharePoint and Autohosted Hosted SharePoint Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-08T00:54:18.8750727Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5b3a/89533227-95d9-49ae-823b-7cb80ef45b3a/DevSharePointCoreSolutionsM04_mid.mp4",
+    "Description": "In this module you'll find out how to develop SharePoint hosted apps and auto-hosted apps. [01:24] - Overview of Apps for SharePoint[22:55] - Developing Apps for SharePointFull course outline: Mod 01:"
+  },
+  {
+    "VideoId": "db6fad91-bdc0-454a-a6a9-a26f01344d6c",
+    "DataApi": "/Entries(guid'db6fad91-bdc0-454a-a6a9-a26f01344d6c')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-2013-Core-Solutions/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/18a2/122a91eb-7abb-45e7-90a1-96d87a7e18a2/DevSharePointCoreSolutionsM05_960.jpg",
+    "ShowName": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+    "VideoLength": "00:52:39",
+    "VideoTitle": "Developing Microsoft SharePoint Server 2013 Core Solutions: (05) Developing Remote Hosted SharePoint Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-08T00:55:12.9172876Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/18a2/122a91eb-7abb-45e7-90a1-96d87a7e18a2/DevSharePointCoreSolutionsM05_mid.mp4",
+    "Description": "In this module you'll learn about remote hosted apps and how to create and configure them. [01:42] - Overview of Remote Hosted Apps[08:51] - Configuring Remote Hosted Apps[13:16] - Developing Remote H"
+  },
+  {
+    "VideoId": "ec320f57-74d2-4f7b-a798-a26f01348473",
+    "DataApi": "/Entries(guid'ec320f57-74d2-4f7b-a798-a26f01348473')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-2013-Core-Solutions/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c2d1/d35378a2-3c53-4d7b-b409-fc6261ecc2d1/DevSharePointCoreSolutionsM06_960.jpg",
+    "ShowName": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+    "VideoLength": "00:22:33",
+    "VideoTitle": "Developing Microsoft SharePoint Server 2013 Core Solutions: (06) Publishing and Distributing Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-08T00:55:45.1495624Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c2d1/d35378a2-3c53-4d7b-b409-fc6261ecc2d1/DevSharePointCoreSolutionsM06_mid.mp4",
+    "Description": "This module teaches you how to manage, publish, install, update and uninstall apps. [01:48] - App Management Architecture[05:45] - Understanding App Packaging[08:40] - Publishing Apps[18:20] - Install"
+  },
+  {
+    "VideoId": "d8792686-003f-48ab-ba54-a26f01351f7f",
+    "DataApi": "/Entries(guid'd8792686-003f-48ab-ba54-a26f01351f7f')/",
+    "VideoPageLink": "/Series/Developing-SharePoint-2013-Core-Solutions/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/62a8/ab95e84d-00d2-4861-a53e-bdea070a62a8/DevSharePointCoreSolutionsM07_960.jpg",
+    "ShowName": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+    "VideoLength": "00:52:00",
+    "VideoTitle": "Developing Microsoft SharePoint Server 2013 Core Solutions: (07) Automating Business Processes",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-08T00:56:46.4113846Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/62a8/ab95e84d-00d2-4861-a53e-bdea070a62a8/DevSharePointCoreSolutionsM07_mid.mp4",
+    "Description": "In this module you'll find out about workflows and learn how to build them in SharePoint Designer and Visual Studio. [02:42] - Understanding Workflow in SharePoint 2013[12:07] - Building Workflows wit"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "118d4e7c-0d06-45b0-a535-a2ed0164d98c",
+    "DataApi": "/Entries(guid'118d4e7c-0d06-45b0-a535-a2ed0164d98c')/",
+    "VideoPageLink": "/Series/Implementing-Big-Data-Analysis/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9753/cb1b3f6b-0e03-4524-a5b0-ce59c4f59753/ImplementingBigDataAnalysisM02_960.jpg",
+    "ShowName": "Implementing Big Data Analysis",
+    "VideoLength": "00:31:02",
+    "VideoTitle": "Implementing Big Data Analysis: (02) Getting Started with HDInsight",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T15:47:42.7013147Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9753/cb1b3f6b-0e03-4524-a5b0-ce59c4f59753/ImplementingBigDataAnalysisM02_mid.mp4",
+    "Description": "This module introduces Windows Azure HDInsight and explains how to provision it and connect to it. [02:16] - Demo: Provisioning HDInsight[11:30] - Demo: Remote DesktopFull course outline: Mod 01: Intr"
+  },
+  {
+    "VideoId": "ad0dffe7-01da-4064-90ca-a2ed01651ec4",
+    "DataApi": "/Entries(guid'ad0dffe7-01da-4064-90ca-a2ed01651ec4')/",
+    "VideoPageLink": "/Series/Implementing-Big-Data-Analysis/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/70eb/d97b7f49-b026-414c-bb82-954973b070eb/ImplementingBigDataAnalysisM03_960.jpg",
+    "ShowName": "Implementing Big Data Analysis",
+    "VideoLength": "00:33:27",
+    "VideoTitle": "Implementing Big Data Analysis: (03) Windows Azure PowerShell",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T15:48:17.6074808Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/70eb/d97b7f49-b026-414c-bb82-954973b070eb/ImplementingBigDataAnalysisM03_mid.mp4",
+    "Description": "This module describes how to configure and use Windows Azure PowerShell to work with Windows Azure HDInsight. [05:51] - Demo: Configuring PowerShell[13:29] - Demo: Uploading Files[21:16] - Demo: Runni"
+  },
+  {
+    "VideoId": "4bbddf7f-d56c-4cc4-a906-a2ed016561f6",
+    "DataApi": "/Entries(guid'4bbddf7f-d56c-4cc4-a906-a2ed016561f6')/",
+    "VideoPageLink": "/Series/Implementing-Big-Data-Analysis/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/97d9/318794fc-a8db-4caa-bb5c-563b1c7d97d9/ImplementingBigDataAnalysisM04_960.jpg",
+    "ShowName": "Implementing Big Data Analysis",
+    "VideoLength": "00:28:22",
+    "VideoTitle": "Implementing Big Data Analysis: (04) Processing Big Data with Pig",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T15:49:00.2762802Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/97d9/318794fc-a8db-4caa-bb5c-563b1c7d97d9/ImplementingBigDataAnalysisM04_mid.mp4",
+    "Description": "This module describes Pig and how to use Pig Latin to process Big Data. [10:17] - Demo: Using Pig[21:36] - Demo: Using Pig in PowerShellFull course outline: Mod 01: Introduction to Big DataMod 02: Get"
+  },
+  {
+    "VideoId": "3d027119-0079-4310-8cdb-a2ed0165ac1f",
+    "DataApi": "/Entries(guid'3d027119-0079-4310-8cdb-a2ed0165ac1f')/",
+    "VideoPageLink": "/Series/Implementing-Big-Data-Analysis/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0b3a/3043ffad-94a9-4045-a2a0-020d37e80b3a/ImplementingBigDataAnalysisM05_960.jpg",
+    "ShowName": "Implementing Big Data Analysis",
+    "VideoLength": "00:42:41",
+    "VideoTitle": "Implementing Big Data Analysis: (05) Processing Big Data with Hive",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T15:49:16.8625111Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0b3a/3043ffad-94a9-4045-a2a0-020d37e80b3a/ImplementingBigDataAnalysisM05_mid.mp4",
+    "Description": "This module describes Hive and how to use HiveQL to process Big Data. [13:44] - Demo: Using Hive[34:08] - Demo: Using Hive in PowerShellFull course outline: Mod 01: Introduction to Big DataMod 02: Get"
+  },
+  {
+    "VideoId": "48e63441-1955-4a55-a41b-a2ed0165ffbd",
+    "DataApi": "/Entries(guid'48e63441-1955-4a55-a41b-a2ed0165ffbd')/",
+    "VideoPageLink": "/Series/Implementing-Big-Data-Analysis/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5fb2/1093d65b-aea1-4b89-bcfa-c72ecf1d5fb2/ImplementingBigDataAnalysisM06_960.jpg",
+    "ShowName": "Implementing Big Data Analysis",
+    "VideoLength": "00:40:13",
+    "VideoTitle": "Implementing Big Data Analysis: (06) Automating Big Data Processing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T15:51:55.8092956Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5fb2/1093d65b-aea1-4b89-bcfa-c72ecf1d5fb2/ImplementingBigDataAnalysisM06_mid.mp4",
+    "Description": "This module describes tools for automating Big Data processing and introduces design patterns for integrating Big Data into enterprise BI solutions. [07:36] - Demo: Hcatalog[23:56] - Demo: OozieFull c"
+  },
+  {
+    "VideoId": "b4919f26-3492-4794-a201-a2ed01663597",
+    "DataApi": "/Entries(guid'b4919f26-3492-4794-a201-a2ed01663597')/",
+    "VideoPageLink": "/Series/Implementing-Big-Data-Analysis/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8f87/7ba8f7e2-c2b0-4d6f-9e00-f5d636ca8f87/ImplementingBigDataAnalysisM07_960.jpg",
+    "ShowName": "Implementing Big Data Analysis",
+    "VideoLength": "01:04:03",
+    "VideoTitle": "Implementing Big Data Analysis: (07) Analyzing Big Data with Excel",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-14T15:52:19.4718107Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8f87/7ba8f7e2-c2b0-4d6f-9e00-f5d636ca8f87/ImplementingBigDataAnalysisM07_mid.mp4",
+    "Description": "This module describes how to use Power Query and the Hive ODBC provider to consume Big Data processing results from Windows Azure HDInsight. Full course outline: Mod 01: Introduction to Big DataMod 02"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "8c4a9308-5656-4c98-9f0b-a3d8015795a4",
+    "DataApi": "/Entries(guid'8c4a9308-5656-4c98-9f0b-a3d8015795a4')/",
+    "VideoPageLink": "/Blogs/Techtalk-Cloud/Episode-5-Microsoft-Azure-Websites-berblick",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d820/a4af87a8-fd30-43c6-bf5b-27e59845d820/ttc5websites_960.jpg",
+    "ShowName": "Techtalk.Cloud",
+    "VideoLength": "00:26:18",
+    "VideoTitle": "Episode 5 - Microsoft Azure Websites - Ãœberblick",
+    "Author": "Patric Boscolo (MSFT)",
+    "UtcDateTimePublished": "2014-11-17T10:44:34.7441899Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d820/a4af87a8-fd30-43c6-bf5b-27e59845d820/ttc5websites_mid.mp4",
+    "Description": "Microsoft Azure Websites gehören zum PaaS Angebot der Microsoft.https://azure.microsoft.com/de-de/documentation/services/websites/Microsoft Azure Websites dienen dem bereitstellen von Webinhalen. Vom "
+  },
+  {
+    "VideoId": "c41c0df1-27b6-444f-b68c-a3d801228bc6",
+    "DataApi": "/Entries(guid'c41c0df1-27b6-444f-b68c-a3d801228bc6')/",
+    "VideoPageLink": "/Blogs/Techtalk-Cloud/Episode-4-API-Management",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9e54/fce5948b-f32a-44d9-8e33-c250af979e54/ttc5_960.jpg",
+    "ShowName": "Techtalk.Cloud",
+    "VideoLength": "00:23:03",
+    "VideoTitle": "Episode 4 - API Management",
+    "Author": "Patric Boscolo (MSFT)",
+    "UtcDateTimePublished": "2014-11-06T09:57:05.5038813Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9e54/fce5948b-f32a-44d9-8e33-c250af979e54/ttc5_mid.mp4",
+    "Description": "API Management ist ein relativ neuer Service in Microsoft Azure. Dieser ermöglicht die Bereitstellung bestehender APIs, die auf Azure oder auch außerhalb von Azure betrieben werden. API Management nim"
+  },
+  {
+    "VideoId": "8b95ebdc-2ba9-4b6a-bf92-a3d8010465c9",
+    "DataApi": "/Entries(guid'8b95ebdc-2ba9-4b6a-bf92-a3d8010465c9')/",
+    "VideoPageLink": "/Blogs/Techtalk-Cloud/Neuigkeiten-in-Microsoft-Azure-Okt-2014",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1a13/63b73d07-7c33-4ed7-b134-c42dc89e1a13/newoct14_960.jpg",
+    "ShowName": "Techtalk.Cloud",
+    "VideoLength": "00:24:53",
+    "VideoTitle": "Neuigkeiten in Microsoft Azure (Okt 2014)",
+    "Author": "Patric Boscolo (MSFT)",
+    "UtcDateTimePublished": "2014-11-03T18:03:00.2644526Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1a13/63b73d07-7c33-4ed7-b134-c42dc89e1a13/newoct14_mid.mp4",
+    "Description": "Microsoft Azure etwickelt sich in hohem Tempo weiter. Im Oktober 2014 ist auf diversen Veranstaltungen (AzureConf, TechEd, ...) eine Vielzahl an Neuerungen eingeführt worden - teils als Preview, teils"
+  },
+  {
+    "VideoId": "d10f3021-cce7-4a9c-b644-a3ca00d1d9b7",
+    "DataApi": "/Entries(guid'd10f3021-cce7-4a9c-b644-a3ca00d1d9b7')/",
+    "VideoPageLink": "/Blogs/Techtalk-Cloud/Episode-3-Microsot-Azure-Data-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b076/51388be9-eaad-42e9-a3fb-3c854a24b076/Episode3_960.jpg",
+    "ShowName": "Techtalk.Cloud",
+    "VideoLength": "00:21:04",
+    "VideoTitle": "Episode 3 - Microsot Azure Data Services",
+    "Author": "Patric Boscolo (MSFT)",
+    "UtcDateTimePublished": "2014-10-21T16:49:02.5950628Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b076/51388be9-eaad-42e9-a3fb-3c854a24b076/Episode3_mid.mp4",
+    "Description": "Jeder, der eine Anwendung auf Microsoft Azure ausführt, kommt nicht an dem Punkt vorbei, Daten zu speichern. Microsoft Azure bietet hier eine Auswahl an Speichermöglichkeiten, die stark vom Datentyp a"
+  },
+  {
+    "VideoId": "356acbe6-68d6-4bf0-b781-a3ca00ce6393",
+    "DataApi": "/Entries(guid'356acbe6-68d6-4bf0-b781-a3ca00ce6393')/",
+    "VideoPageLink": "/Blogs/Techtalk-Cloud/Episode-2-Eigene-Anwendungen-auf-Microsoft-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4ee2/3f497ade-bd39-4647-a640-2f72d7f64ee2/Episode2_960.jpg",
+    "ShowName": "Techtalk.Cloud",
+    "VideoLength": "00:23:24",
+    "VideoTitle": "Episode 2 - Eigene Anwendungen auf Microsoft Azure",
+    "Author": "Patric Boscolo (MSFT)",
+    "UtcDateTimePublished": "2014-10-20T13:33:47.222544Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4ee2/3f497ade-bd39-4647-a640-2f72d7f64ee2/Episode2_mid.mp4",
+    "Description": "TechTalk.Cloud, Episode 2: Eigene Anwendungen auf Microsoft Azure   Jeder, der eine eigene Anwendung auf Microsoft Azure ausführen möchte, kommt recht schnell an den Punkt, an dem er sich für eine von"
+  },
+  {
+    "VideoId": "aa985dae-0dd0-45db-a770-a3ca00c47283",
+    "DataApi": "/Entries(guid'aa985dae-0dd0-45db-a770-a3ca00c47283')/",
+    "VideoPageLink": "/Blogs/Techtalk-Cloud/Episode-1-Willkommen",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/58ca/b6b6ae8f-d830-4ad1-9c3c-923c6fd258ca/Episode1_960.jpg",
+    "ShowName": "Techtalk.Cloud",
+    "VideoLength": "00:12:09",
+    "VideoTitle": "Episode 1 - Willkommen",
+    "Author": "Patric Boscolo (MSFT)",
+    "UtcDateTimePublished": "2014-10-20T12:42:48.0980797Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/58ca/b6b6ae8f-d830-4ad1-9c3c-923c6fd258ca/Episode1_mid.mp4",
+    "Description": "TechTalk.Cloud, Episode 1: Willkommen  In dieser ersten Episode unserer neuen TechTalk.Cloud Video-Serie stellen sich die drei Köpfe vor, die hinter der Sendung stehen: Olivia Klose, Patric Boscolo un"
+  }
+]

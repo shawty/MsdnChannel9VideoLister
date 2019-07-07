@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "0ed2ce6a-c773-4f9a-a40f-a69501858265",
+    "DataApi": "/Entries(guid'0ed2ce6a-c773-4f9a-a40f-a69501858265')/",
+    "VideoPageLink": "/Shows/Getting-Started-with-Bash-on-Windows-10-Anniversary-Update/learnlxss",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/81d4/3d1629f3-50f4-46b3-afb6-76e37b6d81d4/BashW101607_960.jpg",
+    "ShowName": "Getting Started with Bash on Windows 10 Anniversary Update",
+    "VideoLength": "00:49:47",
+    "VideoTitle": "Getting Started with Bash on Windows 10 Anniversary Update",
+    "Author": "Jessica Deen",
+    "UtcDateTimePublished": "2016-10-05T18:37:56.4617303Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/81d4/3d1629f3-50f4-46b3-afb6-76e37b6d81d4/BashW101607_mid.mp4",
+    "Description": "In this session we will cover some new features in Windows 10 and, more specifically, the addition of Bash on Ubuntu to the Windows offering. We will cover what it is and how it works on Windows, and "
+  }
+]

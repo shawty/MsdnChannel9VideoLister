@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "7d259f13-00d7-4b4b-b2f0-a33301678bdf",
+    "DataApi": "/Entries(guid'7d259f13-00d7-4b4b-b2f0-a33301678bdf')/",
+    "VideoPageLink": "/Series/Office-365-Fundamentals/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/89e4/7b953265-92fc-46c4-ba34-1ff0b63289e4/Office365FundamentalsM02_960.jpg",
+    "ShowName": "Office 365 Fundamentals",
+    "VideoLength": "01:03:23",
+    "VideoTitle": "Office 365 Fundamentals: (02) Office 365 for IT Pros",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T16:41:28.7357573Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/89e4/7b953265-92fc-46c4-ba34-1ff0b63289e4/Office365FundamentalsM02_mid.mp4",
+    "Description": "This session introduces IT professionals to the core foundations of Office 365 that enable the economy of scale and completeness of capability. Get an inside look at how the Office 365 team advances t"
+  },
+  {
+    "VideoId": "8c97b6d5-017f-4aba-b15c-a3330167c818",
+    "DataApi": "/Entries(guid'8c97b6d5-017f-4aba-b15c-a3330167c818')/",
+    "VideoPageLink": "/Series/Office-365-Fundamentals/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/36c4/9fd3ee14-bdf4-443f-acf5-67749d8336c4/Office365FundamentalsM03_960.jpg",
+    "ShowName": "Office 365 Fundamentals",
+    "VideoLength": "00:52:48",
+    "VideoTitle": "Office 365 Fundamentals: (03) Getting started with Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T16:41:51.3659836Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/36c4/9fd3ee14-bdf4-443f-acf5-67749d8336c4/Office365FundamentalsM03_mid.mp4",
+    "Description": "This session details Microsoft's recommended deployment methodology for Office 365. Deploying a cloud service is unlike a traditional client-server deployment project and requires new skills and metho"
+  },
+  {
+    "VideoId": "1b7ee34f-5558-47d5-a516-a3330168aee9",
+    "DataApi": "/Entries(guid'1b7ee34f-5558-47d5-a516-a3330168aee9')/",
+    "VideoPageLink": "/Series/Office-365-Fundamentals/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6da0/e32384d7-3de3-4b73-8d19-a6b9a7476da0/Office365FundamentalsM04_960.jpg",
+    "ShowName": "Office 365 Fundamentals",
+    "VideoLength": "00:51:21",
+    "VideoTitle": "Office 365 Fundamentals: (04) Deploying Office 365",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T16:42:26.4149513Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6da0/e32384d7-3de3-4b73-8d19-a6b9a7476da0/Office365FundamentalsM04_mid.mp4",
+    "Description": "This session details the options and considerations when expanding a pilot Office 365 environment into a production deployment. Unlike on-premises implementations, IT professionals can scale out their"
+  },
+  {
+    "VideoId": "17b62b74-a94a-4957-abfc-a3330168fff7",
+    "DataApi": "/Entries(guid'17b62b74-a94a-4957-abfc-a3330168fff7')/",
+    "VideoPageLink": "/Series/Office-365-Fundamentals/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/37ee/fd29b666-19cf-4c16-a7e3-faebef0037ee/Office365FundamentalsM05_960.jpg",
+    "ShowName": "Office 365 Fundamentals",
+    "VideoLength": "00:56:56",
+    "VideoTitle": "Office 365 Fundamentals: (05) Office 365 Service Communications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T16:42:41.6979179Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/37ee/fd29b666-19cf-4c16-a7e3-faebef0037ee/Office365FundamentalsM05_mid.mp4",
+    "Description": "This session focuses on the Office 365 Service Communications rhythm.  As an always up to date service, maintaining communication channels between IT professionals and the Office 365 team is critical."
+  },
+  {
+    "VideoId": "e1b6a0bd-be1b-4d91-8f1a-a3330169486d",
+    "DataApi": "/Entries(guid'e1b6a0bd-be1b-4d91-8f1a-a3330169486d')/",
+    "VideoPageLink": "/Series/Office-365-Fundamentals/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a6ba/9a26d6c6-2809-4e08-b648-032fa359a6ba/Office365FundamentalsM06_960.jpg",
+    "ShowName": "Office 365 Fundamentals",
+    "VideoLength": "00:52:03",
+    "VideoTitle": "Office 365 Fundamentals: (06) Office 365 Change Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-23T16:42:55.5618381Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a6ba/9a26d6c6-2809-4e08-b648-032fa359a6ba/Office365FundamentalsM06_mid.mp4",
+    "Description": "Office 365 is continuously evolving service. This session shows how Microsoft roles out improvements to Office 365 and how to manage changes to Office 365 services and applications in your environment"
+  }
+]

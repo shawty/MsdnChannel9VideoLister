@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "46b9f451-8f01-406f-9938-a35a00733710",
+    "DataApi": "/Entries(guid'46b9f451-8f01-406f-9938-a35a00733710')/",
+    "VideoPageLink": "/Series/Migrating-Virtual-Machines-from-Amazon-AWS-to-Microsoft-Azure/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/218b/f91e314e-ebe7-4b1f-91ea-a289be68218b/MigratetoAzurePart2_960.jpg",
+    "ShowName": "Migrating Virtual Machines from Amazon AWS to Microsoft Azure",
+    "VideoLength": "00:07:04",
+    "VideoTitle": "(Module 2) Preparing for Migration from Amazon AWS to Microsoft Azure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:11:33Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/218b/f91e314e-ebe7-4b1f-91ea-a289be68218b/MigratetoAzurePart2_mid.mp4",
+    "Description": "In this module we'll be walking you through the process of how to prepare your VMs for migration from Amazon AWS to Microsoft Azure. This video is part of the Microsoft Virtual Academy (MVA). The MVA "
+  },
+  {
+    "VideoId": "c03fd611-b5aa-44a5-9707-a35a0074c7f1",
+    "DataApi": "/Entries(guid'c03fd611-b5aa-44a5-9707-a35a0074c7f1')/",
+    "VideoPageLink": "/Series/Migrating-Virtual-Machines-from-Amazon-AWS-to-Microsoft-Azure/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/48b0/6bc530c4-634f-43b4-8471-d10d70bf48b0/MigratetoAzurePart3_960.jpg",
+    "ShowName": "Migrating Virtual Machines from Amazon AWS to Microsoft Azure",
+    "VideoLength": "00:15:45",
+    "VideoTitle": "(Module 3) Exporting and Converting VMs from Amazon AWS",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:12:17Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/48b0/6bc530c4-634f-43b4-8471-d10d70bf48b0/MigratetoAzurePart3_mid.mp4",
+    "Description": "In this module we'll be looking at the first half of the migration process - how to export and convert VMs from Amazon AWS. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free"
+  },
+  {
+    "VideoId": "55b09fb1-a3f4-42a3-aa7b-a35a0076b0dc",
+    "DataApi": "/Entries(guid'55b09fb1-a3f4-42a3-aa7b-a35a0076b0dc')/",
+    "VideoPageLink": "/Series/Migrating-Virtual-Machines-from-Amazon-AWS-to-Microsoft-Azure/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/270d/e3ff94bf-b6bd-44c2-beea-25e9cf7c270d/MigratetoAzurePart4_960.jpg",
+    "ShowName": "Migrating Virtual Machines from Amazon AWS to Microsoft Azure",
+    "VideoLength": "00:12:23",
+    "VideoTitle": "(Module 4) Uploading and Importing VMs to Microsoft Azure",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:13:17Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/270d/e3ff94bf-b6bd-44c2-beea-25e9cf7c270d/MigratetoAzurePart4_mid.mp4",
+    "Description": "In this module we'll show you how to upload and import your VMs from Azure AWS to Microsoft Azure.   This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering str"
+  }
+]

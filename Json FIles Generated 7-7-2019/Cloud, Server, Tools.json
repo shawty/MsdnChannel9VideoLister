@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "602307d4-209b-491d-a695-a7300152e7b8",
+    "DataApi": "/Entries(guid'602307d4-209b-491d-a695-a7300152e7b8')/",
+    "VideoPageLink": "/Shows/Cloud-Server-Tools/All-About-Visual-Studio-2017",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4121/cd794434-a080-4079-a75b-ab3c6c094121/CSTAllAboutVS2017_960.jpg",
+    "ShowName": "Cloud, Server, Tools",
+    "VideoLength": "00:28:24",
+    "VideoTitle": "All About Visual Studio 2017",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2017-03-08T21:33:09.3843639Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4121/cd794434-a080-4079-a75b-ab3c6c094121/CSTAllAboutVS2017_mid.mp4",
+    "Description": "Cloud, Server, Tools is a live radio show by 3 guys who build and evangelize Microsoft products. Join Scott Klein and his co-hosts Scott Hunter and Brady Gaster as they talk about awesome Microsoft te"
+  },
+  {
+    "VideoId": "aba1ed8a-0e7e-4a9f-ba04-a673012a1f5c",
+    "DataApi": "/Entries(guid'aba1ed8a-0e7e-4a9f-ba04-a673012a1f5c')/",
+    "VideoPageLink": "/Shows/Cloud-Server-Tools/All-about-Azure-Data-Lake",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/55e5/2e689fb8-3950-410e-9ac6-a1e35ab655e5/AllAboutAzureDataLake_960.jpg",
+    "ShowName": "Cloud, Server, Tools",
+    "VideoLength": "00:31:01",
+    "VideoTitle": "All about Azure Data Lake",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2016-08-31T19:06:09.0023488Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/55e5/2e689fb8-3950-410e-9ac6-a1e35ab655e5/AllAboutAzureDataLake.mp4",
+    "Description": "Today's guest is Saveen Reddy who is in to talk about Azure Data Lake. Scott and Brady discuss updates in Visual Studio and .NET core as well as updates to documentation.  Oh, by the way, this is the "
+  },
+  {
+    "VideoId": "537df7b3-d9a3-4098-92b7-a55a00300c49",
+    "DataApi": "/Entries(guid'537df7b3-d9a3-4098-92b7-a55a00300c49')/",
+    "VideoPageLink": "/Shows/Cloud-Server-Tools/All-About-a-Fire-Alarm",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/143b/63fa1325-37b0-4fff-80d2-bb5660e8143b/CSTAllaboutaFireAlarm_960.jpg",
+    "ShowName": "Cloud, Server, Tools",
+    "VideoLength": "00:19:13",
+    "VideoTitle": "All About a Fire Alarm",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2015-11-24T16:30:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/143b/63fa1325-37b0-4fff-80d2-bb5660e8143b/CSTAllaboutaFireAlarm_mid.mp4",
+    "Description": "Cloud, Server, Tools is a radio show by 4 guys who build and evangelize Microsoft products. Join Scott Klein and his co-hosts Scott Hunter, Corey Sanders, and Brady Gaster as they talk about awesome M"
+  },
+  {
+    "VideoId": "e0b3bd1f-1140-4322-8ab1-a51c011600b2",
+    "DataApi": "/Entries(guid'e0b3bd1f-1140-4322-8ab1-a51c011600b2')/",
+    "VideoPageLink": "/Shows/Cloud-Server-Tools/All-About-Visual-Studio-2015",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f886/647c861b-c00d-4ac0-a354-e2ce3bd0f886/CST03_960.jpg",
+    "ShowName": "Cloud, Server, Tools",
+    "VideoLength": "00:29:43",
+    "VideoTitle": "All About Visual Studio 2015",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2015-09-28T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f886/647c861b-c00d-4ac0-a354-e2ce3bd0f886/CST03_mid.mp4",
+    "Description": "Cloud, Server, Tools is a radio show by 4 guys who build and evangelize Microsoft products. Join Scott Klein and his co-hosts Scott Hunter, Corey Sanders, and Brady Gaster as they talk about awesome M"
+  },
+  {
+    "VideoId": "787a2bc4-3a55-41c9-b926-a4f90134167f",
+    "DataApi": "/Entries(guid'787a2bc4-3a55-41c9-b926-a4f90134167f')/",
+    "VideoPageLink": "/Shows/Cloud-Server-Tools/All-About-Open-Source",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44fe/2afe14f6-f208-43fc-8c80-f0015cb744fe/CSTAllAboutOpenSource_960.jpg",
+    "ShowName": "Cloud, Server, Tools",
+    "VideoLength": "00:28:42",
+    "VideoTitle": "All About Open Source",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2015-09-11T18:15:05.9918842Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44fe/2afe14f6-f208-43fc-8c80-f0015cb744fe/CSTAllAboutOpenSource_mid.mp4",
+    "Description": "Cloud, Server, Tools is a radio show by 4 guys who build and evangelize Microsoft products. Join Scott Klein and his co-hosts Scott Hunter, Corey Sanders, and Brady Gaster as they talk about awesome M"
+  },
+  {
+    "VideoId": "e6637778-d3dc-42f7-90af-a4ea002ed41d",
+    "DataApi": "/Entries(guid'e6637778-d3dc-42f7-90af-a4ea002ed41d')/",
+    "VideoPageLink": "/Shows/Cloud-Server-Tools/Visual-Studio-2015-Windows-10-and-Open-Source",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6751/81f8dddc-92e5-4ec4-a722-8335f2336751/CST01_960.jpg",
+    "ShowName": "Cloud, Server, Tools",
+    "VideoLength": "00:29:41",
+    "VideoTitle": "Visual Studio 2015, Windows 10, and Open Source",
+    "Author": "Scott Klein",
+    "UtcDateTimePublished": "2015-08-05T17:15:41.7216367Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6751/81f8dddc-92e5-4ec4-a722-8335f2336751/CST01_mid.mp4",
+    "Description": "Cloud, Server, Tools is a radio show by 4 guys who build and evangelize Microsoft products. Join Scott Klein and his co-hosts Scott Hunter, Corey Sanders, and Brady Gaster as they talk about awesome M"
+  }
+]

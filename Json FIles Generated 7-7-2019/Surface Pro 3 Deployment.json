@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "cc2c8c8b-6649-409c-adfa-a3ed0026f0d7",
+    "DataApi": "/Entries(guid'cc2c8c8b-6649-409c-adfa-a3ed0026f0d7')/",
+    "VideoPageLink": "/Series/Surface-Pro-3-Deployment/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5cfe/1877c3c4-87d4-4576-be34-bf78cea55cfe/Mod2_960.jpg",
+    "ShowName": "Surface Pro 3 Deployment",
+    "VideoLength": "00:51:42",
+    "VideoTitle": "(Module 2) Deploying Surface Pro 3 with Configuration Manager",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-11-22T15:02:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5cfe/1877c3c4-87d4-4576-be34-bf78cea55cfe/Mod2_mid.mp4",
+    "Description": "In Deployment Basics we cover why Virtualization is key when doing OSD, we look at different Deployment Methods and also how to Capture your reference image. We explain the differences between UEFI ve"
+  },
+  {
+    "VideoId": "dc926eef-f7bb-49b6-9c7b-a3ed0027318a",
+    "DataApi": "/Entries(guid'dc926eef-f7bb-49b6-9c7b-a3ed0027318a')/",
+    "VideoPageLink": "/Series/Surface-Pro-3-Deployment/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/da9f/85e841dc-7bfa-4232-b0d9-b218f2ebda9f/Mod3_960.jpg",
+    "ShowName": "Surface Pro 3 Deployment",
+    "VideoLength": "00:40:37",
+    "VideoTitle": "(Module 3) Deploying Surface Pro 3 with MDT",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-11-22T15:03:12Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/da9f/85e841dc-7bfa-4232-b0d9-b218f2ebda9f/Mod3_mid.mp4",
+    "Description": "â€‹In this module you'll learn Why to use MDT and what are MDT's Requirements. You learn about automating MDT via PowerShell and how to customise it using settings within two files (Customsettings.ini a"
+  },
+  {
+    "VideoId": "e7e1fd06-eaf0-4837-a830-a3ed00277cb5",
+    "DataApi": "/Entries(guid'e7e1fd06-eaf0-4837-a830-a3ed00277cb5')/",
+    "VideoPageLink": "/Series/Surface-Pro-3-Deployment/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/941c/34b0fab3-5c04-40dc-9589-296a6016941c/Mod4_960.jpg",
+    "ShowName": "Surface Pro 3 Deployment",
+    "VideoLength": "00:27:36",
+    "VideoTitle": "(Module 4) Surface Pro 3 hardware specifics â€“ Drivers, weird PXE type stuff",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-11-22T15:04:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/941c/34b0fab3-5c04-40dc-9589-296a6016941c/Mod4_mid.mp4",
+    "Description": "In this module you'll learn about the correct way ofr entering the BIOS, you'll find out why the Date time in the BIOS is important and you'll learn about importing the UUID/MAC address into SCCM. You"
+  },
+  {
+    "VideoId": "c29079cd-3e16-43fd-8c68-a3ed0027d43a",
+    "DataApi": "/Entries(guid'c29079cd-3e16-43fd-8c68-a3ed0027d43a')/",
+    "VideoPageLink": "/Series/Surface-Pro-3-Deployment/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a251/5f37eacb-0abb-471b-af33-2770a271a251/Mod5_960.jpg",
+    "ShowName": "Surface Pro 3 Deployment",
+    "VideoLength": "00:23:38",
+    "VideoTitle": "(Module 5) Deploying Surface Pro 3 drivers with - SCCM / MDT",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-11-22T15:05:37Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a251/5f37eacb-0abb-471b-af33-2770a271a251/Mod5_mid.mp4",
+    "Description": "â€‹â€‹In this module you will learn how to import drivers in MDT and SCCM using custom powershell scripts which import drivers, create driver packages and categories. This video is part of the Microsoft V"
+  }
+]

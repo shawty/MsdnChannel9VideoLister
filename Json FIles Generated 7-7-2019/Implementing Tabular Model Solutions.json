@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "75513a14-d67d-407e-930c-a3e3017b27bf",
+    "DataApi": "/Entries(guid'75513a14-d67d-407e-930c-a3e3017b27bf')/",
+    "VideoPageLink": "/Series/Implementing-Tabular-Model-Solutions/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cd82/6e0992e1-1b29-4946-bec7-6a87fd07cd82/336ImplementingTablularModelSolutionsM02_960.jpg",
+    "ShowName": "Implementing Tabular Model Solutions",
+    "VideoLength": "00:52:34",
+    "VideoTitle": "Implementing Tabular Model Solutions: (02) Designing the Data Model in Tabular",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:09:17.2243042Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cd82/6e0992e1-1b29-4946-bec7-6a87fd07cd82/336ImplementingTablularModelSolutionsM02_mid.mp4",
+    "Description": "Take a deep dive into developing a tabular model in SQL Server Data Tools (SSDT), including Workspaces and Tabular Instance, along with a look at basic configuration to allow better user experience. ["
+  },
+  {
+    "VideoId": "96fc5dc5-2de5-460e-a247-a3e3017b5402",
+    "DataApi": "/Entries(guid'96fc5dc5-2de5-460e-a247-a3e3017b5402')/",
+    "VideoPageLink": "/Series/Implementing-Tabular-Model-Solutions/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1296/f59af648-b212-405a-93aa-2ca7728e1296/336ImplementingTablularModelSolutionsM03_960.jpg",
+    "ShowName": "Implementing Tabular Model Solutions",
+    "VideoLength": "00:54:37",
+    "VideoTitle": "Implementing Tabular Model Solutions: (03) Enriching the Data Model with Calculated Measures and Data Analysis in DAX",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:09:34.8190088Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1296/f59af648-b212-405a-93aa-2ca7728e1296/336ImplementingTablularModelSolutionsM03_mid.mp4",
+    "Description": "Explore techniques to enrich the data model in SSDT to meet analytical requirements and to enhance user experience. Hear about analytical calculations and data analysis configurations. [01:53] - Devel"
+  },
+  {
+    "VideoId": "cd5f8b85-8fb4-405f-b2c6-a3e3017b84b8",
+    "DataApi": "/Entries(guid'cd5f8b85-8fb4-405f-b2c6-a3e3017b84b8')/",
+    "VideoPageLink": "/Series/Implementing-Tabular-Model-Solutions/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/982e/3e6f95c9-c0ea-4507-b908-ce08acb6982e/336ImplementingTablularModelSolutionsM04_960.jpg",
+    "ShowName": "Implementing Tabular Model Solutions",
+    "VideoLength": "00:37:19",
+    "VideoTitle": "Implementing Tabular Model Solutions: (04) Overview of Querying Data Model with DAX",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:10:04.6636205Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/982e/3e6f95c9-c0ea-4507-b908-ce08acb6982e/336ImplementingTablularModelSolutionsM04_mid.mp4",
+    "Description": "Learn about how, after a data model is built, users can build custom DAX queries, which can be essential for custom reporting in SSRS and custom actions via Excel.â€‹ [01:50] - Introduction to DAX Synta"
+  },
+  {
+    "VideoId": "5a40c2f1-439a-4049-8e51-a3e3017bb14b",
+    "DataApi": "/Entries(guid'5a40c2f1-439a-4049-8e51-a3e3017bb14b')/",
+    "VideoPageLink": "/Series/Implementing-Tabular-Model-Solutions/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b048/9c82a18d-5657-40f8-a81f-061c049eb048/336ImplementingTablularModelSolutionsM05_960.jpg",
+    "ShowName": "Implementing Tabular Model Solutions",
+    "VideoLength": "00:47:49",
+    "VideoTitle": "Implementing Tabular Model Solutions: (05) Administering and Securing Tabular Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:10:35.4682238Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b048/9c82a18d-5657-40f8-a81f-061c049eb048/336ImplementingTablularModelSolutionsM05_mid.mp4",
+    "Description": "Tabular model solutions needs to be production-ready before users can access them. Learn how to administer and secure tabular models, from development and database administration perspectives.â€‹ [00:59"
+  },
+  {
+    "VideoId": "e0aeadcb-b005-4168-b852-a3e3017bdde3",
+    "DataApi": "/Entries(guid'e0aeadcb-b005-4168-b852-a3e3017bdde3')/",
+    "VideoPageLink": "/Series/Implementing-Tabular-Model-Solutions/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4ae2/898e7727-88f7-4666-8f2a-afe27b574ae2/336ImplementingTablularModelSolutionsM06_960.jpg",
+    "ShowName": "Implementing Tabular Model Solutions",
+    "VideoLength": "00:51:45",
+    "VideoTitle": "Implementing Tabular Model Solutions: (06) Near Real-Time Strategy in Tabular Model",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:10:58.0768531Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4ae2/898e7727-88f7-4666-8f2a-afe27b574ae2/336ImplementingTablularModelSolutionsM06_mid.mp4",
+    "Description": "Meeting near real-time requirements can be an essential part of tabular model solutions. Hear more about techniques for implementing near real-time solutions using tabular modeling. [01:28] - Understa"
+  },
+  {
+    "VideoId": "c8c2858f-9615-45c8-a99b-a3e3017f0f8b",
+    "DataApi": "/Entries(guid'c8c2858f-9615-45c8-a99b-a3e3017f0f8b')/",
+    "VideoPageLink": "/Series/Implementing-Tabular-Model-Solutions/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2db8/b513562c-1dd6-4701-89b7-0c98d7b52db8/336ImplementingTablularModelSolutionsM07_960.jpg",
+    "ShowName": "Implementing Tabular Model Solutions",
+    "VideoLength": "00:38:22",
+    "VideoTitle": "Implementing Tabular Model Solutions: (07) Gotchas, Tips, and Tricks in Tabular Model Development",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-15T18:11:19.825352Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2db8/b513562c-1dd6-4701-89b7-0c98d7b52db8/336ImplementingTablularModelSolutionsM07_mid.mp4",
+    "Description": "Understanding limitations, additional tools, and tips around data visualization is essential to the success of tabular model solutions. Uncover the gotchas, tips, and tricks for successful tabular mod"
+  }
+]

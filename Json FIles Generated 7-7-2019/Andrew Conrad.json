@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "491a4abe-fa67-4b52-b436-9deb001eb883",
+    "DataApi": "/Entries(guid'491a4abe-fa67-4b52-b436-9deb001eb883')/",
+    "VideoPageLink": "/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Introducing-count-as-an-URI-query-option",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/4/9/6/4/3/4/AstoriaDesignCount1_large_ch9.jpg",
+    "ShowName": "Andrew Conrad",
+    "VideoLength": "00:02:33",
+    "VideoTitle": "Astoria Design Walkthrough: Introducing $count as an URI query option",
+    "Author": "Andrew Conrad",
+    "UtcDateTimePublished": "2008-10-24T20:52:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/4/9/6/4/3/4/AstoriaDesignCount1_ch9.mp4",
+    "Description": "Mike Flasko, ADO.NET Data Services PM, discusses some design work we have been doing around providing support for our #1 customer ask, the ability to ask for the count via the ADO.NET Data Services UR"
+  },
+  {
+    "VideoId": "30720a4a-a812-40da-b111-9deb001eb545",
+    "DataApi": "/Entries(guid'30720a4a-a812-40da-b111-9deb001eb545')/",
+    "VideoPageLink": "/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-No-design-just-plugging-our-PDC-talks",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/5/1/2/5/3/4/PDCTalkPlug_large_ch9.jpg",
+    "ShowName": "Andrew Conrad",
+    "VideoLength": "00:02:21",
+    "VideoTitle": "Astoria Design Walkthrough:  No design... just plugging our PDC talks!",
+    "Author": "Andrew Conrad",
+    "UtcDateTimePublished": "2008-10-24T18:51:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/5/1/2/5/3/4/PDCTalkPlug_ch9.mp4",
+    "Description": "\nIn our latest installment of the Astoria Design Walkthroughs there is no design, just plugs for the ADO.NET Data Services PDC talks. \n  \nBoth Mike and Pablo are excellent speakers, so if you are a"
+  },
+  {
+    "VideoId": "2c18478f-8cd1-4d47-b771-9deb001ebbeb",
+    "DataApi": "/Entries(guid'2c18478f-8cd1-4d47-b771-9deb001ebbeb')/",
+    "VideoPageLink": "/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Thinking-of-a-future-with-sync--offline2",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/4/5/5/4/3/4/AstoriaDesignSyncOffline2_large_ch9.jpg",
+    "ShowName": "Andrew Conrad",
+    "VideoLength": "00:11:27",
+    "VideoTitle": "Astoria Design Walkthrough: Thinking of a future with sync & offline",
+    "Author": "Andrew Conrad",
+    "UtcDateTimePublished": "2008-10-22T15:02:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/4/5/5/4/3/4/AstoriaDesignSyncOffline2_ch9.mp4",
+    "Description": "\nIn the latest of the Astoria Design walkthroughs, Pablo Castro, ADO.NET Data Service architect, discusses the vision of introducing sync &amp; offline capabilities into ADO.NET Data Services.  For t"
+  },
+  {
+    "VideoId": "e050cf57-c9d2-4963-8112-9deb001ebf64",
+    "DataApi": "/Entries(guid'e050cf57-c9d2-4963-8112-9deb001ebf64')/",
+    "VideoPageLink": "/Blogs/Andrew+Conrad/Astoria-Design-Walkthrough-Friendly-Feeds-Part-1",
+    "VideoPageThumb": "https://sec.ch9.ms/llnwd/ch9/1/8/8/9/2/4/DesignFriendlyFeeds1_large_ch9.jpg",
+    "ShowName": "Andrew Conrad",
+    "VideoLength": "00:04:58",
+    "VideoTitle": "Astoria Design Walkthrough:  Friendly Feeds Part 1",
+    "Author": "Andrew Conrad",
+    "UtcDateTimePublished": "2008-09-26T21:15:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/llnwd/ch9/1/8/8/9/2/4/DesignFriendlyFeeds1_ch9.mp4",
+    "Description": "\nFor V1 of ADO.NET Data Services (aka Project Astoria) we introduced a process we called\n\nTransparent Design.   The point of this was to make sure we got the design of our features out to users ear"
+  }
+]

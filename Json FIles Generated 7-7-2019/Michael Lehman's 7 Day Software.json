@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "55336ba3-f5a7-4b46-9210-9e1001072fa4",
+    "DataApi": "/Entries(guid'55336ba3-f5a7-4b46-9210-9e1001072fa4')/",
+    "VideoPageLink": "/Blogs/mglehman/7-Day-Software-WeatherBug",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "992b3b98-6bb5-44ac-9207-9e1001072683",
+    "DataApi": "/Entries(guid'992b3b98-6bb5-44ac-9207-9e1001072683')/",
+    "VideoPageLink": "/Blogs/mglehman/Welcome-To-Application-Of-The-Week",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

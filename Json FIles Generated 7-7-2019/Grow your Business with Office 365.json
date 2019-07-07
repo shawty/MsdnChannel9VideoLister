@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "a0ce3e10-f9ea-4a9b-9e33-a31500a973ca",
+    "DataApi": "/Entries(guid'a0ce3e10-f9ea-4a9b-9e33-a31500a973ca')/",
+    "VideoPageLink": "/Series/MVA-4-Afrika/The-Business-of-Creating-Business-with-Office-365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/145d/b29287c2-b977-47f4-9a63-6c96cb9e145d/TheBusinessofCreatingBusinesswithOffice365_960.jpg",
+    "ShowName": "Grow your Business with Office 365",
+    "VideoLength": "00:23:55",
+    "VideoTitle": "The Business of Creating Business with Office 365",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-29T09:05:44.2703544Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/145d/b29287c2-b977-47f4-9a63-6c96cb9e145d/TheBusinessofCreatingBusinesswithOffice365_mid.mp4",
+    "Description": "â€¢ Partner programsâ€¢ Licensing &amp; SKUsâ€¢ CIEâ€¢ SA benefits "
+  },
+  {
+    "VideoId": "929b3095-94fc-44b3-a40f-a315009fdf6b",
+    "DataApi": "/Entries(guid'929b3095-94fc-44b3-a40f-a315009fdf6b')/",
+    "VideoPageLink": "/Series/MVA-4-Afrika/Exchange-2013-Join-the-Modern-Office",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fff7/25ffec97-d5d4-4c6b-a73d-46e1d172fff7/Exchange2013JoinTheModernOffice_960.jpg",
+    "ShowName": "Grow your Business with Office 365",
+    "VideoLength": "00:36:09",
+    "VideoTitle": "Exchange 2013: Join the Modern Office",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-29T09:07:09.704289Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fff7/25ffec97-d5d4-4c6b-a73d-46e1d172fff7/Exchange2013JoinTheModernOffice_mid.mp4",
+    "Description": "Exchange 2013 Value Proposition "
+  },
+  {
+    "VideoId": "3bdf85e0-190c-4006-931f-a31500a324eb",
+    "DataApi": "/Entries(guid'3bdf85e0-190c-4006-931f-a31500a324eb')/",
+    "VideoPageLink": "/Series/MVA-4-Afrika/Lync-2013-Unified-Communication-that-reduces-Costs-and-enhances-Productivity",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b859/88d41fab-b383-451f-8ad3-a3d39b87b859/Lymc2013UnifiedComThatReducesCosts_960.jpg",
+    "ShowName": "Grow your Business with Office 365",
+    "VideoLength": "00:30:47",
+    "VideoTitle": "Lync 2013: Unified Communication that reduces Costs and enhances Productivity",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-29T09:07:20.4191353Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b859/88d41fab-b383-451f-8ad3-a3d39b87b859/Lymc2013UnifiedComThatReducesCosts_mid.mp4",
+    "Description": "Lync 2013 Value Proposition "
+  },
+  {
+    "VideoId": "a396d1aa-f576-478e-8bd1-a31500a6b7e0",
+    "DataApi": "/Entries(guid'a396d1aa-f576-478e-8bd1-a31500a6b7e0')/",
+    "VideoPageLink": "/Series/MVA-4-Afrika/Yammer-Enabling-Employees-to-connect-is-good-for-Business",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/652a/81fe892c-a812-49e6-9a33-6971c9d0652a/YammerEnablingEmployeestoconnectisgoodforBusiness_960.jpg",
+    "ShowName": "Grow your Business with Office 365",
+    "VideoLength": "00:39:55",
+    "VideoTitle": "Yammer: Enabling Employees to connect is good for Business",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-29T18:36:37.9666129Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/652a/81fe892c-a812-49e6-9a33-6971c9d0652a/YammerEnablingEmployeestoconnectisgoodforBusiness_mid.mp4",
+    "Description": "Yammer Value Propostition "
+  },
+  {
+    "VideoId": "447f388a-c15d-4224-bbd4-a31500a4810d",
+    "DataApi": "/Entries(guid'447f388a-c15d-4224-bbd4-a31500a4810d')/",
+    "VideoPageLink": "/Series/MVA-4-Afrika/SharePoint-OneDrive-Collaborate-across-the-Globe",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4f21/24ee76af-3835-4d51-8d5d-ecd63a374f21/SharePointOneDriveCollaborateacrosstheGlobe_960.jpg",
+    "ShowName": "Grow your Business with Office 365",
+    "VideoLength": "00:38:23",
+    "VideoTitle": "SharePoint & OneDrive: Collaborate across the Globe",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-04-29T18:39:54.5965807Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4f21/24ee76af-3835-4d51-8d5d-ecd63a374f21/SharePointOneDriveCollaborateacrosstheGlobe_mid.mp4",
+    "Description": "SharePoint &amp; OneDrive Value Proposition "
+  },
+  {
+    "VideoId": "7cd251f2-3f5e-4dc9-ae8b-a31400bc238e",
+    "DataApi": "/Entries(guid'7cd251f2-3f5e-4dc9-ae8b-a31400bc238e')/",
+    "VideoPageLink": "/Series/MVA-4-Afrika/Grow-your-Business-with-Office-365",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/981d/1bb86700-f845-4894-9064-f1ae43cb981d/TheCloudchangeseverythingMeettheNewOffice_960.jpg",
+    "ShowName": "Grow your Business with Office 365",
+    "VideoLength": "00:39:27",
+    "VideoTitle": "The Cloud changes everything. Meet the New Office.",
+    "Author": "Ahmed AYADI",
+    "UtcDateTimePublished": "2014-05-06T08:23:57.3841234Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/981d/1bb86700-f845-4894-9064-f1ae43cb981d/TheCloudchangeseverythingMeettheNewOffice_mid.mp4",
+    "Description": "Intro module to the cloud and The New Office &quot;Cloud Transformation "
+  }
+]

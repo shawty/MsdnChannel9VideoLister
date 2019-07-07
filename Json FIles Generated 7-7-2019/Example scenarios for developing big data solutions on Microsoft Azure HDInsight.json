@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "92b1cc9f-0792-4bb7-a09d-a35a0151ae6d",
+    "DataApi": "/Entries(guid'92b1cc9f-0792-4bb7-a09d-a35a0151ae6d')/",
+    "VideoPageLink": "/series/Example-scenarios-for-developing-big-data-solutions-on-Microsoft-Azure-HDInsight/VideoBigDataScenario2-Data-Warehouse-On-Demand",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6ba8/826e090f-b3a8-497f-b6ba-b7c9f9d26ba8/VideoBigDataScenario2DataWarehouseOnDemand_960.jpg",
+    "ShowName": "Example scenarios for developing big data solutions on Microsoft Azure HDInsight",
+    "VideoLength": "00:33:30",
+    "VideoTitle": "VideoBigDataScenario2: Data Warehouse On Demand",
+    "Author": "ndelgado",
+    "UtcDateTimePublished": "2014-07-01T18:05:00.7501959Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6ba8/826e090f-b3a8-497f-b6ba-b7c9f9d26ba8/VideoBigDataScenario2DataWarehouseOnDemand_mid.mp4",
+    "Description": "In a data warehousing scenario, HDInsight is used as a data source for big data analysis and reporting. This scenario also discusses how you can minimize running costs by shutting down the cluster whe"
+  },
+  {
+    "VideoId": "65ef2f64-db0b-4713-920f-a35a015361ab",
+    "DataApi": "/Entries(guid'65ef2f64-db0b-4713-920f-a35a015361ab')/",
+    "VideoPageLink": "/series/Example-scenarios-for-developing-big-data-solutions-on-Microsoft-Azure-HDInsight/VideoBigDataScenario3-ETL",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/28f5/46088e4a-49d0-4d45-adde-ae2a97b228f5/VideoBigDataScenario3ETL_960.jpg",
+    "ShowName": "Example scenarios for developing big data solutions on Microsoft Azure HDInsight",
+    "VideoLength": "00:25:58",
+    "VideoTitle": "VideoBigDataScenario3: ETL",
+    "Author": "ndelgado",
+    "UtcDateTimePublished": "2014-07-01T18:05:20.0272458Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/28f5/46088e4a-49d0-4d45-adde-ae2a97b228f5/VideoBigDataScenario3ETL_mid.mp4",
+    "Description": "In this scenario, HDInsight is used to perform an Extract, Transform, and Load (ETL) process on data to filter and shape it, and then populate a database table. For more info, see Scenario 3: ETL auto"
+  },
+  {
+    "VideoId": "a455c71e-c8fc-449f-8408-a35a0153efb7",
+    "DataApi": "/Entries(guid'a455c71e-c8fc-449f-8408-a35a0153efb7')/",
+    "VideoPageLink": "/series/Example-scenarios-for-developing-big-data-solutions-on-Microsoft-Azure-HDInsight/VideoBigDataScenario4-BI-Integration",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5eb3/a661fe81-be3f-4fbb-b380-1b7747655eb3/VideoBigDataScenario4BIIntegration_960.jpg",
+    "ShowName": "Example scenarios for developing big data solutions on Microsoft Azure HDInsight",
+    "VideoLength": "00:58:58",
+    "VideoTitle": "VideoBigDataScenario4: BI Integration",
+    "Author": "ndelgado",
+    "UtcDateTimePublished": "2014-07-01T18:05:30.922206Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5eb3/a661fe81-be3f-4fbb-b380-1b7747655eb3/VideoBigDataScenario4BIIntegration_mid.mp4",
+    "Description": "This scenario explores ways in which big data batch processing with HDInsight can be integrated into a business intelligence (BI) solution in a corporate environment. The emphasis in this scenario is "
+  }
+]

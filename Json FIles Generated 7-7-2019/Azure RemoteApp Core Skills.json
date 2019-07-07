@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c8fc07fa-13ab-4309-80e2-a4fe0153318a",
+    "DataApi": "/Entries(guid'c8fc07fa-13ab-4309-80e2-a4fe0153318a')/",
+    "VideoPageLink": "/Shows/Azure-RemoteApp-Core-Skills/Mod-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1f67/19b0c560-a48a-49cc-8f3a-794091541f67/mod2remoteapp_960.jpg",
+    "ShowName": "Azure RemoteApp Core Skills",
+    "VideoLength": "00:32:31",
+    "VideoTitle": "Mod 2: Overview of Azure RemoteApp ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-26T18:54:06.0147971Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1f67/19b0c560-a48a-49cc-8f3a-794091541f67/mod2remoteapp_mid.mp4",
+    "Description": "Gain an understanding of the basic principles of Azure Remote App, including some of the main terminology, like collections and publishing, along with how Azure Remote App sits inside Azure. "
+  },
+  {
+    "VideoId": "80aaa3f6-6662-4ddb-9eca-a4fe01538488",
+    "DataApi": "/Entries(guid'80aaa3f6-6662-4ddb-9eca-a4fe01538488')/",
+    "VideoPageLink": "/Shows/Azure-RemoteApp-Core-Skills/Mod-3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f432/c22ba85a-310e-4ec3-953b-fba737d1f432/mod3remoteapp_960.jpg",
+    "ShowName": "Azure RemoteApp Core Skills",
+    "VideoLength": "00:32:31",
+    "VideoTitle": "Mod 3: Differences Between Cloud and Hybrid Deployments ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-26T18:53:54.4287432Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f432/c22ba85a-310e-4ec3-953b-fba737d1f432/mod3remoteapp_mid.mp4",
+    "Description": "â€‹Learn how to publish applications and the different types of applications that you can publish. Explore different imaging tools and techniques, and look at how to add your images to Azure Remote App."
+  },
+  {
+    "VideoId": "1d33f4f3-74a1-4a0a-bcad-a4fe0153c0a6",
+    "DataApi": "/Entries(guid'1d33f4f3-74a1-4a0a-bcad-a4fe0153c0a6')/",
+    "VideoPageLink": "/Shows/Azure-RemoteApp-Core-Skills/Mod-4-How-to-Publish-Apps-to-Users",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6715/bc3bfe40-9dea-46d8-8ed3-f8fa6da66715/mod4remoteapp_960.jpg",
+    "ShowName": "Azure RemoteApp Core Skills",
+    "VideoLength": "00:22:02",
+    "VideoTitle": "Mod 4: â€‹How to Publish Apps to Users",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-26T18:51:51.7467452Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6715/bc3bfe40-9dea-46d8-8ed3-f8fa6da66715/mod4remoteapp_mid.mp4",
+    "Description": "Find out how to assign a published application to your users. â€‹â€‹ â€‹ â€‹ â€‹ "
+  },
+  {
+    "VideoId": "e85364bd-d0b0-494c-982a-a4fe01540e6c",
+    "DataApi": "/Entries(guid'e85364bd-d0b0-494c-982a-a4fe01540e6c')/",
+    "VideoPageLink": "/Shows/Azure-RemoteApp-Core-Skills/Mod-5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8626/2ed3724f-56f1-4322-a3ba-6209f5eb8626/mod5remoteapp_960.jpg",
+    "ShowName": "Azure RemoteApp Core Skills",
+    "VideoLength": "00:17:49",
+    "VideoTitle": "Mod 5: User Experience",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-26T18:51:10.8287276Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8626/2ed3724f-56f1-4322-a3ba-6209f5eb8626/mod5remoteapp_mid.mp4",
+    "Description": "Explore the client experiences on Windows, iOS, and Android. Take a look at the protocols and transports involved. "
+  },
+  {
+    "VideoId": "95d74c3f-df6f-40e1-b680-a4fe01548bb3",
+    "DataApi": "/Entries(guid'95d74c3f-df6f-40e1-b680-a4fe01548bb3')/",
+    "VideoPageLink": "/Shows/Azure-RemoteApp-Core-Skills/Mod-6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e2a9/4ad4c239-0eb0-4e1e-b791-52b1c407e2a9/mod6remoteapp_960.jpg",
+    "ShowName": "Azure RemoteApp Core Skills",
+    "VideoLength": "00:25:28",
+    "VideoTitle": "Mod 6: Updating and Maintaining Your Deployment",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-26T18:49:49.3027612Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e2a9/4ad4c239-0eb0-4e1e-b791-52b1c407e2a9/mod6remoteapp_mid.mp4",
+    "Description": "Get the details on keeping your application collections up to date. "
+  }
+]

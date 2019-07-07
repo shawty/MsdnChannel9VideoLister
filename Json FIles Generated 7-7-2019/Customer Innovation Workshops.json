@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "9afae02c-59c4-40c6-9ee4-a6b4003c4abe",
+    "DataApi": "/Entries(guid'9afae02c-59c4-40c6-9ee4-a6b4003c4abe')/",
+    "VideoPageLink": "/Series/Customer-Solutions-Workshops/Enlisting-Microsoft-Technologies-to-Aid-Missing-Childrens-Society-of-Canada-to-Find-Lost-Children",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3a08/9a02ae6a-59d3-4bbc-b7c5-7029bd4f3a08/MCSCTestimonial_960.jpg",
+    "ShowName": "Customer Innovation Workshops",
+    "VideoLength": "00:08:01",
+    "VideoTitle": "Enlisting Microsoft Technologies to Aid Missing Children's Society of Canada to Find Lost Children",
+    "Author": "Pierre Roman",
+    "UtcDateTimePublished": "2016-11-04T05:01:34.8149591Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3a08/9a02ae6a-59d3-4bbc-b7c5-7029bd4f3a08/MCSCTestimonial_mid.mp4",
+    "Description": "Last year 45,000 children in Canada went missing. Calgary based non-for-profit Missing Children Society of Canada have made it their sole mission to bring every child home.  Part of their challenge is"
+  },
+  {
+    "VideoId": "237365db-1666-4cff-a7cd-a7510159a834",
+    "DataApi": "/Entries(guid'237365db-1666-4cff-a7cd-a7510159a834')/",
+    "VideoPageLink": "/Series/Customer-Solutions-Workshops/MrsKwirk--A-Tomato-with-an-Attitude-Now-Bridged-to-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be8d/2be8ba9b-f73d-4ad5-bde4-582e2ae8be8d/MissKwirkDesktopConvert_960.jpg",
+    "ShowName": "Customer Innovation Workshops",
+    "VideoLength": "00:02:27",
+    "VideoTitle": "Mrs.Kwirk â€“ A Tomato with an Attitude Now Bridged to Windows 10",
+    "Author": "Michael MacDonald",
+    "UtcDateTimePublished": "2017-04-10T21:31:58.0715823Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be8d/2be8ba9b-f73d-4ad5-bde4-582e2ae8be8d/MissKwirkDesktopConvert_mid.mp4",
+    "Description": "Back in 1990, Acclaim Entertainment brought the game Kwirk to North American shores. Originally published on Game Boy, Kwirk is a puzzle game that challenges players to get from one end of the room to"
+  },
+  {
+    "VideoId": "fe0092fb-0328-45f4-80a0-a762004e1b16",
+    "DataApi": "/Entries(guid'fe0092fb-0328-45f4-80a0-a762004e1b16')/",
+    "VideoPageLink": "/Series/Customer-Solutions-Workshops/Gustav-Chatbot-for-Conference",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5029/0cd0431f-ec2f-4c49-b019-5b82fa295029/askpam_960.jpg",
+    "ShowName": "Customer Innovation Workshops",
+    "VideoLength": "00:03:02",
+    "VideoTitle": "Gustav Chatbot for Conference",
+    "Author": "Pierre Roman",
+    "UtcDateTimePublished": "2017-04-28T19:25:59.0088767Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1810/9baf4d83-640f-44ad-9885-1344abed1810/AspPAMv3_mid.mp4",
+    "Description": "ASK PAM is a unified multi-channel messaging web app which allow any Hospitality organizations to respond, support and engage with customers using popular messaging apps, SMS, websites and mobile apps"
+  },
+  {
+    "VideoId": "5d282a6f-8e25-4f25-8a8f-a7830143db8c",
+    "DataApi": "/Entries(guid'5d282a6f-8e25-4f25-8a8f-a7830143db8c')/",
+    "VideoPageLink": "/Series/Customer-Solutions-Workshops/Harnessing-Chatbots-via-XamarinForms-to-Automate-Disaster-Recover-Resource-Obtainment",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b79a/9f4f0d7f-3fcf-4fdf-ad91-9a67ef7eb79a/CityPlusTechnicalFinal_960.jpg",
+    "ShowName": "Customer Innovation Workshops",
+    "VideoLength": "00:03:40",
+    "VideoTitle": "Harnessing Chatbots via Xamarin.Forms to Automate Disaster Recover Resource Obtainment",
+    "Author": "Anthony Bartolo",
+    "UtcDateTimePublished": "2017-05-30T20:04:19.6621537Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b79a/9f4f0d7f-3fcf-4fdf-ad91-9a67ef7eb79a/CityPlusTechnicalFinal_mid.mp4",
+    "Description": "Robust Choice Cloud Solution Inc. is a startup company with a great portfolio of projects in several areas like: Meeting and Decision Support Systems, Artificial Intelligence for Emergencies, Sustaina"
+  },
+  {
+    "VideoId": "464dabce-792a-473c-91ae-a7b400fd6af6",
+    "DataApi": "/Entries(guid'464dabce-792a-473c-91ae-a7b400fd6af6')/",
+    "VideoPageLink": "/Series/Customer-Solutions-Workshops/A-Technical-Overview-of-Building-an-Inclusive-Chat-Bot-for-Athletes-with-Disabilities",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4207/084be709-b371-44cf-942d-15d4e40c4207/viaSportTech01_960.jpg",
+    "ShowName": "Customer Innovation Workshops",
+    "VideoLength": "00:02:42",
+    "VideoTitle": "A Technical Overview of Building an Inclusive Chat Bot for Athletes with Disabilities",
+    "Author": "Anthony Bartolo",
+    "UtcDateTimePublished": "2017-07-18T15:46:01.6586651Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4207/084be709-b371-44cf-942d-15d4e40c4207/viaSportTech01_mid.mp4",
+    "Description": "The objective of this project was to build a conversational interface and analytics dashboard for viaSport BC's newest inclusive sport initiative. Tasked by the provincial government to be the lead ag"
+  },
+  {
+    "VideoId": "89b7f38d-43ac-4d39-a40f-a7b4010530f8",
+    "DataApi": "/Entries(guid'89b7f38d-43ac-4d39-a40f-a7b4010530f8')/",
+    "VideoPageLink": "/Series/Customer-Solutions-Workshops/Harnessing-A-Chatbot-to-Digitally-Enable-Inclusive-Sport",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/34cc/15855954-4acc-4eae-80e1-b1f7793434cc/viaSportBDM1_960.jpg",
+    "ShowName": "Customer Innovation Workshops",
+    "VideoLength": "00:05:17",
+    "VideoTitle": "Harnessing A Chatbot to Digitally Enable Inclusive Sport",
+    "Author": "Anthony Bartolo",
+    "UtcDateTimePublished": "2017-07-18T16:37:21.2550857Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/34cc/15855954-4acc-4eae-80e1-b1f7793434cc/viaSportBDM1_mid.mp4",
+    "Description": "In the relatively new space of Conversations as a Platform, many organizations have begun to incorporate chat bots into the structure of their business as tools to drive sales and manage customer rela"
+  }
+]

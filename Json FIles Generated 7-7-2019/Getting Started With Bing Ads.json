@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "85907d6f-de21-410a-8810-a33401467e39",
+    "DataApi": "/Entries(guid'85907d6f-de21-410a-8810-a33401467e39')/",
+    "VideoPageLink": "/Series/Getting-Started-With-Bing-Ads/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9dba/5f47fb11-5cb1-4cb4-8395-8497a4729dba/GettingStartedWithBingAdsM02_960.jpg",
+    "ShowName": "Getting Started With Bing Ads",
+    "VideoLength": "01:37:42",
+    "VideoTitle": "Getting Started with Bing Ads : (02) Getting Started with Bing Ads",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-24T16:04:05.795239Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9dba/5f47fb11-5cb1-4cb4-8395-8497a4729dba/GettingStartedWithBingAdsM02_mid.mp4",
+    "Description": "Find out what you need to know for setting up your first campaign, including structure basics for Bing Ads, ad targeting, keyword match types and selection, bidding and budgeting techniques, and conve"
+  },
+  {
+    "VideoId": "54d9ae2a-3724-46f8-b974-a3340146c8f8",
+    "DataApi": "/Entries(guid'54d9ae2a-3724-46f8-b974-a3340146c8f8')/",
+    "VideoPageLink": "/Series/Getting-Started-With-Bing-Ads/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6870/4040d351-d90b-48a8-827e-cf91e5d56870/GettingStartedWithBingAdsM03_960.jpg",
+    "ShowName": "Getting Started With Bing Ads",
+    "VideoLength": "00:51:08",
+    "VideoTitle": "Getting Started with Bing Ads : (03) Bing Ads Advanced Features",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-24T16:04:27.2601339Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6870/4040d351-d90b-48a8-827e-cf91e5d56870/GettingStartedWithBingAdsM03_mid.mp4",
+    "Description": "See an overview of advanced features, including ad extensions, dynamic ad text, content ads, and campaign exclusions. [01:13] - Ad extensions[15:40] - Dynamic text[33:31] - Content ads[40:48] - Campai"
+  },
+  {
+    "VideoId": "27b0d3ab-d84e-4caa-bc2b-a3340147005b",
+    "DataApi": "/Entries(guid'27b0d3ab-d84e-4caa-bc2b-a3340147005b')/",
+    "VideoPageLink": "/Series/Getting-Started-With-Bing-Ads/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0561/c61c3213-5b44-4872-84c7-02a71fbb0561/GettingStartedWithBingAdsM04_960.jpg",
+    "ShowName": "Getting Started With Bing Ads",
+    "VideoLength": "01:11:59",
+    "VideoTitle": "Getting Started with Bing Ads : (04) Optimizations and the Bing Ads Editor",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-24T16:04:58.5523828Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0561/c61c3213-5b44-4872-84c7-02a71fbb0561/GettingStartedWithBingAdsM04_mid.mp4",
+    "Description": "Find out how to utilize Bing Ads reports and campaign optimization techniques, including optimizations for Smart Search, and get a look at the functionality of Bing Ads Editor. [02:21] - Bing Ads repo"
+  }
+]

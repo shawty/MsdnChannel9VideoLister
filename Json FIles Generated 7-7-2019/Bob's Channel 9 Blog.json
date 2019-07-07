@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "4824a772-d681-421a-8526-9e120134e2e5",
+    "DataApi": "/Entries(guid'4824a772-d681-421a-8526-9e120134e2e5')/",
+    "VideoPageLink": "/Blogs/bobfamiliar/Cloud-Application-Architecture-Patterns-by-David-Platt",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/e2e5/4824a772-d681-421a-8526-9e120134e2e5/CloudArchitectureDavidPlatt_512_ch9.jpg",
+    "ShowName": "Bob's Channel 9 Blog",
+    "VideoLength": "00:50:04",
+    "VideoTitle": "Cloud Application Architecture Patterns by David Platt",
+    "Author": "Bob Familiar",
+    "UtcDateTimePublished": "2010-10-18T18:49:30Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/e2e5/4824a772-d681-421a-8526-9e120134e2e5/CloudArchitectureDavidPlatt_ch9.mp4",
+    "Description": " David Platt of the Harvard University Extension School and CEO of Rolling Thunder Computing has created a 3 lecture series on Cloud Computing for students. This second lecture introduces distributed "
+  },
+  {
+    "VideoId": "fec4942c-9fe9-4411-b553-9e1201295adc",
+    "DataApi": "/Entries(guid'fec4942c-9fe9-4411-b553-9e1201295adc')/",
+    "VideoPageLink": "/Blogs/bobfamiliar/Introduction-to-Cloud-Computing-by-David-Platt",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5adc/fec4942c-9fe9-4411-b553-9e1201295adc/IntroToCloudComputingDavidPlatt_512_ch9.jpg",
+    "ShowName": "Bob's Channel 9 Blog",
+    "VideoLength": "00:55:22",
+    "VideoTitle": "Introduction to Cloud Computing by David Platt",
+    "Author": "Bob Familiar",
+    "UtcDateTimePublished": "2010-10-17T19:31:47Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5adc/fec4942c-9fe9-4411-b553-9e1201295adc/IntroToCloudComputingDavidPlatt_ch9.mp4",
+    "Description": " David Platt of the Harvard University Extension School and CEO of Rolling Thunder Computing has created a 3 lecture series on Cloud Computing for students. This first lecture provides an introduction"
+  },
+  {
+    "VideoId": "03b86bad-f47d-4ed8-ba4c-9dec000bc4c7",
+    "DataApi": "/Entries(guid'03b86bad-f47d-4ed8-ba4c-9dec000bc4c7')/",
+    "VideoPageLink": "/Blogs/bobfamiliar/PopFly-Goes-to-College",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1c81/9cb48aac-0f3a-4ab0-bdc3-4719736c1c81/PopFly-Goes-to-College_960.jpg",
+    "ShowName": "Bob's Channel 9 Blog",
+    "VideoLength": "00:12:06",
+    "VideoTitle": "PopFly Goes to College",
+    "Author": "Bob Familiar",
+    "UtcDateTimePublished": "2007-12-13T20:49:54Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1c81/9cb48aac-0f3a-4ab0-bdc3-4719736c1c81/PopFly-Goes-to-College_mid.mp4",
+    "Description": "Bob Familiar interviews Professor Mark Frydenberg of\nBentley College of Massachusetts. Professor Frydenberg has created a course that leverages\nPopFly to teach software architecture and development "
+  },
+  {
+    "VideoId": "5ad3644e-83a8-4817-b297-9dec000bc85f",
+    "DataApi": "/Entries(guid'5ad3644e-83a8-4817-b297-9dec000bc85f')/",
+    "VideoPageLink": "/Blogs/bobfamiliar/Choosing-the-Right-LINQ-Model-for-Your-Application",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf6d/202433dc-8774-4639-9986-6221237ccf6d/Choosing-the-Right-LINQ-Model-for-Your-Applicatio_960.jpg",
+    "ShowName": "Bob's Channel 9 Blog",
+    "VideoLength": "00:11:26",
+    "VideoTitle": "Choosing the Right LINQ Model for Your Application",
+    "Author": "Bob Familiar",
+    "UtcDateTimePublished": "2007-11-14T23:19:59Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf6d/202433dc-8774-4639-9986-6221237ccf6d/Choosing-the-Right-LINQ-Model-for-Your-Applicatio_mid.mp4",
+    "Description": "\nBill Zack presents an Architect Point of View (arcPOV) presentation on selecting the right\nLINQ model for your application. Bill covers 3 different flavors of LINQ; LINQ to SQL, LINQ to Datasets, a"
+  }
+]

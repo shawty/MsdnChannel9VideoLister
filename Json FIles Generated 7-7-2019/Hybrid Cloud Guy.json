@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "73a6a0ab-cfb1-46b0-ba7d-a7ae01637c3e",
+    "DataApi": "/Entries(guid'73a6a0ab-cfb1-46b0-ba7d-a7ae01637c3e')/",
+    "VideoPageLink": "/Blogs/Hybrid-Cloud-Guy/Azure-App-Service-On-Linux-Wordpress-Walkthrough",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "7ec81c61-c05e-4f0a-8458-a71800159da6",
+    "DataApi": "/Entries(guid'7ec81c61-c05e-4f0a-8458-a71800159da6')/",
+    "VideoPageLink": "/Blogs/Hybrid-Cloud-Guy/Do-I-Need-To-Backup-Azure-Virtual-Machines",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1959/5221ed23-65a8-473c-88f5-81d2ba291959/azurebackup_960.jpg",
+    "ShowName": "Hybrid Cloud Guy",
+    "VideoLength": "00:17:25",
+    "VideoTitle": "Do I Need To Backup Azure Virtual Machines?",
+    "Author": "Cloud Native Guy",
+    "UtcDateTimePublished": "2017-02-13T12:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1959/5221ed23-65a8-473c-88f5-81d2ba291959/azurebackup_mid.mp4",
+    "Description": "Azure Backup is a simple and cost-effective backup-as-a-service solution that extends tried-and-trusted tools on-premises with rich and powerful tools in the cloud. It delivers protection for customer"
+  },
+  {
+    "VideoId": "f6f09150-b38a-4d80-a308-a63b004afbf9",
+    "DataApi": "/Entries(guid'f6f09150-b38a-4d80-a308-a63b004afbf9')/",
+    "VideoPageLink": "/Blogs/Hybrid-Cloud-Guy/Docker-For-Windows",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1e05/03f9c56b-b901-483c-a2dc-b147a55f1e05/Docker4Windows_960.jpg",
+    "ShowName": "Hybrid Cloud Guy",
+    "VideoLength": "00:09:27",
+    "VideoTitle": "Docker For Windows",
+    "Author": "Cloud Native Guy",
+    "UtcDateTimePublished": "2016-07-06T16:10:14.7479772Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1e05/03f9c56b-b901-483c-a2dc-b147a55f1e05/Docker4Windows_mid.mp4",
+    "Description": "Getting started with Docker containers has never been easier with Docker for Windows. In this video we discuss the Docker for Windows Beta and demo how to get started with it.  "
+  }
+]

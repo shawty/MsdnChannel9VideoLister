@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "9727bb69-4261-4e88-aea8-9dec001598be",
+    "DataApi": "/Entries(guid'9727bb69-4261-4e88-aea8-9dec001598be')/",
+    "VideoPageLink": "/Blogs/meysun/Microsoft-Dynamics-AX-2009--Using-Record-Context-in-Enterprise-Portal",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6d33429e-1e0a-4b6d-852c-9dec001593f9",
+    "DataApi": "/Entries(guid'6d33429e-1e0a-4b6d-852c-9dec001593f9')/",
+    "VideoPageLink": "/Blogs/meysun/Microsoft-Dynamics-AX-2009--Advanced-Grid-in-Enterprise-Portal-List-Page",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "35170c01-4fbf-463b-b5d6-9dec0015a3b9",
+    "DataApi": "/Entries(guid'35170c01-4fbf-463b-b5d6-9dec0015a3b9')/",
+    "VideoPageLink": "/Blogs/meysun/Microsoft-Dynamics-AX-2009--Creating-simple-TunnelWizard-Page-in-Enterprise-Portal",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "878e07c5-6830-439d-840b-9dec00159e09",
+    "DataApi": "/Entries(guid'878e07c5-6830-439d-840b-9dec00159e09')/",
+    "VideoPageLink": "/Blogs/meysun/Microsoft-Dynamics-AX-2009--Calling-X-classes-in-Enterprise-Portal-User-Controls-in-C",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "00c7c961-ae75-4202-a3e1-9dec0015a83e",
+    "DataApi": "/Entries(guid'00c7c961-ae75-4202-a3e1-9dec0015a83e')/",
+    "VideoPageLink": "/Blogs/meysun/Microsoft-Dynamics-AX-2009--Creating-simple-Task-Page-in-Enterprise-Portal",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "b4598844-1c42-432f-8366-9dec0015ac33",
+    "DataApi": "/Entries(guid'b4598844-1c42-432f-8366-9dec0015ac33')/",
+    "VideoPageLink": "/Blogs/meysun/Microsoft-Dynamics-AX-2009--Creating-simple-List-Page-in-Enterprise-Portal",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

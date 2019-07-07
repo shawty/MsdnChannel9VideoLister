@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "58904222-363c-4681-8fb7-a28e0160c377",
+    "DataApi": "/Entries(guid'58904222-363c-4681-8fb7-a28e0160c377')/",
+    "VideoPageLink": "/Series/Introduction-to-C-and-DirectX-Game-Development/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ccab/b6608da3-8540-47a3-9bf8-2373770eccab/IntroCandDirectXGameDevM02_960.jpg",
+    "ShowName": "Introduction to C++ and DirectX Game Development",
+    "VideoLength": "01:05:45",
+    "VideoTitle": "Introduction to C++ and DirectX Game Development: (02) What DirectX Can Do and Creating the Main Game Loop",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-09T18:00:05.7364098Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ccab/b6608da3-8540-47a3-9bf8-2373770eccab/IntroCandDirectXGameDevM02_mid.mp4",
+    "Description": "This module covers how to implement the main game loop that drives the system forward. [02:06] - Capabilities of DirectX 11[04:52] - What's New to DirectX 11[16:13] - The IFrameworkView and your App[2"
+  },
+  {
+    "VideoId": "b0774a3c-bdb3-438e-b631-a28e01612998",
+    "DataApi": "/Entries(guid'b0774a3c-bdb3-438e-b631-a28e01612998')/",
+    "VideoPageLink": "/Series/Introduction-to-C-and-DirectX-Game-Development/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4599/bfe46955-3bb5-4521-b632-013feebd4599/IntroCandDirectXGameDevM03_960.jpg",
+    "ShowName": "Introduction to C++ and DirectX Game Development",
+    "VideoLength": "01:40:29",
+    "VideoTitle": "Introduction to C++ and DirectX Game Development: (03) Creating, Texturing, and Moving Objects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-09T18:01:06.0915369Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4599/bfe46955-3bb5-4521-b632-013feebd4599/IntroCandDirectXGameDevM03_mid.mp4",
+    "Description": "In this module, we explore how to manipulate objects within the game and how to create more instances of them (without all of the overhead of the first instance). [04:45] - Things We Should Know[07:39"
+  },
+  {
+    "VideoId": "4492c94f-5996-45c0-af66-a28e01618ece",
+    "DataApi": "/Entries(guid'4492c94f-5996-45c0-af66-a28e01618ece')/",
+    "VideoPageLink": "/Series/Introduction-to-C-and-DirectX-Game-Development/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/10ae/a2f163c7-f7f1-42fe-9170-e9ed51d910ae/IntroCandDirectXGameDevM04_960.jpg",
+    "ShowName": "Introduction to C++ and DirectX Game Development",
+    "VideoLength": "00:24:43",
+    "VideoTitle": "Introduction to C++ and DirectX Game Development: (04) State Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-09T18:06:14.5261806Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/10ae/a2f163c7-f7f1-42fe-9170-e9ed51d910ae/IntroCandDirectXGameDevM04_mid.mp4",
+    "Description": "With a basic game loop in place, this module investigates how to set up and manage a larger state system that most games require. [01:07] - What are States and State Machines[07:08] - How To Implement"
+  },
+  {
+    "VideoId": "5cae0d1b-519b-4593-aa0f-a28e0161d94d",
+    "DataApi": "/Entries(guid'5cae0d1b-519b-4593-aa0f-a28e0161d94d')/",
+    "VideoPageLink": "/Series/Introduction-to-C-and-DirectX-Game-Development/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb46/472dcbcb-af10-4fb6-a2f3-a64755cbbb46/IntroCandDirectXGameDevM05_960.jpg",
+    "ShowName": "Introduction to C++ and DirectX Game Development",
+    "VideoLength": "00:36:34",
+    "VideoTitle": "Introduction to C++ and DirectX Game Development: (05) Capturing User Input",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-09T18:09:42.3666607Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb46/472dcbcb-af10-4fb6-a2f3-a64755cbbb46/IntroCandDirectXGameDevM05_mid.mp4",
+    "Description": "Here, we explore the basics in user input capturing. We then investigate how to apply that input to the various game states and objects throughout a game. [01:48] - Aggregating Input From Multiple Sou"
+  },
+  {
+    "VideoId": "36cb3181-2fbf-4cf6-8d64-a28e01623ec0",
+    "DataApi": "/Entries(guid'36cb3181-2fbf-4cf6-8d64-a28e01623ec0')/",
+    "VideoPageLink": "/Series/Introduction-to-C-and-DirectX-Game-Development/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4e8f/94dfbefa-d4fd-4890-b6fa-1db2fa754e8f/IntroCandDirectXGameDevM06_960.jpg",
+    "ShowName": "Introduction to C++ and DirectX Game Development",
+    "VideoLength": "00:34:25",
+    "VideoTitle": "Introduction to C++ and DirectX Game Development: (06) Physics and Collision Detection",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-09T18:11:04.9132382Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4e8f/94dfbefa-d4fd-4890-b6fa-1db2fa754e8f/IntroCandDirectXGameDevM06_mid.mp4",
+    "Description": "In this module, we cover basic physics and the collision detection methods required to create the gameplay. [01:19] - Planning What you Need[06:11] - Planning your Approach[08:52] - Common Pitfalls[11"
+  },
+  {
+    "VideoId": "b637d42a-17e1-4c56-af0a-a28e0162a957",
+    "DataApi": "/Entries(guid'b637d42a-17e1-4c56-af0a-a28e0162a957')/",
+    "VideoPageLink": "/Series/Introduction-to-C-and-DirectX-Game-Development/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e486/48419746-739c-46fa-9bd9-961fc224e486/IntroCandDirectXGameDevM07_960.jpg",
+    "ShowName": "Introduction to C++ and DirectX Game Development",
+    "VideoLength": "00:41:11",
+    "VideoTitle": "Introduction to C++ and DirectX Game Development: (07) Adding AI and Other Extras to the Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-09T18:11:33.7413663Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e486/48419746-739c-46fa-9bd9-961fc224e486/IntroCandDirectXGameDevM07_mid.mp4",
+    "Description": "With the majority of game elements and systems in place, this module takes a look at how we can apply textures and different shaders to dress up the game objects and menus. [01:23] - Assessing what yo"
+  }
+]

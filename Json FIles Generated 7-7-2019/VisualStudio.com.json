@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "2d63c84d-bc3d-4e7b-a48b-a3390063a6ac",
+    "DataApi": "/Entries(guid'2d63c84d-bc3d-4e7b-a48b-a3390063a6ac')/",
+    "VideoPageLink": "/Blogs/vscom/Scaling-Agile-Across-the-Enterprise-Story-Trailer",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/2e871207-fac8-471a-a699-f74c0c19b399.jpg",
+    "ShowName": "VisualStudio.com",
+    "VideoLength": "00:01:10",
+    "VideoTitle": "Scaling Agile Across the Enterprise - Story Trailer",
+    "Author": "Rob Caron",
+    "UtcDateTimePublished": "2014-05-28T06:42:15.883565Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e219/a4bde95e-597e-4958-a653-fb0ba1cfe219/ScalingAgileAcrosstheEnterprise_mid.mp4",
+    "Description": "Get the full story at: https://aka.ms/ScalingAgile "
+  }
+]

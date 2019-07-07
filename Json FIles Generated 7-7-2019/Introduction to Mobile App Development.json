@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "a105e0a0-d949-47d5-8406-a3d20136226c",
+    "DataApi": "/Entries(guid'a105e0a0-d949-47d5-8406-a3d20136226c')/",
+    "VideoPageLink": "/Series/Introduction-to-Mobile-App-Development/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f8ae/8ce8bce8-5c31-4432-b79f-c4dd8ea5f8ae/IntroductionMobileAppDevelopmentM02_960.jpg",
+    "ShowName": "Introduction to Mobile App Development",
+    "VideoLength": "00:36:27",
+    "VideoTitle": "Introduction to Mobile App Development: (02) Getting Started with Apps and App Studio",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-29T22:25:59.2045342Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f8ae/8ce8bce8-5c31-4432-b79f-c4dd8ea5f8ae/IntroductionMobileAppDevelopmentM02_mid.mp4",
+    "Description": "Walk through App Studio, and build a sample app. See some helpful demos. "
+  },
+  {
+    "VideoId": "07458e3a-a172-442f-a736-a3d201364580",
+    "DataApi": "/Entries(guid'07458e3a-a172-442f-a736-a3d201364580')/",
+    "VideoPageLink": "/Series/Introduction-to-Mobile-App-Development/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b934/37e46d00-662b-43cd-b7be-711baf12b934/IntroductionMobileAppDevelopmentM03_960.jpg",
+    "ShowName": "Introduction to Mobile App Development",
+    "VideoLength": "00:43:23",
+    "VideoTitle": "Introduction to Mobile App Development: (03) Improving Your App Studio App",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-29T22:27:10.2416571Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b934/37e46d00-662b-43cd-b7be-711baf12b934/IntroductionMobileAppDevelopmentM03_mid.mp4",
+    "Description": "Check out app navigation, controls, data sources, and binding. "
+  },
+  {
+    "VideoId": "a357048b-ec47-4969-907d-a3d201366b6b",
+    "DataApi": "/Entries(guid'a357048b-ec47-4969-907d-a3d201366b6b')/",
+    "VideoPageLink": "/Series/Introduction-to-Mobile-App-Development/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/668c/80f002f0-7be9-476f-9179-38adf7fe668c/IntroductionMobileAppDevelopmentM04_960.jpg",
+    "ShowName": "Introduction to Mobile App Development",
+    "VideoLength": "00:23:32",
+    "VideoTitle": "Introduction to Mobile App Development: (04) Basics of Programming",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-29T22:27:32.1750342Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/668c/80f002f0-7be9-476f-9179-38adf7fe668c/IntroductionMobileAppDevelopmentM04_mid.mp4",
+    "Description": "Explore a solution, work with code, and add a debug message. "
+  },
+  {
+    "VideoId": "f5c731c1-f5e5-4bb8-9ad3-a3d201367a6f",
+    "DataApi": "/Entries(guid'f5c731c1-f5e5-4bb8-9ad3-a3d201367a6f')/",
+    "VideoPageLink": "/Series/Introduction-to-Mobile-App-Development/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5c2a/87fda435-ace5-4aad-9ed0-3e45bea65c2a/IntroductionMobileAppDevelopmentM05_960.jpg",
+    "ShowName": "Introduction to Mobile App Development",
+    "VideoLength": "00:27:41",
+    "VideoTitle": "Introduction to Mobile App Development: (05) Adding Customized Behaviors",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-29T22:28:00.9821426Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5c2a/87fda435-ace5-4aad-9ed0-3e45bea65c2a/IntroductionMobileAppDevelopmentM05_mid.mp4",
+    "Description": "Look into the event dispatcher, customized behaviors, storing data, and activating WP features. "
+  },
+  {
+    "VideoId": "b954a9da-4519-49cd-b2e7-a3d20136bcf0",
+    "DataApi": "/Entries(guid'b954a9da-4519-49cd-b2e7-a3d20136bcf0')/",
+    "VideoPageLink": "/Series/Introduction-to-Mobile-App-Development/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0988/e16de4d2-cbd7-450a-ba7d-417ac0c20988/IntroductionMobileAppDevelopmentM06_960.jpg",
+    "ShowName": "Introduction to Mobile App Development",
+    "VideoLength": "00:35:47",
+    "VideoTitle": "Introduction to Mobile App Development: (06) Publishing Your App Studio App",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-29T22:28:48.9504227Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0988/e16de4d2-cbd7-450a-ba7d-417ac0c20988/IntroductionMobileAppDevelopmentM06_mid.mp4",
+    "Description": "Prepare your app for publication and certification. "
+  }
+]

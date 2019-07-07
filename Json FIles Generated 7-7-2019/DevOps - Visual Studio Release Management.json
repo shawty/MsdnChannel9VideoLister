@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "d6bb5b07-5b03-41de-a0a0-a30b0133d494",
+    "DataApi": "/Entries(guid'd6bb5b07-5b03-41de-a0a0-a30b0133d494')/",
+    "VideoPageLink": "/Series/DevOps-Visual-Studio-Release-Management/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0a81/0e050ffe-544a-4f6e-bdfa-c9ac6a230a81/DevOpsVSReleaseMgmtM03_960.jpg",
+    "ShowName": "DevOps - Visual Studio Release Management",
+    "VideoLength": "00:41:04",
+    "VideoTitle": "DevOps - Visual Studio Release Management: (03) Release Pipelines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-13T18:18:54.1013936Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0a81/0e050ffe-544a-4f6e-bdfa-c9ac6a230a81/DevOpsVSReleaseMgmtM03_mid.mp4",
+    "Description": "Design and leverage release pipelines with Visual Studio Release Management.  Work with creating and managing environments in the tooling. Explore scenarios for working with Dev, Test, and Production "
+  },
+  {
+    "VideoId": "bdc27377-75a1-49a3-bd80-a30b01337ff0",
+    "DataApi": "/Entries(guid'bdc27377-75a1-49a3-bd80-a30b01337ff0')/",
+    "VideoPageLink": "/Series/DevOps-Visual-Studio-Release-Management/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4542/29b40c9c-a25e-43ed-a8fa-0de9335c4542/DevOpsVSReleaseMgmtM02_960.jpg",
+    "ShowName": "DevOps - Visual Studio Release Management",
+    "VideoLength": "00:51:17",
+    "VideoTitle": "DevOps - Visual Studio Release Management: (02) Release Management Architecture",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-13T18:18:56.4258889Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4542/29b40c9c-a25e-43ed-a8fa-0de9335c4542/DevOpsVSReleaseMgmtM02_mid.mp4",
+    "Description": "Configure and deploy Release Management tooling for Visual Studio ALM, including the Release Management server, client, and target components. Configure security for Visual Studio Release Management. "
+  },
+  {
+    "VideoId": "a06ebc70-6fb2-460d-a384-a30b013f70da",
+    "DataApi": "/Entries(guid'a06ebc70-6fb2-460d-a384-a30b013f70da')/",
+    "VideoPageLink": "/Series/DevOps-Visual-Studio-Release-Management/04b",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e91/08796290-bead-4d50-99c4-43073dbc7e91/DevOpsVSReleaseMgmtM04b_960.jpg",
+    "ShowName": "DevOps - Visual Studio Release Management",
+    "VideoLength": "00:48:51",
+    "VideoTitle": "DevOps - Visual Studio Release Management: (04b) Deployment Recipes, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-13T18:19:31.8320674Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e91/08796290-bead-4d50-99c4-43073dbc7e91/DevOpsVSReleaseMgmtM04b_mid.mp4",
+    "Description": "Look at common deployment scenarios, and leverage continuous delivery via a build process. Students build and execute deployment workflows to deploy to the various target environments and to track rel"
+  },
+  {
+    "VideoId": "97ba8246-c375-4575-b950-a30b013eeaee",
+    "DataApi": "/Entries(guid'97ba8246-c375-4575-b950-a30b013eeaee')/",
+    "VideoPageLink": "/Series/DevOps-Visual-Studio-Release-Management/04a",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/124d/9e9eca75-16e5-4fee-bd3c-7689a2f3124d/DevOpsVSReleaseMgmtM04a_960.jpg",
+    "ShowName": "DevOps - Visual Studio Release Management",
+    "VideoLength": "00:45:19",
+    "VideoTitle": "DevOps - Visual Studio Release Management: (04a) Deployment Recipes, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-13T18:19:32.7232174Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/124d/9e9eca75-16e5-4fee-bd3c-7689a2f3124d/DevOpsVSReleaseMgmtM04a_mid.mp4",
+    "Description": "Look at common deployment scenarios, and leverage continuous delivery via a build process. Students build and execute deployment workflows to deploy to the various target environments and to track rel"
+  },
+  {
+    "VideoId": "d66a6069-9b7b-4269-b26e-a30b013fb9a7",
+    "DataApi": "/Entries(guid'd66a6069-9b7b-4269-b26e-a30b013fb9a7')/",
+    "VideoPageLink": "/Series/DevOps-Visual-Studio-Release-Management/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ef9f/cef88a24-37ea-4e24-91e8-264e37b4ef9f/DevOpsVSReleaseMgmtM05_960.jpg",
+    "ShowName": "DevOps - Visual Studio Release Management",
+    "VideoLength": "00:42:34",
+    "VideoTitle": "DevOps - Visual Studio Release Management: (05) Advanced Topics",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-13T18:19:49.9890852Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ef9f/cef88a24-37ea-4e24-91e8-264e37b4ef9f/DevOpsVSReleaseMgmtM05_mid.mp4",
+    "Description": "Explore common building custom tools and actions for Visual Studio Release Management, along with scenarios not found OOB with the tooling. [00:43] - Multiple Domains and Troubleshooting[15:28] - Ghos"
+  }
+]

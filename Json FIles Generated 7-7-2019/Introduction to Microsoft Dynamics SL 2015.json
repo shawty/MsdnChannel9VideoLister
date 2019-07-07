@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "d89e19bd-2ee0-4aca-946e-a34001456a7f",
+    "DataApi": "/Entries(guid'd89e19bd-2ee0-4aca-946e-a34001456a7f')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-SL-2015/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb9c/c02b05fb-9195-41d8-8d76-70e382f1fb9c/IntroDynamicsSL2015M02_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics SL 2015",
+    "VideoLength": "00:45:43",
+    "VideoTitle": "Introduction to Microsoft Dynamics SL 2015: (02) Basic Elements",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-04T21:42:44.5049928Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb9c/c02b05fb-9195-41d8-8d76-70e382f1fb9c/IntroDynamicsSL2015M02_mid.mp4",
+    "Description": "This module discusses the menu and screen interfaces in Microsoft Dynamics SL. It also discusses general elements that appear throughout the application including notes, attachments, reporting options"
+  }
+]

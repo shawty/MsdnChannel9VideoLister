@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "6f95c414-c1f2-486a-a74b-a36b0011801b",
+    "DataApi": "/Entries(guid'6f95c414-c1f2-486a-a74b-a36b0011801b')/",
+    "VideoPageLink": "/Blogs/Not-Your-Fathers/Not-your-father-s-hybridCloud",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44e4/88bb250f-e0ec-4f9c-954c-ec18f23b44e4/notyourfathershybridcloud_960.jpg",
+    "ShowName": "Not Your Father's",
+    "VideoLength": "00:13:51",
+    "VideoTitle": "Azure's new Hybrid Connections - not your father's #hybridCloud",
+    "Author": "Josh Twist",
+    "UtcDateTimePublished": "2014-07-21T15:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44e4/88bb250f-e0ec-4f9c-954c-ec18f23b44e4/notyourfathershybridcloud_mid.mp4",
+    "Description": "A one-off special that looks at the how Microsoft Azure's new Hybrid Connections feature, part of the Azure BizTalk Services suite, makes building hybrid applications easy. This is not your father's h"
+  }
+]

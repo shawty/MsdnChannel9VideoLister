@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "80f765fe-86e0-45c0-ac78-a5df0141b03c",
+    "DataApi": "/Entries(guid'80f765fe-86e0-45c0-ac78-a5df0141b03c')/",
+    "VideoPageLink": "/Shows/jasonsdevlog/jasonsdevlog0005-MSDevShow-Swag-Bomb",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4b93/7701bb28-2bdc-4d1a-9401-f380f0e04b93/jasonsdevlog0005_960.jpg",
+    "ShowName": "jasons_devlog",
+    "VideoLength": "00:07:58",
+    "VideoTitle": "jasons_devlog_0005: MSDevShow Swag Bomb",
+    "Author": "Jason Young",
+    "UtcDateTimePublished": "2016-04-07T11:49:03.9050422Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4b93/7701bb28-2bdc-4d1a-9401-f380f0e04b93/jasonsdevlog0005_mid.mp4",
+    "Description": "On the 100th episode of the MSDevShow, we're giving away a swag bomb. Check out what's included, as well as some of the entries in this video. My camera: http://amzn.to/22avoJx   "
+  },
+  {
+    "VideoId": "b7776789-95e6-4650-aecc-a5df01417027",
+    "DataApi": "/Entries(guid'b7776789-95e6-4650-aecc-a5df01417027')/",
+    "VideoPageLink": "/Shows/jasonsdevlog/jasonsdevlog0004-Skype-Call-on-Hololens",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a987/4963cf29-83d3-4d5a-a9c4-5083ab4ea987/jasonsdevlog0004_960.jpg",
+    "ShowName": "jasons_devlog",
+    "VideoLength": "00:06:59",
+    "VideoTitle": "jasons_devlog_0004: Skype Call on Hololens",
+    "Author": "Jason Young",
+    "UtcDateTimePublished": "2016-04-05T21:04:35.4443058Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a987/4963cf29-83d3-4d5a-a9c4-5083ab4ea987/jasonsdevlog0004_mid.mp4",
+    "Description": "Carl called me on his Hololens. My camera: http://amzn.to/22avoJx     "
+  },
+  {
+    "VideoId": "a64543bd-b427-49aa-b7d4-a5db005a6f14",
+    "DataApi": "/Entries(guid'a64543bd-b427-49aa-b7d4-a5db005a6f14')/",
+    "VideoPageLink": "/Shows/jasonsdevlog/jasonsdevlog0003-Build-2016-Day-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2bdd/722a466a-65b7-4244-8510-0b21f62c2bdd/jasonsdevlog0003_960.jpg",
+    "ShowName": "jasons_devlog",
+    "VideoLength": "00:05:59",
+    "VideoTitle": " jasons_devlog_0003: //Build 2016 Day 2",
+    "Author": "Jeremy Foster",
+    "UtcDateTimePublished": "2016-04-01T06:05:43.0415692Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2bdd/722a466a-65b7-4244-8510-0b21f62c2bdd/jasonsdevlog0003_mid.mp4",
+    "Description": "Cameos by: Jeremy Foster: @codefosterPatrick Chanezon: @chanezonMads Torgersen: @madstorgersenOmer Raviv: @omerravivJames Montemagno: @jamesmontemagnoRecorded on a Canon G7 X. "
+  },
+  {
+    "VideoId": "715fec1e-beab-4f89-812a-a5da0072c105",
+    "DataApi": "/Entries(guid'715fec1e-beab-4f89-812a-a5da0072c105')/",
+    "VideoPageLink": "/Shows/jasonsdevlog/jasonsdevlog0002-Build-2016-Day-1",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2136/e95451b0-d12b-4a13-9120-ea57624b2136/jasonsdevlog0002_960.jpg",
+    "ShowName": "jasons_devlog",
+    "VideoLength": "00:05:37",
+    "VideoTitle": "jasons_devlog_0002: //Build 2016 Day 1",
+    "Author": "Jason Young",
+    "UtcDateTimePublished": "2016-03-31T14:01:30.7940459Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2136/e95451b0-d12b-4a13-9120-ea57624b2136/jasonsdevlog0002_mid.mp4",
+    "Description": "Recorded on a Canon G7 X. "
+  },
+  {
+    "VideoId": "f61367d7-96d5-4506-beb1-a5d8014660fc",
+    "DataApi": "/Entries(guid'f61367d7-96d5-4506-beb1-a5d8014660fc')/",
+    "VideoPageLink": "/Shows/jasonsdevlog/jasonsdevlog0001-Preparing-for-Build-2016",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a0f5/fd7a767a-4cc9-4b24-83b8-b49f2ef1a0f5/jasonsdevlog0001_960.jpg",
+    "ShowName": "jasons_devlog",
+    "VideoLength": "00:07:11",
+    "VideoTitle": "jasons_devlog_0001: Preparing for //Build 2016",
+    "Author": "Jason Young",
+    "UtcDateTimePublished": "2016-03-29T21:03:57.0241248Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a0f5/fd7a767a-4cc9-4b24-83b8-b49f2ef1a0f5/jasonsdevlog0001_mid.mp4",
+    "Description": "These first episodes of any show are always embarrassing. I'll evolve this over time and see if I can make it useful and entertaining. Please let me know what you think! Thanks for watching! Product l"
+  }
+]

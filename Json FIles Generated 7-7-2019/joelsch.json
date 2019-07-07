@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "96d6ade9-1db4-41c1-995d-9deb01898eba",
+    "DataApi": "/Entries(guid'96d6ade9-1db4-41c1-995d-9deb01898eba')/",
+    "VideoPageLink": "/Blogs/joelsch/DST-Using-the-Outlook-v20-Time-Zone-Data-Update-Tool",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "97bef457-2a70-4392-875a-9deb01899204",
+    "DataApi": "/Entries(guid'97bef457-2a70-4392-875a-9deb01899204')/",
+    "VideoPageLink": "/Blogs/joelsch/DST-Cumulative-Time-Zone-Update-for-Microsoft-Windows",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b937/fbb8f148-9172-4c3b-aff5-9ae4d4fbb937/DST-Cumulative-Time-Zone-Update-for-Microsoft-Win_960.jpg",
+    "ShowName": "joelsch",
+    "VideoLength": "00:48:48",
+    "VideoTitle": "DST: Cumulative Time Zone Update for Microsoft Windows",
+    "Author": "joelsch",
+    "UtcDateTimePublished": "2007-09-13T04:34:46Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b937/fbb8f148-9172-4c3b-aff5-9ae4d4fbb937/DST-Cumulative-Time-Zone-Update-for-Microsoft-Win_mid.mp4",
+    "Description": "\nThis video will describe the August 2007 Windows Cumulative Time Zone Update.  It will explain how to install the patch, validate the install, manually update non-mainstream Windows versions, and ho"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "c65bd634-355a-4265-9953-a23401799c57",
+    "DataApi": "/Entries(guid'c65bd634-355a-4265-9953-a23401799c57')/",
+    "VideoPageLink": "/Series/win8gameengines/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/969a/7b267a48-e79e-4d30-a38e-c73d3fdc969a/Win8GameM01_960.jpg",
+    "ShowName": "Gaming Engines for Windows 8",
+    "VideoLength": "00:45:10",
+    "VideoTitle": "Gaming Engines for Windows 8: (01) Planning Your Game",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:16:23.3810535Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/969a/7b267a48-e79e-4d30-a38e-c73d3fdc969a/Win8GameM01_mid.mp4",
+    "Description": "This module describes the aspects involved in planning your game, including audience and competition analysis and deciding your target platform and architecture. [08:07] - Analysis - Audience &amp; Co"
+  },
+  {
+    "VideoId": "8f0e0a8c-6d14-4893-aed7-a234017a24ac",
+    "DataApi": "/Entries(guid'8f0e0a8c-6d14-4893-aed7-a234017a24ac')/",
+    "VideoPageLink": "/Series/win8gameengines/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e319/6407dffd-263c-418a-8803-bb4a4003e319/Win8GameM03_960.jpg",
+    "ShowName": "Gaming Engines for Windows 8",
+    "VideoLength": "00:50:55",
+    "VideoTitle": "Gaming Engines for Windows 8: (03) Construct2 by Scirra",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:16:29.8293869Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e319/6407dffd-263c-418a-8803-bb4a4003e319/Win8GameM03_mid.mp4",
+    "Description": "This module describes the Construct2 game concept and covers project setup, creating and controlling the hero, spawning enemies, controlling the sizing, collisions, and scoring. [05:01] - Project Setu"
+  },
+  {
+    "VideoId": "33f3e4c6-6c35-4f08-8cb1-a234017aa60b",
+    "DataApi": "/Entries(guid'33f3e4c6-6c35-4f08-8cb1-a234017aa60b')/",
+    "VideoPageLink": "/Series/win8gameengines/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3e97/f8d39c2e-f601-4a87-9285-db103a4a3e97/Win8GameM04_960.jpg",
+    "ShowName": "Gaming Engines for Windows 8",
+    "VideoLength": "00:47:56",
+    "VideoTitle": "Gaming Engines for Windows 8: (04) GameMaker by YoYo Games",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:16:51.9088026Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3e97/f8d39c2e-f601-4a87-9285-db103a4a3e97/Win8GameM04_mid.mp4",
+    "Description": "This module covers GameMaker essentials, including assets, objects, rooms, and configuration, and includes tutorials and demos. [01:21] - GameMaker Essentials - Assets[14:46] - GameMaker Essentials - "
+  },
+  {
+    "VideoId": "0cc02c32-5a5e-4f47-94b0-a234017ac1fe",
+    "DataApi": "/Entries(guid'0cc02c32-5a5e-4f47-94b0-a234017ac1fe')/",
+    "VideoPageLink": "/Series/win8gameengines/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b7e1/940eac75-0586-46aa-a1ef-a3489e86b7e1/Win8GameM05_960.jpg",
+    "ShowName": "Gaming Engines for Windows 8",
+    "VideoLength": "00:55:01",
+    "VideoTitle": "Gaming Engines for Windows 8: (05) Unity",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:17:50.5104113Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b7e1/940eac75-0586-46aa-a1ef-a3489e86b7e1/Win8GameM05_mid.mp4",
+    "Description": "This module features a Unity game demo and discusses aspects of the game including developing in 3d, compiled scripts, and exporting to Windows 8. [02:46] - Unity Demo - Let's Create a World![24:33] -"
+  },
+  {
+    "VideoId": "77b06acc-f6c6-47e4-9872-a234017b33bf",
+    "DataApi": "/Entries(guid'77b06acc-f6c6-47e4-9872-a234017b33bf')/",
+    "VideoPageLink": "/Series/win8gameengines/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0dc3/28f39d4b-752e-4f94-a022-5104205b0dc3/Win8GameM06_960.jpg",
+    "ShowName": "Gaming Engines for Windows 8",
+    "VideoLength": "00:51:33",
+    "VideoTitle": "Gaming Engines for Windows 8: (06) Monetization and Store Submission",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-09-10T17:18:16.6979253Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0dc3/28f39d4b-752e-4f94-a022-5104205b0dc3/Win8GameM06_mid.mp4",
+    "Description": "This module describes monetization strategies, gaming analytics, and Store submission. [00:44] - Monetization strategies[12:56] - Store Submission[39:41] - Gaming AnalyticsFull course outline: Mod 01:"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "21e087cf-c059-493d-9f4c-a4020168a851",
+    "DataApi": "/Entries(guid'21e087cf-c059-493d-9f4c-a4020168a851')/",
+    "VideoPageLink": "/Series/Taming-Android-and-iOS-with-Enterprise-Mobility-Suite/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5704/bb2401c0-3b52-41b1-bdd1-89ac7ab85704/595TameAndroidiOSEnterMobilitySuiteM02_960.jpg",
+    "ShowName": "Taming Android and iOS with Enterprise Mobility Suite",
+    "VideoLength": "00:57:59",
+    "VideoTitle": "Taming Android and iOS with Enterprise Mobility Suite: (02) Fundamentals",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T18:15:50.5966185Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5704/bb2401c0-3b52-41b1-bdd1-89ac7ab85704/595TameAndroidiOSEnterMobilitySuiteM02_mid.mp4",
+    "Description": "Look at the fundamental technologies, find out where they fit into the Microsoft enterprise mobility approach, and see what they enable. [01:57] - Identity of the User[19:15] - Identity of the Device["
+  },
+  {
+    "VideoId": "e5a55346-75a4-4bd3-84ea-a4020168dd9a",
+    "DataApi": "/Entries(guid'e5a55346-75a4-4bd3-84ea-a4020168dd9a')/",
+    "VideoPageLink": "/Series/Taming-Android-and-iOS-with-Enterprise-Mobility-Suite/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/25b1/7863ef38-1c11-421a-bacc-24b656e325b1/595TameAndroidiOSEnterMobilitySuiteM03_960.jpg",
+    "ShowName": "Taming Android and iOS with Enterprise Mobility Suite",
+    "VideoLength": "00:54:05",
+    "VideoTitle": "Taming Android and iOS with Enterprise Mobility Suite: (03) Managing iOS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T18:15:56.6030407Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/25b1/7863ef38-1c11-421a-bacc-24b656e325b1/595TameAndroidiOSEnterMobilitySuiteM03_mid.mp4",
+    "Description": "Explore iOS management, and take a look at the capabilities of Enterprise Mobility Suite (EMS) that help you manage iOS-based devices. [01:54] - Enrollment &#43; Provisioning[21:37] - Identity[26:09] "
+  },
+  {
+    "VideoId": "edfff00b-67b8-474c-9549-a40201690ebb",
+    "DataApi": "/Entries(guid'edfff00b-67b8-474c-9549-a40201690ebb')/",
+    "VideoPageLink": "/Series/Taming-Android-and-iOS-with-Enterprise-Mobility-Suite/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9715/6a9469ae-67b5-44ed-922c-0938103e9715/595TameAndroidiOSEnterMobilitySuiteM04_960.jpg",
+    "ShowName": "Taming Android and iOS with Enterprise Mobility Suite",
+    "VideoLength": "00:38:12",
+    "VideoTitle": "Taming Android and iOS with Enterprise Mobility Suite: (04) Managing Android",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-16T18:16:19.6679454Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9715/6a9469ae-67b5-44ed-922c-0938103e9715/595TameAndroidiOSEnterMobilitySuiteM04_mid.mp4",
+    "Description": "Examine Android management, and learn about the capabilities of EMS that help you manage Android-based devices. [01:27] - Enrollment &#43; Provisioning[14:19] - Policy[29:23] - Application Management["
+  }
+]

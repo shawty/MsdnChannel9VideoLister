@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "426fe7f2-3b8e-46e5-b7ef-a2fa0152844a",
+    "DataApi": "/Entries(guid'426fe7f2-3b8e-46e5-b7ef-a2fa0152844a')/",
+    "VideoPageLink": "/Series/Software-Defined-Networking-with-Windows-Server-and-System-Center/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a11a/68fb0773-ac11-4e9a-a450-25a7fcdba11a/SoftDefNetworkingWinSrvrSysCtrM02_960.jpg",
+    "ShowName": "Software-Defined Networking with Windows Server and System Center",
+    "VideoLength": "01:33:35",
+    "VideoTitle": "Software-Defined Networking with Windows Server and System Center: (02) Realizing SDN - Microsoftâ€™s Software-Defined Networking Solutions with Windows Server 2012 R2 and System Center 2012 R2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T03:45:23.774752Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a11a/68fb0773-ac11-4e9a-a450-25a7fcdba11a/SoftDefNetworkingWinSrvrSysCtrM02_mid.mp4",
+    "Description": "In this module you will see Microsoft solutions used to manage datacenter networking though abstraction and centralized management.  Learn about extensibility, features, workload focus and ecosystem i"
+  },
+  {
+    "VideoId": "af64babf-57ec-4c72-a34f-a2fa0152ced3",
+    "DataApi": "/Entries(guid'af64babf-57ec-4c72-a34f-a2fa0152ced3')/",
+    "VideoPageLink": "/Series/Software-Defined-Networking-with-Windows-Server-and-System-Center/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d7de/61e998e1-b753-4f69-826d-f7213789d7de/SoftDefNetworkingWinSrvrSysCtrM03_960.jpg",
+    "ShowName": "Software-Defined Networking with Windows Server and System Center",
+    "VideoLength": "00:45:11",
+    "VideoTitle": "Software-Defined Networking with Windows Server and System Center: (03) Extending SDN - Extending Enterprise Networks to Windows Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T03:45:41.2843657Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d7de/61e998e1-b753-4f69-826d-f7213789d7de/SoftDefNetworkingWinSrvrSysCtrM03_mid.mp4",
+    "Description": "In this module you will learn about the different options to extend your network to the Microsoft cloud.  Understand common scenarios covering IPsec, WAN connections and hybrid cloud, and see how Expr"
+  },
+  {
+    "VideoId": "0e80a527-4920-469f-a126-a2fa015313f6",
+    "DataApi": "/Entries(guid'0e80a527-4920-469f-a126-a2fa015313f6')/",
+    "VideoPageLink": "/Series/Software-Defined-Networking-with-Windows-Server-and-System-Center/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/158a/6a56ba0a-f749-4b1c-8d4c-a54052a9158a/SoftDefNetworkingWinSrvrSysCtrM04_960.jpg",
+    "ShowName": "Software-Defined Networking with Windows Server and System Center",
+    "VideoLength": "00:59:30",
+    "VideoTitle": "Software-Defined Networking with Windows Server and System Center: (04) Scaling SDN - Network Performance and Reliability improvements with Windows Server 2012 R2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-27T03:46:03.4512946Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/158a/6a56ba0a-f749-4b1c-8d4c-a54052a9158a/SoftDefNetworkingWinSrvrSysCtrM04_mid.mp4",
+    "Description": "In this module you will see different ways to optimize your network for virtual machines.  After reviewing the basic virtualization architecture, you will learn about Receive Side Scaling (RSS), Virtu"
+  }
+]

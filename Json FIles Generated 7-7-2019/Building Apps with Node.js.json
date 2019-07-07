@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "e37f8e1d-6631-497d-8131-a3ca01239aef",
+    "DataApi": "/Entries(guid'e37f8e1d-6631-497d-8131-a3ca01239aef')/",
+    "VideoPageLink": "/Series/Building-Apps-with-Node-js/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc17/460958b3-b8ea-4a2f-93ea-af927262fc17/BuildingAppsWithNodeJSM02_960.jpg",
+    "ShowName": "Building Apps with Node.js",
+    "VideoLength": "00:49:54",
+    "VideoTitle": "Building Apps with Node.js: (02) Introduction to Express",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T23:58:51.6470595Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc17/460958b3-b8ea-4a2f-93ea-af927262fc17/BuildingAppsWithNodeJSM02_mid.mp4",
+    "Description": "Express is one of the most popular web frameworks used with Node.js. Get the basics, and watch how to create a basic REST API using Node.js with Express. [06:32] - What is Express[11:39] - Installing "
+  },
+  {
+    "VideoId": "0db06e54-ac4b-4228-8d6f-a3ca0123da2e",
+    "DataApi": "/Entries(guid'0db06e54-ac4b-4228-8d6f-a3ca0123da2e')/",
+    "VideoPageLink": "/Series/Building-Apps-with-Node-js/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4d74/9cefe09c-1557-4c5e-a9e5-08f6e3944d74/BuildingAppsWithNodeJSM03_960.jpg",
+    "ShowName": "Building Apps with Node.js",
+    "VideoLength": "00:53:05",
+    "VideoTitle": "Building Apps with Node.js: (03) Building a Back End",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T23:59:10.7778782Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4d74/9cefe09c-1557-4c5e-a9e5-08f6e3944d74/BuildingAppsWithNodeJSM03_mid.mp4",
+    "Description": "Start to build out the back end for our chat application using MongoDB as the database. Learn about the basics of real-time communication with Socket.IO and saving data with MongoDB. [02:37] - What ar"
+  },
+  {
+    "VideoId": "4aec65ff-f189-4d42-96e3-a3ca0124194c",
+    "DataApi": "/Entries(guid'4aec65ff-f189-4d42-96e3-a3ca0124194c')/",
+    "VideoPageLink": "/Series/Building-Apps-with-Node-js/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4f7e/854ba112-96ed-472b-8398-7e17b9b84f7e/BuildingAppsWithNodeJSM04_960.jpg",
+    "ShowName": "Building Apps with Node.js",
+    "VideoLength": "00:51:13",
+    "VideoTitle": "Building Apps with Node.js: (04) Creating the UI",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T23:59:28.1491198Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4f7e/854ba112-96ed-472b-8398-7e17b9b84f7e/BuildingAppsWithNodeJSM04_mid.mp4",
+    "Description": "Work with Jade templates, alongside Bootstrap, to create a basic user interface for the chat application. [03:21] - Introduction to Jade[21:40] - Using Jade Templates[34:34] - Implementing BootstrapFu"
+  },
+  {
+    "VideoId": "dd9c5f40-11ba-4360-bbb1-a3ca0124505a",
+    "DataApi": "/Entries(guid'dd9c5f40-11ba-4360-bbb1-a3ca0124505a')/",
+    "VideoPageLink": "/Series/Building-Apps-with-Node-js/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9e1c/590a0a04-80f1-4eec-baa4-194edb899e1c/BuildingAppsWithNodeJSM05_960.jpg",
+    "ShowName": "Building Apps with Node.js",
+    "VideoLength": "00:41:52",
+    "VideoTitle": "Building Apps with Node.js: (05) Connecting the UI to the Back End",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T23:59:50.4521504Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9e1c/590a0a04-80f1-4eec-baa4-194edb899e1c/BuildingAppsWithNodeJSM05_mid.mp4",
+    "Description": "Start to bring everything together, as you watch how to connect the user interface to the back end services. [01:19] - Adding Libraries[20:21] - Listening for MessagesFull course outline: Mod 01: Intr"
+  },
+  {
+    "VideoId": "0251542e-1d78-473e-86f4-a3ca01246f87",
+    "DataApi": "/Entries(guid'0251542e-1d78-473e-86f4-a3ca01246f87')/",
+    "VideoPageLink": "/Series/Building-Apps-with-Node-js/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0a28/5ee1e670-b3b7-4a5f-90d3-6a8c71240a28/BuildingAppsWithNodeJSM06_960.jpg",
+    "ShowName": "Building Apps with Node.js",
+    "VideoLength": "00:51:59",
+    "VideoTitle": "Building Apps with Node.js: (06) Debug and Deploy Node.js on Azure",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-20T23:59:52.9063674Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0a28/5ee1e670-b3b7-4a5f-90d3-6a8c71240a28/BuildingAppsWithNodeJSM06_mid.mp4",
+    "Description": "Find out how to debug a node application on Azure from Visual Studio, and look into deploying. [02:16] - Azure Websites Overview[14:19] - Introduction to the Azure Dashboard[20:39] - Deploying to Azur"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "64307051-2ad7-4ef9-9394-a59b016db11d",
+    "DataApi": "/Entries(guid'64307051-2ad7-4ef9-9394-a59b016db11d')/",
+    "VideoPageLink": "/Blogs/CloudDevWithShahed/Azure-Chat-Moises-Jaramillo-SensiNM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf5d/ac3eff94-f1d6-40b1-abe0-5b6faa6fbf5d/azuremoises_960.jpg",
+    "ShowName": "Cloud Dev With Shahed",
+    "VideoLength": "00:02:56",
+    "VideoTitle": "Azure Chat with Moises Jaramillo of SensiNM",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2016-02-27T22:32:55.6184339Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf5d/ac3eff94-f1d6-40b1-abe0-5b6faa6fbf5d/azuremoises_mid.mp4",
+    "Description": "Blog Post: http://WakeUpAndCode.com/Azure-Chat-Moises-Jaramillo-SensiNM   "
+  },
+  {
+    "VideoId": "ab673c9f-7ed1-45df-886d-a58c017cbc23",
+    "DataApi": "/Entries(guid'ab673c9f-7ed1-45df-886d-a58c017cbc23')/",
+    "VideoPageLink": "/Blogs/CloudDevWithShahed/Create-Azure-VM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2689/0091ce5c-381d-4ff3-ba37-dbe7278c2689/createazurevm_960.jpg",
+    "ShowName": "Cloud Dev With Shahed",
+    "VideoLength": "00:14:39",
+    "VideoTitle": "Create a new VM on Azure",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2016-01-14T02:18:39.0117332Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2689/0091ce5c-381d-4ff3-ba37-dbe7278c2689/createazurevm_mid.mp4",
+    "Description": "Blog Post: http://wakeupandcode.com/create-azure-vm/ Do you need a new server? Are you unsure of how many you may need? Learn how you can create your own Virtual Machine in Microsoft's Azure cloud usi"
+  },
+  {
+    "VideoId": "8df7d923-97bf-49af-ba28-a564017cd750",
+    "DataApi": "/Entries(guid'8df7d923-97bf-49af-ba28-a564017cd750')/",
+    "VideoPageLink": "/Blogs/CloudDevWithShahed/Deploy-Your-Web-Site-Web-App-on-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b3f5/e5116d1b-48b6-43ed-8188-5ea9a0a0b3f5/azurewebdeploy_960.jpg",
+    "ShowName": "Cloud Dev With Shahed",
+    "VideoLength": "00:16:40",
+    "VideoTitle": "Deploy Your Web Site or Web App on Azure",
+    "Author": "shahedC",
+    "UtcDateTimePublished": "2015-12-04T23:28:08.1142447Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b3f5/e5116d1b-48b6-43ed-8188-5ea9a0a0b3f5/azurewebdeploy_mid.mp4",
+    "Description": "Blog post: http://wakeupandcode.com/deploy-your-web-site-web-app-on-azure Learn how you can deploy your Web Site or Web App on Azure, the Microsoft Cloud!"
+  }
+]

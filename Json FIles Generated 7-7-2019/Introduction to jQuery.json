@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "14c7a89b-7a97-4ab9-9cd8-a3d50139e2c3",
+    "DataApi": "/Entries(guid'14c7a89b-7a97-4ab9-9cd8-a3d50139e2c3')/",
+    "VideoPageLink": "/Series/Introduction-to-jQuery/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c39/b2644279-53de-4591-a653-0bb5bbcb3c39/IntroTojQueryM02_960.jpg",
+    "ShowName": "Introduction to jQuery",
+    "VideoLength": "00:44:47",
+    "VideoTitle": "Introduction to jQuery: (02) Selection",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T17:57:01.2891368Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c39/b2644279-53de-4591-a653-0bb5bbcb3c39/IntroTojQueryM02_mid.mp4",
+    "Description": "Arguably the most powerful offering of jQuery over raw JavaScript, at least in the early days, was its ability to select one or more DOM elements using the popular CSS syntax. Take a look at this feat"
+  },
+  {
+    "VideoId": "70163327-44b2-4af3-b6a9-a3d5013a1eb2",
+    "DataApi": "/Entries(guid'70163327-44b2-4af3-b6a9-a3d5013a1eb2')/",
+    "VideoPageLink": "/Series/Introduction-to-jQuery/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b906/c78027fb-3de0-4c7e-832f-7fbf4dd7b906/IntroTojQueryM03_960.jpg",
+    "ShowName": "Introduction to jQuery",
+    "VideoLength": "00:40:57",
+    "VideoTitle": "Introduction to jQuery: (03) Manipulating the DOM",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T17:57:31.749398Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b906/c78027fb-3de0-4c7e-832f-7fbf4dd7b906/IntroTojQueryM03_mid.mp4",
+    "Description": "Learn about selecting the elements you need, and see how to manipulate them.â€‹ [00:57] - Element Manipulation[24:14] - Modifying Attributes[33:41] - Styling and DimensionsFull course outline: Mod 01: j"
+  },
+  {
+    "VideoId": "a26bc7f4-df5b-4099-9f61-a3d5013a66ec",
+    "DataApi": "/Entries(guid'a26bc7f4-df5b-4099-9f61-a3d5013a66ec')/",
+    "VideoPageLink": "/Series/Introduction-to-jQuery/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/933a/651ebfd0-77a3-447f-940e-29623859933a/IntroTojQueryM04_960.jpg",
+    "ShowName": "Introduction to jQuery",
+    "VideoLength": "00:58:34",
+    "VideoTitle": "Introduction to jQuery: (04) Events",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:03:00.6722313Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/933a/651ebfd0-77a3-447f-940e-29623859933a/IntroTojQueryM04_mid.mp4",
+    "Description": "One of the other super helpful features of jQuery is its provision for event handling. See how to tie your code up to user events so that the right thing happens at the right time.â€‹ [06:30] - Attachme"
+  },
+  {
+    "VideoId": "60fdac03-bda6-49e2-a0fd-a3d5013af924",
+    "DataApi": "/Entries(guid'60fdac03-bda6-49e2-a0fd-a3d5013af924')/",
+    "VideoPageLink": "/Series/Introduction-to-jQuery/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/de84/1b0eec4d-788f-442f-9b29-3f69fc33de84/IntroTojQueryM05_960.jpg",
+    "ShowName": "Introduction to jQuery",
+    "VideoLength": "00:27:19",
+    "VideoTitle": "Introduction to jQuery: (05) Effects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:03:19.9904977Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/de84/1b0eec4d-788f-442f-9b29-3f69fc33de84/IntroTojQueryM05_mid.mp4",
+    "Description": "Effects give jQuery-enabled apps a little bit of jazz. Get the details on effects, like fades, slides, and other animations.â€‹ [03:26] - Basic Effects[08:20] - Fading[11:41] - Sliding[13:37] - Custom E"
+  },
+  {
+    "VideoId": "ebf4b7ad-e9ef-4c8c-b379-a3d5013b3fd4",
+    "DataApi": "/Entries(guid'ebf4b7ad-e9ef-4c8c-b379-a3d5013b3fd4')/",
+    "VideoPageLink": "/Series/Introduction-to-jQuery/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/03b0/3ac5c264-043f-4ffd-b2ee-422f39ba03b0/IntroTojQueryM06_960.jpg",
+    "ShowName": "Introduction to jQuery",
+    "VideoLength": "00:50:57",
+    "VideoTitle": "Introduction to jQuery: (06) Ajax and Async",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:03:43.3799428Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/03b0/3ac5c264-043f-4ffd-b2ee-422f39ba03b0/IntroTojQueryM06_mid.mp4",
+    "Description": "Modern web apps don't just do a fetch and then sit there. There are often a lot of behind-the-scenes calls to web services and other online content. Take a look at how jQuery covers this case.â€‹ [04:04"
+  },
+  {
+    "VideoId": "be44e971-4e92-4e1a-adbf-a3d5013b972a",
+    "DataApi": "/Entries(guid'be44e971-4e92-4e1a-adbf-a3d5013b972a')/",
+    "VideoPageLink": "/Series/Introduction-to-jQuery/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5740/8baddcc0-2189-492d-a063-8157eeef5740/IntroTojQueryM07_960.jpg",
+    "ShowName": "Introduction to jQuery",
+    "VideoLength": "00:30:51",
+    "VideoTitle": "Introduction to jQuery: (07) Libraries",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-11-01T18:04:04.879978Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5740/8baddcc0-2189-492d-a063-8157eeef5740/IntroTojQueryM07_mid.mp4",
+    "Description": "jQuery is obviously not the only library out there and may not be the right tool for the job. If you're wondering whether you should use it and curious about what other libraries it works well with, b"
+  }
+]

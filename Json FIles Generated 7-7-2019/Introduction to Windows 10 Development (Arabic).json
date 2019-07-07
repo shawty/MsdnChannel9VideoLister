@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "454c4af9-982f-463f-b9e1-a54c0088b827",
+    "DataApi": "/Entries(guid'454c4af9-982f-463f-b9e1-a54c0088b827')/",
+    "VideoPageLink": "/Series/Windows-10-Development-Arabic/Data-Binding-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/03c7/d6c86c1a-47b3-46b3-82c0-756fe12303c7/Databinding_960.jpg",
+    "ShowName": "Introduction to Windows 10 Development (Arabic)",
+    "VideoLength": "00:36:45",
+    "VideoTitle": "Data Binding (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T13:31:24.8706109Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/03c7/d6c86c1a-47b3-46b3-82c0-756fe12303c7/Databinding_mid.mp4",
+    "Description": "Explore data binding within a XAML-based UWP app, starting out with basic data binding and then looking into some new features and techniques, like compiled binding, available with Visual Studio 2015."
+  },
+  {
+    "VideoId": "38323cad-6d86-49a2-89da-a54c0088573b",
+    "DataApi": "/Entries(guid'38323cad-6d86-49a2-89da-a54c0088573b')/",
+    "VideoPageLink": "/Series/Windows-10-Development-Arabic/XAML-Controls-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c96/80d8a207-b35f-44ff-977c-98fb6e443c96/XAMLcontrols_960.jpg",
+    "ShowName": "Introduction to Windows 10 Development (Arabic)",
+    "VideoLength": "01:07:20",
+    "VideoTitle": "XAML Controls (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T13:31:25.8974452Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c96/80d8a207-b35f-44ff-977c-98fb6e443c96/XAMLcontrols_mid.mp4",
+    "Description": "Investigate how XAML controls are used in a UWP app to accomplish your Windows 10 design considerations, including the new RelativePanel and SpliView controls. "
+  },
+  {
+    "VideoId": "ccf6ea06-4b85-4e0f-9215-a54c00882858",
+    "DataApi": "/Entries(guid'ccf6ea06-4b85-4e0f-9215-a54c00882858')/",
+    "VideoPageLink": "/Series/Windows-10-Development-Arabic/Introduction-to-UWP-Arabic",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/12d1/2c1656d5-06d5-43b9-87e2-bb6064a912d1/Introwindows10dev_960.jpg",
+    "ShowName": "Introduction to Windows 10 Development (Arabic)",
+    "VideoLength": "00:32:00",
+    "VideoTitle": "Introduction to UWP (Arabic)",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-12T13:31:30.7168002Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/12d1/2c1656d5-06d5-43b9-87e2-bb6064a912d1/Introwindows10dev_mid.mp4",
+    "Description": "Take a look at how Windows 10 brings a single platform experience to many different devices and how Windows tooling and .NET Native provide developers with a great opportunity to create amazing apps. "
+  }
+]

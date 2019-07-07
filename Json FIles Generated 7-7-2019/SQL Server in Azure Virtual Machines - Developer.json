@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "8875dfe5-da10-4100-8e68-a32a0112db88",
+    "DataApi": "/Entries(guid'8875dfe5-da10-4100-8e68-a32a0112db88')/",
+    "VideoPageLink": "/Series/SQL-Server-in-Azure-Virtual-Machines-Developer/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e55e/313474a0-6cbf-4e57-b3c6-ab9152b0e55e/SQLServerInAzureVMDeveloperM02_960.jpg",
+    "ShowName": "SQL Server in Azure Virtual Machines - Developer",
+    "VideoLength": "00:40:04",
+    "VideoTitle": "SQL Server in Azure Virtual Machines - Developer: (02) Application Patterns for SQL Server in Azure Virtual Machines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-13T22:10:11.3794442Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e55e/313474a0-6cbf-4e57-b3c6-ab9152b0e55e/SQLServerInAzureVMDeveloperM02_mid.mp4",
+    "Description": "To have a powerful app, it needs to scale. In this session learn best practices on scaling and visual states and localization. [00:05] - Fundamentals[15:49] - Common n-tier application patterns for SQ"
+  },
+  {
+    "VideoId": "49306143-4963-4b01-ace0-a32a01131b88",
+    "DataApi": "/Entries(guid'49306143-4963-4b01-ace0-a32a01131b88')/",
+    "VideoPageLink": "/Series/SQL-Server-in-Azure-Virtual-Machines-Developer/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/33aa/e9ae542f-749a-4b22-b0ca-85b6db0a33aa/SQLServerInAzureVMDeveloperM03_960.jpg",
+    "ShowName": "SQL Server in Azure Virtual Machines - Developer",
+    "VideoLength": "00:42:58",
+    "VideoTitle": "SQL Server in Azure Virtual Machines - Developer: (03) Development Strategies for SQL Server in Azure Virtual Machines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-13T22:10:26.1347094Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/33aa/e9ae542f-749a-4b22-b0ca-85b6db0a33aa/SQLServerInAzureVMDeveloperM03_mid.mp4",
+    "Description": "Explore development best practices for SQL Server in Azure VMs, and gain practical experience on how to implement a database application. [03:01] - Development Strategies[11:14] - Lab: ASPNET applicat"
+  }
+]

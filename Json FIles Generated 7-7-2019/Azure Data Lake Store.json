@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "30e08698-6af0-4723-8c11-a78a014245ff",
+    "DataApi": "/Entries(guid'30e08698-6af0-4723-8c11-a78a014245ff')/",
+    "VideoPageLink": "/Shows/Azure-Data-Lake-Store/Uncover-insights-rapidly-from-petabytes-of-data-in-Azure-Data-Lake-Store-with-SQL-Data-Warehouse-Pol",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0517/79b1103a-1f79-4e55-91c0-3b5440910517/SQLPolybaseSupportforADLS_960.jpg",
+    "ShowName": "Azure Data Lake Store",
+    "VideoLength": "00:16:59",
+    "VideoTitle": "Uncover insights rapidly from petabytes of data in Azure Data Lake Store with SQL Data Warehouse PolyBase support",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2017-06-06T19:51:55.3701523Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0517/79b1103a-1f79-4e55-91c0-3b5440910517/SQLPolybaseSupportforADLS_mid.mp4",
+    "Description": "Uncover insights rapidly from petabytes of data in Azure Data Lake Store with SQL Data Warehouse PolyBase support â€“ Azure Data Lake &amp; Azure HDInsight Blog Most common patterns using Azure Data Lak"
+  }
+]

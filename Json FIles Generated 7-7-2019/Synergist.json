@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "b1a0fc8b-1413-4946-880e-9dea00a19f4f",
+    "DataApi": "/Entries(guid'b1a0fc8b-1413-4946-880e-9dea00a19f4f')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-8-Preparing-the-Watch-for-Submission",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/6/5/4/2/5/5/Ball8_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:07:47",
+    "VideoTitle": "Ball Watch Tutorial 8: Preparing the Watch for Submission",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:14:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/6/5/4/2/5/5/Ball8_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this tutorial you will learn how to prepare your watch for submission to the Ball Silverlight Contest. \n\nDownload and install Microsoft Expression Studio 4 (inclu"
+  },
+  {
+    "VideoId": "2d346d18-d6f0-48d3-b51f-9dea00a1a3b8",
+    "DataApi": "/Entries(guid'2d346d18-d6f0-48d3-b51f-9dea00a1a3b8')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-5-Creating-Concentric-Circles",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/2/5/4/2/5/5/Ball5_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:02:57",
+    "VideoTitle": "Ball Watch Tutorial 5: Creating Concentric Circles",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:13:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/2/5/4/2/5/5/Ball5_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this tutorial you see how to use a repeating radial gradient to create concentric circles on the watch face. \n\nDownload and install Microsoft Expression Studio 4 "
+  },
+  {
+    "VideoId": "9066cb98-21e9-47f7-bbb4-9dea00a1a23a",
+    "DataApi": "/Entries(guid'9066cb98-21e9-47f7-bbb4-9dea00a1a23a')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-6-Animating-Day-and-Night",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/5/4/2/5/5/Ball6_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:10:59",
+    "VideoTitle": "Ball Watch Tutorial 6: Animating Day and Night",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:13:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/5/4/2/5/5/Ball6_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this tutorial, you will see how to animate day and night modes using the Visual State Manager as well as how to use visual effects to simulate glowing visual elemen"
+  },
+  {
+    "VideoId": "75de2842-03a3-4621-b491-9dea00a1a0bc",
+    "DataApi": "/Entries(guid'75de2842-03a3-4621-b491-9dea00a1a0bc')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-7-Binding-the-Date-Indicator",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/5/4/2/5/5/Ball7_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:01:48",
+    "VideoTitle": "Ball Watch Tutorial 7: Binding the Date Indicator",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:13:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/5/4/2/5/5/Ball7_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this tutorial you learn how to use template binding to set the watch's date indicator. \n\nDownload and install Microsoft Expression Studio 4 (includes Expression B"
+  },
+  {
+    "VideoId": "c77c71b7-68a3-4368-94d4-9dea00a1a515",
+    "DataApi": "/Entries(guid'c77c71b7-68a3-4368-94d4-9dea00a1a515')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-4-Using-an-Dash-Pattern-for-Second-Marks",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/6/0/1/5/5/Ball4_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:06:01",
+    "VideoTitle": "Ball Watch Tutorial 4: Using an Dash Pattern for Second Marks",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:12:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/6/0/1/5/5/Ball4_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this tutorial you will see how to use an ellipse with a dash pattern to draw the second marks on the watch face. \n\nDownload and install Microsoft Expression Studi"
+  },
+  {
+    "VideoId": "2f53d61f-eb42-442b-b6d1-9dea00a1a687",
+    "DataApi": "/Entries(guid'2f53d61f-eb42-442b-b6d1-9dea00a1a687')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-3-Animating-the-Second-Hand",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8/5/0/1/5/5/Ball3_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:07:43",
+    "VideoTitle": "Ball Watch Tutorial 3: Animating the Second Hand",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:10:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8/5/0/1/5/5/Ball3_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this demonstration you will see how to animate the second hand so that the watch tells the correct time. \n\nDownload and install Microsoft Expression Studio 4 (inc"
+  },
+  {
+    "VideoId": "1ef2589f-e4d0-433a-9b5a-9dea00a1a800",
+    "DataApi": "/Entries(guid'1ef2589f-e4d0-433a-9b5a-9dea00a1a800')/",
+    "VideoPageLink": "/Blogs/Synergist/Ball-Watch-Tutorial-2-Tracing-Visual-Elements",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/5/5/0/1/5/5/Ball2_512_ch9.png",
+    "ShowName": "Synergist",
+    "VideoLength": "00:08:31",
+    "VideoTitle": "Ball Watch Tutorial 2: Tracing Visual Elements",
+    "Author": "Michael S. Scherotter",
+    "UtcDateTimePublished": "2010-06-07T18:08:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/5/5/0/1/5/5/Ball2_ch9.mp4",
+    "Description": "\nBall Silverlight Design ContestIn this tutorial you will learn how to trace the visual elements that make up a watch. \n\nDownload and install Microsoft Expression Studio 4 (includes Expression Blen"
+  }
+]

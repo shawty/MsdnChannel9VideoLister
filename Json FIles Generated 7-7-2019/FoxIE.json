@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "125fa1c8-c5e5-48b7-8247-a09a01387885",
+    "DataApi": "/Entries(guid'125fa1c8-c5e5-48b7-8247-a09a01387885')/",
+    "VideoPageLink": "/Series/Foxie/Web-Tools-and-Browser-Testing",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c600/9bf47209-f66c-452b-9782-ab0b0f30c600/webtools3apg_512.jpg",
+    "ShowName": "FoxIE",
+    "VideoLength": "00:27:12",
+    "VideoTitle": "Web Tools and Browser Testing",
+    "Author": "Andy Gammuto",
+    "UtcDateTimePublished": "2012-07-27T03:04:02.4485109Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c600/9bf47209-f66c-452b-9782-ab0b0f30c600/webtools3apg_mid.mp4",
+    "Description": "There are several different browsers in widespread use today and multiple versions of those browsers can create unique challenges for web developers. In this video Rey and Chris discuss how to create "
+  },
+  {
+    "VideoId": "d076ba05-9f5f-4d4e-96f2-a09a01519025",
+    "DataApi": "/Entries(guid'd076ba05-9f5f-4d4e-96f2-a09a01519025')/",
+    "VideoPageLink": "/Series/Foxie/The-Great-Divide",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e56c/8687c7b2-4907-4d09-a5fe-e5822e8be56c/greatdivide3_512.jpg",
+    "ShowName": "FoxIE",
+    "VideoLength": "00:16:04",
+    "VideoTitle": "The Great Divide: Coping with Modern and Legacy Browsers",
+    "Author": "Andy Gammuto",
+    "UtcDateTimePublished": "2012-07-27T03:06:14.4634512Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e56c/8687c7b2-4907-4d09-a5fe-e5822e8be56c/greatdivide3_mid.mp4",
+    "Description": "Our FoxIE web devs discuss techniques for supporting modern browsers and not leaving legacy users totally behind. They also address the risks and alternatives to common feature detection methods and b"
+  },
+  {
+    "VideoId": "73bf3b5c-6f8c-4cdd-8962-a09a0154648b",
+    "DataApi": "/Entries(guid'73bf3b5c-6f8c-4cdd-8962-a09a0154648b')/",
+    "VideoPageLink": "/Series/Foxie/Implementing-Modern-Web-Standards",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8338/e02ede62-177f-4a25-a383-5a7662f98338/impwebstds2_512.jpg",
+    "ShowName": "FoxIE",
+    "VideoLength": "00:25:00",
+    "VideoTitle": "Implementing Modern Web Standards",
+    "Author": "Andy Gammuto",
+    "UtcDateTimePublished": "2012-07-27T03:10:35.4729834Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8338/e02ede62-177f-4a25-a383-5a7662f98338/impwebstds2_mid.mp4",
+    "Description": "Rey and Chris talk about the complexity of modern web standards and practical approaches to putting them into practice. "
+  },
+  {
+    "VideoId": "3e621717-fc00-438e-844c-a09a0159313b",
+    "DataApi": "/Entries(guid'3e621717-fc00-438e-844c-a09a0159313b')/",
+    "VideoPageLink": "/Series/Foxie/HTML5-and-Modern-Web-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f81a/dabbf0fd-70d5-425e-ae5f-de2e39b1f81a/modweb1ag_512.jpg",
+    "ShowName": "FoxIE",
+    "VideoLength": "00:25:59",
+    "VideoTitle": "HTML5 and Modern Web Development",
+    "Author": "Andy Gammuto",
+    "UtcDateTimePublished": "2012-07-27T03:22:49.1262724Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f81a/dabbf0fd-70d5-425e-ae5f-de2e39b1f81a/modweb1ag_mid.mp4",
+    "Description": "Rey and Chris discuss the exciting opportunities HTML5 provides and addressing the challenges of today's mobile and desktop devices. Also, an approach for modernizing the user experience using progres"
+  }
+]

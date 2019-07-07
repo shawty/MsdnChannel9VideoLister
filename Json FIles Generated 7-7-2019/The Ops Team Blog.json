@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "e572fcf8-8ba7-4d63-b214-a5cc012a631d",
+    "DataApi": "/Entries(guid'e572fcf8-8ba7-4d63-b214-a5cc012a631d')/",
+    "VideoPageLink": "/Blogs/The-Ops-Team-Blog/The-Microsoft-Information-Technology-Implementer-Service-Operation-Support-Staff-Team-L300-400-Techn",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "370d4368-ff76-4124-abbd-a5fd0144af34",
+    "DataApi": "/Entries(guid'370d4368-ff76-4124-abbd-a5fd0144af34')/",
+    "VideoPageLink": "/Blogs/The-Ops-Team-Blog/Build-on-your-IT-knowledge",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "f91605e8-aa4b-42f1-8f99-a5fd01451bdd",
+    "DataApi": "/Entries(guid'f91605e8-aa4b-42f1-8f99-a5fd01451bdd')/",
+    "VideoPageLink": "/Blogs/The-Ops-Team-Blog/Learn-foundational-IT-skills",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "d0f0bb78-8818-4702-803f-a5b700494048",
+    "DataApi": "/Entries(guid'd0f0bb78-8818-4702-803f-a5b700494048')/",
+    "VideoPageLink": "/Blogs/The-Ops-Team-Blog/Welcome-to-The-Ops-Team",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

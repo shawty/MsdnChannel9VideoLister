@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "f5f3203d-caa9-4413-88c0-a266016ca4c5",
+    "DataApi": "/Entries(guid'f5f3203d-caa9-4413-88c0-a266016ca4c5')/",
+    "VideoPageLink": "/Series/Implement-Data-Warehouse/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ed9/e8a4df17-927c-4994-8679-3d5f44068ed9/ImplementDataWarehouseM02_960.jpg",
+    "ShowName": "Implementing a Data Warehouse with SQL Server",
+    "VideoLength": "00:50:24",
+    "VideoTitle": "Implementing a Data Warehouse with SQL Server: (02) Data Flow - Extract Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T16:13:25.7684905Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ed9/e8a4df17-927c-4994-8679-3d5f44068ed9/ImplementDataWarehouseM02_mid.mp4",
+    "Description": "A key process in the development of a data warehouse is the extraction of data from your operational systems. In this module, you'll hear about the methods available to you and the advantages and disa"
+  },
+  {
+    "VideoId": "a0d6cd6a-384b-471c-b6d7-a266016cf117",
+    "DataApi": "/Entries(guid'a0d6cd6a-384b-471c-b6d7-a266016cf117')/",
+    "VideoPageLink": "/Series/Implement-Data-Warehouse/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/671e/006b6443-3480-40f7-aae0-04d2989b671e/ImplementDataWarehouseM03_960.jpg",
+    "ShowName": "Implementing a Data Warehouse with SQL Server",
+    "VideoLength": "00:57:13",
+    "VideoTitle": "Implementing a Data Warehouse with SQL Server: (03) Data Flow - Transform Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T16:13:59.9769173Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/671e/006b6443-3480-40f7-aae0-04d2989b671e/ImplementDataWarehouseM03_mid.mp4",
+    "Description": "Is data ever in the form that you need it to be? Most data warehouse projects will require at least some level of transformation between the source and destination. In this module you'll learn what da"
+  },
+  {
+    "VideoId": "50b6508a-49a8-47db-ba0e-a266016d3ce2",
+    "DataApi": "/Entries(guid'50b6508a-49a8-47db-ba0e-a266016d3ce2')/",
+    "VideoPageLink": "/Series/Implement-Data-Warehouse/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/15b6/5a936750-d1b8-4439-a214-6be436ee15b6/ImplementDataWarehouseM04_960.jpg",
+    "ShowName": "Implementing a Data Warehouse with SQL Server",
+    "VideoLength": "00:50:20",
+    "VideoTitle": "Implementing a Data Warehouse with SQL Server: (04) Control Flow",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T16:14:49.2494754Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/15b6/5a936750-d1b8-4439-a214-6be436ee15b6/ImplementDataWarehouseM04_mid.mp4",
+    "Description": "The process of loading data into a data warehouse is typically a complex process with many steps and dependencies. This module teaches you how to build these complex workflows and how to define the de"
+  },
+  {
+    "VideoId": "f03e9ff6-97d2-4dab-a7f9-a266016d8c1b",
+    "DataApi": "/Entries(guid'f03e9ff6-97d2-4dab-a7f9-a266016d8c1b')/",
+    "VideoPageLink": "/Series/Implement-Data-Warehouse/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a58b/bb127a88-3bb2-422a-af4e-e6c50692a58b/ImplementDataWarehouseM05_960.jpg",
+    "ShowName": "Implementing a Data Warehouse with SQL Server",
+    "VideoLength": "00:54:08",
+    "VideoTitle": "Implementing a Data Warehouse with SQL Server: (05) Configure and Deploy SSIS",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T16:15:10.1236317Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a58b/bb127a88-3bb2-422a-af4e-e6c50692a58b/ImplementDataWarehouseM05_mid.mp4",
+    "Description": "This module covers development through testing into production. Learn how to configure your projects to easily manage the transitions from one environment to another with a minimum of manual intervent"
+  },
+  {
+    "VideoId": "578344a3-2b0f-4357-bfcf-a266016dd59d",
+    "DataApi": "/Entries(guid'578344a3-2b0f-4357-bfcf-a266016dd59d')/",
+    "VideoPageLink": "/Series/Implement-Data-Warehouse/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eedc/27fe46a2-5514-4417-845b-1d3f3644eedc/ImplementDataWarehouseM06_960.jpg",
+    "ShowName": "Implementing a Data Warehouse with SQL Server",
+    "VideoLength": "00:52:53",
+    "VideoTitle": "Implementing a Data Warehouse with SQL Server: (06) Manage Enterprise Data",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-30T16:15:36.6020655Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eedc/27fe46a2-5514-4417-845b-1d3f3644eedc/ImplementDataWarehouseM06_mid.mp4",
+    "Description": "What is the biggest fairy tale in IT? My data is clean!! In this module, learn how Data Quality Services and Master Data Services can provide you with a solution that has a single source of validated "
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "43dba51e-b972-4908-8bd1-a33a00fdcd51",
+    "DataApi": "/Entries(guid'43dba51e-b972-4908-8bd1-a33a00fdcd51')/",
+    "VideoPageLink": "/Series/Introduction-to-Microsoft-Dynamics-Marketing/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/696e/f1e2eb3d-a63a-4023-8e14-803883a6696e/IntroductionToMicrosoftDynamicsMarketingM01_960.jpg",
+    "ShowName": "Introduction to Microsoft Dynamics Marketing",
+    "VideoLength": "00:12:41",
+    "VideoTitle": "Introduction to Microsoft Dynamics Marketing: (01) Introduction to Microsoft Dynamics Marketing",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-29T18:50:31.5750431Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/696e/f1e2eb3d-a63a-4023-8e14-803883a6696e/IntroductionToMicrosoftDynamicsMarketingM01_mid.mp4",
+    "Description": "You'll be able to review the look and feel and a couple features of Microsoft Dynamics Marketing.  You'll also see how to integrate each of these areas into one another to form a cohesive marketing ec"
+  }
+]

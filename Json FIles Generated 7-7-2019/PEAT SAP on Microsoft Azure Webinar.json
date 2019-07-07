@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "c5643182-193f-4f14-be42-a3bd00562ae2",
+    "DataApi": "/Entries(guid'c5643182-193f-4f14-be42-a3bd00562ae2')/",
+    "VideoPageLink": "/Blogs/PEAT-SAP-on-Microsoft-Azure-Webinar/Sales-stream-SAP-NetWeaver-on-Windows-Azure-Virtual-Machine",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44a9/a16764e4-80a2-4e7b-8f46-0badc23b44a9/SAPNetWeaveronWindowsAzureVirtualMachine_960.jpg",
+    "ShowName": "PEAT SAP on Microsoft Azure Webinar",
+    "VideoLength": "00:56:40",
+    "VideoTitle": "Sales stream SAP NetWeaver on Windows Azure Virtual Machine",
+    "Author": "PEATwebcasts",
+    "UtcDateTimePublished": "2014-10-07T07:45:09.987614Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44a9/a16764e4-80a2-4e7b-8f46-0badc23b44a9/SAPNetWeaveronWindowsAzureVirtualMachine_mid.mp4",
+    "Description": "Partner Enterprise Architect Team (PEAT) delivered this readiness programs to drive increased business value for customers and partners through a series of webcasts to build their SAP on Azure practic"
+  },
+  {
+    "VideoId": "347ac87a-d513-4d29-8059-a3bd005be414",
+    "DataApi": "/Entries(guid'347ac87a-d513-4d29-8059-a3bd005be414')/",
+    "VideoPageLink": "/Blogs/PEAT-SAP-on-Microsoft-Azure-Webinar/Sales-stream-Unleash-the-Power-of-SAP-on-the-new-Microsoft-Cloud-Platform",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1089/f14ffa89-d975-4fbd-a880-57523e1d1089/SalesstreamUnleashthePowerofSAPonthenewMicrosoftC_960.jpg",
+    "ShowName": "PEAT SAP on Microsoft Azure Webinar",
+    "VideoLength": "01:00:13",
+    "VideoTitle": "Sales stream Unleash the Power of SAP on the new Microsoft Cloud Platform",
+    "Author": "PEATwebcasts",
+    "UtcDateTimePublished": "2014-10-07T07:42:49.4686567Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1089/f14ffa89-d975-4fbd-a880-57523e1d1089/SalesstreamUnleashthePowerofSAPonthenewMicrosoftC_mid.mp4",
+    "Description": "Partner Enterprise Architect Team (PEAT) delivered this readiness programs to drive increased business value for customers and partners through a series of webcasts to build their SAP on Azure practic"
+  },
+  {
+    "VideoId": "feefd669-71a7-4ec6-bb0e-a3bd005eb7ab",
+    "DataApi": "/Entries(guid'feefd669-71a7-4ec6-bb0e-a3bd005eb7ab')/",
+    "VideoPageLink": "/Blogs/PEAT-SAP-on-Microsoft-Azure-Webinar/Technical-Stream-Architecting-SAP-NetWeaver-based-Applications-on-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b2f0/cd0cb411-81f7-4d70-be40-0c7cf945b2f0/TechnicalStreamArchitectingSAPNetWeaverbasedAppli_960.jpg",
+    "ShowName": "PEAT SAP on Microsoft Azure Webinar",
+    "VideoLength": "00:58:01",
+    "VideoTitle": "Technical Stream Architecting SAP NetWeaver based Applications on Azure",
+    "Author": "PEATwebcasts",
+    "UtcDateTimePublished": "2014-10-07T07:41:44.19547Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b2f0/cd0cb411-81f7-4d70-be40-0c7cf945b2f0/TechnicalStreamArchitectingSAPNetWeaverbasedAppli_mid.mp4",
+    "Description": "Partner Enterprise Architect Team (PEAT) delivered this readiness programs to drive increased business value for customers and partners through a series of webcasts to build their SAP on Azure practic"
+  },
+  {
+    "VideoId": "1397adee-38ac-46bf-9188-a3bd0038174d",
+    "DataApi": "/Entries(guid'1397adee-38ac-46bf-9188-a3bd0038174d')/",
+    "VideoPageLink": "/Blogs/PEAT-SAP-on-Microsoft-Azure-Webinar/PEAT-SAP-on-Microsoft-Azure-Webinar",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ca71/1bfab7f5-5c4b-4e99-a4f2-272f320eca71/AzureReadiness_960.jpg",
+    "ShowName": "PEAT SAP on Microsoft Azure Webinar",
+    "VideoLength": "00:54:13",
+    "VideoTitle": "Azure Readiness Azure Fundamentals",
+    "Author": "PEATwebcasts",
+    "UtcDateTimePublished": "2014-10-07T03:32:53.7296348Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ca71/1bfab7f5-5c4b-4e99-a4f2-272f320eca71/AzureReadiness_mid.mp4",
+    "Description": "Partner Enterprise Architect Team (PEAT) delivered this readiness programs to drive increased business value for customers and partners through a series of webcasts to build their SAP on Azure practic"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "34c28a2e-7a84-4aa6-8569-a3400163e346",
+    "DataApi": "/Entries(guid'34c28a2e-7a84-4aa6-8569-a3400163e346')/",
+    "VideoPageLink": "/Series/Moving-to-Hybrid-Cloud-with-Microsoft-Azure/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e5bf/26426801-e6e0-4246-b984-739468ace5bf/MovingtoHybridCloudwithMicrosoftAzureM02_960.jpg",
+    "ShowName": "Moving to Hybrid Cloud with Microsoft Azure",
+    "VideoLength": "00:50:07",
+    "VideoTitle": "Moving to Hybrid Cloud with Microsoft Azure: (02) Cloud Storage",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-05T15:22:27.3200998Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e5bf/26426801-e6e0-4246-b984-739468ace5bf/MovingtoHybridCloudwithMicrosoftAzureM02_mid.mp4",
+    "Description": "In this module, you will learn how to provision Microsoft Azure Storage, and implement Hybrid Cloud Storage Scenarios, such as tiered storage and cloud-integrated backups. [00:43] - Persistent Cloud S"
+  },
+  {
+    "VideoId": "c4f5c338-56dc-402f-94e5-a340016427de",
+    "DataApi": "/Entries(guid'c4f5c338-56dc-402f-94e5-a340016427de')/",
+    "VideoPageLink": "/Series/Moving-to-Hybrid-Cloud-with-Microsoft-Azure/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6c38/ec9be7a2-0fb7-4cc6-86dd-35438aa46c38/MovingtoHybridCloudwithMicrosoftAzureM03_960.jpg",
+    "ShowName": "Moving to Hybrid Cloud with Microsoft Azure",
+    "VideoLength": "00:31:09",
+    "VideoTitle": "Moving to Hybrid Cloud with Microsoft Azure: (03) Virtual Networks",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-05T15:22:51.4498024Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6c38/ec9be7a2-0fb7-4cc6-86dd-35438aa46c38/MovingtoHybridCloudwithMicrosoftAzureM03_mid.mp4",
+    "Description": "In this module, you will learn how to implement Microsoft Azure Virtual Networks and cross-premises Hybrid Cloud network connections between your on-premises datacenter and an Azure Virtual Network. ["
+  },
+  {
+    "VideoId": "a219c671-605c-4652-bc91-a34001646ff0",
+    "DataApi": "/Entries(guid'a219c671-605c-4652-bc91-a34001646ff0')/",
+    "VideoPageLink": "/Series/Moving-to-Hybrid-Cloud-with-Microsoft-Azure/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5115/eee32a88-507f-4d65-8e7b-f9ed35db5115/MovingtoHybridCloudwithMicrosoftAzureM04_960.jpg",
+    "ShowName": "Moving to Hybrid Cloud with Microsoft Azure",
+    "VideoLength": "01:26:27",
+    "VideoTitle": "Moving to Hybrid Cloud with Microsoft Azure: (04) Virtual Machines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-05T15:23:08.1852271Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5115/eee32a88-507f-4d65-8e7b-f9ed35db5115/MovingtoHybridCloudwithMicrosoftAzureM04_mid.mp4",
+    "Description": "In this module, you will learn the steps for provisioning Hybrid Cloud application scenarios that involve multiple virtual machines, cloud services, load-balancing, high availability and automation.  "
+  },
+  {
+    "VideoId": "e6fc46f6-2837-406f-ac34-a3400164c927",
+    "DataApi": "/Entries(guid'e6fc46f6-2837-406f-ac34-a3400164c927')/",
+    "VideoPageLink": "/Series/Moving-to-Hybrid-Cloud-with-Microsoft-Azure/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a654/dde4dddf-46f3-4496-ba6b-4dc76793a654/MovingtoHybridCloudwithMicrosoftAzureM05_960.jpg",
+    "ShowName": "Moving to Hybrid Cloud with Microsoft Azure",
+    "VideoLength": "00:26:20",
+    "VideoTitle": "Moving to Hybrid Cloud with Microsoft Azure: (05) Monitoring Public and Hybrid Clouds",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-05T15:23:33.5036292Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a654/dde4dddf-46f3-4496-ba6b-4dc76793a654/MovingtoHybridCloudwithMicrosoftAzureM05_mid.mp4",
+    "Description": "In this module, you will learn how to proactively monitor Azure Hybrid Cloud resources by leveraging existing on-premises management tools, the Azure Management Portal, and System Center 2012 R2 Opera"
+  },
+  {
+    "VideoId": "0e4fb5fc-61e6-4252-adef-a34001650363",
+    "DataApi": "/Entries(guid'0e4fb5fc-61e6-4252-adef-a34001650363')/",
+    "VideoPageLink": "/Series/Moving-to-Hybrid-Cloud-with-Microsoft-Azure/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e27b/3c65cc5c-3851-4f5b-b481-7685df8be27b/MovingtoHybridCloudwithMicrosoftAzureM06_960.jpg",
+    "ShowName": "Moving to Hybrid Cloud with Microsoft Azure",
+    "VideoLength": "00:26:17",
+    "VideoTitle": "Moving to Hybrid Cloud with Microsoft Azure: (06) Microsoft Azure Active Directory",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-06-05T15:23:59.1612068Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e27b/3c65cc5c-3851-4f5b-b481-7685df8be27b/MovingtoHybridCloudwithMicrosoftAzureM06_mid.mp4",
+    "Description": "In this module, you will learn how to implement Azure Active Directory to provide Hybrid Cloud identity management and multi-factor authentication for on-premises applications, 3rd party SaaS applicat"
+  }
+]

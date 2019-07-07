@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "bfc8e7b3-b2d1-4ca9-b5d5-a604007ce771",
+    "DataApi": "/Entries(guid'bfc8e7b3-b2d1-4ca9-b5d5-a604007ce771')/",
+    "VideoPageLink": "/Blogs/AdamsGarage/Build-Announcements-Xamarin-Joins-Microsoft",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4acf/1d06c797-80ee-4502-92a7-6fe508294acf/adamsgarage3_960.jpg",
+    "ShowName": "Adams Garage",
+    "VideoLength": "00:54:42",
+    "VideoTitle": "Build Announcements - Xamarin Joins Microsoft",
+    "Author": "Adam Tuliper",
+    "UtcDateTimePublished": "2016-05-19T08:42:20.295526Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4acf/1d06c797-80ee-4502-92a7-6fe508294acf/adamsgarage3_mid.mp4",
+    "Description": "Follow @JamesMontemagno and Follow @AdamTuliper In this episode, I interview James Montemagno from Xamarin. If you haven't heard the exciting news (some of the best news of the year!) Xamarin not only"
+  },
+  {
+    "VideoId": "dcfe2691-f8a5-4446-bbaf-a5e7010d89b3",
+    "DataApi": "/Entries(guid'dcfe2691-f8a5-4446-bbaf-a5e7010d89b3')/",
+    "VideoPageLink": "/Blogs/AdamsGarage/Getting-Started-with-the-HoloLens",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95f1/47d80d89-80eb-4648-8d22-8d2a975c95f1/adamsgarage02_960.jpg",
+    "ShowName": "Adams Garage",
+    "VideoLength": "00:15:17",
+    "VideoTitle": "Getting Started with the HoloLens",
+    "Author": "Adam Tuliper",
+    "UtcDateTimePublished": "2016-04-13T17:03:50.9743664Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95f1/47d80d89-80eb-4648-8d22-8d2a975c95f1/adamsgarage02_mid.mp4",
+    "Description": "Get started now with HoloLens development! The HoloLens team has started shipping dev units to developers in multiple waves. Maybe you haven't ordered one yet or aren't even sure where to start. Tune "
+  },
+  {
+    "VideoId": "d3929027-602f-42d3-a447-a537008238c3",
+    "DataApi": "/Entries(guid'd3929027-602f-42d3-a447-a537008238c3')/",
+    "VideoPageLink": "/Blogs/AdamsGarage/Bower",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4f46/4a971243-ade3-4d39-8056-3356eeb84f46/bower_960.jpg",
+    "ShowName": "Adams Garage",
+    "VideoLength": "00:31:12",
+    "VideoTitle": "Web Workflow Series - Quick Guide to Bower",
+    "Author": "Adam Tuliper",
+    "UtcDateTimePublished": "2015-10-20T17:44:48.4072527Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4f46/4a971243-ade3-4d39-8056-3356eeb84f46/bower_mid.mp4",
+    "Description": "Wanting to learn how Bower works to manage your front end web dependencies like jQuery, Angular, and more? Check out this video as a companion to Bower - Modern Tools for Web Development   "
+  }
+]

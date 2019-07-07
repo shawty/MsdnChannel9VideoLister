@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "1fab2dfb-c7f6-44a7-b4a6-a730015660b1",
+    "DataApi": "/Entries(guid'1fab2dfb-c7f6-44a7-b4a6-a730015660b1')/",
+    "VideoPageLink": "/Series/Cortana-Intelligence-Suite/Real-world-usage-of-the-Cortana-Intelligence-Suite",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5e20/c215b4bb-0013-4309-acb0-4b155cf75e20/RealworldusageoftheCortanaIntelligenceSuite_960.jpg",
+    "ShowName": "Cortana Intelligence Suite",
+    "VideoLength": "00:04:51",
+    "VideoTitle": "Real world usage of the Cortana Intelligence Suite",
+    "Author": "sushmav",
+    "UtcDateTimePublished": "2017-03-09T18:24:07.8030321Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5e20/c215b4bb-0013-4309-acb0-4b155cf75e20/RealworldusageoftheCortanaIntelligenceSuite_mid.mp4",
+    "Description": "In this video, Chris Testa-O'Neill meets up with Oliver and Tillman from oh22data to discuss how they are using the Cortana Intelligence Suite to provide real-world solutions in the world of manufactu"
+  }
+]

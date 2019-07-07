@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "febd41c4-eca9-47c0-a4d5-a3f50154898f",
+    "DataApi": "/Entries(guid'febd41c4-eca9-47c0-a4d5-a3f50154898f')/",
+    "VideoPageLink": "/Series/Microsoft-Business-Continuity/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f86d/20aa7634-ece0-4b48-b8cb-5ff41d9bf86d/331MSBusinessContinuityM02_960.jpg",
+    "ShowName": "Microsoft Business Continuity",
+    "VideoLength": "01:06:06",
+    "VideoTitle": "Microsoft Business Continuity: (02) Failover Clustering",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-03T00:11:20.8019289Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f86d/20aa7634-ece0-4b48-b8cb-5ff41d9bf86d/331MSBusinessContinuityM02_mid.mp4",
+    "Description": "Hear about the key capabilities within Windows Server Failover Clustering and how they provide higher levels of availability for your business-critical applications and workloads. Get the details on b"
+  },
+  {
+    "VideoId": "ea07b05b-7b67-4cb6-b75b-a3f50154d68b",
+    "DataApi": "/Entries(guid'ea07b05b-7b67-4cb6-b75b-a3f50154d68b')/",
+    "VideoPageLink": "/Series/Microsoft-Business-Continuity/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/91e7/94ab45a4-2181-4b0f-80d6-88e3d4e291e7/331MSBusinessContinuityM03_960.jpg",
+    "ShowName": "Microsoft Business Continuity",
+    "VideoLength": "00:53:21",
+    "VideoTitle": "Microsoft Business Continuity: (03) â€‹Backup",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-03T00:11:52.1055606Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/91e7/94ab45a4-2181-4b0f-80d6-88e3d4e291e7/331MSBusinessContinuityM03_mid.mp4",
+    "Description": "â€‹Find out the key backup capabilities provided by Windows Server backup and System Center Data Protection Manager, along with how both of these solutions extend to the cloud with Microsoft Azure Backu"
+  },
+  {
+    "VideoId": "bef281ea-6ef5-412e-b316-a3f50154e99a",
+    "DataApi": "/Entries(guid'bef281ea-6ef5-412e-b316-a3f50154e99a')/",
+    "VideoPageLink": "/Series/Microsoft-Business-Continuity/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5c8b/8d3667b3-f78c-4eff-8101-5b1a32e45c8b/331MSBusinessContinuityM04_960.jpg",
+    "ShowName": "Microsoft Business Continuity",
+    "VideoLength": "00:51:29",
+    "VideoTitle": "Microsoft Business Continuity: (04) Homogeneous Site Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-03T00:12:08.5059931Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5c8b/8d3667b3-f78c-4eff-8101-5b1a32e45c8b/331MSBusinessContinuityM04_mid.mp4",
+    "Description": "See how Azure Site Recovery, when combined with Hyper-V Replica or SAN Replication, provides a powerful disaster recovery solution for environments using Hyper-V. [05:40] - Azure Site Recovery with Hy"
+  },
+  {
+    "VideoId": "9246ccbc-86b0-4014-9616-a3f501551ecc",
+    "DataApi": "/Entries(guid'9246ccbc-86b0-4014-9616-a3f501551ecc')/",
+    "VideoPageLink": "/Series/Microsoft-Business-Continuity/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dd2c/51fa9ca5-26ce-494e-a802-da02e23fdd2c/331MSBusinessContinuityM05_960.jpg",
+    "ShowName": "Microsoft Business Continuity",
+    "VideoLength": "00:31:07",
+    "VideoTitle": "Microsoft Business Continuity: (05) Heterogeneous Site Recovery",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-12-03T00:12:39.8117214Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dd2c/51fa9ca5-26ce-494e-a802-da02e23fdd2c/331MSBusinessContinuityM05_mid.mp4",
+    "Description": "Learn how Azure Site Recovery Manager provides comprehensive disaster recovery capabilities for both Hyper-V and VMware environments. [02:38] - Site Recovery for Heterogeneous Environments[29:14] - Su"
+  }
+]

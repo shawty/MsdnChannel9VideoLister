@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "8a96421a-f64c-4573-b95f-9dea00a5b597",
+    "DataApi": "/Entries(guid'8a96421a-f64c-4573-b95f-9dea00a5b597')/",
+    "VideoPageLink": "/Blogs/Sam/C-Language-Programming-with-Visual-Studio-2010-Ultimate-Pro-or-VC-Express",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/8/9/5/6/5/5/VisualStudio2010CCCProgramming_512_ch9.png",
+    "ShowName": "Win Phone Design, simply",
+    "VideoLength": "00:18:18",
+    "VideoTitle": "C-Language Programming with Visual Studio 2010 Ultimate, Pro or VC++ Express",
+    "Author": "Sam",
+    "UtcDateTimePublished": "2010-06-19T00:50:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/8/9/5/6/5/5/VisualStudio2010CCCProgramming_ch9.mp4",
+    "Description": "Can you believe it?  C-Programming with Visual Studio Ultimate 2010, Pro 2010, or VC&#43;&#43; 2010.  WOW! \nCheck out this video to see how to use Command Line compilation or the Ultimate IDE!Make su"
+  },
+  {
+    "VideoId": "eb5fc218-9995-49d8-be1a-9dea00a5b73d",
+    "DataApi": "/Entries(guid'eb5fc218-9995-49d8-be1a-9dea00a5b73d')/",
+    "VideoPageLink": "/Blogs/Sam/First-Win-Phone",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/3/4/2/6/5/5/FirstWinPhoneGame_512_ch9.png",
+    "ShowName": "Win Phone Design, simply",
+    "VideoLength": "00:18:52",
+    "VideoTitle": "First Win Phone",
+    "Author": "Sam",
+    "UtcDateTimePublished": "2010-06-16T07:39:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/3/4/2/6/5/5/FirstWinPhoneGame_ch9.mp4",
+    "Description": "This is a cool video about how to create your first Windows Phone Game.Make sure to view the video full screen! "
+  },
+  {
+    "VideoId": "63bcca8a-cc8f-47c4-ae62-9deb002fb010",
+    "DataApi": "/Entries(guid'63bcca8a-cc8f-47c4-ae62-9deb002fb010')/",
+    "VideoPageLink": "/Blogs/Sam/Trident-Workbench",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "366cf630-48c0-4813-9543-9deb002fb47f",
+    "DataApi": "/Entries(guid'366cf630-48c0-4813-9543-9deb002fb47f')/",
+    "VideoPageLink": "/Blogs/Sam/Using-Classes-and-Functions",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "bee8e4c6-cbe1-4895-8b09-9deb002fb832",
+    "DataApi": "/Entries(guid'bee8e4c6-cbe1-4895-8b09-9deb002fb832')/",
+    "VideoPageLink": "/Blogs/Sam/Functions-and-Classes-in-C",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/1/5/8/0/0/5/LearningAboutFunctions_512_ch9.png",
+    "ShowName": "Win Phone Design, simply",
+    "VideoLength": "00:45:26",
+    "VideoTitle": "Functions and Classes in C#",
+    "Author": "Sam Stokes",
+    "UtcDateTimePublished": "2009-10-21T22:31:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/1/5/8/0/0/5/LearningAboutFunctions_ch9.mp4",
+    "Description": "\nHow to create functions in C# using Forms and Events! \nThis is a video for people who are trying to figure out how to use functions and where to put stuff in the Visual Studio IDE. \nThis example d"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "5dc0aea8-fb58-4f06-bd22-9dea01849254",
+    "DataApi": "/Entries(guid'5dc0aea8-fb58-4f06-bd22-9dea01849254')/",
+    "VideoPageLink": "/Blogs/jamescon/Hello-Workflow-Windows-Workflow-Foundation-key-concepts",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "5eb72fe6-6dc4-4163-ab74-9dea01849943",
+    "DataApi": "/Entries(guid'5eb72fe6-6dc4-4163-ab74-9dea01849943')/",
+    "VideoPageLink": "/Blogs/jamescon/State-Machine-Workflow-Example-Order-Processing-App",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

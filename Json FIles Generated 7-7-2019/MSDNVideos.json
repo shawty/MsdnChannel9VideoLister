@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "03d6b5e6-3054-4834-90e7-a35001786694",
+    "DataApi": "/Entries(guid'03d6b5e6-3054-4834-90e7-a35001786694')/",
+    "VideoPageLink": "/Blogs/MSDNVideos/Azure-Case-Study-Video-blinkbox",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb6d/e20cbc71-83ac-44e0-9d5f-fd43b954fb6d/blinkbox_960.jpg",
+    "ShowName": "MSDNVideos",
+    "VideoLength": "00:02:31",
+    "VideoTitle": "Azure Case Study Video: blinkbox",
+    "Author": "KathyHickman",
+    "UtcDateTimePublished": "2014-06-21T17:51:22.2576316Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb6d/e20cbc71-83ac-44e0-9d5f-fd43b954fb6d/blinkbox_mid.mp4",
+    "Description": "blinkbox is a UK movie and TV streaming service which had a traditional datacenter in London in which costs were skyrocketing. The company shifted to Microsoft Azure, saving millions of dollars. "
+  },
+  {
+    "VideoId": "2dd54bd6-76f0-41a1-abf8-a35001755e7c",
+    "DataApi": "/Entries(guid'2dd54bd6-76f0-41a1-abf8-a35001755e7c')/",
+    "VideoPageLink": "/Blogs/MSDNVideos/Azure-Case-Study-Video-Mundoloco",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb4b/447c6f68-360b-4adc-bff7-452f3fd0fb4b/Mundoloco_960.jpg",
+    "ShowName": "MSDNVideos",
+    "VideoLength": "00:02:39",
+    "VideoTitle": "Azure Case Study Video-Mundoloco",
+    "Author": "KathyHickman",
+    "UtcDateTimePublished": "2014-06-20T23:01:09.235591Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb4b/447c6f68-360b-4adc-bff7-452f3fd0fb4b/Mundoloco_mid.mp4",
+    "Description": "When Mundoloco CGI Studios needed to render more than 276,000 frames of its Hollywood-level animated movie, the company set up 550 Microsoft Azure Virtual Machines, enabling it to meet its premiere de"
+  },
+  {
+    "VideoId": "9b115402-3c36-48bc-b8ac-a35001440b2a",
+    "DataApi": "/Entries(guid'9b115402-3c36-48bc-b8ac-a35001440b2a')/",
+    "VideoPageLink": "/Blogs/MSDNVideos/From-Titans-to-Drivatars",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3b8b/c95ec92b-907c-40e8-935b-3564c8133b8b/Titanfall_960.jpg",
+    "ShowName": "MSDNVideos",
+    "VideoLength": "00:01:47",
+    "VideoTitle": "From Titans to Drivatars",
+    "Author": "KathyHickman",
+    "UtcDateTimePublished": "2014-06-20T22:26:31.894736Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3b8b/c95ec92b-907c-40e8-935b-3564c8133b8b/Titanfall_mid.mp4",
+    "Description": "See how Xbox Live Compute is helping to improve gameplay in Titanfall. Benefits include better overall connectivity, improved multiplayer experiences, and improved &amp; evolving gameplay experiences."
+  }
+]

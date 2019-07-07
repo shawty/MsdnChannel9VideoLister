@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "5b76e324-0cb6-4c99-9db4-9deb002dbb35",
+    "DataApi": "/Entries(guid'5b76e324-0cb6-4c99-9db4-9deb002dbb35')/",
+    "VideoPageLink": "/Blogs/Derrick+Wampler/Feature-Overview-Regional-and-Language-Settings",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/9/2/3/8/0/5/intlcplwalkthrough_512_ch9.png",
+    "ShowName": "Derrick Wampler",
+    "VideoLength": "00:05:21",
+    "VideoTitle": "Feature Overview - Regional and Language Settings",
+    "Author": "Derrick Wampler",
+    "UtcDateTimePublished": "2009-11-24T00:01:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/9/2/3/8/0/5/intlcplwalkthrough_ch9.mp4",
+    "Description": "Interested in making changes to your language or regional settings in Windows? For this video, we'll briefly walkthrough the different settings available in the 'Regional and Language' settings contro"
+  }
+]

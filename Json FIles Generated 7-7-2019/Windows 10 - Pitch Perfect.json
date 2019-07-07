@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "3b713f54-5db6-46bd-9a00-a52900af1512",
+    "DataApi": "/Entries(guid'3b713f54-5db6-46bd-9a00-a52900af1512')/",
+    "VideoPageLink": "/Series/Windows-10-Pitch-Perfect/Windows-10-Pitch-Perfect",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/23c3/07ce53a2-3e23-44d6-969a-376cc0fb23c3/Windows10PitchPerfect_960.jpg",
+    "ShowName": "Windows 10 - Pitch Perfect",
+    "VideoLength": "01:03:12",
+    "VideoTitle": "Windows 10 Pitch Perfect",
+    "Author": "PatrickMoerane",
+    "UtcDateTimePublished": "2015-10-23T10:06:59.2467942Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/23c3/07ce53a2-3e23-44d6-969a-376cc0fb23c3/Windows10PitchPerfect_mid.mp4",
+    "Description": "Come and learn more about Windows 10 sales, discover Windows 10 functionality and the value proposition to customers. "
+  }
+]

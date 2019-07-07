@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "b7229f8f-a978-4d36-b7b4-a31b0153a9ed",
+    "DataApi": "/Entries(guid'b7229f8f-a978-4d36-b7b4-a31b0153a9ed')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Move-LOB-Apps-to-the-Cloud/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3f1d/bdf51a8d-5e53-48a1-b501-a731f6d63f1d/MoveLOBAppsToTheCloudM02_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud",
+    "VideoLength": "01:03:56",
+    "VideoTitle": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud: (02) What Is a Service Architecture?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:12:24.6850149Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3f1d/bdf51a8d-5e53-48a1-b501-a731f6d63f1d/MoveLOBAppsToTheCloudM02_mid.mp4",
+    "Description": "Learn the best practices for building LOB applications based on services architecture. Review the Expenses application, a Windows Presentation Foundation (WPF) app that calls a Windows Communication F"
+  },
+  {
+    "VideoId": "5a45f5f5-406f-432a-a465-a31b0153fa0f",
+    "DataApi": "/Entries(guid'5a45f5f5-406f-432a-a465-a31b0153fa0f')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Move-LOB-Apps-to-the-Cloud/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a5e3/6c5afb67-d2c7-4f15-be66-5afd2f9ea5e3/MoveLOBAppsToTheCloudM03_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud",
+    "VideoLength": "00:52:46",
+    "VideoTitle": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud: (03) Move to the Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:12:39.7093257Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a5e3/6c5afb67-d2c7-4f15-be66-5afd2f9ea5e3/MoveLOBAppsToTheCloudM03_mid.mp4",
+    "Description": "See a demo on how to cloud-enable the Expenses app to allow WPF users to access expense data. Learn how to copy Expenses data from SQL Server to SQL Azure, configure the WCF service to use SQL Azure, "
+  },
+  {
+    "VideoId": "302bf25c-727e-498f-8720-a31b01543e2c",
+    "DataApi": "/Entries(guid'302bf25c-727e-498f-8720-a31b01543e2c')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Move-LOB-Apps-to-the-Cloud/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/45c3/513755e6-4e26-4dfd-abf5-3ca0111a45c3/MoveLOBAppsToTheCloudM04_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud",
+    "VideoLength": "00:39:35",
+    "VideoTitle": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud: (04) Build Modern-Looking Apps",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:12:53.5675607Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/45c3/513755e6-4e26-4dfd-abf5-3ca0111a45c3/MoveLOBAppsToTheCloudM04_mid.mp4",
+    "Description": "Explore all the new Visual Studio 2013 features that can make XAML development easier. See how to use third-party vendor controls to build WPF apps with a more modern look and feel. [02:31] - Moderniz"
+  },
+  {
+    "VideoId": "943c1541-ddde-4ec6-918a-a31b01547fed",
+    "DataApi": "/Entries(guid'943c1541-ddde-4ec6-918a-a31b01547fed')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Move-LOB-Apps-to-the-Cloud/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bdee/a2e6e5ed-38b7-49ed-bb8d-18c55eebbdee/MoveLOBAppsToTheCloudM05_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud",
+    "VideoLength": "00:36:22",
+    "VideoTitle": "Microsoft Azure Developer Camp - Move LOB Apps to the Cloud: (05) Build for Multiple Devices",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:13:06.6353255Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bdee/a2e6e5ed-38b7-49ed-bb8d-18c55eebbdee/MoveLOBAppsToTheCloudM05_mid.mp4",
+    "Description": "Learn how WPF developers can leverage their existing skills and favorite coding languages to build Windows 8 and Windows Phone apps. Watch as an Expenses app is created for both of these platforms, gi"
+  }
+]

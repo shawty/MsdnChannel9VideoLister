@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "c3261c16-ef99-4199-ba20-a0a10123e3cc",
+    "DataApi": "/Entries(guid'c3261c16-ef99-4199-ba20-a0a10123e3cc')/",
+    "VideoPageLink": "/Blogs/Vector/Platform-Hygiene",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "3fe0a280-e798-4716-a2e5-a09801634fd2",
+    "DataApi": "/Entries(guid'3fe0a280-e798-4716-a2e5-a09801634fd2')/",
+    "VideoPageLink": "/Blogs/Vector/Announcing-BUILD-2012",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "bef76212-48dc-420a-9783-a0820153356a",
+    "DataApi": "/Entries(guid'bef76212-48dc-420a-9783-a0820153356a')/",
+    "VideoPageLink": "/Blogs/Vector/How-Complex-Systems-Fail",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "03fbd3f1-4fe1-488c-985d-a074010b957f",
+    "DataApi": "/Entries(guid'03fbd3f1-4fe1-488c-985d-a074010b957f')/",
+    "VideoPageLink": "/Blogs/Vector/Help-Wanted-Big-Data-and-the-Talent-Gap",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6c792027-2736-4f34-b2c0-a01b00492959",
+    "DataApi": "/Entries(guid'6c792027-2736-4f34-b2c0-a01b00492959')/",
+    "VideoPageLink": "/Blogs/Vector/The-400-horsepower-device",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "9274f23a-c1c3-4143-898a-a00f0159cd7f",
+    "DataApi": "/Entries(guid'9274f23a-c1c3-4143-898a-a00f0159cd7f')/",
+    "VideoPageLink": "/Blogs/Vector/Optimizing-apps-for-cloud",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "3342c9c7-5e29-446d-962e-9ff701209452",
+    "DataApi": "/Entries(guid'3342c9c7-5e29-446d-962e-9ff701209452')/",
+    "VideoPageLink": "/Blogs/Vector/The-Big-Dimmer-Switch",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

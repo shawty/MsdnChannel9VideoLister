@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "60bbdcaf-18d0-49f2-911f-a1b50124bb7c",
+    "DataApi": "/Entries(guid'60bbdcaf-18d0-49f2-911f-a1b50124bb7c')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-02-Creating-User-Interfaces-using-XAML",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/3364a127-62fe-4420-84fb-3163f8764f3f.png",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:55:17",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (02) Creating User Interfaces using XAML",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:15:00.1601967Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b7c6/750e6a93-d691-43b6-9e47-1741c0bdb7c6/WinStoreAppEssM02_mid.mp4",
+    "Description": "Get ready for understanding XAML. This session provides an overview on the basics, code-behind, and tooling for XAML. [01:12] - XAML Basics[25:54] - XAML Code-behind[35:55] - Custom controls[46:34] - "
+  },
+  {
+    "VideoId": "0d4196a0-433f-4257-91a4-a1b501250be6",
+    "DataApi": "/Entries(guid'0d4196a0-433f-4257-91a4-a1b501250be6')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-03-Presenting-Data-and-Implementing-Layout-using",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eec6/c2a04772-adf0-4718-9a5d-feb58876eec6/WinStoreAppEssM03_960.jpg",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:52:42",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (03) Presenting Data and Implementing Layout using Windows 8 Built-In Controls",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:15:02.7010068Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eec6/c2a04772-adf0-4718-9a5d-feb58876eec6/WinStoreAppEssM03_mid.mp4",
+    "Description": "Find out more about the built-in controls in Windows 8 by getting into the layouts and data binding. Jerry and Daren provide an in depth understanding on the various types of layouts and how to presen"
+  },
+  {
+    "VideoId": "c76c420e-3dd0-4979-8608-a1b50125929f",
+    "DataApi": "/Entries(guid'c76c420e-3dd0-4979-8608-a1b50125929f')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-04-Handling-Files-in-Windows-Store-Apps-and-Proc",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d54/274f81af-a9f3-42be-9e7f-622a96d32d54/WinStoreAppEssM04_960.jpg",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:55:04",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (04) Handling Files in Windows Store Apps and Process Lifecycle Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:15:49.2163785Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d54/274f81af-a9f3-42be-9e7f-622a96d32d54/WinStoreAppEssM04_mid.mp4",
+    "Description": "This session provides an overview on file handling and process lifecycle management. Jerry and Daren provide visibility to state transitions, background tasks, and execution and triggers. [03:51] - Fi"
+  },
+  {
+    "VideoId": "ed6d5728-c044-49ca-8f29-a1b50129cb2d",
+    "DataApi": "/Entries(guid'ed6d5728-c044-49ca-8f29-a1b50129cb2d')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-05-Working-with-Resources-Styles-and-Templates",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/edb0/ebb50974-cbb9-44d6-8448-fd340113edb0/WinStoreAppEssM05_960.jpg",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:51:11",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (05) Working with Resources, Styles, and Templates",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:16:04.3236936Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/edb0/ebb50974-cbb9-44d6-8448-fd340113edb0/WinStoreAppEssM05_mid.mp4",
+    "Description": "In this module you will find out what resources are. Combined with the various styles and templates provided to you in Windows 8 get ready to add some great tips and tricks to your toolbox. [01:14] - "
+  },
+  {
+    "VideoId": "18e5a349-2da1-4aa2-bd70-a1b5012a1d95",
+    "DataApi": "/Entries(guid'18e5a349-2da1-4aa2-bd70-a1b5012a1d95')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-06-Designing-and-Implementing-Navigation-in-a-Wi",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/46e6/d88c7e17-4d61-4321-9e39-3d1a75bc46e6/WinStoreAppEssM06_960.jpg",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:35:32",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (06) Designing and Implementing Navigation in a Windows Store App",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:16:18.8591743Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/46e6/d88c7e17-4d61-4321-9e39-3d1a75bc46e6/WinStoreAppEssM06_mid.mp4",
+    "Description": "To create the best possible App for Windows Store it is key to understand navigation and how the data hierarchy and top app bar work. Once you understand these, get ready for the semantic zoom. [01:37"
+  },
+  {
+    "VideoId": "5dc1f9fd-781f-4119-8ad2-a1b5012a8e9e",
+    "DataApi": "/Entries(guid'5dc1f9fd-781f-4119-8ad2-a1b5012a8e9e')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-07-Implementing-Windows-8-Contracts-Tiles-and-Us",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e37/60565425-6a52-44bc-9c2c-189cc7da7e37/WinStoreAppEssM07_960.jpg",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:56:55",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (07) Implementing Windows 8 Contracts, Tiles and User Notifications",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:16:33.3361899Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e37/60565425-6a52-44bc-9c2c-189cc7da7e37/WinStoreAppEssM07_mid.mp4",
+    "Description": "Learn how to search and share charms and contracts. In this module Jerry and Daren focus on charm setting, primary and secondary tiles and toast notifications. [01:05] - Search Charm and Contract[20:2"
+  },
+  {
+    "VideoId": "aac1db2d-a9fb-4da2-b022-a1b5012af8d9",
+    "DataApi": "/Entries(guid'aac1db2d-a9fb-4da2-b022-a1b5012af8d9')/",
+    "VideoPageLink": "/Series/Essentials-of-Developing-Windows-Store-Apps-using-C-/Essentials-of-Developing-Windows-Store-Apps-using-C-08-Local-Data-and-Planning-for-Windows-Store-App",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2e3c/5e9e9b40-1ad7-4374-bb72-8a4bea942e3c/WinStoreAppEssM08_960.jpg",
+    "ShowName": "Essentials of Developing Windows Store Apps using C#",
+    "VideoLength": "00:57:17",
+    "VideoTitle": "Essentials of Developing Windows Store Apps using C#: (08) Local Data and Planning for Windows Store App Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-05-08T01:17:18.412668Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2e3c/5e9e9b40-1ad7-4374-bb72-8a4bea942e3c/WinStoreAppEssM08_mid.mp4",
+    "Description": "A successful App requires the right data strategies, packaging and deployment. Learn more on how to best evaluate data access strategies using SQLite. [01:46] - Data strategies[06:46] - SQLite[09:57] "
+  }
+]

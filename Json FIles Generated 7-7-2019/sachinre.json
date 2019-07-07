@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "ee9ff928-fb32-4b29-b61f-9df8003da7b8",
+    "DataApi": "/Entries(guid'ee9ff928-fb32-4b29-b61f-9df8003da7b8')/",
+    "VideoPageLink": "/Blogs/sachinre/Create-a-Custom-Test-Condition-in-VSTE-for-Database-Professionals",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ae5215e0-558d-479a-ae6b-9df8003dabca",
+    "DataApi": "/Entries(guid'ae5215e0-558d-479a-ae6b-9df8003dabca')/",
+    "VideoPageLink": "/Blogs/sachinre/Configuring-Design-DB-for-Team-Edition-for-Database-Professionals",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "c24ab398-5662-46ba-97fd-9df8003db022",
+    "DataApi": "/Entries(guid'c24ab398-5662-46ba-97fd-9df8003db022')/",
+    "VideoPageLink": "/Blogs/sachinre/Creating-a-database-project-with-Team-Edition-for-Database-Professionals",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "dbde1f17-d974-4e4d-90f7-9df8003db423",
+    "DataApi": "/Entries(guid'dbde1f17-d974-4e4d-90f7-9df8003db423')/",
+    "VideoPageLink": "/Blogs/sachinre/Team-Edition-for-DB-Pros-5-min-Demo",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "7b86c04a-dcb7-4bec-80bc-a35a00691ec1",
+    "DataApi": "/Entries(guid'7b86c04a-dcb7-4bec-80bc-a35a00691ec1')/",
+    "VideoPageLink": "/Series/Automating-the-Cloud-with-Azure-Automation/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5d2e/ad31080d-d53a-4090-b216-a210fa445d2e/AzureAutoPart2_960.jpg",
+    "ShowName": "Automating the Cloud with Azure Automation",
+    "VideoLength": "00:16:52",
+    "VideoTitle": "(Module 2) Connecting to Microsoft Azure with Azure Automation",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:16:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5d2e/ad31080d-d53a-4090-b216-a210fa445d2e/AzureAutoPart2_mid.mp4",
+    "Description": "In this module we'll show you how to connect to Microsoft Azure using Azure Automation by setting up your Azure Automation account as well as creating some basic assets that we'll use to connect and a"
+  },
+  {
+    "VideoId": "71b927d5-4e5c-4688-9d70-a35a006c943d",
+    "DataApi": "/Entries(guid'71b927d5-4e5c-4688-9d70-a35a006c943d')/",
+    "VideoPageLink": "/Series/Automating-the-Cloud-with-Azure-Automation/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6735/a6028d27-2877-4c13-8722-941c246a6735/AzureAutoPart3_960.jpg",
+    "ShowName": "Automating the Cloud with Azure Automation",
+    "VideoLength": "00:11:53",
+    "VideoTitle": "(Module 3) Importing and Publishing a Connect-Azure Runbook",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:17:43Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6735/a6028d27-2877-4c13-8722-941c246a6735/AzureAutoPart3_mid.mp4",
+    "Description": "In this module we'll be discussing the process of importing and publishing a centralized Connect-Azure Runbook. We'll first define Runbook Authoring and then dive into a detailed demo on how to take t"
+  },
+  {
+    "VideoId": "f6fb6e33-9ca8-4139-8630-a35a006d2602",
+    "DataApi": "/Entries(guid'f6fb6e33-9ca8-4139-8630-a35a006d2602')/",
+    "VideoPageLink": "/Series/Automating-the-Cloud-with-Azure-Automation/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/586c/a6f323dd-0f09-4578-8781-3e4d8208586c/AzureAutoPart4_960.jpg",
+    "ShowName": "Automating the Cloud with Azure Automation",
+    "VideoLength": "00:14:13",
+    "VideoTitle": "(Module 4) Creating and Publishing Your First Runbook",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:18:42Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/586c/a6f323dd-0f09-4578-8781-3e4d8208586c/AzureAutoPart4_mid.mp4",
+    "Description": "In this module we'll be stepping through the process of creating and publishing your first custom Runbook with Azure Automation. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a"
+  },
+  {
+    "VideoId": "ae2353e2-b11a-4b92-b7b1-a35a006f701c",
+    "DataApi": "/Entries(guid'ae2353e2-b11a-4b92-b7b1-a35a006f701c')/",
+    "VideoPageLink": "/Series/Automating-the-Cloud-with-Azure-Automation/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f24e/102c5e28-9d4c-42b6-8f78-4771e635f24e/AzureAutoPart5_960.jpg",
+    "ShowName": "Automating the Cloud with Azure Automation",
+    "VideoLength": "00:29:06",
+    "VideoTitle": "(Module 5) Invoking Azure Automation Runbooks",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-06-30T00:20:24Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f24e/102c5e28-9d4c-42b6-8f78-4771e635f24e/AzureAutoPart5_mid.mp4",
+    "Description": "In this module we'll be looking at the different ways in which you can invoke your Azure Automation Runbooks  as well as how you can monitor their progress. This video is part of the Microsoft Virtual"
+  }
+]

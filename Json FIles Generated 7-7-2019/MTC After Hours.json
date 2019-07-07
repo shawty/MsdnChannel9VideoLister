@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "9043d0ba-1456-4b0a-a5d7-a6be0162e044",
+    "DataApi": "/Entries(guid'9043d0ba-1456-4b0a-a5d7-a6be0162e044')/",
+    "VideoPageLink": "/Blogs/MTC-After-Hours/UWP-and-Azure-Service-Bus",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/21ed/a0a0b5fb-26f0-4920-bf1e-06ea1f2f21ed/episode3UwpServiceBus_960.jpg",
+    "ShowName": "MTC After Hours",
+    "VideoLength": "00:15:43",
+    "VideoTitle": "UWP and Azure Service Bus",
+    "Author": "AppliedAlchemy",
+    "UtcDateTimePublished": "2016-11-14T21:40:58.2534386Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/21ed/a0a0b5fb-26f0-4920-bf1e-06ea1f2f21ed/episode3UwpServiceBus_mid.mp4",
+    "Description": "Need to connect a UWP app to Azure Service Bus?  Start off by grabbing the Nuget package and go to town, right?  Not so fast my friend! When you need to send and receive messages from a UWP to Azure S"
+  },
+  {
+    "VideoId": "7c9e318e-0a7b-4631-9461-a6a600f3aae9",
+    "DataApi": "/Entries(guid'7c9e318e-0a7b-4631-9461-a6a600f3aae9')/",
+    "VideoPageLink": "/Blogs/MTC-After-Hours/Transcribing-Audio-to-Text-With-Azure-Functions-and-Cognitive-Services",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/95ff/8df0108e-3c15-4926-8dda-13790df195ff/episode2transcribeaudio_960.jpg",
+    "ShowName": "MTC After Hours",
+    "VideoLength": "00:10:28",
+    "VideoTitle": "Transcribing Audio to Text With Azure Functions and Cognitive Services",
+    "Author": "Jeff Brand",
+    "UtcDateTimePublished": "2016-10-21T19:41:02.5473243Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/95ff/8df0108e-3c15-4926-8dda-13790df195ff/episode2transcribeaudio_mid.mp4",
+    "Description": "A short-ish video on how you can transcribe speech audio to text using an Azure Function and Cognitive Services.  Based on a real world scenario from a customer proof of concept, Azure Functions and C"
+  },
+  {
+    "VideoId": "3c058523-f752-4d7d-86ea-a69f00de4c4a",
+    "DataApi": "/Entries(guid'3c058523-f752-4d7d-86ea-a69f00de4c4a')/",
+    "VideoPageLink": "/Blogs/MTC-After-Hours/Intro-Episode-What-is-MTC-After-Hours",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5eac/43f80984-0211-4918-abdf-bfc71b945eac/Episode1_960.jpg",
+    "ShowName": "MTC After Hours",
+    "VideoLength": "00:03:36",
+    "VideoTitle": "Intro Episode - What is MTC After Hours",
+    "Author": "AppliedAlchemy",
+    "UtcDateTimePublished": "2016-10-14T14:12:11.861146Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5eac/43f80984-0211-4918-abdf-bfc71b945eac/Episode1_mid.mp4",
+    "Description": "The first episode of MTC After Hours introduces what After Hours is all about, who is involved, and sets the table for what to expect in future episodes.  Join us as we get the ball rolling. "
+  }
+]

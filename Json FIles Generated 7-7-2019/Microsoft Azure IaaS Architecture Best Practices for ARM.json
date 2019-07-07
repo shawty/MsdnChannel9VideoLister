@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "4d16485c-a268-43cd-9fbd-a7430128b9db",
+    "DataApi": "/Entries(guid'4d16485c-a268-43cd-9fbd-a7430128b9db')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Virtual-Networks-and-VPN-Connections-in-ARM",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5818/8b738e14-cc7f-4002-b095-0ba278b65818/IaaSARMBestPractices_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Architecture Best Practices for ARM",
+    "VideoLength": "00:29:28",
+    "VideoTitle": "Creating Virtual Networks and VPN Connections in ARM",
+    "Author": "CSAJefLan",
+    "UtcDateTimePublished": "2017-03-27T22:07:12.5731011Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5818/8b738e14-cc7f-4002-b095-0ba278b65818/IaaSARMBestPractices_mid.mp4",
+    "Description": "In this video, we continue the build-out of our scenario by creating two virtual networks (one in the WestUS and one in the EastUS), as well as connecting them to our on-premises location with Site-to"
+  },
+  {
+    "VideoId": "49cd3f19-8d26-4648-b143-a743012fbdae",
+    "DataApi": "/Entries(guid'49cd3f19-8d26-4648-b143-a743012fbdae')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Basic-Virtual-Machines-in-the-Azure-Portal",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/acfe/458c0819-e6ac-487d-b601-41313babacfe/IaaSARMBestPractices_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Architecture Best Practices for ARM",
+    "VideoLength": "00:22:48",
+    "VideoTitle": "Creating Basic Virtual Machines in the Azure Portal",
+    "Author": "CSAJefLan",
+    "UtcDateTimePublished": "2017-03-27T22:07:23.4215792Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/acfe/458c0819-e6ac-487d-b601-41313babacfe/IaaSARMBestPractices_mid.mp4",
+    "Description": "In this third video of the series, we create all our basic Virtual Machines using the Azure Portal and Resource Manager. This continues to build upon our best practices that we established in our firs"
+  },
+  {
+    "VideoId": "b15ebe79-3e13-4c8d-98ed-a74301325061",
+    "DataApi": "/Entries(guid'b15ebe79-3e13-4c8d-98ed-a74301325061')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Advanced-Virtual-Machines-in-the-Azure-Portal",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44a9/073dd510-562d-4aaf-b87a-d24b776c44a9/IaaSARMBestPractices_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Architecture Best Practices for ARM",
+    "VideoLength": "00:16:04",
+    "VideoTitle": "Creating Advanced Virtual Machines in the Azure Portal",
+    "Author": "CSAJefLan",
+    "UtcDateTimePublished": "2017-03-27T22:07:30.6544642Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44a9/073dd510-562d-4aaf-b87a-d24b776c44a9/IaaSARMBestPractices_mid.mp4",
+    "Description": "In this fourth video of the series, we add some additional virtual machines that utilize Premium Storage and multiple hard disks. The blog post for this series is located here: https://blogs.msdn.micr"
+  },
+  {
+    "VideoId": "d671da3b-402d-4283-826e-a7430132e6a3",
+    "DataApi": "/Entries(guid'd671da3b-402d-4283-826e-a7430132e6a3')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-IaaS-Architecture-Best-Practices-for-ARM/Creating-Load-Balancers-and-Network-Security-Groups-in-the-Azure-Portal",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cefc/fe893617-dee9-46fe-bfc9-65b65b0fcefc/IaaSARMBestPractices_960.jpg",
+    "ShowName": "Microsoft Azure IaaS Architecture Best Practices for ARM",
+    "VideoLength": "00:24:34",
+    "VideoTitle": "Creating Load Balancers and Network Security Groups in the Azure Portal",
+    "Author": "CSAJefLan",
+    "UtcDateTimePublished": "2017-03-27T22:07:38.7268776Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cefc/fe893617-dee9-46fe-bfc9-65b65b0fcefc/IaaSARMBestPractices_mid.mp4",
+    "Description": "In this fifth and final video of the series, we create public and internal load balancers for our web tier virtual machines. Additionally, we create some network security groups to lock down the traff"
+  }
+]

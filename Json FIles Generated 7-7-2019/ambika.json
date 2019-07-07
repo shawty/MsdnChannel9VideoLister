@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "4a800d7f-4db8-4bc1-a97b-9e1000b40001",
+    "DataApi": "/Entries(guid'4a800d7f-4db8-4bc1-a97b-9e1000b40001')/",
+    "VideoPageLink": "/Blogs/Ambikas/Microsoft-Virtual-Labs-try-out-new-products-for-FREEEEE",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "5ad27a02-385c-4272-9b5a-9e1000b3f9bc",
+    "DataApi": "/Entries(guid'5ad27a02-385c-4272-9b5a-9e1000b3f9bc')/",
+    "VideoPageLink": "/Blogs/Ambikas/Mark-Cuban-Blogger",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "ab3b46ac-6812-48f5-adc7-9e1000b3f38f",
+    "DataApi": "/Entries(guid'ab3b46ac-6812-48f5-adc7-9e1000b3f38f')/",
+    "VideoPageLink": "/Blogs/Ambikas/this-one-time-at-Podcamp",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "06c478be-3e85-4dc6-94c4-9e1000b3ed0e",
+    "DataApi": "/Entries(guid'06c478be-3e85-4dc6-94c4-9e1000b3ed0e')/",
+    "VideoPageLink": "/Blogs/Ambikas/a-new-grads-life-as-an-almost-grown-up-microsoft-laundry-and-life-with-a-paycheck",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

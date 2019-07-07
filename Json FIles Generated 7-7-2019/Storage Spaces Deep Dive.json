@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "ca75c7c1-54ff-44ee-9b8d-a48200c2a376",
+    "DataApi": "/Entries(guid'ca75c7c1-54ff-44ee-9b8d-a48200c2a376')/",
+    "VideoPageLink": "/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Design",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f56a/bfe4029f-03be-4846-b513-b69c0860f56a/Design_960.jpg",
+    "ShowName": "Storage Spaces Deep Dive",
+    "VideoLength": "00:36:20",
+    "VideoTitle": "Storage Spaces: Design",
+    "Author": "ITPrOla",
+    "UtcDateTimePublished": "2015-04-23T13:14:40.9343711Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f56a/bfe4029f-03be-4846-b513-b69c0860f56a/Design_mid.mp4",
+    "Description": "In the second part of our Storage Spaces deep dive we look at the design of our Storage Pools and virtual disks. To get in touch with Ola, Mikael or Markus, please send an e-mail: ola.skoog@microsoft."
+  },
+  {
+    "VideoId": "9839477e-d7ce-42c5-81cd-a48200c38b6e",
+    "DataApi": "/Entries(guid'9839477e-d7ce-42c5-81cd-a48200c38b6e')/",
+    "VideoPageLink": "/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Performance",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4179/092048f4-7ad9-446b-81a8-6dc95bcc4179/Performance_960.jpg",
+    "ShowName": "Storage Spaces Deep Dive",
+    "VideoLength": "00:33:06",
+    "VideoTitle": "Storage Spaces: Performance",
+    "Author": "ITPrOla",
+    "UtcDateTimePublished": "2015-04-23T13:15:04.5248384Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4179/092048f4-7ad9-446b-81a8-6dc95bcc4179/Performance_mid.mp4",
+    "Description": "In the third part of our Storage Spaces deep dive we look at how to measure performance and how to configure for, and how to troubleshoot, performance. To get in touch with Ola, Mikael or Markus, plea"
+  },
+  {
+    "VideoId": "4b957a89-26be-4dd0-a15b-a48200c3f6ee",
+    "DataApi": "/Entries(guid'4b957a89-26be-4dd0-a15b-a48200c3f6ee')/",
+    "VideoPageLink": "/Series/Storage-Spaces-Deep-Dive/Storage-Spaces-Lessons-from-the-Field",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/db4b/4bd4b337-c31b-44f6-a0cf-03d7cbd0db4b/LessonsFromTheField_960.jpg",
+    "ShowName": "Storage Spaces Deep Dive",
+    "VideoLength": "00:39:31",
+    "VideoTitle": "Storage Spaces: Lessons from the Field",
+    "Author": "ITPrOla",
+    "UtcDateTimePublished": "2015-04-23T13:34:00.2646919Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/db4b/4bd4b337-c31b-44f6-a0cf-03d7cbd0db4b/LessonsFromTheField_mid.mp4",
+    "Description": "In the last part of our Storage Spaces deep dive we share some lessons from the field. To get in touch with Ola, Mikael or Markus, please send an e-mail: ola.skoog@microsoft.commikael.nystrom@truesec."
+  }
+]

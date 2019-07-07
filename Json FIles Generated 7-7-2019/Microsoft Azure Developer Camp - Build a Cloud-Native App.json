@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "de267c37-ecf5-4844-b711-a31b014e24b5",
+    "DataApi": "/Entries(guid'de267c37-ecf5-4844-b711-a31b014e24b5')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Build-a-Cloud-Native-App/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7612/17de768b-edcb-4366-b9e5-8004a2d27612/BuildACloudNativeAppM02_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Build a Cloud-Native App",
+    "VideoLength": "01:01:43",
+    "VideoTitle": "Microsoft Azure Developer Camp - Build a Cloud-Native App: (02) Introduction to Microsoft Azure Virtual Machines",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:10:53.2562836Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7612/17de768b-edcb-4366-b9e5-8004a2d27612/BuildACloudNativeAppM02_mid.mp4",
+    "Description": "Using Microsoft Azure for your Infrastructure as a Service (IaaS) platform allows you to quickly create and manage your infrastructure with ubiquitous provisioning and accessing for any host. In this "
+  },
+  {
+    "VideoId": "b49b1047-c6d0-428d-ab2a-a31b014e661c",
+    "DataApi": "/Entries(guid'b49b1047-c6d0-428d-ab2a-a31b014e661c')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Build-a-Cloud-Native-App/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1ca9/cdfc1b26-e696-4140-be18-0470a1c91ca9/BuildACloudNativeAppM03_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Build a Cloud-Native App",
+    "VideoLength": "01:05:13",
+    "VideoTitle": "Microsoft Azure Developer Camp - Build a Cloud-Native App: (03) Building Apps with Cloud Services",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:11:15.9578567Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1ca9/cdfc1b26-e696-4140-be18-0470a1c91ca9/BuildACloudNativeAppM03_mid.mp4",
+    "Description": "See first-hand how to deploy cloud services. Learn, step by step, how to provision the required components in the Microsoft Azure Management Portal, upload the service package, and configure the servi"
+  },
+  {
+    "VideoId": "8c3a2a83-6615-434d-863f-a31b014ea6b3",
+    "DataApi": "/Entries(guid'8c3a2a83-6615-434d-863f-a31b014ea6b3')/",
+    "VideoPageLink": "/Series/Microsoft-Azure-Developer-Camp-Build-a-Cloud-Native-App/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ff88/7e52b5ba-cc77-4c63-b6f6-f346aa08ff88/BuildACloudNativeAppM04_960.jpg",
+    "ShowName": "Microsoft Azure Developer Camp - Build a Cloud-Native App",
+    "VideoLength": "00:46:39",
+    "VideoTitle": "Microsoft Azure Developer Camp - Build a Cloud-Native App: (04) Handling Identity with Microsoft Azure Active Directory",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-04-30T03:11:40.7719236Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ff88/7e52b5ba-cc77-4c63-b6f6-f346aa08ff88/BuildACloudNativeAppM04_mid.mp4",
+    "Description": "Learn how to use Microsoft Azure Active Directory for implementing web single sign-on in an ASP.NET application. This session focuses on taking advantage of the directory tenant associated with your M"
+  }
+]

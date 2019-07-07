@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "2b0f6a27-4c37-4b5f-a278-a45600acd409",
+    "DataApi": "/Entries(guid'2b0f6a27-4c37-4b5f-a278-a45600acd409')/",
+    "VideoPageLink": "/Series/Introduction-AX-2012-R3-CU8/Module-02-Overview-AX-2012-R3-CU8",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7e80/5b2ea745-38ea-477c-88d8-9cb935a17e80/Module2_960.jpg",
+    "ShowName": "Introduction to Micrsosoft Dynamics AX 2012 R3 CU8",
+    "VideoLength": "00:50:17",
+    "VideoTitle": "Module 02: Overview of Microsoft Dynamics AX 2012 R3 CU8",
+    "Author": "cstorega",
+    "UtcDateTimePublished": "2015-03-09T12:22:53.8829023Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7e80/5b2ea745-38ea-477c-88d8-9cb935a17e80/Module2_mid.mp4",
+    "Description": "This module provides a general overview of the features and benefits of using Microsoft Dynamics AX 2012 R3 CU8. Lessons in this module include: Powerful SolutionAgile SolutionSimple SolutionUnified S"
+  },
+  {
+    "VideoId": "8f8e57b1-e329-4f64-aeec-a45600adc668",
+    "DataApi": "/Entries(guid'8f8e57b1-e329-4f64-aeec-a45600adc668')/",
+    "VideoPageLink": "/Series/Introduction-AX-2012-R3-CU8/Module-04-Office-Add-Ins",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1570/98fca64a-d2ad-43da-a11c-ee2b8af91570/Module4_960.jpg",
+    "ShowName": "Introduction to Micrsosoft Dynamics AX 2012 R3 CU8",
+    "VideoLength": "00:21:29",
+    "VideoTitle": "Module 04: Microsoft Office Add-Ins",
+    "Author": "cstorega",
+    "UtcDateTimePublished": "2015-03-09T12:23:09.9310564Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1570/98fca64a-d2ad-43da-a11c-ee2b8af91570/Module4_mid.mp4",
+    "Description": "This module provides a general overview of the Microsoft Office Add-Ins for Excel and Word. Lessons in this module include: Document data sourcesExport to ExcelExcel Add-InWord Add-in"
+  },
+  {
+    "VideoId": "33593037-0837-4c11-90cc-a45600bd1983",
+    "DataApi": "/Entries(guid'33593037-0837-4c11-90cc-a45600bd1983')/",
+    "VideoPageLink": "/Series/Introduction-AX-2012-R3-CU8/Module-05-Technology",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2d97/09d4c663-61ea-4af1-98f5-0f60d9c32d97/Module5_960.jpg",
+    "ShowName": "Introduction to Micrsosoft Dynamics AX 2012 R3 CU8",
+    "VideoLength": "00:31:27",
+    "VideoTitle": "Module 05: Technology",
+    "Author": "cstorega",
+    "UtcDateTimePublished": "2015-03-09T12:23:17.7615489Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2d97/09d4c663-61ea-4af1-98f5-0f60d9c32d97/Module5_mid.mp4",
+    "Description": "This module provides a general overview of the architecture and development environment in Microsoft Dynamics AX 2012. Lessons in this module include: System ArchitectureDevelopment EnvironmentsModel "
+  },
+  {
+    "VideoId": "8303c602-1270-4307-a7cc-a45600ad4c16",
+    "DataApi": "/Entries(guid'8303c602-1270-4307-a7cc-a45600ad4c16')/",
+    "VideoPageLink": "/Series/Introduction-AX-2012-R3-CU8/Module-03-Basic-Navigation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/98a5/a2b498a1-c857-4e6a-8f20-ee82ffd598a5/Module3_960.jpg",
+    "ShowName": "Introduction to Micrsosoft Dynamics AX 2012 R3 CU8",
+    "VideoLength": "00:43:23",
+    "VideoTitle": "Module 03: Basic Navigation",
+    "Author": "cstorega",
+    "UtcDateTimePublished": "2015-03-09T12:52:46.0018204Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/98a5/a2b498a1-c857-4e6a-8f20-ee82ffd598a5/Module3_mid.mp4",
+    "Description": "This module introduces the application and the basic navigational tools in Microsoft Dynamics AX 2012 R3 CU8. Lessons in this module include: Rich client user interfaceView detailsHelpPersonalizationF"
+  }
+]

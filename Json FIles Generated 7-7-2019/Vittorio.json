@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "49b19a7a-a608-4e48-8a0d-9e0800522239",
+    "DataApi": "/Entries(guid'49b19a7a-a608-4e48-8a0d-9e0800522239')/",
+    "VideoPageLink": "/Blogs/Vittorio/Introducing-FabrikamShipping-SaaS",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/2239/49b19a7a-a608-4e48-8a0d-9e0800522239/IntrofshipSaaS3_512_ch9.jpg",
+    "ShowName": "Vittorio",
+    "VideoLength": "00:30:35",
+    "VideoTitle": "Introducing FabrikamShipping SaaS",
+    "Author": "Vittorio Bertocci",
+    "UtcDateTimePublished": "2010-10-08T03:40:32Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/2239/49b19a7a-a608-4e48-8a0d-9e0800522239/IntrofshipSaaS3_ch9.mp4",
+    "Description": " FabrikamShipping SaaS is an end to end sample scenario which demonstrates how to take advantage of the Windows Azure platform for developing and running software as a service solutions. Join Vittorio"
+  }
+]

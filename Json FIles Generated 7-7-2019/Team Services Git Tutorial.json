@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "56d25838-bd0e-4978-a64d-a6890128bad5",
+    "DataApi": "/Entries(guid'56d25838-bd0e-4978-a64d-a6890128bad5')/",
+    "VideoPageLink": "/series/Team-Services-Git-Tutorial/Git-Tutorial-Branches",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b73d/bc6d7a94-5fa5-42ff-9da3-eea99f7cb73d/GitTutorialBranches_960.jpg",
+    "ShowName": "Team Services Git Tutorial",
+    "VideoLength": "00:01:26",
+    "VideoTitle": "Git Tutorial: Branches",
+    "Author": "Robert Outlaw",
+    "UtcDateTimePublished": "2016-09-22T20:44:48.4577698Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b73d/bc6d7a94-5fa5-42ff-9da3-eea99f7cb73d/GitTutorialBranches_high.mp4",
+    "Description": "Learn how to work with multiple versions of your code in isolation using Git branches. "
+  },
+  {
+    "VideoId": "4249ee1d-d248-4ff4-b6e6-a68901170a15",
+    "DataApi": "/Entries(guid'4249ee1d-d248-4ff4-b6e6-a68901170a15')/",
+    "VideoPageLink": "/series/Team-Services-Git-Tutorial/Git-Tutorial-Commits",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/d28d/acd8777e-db2b-4117-90f7-fe855477d28d/TutorialGitCommits_960.jpg",
+    "ShowName": "Team Services Git Tutorial",
+    "VideoLength": "00:01:20",
+    "VideoTitle": "Git Tutorial: Commits",
+    "Author": "Robert Outlaw",
+    "UtcDateTimePublished": "2016-09-22T20:47:33.1706154Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/d28d/acd8777e-db2b-4117-90f7-fe855477d28d/TutorialGitCommits_mid.mp4",
+    "Description": "Learn how to save your work in Git with commits. "
+  },
+  {
+    "VideoId": "5d528933-598e-4299-9d14-a68901296099",
+    "DataApi": "/Entries(guid'5d528933-598e-4299-9d14-a68901296099')/",
+    "VideoPageLink": "/series/Team-Services-Git-Tutorial/Git-Tutorial-Push",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/392c/e177915a-e6fb-4912-8a54-b1572c4c392c/GitTutorialPush_960.jpg",
+    "ShowName": "Team Services Git Tutorial",
+    "VideoLength": "00:01:22",
+    "VideoTitle": "Git Tutorial: Push",
+    "Author": "Robert Outlaw",
+    "UtcDateTimePublished": "2016-09-22T20:47:46.8126676Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/392c/e177915a-e6fb-4912-8a54-b1572c4c392c/GitTutorialPush_high.mp4",
+    "Description": "Share your code in Git by pushing your branches to your remote repo. "
+  },
+  {
+    "VideoId": "9e7c1c25-1b4b-42fd-9a36-a69d011af44f",
+    "DataApi": "/Entries(guid'9e7c1c25-1b4b-42fd-9a36-a69d011af44f')/",
+    "VideoPageLink": "/series/Team-Services-Git-Tutorial/Git-Tutorial-Rebase",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2386/ba14d6bb-8101-4642-ac9b-1cc4e0732386/gitrebase_960.jpg",
+    "ShowName": "Team Services Git Tutorial",
+    "VideoLength": "00:02:19",
+    "VideoTitle": "Git Tutorial: Rebase",
+    "Author": "Robert Outlaw",
+    "UtcDateTimePublished": "2016-10-12T17:28:29.35126Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2386/ba14d6bb-8101-4642-ac9b-1cc4e0732386/gitrebase_high.mp4",
+    "Description": "Learn about using Git's rebase feature to catch up with changes from your master branch. Browse our full Git tutorial for Visual Studio at https://www.visualstudio.com/docs/git/overview "
+  },
+  {
+    "VideoId": "c0767aad-c6db-4eb5-8d68-a69e011beb2a",
+    "DataApi": "/Entries(guid'c0767aad-c6db-4eb5-8d68-a69e011beb2a')/",
+    "VideoPageLink": "/series/Team-Services-Git-Tutorial/Git-Tutorial-Create-a-repo-from-the-command-line",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/297a/8b50f168-2cb4-4d42-885a-3c173ffd297a/gitrepocmdline_960.jpg",
+    "ShowName": "Team Services Git Tutorial",
+    "VideoLength": "00:02:21",
+    "VideoTitle": "Git Tutorial: Create a repo from the command line",
+    "Author": "Robert Outlaw",
+    "UtcDateTimePublished": "2016-10-13T17:52:15.6308016Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/297a/8b50f168-2cb4-4d42-885a-3c173ffd297a/gitrepocmdline_high.mp4",
+    "Description": "Learn about Git repos and create or clone one from the command line. View our full Git tutorial for Visual Studio Team Services at https://www.visualstudio.com/docs/git/overview "
+  },
+  {
+    "VideoId": "74e6f1b2-3398-4fe1-a989-a69e011b9f9d",
+    "DataApi": "/Entries(guid'74e6f1b2-3398-4fe1-a989-a69e011b9f9d')/",
+    "VideoPageLink": "/series/Team-Services-Git-Tutorial/Git-Tutorial-Create-a-Git-repo-in-Visual-Studio-2015",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bb5e/077f43d0-cd19-4304-b8ef-19848438bb5e/gitrepovs2015_960.jpg",
+    "ShowName": "Team Services Git Tutorial",
+    "VideoLength": "00:03:00",
+    "VideoTitle": "Git Tutorial: Create a Git repo in Visual Studio 2015",
+    "Author": "Robert Outlaw",
+    "UtcDateTimePublished": "2016-10-13T17:52:27.2547667Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bb5e/077f43d0-cd19-4304-b8ef-19848438bb5e/gitrepovs2015_high.mp4",
+    "Description": "Learn how to create or clone repos in Visual Studio 2015 Update 2 or later.   View our full Git tutorial for Visual Studio at https://www.visualstudio.com/docs/git/overview "
+  }
+]

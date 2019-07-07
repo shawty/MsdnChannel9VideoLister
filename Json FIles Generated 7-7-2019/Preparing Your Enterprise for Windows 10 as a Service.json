@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "96f5cac3-ba68-4268-8391-a51e0120f2a2",
+    "DataApi": "/Entries(guid'96f5cac3-ba68-4268-8391-a51e0120f2a2')/",
+    "VideoPageLink": "/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/2--Deploying-Windows-10-as-a-Service",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/dd83/c9497e2d-f377-4634-985d-97d8cc53dd83/mod2prepareyourenterprise_960.jpg",
+    "ShowName": "Preparing Your Enterprise for Windows 10 as a Service",
+    "VideoLength": "01:02:04",
+    "VideoTitle": "2 | Deploying Windows 10 as a Service",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-09-28T18:52:37.3977878Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/dd83/c9497e2d-f377-4634-985d-97d8cc53dd83/mod2prepareyourenterprise_mid.mp4",
+    "Description": "Consider shifting from a traditional wipe and load deployment to an in-place upgrade, so Windows 10 can ease your workload, utilizing your existing tools and without new infrastructure. "
+  },
+  {
+    "VideoId": "a58f0892-39d9-4791-a774-a51e0121530e",
+    "DataApi": "/Entries(guid'a58f0892-39d9-4791-a774-a51e0121530e')/",
+    "VideoPageLink": "/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/3--Staying-Current-with-Windows-as-a-Service",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b7a0/1b1f0395-a52a-4745-8534-8265c4ceb7a0/mod3prepareyourenterprise_960.jpg",
+    "ShowName": "Preparing Your Enterprise for Windows 10 as a Service",
+    "VideoLength": "00:39:46",
+    "VideoTitle": "3 | Staying Current with Windows as a Service",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-09-28T18:52:57.3840994Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b7a0/1b1f0395-a52a-4745-8534-8265c4ceb7a0/mod3prepareyourenterprise_mid.mp4",
+    "Description": "Explore how Windows capabilities are now delivered faster than ever, to address new security threats, new employee scenarios, and the different ways people are using PCs.  "
+  },
+  {
+    "VideoId": "13f27062-cc48-44e3-ad0b-a51e012186cf",
+    "DataApi": "/Entries(guid'13f27062-cc48-44e3-ad0b-a51e012186cf')/",
+    "VideoPageLink": "/Series/Preparing-Your-Enterprise-for-Windows-10-as-a-Service/4--Jump-Start-Q--A",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f3c6/ff4e6c63-24a1-4dab-93fd-999172a3f3c6/mod4prepareyourenterprise_960.jpg",
+    "ShowName": "Preparing Your Enterprise for Windows 10 as a Service",
+    "VideoLength": "00:14:55",
+    "VideoTitle": "4 | Jump Start Q & A",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-09-28T18:53:17.0397361Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f3c6/ff4e6c63-24a1-4dab-93fd-999172a3f3c6/mod4prepareyourenterprise_mid.mp4",
+    "Description": "When will the next version of MDT supporting Windows be released? Is it possible to manage Configuration Manager with SC 2012 R2? What are the acronyms CBCBB and LTSB and what's the difference? "
+  }
+]

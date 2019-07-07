@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "31b4fdd3-bbfc-4d09-ab7d-a30a012f44f2",
+    "DataApi": "/Entries(guid'31b4fdd3-bbfc-4d09-ab7d-a30a012f44f2')/",
+    "VideoPageLink": "/blogs/HarryPierson/Brokered-WinRT-Components-Wake-On-Callback-Demo",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/69b7/9e0f2205-c7a0-4622-aa78-cd0e68ac69b7/BrokeredComponentsWakeOnCallback_960.jpg",
+    "ShowName": "Harry Pierson",
+    "VideoLength": "00:02:53",
+    "VideoTitle": "Brokered WinRT Components Wake On Callback Demo",
+    "Author": "Harry Pierson [MSFT]",
+    "UtcDateTimePublished": "2014-04-11T22:25:03.1992859Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/69b7/9e0f2205-c7a0-4622-aa78-cd0e68ac69b7/BrokeredComponentsWakeOnCallback_mid.mp4",
+    "Description": "In my Respecting Your Investments talk @ Build 2014, my demo of the &quot;Wake on Callback&quot; feature of Brokered WinRT Components failed because I had disabled notifications. This video shows that"
+  }
+]

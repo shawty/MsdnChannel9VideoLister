@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "4ced82a0-92f7-45c3-848a-a3bf017fe54f",
+    "DataApi": "/Entries(guid'4ced82a0-92f7-45c3-848a-a3bf017fe54f')/",
+    "VideoPageLink": "/Series/Imagine-Cup-Building-Your-Student-Startup/Building-Your-Student-Startup-2-Pitching-Your-Games-Project",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5f37/1cafe422-1c4b-4501-a8f4-8da029485f37/BuildingStartup2_960.jpg",
+    "ShowName": "Imagine Cup: Building Your Student Startup",
+    "VideoLength": "00:20:32",
+    "VideoTitle": "Imagine Cup: Building Your Student Startup (02) Pitching Your Games Project",
+    "Author": "John Scott Tynes",
+    "UtcDateTimePublished": "2014-10-10T17:37:56.6881786Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5f37/1cafe422-1c4b-4501-a8f4-8da029485f37/BuildingStartup2_mid.mp4",
+    "Description": "Learn from a veteran Xbox Executive Producer how real indie studios pitch their games to publishers and partners. "
+  },
+  {
+    "VideoId": "62577b76-b78c-427b-af9e-a3bf01828b7d",
+    "DataApi": "/Entries(guid'62577b76-b78c-427b-af9e-a3bf01828b7d')/",
+    "VideoPageLink": "/Series/Imagine-Cup-Building-Your-Student-Startup/Building-Your-Student-Startup-3-Pitching-Your-Innovation-Project",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a422/7da3eb46-3ce8-4029-9c2b-e15e8240a422/BuildingStartup3_960.jpg",
+    "ShowName": "Imagine Cup: Building Your Student Startup",
+    "VideoLength": "00:26:34",
+    "VideoTitle": "Imagine Cup: Building Your Student Startup (03) Pitching Your Innovation Project",
+    "Author": "John Scott Tynes",
+    "UtcDateTimePublished": "2014-10-10T17:38:09.4419022Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a422/7da3eb46-3ce8-4029-9c2b-e15e8240a422/BuildingStartup3_mid.mp4",
+    "Description": "Got an innovative consumer or business project in mind? Learn from a Microsoft Ventures expert how real startups pitch their projects to investors. "
+  },
+  {
+    "VideoId": "42c9cbde-d41f-4feb-bf55-a3bf018499ef",
+    "DataApi": "/Entries(guid'42c9cbde-d41f-4feb-bf55-a3bf018499ef')/",
+    "VideoPageLink": "/Series/Imagine-Cup-Building-Your-Student-Startup/Building-Your-Student-Startup-4-Pitching-Your-World-Citizenship-Project",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f3a/216fe23a-77ce-4828-8f2c-e22c52e09f3a/BuildingStartup4_960.jpg",
+    "ShowName": "Imagine Cup: Building Your Student Startup",
+    "VideoLength": "00:23:10",
+    "VideoTitle": "Imagine Cup: Building Your Student Startup (04) Pitching Your World Citizenship Project",
+    "Author": "John Scott Tynes",
+    "UtcDateTimePublished": "2014-10-10T17:38:25.0213557Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f3a/216fe23a-77ce-4828-8f2c-e22c52e09f3a/BuildingStartup4_mid.mp4",
+    "Description": "Want to make the world better? Learn from a Microsoft Citizenship director how tech-for-good startups conceive and pitch their projects. "
+  }
+]

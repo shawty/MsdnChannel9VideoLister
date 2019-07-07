@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "5abb8fd0-84b1-48ad-8667-a77701266c40",
+    "DataApi": "/Entries(guid'5abb8fd0-84b1-48ad-8667-a77701266c40')/",
+    "VideoPageLink": "/Shows/Tech-Crumbs/Webpack-tutorial-for-beginners",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9487/87e1cfd6-442e-4a17-a6bc-cb1cc4379487/webpack_960.jpg",
+    "ShowName": "Tech Crumbs",
+    "VideoLength": "00:37:51",
+    "VideoTitle": "Webpack tutorial for beginners ",
+    "Author": "Rafat Sarosh",
+    "UtcDateTimePublished": "2017-05-18T22:52:44.8330629Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9487/87e1cfd6-442e-4a17-a6bc-cb1cc4379487/webpack_high.mp4",
+    "Description": "Learn Webpack basics. In this screen cast I start with plain vanilla JavaScript, and then convert the code to different modules AMD and then ES6 module. And on every step of the way we will see how we"
+  }
+]

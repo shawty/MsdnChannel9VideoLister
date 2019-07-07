@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "7933e3f1-7ead-45f9-b059-aa62016cea20",
+    "DataApi": "/Entries(guid'7933e3f1-7ead-45f9-b059-aa62016cea20')/",
+    "VideoPageLink": "/Shows/Careers-Behind-the-Code/Becoming-the-ASPNET-Architect-with-David-Fowler",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/c385ea30-4cdf-4d9a-9393-ae5efac80889.jpg",
+    "ShowName": "Careers Behind the Code",
+    "VideoLength": "00:53:04",
+    "VideoTitle": "Becoming the ASP.NET Architect with David Fowler",
+    "Author": "Steve Carroll (msft)",
+    "UtcDateTimePublished": "2019-06-05T21:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2ee7/133a820d-8587-48b0-b2f4-d7ca94112ee7/CBtC_mid.mp4",
+    "Description": "In this episode, David Fowler, the Partner Architect for the ASP.NET team walks you through landing his first job, moving from a dev to an architect role and what he had to learn and let go of at ever"
+  }
+]

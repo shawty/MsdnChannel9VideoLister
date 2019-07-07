@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "65e89854-af91-4a4a-8b25-a3ee016c06ba",
+    "DataApi": "/Entries(guid'65e89854-af91-4a4a-8b25-a3ee016c06ba')/",
+    "VideoPageLink": "/Series/OneDrive-for-Business-Fundamentals/Save-and-open-files",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e922/fc6c784a-8f81-4e4a-b264-38924df9e922/ViewandEditDocuments_960.jpg",
+    "ShowName": "OneDrive for Business Fundamentals",
+    "VideoLength": "00:02:16",
+    "VideoTitle": "Save and open files",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2014-12-05T16:58:10.2925999Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e922/fc6c784a-8f81-4e4a-b264-38924df9e922/ViewandEditDocuments_mid.mp4",
+    "Description": "You can work with the files you store in OneDrive for Business right from Word, Excel, PowerPoint, and other Office desktop apps. There's no need to go to your Office 365 site in a browser.â€‹ "
+  },
+  {
+    "VideoId": "ac378c73-8059-4398-928a-a3ee0161f6e5",
+    "DataApi": "/Entries(guid'ac378c73-8059-4398-928a-a3ee0161f6e5')/",
+    "VideoPageLink": "/Series/OneDrive-for-Business-Fundamentals/What-is-OneDrive",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fa37/2c26a825-d0f7-4fcc-9e2a-d92cb6a5fa37/OneDriveWhatIsOneDrive_960.jpg",
+    "ShowName": "OneDrive for Business Fundamentals",
+    "VideoLength": "00:00:45",
+    "VideoTitle": "What is OneDrive?",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2014-12-05T17:58:43.764861Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fa37/2c26a825-d0f7-4fcc-9e2a-d92cb6a5fa37/OneDriveWhatIsOneDrive_mid.mp4",
+    "Description": "OneDrive is Microsoft's cloud storage service.â€‹ You can store all your pictures, videos, documents, and other files in OneDrive. "
+  },
+  {
+    "VideoId": "20b9e3cd-02dd-45c8-9b5f-a3ee014d9b78",
+    "DataApi": "/Entries(guid'20b9e3cd-02dd-45c8-9b5f-a3ee014d9b78')/",
+    "VideoPageLink": "/Series/OneDrive-for-Business-Fundamentals/What-is-the-cloud",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c25a/a1fe997d-f722-44c0-ae5d-da10d3e1c25a/OneDriveWhatIsCloud_960.jpg",
+    "ShowName": "OneDrive for Business Fundamentals",
+    "VideoLength": "00:00:29",
+    "VideoTitle": "What is the cloud?",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2014-12-05T17:58:52.1987749Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c25a/a1fe997d-f722-44c0-ae5d-da10d3e1c25a/OneDriveWhatIsCloud_mid.mp4",
+    "Description": "The cloud is the Internetâ€”a global system of interconnected computers. â€‹ Connecting computers to the cloud let's you keep in touch with friends, manage your business, and store files in one place.  "
+  },
+  {
+    "VideoId": "f4fff9f3-8d32-4479-9c10-a3ee016d2d0b",
+    "DataApi": "/Entries(guid'f4fff9f3-8d32-4479-9c10-a3ee016d2d0b')/",
+    "VideoPageLink": "/Series/OneDrive-for-Business-Fundamentals/Sync-files-with-your-computer",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2ac1/9b0bb491-f5f5-4cba-b171-008b7d1e2ac1/SyncOneDriveForBusiness_960.jpg",
+    "ShowName": "OneDrive for Business Fundamentals",
+    "VideoLength": "00:01:29",
+    "VideoTitle": "Sync files with your computer",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2014-12-05T18:04:05.8829642Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2ac1/9b0bb491-f5f5-4cba-b171-008b7d1e2ac1/SyncOneDriveForBusiness_mid.mp4",
+    "Description": "Sync OneDrive for Business to your computer, and then get to your files in File Explorer instead of in a web browser. All your changes sync to OneDrive for Business whenever you're online. "
+  },
+  {
+    "VideoId": "d6b1b380-aaa5-4724-9dfb-a3ee0168b3ee",
+    "DataApi": "/Entries(guid'd6b1b380-aaa5-4724-9dfb-a3ee0168b3ee')/",
+    "VideoPageLink": "/Series/OneDrive-for-Business-Fundamentals/Add-files-to-OneDrive",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2a50/0f13c223-a284-4784-b6c2-0e83d9272a50/AddfilestoOneDrive_960.jpg",
+    "ShowName": "OneDrive for Business Fundamentals",
+    "VideoLength": "00:01:54",
+    "VideoTitle": "Add files to OneDrive",
+    "Author": "bneeb",
+    "UtcDateTimePublished": "2014-12-19T17:28:30.2423236Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2a50/0f13c223-a284-4784-b6c2-0e83d9272a50/AddfilestoOneDrive_mid.mp4",
+    "Description": "OneDrive for Business is the place where you store, share, and sync your work files. As part of Office 365 or SharePoint Server 2013, OneDrive for Business lets you update and share your files from an"
+  }
+]

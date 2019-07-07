@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "a3685d4a-b270-439f-81f6-a4f4016ba8c9",
+    "DataApi": "/Entries(guid'a3685d4a-b270-439f-81f6-a4f4016ba8c9')/",
+    "VideoPageLink": "/Series/Security-in-the-Enterprise/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/44df/fb9ee89d-a7db-4fc1-a99a-769ec2d544df/SecurityTopicsMod2_960.jpg",
+    "ShowName": "Security in the Enterprise",
+    "VideoLength": "00:25:57",
+    "VideoTitle": "(Module 2) Social Media Security  ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-09-07T13:02:02Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/44df/fb9ee89d-a7db-4fc1-a99a-769ec2d544df/SecurityTopicsMod2_mid.mp4",
+    "Description": "With the advent of social media, people are sharing more and more online. Unknowingly, this information can put your security (and the security of your company) at risk. Learn more in this informative"
+  },
+  {
+    "VideoId": "192da691-884b-4329-a31f-a4f4016be1d6",
+    "DataApi": "/Entries(guid'192da691-884b-4329-a31f-a4f4016be1d6')/",
+    "VideoPageLink": "/Series/Security-in-the-Enterprise/Mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9062/1ea82637-3902-41db-8c78-cab172909062/SecurityTopicsMod3_960.jpg",
+    "ShowName": "Security in the Enterprise",
+    "VideoLength": "00:38:25",
+    "VideoTitle": "(Module 3) Advanced Windows Defense",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-09-07T13:03:03Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9062/1ea82637-3902-41db-8c78-cab172909062/SecurityTopicsMod3_mid.mp4",
+    "Description": "Mimicking staff, recording pin numbers, being up to date on patches, are all ways that hackers identify vulnerabilities. Learn how to overcome these and many other tactics to ensure you are ready for "
+  },
+  {
+    "VideoId": "1620deb1-c4fa-42d5-b18d-a4f4016d07c4",
+    "DataApi": "/Entries(guid'1620deb1-c4fa-42d5-b18d-a4f4016d07c4')/",
+    "VideoPageLink": "/Series/Security-in-the-Enterprise/Mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7818/8c3c46a4-8bcf-4246-800d-592d4e137818/SecurityTopicsMod4_960.jpg",
+    "ShowName": "Security in the Enterprise",
+    "VideoLength": "00:28:21",
+    "VideoTitle": "(Module 4) Free Tools to Protect Your Windows Environment",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-09-07T13:04:04Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7818/8c3c46a4-8bcf-4246-800d-592d4e137818/SecurityTopicsMod4_mid.mp4",
+    "Description": "You may not be able to stop the hacker, but you can make their job hard. Learn how to keep your data and devices more secure through these detailed steps.  This video is part of the Microsoft Virtual "
+  },
+  {
+    "VideoId": "2fbb3b28-71a7-41f5-98d2-a4f4016d62d7",
+    "DataApi": "/Entries(guid'2fbb3b28-71a7-41f5-98d2-a4f4016d62d7')/",
+    "VideoPageLink": "/Series/Security-in-the-Enterprise/Mod5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6bc3/e4579f09-4a9b-4c92-a679-61e464206bc3/SecurityTopicsMod5_960.jpg",
+    "ShowName": "Security in the Enterprise",
+    "VideoLength": "00:52:47",
+    "VideoTitle": "(Module 5) Vulnerability Management",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-09-07T13:05:05Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6bc3/e4579f09-4a9b-4c92-a679-61e464206bc3/SecurityTopicsMod5_mid.mp4",
+    "Description": "Learn more about software vulnerabilities and the evolution of the landscape. Find suggestions and data points on how to position the full impact to your organization, and then learn how to begin your"
+  },
+  {
+    "VideoId": "11bbd0b9-0d06-4430-9963-a4f4016dacba",
+    "DataApi": "/Entries(guid'11bbd0b9-0d06-4430-9963-a4f4016dacba')/",
+    "VideoPageLink": "/Series/Security-in-the-Enterprise/Mod6",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/30d6/594f53bc-fca1-42c4-9e28-49923a1830d6/SecurityTopicsMod6_960.jpg",
+    "ShowName": "Security in the Enterprise",
+    "VideoLength": "00:30:35",
+    "VideoTitle": "(Module 6) Top Mitigation Methods to Protect Your Enterprise",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-09-07T13:06:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/30d6/594f53bc-fca1-42c4-9e28-49923a1830d6/SecurityTopicsMod6_mid.mp4",
+    "Description": "17 best practices, some obvious and some not, on how to protect your Enterprise. Also, learn about the innovations that Windows 10 Enterprise brings to ensure you are ready for all modern security thr"
+  }
+]

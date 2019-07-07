@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "74c62259-fef3-40f6-9fde-a3d1016f9803",
+    "DataApi": "/Entries(guid'74c62259-fef3-40f6-9fde-a3d1016f9803')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Sales-with-Office-365/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f33a/f055e30a-3c0d-49e1-909d-99d2ad13f33a/SMBSolutionIncreaseSalesWithO365M02_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Sales with Office 365",
+    "VideoLength": "00:09:15",
+    "VideoTitle": "SMB Solution: Increase Your Sales with Office 365: (02) How to Create a Cool Sales Presentation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:05:57.3651119Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f33a/f055e30a-3c0d-49e1-909d-99d2ad13f33a/SMBSolutionIncreaseSalesWithO365M02_mid.mp4",
+    "Description": "Learn how to easily create a sales presentation using PowerPoint templates. Full course outline: Mod 01: How to Easily Set up Appointments with Your CustomersMod 02: How to Create a Cool Sales Present"
+  },
+  {
+    "VideoId": "2119b3cf-c1f9-46f5-944b-a3d101700425",
+    "DataApi": "/Entries(guid'2119b3cf-c1f9-46f5-944b-a3d101700425')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Sales-with-Office-365/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1713/fe9ab0bb-4503-4325-bbed-b832d7b41713/SMBSolutionIncreaseSalesWithO365M04_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Sales with Office 365",
+    "VideoLength": "00:05:44",
+    "VideoTitle": "SMB Solution: Increase Your Sales with Office 365: (04) How to Send the Same Email to Multiple Contacts",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:06:53.4858258Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1713/fe9ab0bb-4503-4325-bbed-b832d7b41713/SMBSolutionIncreaseSalesWithO365M04_mid.mp4",
+    "Description": "Find out how to send the same email to multiple contacts. Full course outline: Mod 01: How to Easily Set up Appointments with Your CustomersMod 02: How to Create a Cool Sales PresentationMod 03: How t"
+  },
+  {
+    "VideoId": "3d03a080-4922-4225-b03d-a3d1016fc7a4",
+    "DataApi": "/Entries(guid'3d03a080-4922-4225-b03d-a3d1016fc7a4')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Sales-with-Office-365/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3c5a/13503e9f-9418-4450-aafe-b1a644983c5a/SMBSolutionIncreaseSalesWithO365M03_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Sales with Office 365",
+    "VideoLength": "00:10:23",
+    "VideoTitle": "SMB Solution: Increase Your Sales with Office 365: (03) How to Use Charts to Show Trends and Forecast Sales",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:06:55.0596942Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3c5a/13503e9f-9418-4450-aafe-b1a644983c5a/SMBSolutionIncreaseSalesWithO365M03_mid.mp4",
+    "Description": "Explore ways to create trends and forecasts using Excel charts. Full course outline: Mod 01: How to Easily Set up Appointments with Your CustomersMod 02: How to Create a Cool Sales PresentationMod 03:"
+  },
+  {
+    "VideoId": "a184a540-743d-49d1-a1c8-a3d101701373",
+    "DataApi": "/Entries(guid'a184a540-743d-49d1-a1c8-a3d101701373')/",
+    "VideoPageLink": "/Series/SMB-Solution-Increase-Your-Sales-with-Office-365/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d9c/e1dd942c-90a3-4dbd-be11-80c1d0fd3d9c/SMBSolutionIncreaseSalesWithO365M05_960.jpg",
+    "ShowName": "SMB Solution: Increase Your Sales with Office 365",
+    "VideoLength": "00:09:11",
+    "VideoTitle": "SMB Solution: Increase Your Sales with Office 365: (05) How to Schedule Generic Weekly Communication to Prospects",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-10-28T16:07:14.5874579Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d9c/e1dd942c-90a3-4dbd-be11-80c1d0fd3d9c/SMBSolutionIncreaseSalesWithO365M05_mid.mp4",
+    "Description": "Create email templates to set up generic weekly communication to prospects, using Office 365 suite. Full course outline: Mod 01: How to Easily Set up Appointments with Your CustomersMod 02: How to Cre"
+  }
+]

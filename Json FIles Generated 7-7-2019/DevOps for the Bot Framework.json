@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "28bad5e1-9aab-4424-b17b-a738010aa6b3",
+    "DataApi": "/Entries(guid'28bad5e1-9aab-4424-b17b-a738010aa6b3')/",
+    "VideoPageLink": "/Series/DevOps-for-the-Bot-Framework/Continuous-Integration-for-the-Bot-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a81b/ee23c012-e09b-469d-a7d3-6c7cefd7a81b/ContinuousIntegrationBotFramework_960.jpg",
+    "ShowName": "DevOps for the Bot Framework",
+    "VideoLength": "00:13:45",
+    "VideoTitle": "Continuous Integration for the Bot Framework",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2017-03-20T14:22:51.8869429Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a81b/ee23c012-e09b-469d-a7d3-6c7cefd7a81b/ContinuousIntegrationBotFramework_mid.mp4",
+    "Description": "In this session we cover Continuous Integration (CI) and any particular considerations for bots built with the Microsoft Bot Framework.  [00:25] What is Continuous Integration [00:40] Bot Framework co"
+  },
+  {
+    "VideoId": "f40d082d-3e6a-4002-832e-a738010e568d",
+    "DataApi": "/Entries(guid'f40d082d-3e6a-4002-832e-a738010e568d')/",
+    "VideoPageLink": "/Series/DevOps-for-the-Bot-Framework/Testing-the-Bot-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f979/40088849-aa88-45d4-93d5-6d1a6a17f979/TestingBotFramework_960.jpg",
+    "ShowName": "DevOps for the Bot Framework",
+    "VideoLength": "00:15:32",
+    "VideoTitle": "Testing the Bot Framework",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2017-03-21T15:35:18.5495331Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f979/40088849-aa88-45d4-93d5-6d1a6a17f979/TestingBotFramework_mid.mp4",
+    "Description": "In this session we cover unit and functional testing and particular considerations for bots built with the Microsoft Bot Framework.  [00:28] Bot Framework considerations for testing [03:51] DEMO - Aut"
+  },
+  {
+    "VideoId": "88da5ed7-c8cb-4864-9f63-a738010f7430",
+    "DataApi": "/Entries(guid'88da5ed7-c8cb-4864-9f63-a738010f7430')/",
+    "VideoPageLink": "/Series/DevOps-for-the-Bot-Framework/Continuous-Deployment-and-Release-Management-for-the-Bot-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e821/5b4c914c-73c4-407a-9459-993cdcd3e821/ContinuousDeploymentBotFramework_960.jpg",
+    "ShowName": "DevOps for the Bot Framework",
+    "VideoLength": "00:18:47",
+    "VideoTitle": "Continuous Deployment and Release Management for the Bot Framework",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2017-03-22T14:21:34.4963639Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e821/5b4c914c-73c4-407a-9459-993cdcd3e821/ContinuousDeploymentBotFramework_mid.mp4",
+    "Description": "In this session we cover Continuous Deployment (CD) and Release Management for bots built with the Microsoft Bot Framework.  [00:32] Bot Framework considerations for Continuous Deployment [04:37] DEMO"
+  },
+  {
+    "VideoId": "8cf9da53-433e-4d73-baf7-a73801116b35",
+    "DataApi": "/Entries(guid'8cf9da53-433e-4d73-baf7-a73801116b35')/",
+    "VideoPageLink": "/Series/DevOps-for-the-Bot-Framework/Telemetry-for-the-Bot-Framework",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/59ba/a6792f36-1bad-4c79-b6bf-9062a4ee59ba/TelemetryBotFramework_960.jpg",
+    "ShowName": "DevOps for the Bot Framework",
+    "VideoLength": "00:13:52",
+    "VideoTitle": "Telemetry for the Bot Framework",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2017-03-23T14:19:32.2407622Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/59ba/a6792f36-1bad-4c79-b6bf-9062a4ee59ba/TelemetryBotFramework_mid.mp4",
+    "Description": "In this session we cover telemetry and learning from users for bots built with the Microsoft Bot Framework.  [00:20] Bot Framework considerations for Telemetry [03:38] DEMO - Telemetry in a Node.js bo"
+  },
+  {
+    "VideoId": "058a8794-8f6a-4407-acd5-a7380113c55b",
+    "DataApi": "/Entries(guid'058a8794-8f6a-4407-acd5-a7380113c55b')/",
+    "VideoPageLink": "/Series/DevOps-for-the-Bot-Framework/More-Bot-Demos-and-Advanced-Considerations",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7727/80ef894f-0483-4e42-a49c-f35b71b97727/BotDemosAdvancedTopics_960.jpg",
+    "ShowName": "DevOps for the Bot Framework",
+    "VideoLength": "00:15:53",
+    "VideoTitle": "More Bot Demos and Advanced Considerations",
+    "Author": "Donovan Brown",
+    "UtcDateTimePublished": "2017-03-24T14:02:19.8409374Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7727/80ef894f-0483-4e42-a49c-f35b71b97727/BotDemosAdvancedTopics_mid.mp4",
+    "Description": "In this session we give you an overview of the Microsoft Bot Framework for developers using two different bot examples, one in Node.js and one in C#. We then talk about DevOps and how it applies to an"
+  }
+]

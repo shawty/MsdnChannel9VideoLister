@@ -1,0 +1,28 @@
+[
+  {
+    "VideoId": "a0971a53-cb80-4105-9f79-a46b0155b54b",
+    "DataApi": "/Entries(guid'a0971a53-cb80-4105-9f79-a46b0155b54b')/",
+    "VideoPageLink": "/Series/Advanced-MonoGame-for-Windows-Phone-and-Windows-Store-Games/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a3ca/34c28f52-db38-477c-b5c6-345dcb58a3ca/395AdvMonoGameM02_960.jpg",
+    "ShowName": "Advanced MonoGame for Windows Phone and Windows Store Games",
+    "VideoLength": "00:49:59",
+    "VideoTitle": "Advanced MonoGame for Windows Phone and Windows Store Games: (02) Optimization, Performance, and Debugging",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:34:11.5031963Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a3ca/34c28f52-db38-477c-b5c6-345dcb58a3ca/395AdvMonoGameM02_mid.mp4",
+    "Description": "Take a look at game debugging techniques, along with common pitfalls and solutions related to performance optimization for C# and MonoGame. [01:06] - Debugging[11:04] - Debugging After Release[21:21] "
+  },
+  {
+    "VideoId": "d45d9a6c-b697-4b1b-9c32-a46b0155db1d",
+    "DataApi": "/Entries(guid'd45d9a6c-b697-4b1b-9c32-a46b0155db1d')/",
+    "VideoPageLink": "/Series/Advanced-MonoGame-for-Windows-Phone-and-Windows-Store-Games/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ceb8/397c4b73-e950-49ea-b674-66baef63ceb8/395AdvMonoGameM03_960.jpg",
+    "ShowName": "Advanced MonoGame for Windows Phone and Windows Store Games",
+    "VideoLength": "00:51:37",
+    "VideoTitle": "Advanced MonoGame for Windows Phone and Windows Store Games: (03) Extending the Content Pipeline",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-31T15:34:21.8171222Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ceb8/397c4b73-e950-49ea-b674-66baef63ceb8/395AdvMonoGameM03_mid.mp4",
+    "Description": "Delve into the details of how the MonoGame content pipeline works and how to extend it to generate custom game content optimized to your target platforms. [00:50] - Pipeline Review[09:21] - Pipeline C"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "98b479ee-84af-467b-bb34-a59d0012ec7f",
+    "DataApi": "/Entries(guid'98b479ee-84af-467b-bb34-a59d0012ec7f')/",
+    "VideoPageLink": "/Blogs/cloud-with-a-silver-lining/Fun-with-PowerShell-Tweaking-your-Profile",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7263/2f3a46c8-11a9-47be-84d0-7e8280527263/StuartLeeks002withSeth_960.jpg",
+    "ShowName": "Cloud With A Silver Lining",
+    "VideoLength": "00:07:19",
+    "VideoTitle": "Fun with PowerShell - Tweaking your Profile",
+    "Author": "Stuart Leeks",
+    "UtcDateTimePublished": "2016-05-24T20:54:06.5721932Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7263/2f3a46c8-11a9-47be-84d0-7e8280527263/StuartLeeks002withSeth_mid.mp4",
+    "Description": "Continuing the fun with PowerShell, I chatted with Seth about how you can customise the loading of your PowerShell profile. More details can be found here: Showing loading progress: https://blogs.msdn"
+  },
+  {
+    "VideoId": "587f35d0-e003-450c-a45f-a59d0012c3ca",
+    "DataApi": "/Entries(guid'587f35d0-e003-450c-a45f-a59d0012c3ca')/",
+    "VideoPageLink": "/Blogs/cloud-with-a-silver-lining/Fun-with-PowerShell-Creating-posh-HumpCompletion",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be15/a07dc7ba-b0c0-4a88-bb7d-53da38abbe15/StuartLeeks001withSeth_960.jpg",
+    "ShowName": "Cloud With A Silver Lining",
+    "VideoLength": "00:12:46",
+    "VideoTitle": "Fun with PowerShell - Creating posh-HumpCompletion",
+    "Author": "Stuart Leeks",
+    "UtcDateTimePublished": "2016-05-10T15:57:26.7475289Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be15/a07dc7ba-b0c0-4a88-bb7d-53da38abbe15/StuartLeeks001withSeth_mid.mp4",
+    "Description": "I had fun recently creating a module for PowerShell to bring the hump completion behaviour from Visual Studio (e.g. using 'MSDC' to navigate to 'MySuperDuperClass') into PowerShell. I blogged a while "
+  },
+  {
+    "VideoId": "2b5f5b88-91c7-4e5f-ac8f-a4ba00ea34c6",
+    "DataApi": "/Entries(guid'2b5f5b88-91c7-4e5f-ac8f-a4ba00ea34c6')/",
+    "VideoPageLink": "/Blogs/cloud-with-a-silver-lining/Visual-Studio-Code-Task-Runners",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/eedb/33402db2-d5a9-451f-87c8-31c6d2f8eedb/VisualStudioCode03_960.jpg",
+    "ShowName": "Cloud With A Silver Lining",
+    "VideoLength": "00:07:51",
+    "VideoTitle": "Visual Studio Code Task Runners",
+    "Author": "Stuart Leeks",
+    "UtcDateTimePublished": "2015-06-23T17:33:13.879621Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/eedb/33402db2-d5a9-451f-87c8-31c6d2f8eedb/VisualStudioCode03_mid.mp4",
+    "Description": "In this video we look at the customisable workflow in Visual Studio Code. We show how we can integrate with the task runners to invoke Pester for running the unit tests for a PowerShell project (posh-"
+  },
+  {
+    "VideoId": "0869d1bb-0c85-4ad0-83f6-a4ba00e60263",
+    "DataApi": "/Entries(guid'0869d1bb-0c85-4ad0-83f6-a4ba00e60263')/",
+    "VideoPageLink": "/Blogs/cloud-with-a-silver-lining/visual-studio-code-and-aspnet-5",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e453/efc9baae-3b2e-4ac8-8cdc-9ccae59be453/VSCodeASPnet5_960.jpg",
+    "ShowName": "Cloud With A Silver Lining",
+    "VideoLength": "00:08:06",
+    "VideoTitle": "Visual Studio Code and ASP.NET 5",
+    "Author": "Stuart Leeks",
+    "UtcDateTimePublished": "2015-06-18T07:30:56.758297Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e453/efc9baae-3b2e-4ac8-8cdc-9ccae59be453/VSCodeASPnet5_mid.mp4",
+    "Description": "The previous video showed Visual Studio Code with a NodeJS project. In this video we take a look at working with an ASP.NET 5 project in Visual Studio Code.  [01:49] - Task runners (building ASP.NET 5"
+  },
+  {
+    "VideoId": "012163a6-4de0-4314-a0ec-a4ba00d95e16",
+    "DataApi": "/Entries(guid'012163a6-4de0-4314-a0ec-a4ba00d95e16')/",
+    "VideoPageLink": "/Blogs/cloud-with-a-silver-lining/hello-visual-studio-code-nodejs",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fca8/903cb7e3-3a3b-486b-b37b-fcc356c8fca8/HelloVSCodewNodeJS_960.jpg",
+    "ShowName": "Cloud With A Silver Lining",
+    "VideoLength": "00:09:39",
+    "VideoTitle": "Hello Visual Studio Code (with NodeJS)",
+    "Author": "Stuart Leeks",
+    "UtcDateTimePublished": "2015-06-17T20:14:39.3663215Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fca8/903cb7e3-3a3b-486b-b37b-fcc356c8fca8/HelloVSCodewNodeJS_mid.mp4",
+    "Description": "In this video we take a first look at Visual Studio Code with NodeJS. We dig into IntelliSense for JavaScript using TypeScript definition files, configuring the launch settings and debugging the NodeJ"
+  }
+]

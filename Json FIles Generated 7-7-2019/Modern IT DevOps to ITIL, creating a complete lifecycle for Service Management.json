@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "5df3f89a-bd7e-4030-81d7-a4f00147dda5",
+    "DataApi": "/Entries(guid'5df3f89a-bd7e-4030-81d7-a4f00147dda5')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e650/6bd5187d-7298-494e-859b-b2457df8e650/mod2modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:46:41",
+    "VideoTitle": "Mod 2: Modern IT â€“ People-Culture and Team Dynamics ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:35:52.5306417Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e650/6bd5187d-7298-494e-859b-b2457df8e650/mod2modernitDevops_mid.mp4",
+    "Description": "Look at the typical organizational structures and team dynamics in a DevOps transformation. Learn what to do and what not to do in creating an organization. See how an existing structure can be used. "
+  },
+  {
+    "VideoId": "d4579bec-7949-473b-939d-a4f0014956c7",
+    "DataApi": "/Entries(guid'd4579bec-7949-473b-939d-a4f0014956c7')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-3-Modern-IT--Service-Strategy-and-Ideation",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9089/e7a654fd-3349-4519-8f50-84ff69729089/mod3modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:18:31",
+    "VideoTitle": "Mod 3: Modern IT â€“ Service Strategy and Ideation ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:35:36.98834Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9089/e7a654fd-3349-4519-8f50-84ff69729089/mod3modernitDevops_mid.mp4",
+    "Description": "â€‹Explore the ways that IT organizations select the services to deliver to the business, how that selection plays into other parts of the lifecycle, and a practical method of getting started. "
+  },
+  {
+    "VideoId": "7a286099-2216-4bc3-93ab-a4f00149ca08",
+    "DataApi": "/Entries(guid'7a286099-2216-4bc3-93ab-a4f00149ca08')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-4-Modern-IT--Service-Design-and-SDP",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5afd/0730b535-ad5b-4f17-a67d-d9e34d0a5afd/mod4modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:26:41",
+    "VideoTitle": "Mod 4: Modern IT â€“ Service Design and SDP ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:35:21.4612566Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5afd/0730b535-ad5b-4f17-a67d-d9e34d0a5afd/mod4modernitDevops_mid.mp4",
+    "Description": "See how IT services are designed, documented, and transitioned to build.  Walk through the creation of a backlog associated with a given IT service and how that backlog enters the dev process. "
+  },
+  {
+    "VideoId": "109e6124-9a04-4939-b655-a4f0015493a8",
+    "DataApi": "/Entries(guid'109e6124-9a04-4939-b655-a4f0015493a8')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-5-Modern-IT--Service-Development",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e739/e8347bd0-2691-4bda-92ef-5769595ce739/mod5modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:27:06",
+    "VideoTitle": "Mod 5: Modern IT â€“ Service Development ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:35:03.5025217Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e739/e8347bd0-2691-4bda-92ef-5769595ce739/mod5modernitDevops_mid.mp4",
+    "Description": "Get an overview of how the development process changes with DevOps, especially in relationship to leveraging a backlog, infrastructure as code, and testing practices. "
+  },
+  {
+    "VideoId": "c8004783-d357-4658-ac2c-a4f0015438db",
+    "DataApi": "/Entries(guid'c8004783-d357-4658-ac2c-a4f0015438db')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-6-Modern-IT--Service-Transition",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/28a8/faedbc6b-707a-4c7d-b719-d92f305b28a8/mod6modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:39:24",
+    "VideoTitle": "Mod 6: Modern IT â€“ Service Transition ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:34:50.6415154Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/28a8/faedbc6b-707a-4c7d-b719-d92f305b28a8/mod6modernitDevops_mid.mp4",
+    "Description": "â€‹â€‹See how DevOps changes the service transition patterns of traditional enterprise IT. Explore the origination of changes, the role of configuration management, and the impact of release management. "
+  },
+  {
+    "VideoId": "89928420-0f49-4efd-bdaa-a4f00154d31a",
+    "DataApi": "/Entries(guid'89928420-0f49-4efd-bdaa-a4f00154d31a')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-7-Modern-IT--Service-Operations",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8d6b/829af794-5ecf-4b40-b525-11e635238d6b/mod7modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:45:30",
+    "VideoTitle": "Mod 7: Modern IT â€“ Service Operations ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:34:18.2963574Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8d6b/829af794-5ecf-4b40-b525-11e635238d6b/mod7modernitDevops_mid.mp4",
+    "Description": " â€‹â€‹Find out how DevOps accelerates the operational lifecycle and provides superior service. Learn how the entire business lifecycle can be served through an integrated ITIL &#43; DevOps approach. â€‹ â€‹ "
+  },
+  {
+    "VideoId": "9d8f04aa-46bb-47d0-b969-a4f00155190f",
+    "DataApi": "/Entries(guid'9d8f04aa-46bb-47d0-b969-a4f00155190f')/",
+    "VideoPageLink": "/Shows/Modern-IT-DevOps-to-ITIL-creating-a-complete-lifecycle-for-Service-Management/Mod-8-Modern-IT--Continuous-Service-Improvement",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f52b/c3004b53-4ef1-4e9c-8f67-3916463bf52b/mod8modernitDevops_960.jpg",
+    "ShowName": "Modern IT: DevOps to ITIL, creating a complete lifecycle for Service Management",
+    "VideoLength": "00:20:32",
+    "VideoTitle": "Mod 8: Modern IT â€“ Continuous Service Improvement ",
+    "Author": "BrandiH",
+    "UtcDateTimePublished": "2015-08-18T18:33:55.300094Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f52b/c3004b53-4ef1-4e9c-8f67-3916463bf52b/mod8modernitDevops_mid.mp4",
+    "Description": "â€‹â€‹Get a framework for understanding how to invest in the future of IT. Focus on gathering feedback into a backlog, analyzing investments, and selecting a go-forward approach.  "
+  }
+]

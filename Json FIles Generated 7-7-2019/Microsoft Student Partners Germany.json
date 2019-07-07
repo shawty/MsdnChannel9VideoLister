@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "ffdd821e-cc1b-4d2a-a7a2-a4ed00f757cd",
+    "DataApi": "/Entries(guid'ffdd821e-cc1b-4d2a-a7a2-a4ed00f757cd')/",
+    "VideoPageLink": "/Series/Microsoft-Student-Partners-Germany/Hands-On-Windows-Bridge-for-iOS",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/b706/a99e7959-3645-4c2f-82f4-03827a44b706/handsonislandwood_960.jpg",
+    "ShowName": "Microsoft Student Partners Germany",
+    "VideoLength": "00:07:34",
+    "VideoTitle": "A first look into the Windows Bridge for iOS",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2015-08-07T15:45:00.9409773Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/b706/a99e7959-3645-4c2f-82f4-03827a44b706/handsonislandwood_mid.mp4",
+    "Description": "By Rafael Regh, Microsoft Student Partner in Germany Get a quick overview on the Windows Bridge for iOS which will allow you to port existing iOS Projects in Objective-C to windows and let them run as"
+  },
+  {
+    "VideoId": "f5db2aa7-cf7f-4223-bf90-a4f20111f87b",
+    "DataApi": "/Entries(guid'f5db2aa7-cf7f-4223-bf90-a4f20111f87b')/",
+    "VideoPageLink": "/Series/Microsoft-Student-Partners-Germany/Windows-10-for-Devs-Cortana",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf81/5252b0ba-9f25-42fa-9e93-563df9eecf81/CortanaForDevs_960.jpg",
+    "ShowName": "Microsoft Student Partners Germany",
+    "VideoLength": "00:04:48",
+    "VideoTitle": "Windows 10 for Devs: Cortana",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2015-08-12T17:58:02.8727545Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf81/5252b0ba-9f25-42fa-9e93-563df9eecf81/CortanaForDevs_mid.mp4",
+    "Description": "By Rafael Regh, Microsoft Student Partner in Germany One of the best Developer Tools introduced in Windows 10 is Cortana. See why! Follow @RafaelRegh "
+  },
+  {
+    "VideoId": "ac63bd92-1141-4a43-904d-a54500df7077",
+    "DataApi": "/Entries(guid'ac63bd92-1141-4a43-904d-a54500df7077')/",
+    "VideoPageLink": "/Series/Microsoft-Student-Partners-Germany/Azure-Byte-Team-Projects-und-Repositories-mit-Visual-Studio-Online-ber-DreamSpark-nutzen",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7089/53e47ab0-df18-4dd5-b5ae-5ae1b9f27089/azurestudentteamproject_960.jpg",
+    "ShowName": "Microsoft Student Partners Germany",
+    "VideoLength": "00:04:13",
+    "VideoTitle": "Azure Byte: Team Projects und Repositories mit Visual Studio Online Ã¼ber DreamSpark nutzen",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2015-11-25T11:48:13.6122159Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7089/53e47ab0-df18-4dd5-b5ae-5ae1b9f27089/azurestudentteamproject_mid.mp4",
+    "Description": "Visual Studio Online (VSO) ist eine einfach zu nutzende und leistungsfähige Online-Lösung um Software Projekte im Team zu verwalten. Mit dem DreamSpark Angebot für Microsoft Azure könnt ihr VSO zur Ve"
+  },
+  {
+    "VideoId": "40d1ee2b-622c-45ed-a4f9-a54500ddaeea",
+    "DataApi": "/Entries(guid'40d1ee2b-622c-45ed-a4f9-a54500ddaeea')/",
+    "VideoPageLink": "/Series/Microsoft-Student-Partners-Germany/Azure-Byte-Web-Apps-ber-DreamSpark-kostenfrei-in-Azure-hosten",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/889e/fddbddcc-e43f-46ce-a88a-3602f7a9889e/azurestudentwebapps_960.jpg",
+    "ShowName": "Microsoft Student Partners Germany",
+    "VideoLength": "00:04:34",
+    "VideoTitle": "Azure Byte: Web Apps Ã¼ber DreamSpark kostenfrei in Azure hosten",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2015-11-25T11:48:29.206252Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/889e/fddbddcc-e43f-46ce-a88a-3602f7a9889e/azurestudentwebapps_mid.mp4",
+    "Description": "Mit Microsoft Azure und dem DreamSpark Angebot für Studierende lassen sich ganz leicht eigene Webanwendungen erstellen. In diesem Azure Byte zeigt Lukas Pollmann, Senior Student Partner bei Microsoft,"
+  },
+  {
+    "VideoId": "342874d8-7dfc-45f8-b368-a5df01071c2d",
+    "DataApi": "/Entries(guid'342874d8-7dfc-45f8-b368-a5df01071c2d')/",
+    "VideoPageLink": "/Series/Microsoft-Student-Partners-Germany/Vorstellung-Microsoft-Student-Partners-Deutschland",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/00ae/16f818cb-ae82-4e6a-90d7-ccefa98e00ae/StudentPartnersGermany_960.jpg",
+    "ShowName": "Microsoft Student Partners Germany",
+    "VideoLength": "00:03:00",
+    "VideoTitle": "Vorstellung Microsoft Student Partners Deutschland",
+    "Author": "Malte Lantin",
+    "UtcDateTimePublished": "2016-04-05T16:18:02.9547109Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/00ae/16f818cb-ae82-4e6a-90d7-ccefa98e00ae/StudentPartnersGermany_mid.mp4",
+    "Description": "Wir möchten euch in diesem Video gerne einen Eindruck von unserem Student Partnern Programm in Deutschland geben. Falls ihr Fragen habt oder euch für das Programm interessiert, findet ihr unsere Konta"
+  },
+  {
+    "VideoId": "5528987f-9914-43cd-aeed-a5f5008d0389",
+    "DataApi": "/Entries(guid'5528987f-9914-43cd-aeed-a5f5008d0389')/",
+    "VideoPageLink": "/Series/Microsoft-Student-Partners-Germany/Azure-Byte-PHP-Apps-ber-DreamSpark-kostenfrei-in-Azure-hosten",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fb62/944834c9-3bc4-430f-b0bc-b828eb4cfb62/AzureBytePHP_960.jpg",
+    "ShowName": "Microsoft Student Partners Germany",
+    "VideoLength": "00:10:21",
+    "VideoTitle": "Azure Byte: PHP Apps Ã¼ber DreamSpark kostenfrei in Azure hosten",
+    "Author": "lukaspman",
+    "UtcDateTimePublished": "2016-05-08T17:33:29.6764642Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fb62/944834c9-3bc4-430f-b0bc-b828eb4cfb62/AzureBytePHP_mid.mp4",
+    "Description": "  Mit Microsoft Azure und dem DreamSpark Angebot für Studierende lassen sich ganz leicht eigene Webanwendungen erstellen. In diesem Azure Byte zeigt Lukas Pollmann, Senior Student Partner bei Microsof"
+  }
+]

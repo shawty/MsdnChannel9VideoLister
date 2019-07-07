@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "eff77766-4e33-42ae-a85e-a3a1013283f1",
+    "DataApi": "/Entries(guid'eff77766-4e33-42ae-a85e-a3a1013283f1')/",
+    "VideoPageLink": "/series/Azure-Site-to-Site-VPN/Module-1-Microsoft-Azure-Network-Quick-Overview",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8089/1127918b-15f8-49c5-bddd-e341cb498089/Mod1_960.jpg",
+    "ShowName": "Azure Site to Site VPN",
+    "VideoLength": "00:12:47",
+    "VideoTitle": "Module 1 - Microsoft Azure Network â€“ Quick Overview ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-09T19:01:38Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8089/1127918b-15f8-49c5-bddd-e341cb498089/Mod1_mid.mp4",
+    "Description": "In this module we'll review Microsoft Azure Networks. Our objective is to walk you through Microsoft Azure basics and to enable you to have an understanding of the components needed to create a Site t"
+  },
+  {
+    "VideoId": "47f53c20-b4a1-4b8b-b383-a3a10132c549",
+    "DataApi": "/Entries(guid'47f53c20-b4a1-4b8b-b383-a3a10132c549')/",
+    "VideoPageLink": "/series/Azure-Site-to-Site-VPN/Module-2-Microsoft-Azure-Site-to-Site-VPN-Typical-Scenarios",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6fba/27410d33-96f1-425a-bcbe-2525a6096fba/Mod2_960.jpg",
+    "ShowName": "Azure Site to Site VPN",
+    "VideoLength": "00:19:55",
+    "VideoTitle": "Module 2 - Microsoft Azure Site to Site VPN â€“ Typical Scenarios ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-09T19:02:14Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6fba/27410d33-96f1-425a-bcbe-2525a6096fba/Mod2_mid.mp4",
+    "Description": "In this module we'll cover a few common and typical scenarios where extending your on-premise Datacenter to Azure could be applicable. You will see how to use Azure for testing, extending and getting "
+  },
+  {
+    "VideoId": "d126d44c-e54a-464b-8de8-a3a00093170e",
+    "DataApi": "/Entries(guid'd126d44c-e54a-464b-8de8-a3a00093170e')/",
+    "VideoPageLink": "/series/Azure-Site-to-Site-VPN/Module-3-How-to-do-Microsoft-Azure-Site-to-Site-VPN-with-Windows-Server-2012",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/26a1/404b1f46-9473-4997-8632-1d8e4eec26a1/Mod3S2SWinServer_960.jpg",
+    "ShowName": "Azure Site to Site VPN",
+    "VideoLength": "00:18:55",
+    "VideoTitle": "Module 3 - How to do Microsoft Azure Site to Site VPN with Windows Server 2012",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-09T19:03:23Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/26a1/404b1f46-9473-4997-8632-1d8e4eec26a1/Mod3S2SWinServer_mid.mp4",
+    "Description": "In this module we'll take a deep dive and demo Site to Site VPN. Our endpoint will be an on-premise router powered by Windows Server 2012 R2 and our other endpoint will be Microsoft Azure. Stay with u"
+  },
+  {
+    "VideoId": "21af1de4-0003-4ad5-a580-a3a000ac91a0",
+    "DataApi": "/Entries(guid'21af1de4-0003-4ad5-a580-a3a000ac91a0')/",
+    "VideoPageLink": "/series/Azure-Site-to-Site-VPN/Module-4-How-to-do-Microsoft-Azure-Site-to-Site-VPN-with-Cisco",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/364f/b2c9ff2b-f51a-4908-a4e2-16227a08364f/Mod4S2SCisco_960.jpg",
+    "ShowName": "Azure Site to Site VPN",
+    "VideoLength": "00:35:28",
+    "VideoTitle": "Module 4 - How to do Microsoft Azure Site to Site VPN with Cisco",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-09T19:04:06Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/364f/b2c9ff2b-f51a-4908-a4e2-16227a08364f/Mod4S2SCisco_mid.mp4",
+    "Description": "In this module we'll demo Site to Site VPN. One endpoint will be on-premise and the router will be powered by Cisco,  while the other endpoint will be Microsoft Azure. Stay with us, and see this step "
+  },
+  {
+    "VideoId": "84479a77-2d57-4359-8a52-a3a101334a1e",
+    "DataApi": "/Entries(guid'84479a77-2d57-4359-8a52-a3a101334a1e')/",
+    "VideoPageLink": "/series/Azure-Site-to-Site-VPN/Module-5-Course-Recap",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f5b2/a08d1625-07e6-4bea-b279-f6ca4a8ef5b2/Mod5_960.jpg",
+    "ShowName": "Azure Site to Site VPN",
+    "VideoLength": "00:04:11",
+    "VideoTitle": "Module 5 - Course Recap ",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2014-09-09T19:05:57Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f5b2/a08d1625-07e6-4bea-b279-f6ca4a8ef5b2/Mod5_mid.mp4",
+    "Description": "In this module we are doing a brief recap of the overall course. We shall share a few facts and tips and remind you of the needed components/configuration and steps you should think of.  This video is"
+  }
+]

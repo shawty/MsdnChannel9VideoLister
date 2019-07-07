@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "dc52a0b3-cc17-4f30-9573-a27c017591d9",
+    "DataApi": "/Entries(guid'dc52a0b3-cc17-4f30-9573-a27c017591d9')/",
+    "VideoPageLink": "/Series/design-xaml-ui-with-blend/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f994/1ffee7c8-9af7-4850-96a8-d9230d87f994/DesignXAMLUIBlendM02_960.jpg",
+    "ShowName": "Designing Your XAML UI with Blend",
+    "VideoLength": "00:51:54",
+    "VideoTitle": "Designing Your XAML UI with Blend: (02) XAML Development in Visual Studio 2013, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-21T19:30:25.3611275Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f994/1ffee7c8-9af7-4850-96a8-d9230d87f994/DesignXAMLUIBlendM02_mid.mp4",
+    "Description": "Learn about language services, project templates, and migration strategies. [01:58] - Built-in Templates[22:36] - XAML Editing Experience[38:31] - Coding ExperienceFull course outline: Mod 01: XAML De"
+  },
+  {
+    "VideoId": "5bf9511d-d8d0-4e42-a6fc-a27c0175cd7d",
+    "DataApi": "/Entries(guid'5bf9511d-d8d0-4e42-a6fc-a27c0175cd7d')/",
+    "VideoPageLink": "/Series/design-xaml-ui-with-blend/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/02a7/eab70fc2-1ab6-41e6-8a4b-da84b11b02a7/DesignXAMLUIBlendM03_960.jpg",
+    "ShowName": "Designing Your XAML UI with Blend",
+    "VideoLength": "00:55:21",
+    "VideoTitle": "Designing Your XAML UI with Blend: (03) XAML Design and Styling in Blend, Part 1",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-21T19:30:45.9821035Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/02a7/eab70fc2-1ab6-41e6-8a4b-da84b11b02a7/DesignXAMLUIBlendM03_mid.mp4",
+    "Description": "Learn about pixel-perfect guides, behaviors, and storyboard animation. [03:26] - Intro to Blend[16:55] - Pixel Perfect Design[28:55] - Behaviours and ActionsFull course outline: Mod 01: XAML Developme"
+  },
+  {
+    "VideoId": "3f2245a0-a5fe-4206-a59f-a27c017608dd",
+    "DataApi": "/Entries(guid'3f2245a0-a5fe-4206-a59f-a27c017608dd')/",
+    "VideoPageLink": "/Series/design-xaml-ui-with-blend/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bfe9/00dfa669-0af7-4a36-9c53-5b87e632bfe9/DesignXAMLUIBlendM04_960.jpg",
+    "ShowName": "Designing Your XAML UI with Blend",
+    "VideoLength": "01:03:52",
+    "VideoTitle": "Designing Your XAML UI with Blend: (04) XAML Design and Styling in Blend, Part 2",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-21T19:31:07.73539Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bfe9/00dfa669-0af7-4a36-9c53-5b87e632bfe9/DesignXAMLUIBlendM04_mid.mp4",
+    "Description": "Learn about resource management, design-time data, and file interops. [01:39] - Animations[17:57] - Resource Management[38:31] - Data[56:47] - FeaturesFull course outline: Mod 01: XAML Development in "
+  },
+  {
+    "VideoId": "c1b85643-1533-4f12-b6b0-a27c01765781",
+    "DataApi": "/Entries(guid'c1b85643-1533-4f12-b6b0-a27c01765781')/",
+    "VideoPageLink": "/Series/design-xaml-ui-with-blend/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a29d/a5c96d75-adf8-4f47-9cc0-b16f77f0a29d/DesignXAMLUIBlendM05_960.jpg",
+    "ShowName": "Designing Your XAML UI with Blend",
+    "VideoLength": "01:01:47",
+    "VideoTitle": "Designing Your XAML UI with Blend: (05) Building Windows Store Apps with Blend",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-21T19:31:26.3175184Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a29d/a5c96d75-adf8-4f47-9cc0-b16f77f0a29d/DesignXAMLUIBlendM05_mid.mp4",
+    "Description": "Learn about the controls and techniques specific to Windows Store development. [01:50] - Demo P1[44:52] - Demo P2Full course outline: Mod 01: XAML Development in Visual Studio 2013, Part 1Mod 02: XAML"
+  },
+  {
+    "VideoId": "bea382d2-c7ce-4e65-a750-a27c01769bfe",
+    "DataApi": "/Entries(guid'bea382d2-c7ce-4e65-a750-a27c01769bfe')/",
+    "VideoPageLink": "/Series/design-xaml-ui-with-blend/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/156c/f8bfcf8b-1f4f-4a2d-9c11-007aabc7156c/DesignXAMLUIBlendM06_960.jpg",
+    "ShowName": "Designing Your XAML UI with Blend",
+    "VideoLength": "00:47:21",
+    "VideoTitle": "Designing Your XAML UI with Blend: (06) Developer Candy",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-11-21T19:31:43.4157894Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/156c/f8bfcf8b-1f4f-4a2d-9c11-007aabc7156c/DesignXAMLUIBlendM06_mid.mp4",
+    "Description": "Learn some of Unni and Jerry's favorite XAML tricks. [00:46] - XAML Candy[07:49] - Q&amp;AFull course outline: Mod 01: XAML Development in Visual Studio 2013, Part 1Mod 02: XAML Development in Visual "
+  }
+]

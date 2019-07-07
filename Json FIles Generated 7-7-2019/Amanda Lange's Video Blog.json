@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "e8d91ea7-b09f-4299-afaf-a599011eea56",
+    "DataApi": "/Entries(guid'e8d91ea7-b09f-4299-afaf-a599011eea56')/",
+    "VideoPageLink": "/Blogs/Amanda-Lange/Design-Tips-for-Mobile-Games",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f7e6/2f9c824a-15fe-48c0-ad45-0898ee99f7e6/DesignMobileAJlange_960.jpg",
+    "ShowName": "Amanda Lange's Video Blog",
+    "VideoLength": "00:10:52",
+    "VideoTitle": "Design Tips for Mobile Games",
+    "Author": "Amanda Lange",
+    "UtcDateTimePublished": "2016-01-26T21:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f7e6/2f9c824a-15fe-48c0-ad45-0898ee99f7e6/DesignMobileAJlange_mid.mp4",
+    "Description": "Hi there! Back again for 2016 with a (very condensed) version of a talk I gave at CodeMash. This is a totally platform agnostic talk about some observations I've made in the various mobile game app ma"
+  },
+  {
+    "VideoId": "fe384975-6d38-4e54-8e0b-a537013c2536",
+    "DataApi": "/Entries(guid'fe384975-6d38-4e54-8e0b-a537013c2536')/",
+    "VideoPageLink": "/Blogs/Amanda-Lange/Surface-Book-Pen-Preview-at-Grace-Hopper",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/38fc/502473f5-75fa-4322-922b-5b1794f938fc/gracehopperdevicepreview_960.jpg",
+    "ShowName": "Amanda Lange's Video Blog",
+    "VideoLength": "00:02:21",
+    "VideoTitle": "Surface Book Pen Preview at Grace Hopper",
+    "Author": "Amanda Lange",
+    "UtcDateTimePublished": "2015-10-21T15:40:58.7644815Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/38fc/502473f5-75fa-4322-922b-5b1794f938fc/gracehopperdevicepreview_mid.mp4",
+    "Description": "At the Grace Hopper Celebration of Women in Computing I got the opportunity to play with the Surface Book! As an artist who likes to do Photoshop, Manga Studio, and ZBrush, I had a lot of questions ab"
+  },
+  {
+    "VideoId": "be80523f-be37-4888-9742-a53000e67d8a",
+    "DataApi": "/Entries(guid'be80523f-be37-4888-9742-a53000e67d8a')/",
+    "VideoPageLink": "/Blogs/Amanda-Lange/Fast-Way-to-Create-a-Custom-Minecraft-Server-on-Azure",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bf4d/7c5c34f6-a1b3-4622-ad63-754c04e7bf4d/ajlangeMinecraftAzure_960.jpg",
+    "ShowName": "Amanda Lange's Video Blog",
+    "VideoLength": "00:08:12",
+    "VideoTitle": "Fast Way to Create a Custom Minecraft Server on Azure",
+    "Author": "Amanda Lange",
+    "UtcDateTimePublished": "2015-10-16T14:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bf4d/7c5c34f6-a1b3-4622-ad63-754c04e7bf4d/ajlangeMinecraftAzure_mid.mp4",
+    "Description": "This is a quick video about Minecraft! If you saw my video about Virtual Machines - https://channel9.msdn.com/Blogs/Amanda-Lange/Learning-About-Azure-Virtual-Machines You'd see that I mentioned I was "
+  },
+  {
+    "VideoId": "b37c1c68-4c78-4753-b1eb-a5010145e123",
+    "DataApi": "/Entries(guid'b37c1c68-4c78-4753-b1eb-a5010145e123')/",
+    "VideoPageLink": "/Blogs/Amanda-Lange/Learning-About-Azure-Virtual-Machines",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7fa7/97b26afa-77a8-414a-9639-a2d8df2b7fa7/AzureVMs100Aug2015_960.jpg",
+    "ShowName": "Amanda Lange's Video Blog",
+    "VideoLength": "00:07:35",
+    "VideoTitle": "Learning About Azure Virtual Machines",
+    "Author": "Amanda Lange",
+    "UtcDateTimePublished": "2015-08-28T14:00:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7fa7/97b26afa-77a8-414a-9639-a2d8df2b7fa7/AzureVMs100Aug2015_mid.mp4",
+    "Description": "An introduction to Virtual Machines on Azure, as they are right now in Preview Portal. What they are, how to set up, and some ideas for how to use them! For some more detail on another Channel 9 video"
+  },
+  {
+    "VideoId": "97a07300-cab6-439e-9d6c-a4f30122747d",
+    "DataApi": "/Entries(guid'97a07300-cab6-439e-9d6c-a4f30122747d')/",
+    "VideoPageLink": "/Blogs/Amanda-Lange/Kinect-100-August-2015",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9cbe/9df49f36-3bea-4654-bdd2-5f01506e9cbe/amandalangeaugust15Kinect100_960.jpg",
+    "ShowName": "Amanda Lange's Video Blog",
+    "VideoLength": "00:14:24",
+    "VideoTitle": "Kinect 100 - August 2015",
+    "Author": "Amanda Lange",
+    "UtcDateTimePublished": "2015-08-14T20:23:11.9101235Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9cbe/9df49f36-3bea-4654-bdd2-5f01506e9cbe/amandalangeaugust15Kinect100_mid.mp4",
+    "Description": "In this entry I'm going to discuss Kinect and how to get started. There's a ton of resources on Kinect on Channel 9, so you may wonder why I'd do a video like this. Mostly, it's because I run into a l"
+  }
+]

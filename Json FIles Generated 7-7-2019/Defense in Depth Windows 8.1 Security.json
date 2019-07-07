@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "d9ebf2d5-8461-45ac-b478-a32d0129b263",
+    "DataApi": "/Entries(guid'd9ebf2d5-8461-45ac-b478-a32d0129b263')/",
+    "VideoPageLink": "/Series/Defense-in-Depth-Windows-8-1-Security/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/2ce2/fb048831-0a2c-4b55-823e-e3e55a252ce2/DefenseInDepthWin81SecurityM02_960.jpg",
+    "ShowName": "Defense in Depth: Windows 8.1 Security",
+    "VideoLength": "00:46:21",
+    "VideoTitle": "Defense in Depth: Windows 8.1 Security: (02) Principles of Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-16T23:50:27.4102893Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2ce2/fb048831-0a2c-4b55-823e-e3e55a252ce2/DefenseInDepthWin81SecurityM02_mid.mp4",
+    "Description": "Explore key IT security concepts, with a focus on ISO2700x. [00:55] - IT Security[07:49] - Threat, Vulnerabilities and Info Security[19:19] - Monitor the Assets[28:01] - Security PrinciplesFull course"
+  },
+  {
+    "VideoId": "ff8b0ebb-542b-4a52-b183-a32d012a0db1",
+    "DataApi": "/Entries(guid'ff8b0ebb-542b-4a52-b183-a32d012a0db1')/",
+    "VideoPageLink": "/Series/Defense-in-Depth-Windows-8-1-Security/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a5d2/9e1b7dc2-197a-46c1-9d90-d203677fa5d2/DefenseInDepthWin81SecurityM03_960.jpg",
+    "ShowName": "Defense in Depth: Windows 8.1 Security",
+    "VideoLength": "00:51:19",
+    "VideoTitle": "Defense in Depth: Windows 8.1 Security: (03) Understanding Your Enemy",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-16T23:50:54.9168919Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a5d2/9e1b7dc2-197a-46c1-9d90-d203677fa5d2/DefenseInDepthWin81SecurityM03_mid.mp4",
+    "Description": "Learn how to assess your own skills and ensure detailed documentation of your network, and understand the level of available organizational support. [00:35] - We cannot stop Hackers[08:16] - The Art o"
+  },
+  {
+    "VideoId": "a902f2c1-2256-47b6-ae6e-a32d012a3721",
+    "DataApi": "/Entries(guid'a902f2c1-2256-47b6-ae6e-a32d012a3721')/",
+    "VideoPageLink": "/Series/Defense-in-Depth-Windows-8-1-Security/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/00bb/f8156c41-da0b-4e87-94f7-ec0022e100bb/DefenseInDepthWin81SecurityM04_960.jpg",
+    "ShowName": "Defense in Depth: Windows 8.1 Security",
+    "VideoLength": "00:49:50",
+    "VideoTitle": "Defense in Depth: Windows 8.1 Security: (04) Phases of Hackers",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-16T23:51:51.4608356Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/00bb/f8156c41-da0b-4e87-94f7-ec0022e100bb/DefenseInDepthWin81SecurityM04_mid.mp4",
+    "Description": "See how a hacker approaches gaining access to your network. [00:39] - Phase of Hackers[14:20] - Demo: How do they find us[26:57] - Reconnaissance[43:07] - HACKEDFull course outline: Mod 01: Today's Th"
+  },
+  {
+    "VideoId": "9d56da7f-6264-4f91-b580-a32d012a864e",
+    "DataApi": "/Entries(guid'9d56da7f-6264-4f91-b580-a32d012a864e')/",
+    "VideoPageLink": "/Series/Defense-in-Depth-Windows-8-1-Security/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/820b/bd191231-039e-4fd7-bdc9-1f9b44a6820b/DefenseInDepthWin81SecurityM05_960.jpg",
+    "ShowName": "Defense in Depth: Windows 8.1 Security",
+    "VideoLength": "00:44:27",
+    "VideoTitle": "Defense in Depth: Windows 8.1 Security: (05) What Motivates Hackers?",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-16T23:52:29.9592131Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/820b/bd191231-039e-4fd7-bdc9-1f9b44a6820b/DefenseInDepthWin81SecurityM05_mid.mp4",
+    "Description": "Learn what motivates hackers to pick a certain network over another. [00:33] - Sharing?[11:01] - Demo: Getting the info[24:12] - Target Selection[33:00] - Target Selection - GOVFull course outline: Mo"
+  },
+  {
+    "VideoId": "ee294013-513e-485b-834f-a32d012ae17f",
+    "DataApi": "/Entries(guid'ee294013-513e-485b-834f-a32d012ae17f')/",
+    "VideoPageLink": "/Series/Defense-in-Depth-Windows-8-1-Security/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5a76/e5242bbd-b4bc-4f23-aa8a-c4f890e75a76/DefenseInDepthWin81SecurityM06_960.jpg",
+    "ShowName": "Defense in Depth: Windows 8.1 Security",
+    "VideoLength": "00:49:09",
+    "VideoTitle": "Defense in Depth: Windows 8.1 Security: (06) Pass the Hash",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-16T23:53:25.9752268Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5a76/e5242bbd-b4bc-4f23-aa8a-c4f890e75a76/DefenseInDepthWin81SecurityM06_mid.mp4",
+    "Description": "Explore a typical hash attack, how systems are cached, and the best approach for clearing. [01:26] - Pass the hash[12:57] - Attack scenario[26:28] - Demo: Has Crack[39:49] - MS why not just fix it?Ful"
+  },
+  {
+    "VideoId": "11eb2610-85f0-4ce0-b4a8-a32d012b2056",
+    "DataApi": "/Entries(guid'11eb2610-85f0-4ce0-b4a8-a32d012b2056')/",
+    "VideoPageLink": "/Series/Defense-in-Depth-Windows-8-1-Security/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/3d1d/6ae8deba-7d72-4d0f-ab6e-6b32cac73d1d/DefenseInDepthWin81SecurityM07_960.jpg",
+    "ShowName": "Defense in Depth: Windows 8.1 Security",
+    "VideoLength": "00:56:01",
+    "VideoTitle": "Defense in Depth: Windows 8.1 Security: (07) Windows Security Capabilities and Tools",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-05-16T23:54:53.2618317Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/3d1d/6ae8deba-7d72-4d0f-ab6e-6b32cac73d1d/DefenseInDepthWin81SecurityM07_mid.mp4",
+    "Description": "Learn about new security capabilities offered in Windows 8.1. [01:28] - Protect your data[08:22] - DEMO: Secure Boot[15:43] - DEMO: Virtual Smart Card[24:21] - DEMO: Remote Business Data Removal[43:21"
+  }
+]

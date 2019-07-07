@@ -1,0 +1,41 @@
+[
+  {
+    "VideoId": "3728f90a-cb63-4680-9c6e-a47a01360a57",
+    "DataApi": "/Entries(guid'3728f90a-cb63-4680-9c6e-a47a01360a57')/",
+    "VideoPageLink": "/Series/Endpoint-Protection-in-Configuration-Manager-2012/Mod2",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f1d0/4db075f8-013b-490d-84fa-af3ba258f1d0/Mod2PlanEndpointProtection_960.jpg",
+    "ShowName": "Endpoint Protection in Configuration Manager 2012",
+    "VideoLength": "00:09:01",
+    "VideoTitle": "(Module 2) Planning for Endpoint Protection",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-04-14T22:27:10Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f1d0/4db075f8-013b-490d-84fa-af3ba258f1d0/Mod2PlanEndpointProtection_mid.mp4",
+    "Description": "Review the prerequisites and best practices for Endpoint Protection. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering structured learning paths for IT Pr"
+  },
+  {
+    "VideoId": "2ad5ff98-9ec0-417e-9754-a47a01365a7d",
+    "DataApi": "/Entries(guid'2ad5ff98-9ec0-417e-9754-a47a01365a7d')/",
+    "VideoPageLink": "/Series/Endpoint-Protection-in-Configuration-Manager-2012/mod3",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/0219/1334d1d6-ee9f-4c14-8871-7c8829a40219/Mod3ConfigEndpointProtection_960.jpg",
+    "ShowName": "Endpoint Protection in Configuration Manager 2012",
+    "VideoLength": "00:26:23",
+    "VideoTitle": "(Module 3) Configuring Endpoint Protection",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-04-14T22:28:38Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/0219/1334d1d6-ee9f-4c14-8871-7c8829a40219/Mod3ConfigEndpointProtection_mid.mp4",
+    "Description": "In this module, step through the configuration of Endpoint Protection, Alerts, Updates and Disk Imaging.This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free program delivering "
+  },
+  {
+    "VideoId": "eee90578-e6a1-4d29-90f7-a47a0136b7c5",
+    "DataApi": "/Entries(guid'eee90578-e6a1-4d29-90f7-a47a0136b7c5')/",
+    "VideoPageLink": "/Series/Endpoint-Protection-in-Configuration-Manager-2012/mod4",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f2d9/55820686-1a91-4ab8-826c-9998f95df2d9/Mod4OpsEndpointProtection_960.jpg",
+    "ShowName": "Endpoint Protection in Configuration Manager 2012",
+    "VideoLength": "00:23:48",
+    "VideoTitle": "(Module 4) Operations & Maintenance for Endpoint Protection",
+    "Author": "ChrisCaldwell",
+    "UtcDateTimePublished": "2015-04-14T22:29:08Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f2d9/55820686-1a91-4ab8-826c-9998f95df2d9/Mod4OpsEndpointProtection_mid.mp4",
+    "Description": "This module will close the course with information on how to Operate &amp; Maintain the Endpoint Protection deployment. This video is part of the Microsoft Virtual Academy (MVA). The MVA is a free pro"
+  }
+]

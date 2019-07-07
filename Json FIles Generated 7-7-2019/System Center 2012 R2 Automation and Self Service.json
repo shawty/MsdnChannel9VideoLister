@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "536cf44f-d465-41ca-b6d2-a26301423ce6",
+    "DataApi": "/Entries(guid'536cf44f-d465-41ca-b6d2-a26301423ce6')/",
+    "VideoPageLink": "/Series/Automate-Self-Service/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/bc02/f5de4697-3120-43d1-96d2-5b0d2a1ebc02/AutomateSelfServiceM02_960.jpg",
+    "ShowName": "System Center 2012 R2 Automation and Self Service",
+    "VideoLength": "00:28:27",
+    "VideoTitle": "System Center 2012 R2 Automation and Self Service: (02) Self-Service for the Cloud Tenant",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T20:40:25.8560461Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/bc02/f5de4697-3120-43d1-96d2-5b0d2a1ebc02/AutomateSelfServiceM02_mid.mp4",
+    "Description": "This module provides a look at the Self-Service options for cloud tenants, including a comparison to what is available for on-premises customers and the options for Private Clouds. [05:19] - Using sel"
+  },
+  {
+    "VideoId": "5938a25b-a1d4-4e54-b38e-a2630142a120",
+    "DataApi": "/Entries(guid'5938a25b-a1d4-4e54-b38e-a2630142a120')/",
+    "VideoPageLink": "/Series/Automate-Self-Service/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a971/93ae3815-200b-4d39-b78b-e8af0618a971/AutomateSelfServiceM03_960.jpg",
+    "ShowName": "System Center 2012 R2 Automation and Self Service",
+    "VideoLength": "00:43:52",
+    "VideoTitle": "System Center 2012 R2 Automation and Self Service: (03) System Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T20:40:53.7392615Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a971/93ae3815-200b-4d39-b78b-e8af0618a971/AutomateSelfServiceM03_mid.mp4",
+    "Description": "This module looks at how to automate tasks to make datacenter management simpler and more rapid and what automation options are now available in Orchestrator 2012 R2. [01:05] - Deploy services[07:26] "
+  },
+  {
+    "VideoId": "6453bf80-bb4a-485a-97c9-a2630142e708",
+    "DataApi": "/Entries(guid'6453bf80-bb4a-485a-97c9-a2630142e708')/",
+    "VideoPageLink": "/Series/Automate-Self-Service/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8b4f/0c286d00-7681-4ef2-8f34-d9e7be958b4f/AutomateSelfServiceM04_960.jpg",
+    "ShowName": "System Center 2012 R2 Automation and Self Service",
+    "VideoLength": "00:20:31",
+    "VideoTitle": "System Center 2012 R2 Automation and Self Service: (04) Process Automation",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T20:41:48.3117224Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8b4f/0c286d00-7681-4ef2-8f34-d9e7be958b4f/AutomateSelfServiceM04_mid.mp4",
+    "Description": "This module expands on the previous modules by showing us how we can automate the processes that surround the tasks that we last automated. [04:05] - Service delivery and automation architecture[12:52"
+  },
+  {
+    "VideoId": "dcad01d1-ad1c-46cc-aaa5-a26301432896",
+    "DataApi": "/Entries(guid'dcad01d1-ad1c-46cc-aaa5-a26301432896')/",
+    "VideoPageLink": "/Series/Automate-Self-Service/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/a7fb/10f6d1e2-fe33-4ecb-8ad3-060fb573a7fb/AutomateSelfServiceM05_960.jpg",
+    "ShowName": "System Center 2012 R2 Automation and Self Service",
+    "VideoLength": "00:21:39",
+    "VideoTitle": "System Center 2012 R2 Automation and Self Service: (05) Integration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-10-26T20:42:04.3153795Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/a7fb/10f6d1e2-fe33-4ecb-8ad3-060fb573a7fb/AutomateSelfServiceM05_mid.mp4",
+    "Description": "In this module you will learn how all of the pieces of Windows infrastructure and the remaining components of the System Center Suite all connect to and play well with Orchestrator and Service Manager"
+  }
+]

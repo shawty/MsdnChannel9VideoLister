@@ -1,0 +1,80 @@
+[
+  {
+    "VideoId": "34fdb243-742c-4287-abec-a44c014e869f",
+    "DataApi": "/Entries(guid'34fdb243-742c-4287-abec-a44c014e869f')/",
+    "VideoPageLink": "/Series/Polyglot-Persistence-Choosing-the-Right-Azure-Storage-Mix/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e349/334f1cdf-4d92-441c-bcd4-c8841cc0e349/499PolyglotPersistenceAzureM03_960.jpg",
+    "ShowName": "Polyglot Persistence: Choosing the Right Azure Storage Mix",
+    "VideoLength": "00:26:11",
+    "VideoTitle": "Polyglot Persistence: Choosing the Right Azure Storage Mix: (03) Key-Value Stores",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:21:22.4753867Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e349/334f1cdf-4d92-441c-bcd4-c8841cc0e349/499PolyglotPersistenceAzureM03_mid.mp4",
+    "Description": "Get a look at this type of datastore, which references data by a single key lookup. [01:43] - What is a key/value store?[03:44] - Why and Why Not?[09:45] - Options in Azure[13:15] - Demo â€“ Provision a"
+  },
+  {
+    "VideoId": "4456952a-ea78-4163-a090-a44c014eb62b",
+    "DataApi": "/Entries(guid'4456952a-ea78-4163-a090-a44c014eb62b')/",
+    "VideoPageLink": "/Series/Polyglot-Persistence-Choosing-the-Right-Azure-Storage-Mix/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/9f82/1f57be79-8306-483e-ad04-63b3be429f82/499PolyglotPersistenceAzureM04_960.jpg",
+    "ShowName": "Polyglot Persistence: Choosing the Right Azure Storage Mix",
+    "VideoLength": "00:26:50",
+    "VideoTitle": "Polyglot Persistence: Choosing the Right Azure Storage Mix: (04) Document Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:21:34.0520069Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/9f82/1f57be79-8306-483e-ad04-63b3be429f82/499PolyglotPersistenceAzureM04_mid.mp4",
+    "Description": "Find out what these are and how they differ from what weâ€™ve seen thus far. [01:01] - What is a document store?[09:28] - Why and Why Not?[13:27] - Options in Azure[15:11] - Demo â€“ Azure DocumentDB[20:5"
+  },
+  {
+    "VideoId": "46f4a30c-4354-42b8-ae2a-a44c014edb5c",
+    "DataApi": "/Entries(guid'46f4a30c-4354-42b8-ae2a-a44c014edb5c')/",
+    "VideoPageLink": "/Series/Polyglot-Persistence-Choosing-the-Right-Azure-Storage-Mix/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1eea/0d325389-1613-4601-bf35-008c99a71eea/499PolyglotPersistenceAzureM05_960.jpg",
+    "ShowName": "Polyglot Persistence: Choosing the Right Azure Storage Mix",
+    "VideoLength": "00:23:42",
+    "VideoTitle": "Polyglot Persistence: Choosing the Right Azure Storage Mix: (05) Graph Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:21:46.6528672Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1eea/0d325389-1613-4601-bf35-008c99a71eea/499PolyglotPersistenceAzureM05_mid.mp4",
+    "Description": "Take a look at this type of database, which is specifically geared toward managing complex relationships between data entities. [00:59] - What is graph database?[03:31] - Why and Why Not?[08:56] - Opt"
+  },
+  {
+    "VideoId": "6b093e09-6de3-46a2-8b02-a44c014f07ec",
+    "DataApi": "/Entries(guid'6b093e09-6de3-46a2-8b02-a44c014f07ec')/",
+    "VideoPageLink": "/Series/Polyglot-Persistence-Choosing-the-Right-Azure-Storage-Mix/06",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/6a7b/1fef0af9-3cab-4ec8-b38f-2dd3aff26a7b/499PolyglotPersistenceAzureM06_960.jpg",
+    "ShowName": "Polyglot Persistence: Choosing the Right Azure Storage Mix",
+    "VideoLength": "00:29:06",
+    "VideoTitle": "Polyglot Persistence: Choosing the Right Azure Storage Mix: (06) Column Stores",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:21:58.1654023Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/6a7b/1fef0af9-3cab-4ec8-b38f-2dd3aff26a7b/499PolyglotPersistenceAzureM06_mid.mp4",
+    "Description": "This is the final type of NoSQL datastore we will look at in this session. [01:52] - What is a column store?[15:10] - Options in Azure[17:32] - Demo â€“ Cassandra"
+  },
+  {
+    "VideoId": "555cffea-b4d3-4814-9ce4-a44c014f3514",
+    "DataApi": "/Entries(guid'555cffea-b4d3-4814-9ce4-a44c014f3514')/",
+    "VideoPageLink": "/Series/Polyglot-Persistence-Choosing-the-Right-Azure-Storage-Mix/07",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8eb3/ba9eaec5-e746-4002-9863-3970432e8eb3/499PolyglotPersistenceAzureM07_960.jpg",
+    "ShowName": "Polyglot Persistence: Choosing the Right Azure Storage Mix",
+    "VideoLength": "00:32:55",
+    "VideoTitle": "Polyglot Persistence: Choosing the Right Azure Storage Mix: (07) Polyglot Persistence",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-02-28T18:22:18.6339949Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8eb3/ba9eaec5-e746-4002-9863-3970432e8eb3/499PolyglotPersistenceAzureM07_mid.mp4",
+    "Description": "Now that we've seen the variety of datastores available today, take a look at a scenario which uses multiple different datastores in a single application rather than trying to fasten to a screw with a"
+  },
+  {
+    "VideoId": "e52794a4-5636-4e64-8e8d-a453017a92a6",
+    "DataApi": "/Entries(guid'e52794a4-5636-4e64-8e8d-a453017a92a6')/",
+    "VideoPageLink": "/Series/Polyglot-Persistence-Choosing-the-Right-Azure-Storage-Mix/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/da73/10c77211-ec73-4e95-9435-1101a672da73/499PolyglotPersistenceAzureM02R_960.jpg",
+    "ShowName": "Polyglot Persistence: Choosing the Right Azure Storage Mix",
+    "VideoLength": "00:29:04",
+    "VideoTitle": "Polyglot Persistence: Choosing the Right Azure Storage Mix: (02) Relational Databases",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-07T18:41:15.1587097Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/da73/10c77211-ec73-4e95-9435-1101a672da73/499PolyglotPersistenceAzureM02R_mid.mp4",
+    "Description": "This one needs no introduction, since it's what we're all most familiar with. Explore the options for relational data on Azure. [01:27] - What is Relational Database[04:33] - Why and Why Not?[14:27] -"
+  }
+]

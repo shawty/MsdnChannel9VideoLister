@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "be5c4aa5-96a8-44e3-8dd8-9deb002d654c",
+    "DataApi": "/Entries(guid'be5c4aa5-96a8-44e3-8dd8-9deb002d654c')/",
+    "VideoPageLink": "/Blogs/CharlieCalvert/CSharp-4-Dynamic-with-Chris-Burrows-and-Sam-Ng",
+    "VideoPageThumb": "https://sec.ch9.ms/ecn/ch9/0/1/5/3/9/4/DynamicCSharpFourOh_512_ch9.png",
+    "ShowName": "CharlieCalvert",
+    "VideoLength": "00:41:57",
+    "VideoTitle": "C# 4.0 Dynamic  with Chris Burrows and Sam Ng",
+    "Author": "Charlie Calvert",
+    "UtcDateTimePublished": "2009-09-22T19:10:00Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ecn/ch9/0/1/5/3/9/4/DynamicCSharpFourOh_ch9.mp4",
+    "Description": "\nIn this video Microsoft developers Sam Ng and Chris Burrows discuss the new Dynamic feature that is part of the next version of C#. This feature provides enhanced interoperation with dynamic languag"
+  }
+]

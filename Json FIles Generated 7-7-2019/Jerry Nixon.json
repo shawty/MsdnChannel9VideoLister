@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "d6f8a99c-fb69-4e95-9314-a5950028f786",
+    "DataApi": "/Entries(guid'd6f8a99c-fb69-4e95-9314-a5950028f786')/",
+    "VideoPageLink": "/Blogs/JerryNixon/Building-Warp-Drive-with-Windows-10-XAML",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/1e58/9096112e-b9b7-41b3-a4e6-af1bc7601e58/Video_960.jpg",
+    "ShowName": "Jerry Nixon",
+    "VideoLength": "00:17:39",
+    "VideoTitle": "Building Warp Drive with Windows 10 XAML",
+    "Author": "Jerry Nixon",
+    "UtcDateTimePublished": "2016-01-26T22:19:35.5008314Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/1e58/9096112e-b9b7-41b3-a4e6-af1bc7601e58/Video_mid.mp4",
+    "Description": "Jerry Nixon creates that iconic stretch and rainbow star field that Captain Picard enjoys while engaging the FTL. The trick of course is the new Transform3D capabilities introduced in Windows 10. So m"
+  }
+]

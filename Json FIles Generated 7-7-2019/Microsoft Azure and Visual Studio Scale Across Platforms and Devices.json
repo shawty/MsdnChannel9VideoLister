@@ -1,0 +1,93 @@
+[
+  {
+    "VideoId": "7e248ad3-888a-409f-9c36-a557000979e5",
+    "DataApi": "/Entries(guid'7e248ad3-888a-409f-9c36-a557000979e5')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/Introducing-Visual-Studio-Dev-Essentials",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "17fb85d8-4c69-4b46-8766-a5570007a353",
+    "DataApi": "/Entries(guid'17fb85d8-4c69-4b46-8766-a5570007a353')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/Journey-to-the-intelligent-cloud",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "afd6102c-4caa-4672-b622-a557000677de",
+    "DataApi": "/Entries(guid'afd6102c-4caa-4672-b622-a557000677de')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/Building-apps-with-the-intelligent-cloud",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "6c8a8626-6478-45ce-b618-a5570004b42a",
+    "DataApi": "/Entries(guid'6c8a8626-6478-45ce-b618-a5570004b42a')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/NASCAR-on-Microsoft-Azure",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "81b7f6c2-5fb7-4811-a771-a5570001d1f4",
+    "DataApi": "/Entries(guid'81b7f6c2-5fb7-4811-a771-a5570001d1f4')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/Platform-As-A-Service-Ease-of-Use-Rich-Features-Make-Microsoft-Azure-Awesome",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "14d74fef-8b6b-41dd-9879-a5560188759d",
+    "DataApi": "/Entries(guid'14d74fef-8b6b-41dd-9879-a5560188759d')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/MVA-Cloud-Development-Courses",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  },
+  {
+    "VideoId": "7ea38982-41b0-4c64-9f7d-a55700006d1a",
+    "DataApi": "/Entries(guid'7ea38982-41b0-4c64-9f7d-a55700006d1a')/",
+    "VideoPageLink": "/Blogs/Microsoft-Azure-and-Visual-Studio-Scale-Across-Platforms-and-Devices/Empowering-Businesses-and-Schools-with-Microsoft-Azure",
+    "VideoPageThumb": null,
+    "ShowName": null,
+    "VideoLength": "00:00:00",
+    "VideoTitle": null,
+    "Author": null,
+    "UtcDateTimePublished": "0001-01-01T00:00:00",
+    "ActualVideoFileLink": null,
+    "Description": null
+  }
+]

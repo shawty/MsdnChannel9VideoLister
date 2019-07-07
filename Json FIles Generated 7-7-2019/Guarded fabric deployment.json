@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "50bd7b2f-7c8f-4826-b154-a75f018b5b49",
+    "DataApi": "/Entries(guid'50bd7b2f-7c8f-4826-b154-a75f018b5b49')/",
+    "VideoPageLink": "/Shows/Guarded-fabric-deployment-AD-mode/Guarded-fabric-deployment-AD-mode",
+    "VideoPageThumb": "https://f.ch9.ms/thumbnail/8b2275e2-cca4-4c0c-b494-9a77b7648c2f.png",
+    "ShowName": "Guarded fabric deployment",
+    "VideoLength": "00:02:45",
+    "VideoTitle": "Guarded fabric deployment AD mode",
+    "Author": "Justinha",
+    "UtcDateTimePublished": "2017-05-24T20:54:14.8857512Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/2eb5/c8bab287-95e9-4ef6-9bd7-cf4f3b6b2eb5/GuardedFabricDeploymentADMode_mid.mp4",
+    "Description": "This video illustrates the process to deploy a guarded fabric in AD mode.  "
+  }
+]

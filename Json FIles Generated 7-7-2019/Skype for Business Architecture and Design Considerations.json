@@ -1,0 +1,15 @@
+[
+  {
+    "VideoId": "69c707ec-3c6d-405f-b909-a4660004f92b",
+    "DataApi": "/Entries(guid'69c707ec-3c6d-405f-b909-a4660004f92b')/",
+    "VideoPageLink": "/Series/Skype-for-Business-Architecture-and-Design-Considerations/01",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/35e3/e053c771-dfe5-4baf-b582-e632f0e435e3/761SkypeforBusinessArchDesignM01_960.jpg",
+    "ShowName": "Skype for Business: Architecture and Design Considerations",
+    "VideoLength": "01:31:26",
+    "VideoTitle": "Skype for Business: Architecture and Design Considerations: (01) Skype for Business: Architecture and Design Considerations",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2015-03-25T17:17:23.3317383Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/35e3/e053c771-dfe5-4baf-b582-e632f0e435e3/761SkypeforBusinessArchDesignM01_mid.mp4",
+    "Description": "Explore different combinations of complex designs, including Lync Online only with Office 365 multitenant, on-premises only, and hybrid with a single user forest. Review recommended practices for depl"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "VideoId": "5dc84462-de87-455a-90a2-a5ae010aec66",
+    "DataApi": "/Entries(guid'5dc84462-de87-455a-90a2-a5ae010aec66')/",
+    "VideoPageLink": "/Series/Hack-Your-World/Hack-Your-Smart-Home-via-Raspberry-Pi-2-and-Windows-10",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/890a/780b53b4-5deb-44a6-9684-69182d7a890a/Hack2_960.jpg",
+    "ShowName": "Hack Your World",
+    "VideoLength": "00:20:56",
+    "VideoTitle": "Hack Your Smart Home via Raspberry Pi 2 and Windows 10 ",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-10T18:31:34.6754242Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/890a/780b53b4-5deb-44a6-9684-69182d7a890a/Hack2_mid.mp4",
+    "Description": "In general, you can have thousands smart devices in your home, including LEDs, cameras, lockers, fridges and so on. In some cases, you can connect them to the Internet directly, but usually, you have "
+  },
+  {
+    "VideoId": "999c08e8-032e-47b4-8cdd-a5af01637533",
+    "DataApi": "/Entries(guid'999c08e8-032e-47b4-8cdd-a5af01637533')/",
+    "VideoPageLink": "/Series/Hack-Your-World/Hack-Your-Online-Resume-for-a-Dream-Job",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7118/423d636e-f720-42ef-ba59-0124f9127118/Hack4_960.jpg",
+    "ShowName": "Hack Your World",
+    "VideoLength": "00:23:36",
+    "VideoTitle": "Hack Your Online Resume for a Dream Job ",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-10T21:44:26.0048568Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7118/423d636e-f720-42ef-ba59-0124f9127118/Hack4_mid.mp4",
+    "Description": "What's the difference between a paper and an online resume? What do hiring managers look for in an online resume? In interviewed a number of Microsoft recruiters and managers. In this video, I share s"
+  },
+  {
+    "VideoId": "eb0def04-689c-4ba0-8db0-a5ae010965f6",
+    "DataApi": "/Entries(guid'eb0def04-689c-4ba0-8db0-a5ae010965f6')/",
+    "VideoPageLink": "/Series/Hack-Your-World/Hack-a-Mousetrap-with-Windows-10-Internet-Of-Things",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4fd1/f042b4f0-9bb3-4c4e-94a0-9a11fd124fd1/Hack3_960.jpg",
+    "ShowName": "Hack Your World",
+    "VideoLength": "00:14:37",
+    "VideoTitle": "Hack a Mousetrap with Windows 10 Internet Of Things  ",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-11T14:39:24.7517375Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4fd1/f042b4f0-9bb3-4c4e-94a0-9a11fd124fd1/Hack3_mid.mp4",
+    "Description": "Recently DX team members from Microsoft Canada took part in the DevOps Hackathon.  Our hack was to literally build a better mousetrap by connecting a Raspberry Pi to record the number of times a trap "
+  },
+  {
+    "VideoId": "5b7fe4dc-21d7-4aad-8e06-a5cd002b8e1b",
+    "DataApi": "/Entries(guid'5b7fe4dc-21d7-4aad-8e06-a5cd002b8e1b')/",
+    "VideoPageLink": "/Series/Hack-Your-World/Hack-Your-Online-Resume-for-a-Dream-Job-Customizing-Your-Theme",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/c975/9c76e819-51ca-4531-8c3a-001547e9c975/TipsTrick_960.jpg",
+    "ShowName": "Hack Your World",
+    "VideoLength": "00:15:11",
+    "VideoTitle": "Hack Your Online Resume for a Dream Job - Customizing Your Theme",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-18T03:28:30.6771887Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/c975/9c76e819-51ca-4531-8c3a-001547e9c975/TipsTrick_mid.mp4",
+    "Description": "Wordpress is a great tool you can use to create a professional online resume. In this video I will show you some of the specific customizations to a theme you should consider for an online resume. If "
+  },
+  {
+    "VideoId": "cab8f461-94d2-4e33-b8f0-a5cd0029ad5e",
+    "DataApi": "/Entries(guid'cab8f461-94d2-4e33-b8f0-a5cd0029ad5e')/",
+    "VideoPageLink": "/Series/Hack-Your-World/Hack-Your-Online-Resume-for-a-Dream-Job-Tips-and-Tricks",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/be98/77c9fc95-0d8d-4126-b097-3fc84a7dbe98/Cusst_960.jpg",
+    "ShowName": "Hack Your World",
+    "VideoLength": "00:13:00",
+    "VideoTitle": "Hack Your Online Resume for a Dream Job - Getting Started with Online Resumes and Wordpress",
+    "Author": "Jonathan Rozenblit",
+    "UtcDateTimePublished": "2016-03-18T03:36:47.5738961Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/be98/77c9fc95-0d8d-4126-b097-3fc84a7dbe98/Cusst_mid.mp4",
+    "Description": "In this video I'll explain why an online resume is important and help you get started with WordPress so you can create your own online resume.  If you don't know how to create a website to host a Word"
+  }
+]

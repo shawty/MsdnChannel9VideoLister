@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "f083db31-1e94-44aa-824d-a56000ab8ee0",
+    "DataApi": "/Entries(guid'f083db31-1e94-44aa-824d-a56000ab8ee0')/",
+    "VideoPageLink": "/Series/Do-More-With-Your-Microsoft-Lumia-Phone/Stay-Productive-On-the-Go-with-Your-Windows-Phone",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/ac99/28c81558-f211-4848-976c-edcbe91eac99/StayProductivewithLumia_960.jpg",
+    "ShowName": "Do More With Your Microsoft Lumia Phone",
+    "VideoLength": "00:07:24",
+    "VideoTitle": "Stay Productive On the Go with Your Windows Phone",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-30T15:23:30.9697711Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/ac99/28c81558-f211-4848-976c-edcbe91eac99/StayProductivewithLumia_mid.mp4",
+    "Description": "How to stay connected on the go. "
+  },
+  {
+    "VideoId": "ee32a449-0e4f-497c-8019-a56000ab5d9c",
+    "DataApi": "/Entries(guid'ee32a449-0e4f-497c-8019-a56000ab5d9c')/",
+    "VideoPageLink": "/Series/Do-More-With-Your-Microsoft-Lumia-Phone/Stay-Connected-Manage-Data-Battery--Share-Internet",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7140/d17e1dc3-4778-4149-8754-aadf64a07140/Stayconnectedmanageshare_960.jpg",
+    "ShowName": "Do More With Your Microsoft Lumia Phone",
+    "VideoLength": "00:07:11",
+    "VideoTitle": "Stay Connected, Manage Data, Battery & Share Internet",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-30T15:23:39.7572351Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7140/d17e1dc3-4778-4149-8754-aadf64a07140/Stayconnectedmanageshare_mid.mp4",
+    "Description": "Discover the new capabilities of your Microsoft Lumia Smart Phone. "
+  },
+  {
+    "VideoId": "ca41fa02-9178-48bf-bfc6-a56000ab10f7",
+    "DataApi": "/Entries(guid'ca41fa02-9178-48bf-bfc6-a56000ab10f7')/",
+    "VideoPageLink": "/Series/Do-More-With-Your-Microsoft-Lumia-Phone/Personal-Experience-with-your-Microsoft-Lumia-Phone",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/53dd/ac6f9236-3058-47a2-85d0-1507d64153dd/PersonalXPMSLumia_960.jpg",
+    "ShowName": "Do More With Your Microsoft Lumia Phone",
+    "VideoLength": "00:06:28",
+    "VideoTitle": "Personal Experience with your Microsoft Lumia Phone",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-30T15:23:45.5727112Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/53dd/ac6f9236-3058-47a2-85d0-1507d64153dd/PersonalXPMSLumia_mid.mp4",
+    "Description": "Discover the personal experiences you can create using your Microsoft Lumia. "
+  },
+  {
+    "VideoId": "4bb9fed9-407d-4bd6-aafe-a56000aa9d9a",
+    "DataApi": "/Entries(guid'4bb9fed9-407d-4bd6-aafe-a56000aa9d9a')/",
+    "VideoPageLink": "/Series/Do-More-With-Your-Microsoft-Lumia-Phone/Microsoft-Account-Sign-Up",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/fc0e/481e7f6b-8c46-4c9c-85e7-0ca17516fc0e/MSaccountsignUp_960.jpg",
+    "ShowName": "Do More With Your Microsoft Lumia Phone",
+    "VideoLength": "00:10:43",
+    "VideoTitle": "Microsoft Account Sign Up",
+    "Author": "jadevanrooyen",
+    "UtcDateTimePublished": "2015-11-30T15:23:50.8622754Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/fc0e/481e7f6b-8c46-4c9c-85e7-0ca17516fc0e/MSaccountsignUp_mid.mp4",
+    "Description": "Doing Great Things on your Lumia phone starts with a Microsoft Account. "
+  }
+]

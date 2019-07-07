@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "1bc028a4-dc3d-4ba5-bcb9-a2e0014fd6e4",
+    "DataApi": "/Entries(guid'1bc028a4-dc3d-4ba5-bcb9-a2e0014fd6e4')/",
+    "VideoPageLink": "/Series/Virtualizing-Your-Data-Center-with-Hyper-V-and-System-Center/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f9cd/9cd3089c-c424-415c-be66-fb13d8ddf9cd/VirtualizingYourDataCenterWithHyperVAndSystemCent_960.jpg",
+    "ShowName": "Virtualizing Your Data Center with Hyper-V and System Center",
+    "VideoLength": "01:11:19",
+    "VideoTitle": "Virtualizing Your Data Center with Hyper-V and System Center: (02) Virtual Machine Clustering & Resiliency",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-01T17:56:14.3726715Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f9cd/9cd3089c-c424-415c-be66-fb13d8ddf9cd/VirtualizingYourDataCenterWithHyperVAndSystemCent_mid.mp4",
+    "Description": "In this module you will learn about establishing the datacenter fabric via failover clustering, from how it works through to, quorum configuration, networking, VM monitoring, and centralized patching."
+  },
+  {
+    "VideoId": "5328bedf-b37b-47ec-a1fa-a2e001501d82",
+    "DataApi": "/Entries(guid'5328bedf-b37b-47ec-a1fa-a2e001501d82')/",
+    "VideoPageLink": "/Series/Virtualizing-Your-Data-Center-with-Hyper-V-and-System-Center/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/e12c/4b176cf3-77a0-4d2a-b07c-54547a77e12c/VirtualizingYourDataCenterWithHyperVAndSystemCent_960.jpg",
+    "ShowName": "Virtualizing Your Data Center with Hyper-V and System Center",
+    "VideoLength": "01:43:17",
+    "VideoTitle": "Virtualizing Your Data Center with Hyper-V and System Center: (03) Virtual Machine Configuration",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-01T17:56:47.4072063Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/e12c/4b176cf3-77a0-4d2a-b07c-54547a77e12c/VirtualizingYourDataCenterWithHyperVAndSystemCent_mid.mp4",
+    "Description": "This module delivers an understanding into creating and managing virtual machines with VMM.  VMM is able to provide a centralized, granular level of control to IT Admins who wish to manage their virtu"
+  },
+  {
+    "VideoId": "56caa83e-2147-4158-a7ad-a2e00150616c",
+    "DataApi": "/Entries(guid'56caa83e-2147-4158-a7ad-a2e00150616c')/",
+    "VideoPageLink": "/Series/Virtualizing-Your-Data-Center-with-Hyper-V-and-System-Center/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/4504/a1165f53-9c58-46f7-b9db-2c87d4244504/VirtualizingYourDataCenterWithHyperVAndSystemCent_960.jpg",
+    "ShowName": "Virtualizing Your Data Center with Hyper-V and System Center",
+    "VideoLength": "00:58:26",
+    "VideoTitle": "Virtualizing Your Data Center with Hyper-V and System Center: (04) Virtual Machine & Service Templates",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-01T17:56:56.3661981Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/4504/a1165f53-9c58-46f7-b9db-2c87d4244504/VirtualizingYourDataCenterWithHyperVAndSystemCent_mid.mp4",
+    "Description": "In this module you will learn how VMM templates are able to provide a final result of combining a series of layers.  You will learn that once an admin has defined a specific type of hardware, it can b"
+  },
+  {
+    "VideoId": "fc06b029-3d16-4b9c-971e-a2e00150c195",
+    "DataApi": "/Entries(guid'fc06b029-3d16-4b9c-971e-a2e00150c195')/",
+    "VideoPageLink": "/Series/Virtualizing-Your-Data-Center-with-Hyper-V-and-System-Center/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/8ca6/5e9318a5-181a-4bdc-a7a7-c6a3ae6c8ca6/VirtualizingYourDataCenterWithHyperVAndSystemCent_960.jpg",
+    "ShowName": "Virtualizing Your Data Center with Hyper-V and System Center",
+    "VideoLength": "00:53:06",
+    "VideoTitle": "Virtualizing Your Data Center with Hyper-V and System Center: (05) Virtualization with the Hybrid Cloud",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2014-03-01T17:57:08.8614151Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/8ca6/5e9318a5-181a-4bdc-a7a7-c6a3ae6c8ca6/VirtualizingYourDataCenterWithHyperVAndSystemCent_mid.mp4",
+    "Description": "In this module you will learn how customers can connect to Windows Azure â€“ utilize the Windows Azure Virtual Networks to provide seamless connectivity into Windows Azure and treat this as extension to"
+  }
+]

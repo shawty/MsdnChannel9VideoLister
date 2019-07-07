@@ -1,0 +1,54 @@
+[
+  {
+    "VideoId": "d1cbe3fe-1f7d-493d-9379-a28801793469",
+    "DataApi": "/Entries(guid'd1cbe3fe-1f7d-493d-9379-a28801793469')/",
+    "VideoPageLink": "/Series/Whats-New-in-Windows-81-for-IT-Pros/02",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/cf79/f8fd36e7-bf8e-4cd6-8bf9-221b830bcf79/WhatsNewWin81ITProsM02_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 for IT Pros",
+    "VideoLength": "00:55:52",
+    "VideoTitle": "Whats New in Windows 8.1 for IT Pros: (02) Windows 8.1 Security",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-03T04:25:03.4015108Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/cf79/f8fd36e7-bf8e-4cd6-8bf9-221b830bcf79/WhatsNewWin81ITProsM02_mid.mp4",
+    "Description": "Windows 8.1 offers a full spectrum of new and improved security capabilities â€“ from devices that can be fully locked down by IT, to remote security options to protect employees and your business in a "
+  },
+  {
+    "VideoId": "2a6785e3-6132-4d26-9d74-a2880179832f",
+    "DataApi": "/Entries(guid'2a6785e3-6132-4d26-9d74-a2880179832f')/",
+    "VideoPageLink": "/Series/Whats-New-in-Windows-81-for-IT-Pros/03",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/5fe2/2f62e53c-f83c-4d56-9f56-a0d180f25fe2/WhatsNewWin81ITProsM03_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 for IT Pros",
+    "VideoLength": "00:42:15",
+    "VideoTitle": "Whats New in Windows 8.1 for IT Pros: (03) Windows 8.1 Deployment",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-03T04:25:46.8579787Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/5fe2/2f62e53c-f83c-4d56-9f56-a0d180f25fe2/WhatsNewWin81ITProsM03_mid.mp4",
+    "Description": "See how IT Professionals can use the tools, such as the Windows Application Compatibility Toolkit (ADK) to facilitate deployment of Windows 8.1, and inventory applications used in your organization to"
+  },
+  {
+    "VideoId": "f0e23b3b-8831-4522-9f55-a288017a2dbc",
+    "DataApi": "/Entries(guid'f0e23b3b-8831-4522-9f55-a288017a2dbc')/",
+    "VideoPageLink": "/Series/Whats-New-in-Windows-81-for-IT-Pros/04",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/7471/9fb63873-6b7e-4c9d-8b05-0776ae267471/WhatsNewWin81ITProsM04_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 for IT Pros",
+    "VideoLength": "00:49:41",
+    "VideoTitle": "Whats New in Windows 8.1 for IT Pros: (04) Windows 8.1 Mobility",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-03T04:26:43.1529647Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/7471/9fb63873-6b7e-4c9d-8b05-0776ae267471/WhatsNewWin81ITProsM04_mid.mp4",
+    "Description": "This module provides an overview of the latest in Windows 8.1 mobility and connectivity. See how new features such Native Miracast Wireless Display allows you to display wirelessly by pairing a Miraca"
+  },
+  {
+    "VideoId": "f49661ed-2897-4bad-ac97-a288017a98a6",
+    "DataApi": "/Entries(guid'f49661ed-2897-4bad-ac97-a288017a98a6')/",
+    "VideoPageLink": "/Series/Whats-New-in-Windows-81-for-IT-Pros/05",
+    "VideoPageThumb": "https://sec.ch9.ms/ch9/f3a7/34519068-9f90-44a8-bc6c-02f1ee6df3a7/WhatsNewWin81ITProsM05_960.jpg",
+    "ShowName": "Whatâ€™s New in Windows 8.1 for IT Pros",
+    "VideoLength": "00:35:36",
+    "VideoTitle": "Whats New in Windows 8.1 for IT Pros: (05) Mobile Device Management",
+    "Author": "JeffKoch",
+    "UtcDateTimePublished": "2013-12-03T04:27:21.8309461Z",
+    "ActualVideoFileLink": "https://sec.ch9.ms/ch9/f3a7/34519068-9f90-44a8-bc6c-02f1ee6df3a7/WhatsNewWin81ITProsM05_mid.mp4",
+    "Description": "This module outlines Microsoft's people-centric solutions for managing the influx of consumer-oriented devices and the work style expectations of their users. Full course outline: Mod 01: Introducing "
+  }
+]
