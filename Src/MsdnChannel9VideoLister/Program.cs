@@ -76,13 +76,18 @@ namespace MsdnChannel9VideoLister
         var aTag = showArticle.QuerySelector("header h3 a");
         var imgTag = showArticle.QuerySelector("a img");
 
+        string displayName = imgTag.Attributes["alt"].Value.Trim();
+        string videosFileName = $"{RemoveBadNameChars(displayName)}.json";
+        videosFileName = ConvertStringToPureAscii(videosFileName).Trim();
+
         results.Add(new MsdnShow()
         {
           DataApi = showArticle.Attributes["data-api"].Value,
-          DisplayName = imgTag.Attributes["alt"].Value.Trim(),
+          DisplayName = displayName,
           Href = aTag.Attributes["href"].Value,
           ThumbHref = imgTag.Attributes["src"].Value,
-          ShowId = new Guid(showArticle.Attributes["data-api"].Value.Replace("/Areas(guid'", "").Replace("')/", ""))
+          ShowId = new Guid(showArticle.Attributes["data-api"].Value.Replace("/Areas(guid'", "").Replace("')/", "")),
+          VideosJsonFile = videosFileName
         });
       }
 
@@ -238,7 +243,7 @@ namespace MsdnChannel9VideoLister
     private static void WriteVideosJson(MsdnShow show, List<MsdnVideo> videos)
     {
       string fileName = $"{outputFolder}\\{RemoveBadNameChars(show.DisplayName)}.json";
-      fileName = ConvertStringToPureAscii(fileName);
+      fileName = ConvertStringToPureAscii(fileName).Trim();
       var settings = new JsonSerializerSettings
       {
         Formatting = Formatting.Indented,
@@ -274,9 +279,19 @@ namespace MsdnChannel9VideoLister
       // To load in an already created JSON Shows file uncomment the next line
       LoadShowsJson();
 
+      // Quick fix 7-7-2019 to update the "Videos Json File" in the shows list already produced
+      // if your building new files from scratch you don't need this :-)
+      foreach(var show in shows)
+      {
+        string fileName = $"{RemoveBadNameChars(show.DisplayName)}.json";
+        fileName = ConvertStringToPureAscii(fileName).Trim();
+        show.VideosJsonFile = fileName;
+      }
+      WriteShowsJson();
+
       // Get videos iterates through the current shows list, and get's the videos for them
       // NOTE: It does NOT get the headline videos, just the regular video list from the main page content
-      GetVideos();
+      //GetVideos();
 
     }
 

@@ -12,5 +12,6 @@ namespace MsdnChannel9VideoLister
     public string Href { get; set; }
     public string ThumbHref { get; set; }
     public Guid ShowId { get; set; }
+    public string VideosJsonFile { get; set; }
   }
 }
