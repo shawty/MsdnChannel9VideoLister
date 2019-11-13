@@ -128,6 +128,14 @@ namespace MsdnChannel9VideoLister
 
         newVideo.DataApi = entry.Attributes["data-api"].Value;
         newVideo.VideoId = new Guid(newVideo.DataApi.Replace("/Entries(guid'", "").Replace("')/", ""));
+
+        var testDiv = entry.FirstElementChild.FirstElementChild;
+        if(testDiv.ClassList.Contains("liveFuture"))
+        {
+          // Video is a future live stream and does not yet have a video page, so we skip it
+          continue;
+        }
+
         newVideo.VideoPageLink = entry.FirstElementChild.FirstElementChild.FirstElementChild.Attributes["href"].Value;
 
         string videoPageLink = $"{siteRoot}{newVideo.VideoPageLink}";
@@ -273,25 +281,25 @@ namespace MsdnChannel9VideoLister
       }
 
       // To create the initial shows list JSON file uncomment the following two lines
-      //GetShows();
-      //WriteShowsJson();
+      GetShows();
+      WriteShowsJson();
 
       // To load in an already created JSON Shows file uncomment the next line
-      LoadShowsJson();
+      //LoadShowsJson();
 
       // Quick fix 7-7-2019 to update the "Videos Json File" in the shows list already produced
       // if your building new files from scratch you don't need this :-)
-      foreach(var show in shows)
-      {
-        string fileName = $"{RemoveBadNameChars(show.DisplayName)}.json";
-        fileName = ConvertStringToPureAscii(fileName).Trim();
-        show.VideosJsonFile = fileName;
-      }
-      WriteShowsJson();
+      //foreach(var show in shows)
+      //{
+      //  string fileName = $"{RemoveBadNameChars(show.DisplayName)}.json";
+      //  fileName = ConvertStringToPureAscii(fileName).Trim();
+      //  show.VideosJsonFile = fileName;
+      //}
+      //WriteShowsJson();
 
       // Get videos iterates through the current shows list, and get's the videos for them
       // NOTE: It does NOT get the headline videos, just the regular video list from the main page content
-      //GetVideos();
+      GetVideos();
 
     }
 
